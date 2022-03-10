@@ -1,0 +1,77 @@
+{
+    "FHIR": [
+        {
+            "version": "4.0.1",
+            "date": "2019-10-30",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes"
+        }
+    ],
+    "WEB_SOURCE": [
+        {
+            "url": "https://www.hl7.org/fhir/datatypes.html",
+            "uri": "http://id.d4k.dk/dataset/source/fhir"
+        }
+    ],
+    "FHIR_DATA_TYPE": [
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding"
+        },
+        {
+            "name": "quantity",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity"
+        }
+    ],
+    "FHIR_DATA_TYPE_PROPERTY": [
+        {
+            "name": "version", 
+            "simple_data_type": "string", 
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity_version"
+        },
+        {
+            "name": "value", 
+            "simple_data_type": "float",  
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity_value"
+        },
+        {
+            "name": "comparator", 
+            "simple_data_type":  "code",  
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity_comparator"
+        },
+        {
+            "name": "unit",
+            "simple_data_type":  "string",  
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity_unit"
+        },
+        {
+            "name": "code",  
+            "simple_data_type":  "code", 
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity_code"
+        },
+        {
+            "name": "system", 
+            "simple_data_type": "string",  
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding_system"
+        },
+        {
+            "name": "display",
+            "simple_data_type":   "string",  
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding_display"
+        },
+        {
+            "name": "user_selected",
+            "simple_data_type":  "boolean",   
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding_user_selected"
+        },
+        {
+            "name": "code", 
+            "simple_data_type": "code",   
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding_code"
+        },
+        {
+            "name": "system",  
+            "simple_data_type": "string", 
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding_system"
+        }
+    ]
+}
