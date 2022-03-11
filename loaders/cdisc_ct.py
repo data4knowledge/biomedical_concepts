@@ -121,9 +121,9 @@ for item in final_results['48']:
                     cl_concept["extensible"] = False
                 cl_concept["notation"] = cl['submissionValue']
                 cl_concept["definition"] = cl['definition']
-                cl_concept["identfier"] = cl['conceptId']
+                cl_concept["identifier"] = cl['conceptId']
                 if "synonyms" in cl:
-                    cl_concept["alt_label"] = cl['synonyms']
+                    cl_concept["alt_label"] = ';'.join(cl['synonyms'])
                 cl_concept["pref_label"] = cl['preferredTerm']
                 nodes["SKOS_CONCEPT"].append(cl_concept)
                 relationships["SKOS_HAS_TOP_CONCEPT"].append({ "from": cs_concept["uri"], "to": cl_concept["uri"] })
@@ -131,10 +131,10 @@ for item in final_results['48']:
                     cli_concept = { "uri": "%s%s/%s-%s" % (instance_ns, k.lower(), cl['conceptId'], cli['conceptId']) }
                     cli_concept["notation"] = cli['submissionValue']
                     cli_concept["definition"] = cli['definition']
-                    cli_concept["identifider"] = cli['conceptId']
+                    cli_concept["identifier"] = cli['conceptId']
                     if "synonyms" in cli:
-                        cli_concept["alt_label"] = cli['synonyms']
-                    cli_concept["preferred_term"] = cli['preferredTerm']
+                        cli_concept["alt_label"] = ';'.join(cli['synonyms'])
+                    cli_concept["pref_label"] = cli['preferredTerm']
                     nodes["SKOS_CONCEPT"].append(cli_concept)
                     relationships["SKOS_NARROWER"].append({ "from": cl_concept["uri"], "to": cli_concept["uri"] })
 
