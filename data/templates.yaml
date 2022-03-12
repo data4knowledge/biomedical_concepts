@@ -6,38 +6,18 @@
     :madatory: true
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD 
+    - :short_name: coding 
       :has_property: 
       - 
         :label: "code"
         :alias: "--TESTCD"
         :is_a: "Test Code"
   :has_items:
-  - :label: "Category Code"
-    :madatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--CAT"
-        :is_a: "Category"
-  - :label: "Subcategory Code"
-    :madatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--SCAT"
-        :is_a: "Sub Category"
   - :label: "Position"
     :madatory: false
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
         :label: "code"
@@ -47,7 +27,7 @@
     :madatory: false
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
         :label: "code"
@@ -57,7 +37,7 @@
     :madatory: false
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
         :label: "code"
@@ -67,7 +47,7 @@
     :madatory: false
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
         :label: "code"
@@ -83,31 +63,11 @@
         :label: "value"
         :alias: "--DTC"
         :is_a: "Date Time of Observation"
-  - :label: "Not Done"
-    :madatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: BL
-      :has_property: 
-      - 
-        :label: "value"
-        :alias: "--STAT"
-        :is_a: "Status"
-  - :label: "Reason Not Done"
-    :madatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--REASND"
-        :is_a: "Reason Not Done"
   - :label: "Result"
     :madatory: true
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: PQR
+    - :short_name: quantity
       :has_property: 
       - 
         :label: "code"
@@ -117,115 +77,7 @@
         :label: "value"
         :alias: "--ORRES"
         :is_a: "Result Value"
-- :label: "Basic Observation CD"
-  :identifier: "BASIC OBS CD"
-  :identified_by: 
-    :label: "Test"
-    :madatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD 
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--TESTCD"
-        :is_a: "Test Code"
-  :has_items:
-  - :label: "Category Code"
-    :madatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--CAT"
-        :is_a: "Category"
-  - :label: "Subcategory Code"
-    :madatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--SCAT"
-        :is_a: "Sub Category"
-  - :label: "Position"
-    :madatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--POS"
-        :is_a: "Position"
-  - :label: "Site of Administration"
-    :madatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--LOC"
-        :is_a: "Location"
-  - :label: "Laterality"
-    :madatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--LAT"
-        :is_a: "Laterality"
-  - :label: "Method"
-    :madatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--METHOD"
-        :is_a: "Method"
-  - :label: "Date Time"
-    :madatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: DATETIME
-      :has_property: 
-      - 
-        :label: "value"
-        :alias: "--DTC"
-        :is_a: "Date Time of Observation"
-  - :label: "Not Done"
-    :madatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: BL
-      :has_property: 
-      - 
-        :label: "value"
-        :alias: "--STAT"
-        :is_a: "Status"
-  - :label: "Reason Not Done"
-    :madatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--REASND"
-        :is_a: "Reason Not Done"
-  - :label: "Result"
-    :madatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
         :label: "code"
@@ -238,38 +90,18 @@
     :mandatory: true
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD 
+    - :short_name: coding 
       :has_property: 
       - 
         :label: "code"
         :alias: "--TESTCD"
         :is_a: "Test Code"
   :has_items:
-  - :label: "Category Code"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--CAT"
-        :is_a: "Category"
-  - :label: "Subcategory Code"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SCAT"
-       :is_a: "Sub Category"
   - :label: "Position"
     :mandatory: false
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
        :label: "code"
@@ -279,7 +111,7 @@
     :mandatory: false
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
        :label: "code"
@@ -289,7 +121,7 @@
     :mandatory: false
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
        :label: "code"
@@ -299,7 +131,7 @@
     :mandatory: false
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
        :label: "code"
@@ -309,7 +141,7 @@
     :mandatory: false
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
        :label: "code"
@@ -325,31 +157,11 @@
        :label: "value"
        :alias: "--DTC"
        :is_a: "Date Time of Observation"
-  - :label: "Not Done"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: BL
-      :has_property: 
-      - 
-       :label: "value"
-       :alias: "--STAT"
-       :is_a: "Status"
-  - :label: "Reason Not Done"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--REASND"
-       :is_a: "Reason Not Done"
   - :label: "Result"
     :mandatory: true
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: PQR
+    - :short_name: quantity
       :has_property: 
       - 
        :label: "value"
@@ -359,175 +171,7 @@
        :label: "code"
        :alias: "--ORRESU"
        :is_a: "Result Units"
-  - :label: "Specimen"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SPEC"
-       :is_a: "Specimen"
-  - :label: "Clinically Significant"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--CLSIG"
-       :is_a: "Clinical Significance"
-  - :label: "Fasting Status"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--FAST"
-       :is_a: "Fasting Status"
-  - :label: "Evaluator"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--EVAL"
-       :is_a: "Performer"
-  - :label: "Evaluator Identifier"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--EVALID"
-       :is_a: "Performer Alias"
-- :label: "Lab CD"
-  :identifier: "LB CD"
-  :identified_by: 
-    :label: "Test"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD 
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--TESTCD"
-        :is_a: "Test Code"
-  :has_items:
-  - :label: "Category Code"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--CAT"
-        :is_a: "Category"
-  - :label: "Subcategory Code"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SCAT"
-       :is_a: "Sub Category"
-  - :label: "Position"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--POS"
-       :is_a: "Position"
-  - :label: "Site of Administration"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--LOC"
-       :is_a: "Location"
-  - :label: "Laterality"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--LAT"
-       :is_a: "Laterality"
-  - :label: "Directionality"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--DIR"
-       :is_a: "Directionality"
-  - :label: "Method"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--METHOD"
-       :is_a: "Method"
-  - :label: "Date Time"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: DATETIME
-      :has_property: 
-      - 
-       :label: "value"
-       :alias: "--DTC"
-       :is_a: "Date Time of Observation"
-  - :label: "Not Done"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: BL
-      :has_property: 
-      - 
-       :label: "value"
-       :alias: "--STAT"
-       :is_a: "Status"
-  - :label: "Reason Not Done"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--REASND"
-       :is_a: "Reason Not Done"
-  - :label: "Result"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
        :label: "code"
@@ -537,471 +181,9 @@
     :mandatory: false
     :enabled: true  
     :has_complex_datatype: 
-    - :short_name: CD
+    - :short_name: coding
       :has_property: 
       - 
        :label: "code"
        :alias: "--SPEC"
        :is_a: "Specimen"
-  - :label: "Clinically Significant"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--CLSIG"
-       :is_a: "Clinical Significance"
-  - :label: "Fasting Status"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--FAST"
-       :is_a: "Fasting Status"
-  - :label: "Evaluator"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--EVAL"
-       :is_a: "Performer"
-  - :label: "Evaluator Identifier"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--EVALID"
-       :is_a: "Performer Alias"
-- :label: "Lab PQR INT"
-  :identifier: "LB PQR INT"
-  :identified_by: 
-    :label: "Test"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD 
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--TESTCD"
-        :is_a: "Test Code"
-  :has_items:
-  - :label: "Category Code"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--CAT"
-        :is_a: "Category"
-  - :label: "Subcategory Code"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SCAT"
-       :is_a: "Sub Category"
-  - :label: "Position"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--POS"
-       :is_a: "Position"
-  - :label: "Site of Administration"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--LOC"
-       :is_a: "Location"
-  - :label: "Laterality"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--LAT"
-       :is_a: "Laterality"
-  - :label: "Directionality"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--DIR"
-       :is_a: "Directionality"
-  - :label: "Method"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--METHOD"
-       :is_a: "Method"
-  - :label: "Date Time"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: DATETIME
-      :has_property: 
-      - 
-       :label: "value"
-       :alias: "--DTC"
-       :is_a: "Date Time of Observation"
-  - :label: "Not Done"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: BL
-      :has_property: 
-      - 
-       :label: "value"
-       :alias: "--STAT"
-       :is_a: "Status"
-  - :label: "Reason Not Done"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--REASND"
-       :is_a: "Reason Not Done"
-  - :label: "Result"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype:
-    - :short_name: PQR_INT
-      :has_property: 
-      - 
-       :label: "value"
-       :alias: "--ORRES"
-       :is_a: "Result Value"
-      - 
-       :label: "code"
-       :alias: "--ORRESU"
-       :is_a: "Result Units"
-  - :label: "Specimen"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SPEC"
-       :is_a: "Specimen"
-  - :label: "Clinically Significant"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--CLSIG"
-       :is_a: "Clinical Significance"
-  - :label: "Fasting Status"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--FAST"
-       :is_a: "Fasting Status"
-  - :label: "Evaluator"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--EVAL"
-       :is_a: "Performer"
-  - :label: "Evaluator Identifier"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--EVALID"
-       :is_a: "Performer Alias"
-- :label: "Event Observation"
-  :identifier: "EVENT OBS"
-  :identified_by: 
-    :label: "Event"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD 
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--TERM"
-        :is_a: "AE Term"
-  :has_items:
-  - :label: "Category Code"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--CAT"
-       :is_a: "Category"
-  - :label: "Subcategory Code"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SCAT"
-       :is_a: "Sub Category"
-  - :label: "Serious Event"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SER"
-       :is_a: "Seriousness"     
-  - :label: "Severity"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SEV"
-       :is_a: "Severity"     
-  - :label: "Causality"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--REL"
-       :is_a: "Relationship"     
-  - :label: "Relationship to Non-Study Treatment"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--RELNST"
-       :is_a: "Relationship to Non-Study Treatment"     
-  - :label: "Action taken"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--ACN"
-       :is_a: "Action Taken"     
-  - :label: "Other Action Taken"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--ACNOTH"
-       :is_a: "Action Taken Extra"     
-  - :label: "Concomitant or Additional Trtmnt Given"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--CONTRT"
-       :is_a: "Concomitant or Additional Trtmnt Given"     
-  - :label: "Outcome"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--OUT"
-       :is_a: "Adverse Event Outcome"     
-  - :label: "Pattern of Event"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--PATT"
-       :is_a: "Pattern"     
-  - :label: "Hospitalization Required"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SHOSP"
-       :is_a: "hospitalization Required"     
-  - :label: "Is Life Threatening"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SLIFE"
-       :is_a: "Life Threatening"     
-  - :label: "Occurred with Overdose"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SOD"
-       :is_a: "Seriousness"             
-  - :label: "Other Medically Important Serious Event"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SMIE"
-       :is_a: "Seriousness"             
-  - :label: "Involves Cancer"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SCAN"
-       :is_a: "Seriousness"             
-  - :label: "Results in Death"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SDTH"
-       :is_a: "Seriousness"             
-  - :label: "Standard Toxicity Grade"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--TOXGR"
-       :is_a: "Standard Toxicity Grade"             
-  - :label: "Start DateTime"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: DATETIME
-      :has_property: 
-      - 
-       :label: "value"
-       :alias: "--STDTC"
-       :is_a: "Start Date Time of Event"
-  - :label: "End DateTime"
-    :mandatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: DATETIME
-      :has_property: 
-      - 
-       :label: "value"
-       :alias: "--ENDTC"
-       :is_a: "End Date Time of Event"
-  - :label: "Location of Event"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--LOC"
-       :is_a: "Location"             
-  - :label: "Congenital Anomaly or Birth Defect"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SCONG"
-       :is_a: "Seriousness"             
-  - :label: "Persist or Signif Disability/Incapacity"
-    :mandatory: false
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: CD
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--DISAB"
-       :is_a: "Seriousness"
