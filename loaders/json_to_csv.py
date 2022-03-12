@@ -27,18 +27,21 @@ for stage in stages:
             data = json.load(json_file)
             for k, v in data.items():
                 csv_filename = "../data/stage_%d_%s_%s.csv" % (stage_number, k.lower(), file_type)
-                with open(csv_filename, mode='w') as csv_file:
+                with open(csv_filename, mode='w', newline='') as csv_file:
                     if file_type == "nodes":
-                        fieldnames = ["id:ID"] + list(v[0].keys())
+                        fields = list(v[0].keys())
+                        #print([s + ":STRING" for s in fields])
+                        #fieldnames = ["id:ID"] + list(v[0].keys())
+                        fieldnames = ["id:ID"] + fields
                     else:
                         fieldnames = [ ":START_ID", ":END_ID" ]
-                    writer = csv.DictWriter(csv_file, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
+                    writer = csv.DictWriter(csv_file, fieldnames=fieldnames, quoting=csv.QUOTE_ALL, lineterminator="\n")
                     writer.writeheader()
                     for row in v:
                         if file_type == "nodes":
                             row["id:ID"] = id_number
                             uri_to_id[row["uri"]] = id_number
-                            print("%s = %s" % (row["uri"], id_number))
+                            #print("%s = %s" % (row["uri"], id_number))
                             id_number += 1
                             writer.writerow(row)
                         else:
