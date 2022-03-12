@@ -32,7 +32,7 @@ for stage in stages:
                         fieldnames = ["id:ID"] + list(v[0].keys())
                     else:
                         fieldnames = [ ":START_ID", ":END_ID" ]
-                    writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+                    writer = csv.DictWriter(csv_file, fieldnames=fieldnames, quoting=csv.QUOTE_ALL)
                     writer.writeheader()
                     for row in v:
                         if file_type == "nodes":
