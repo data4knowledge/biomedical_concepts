@@ -14,6 +14,30 @@ stages = [
         { "filename": "cdisc_ct_sdtm_nodes.json", "type": "nodes" },
         { "filename": "cdisc_ct_sdtm_relationships.json", "type": "relationships" },
     ],
+    [ 
+        { "filename": "cdisc_ct_adam_nodes.json", "type": "nodes" },
+        { "filename": "cdisc_ct_adam_relationships.json", "type": "relationships" },
+    ],
+    [ 
+        { "filename": "cdisc_ct_cdash_nodes.json", "type": "nodes" },
+        { "filename": "cdisc_ct_cdash_relationships.json", "type": "relationships" },
+    ],
+    [ 
+        { "filename": "cdisc_ct_define-xml_nodes.json", "type": "nodes" },
+        { "filename": "cdisc_ct_define-xml_relationships.json", "type": "relationships" },
+    ],
+    [ 
+        { "filename": "cdisc_ct_glossary_nodes.json", "type": "nodes" },
+        { "filename": "cdisc_ct_glossary_relationships.json", "type": "relationships" },
+    ],
+    [ 
+        { "filename": "cdisc_ct_protocol_nodes.json", "type": "nodes" },
+        { "filename": "cdisc_ct_protocol_relationships.json", "type": "relationships" },
+    ],
+    [ 
+        { "filename": "cdisc_ct_send_nodes.json", "type": "nodes" },
+        { "filename": "cdisc_ct_send_relationships.json", "type": "relationships" },
+    ],
 ]
 
 uri_to_id = {}
