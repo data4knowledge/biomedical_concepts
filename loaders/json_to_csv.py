@@ -29,14 +29,14 @@ for stage in stages:
                 csv_filename = "../data/stage_%d_%s_%s.csv" % (stage_number, k.lower(), file_type)
                 with open(csv_filename, mode='w') as csv_file:
                     if file_type == "nodes":
-                        fieldnames = [":ID"] + list(v[0].keys())
+                        fieldnames = ["id:ID"] + list(v[0].keys())
                     else:
                         fieldnames = [ ":START_ID", ":END_ID" ]
                     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
                     writer.writeheader()
                     for row in v:
                         if file_type == "nodes":
-                            row[":ID"] = id_number
+                            row["id:ID"] = id_number
                             uri_to_id[row["uri"]] = id_number
                             print("%s = %s" % (row["uri"], id_number))
                             id_number += 1
