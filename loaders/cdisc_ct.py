@@ -13,10 +13,6 @@ API_KEY = os.getenv('CDISC_API_KEY')
 schema_ns = "http://ontologies.d4k.dk/cdisc/ct#"
 instance_ns = "http://id.d4k.dk/dataset/cdisc/ct/v48/"
 
-# Data for the resuslting JSON files
-nodes = { "SKOS_CONCEPT_SCHEME": [], "SKOS_CONCEPT": [], "API_SOURCE": []}
-relationships = { "SKOS_HAS_TOP_CONCEPT": [], "SKOS_NARROWER": [], "FROM_SOURCE": []}
-
 # Information as to when items within a packahe were introduced or withdrawn.
 introduced = {"ADAM": 19, "CDASH": 19, "COA": 20, "DEFINE-XML": 40, "GLOSSARY": 44, "PROTOCOL": 29, "QRS": 22, "QS-FT": 19,"SDTM": 19, "SEND": 19}
 withdrawn = {"ADAM": None, "CDASH": None, "COA": 22, "DEFINE-XML": None, "GLOSSARY": None, "PROTOCOL": None, "QRS": 24, "QS-FT": 20,"SDTM": None, "SEND": None}
@@ -89,12 +85,13 @@ print('')
 print('')
 
 # 2.1 Use the last version published by CDISC. Hard coded, naughty but it works.
-#     PLace each item within a package into a separate turtle file.
+#     Place each item within a package into a separate json file.
 for item in final_results['48']:
     for k,v in types.items():
         if k in item:    
-            print("K:", k)
-            print("Item:", item[k])
+            # Data for the resuslting JSON files
+            nodes = { "SKOS_CONCEPT_SCHEME": [], "SKOS_CONCEPT": [], "API_SOURCE": []}
+            relationships = { "SKOS_HAS_TOP_CONCEPT": [], "SKOS_NARROWER": [], "FROM_SOURCE": []}
             print("Link:", item[k]['href'])
             api_url = "https://api.library.cdisc.org/api" + item[k]['href']
             headers =  {"Content-Type":"application/json", "api-key": API_KEY}
@@ -138,7 +135,7 @@ for item in final_results['48']:
                     nodes["SKOS_CONCEPT"].append(cli_concept)
                     relationships["SKOS_NARROWER"].append({ "from": cl_concept["uri"], "to": cli_concept["uri"] })
 
-with open('../data/cdisc_ct_nodes.json', 'w') as outfile:
-    json.dump(nodes, outfile)
-with open('../data/cdisc_ct_relationships.json', 'w') as outfile:
-    json.dump(relationships, outfile)
+            with open("../data/cdisc_ct_%s_nodes.json" % (k.lower()), 'w') as outfile:
+                json.dump(nodes, outfile)
+            with open("../data/cdisc_ct_%s_relationships.json" % (k.lower()), 'w') as outfile:
+                json.dump(relationships, outfile)

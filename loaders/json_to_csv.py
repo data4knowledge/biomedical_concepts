@@ -11,8 +11,8 @@ stages = [
         { "filename": "canonical_model_relationships.json", "type": "relationships" },
     ],
     [ 
-        { "filename": "cdisc_ct_nodes.json", "type": "nodes" },
-        { "filename": "cdisc_ct_relationships.json", "type": "relationships" },
+        { "filename": "cdisc_ct_sdtm_nodes.json", "type": "nodes" },
+        { "filename": "cdisc_ct_sdtm_relationships.json", "type": "relationships" },
     ],
 ]
 
