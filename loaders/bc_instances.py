@@ -70,7 +70,6 @@ for filename in files:
                 }
                 nodes["BC_ITEM"].append(record)
                 relationships["HAS_ITEM"].append({"from": base_uri, "to": item_uri})
-                item_uri
                 if ":data_type" in item:
                     for data_type in item[":data_type"]: 
                         name = format_name(data_type[":name"])
@@ -80,7 +79,7 @@ for filename in files:
                             "uri": data_type_uri
                         }
                         nodes["BC_DATA_TYPE"].append(record)
-                        relationships["HAS_DATA_TYPE"].append({"from": parent_uri, "to": item_uri})
+                        relationships["HAS_DATA_TYPE"].append({"from": item_uri, "to": data_type_uri})
                         if ":has_property" in data_type:
                             for property in data_type[":has_property"]: 
                                 name = format_name(property[":name"])
