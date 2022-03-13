@@ -38,6 +38,10 @@ stages = [
         { "filename": "cdisc_ct_send_nodes.json", "type": "nodes" },
         { "filename": "cdisc_ct_send_relationships.json", "type": "relationships" },
     ],
+    [ 
+        { "filename": "bc_templates_nodes.json", "type": "nodes" },
+        { "filename": "bc_templates_relationships.json", "type": "relationships" },
+    ]
 ]
 
 uri_to_id = {}

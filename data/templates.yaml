@@ -1,189 +1,90 @@
 ---
-- :label: "Basic Observation PQR"
-  :identifier: "BASIC OBS PQR"
+- :name: "Base Observation"
   :identified_by: 
-    :label: "Test"
-    :madatory: true
+    :name: "Test"
+    :mandatory: true
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding 
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--TESTCD"
-        :is_a: "Test Code"
+    :data_type: 
+    - :name: coding 
   :has_items:
-  - :label: "Position"
-    :madatory: false
+  - :name: "Position"
+    :mandatory: false
+    :enabled: true
+    :data_type: 
+    - :name: coding
+  - :name: "Site of Administration"
+    :mandatory: false
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--POS"
-        :is_a: "Position"
-  - :label: "Site of Administration"
-    :madatory: false
+    :data_type: 
+    - :name: coding
+  - :name: "Laterality"
+    :mandatory: false
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--LOC"
-        :is_a: "Location"
-  - :label: "Laterality"
-    :madatory: false
+    :canonical: LATERALITY  
+    :data_type: 
+    - :name: coding
+  - :name: "Method"
+    :mandatory: false
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--LAT"
-        :is_a: "Laterality"
-  - :label: "Method"
-    :madatory: false
+    :data_type: 
+    - :name: coding
+  - :name: "Date Time"
+    :mandatory: true
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--METHOD"
-        :is_a: "Method"
-  - :label: "Date Time"
-    :madatory: true
+    :data_type: 
+    - :name: DATETIME
+  - :name: "Result"
+    :mandatory: true
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: DATETIME
-      :has_property: 
-      - 
-        :label: "value"
-        :alias: "--DTC"
-        :is_a: "Date Time of Observation"
-  - :label: "Result"
-    :madatory: true
-    :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: quantity
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--ORRESU"
-        :is_a: "Result Units"
-      - 
-        :label: "value"
-        :alias: "--ORRES"
-        :is_a: "Result Value"
-    - :short_name: coding
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--ORRES"
-        :is_a: "Result Value"
-- :label: "Lab PQR"
-  :identifier: "LB PQR"
+    :data_type: 
+    - :name: quantity
+    - :name: coding
+- :name: "Base Laboratory"
   :identified_by: 
-    :label: "Test"
+    :name: "Test"
     :mandatory: true
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding 
-      :has_property: 
-      - 
-        :label: "code"
-        :alias: "--TESTCD"
-        :is_a: "Test Code"
+    :data_type: 
+    - :name: coding 
   :has_items:
-  - :label: "Position"
+  - :name: "Position"
     :mandatory: false
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--POS"
-       :is_a: "Position"
-  - :label: "Site of Administration"
+    :data_type: 
+    - :name: coding
+  - :name: "Site of Administration"
     :mandatory: false
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--LOC"
-       :is_a: "Location"
-  - :label: "Laterality"
+    :data_type: 
+    - :name: coding
+  - :name: "Laterality"
     :mandatory: false
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--LAT"
-       :is_a: "Laterality"
-  - :label: "Directionality"
+    :data_type: 
+    - :name: coding
+  - :name: "Directionality"
     :mandatory: false
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--DIR"
-       :is_a: "Directionality"
-  - :label: "Method"
+    :data_type: 
+    - :name: coding
+  - :name: "Method"
     :mandatory: false
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--METHOD"
-       :is_a: "Method"
-  - :label: "Date Time"
+    :data_type: 
+    - :name: coding
+  - :name: "Date Time"
     :mandatory: true
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: DATETIME
-      :has_property: 
-      - 
-       :label: "value"
-       :alias: "--DTC"
-       :is_a: "Date Time of Observation"
-  - :label: "Result"
+    :data_type: 
+    - :name: DATETIME
+  - :name: "Result"
     :mandatory: true
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: quantity
-      :has_property: 
-      - 
-       :label: "value"
-       :alias: "--ORRES"
-       :is_a: "Result Value"
-      - 
-       :label: "code"
-       :alias: "--ORRESU"
-       :is_a: "Result Units"
-    - :short_name: coding
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--ORRES"
-       :is_a: "Result Value"
-  - :label: "Specimen"
+    :data_type: 
+    - :name: quantity
+    - :name: coding
+  - :name: "Specimen"
     :mandatory: false
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: coding
-      :has_property: 
-      - 
-       :label: "code"
-       :alias: "--SPEC"
-       :is_a: "Specimen"
+    :data_type: 
+    - :name: coding
