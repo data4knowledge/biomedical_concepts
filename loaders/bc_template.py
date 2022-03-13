@@ -7,14 +7,14 @@ def format_name(name):
     return name
 
 nodes = { "BC_TEMPLATE": [], "BC_ITEM": [], "BC_DATA_TYPE": [], "OTHER_SOURCE": [] }
-relationships = { "HAS_ITEM": [], "HAS_IDENTIFIER": [], "HAS_DATA_TYPE": [], "HAS_SOURCE": []}
+relationships = { "HAS_ITEM": [], "HAS_IDENTIFIER": [], "HAS_DATA_TYPE": [], "FROM_SOURCE": []}
 with open("../data/templates.yaml") as file:
     templates = yaml.load(file, Loader=yaml.FullLoader)
 
     # Source
-    item_uri = "http://id.d4k.dk/dataset/source/bc_template"
+    source_uri = "http://id.d4k.dk/dataset/source/bc_template"
     record = {
-        "uri": item_uri, 
+        "uri": source_uri, 
         "description": "Designed for this project."
     }
     nodes["OTHER_SOURCE"].append(record)
@@ -25,7 +25,7 @@ with open("../data/templates.yaml") as file:
         base_uri = "http://id.d4k.dk/dataset/bc_template/%s" % (uri_name)
         nodes["BC_TEMPLATE"].append({"name": template[":name"], "uri": base_uri})
         
-        relationships["FROM_SOURCE"].append({"from": base_uri, "to": item_uri})
+        relationships["FROM_SOURCE"].append({"from": base_uri, "to": source_uri})
 
         # Identifier Node and Associated Data Type
         name = format_name(template[":identified_by"][":name"])
