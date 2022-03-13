@@ -45,6 +45,10 @@ stages = [
     [ 
         { "filename": "bc_instances_nodes.json", "type": "nodes" },
         { "filename": "bc_instances_relationships.json", "type": "relationships" },
+    ],
+    [ 
+        { "filename": "study_1_nodes.json", "type": "nodes" },
+        { "filename": "study_1_relationships.json", "type": "relationships" },
     ]
 ]
 

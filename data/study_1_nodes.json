@@ -1,7 +1,7 @@
 {
     "STUDY": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/S_1",
+            "uri": "http://id.d4k.dk/dataset/study/1/S_1",
             "study_title": "Umbrella Study of DDR (DNA-Damage Response) Targeting Agents in Advanced Biliary Tract Cancer",
             "study_version": "???",
             "study_tag": "???",
@@ -10,19 +10,19 @@
     ],
     "STUDY_IDENTIFIER": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/SI_1",
+            "uri": "http://id.d4k.dk/dataset/study/1/SI_1",
             "name": "ClinicalTrials.gov",
             "id_type": "RegistryID",
             "org_code": "NCT04298021"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/SI_2",
+            "uri": "http://id.d4k.dk/dataset/study/1/SI_2",
             "name": "ClinicalTrials.gov",
             "id_type": "RegistryID",
             "org_code": "NCT04298023"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/SI_3",
+            "uri": "http://id.d4k.dk/dataset/study/1/SI_3",
             "name": "SponsorNo",
             "id_type": "SponsorID",
             "org_code": "AZ002020202"
@@ -30,19 +30,19 @@
     ],
     "STUDY_TYPE": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/ST_1",
+            "uri": "http://id.d4k.dk/dataset/study/1/ST_1",
             "study_type_classification": "INTERVENTIONAL"
         }
     ],
     "STUDY_PHASE": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/SP_1",
+            "uri": "http://id.d4k.dk/dataset/study/1/SP_1",
             "study_phase_desc": "PHASE II TRIAL"
         }
     ],
     "STUDY_PROTOCOL": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/SPR_1",
+            "uri": "http://id.d4k.dk/dataset/study/1/SPR_1",
             "brief_title": "DDR", 
             "official_title": "Targeting Agents in ABTC",
             "PublicTitle": "DDR-Umbrella Study of DDR (DNA-Damage Response) Targeting Agents in Advanced Biliary Tract Cancer Umbrella ABTC Study",
@@ -52,105 +52,105 @@
     ],
     "INDICATION": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/TI01",
+            "uri": "http://id.d4k.dk/dataset/study/1/TI01",
             "indication_desc": "Bile duct cancer"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/TI02",
+            "uri": "http://id.d4k.dk/dataset/study/1/TI02",
             "indication_desc": "Influenza"
         }
     ],
     "STUDY_DESIGN": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/SD_1"
+            "uri": "http://id.d4k.dk/dataset/study/1/SD_1"
         }
     ],
     "POPULATION": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/P001",
+            "uri": "http://id.d4k.dk/dataset/study/1/P001",
             "population_desc": "biliary tract cancer patients who have failed to 1st-line chemotherapy"
         }
     ],
     "INVESTIGATIONAL_INTERVENTIONS": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/II_1",
+            "uri": "http://id.d4k.dk/dataset/study/1/II_1",
             "intervention_desc": "Olaparibstring"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/II_2",
+            "uri": "http://id.d4k.dk/dataset/study/1/II_2",
             "intervention_desc": "Durvalumab"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/II_3",
+            "uri": "http://id.d4k.dk/dataset/study/1/II_3",
             "intervention_desc": "AZD6738"
         }
     ],
     "CODE": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CD001",
+            "uri": "http://id.d4k.dk/dataset/study/1/CD001",
             "code": "24662006",
             "code_system": "SNOMED-CT",
             "code_system_version": "4.0.6.4",
             "decode": "Influenza due to Influenza virus, type B"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CD002",
+            "uri": "http://id.d4k.dk/dataset/study/1/CD002",
             "code": "1022000",
             "code_system": "MEDDRA",
             "code_system_version": "Nov18_2021",
             "decode": "Influenza"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CD003",
+            "uri": "http://id.d4k.dk/dataset/study/1/CD003",
             "code": "J11.1",
             "code_system": "ICD 10",
             "code_system_version": "",
             "decode": "Influenza due to unidentified influenza virus with other respiratory manifestations"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CD004",
+            "uri": "http://id.d4k.dk/dataset/study/1/CD004",
             "code": "C22.1",
             "code_system": "ICD 10",
             "code_system_version": "",
             "decode": "Intrahepatic bile duct carcinoma"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CD005",
+            "uri": "http://id.d4k.dk/dataset/study/1/CD005",
             "code": "371970002",
             "code_system": "SNOMED-CT",
             "code_system_version": "4.0.6.4",
             "decode": "Primary malignant neoplasm of biliary tract (disorder)"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CD006",
+            "uri": "http://id.d4k.dk/dataset/study/1/CD006",
             "code": "10004596",
             "code_system": "MEDDRA",
             "code_system_version": "Nov18_2021",
             "decode": "Bile duct cancer recurrent"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CD007",
+            "uri": "http://id.d4k.dk/dataset/study/1/CD007",
             "code": "J07BX03",
             "code_system": "ATC 2020",
             "code_system_version": "",
             "decode": "Covid-19 vaccines"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CD008",
+            "uri": "http://id.d4k.dk/dataset/study/1/CD008",
             "code": "L01XC28",
             "code_system": "ATC",
             "code_system_version": "14-12-2021",
             "decode": "Durvalumab"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CD009",
+            "uri": "http://id.d4k.dk/dataset/study/1/CD009",
             "code": "L01XK01",
             "code_system": "ATC",
             "code_system_version": "14-12-2021",
             "decode": "Olaparib"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CD010",
+            "uri": "http://id.d4k.dk/dataset/study/1/CD010",
             "code": "249565666",
             "code_system": "PubChem",
             "code_system_version": "09/02/2021",
@@ -159,38 +159,38 @@
     ],
     "OBJECTIVE": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/OBJ001",
+            "uri": "http://id.d4k.dk/dataset/study/1/OBJ001",
             "objective_desc": "To assess the safety of AZD6738 and Durvalumab combination or AZD6738 and Olaparib combination in biliary tract cancer patients"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/OBJ002",
+            "uri": "http://id.d4k.dk/dataset/study/1/OBJ002",
             "objective_desc": "To assess the effect of AZD6738 and Durvalumab combination or AZD6738 and Olaparib combination in biliary tract cancer patients who have failed to 1st-line chemotherapy and are in second phase of disease"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/OBJ003",
+            "uri": "http://id.d4k.dk/dataset/study/1/OBJ003",
             "objective_desc": "To assess the effect of AZD6738 and Durvalumab combination or AZD6738 and Olaparib combination in biliary tract cancer patients who have failed to 1st-line chemotherapy"
         }
     ],
     "STUDY_ARM": [
-        {   "key": "http://id.d4k.dk/dataset/study/1/ARM02",
+        {   "uri": "http://id.d4k.dk/dataset/study/1/ARM02",
             "study_arm_description": "AZD6738 + Durvalumab",
             "study_arm_name": "DURVALUMAB ADD_ON",
-            "study_arm_tyåe": "TREATMENT ARM"
+            "study_arm_type": "TREATMENT ARM"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/ARM03",
+            "uri": "http://id.d4k.dk/dataset/study/1/ARM03",
             "study_arm_description": "AZD6738 + Olaparib",
             "study_arm_name": "OLAPARIB_ADDON",
             "study_arm_type": "TREATMENT ARM"	
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/ARM04",
+            "uri": "http://id.d4k.dk/dataset/study/1/ARM04",
             "study_arm_description": "AZD6738 + emerging Therapy 1",
             "study_arm_name": "NEW1_ADDON",
             "study_arm_type": "TREATMENT ARM"		
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/ARM05",
+            "uri": "http://id.d4k.dk/dataset/study/1/ARM05",
             "study_arm_description": "AZD6738 + emerging Therapy 2",
             "study_arm_name": "NEW2_ADDON",
             "study_arm_type": "TREATMENT ARM"
@@ -198,42 +198,42 @@
     ],
     "STUDY_EPOCH": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/EPO004",
+            "uri": "http://id.d4k.dk/dataset/study/1/EPO004",
             "study_epoch_desc":	"Screening",
             "study_epoch_name":	"SCREEN",
             "study_epoch_type":	"Screening",
             "sequence_in_study": 1
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/EPO005",
+            "uri": "http://id.d4k.dk/dataset/study/1/EPO005",
             "study_epoch_desc":	"Run-In",
             "study_epoch_name":	"RUN-IN",
             "study_epoch_type":	"Run-IN",
             "sequence_in_study": 2
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/EPO006",
+            "uri": "http://id.d4k.dk/dataset/study/1/EPO006",
             "study_epoch_desc":	"Treatment Cycle 1",
             "study_epoch_name":	"TREATMENT",
             "study_epoch_type":	"Treatment 1",
             "sequence_in_study": 3
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/EPO007",
+            "uri": "http://id.d4k.dk/dataset/study/1/EPO007",
             "study_epoch_desc":	"Treatment Cycle 2",
             "study_epoch_name":	"TREATMENT",
             "study_epoch_type":	"Treatment 2",
             "sequence_in_study": 4
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/EPO008",
+            "uri": "http://id.d4k.dk/dataset/study/1/EPO008",
             "study_epoch_desc":	"Following Cycles",
             "study_epoch_name":	"TREATMENT",
             "study_epoch_type":	"Treatment X",
             "sequence_in_study": 5
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/EPO009",
+            "uri": "http://id.d4k.dk/dataset/study/1/EPO009",
             "study_epoch_desc":	"Follow-up",
             "study_epoch_name":	"FOLLOW-UP",
             "study_epoch_type":	"Follow-up",
@@ -242,194 +242,194 @@
     ],
     "STUDY_ELEMENT": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/EL004",
+            "uri": "http://id.d4k.dk/dataset/study/1/EL004",
             "study_element_desc": "Screening",
             "study_element_name": "SCREENING"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/EL005",
+            "uri": "http://id.d4k.dk/dataset/study/1/EL005",
             "study_element_desc": "AZD6738 + Durvalumab",
             "study_element_name": "AZD_DRUV"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/EL006",
+            "uri": "http://id.d4k.dk/dataset/study/1/EL006",
             "study_element_desc": "AZD6738 + Olaparib",
             "study_element_name": "AZD_OLA"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/EL007",
+            "uri": "http://id.d4k.dk/dataset/study/1/EL007",
             "study_element_desc": "Follow-up",
             "study_element_name": "FOLLOW-UP"
         }
     ],
     "RULE": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE1",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE1",
             "rule_desc": "6 weeks prior to start treatment"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE2",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE2",
             "rule_desc": "Start of treatment"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE3",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE3",
             "rule_desc": "Start of treatment"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE4",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE4",
             "rule_desc": "End of last treatment day"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE5",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE5",
             "rule_desc": "Start of treatment"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE6",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE6",
             "rule_desc": "End of last treatment day"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE7",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE7",
             "rule_desc": "End of last treatment day"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE8",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE8",
             "rule_desc": "Last follow-up measurement"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE09",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE09",
             "rule_desc": "-D5"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE10",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE10",
             "rule_desc": "-D3"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE11",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE11",
             "rule_desc": "-D1"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE12",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE12",
             "rule_desc": "D1"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE13",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE13",
             "rule_desc": "D3"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE14",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE14",
             "rule_desc": "D5"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE15",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE15",
             "rule_desc": "D1"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE16",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE16",
             "rule_desc": "D3"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE17",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE17",
             "rule_desc": "D1"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE18",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE18",
             "rule_desc": "D4"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE19",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE19",
             "rule_desc": "W2"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE20",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE20",
             "rule_desc": "W4"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE21",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE21",
             "rule_desc": "-D5"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE22",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE22",
             "rule_desc": "-D3"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE23",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE23",
             "rule_desc": "-D1"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE24",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE24",
             "rule_desc": "D1"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE25",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE25",
             "rule_desc": "D3"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE26",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE26",
             "rule_desc": "D5"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE27",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE27",
             "rule_desc": "D1"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE28",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE28",
             "rule_desc": "D3"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE29",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE29",
             "rule_desc": "D1"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE30",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE30",
             "rule_desc": "D4"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE31",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE31",
             "rule_desc": "W2"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/RULE32",
+            "uri": "http://id.d4k.dk/dataset/study/1/RULE32",
             "rule_desc": "W4"
         }
     ],
     "STUDY_CELL": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CEL004"
+            "uri": "http://id.d4k.dk/dataset/study/1/CEL004"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CEL005"
+            "uri": "http://id.d4k.dk/dataset/study/1/CEL005"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CEL006"
+            "uri": "http://id.d4k.dk/dataset/study/1/CEL006"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CEL007"
+            "uri": "http://id.d4k.dk/dataset/study/1/CEL007"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CEL008"
+            "uri": "http://id.d4k.dk/dataset/study/1/CEL008"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CEL009"
+            "uri": "http://id.d4k.dk/dataset/study/1/CEL009"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CEL010"
+            "uri": "http://id.d4k.dk/dataset/study/1/CEL010"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CEL011"
+            "uri": "http://id.d4k.dk/dataset/study/1/CEL011"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CEL012"
+            "uri": "http://id.d4k.dk/dataset/study/1/CEL012"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CEL013"
+            "uri": "http://id.d4k.dk/dataset/study/1/CEL013"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/CEL014"
+            "uri": "http://id.d4k.dk/dataset/study/1/CEL014"
         }
     ],
     "VISIT": [
         {    
-            "key": "http://id.d4k.dk/dataset/study/1/VIS11",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS11",
             "number": "001",
             "name": "SCREENING VISIT",
             "contact_mode": "IN PERSON",
@@ -437,7 +437,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS12",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS12",
             "number": "002",
             "name": "RUN-IN VISIT 1",
             "contact_mode": "IN PERSON",
@@ -445,7 +445,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS13",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS13",
             "number": "003",
             "name": "RUN-IN VISIT 2",
             "contact_mode": "IN PERSON",
@@ -453,7 +453,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS14",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS14",
             "number": "004",
             "name": "RUN-IN VISIT 3",
             "contact_mode": "IN PERSON",
@@ -461,7 +461,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS15",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS15",
             "number": "005",
             "name": "CYCLE 1, TREATMENT DAY 1",
             "contact_mode": "IN PERSON",
@@ -469,7 +469,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS16",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS16",
             "number": "006",
             "name": "CYCLE 1, TREATMENT DAY 3",
             "contact_mode": "IN PERSON",
@@ -477,7 +477,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS17",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS17",
             "number": "007",
             "name": "CYCLE 1, TREATMENT DAY 5",
             "contact_mode": "IN PERSON",
@@ -485,7 +485,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS18",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS18",
             "number": "008",
             "name": "CYCLE 2, TREATMENT DAY 1",
             "contact_mode": "IN PERSON",
@@ -493,7 +493,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS19",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS19",
             "number": "009",
             "name": "CYCLE 2, TREATMENT DAY 3",
             "contact_mode": "IN PERSON",
@@ -501,7 +501,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS20",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS20",
             "number": "010",
             "name": "CYCLE X, TREATMENT DAY 1",
             "contact_mode": "IN PERSON",
@@ -509,7 +509,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS21",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS21",
             "number": "011",
             "name": "CYCLE X, TREATMENT DAY 4",
             "contact_mode": "IN PERSON",
@@ -517,7 +517,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS22",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS22",
             "number": "012",
             "name": "FU 1",
             "contact_mode": "IN PERSON",
@@ -525,7 +525,7 @@
             "encounter_type": "PLANNED VISIT"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/VIS23",
+            "uri": "http://id.d4k.dk/dataset/study/1/VIS23",
             "number": "013",
             "name": "FU 2",
             "contact_mode": "REMOTE AUDIO",
@@ -533,266 +533,266 @@
         }
     ],
     "WORKFLOW_ITEM": [
-        { "key": "http://id.d4k.dk/dataset/study/1/WF001" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF002" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF003" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF004" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF005" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF006" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF007" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF008" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF009" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF010" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF011" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF012" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF013" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF014" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF015" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF016" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF017" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF018" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF019" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF020" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF021" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF022" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF023" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF024" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF025" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF026" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF027" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF028" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF029" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF030" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF031" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF032" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF033" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF034" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF035" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF036" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF037" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF038" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF039" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF040" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF041" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF042" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF043" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF044" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF045" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF046" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF047" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF048" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF049" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF050" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF051" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF052" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF053" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF054" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF055" },
-        { "key": "http://id.d4k.dk/dataset/study/1/WF056" }
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF001" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF002" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF003" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF004" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF005" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF006" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF007" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF008" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF009" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF010" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF011" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF012" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF013" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF014" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF015" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF016" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF017" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF018" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF019" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF020" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF021" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF022" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF023" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF024" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF025" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF026" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF027" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF028" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF029" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF030" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF031" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF032" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF033" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF034" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF035" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF036" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF037" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF038" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF039" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF040" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF041" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF042" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF043" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF044" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF045" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF046" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF047" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF048" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF049" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF050" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF051" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF052" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF053" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF054" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF055" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF056" }
     ],
     "ACTIVITY": [
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT001",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT001",
             "description": "Informed consent"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT002",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT002",
             "description": "Eligibility criteria"
         },		
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT003",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT003",
             "description": "Demography"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT004",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT004",
             "description": "Medical history"
         },	
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT005",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT005",
             "description": "Disease characteristics"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT006",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT006",
             "description": "Physical exam"
         },		
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT007",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT007",
             "description": "Height"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT008",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT008",
             "description": "12-lead ECG"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT009",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT009",
             "description": "Hematology (predose)"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT010",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT010",
             "description": "Chemistry (predose)"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT011",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT011",
             "description": "Serology"
         },	
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT012",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT012",
             "description": "Urinalysis"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT013",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT013",
             "description": "Pregnancy test"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT014",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT014",
             "description": "Ensure availability of medication X"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT015",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT015",
             "description": "Hospitalization"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT016",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT016",
             "description": "Weight"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT017",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT017",
             "description": "Vital signs"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT018",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT018",
             "description": "adverse events"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/ACT019",
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT019",
             "description": "Concomitant medications"
         }
     ],
     "PROCEDURE": [
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/PROC001",
+            "uri": "http://id.d4k.dk/dataset/study/1/PROC001",
             "description": "Remote ICF collection"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/PROC002",
+            "uri": "http://id.d4k.dk/dataset/study/1/PROC002",
             "description": "Blood sample collection"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/PROC003",
+            "uri": "http://id.d4k.dk/dataset/study/1/PROC003",
             "description": "Blood sample analysis"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/PROC004",
+            "uri": "http://id.d4k.dk/dataset/study/1/PROC004",
             "description": "Drug administration"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/PROC005",
+            "uri": "http://id.d4k.dk/dataset/study/1/PROC005",
             "description": "Hospitalisation"
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/PROC006",
+            "uri": "http://id.d4k.dk/dataset/study/1/PROC006",
             "description": "Weight measurement"
         }
     ],
     "STUDY_DATA": [
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD001",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD001",
             "name": "ALAT",
             "description": "",
-            "ecrf_link": "https://www.dropbox.com/s/84quxhfj254k2sh/LB_LOCAL_XML.xml?dl=1"
+            "ecrf_link": ""
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD002",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD002",
             "name": "ASAT",
             "description": "",
             "ecrf_link": ""
         },
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD003",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD003",
             "name": "ERY",
             "description": "Erythrocytes",
             "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD004",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD004",
             "name": "WBC",
             "description": "White blood cell count",
             "ecrf_link": ""
         },  
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD005",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD005",
             "name": "DOSDATE",
             "description": "Date of investigational drug administration",
             "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD006",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD006",
             "name": "WGHT",
             "description": "Weight",
-            "ecrf_link": "https://www.dropbox.com/s/b2mfhiri5a5z34t/weight.yaml?dl=1"
+            "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD007",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD007",
             "name": "AGE",
             "description": "Age",
-            "ecrf_link": "https://www.dropbox.com/s/7m1vxxxauxe0c97/DM_XML.xml?dl=1"
+            "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD008",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD008",
             "name": "OAS",
             "description": "Oncology Assessment Scale",
             "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD009",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD009",
             "name": "DPS",
             "description": "Disease Progression Scale",
             "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD010",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD010",
             "name": "TSO",
             "description": "Time since onset",
             "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD011",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD011",
             "name": "HGT",
             "description": "Height",
-            "ecrf_link": "https://www.dropbox.com/s/42dhfj2ani8rfjd/height.yaml?dl=1"
+            "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD012",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD012",
             "name": "QTc",
             "description": "QTc interval",
             "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD013",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD013",
             "name": "ST",
             "description": "St-segment",
             "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD014",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD014",
             "name": "WBC_DIP",
             "description": "WBC dipstick",
             "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD015",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD015",
             "name": "HCG",
             "description": "Serum HCG",
             "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD016",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD016",
             "name": "SBP",
             "description": "Systolic blood pressure",
             "ecrf_link": ""
         },   
         {   
-            "key": "http://id.d4k.dk/dataset/study/1/SD017",
+            "uri": "http://id.d4k.dk/dataset/study/1/SD017",
             "name": "DBP",
             "description": "Diastolic Blood Pressure",
             "ecrf_link": ""
@@ -800,85 +800,85 @@
     ],
     "ENDPOINT": [
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E001", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E001", 
             "endpoint_desc": "Disease control rate of AZD6738 + Durvalumab cohort [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "PRIMARY",
             "endpoint_purpose": "EFFICACY"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E002", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E002", 
             "endpoint_desc": "Disease control rate of AZD6738 + Olaparib cohort [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "PRIMARY",
             "endpoint_purpose": "EFFICACY"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E003", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E003", 
             "endpoint_desc": "Overall response rate of AZD6738 + Durvalumab cohort [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "EFFICACY"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E004", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E004", 
             "endpoint_desc": "progression-free survival of AZD6738 + Durvalumab cohort [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "EFFICACY"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E005", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E005", 
             "endpoint_desc": "duration of response of AZD6738 + Durvalumab cohort [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "PHARMACODYNAMIC"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E006", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E006", 
             "endpoint_desc": "overall survival of response of AZD6738 + Durvalumab cohort [ Time Frame: every 12 weeks until death or up to 5 years ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "EFFICACY"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E007", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E007", 
             "endpoint_desc": "Safety and tolerability of AZD6738 + Durvalumab cohort measured by number and grade of toxicity events [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "SAFETY"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E008", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E008", 
             "endpoint_desc": "quality of life measurement of AZD6738 + Durvalumab cohort [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "EFFICACY"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E009", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E009", 
             "endpoint_desc": "overall response rate (ORR) of AZD6738 + Olaparib cohort [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "EFFICACY"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E010", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E010", 
             "endpoint_desc": "progression-free survival of AZD6738 + Olaparib cohort [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "EFFICACY"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E011", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E011", 
             "endpoint_desc": "duration of response of AZD6738 + Olaparib cohort [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "PHARMACODYNAMIC"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E012", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E012", 
             "endpoint_desc": "overall survival of AZD6738 + Olaparib cohort [ Time Frame: every 12 weeks until death or up to 5 years ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "EFFICACY"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E013", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E013", 
             "endpoint_desc": "Safety and tolerability of AZD6738 + Olaparib cohort as measured by number and grade of toxicity events [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "SAFETY"
         },
         {
-            "key": "http://id.d4k.dk/dataset/study/1/E014", 
+            "uri": "http://id.d4k.dk/dataset/study/1/E014", 
             "endpoint_desc": "quality of life measurement of AZD6738 + Olaparib cohort [ Time Frame: through study completion, an average of 1 year ]",
             "outcome_level": "SECONDARY",
             "endpoint_purpose": "EFFICACY"

@@ -11,8 +11,7 @@
         {"from": "http://id.d4k.dk/dataset/study/1/S_1", "to": "http://id.d4k.dk/dataset/study/1/SP_1"}
     ],
     "HAS_PROTOCOL": [
-        {"from": "http://id.d4k.dk/dataset/study/1/S_1", "to": "http://id.d4k.dk/dataset/study/1/SPR_1"},
-        {"from": "http://id.d4k.dk/dataset/study/1/XXX3", "to": "http://id.d4k.dk/dataset/study/1/PR04"}
+        {"from": "http://id.d4k.dk/dataset/study/1/S_1", "to": "http://id.d4k.dk/dataset/study/1/SPR_1"}
     ],
     "HAS_STUDY_DESIGN": [
         {"from": "http://id.d4k.dk/dataset/study/1/S_1", "to": "http://id.d4k.dk/dataset/study/1/SD_1"}
@@ -236,7 +235,6 @@
         { "from": "http://id.d4k.dk/dataset/study/1/WF038", "to": "http://id.d4k.dk/dataset/study/1/VIS15" },
         { "from": "http://id.d4k.dk/dataset/study/1/WF039", "to": "http://id.d4k.dk/dataset/study/1/VIS18" },
         { "from": "http://id.d4k.dk/dataset/study/1/WF040", "to": "http://id.d4k.dk/dataset/study/1/VIS20" },
-        { "from": "http://id.d4k.dk/dataset/study/1/WF041", "to": "http://id.d4k.dk/dataset/study/1/VIS01" },
         { "from": "http://id.d4k.dk/dataset/study/1/WF042", "to": "http://id.d4k.dk/dataset/study/1/VIS15" },
         { "from": "http://id.d4k.dk/dataset/study/1/WF043", "to": "http://id.d4k.dk/dataset/study/1/VIS18" },
         { "from": "http://id.d4k.dk/dataset/study/1/WF044", "to": "http://id.d4k.dk/dataset/study/1/VIS22" },
@@ -341,5 +339,8 @@
         {"from": "http://id.d4k.dk/dataset/study/1/II_2", "to": "http://id.d4k.dk/dataset/study/1/CD008" },
         {"from": "http://id.d4k.dk/dataset/study/1/II_1", "to": "http://id.d4k.dk/dataset/study/1/CD009" },
         {"from": "http://id.d4k.dk/dataset/study/1/II_2", "to": "http://id.d4k.dk/dataset/study/1/CD010" }
+    ],
+    "BC_DEFINITION": [
+        { "from": "http://id.d4k.dk/dataset/study/1/SD006", "to": "http://id.d4k.dk/dataset/bc_instance/weight" }
     ]
 }
