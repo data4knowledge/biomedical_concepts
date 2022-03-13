@@ -33,27 +33,52 @@ for filename in files:
             relationships["FROM_SOURCE"].append({"from": base_uri, "to": source_uri})
 
             # Identifier Node and Associated Data Type
-            name = format_name(instance[":identified_by"][":name"])
+            item = instance[":identified_by"]
+            name = format_name(item[":name"])
             item_uri = "%s/%s" % (base_uri, name)
             record = {
-                "name": instance[":identified_by"][":name"], 
-                "collect": instance[":identified_by"][":collect"],
-                "enabled": instance[":identified_by"][":enabled"],
+                "name": item[":name"], 
+                "collect": item[":collect"],
+                "enabled": item[":enabled"],
                 "uri": item_uri
             }
             nodes["BC_ITEM"].append(record)
             relationships["HAS_ITEM"].append({"from": base_uri, "to": item_uri})
             relationships["HAS_IDENTIFIER"].append({"from": base_uri, "to": item_uri})
 
-            parent_uri = item_uri
-            name = format_name(instance[":identified_by"][":data_type"][0][":name"])
-            item_uri = "%s/%s" % (parent_uri, name)
-            record = {
-                "name": instance[":identified_by"][":data_type"][0][":name"],
-                "uri": item_uri
-            }
-            nodes["BC_DATA_TYPE"].append(record)
-            relationships["HAS_DATA_TYPE"].append({"from": parent_uri, "to": item_uri})
+            if ":data_type" in item:
+                for data_type in item[":data_type"]: 
+                    name = format_name(data_type[":name"])
+                    data_type_uri = "%s/%s" % (item_uri, name)
+                    record = {
+                        "name": data_type[":name"],
+                        "uri": data_type_uri
+                    }
+                    nodes["BC_DATA_TYPE"].append(record)
+                    relationships["HAS_DATA_TYPE"].append({"from": item_uri, "to": data_type_uri})
+                    if ":has_property" in data_type:
+                        for property in data_type[":has_property"]: 
+                            name = format_name(property[":name"])
+                            property_uri = "%s/%s" % (data_type_uri, name)
+                            record = {
+                                "name": property[":name"],
+                                "value": property[":value"],
+                                "uri": property_uri
+                            }
+                            nodes["BC_DATA_PROPERTY"].append(record)
+                            relationships["HAS_DATA_PROPERTY"].append({"from": data_type_uri, "to": property_uri})
+                            if ":value_set" in property:
+                                for term in property[":value_set"]: 
+                                    cl = format_name(term[":cl"])
+                                    cli = format_name(term[":cli"])
+                                    term_uri = "%s/%s-%s" % (property_uri, cl, cli)
+                                    record = {
+                                        "cl": cl,
+                                        "value": cli,
+                                        "uri": term_uri
+                                    }
+                                    nodes["BC_VALUE_SET"].append(record)
+                                    relationships["HAS_RESPONSE"].append({"from": property_uri, "to": term_uri})
 
             # Now all the items
             for item in instance[":has_items"]: 

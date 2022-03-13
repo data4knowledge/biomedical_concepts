@@ -51,6 +51,26 @@
     ],
     "HAS_DATA_PROPERTY": [
         {
+            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/system"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/version"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/display"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/user_selected"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity",
             "to": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/value"
         },
@@ -68,6 +88,10 @@
         }
     ],
     "HAS_RESPONSE": [
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code",
+            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code/c66741-c25208"
+        },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code",
             "to": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code/c66770-c28252"

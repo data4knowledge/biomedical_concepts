@@ -10,20 +10,20 @@
     - 
       :name: coding
       :has_property: 
-      - :name: "version"
-        :value: ""
       - :name: "system"
         :value: ""
-      - :name: "user_selected"
-        :value: false
-      - :name: "display"
-        :value": ""
-      - :name: "coding"
+      - :name: "version"
+        :value: ""
+      - :name: "code"
         :value: ""
         :value_set:
         - 
           :cl: C66741
           :cli: C25208
+      - :name: "display"
+        :value: ""
+      - :name: "user_selected"
+        :value: false
   :has_items:
   - :name: "Date Time"
     :enabled: true  

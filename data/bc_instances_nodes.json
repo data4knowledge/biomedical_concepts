@@ -65,6 +65,31 @@
     ],
     "BC_DATA_PROPERTY": [
         {
+            "name": "system",
+            "value": "",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/system"
+        },
+        {
+            "name": "version",
+            "value": "",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/version"
+        },
+        {
+            "name": "code",
+            "value": "",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code"
+        },
+        {
+            "name": "display",
+            "value": "",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/display"
+        },
+        {
+            "name": "user_selected",
+            "value": false,
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/user_selected"
+        },
+        {
             "name": "value",
             "value": "",
             "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/value"
@@ -86,6 +111,11 @@
         }
     ],
     "BC_VALUE_SET": [
+        {
+            "cl": "c66741",
+            "value": "c25208",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code/c66741-c25208"
+        },
         {
             "cl": "c66770",
             "value": "c28252",
