@@ -74,7 +74,7 @@ for filename in files:
                                     term_uri = "%s/%s-%s" % (property_uri, cl, cli)
                                     record = {
                                         "cl": cl,
-                                        "value": cli,
+                                        "cli": cli,
                                         "uri": term_uri
                                     }
                                     nodes["BC_VALUE_SET"].append(record)
@@ -123,7 +123,7 @@ for filename in files:
                                         term_uri = "%s/%s-%s" % (property_uri, cl, cli)
                                         record = {
                                             "cl": cl,
-                                            "value": cli,
+                                            "cli": cli,
                                             "uri": term_uri
                                         }
                                         nodes["BC_VALUE_SET"].append(record)
