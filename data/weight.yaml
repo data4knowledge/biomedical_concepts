@@ -7,7 +7,7 @@
     :enabled: true 
     :collect: false 
     :data_type: 
-     - 
+    - 
       :name: coding
       :has_property: 
       - :name: "version"
@@ -45,9 +45,9 @@
       :has_property: 
       - :name: "value"
         :value: ""
-      - :name: "system"
-        :value: ""
       - :name: "unit"
+        :value: ""
+      - :name: "system"
         :value: ""
       - :name: "code"
         :value: ""
