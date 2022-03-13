@@ -1,71 +1,57 @@
 ---
 #WEIGHT
-- :label: "Weight"
-  :identifier: "WEIGHT"
-  :based_on: http://www.s-cubed.dk/BASIC_OBS_PQR/V1#BCT
+- :name: "Weight"
+  :based_on: "Base Observation"
   :identified_by: 
-    :label: "Test"
+    :name: "Test"
     :enabled: true 
     :collect: false 
-    :has_complex_datatype: 
+    :data_type: 
      - 
-      :short_name: CD 
+      :name: coding
       :has_property: 
-      -
-        :label: "code"
-        :question_text: ""
-        :prompt_text: ""
-        :format: "8"
-        :has_coded_value:
+      - :name: "version"
+        :value: ""
+      - :name: "system"
+        :value: ""
+      - :name: "user_selected"
+        :value: false
+      - :name: "display"
+        :value": ""
+      - :name: "coding"
+        :value: ""
+        :value_set:
         - 
           :cl: C66741
           :cli: C25208
-      
   :has_items:
-  - :label: "Date Time"
+  - :name: "Date Time"
     :enabled: true  
-    :has_complex_datatype: 
-    - :short_name: DATETIME
-      :has_property: 
-      - 
-        :label: "value"
-        :question_text: "Date and time"
-        :prompt_text: "Date Time"
-        :format: ""  
-  - :label: "Category Code"
+    :data_type: 
+    - :name: DATETIME
+  - :name: "Position"
     :enabled: false
-  - :label: "Subcategory Code"
+  - :name: "Site of Administration"
     :enabled: false
-  - :label: "Position"
+  - :name: "Laterality"
     :enabled: false
-  - :label: "Site of Administration"
-    :enabled: false
-  - :label: "Laterality"
-    :enabled: false
-  - :label: "Method"
+  - :name: "Method"
     :enabled: false 
-  - :label: "Not Done"
-    :enabled: false
-  - :label: "Reason Not Done"
-    :enabled: false 
-  - :label: "Result"
+  - :name: "Result"
     :enabled: true  
-    :has_complex_datatype: 
+    :data_type: 
     - 
-      :short_name: PQR
+      :name: quantity
       :has_property: 
-      - 
-        :label: "value"
-        :question_text: "Result"
-        :prompt_text: "Weight"
-        :format: "5.1"
-        :has_coded_value: []
-      - 
-        :label: "code"
-        :question_text: "Unit"
-        :prompt_text: "Unit"
-        :format: "20"
-        :has_coded_value:
+      - :name: "value"
+        :value: ""
+      - :name: "system"
+        :value: ""
+      - :name: "unit"
+        :value: ""
+      - :name: "code"
+        :value: ""
+        :value_set:
         - 
           :cl: C66770
           :cli: C28252
