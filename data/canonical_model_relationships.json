@@ -85,5 +85,18 @@
         { "from": "http://id.d4k.dk/dataset/canonical/n158", "to": "http://id.d4k.dk/dataset/canonical/n161" },
         { "from": "http://id.d4k.dk/dataset/canonical/n161", "to": "http://id.d4k.dk/dataset/canonical/n160" },
         { "from": "http://id.d4k.dk/dataset/canonical/n152", "to": "http://id.d4k.dk/dataset/canonical/n21" }
+    ],
+    "HAS_SUB_MODEL": [
+        { "from": "http://id.d4k.dk/dataset/canonical", "to": "http://id.d4k.dk/dataset/canonical/n66" },
+        { "from": "http://id.d4k.dk/dataset/canonical", "to": "http://id.d4k.dk/dataset/canonical/n43" },
+        { "from": "http://id.d4k.dk/dataset/canonical", "to": "http://id.d4k.dk/dataset/canonical/n107" }
+    ],
+    "FROM_SOURCE": [
+        { "from": "http://id.d4k.dk/dataset/canonical", "to": "http://id.d4k.dk/dataset/source/canonical" }
+    ],
+    "HAS_DATA_TYPE": [
+        { "from": "http://id.d4k.dk/dataset/canonical/n8", "to": "http://id.d4k.dk/dataset/canonical/n8/coding" },
+        { "from": "http://id.d4k.dk/dataset/canonical/n9", "to": "http://id.d4k.dk/dataset/canonical/n9/coding"  },
+        { "from": "http://id.d4k.dk/dataset/canonical/n18", "to": "http://id.d4k.dk/dataset/canonical/n18/coding" }
     ]
 }

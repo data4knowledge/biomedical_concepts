@@ -1,119 +1,108 @@
 {
+    "CANONICAL_MODEL": [
+        {
+            "uri": "http://id.d4k.dk/dataset/canonical",
+            "name": "CANONICAL MODEL"
+        }
+    ],
+    "OTHER_SOURCE": [
+        {
+            "uri": "http://id.d4k.dk/dataset/source/canonical",
+            "description": "Designed for this project."
+        }
+    ],
     "CANONICAL_NODE": [
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n1",
-            "name": "SINGLE DOSE",
-            "data_type": ""
+            "name": "SINGLE DOSE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n2",
-            "name": "DATE & TIME",
-            "data_type": ""
+            "name": "DATE & TIME"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n3",
-            "name": "LOCATION",
-            "data_type": ""
+            "name": "LOCATION"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n4",
-            "name": "TREATMENT",
-            "data_type": ""
+            "name": "TREATMENT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n7",
-            "name": "THERAPEUTIC INTERVENTION",
-            "data_type": ""
+            "name": "THERAPEUTIC INTERVENTION"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n8",
-            "name": "LATERALITY",
-            "data_type": "coding"
+            "name": "LATERALITY"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n9",
-            "name": "DIRECTIONALITY",
-            "data_type": "coding"
+            "name": "DIRECTIONALITY"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n12",
-            "name": "ROUTE",
-            "data_type": ""
+            "name": "ROUTE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n13",
-            "name": "METHOD",
-            "data_type": ""
+            "name": "METHOD"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n14",
-            "name": "STANDARD NAME",
-            "data_type": ""
+            "name": "STANDARD NAME"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n17",
-            "name": "FREQUENCY",
-            "data_type": ""
+            "name": "FREQUENCY"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n18",
-            "name": "PORTION",
-            "data_type": "coding"
+            "name": "PORTION"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n19",
-            "name": "FORM",
-            "data_type": ""
+            "name": "FORM"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n20",
-            "name": "TREATMENT VEHICLE",
-            "data_type": ""
+            "name": "TREATMENT VEHICLE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n21",
-            "name": "CATEGORY",
-            "data_type": ""
+            "name": "CATEGORY"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n22",
-            "name": "SUB CATEGORY",
-            "data_type": ""
+            "name": "SUB CATEGORY"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n23",
-            "name": "RAW",
-            "data_type": ""
+            "name": "RAW"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n24",
-            "name": "AMENDED",
-            "data_type": ""
+            "name": "AMENDED"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n25",
-            "name": "DESCRIPTION",
-            "data_type": ""
+            "name": "DESCRIPTION"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n26",
-            "name": "CLASS",
-            "data_type": ""
+            "name": "CLASS"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n27",
-            "name": "CLASS CODE",
-            "data_type": ""
+            "name": "CLASS CODE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n28",
-            "name": "DAILY DOSE",
-            "data_type": ""
+            "name": "DAILY DOSE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n32",
-            "name": "CLASS TEXT",
-            "data_type": ""
+            "name": "CLASS TEXT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n33",
@@ -121,283 +110,241 @@
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n34",
-            "name": "AMOUNT",
-            "data_type": ""
+            "name": "AMOUNT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n38",
-            "name": "ADJUSTMENT",
-            "data_type": ""
+            "name": "ADJUSTMENT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n42",
-            "name": "TEST",
-            "data_type": ""
+            "name": "TEST"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n43",
-            "name": "OBSERVATION",
-            "data_type": ""
+            "name": "OBSERVATION"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n48",
-            "name": "STANDARD NAME",
-            "data_type": ""
+            "name": "STANDARD NAME"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n66",
-            "name": "EPIDEMIC / PANDEMIC",
-            "data_type": ""
+            "name": "EPIDEMIC / PANDEMIC"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n67",
-            "name": "OBSERVATION RESULT",
-            "data_type": ""
+            "name": "OBSERVATION RESULT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n68",
-            "name": "CODED",
-            "data_type": ""
+            "name": "CODED"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n72",
-            "name": "SCALE",
-            "data_type": ""
+            "name": "SCALE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n73",
-            "name": "TYPE",
-            "data_type": ""
+            "name": "TYPE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n74",
-            "name": "RANGE",
-            "data_type": ""
+            "name": "RANGE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n75",
-            "name": "LOW",
-            "data_type": ""
+            "name": "LOW"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n76",
-            "name": "HI",
-            "data_type": ""
+            "name": "HI"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n77",
-            "name": "BODY SYSTEM",
-            "data_type": ""
+            "name": "BODY SYSTEM"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n82",
-            "name": "REFERENCE RESULT",
-            "data_type": ""
+            "name": "REFERENCE RESULT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n90",
-            "name": "LOINC REF",
-            "data_type": ""
+            "name": "LOINC REF"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n91",
-            "name": "SPECIMEN",
-            "data_type": ""
+            "name": "SPECIMEN"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n92",
-            "name": "ANATOMIC REGION",
-            "data_type": ""
+            "name": "ANATOMIC REGION"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n93",
-            "name": "CONDITION",
-            "data_type": ""
+            "name": "CONDITION"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n94",
-            "name": "USABLE",
-            "data_type": ""
+            "name": "USABLE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n95",
-            "name": "TOXICITY",
-            "data_type": ""
+            "name": "TOXICITY"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n96",
-            "name": "GRADE",
-            "data_type": ""
+            "name": "GRADE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n97",
-            "name": "REASON PERFORMED",
-            "data_type": ""
+            "name": "REASON PERFORMED"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n98",
-            "name": "FASTING",
-            "data_type": ""
+            "name": "FASTING"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n99",
-            "name": "RUN ID",
-            "data_type": ""
+            "name": "RUN ID"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n100",
-            "name": "LAB",
-            "data_type": ""
+            "name": "LAB"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n101",
-            "name": "SEVERITY",
-            "data_type": ""
+            "name": "SEVERITY"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n102",
-            "name": "SENSITIVITY",
-            "data_type": ""
+            "name": "SENSITIVITY"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n103",
-            "name": "LEAD",
-            "data_type": ""
+            "name": "LEAD"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n104",
-            "name": "CONSCIOUS",
-            "data_type": ""
+            "name": "CONSCIOUS"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n105",
-            "name": "CHRONICITY",
-            "data_type": ""
+            "name": "CHRONICITY"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n106",
-            "name": "DISTRIBUTION",
-            "data_type": ""
+            "name": "DISTRIBUTION"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n107",
-            "name": "ADVERSE EVENT",
-            "data_type": ""
+            "name": "ADVERSE EVENT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n108",
-            "name": "TERM",
-            "data_type": ""
+            "name": "TERM"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n110",
-            "name": "LLT",
-            "data_type": ""
+            "name": "LLT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n111",
-            "name": "STANDARD NAME",
-            "data_type": ""
+            "name": "STANDARD NAME"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n112",
-            "name": "AMENDED",
-            "data_type": ""
+            "name": "AMENDED"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n113",
-            "name": "CODED",
-            "data_type": ""
+            "name": "CODED"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n114",
-            "name": "TEXT",
-            "data_type": ""
+            "name": "TEXT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n123",
-            "name": "SEVERITY",
-            "data_type": ""
+            "name": "SEVERITY"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n124",
-            "name": "SERIOUS",
-            "data_type": ""
+            "name": "SERIOUS"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n126",
-            "name": "RESPONSE",
-            "data_type": ""
+            "name": "RESPONSE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n127",
-            "name": "STUDY TREATMENT",
-            "data_type": ""
+            "name": "STUDY TREATMENT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n128",
-            "name": "CONCOMITANT TREATMENT",
-            "data_type": ""
+            "name": "CONCOMITANT TREATMENT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n129",
-            "name": "OTHER",
-            "data_type": ""
+            "name": "OTHER"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n130",
-            "name": "DEVICE",
-            "data_type": ""
+            "name": "DEVICE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n131",
-            "name": "CAUSALITY",
-            "data_type": ""
+            "name": "CAUSALITY"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n132",
-            "name": "RELATED",
-            "data_type": ""
+            "name": "RELATED"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n133",
-            "name": "DEVICE",
-            "data_type": ""
+            "name": "DEVICE"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n134",
-            "name": "NON STUDY TREATMENT",
-            "data_type": ""
+            "name": "NON STUDY TREATMENT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n141",
-            "name": "RESULT",
-            "data_type": ""
+            "name": "RESULT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n152",
-            "name": "EVENT",
-            "data_type": ""
+            "name": "EVENT"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n158",
-            "name": "TERM",
-            "data_type": ""
+            "name": "TERM"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n159",
-            "name": "PERIOD",
-            "data_type": ""
+            "name": "PERIOD"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n160",
-            "name": "STANDARD NAME",
-            "data_type": ""
+            "name": "STANDARD NAME"
         },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n161",
-            "name": "AMENDED",
-            "data_type": ""
+            "name": "AMENDED"
+        }
+    ],
+    "CANONICAL_DATA_TYPE": [
+        {
+            "uri": "http://id.d4k.dk/dataset/canonical/n8/coding",
+            "data_type": "coding"
+        },
+        {
+            "uri": "http://id.d4k.dk/dataset/canonical/n9/coding",
+            "data_type": "coding"
+        },
+        {
+            "uri": "http://id.d4k.dk/dataset/canonical/n18/coding",
+            "data_type": "coding"
         }
     ]
 }
