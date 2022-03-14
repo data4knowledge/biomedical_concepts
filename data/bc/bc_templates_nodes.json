@@ -1,0 +1,190 @@
+{
+    "BC_DATA_TYPE": [
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/test/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/position/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/site_of_administration/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/laterality/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/method/coding"
+        },
+        {
+            "name": "DATETIME",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/date_time/datetime"
+        },
+        {
+            "name": "quantity",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/result/quantity"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/result/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/test/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/position/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/site_of_administration/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/laterality/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/directionality/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/method/coding"
+        },
+        {
+            "name": "DATETIME",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/date_time/datetime"
+        },
+        {
+            "name": "quantity",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/result/quantity"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/result/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/specimen/coding"
+        }
+    ],
+    "BC_ITEM": [
+        {
+            "enabled": true,
+            "mandatory": true,
+            "name": "Test",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/test"
+        },
+        {
+            "enabled": true,
+            "mandatory": false,
+            "name": "Position",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/position"
+        },
+        {
+            "enabled": true,
+            "mandatory": false,
+            "name": "Site of Administration",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/site_of_administration"
+        },
+        {
+            "enabled": true,
+            "mandatory": false,
+            "name": "Laterality",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/laterality"
+        },
+        {
+            "enabled": true,
+            "mandatory": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/method"
+        },
+        {
+            "enabled": true,
+            "mandatory": true,
+            "name": "Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/date_time"
+        },
+        {
+            "enabled": true,
+            "mandatory": true,
+            "name": "Result",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/result"
+        },
+        {
+            "enabled": true,
+            "mandatory": true,
+            "name": "Test",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/test"
+        },
+        {
+            "enabled": true,
+            "mandatory": false,
+            "name": "Position",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/position"
+        },
+        {
+            "enabled": true,
+            "mandatory": false,
+            "name": "Site of Administration",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/site_of_administration"
+        },
+        {
+            "enabled": true,
+            "mandatory": false,
+            "name": "Laterality",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/laterality"
+        },
+        {
+            "enabled": true,
+            "mandatory": false,
+            "name": "Directionality",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/directionality"
+        },
+        {
+            "enabled": true,
+            "mandatory": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/method"
+        },
+        {
+            "enabled": true,
+            "mandatory": true,
+            "name": "Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/date_time"
+        },
+        {
+            "enabled": true,
+            "mandatory": true,
+            "name": "Result",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/result"
+        },
+        {
+            "enabled": true,
+            "mandatory": false,
+            "name": "Specimen",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/specimen"
+        }
+    ],
+    "BC_TEMPLATE": [
+        {
+            "name": "Base Observation",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation"
+        },
+        {
+            "name": "Base Laboratory",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory"
+        }
+    ],
+    "OTHER_SOURCE": [
+        {
+            "description": "Designed for this project.",
+            "uri": "http://id.d4k.dk/dataset/source/bc_template"
+        }
+    ]
+}

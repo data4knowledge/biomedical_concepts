@@ -1,0 +1,136 @@
+{
+    "BC_DATA_PROPERTY": [
+        {
+            "name": "system",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/system",
+            "value": ""
+        },
+        {
+            "name": "version",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/version",
+            "value": ""
+        },
+        {
+            "name": "code",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code",
+            "value": ""
+        },
+        {
+            "name": "display",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/display",
+            "value": ""
+        },
+        {
+            "name": "user_selected",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/user_selected",
+            "value": false
+        },
+        {
+            "name": "value",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/value",
+            "value": ""
+        },
+        {
+            "name": "unit",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/unit",
+            "value": ""
+        },
+        {
+            "name": "system",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/system",
+            "value": ""
+        },
+        {
+            "name": "code",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code",
+            "value": ""
+        }
+    ],
+    "BC_DATA_TYPE": [
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding"
+        },
+        {
+            "name": "DATETIME",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/date_time/datetime"
+        },
+        {
+            "name": "quantity",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity"
+        }
+    ],
+    "BC_INSTANCE": [
+        {
+            "name": "Weight",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight"
+        }
+    ],
+    "BC_ITEM": [
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Test",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/date_time"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Position",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/position"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Site of Administration",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/site_of_administration"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Laterality",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/laterality"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/method"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Result",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result"
+        }
+    ],
+    "BC_VALUE_SET": [
+        {
+            "cl": "c66741",
+            "cli": "c25208",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code/c66741-c25208"
+        },
+        {
+            "cl": "c66770",
+            "cli": "c28252",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code/c66770-c28252"
+        },
+        {
+            "cl": "c66770",
+            "cli": "c48531",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code/c66770-c48531"
+        }
+    ],
+    "OTHER_SOURCE": [
+        {
+            "description": "Designed for this project.",
+            "uri": "http://id.d4k.dk/dataset/source/bc_instance"
+        }
+    ]
+}

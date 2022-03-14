@@ -21,7 +21,7 @@ nodes["OTHER_SOURCE"].append(record)
 
 for filename in files:
 
-    with open("../data/%s" % (filename)) as file:
+    with open("../data/bc/%s" % (filename)) as file:
         instances = yaml.load(file, Loader=yaml.FullLoader)
 
         for instance in instances:
@@ -130,7 +130,7 @@ for filename in files:
                                         relationships["HAS_RESPONSE"].append({"from": property_uri, "to": term_uri})
 
                 
-with open("../data/bc_instances_nodes.json", 'w') as outfile:
-    json.dump(nodes, outfile)
-with open("../data/bc_instances_relationships.json", 'w') as outfile:
-    json.dump(relationships, outfile)
+with open("../data/bc/bc_instances_nodes.json", 'w') as outfile:
+    json.dump(nodes, outfile, sort_keys=True, indent=4)
+with open("../data/bc/bc_instances_relationships.json", 'w') as outfile:
+    json.dump(relationships, outfile, sort_keys=True, indent=4)
