@@ -1,0 +1,308 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "ADL02-Usual Eating Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding eating, which best describes {S} usual performance during the last 4 weeks?",
+            "identifier": "C106979",
+            "notation": "ADL0201",
+            "pref_label": "ADCS-ADL Severe Dementia - Description of Usual Performance of Eating",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106979"
+        },
+        {
+            "alt_label": "ADL02-Optimal Walking Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding walking (or getting around in a wheelchair) in the past 4 weeks, which best describes {S} optimal performance?",
+            "identifier": "C106980",
+            "notation": "ADL0202",
+            "pref_label": "ADCS-ADL Severe Dementia - Description of Optimal Performance of Walking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106980"
+        },
+        {
+            "alt_label": "ADL02-Usual Bowel/Bladder Function",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding bowel and bladder function at the toilet, which best describes {S} usual performance during the past 4 weeks?",
+            "identifier": "C106981",
+            "notation": "ADL0203",
+            "pref_label": "ADCS-ADL Severe Dementia - Usual Bowel and Bladder Function at Toilet",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106981"
+        },
+        {
+            "alt_label": "ADL02-Usual Bathing Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding bathing, in the past 4 weeks, which best describes {S} usual performance?",
+            "identifier": "C106982",
+            "notation": "ADL0204",
+            "pref_label": "ADCS-ADL Severe Dementia - Description of Usual Performance of Bathing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106982"
+        },
+        {
+            "alt_label": "ADL02-Optimal Grooming Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding grooming, in the past 4 weeks, which best describes {S} optimal performance?",
+            "identifier": "C106983",
+            "notation": "ADL0205",
+            "pref_label": "ADCS-ADL Severe Dementia - Description of Optimal Performance of Grooming",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106983"
+        },
+        {
+            "alt_label": "ADL02-Usual Physically Dressing Perform",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding physically getting dressed, which best describes {S} usual performance in the past 4 weeks?",
+            "identifier": "C106984",
+            "notation": "ADL0206",
+            "pref_label": "ADCS-ADL Severe Dementia - Description of Usual Performance of Physically Getting Dressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106984"
+        },
+        {
+            "alt_label": "ADL02-Use a Telephone",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} use a telephone?",
+            "identifier": "C106985",
+            "notation": "ADL0207",
+            "pref_label": "ADCS-ADL Severe Dementia - Use a Telephone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106985"
+        },
+        {
+            "alt_label": "ADL02-Highest Telephone Use Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes {S} highest level of performance.",
+            "identifier": "C106986",
+            "notation": "ADL0207A",
+            "pref_label": "ADCS-ADL Severe Dementia - Description of Highest Performance of Telephone Use",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106986"
+        },
+        {
+            "alt_label": "ADL02-Watch Television",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} watch television?",
+            "identifier": "C106987",
+            "notation": "ADL0208",
+            "pref_label": "ADCS-ADL Severe Dementia - Watch Television",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106987"
+        },
+        {
+            "alt_label": "ADL02-Select Television Program",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Did {S} usually select or ask for different programs or {S} favorite show?",
+            "identifier": "C106988",
+            "notation": "ADL0208A",
+            "pref_label": "ADCS-ADL Severe Dementia - Select or Ask for Television Program",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106988"
+        },
+        {
+            "alt_label": "ADL02-Talk About TV Content While Watch",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Did {S} usually talk about the content of a program while watching it?",
+            "identifier": "C106989",
+            "notation": "ADL0208B",
+            "pref_label": "ADCS-ADL Severe Dementia - Talk About TV Content While Watching",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106989"
+        },
+        {
+            "alt_label": "ADL02-Talk About TV Content Within a Day",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Did {S} talk about the content of a program within a day (24 hours) after watching it?",
+            "identifier": "C106990",
+            "notation": "ADL0208C",
+            "pref_label": "ADCS-ADL Severe Dementia - Talk About TV Content Within a Day After Watching",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106990"
+        },
+        {
+            "alt_label": "ADL02-Pay Attention to Conversation",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} ever appear to pay attention to conversation or small talk for at least 5 minutes?",
+            "identifier": "C106991",
+            "notation": "ADL0209",
+            "pref_label": "ADCS-ADL Severe Dementia - Pay Attention to Conversation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106991"
+        },
+        {
+            "alt_label": "ADL02-Usual Conversation Participation",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes {S} usual degree of participation.",
+            "identifier": "C106992",
+            "notation": "ADL0209A",
+            "pref_label": "ADCS-ADL Severe Dementia - Usual Conversation Participation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106992"
+        },
+        {
+            "alt_label": "ADL02-Clear Dishes",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Did {S} clear the dishes from the table after a meal or snack?",
+            "identifier": "C106993",
+            "notation": "ADL0210",
+            "pref_label": "ADCS-ADL Severe Dementia - Clear Dishes After Meal or Snack",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106993"
+        },
+        {
+            "alt_label": "ADL02-Clear Dishes Usual Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes how {S} usually performed.",
+            "identifier": "C106994",
+            "notation": "ADL0210A",
+            "pref_label": "ADCS-ADL Severe Dementia - Description of Usual Performance of Clearing Dishes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106994"
+        },
+        {
+            "alt_label": "ADL02-Find Belongings",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} usually manage to find his/her personal belongings at home?",
+            "identifier": "C106995",
+            "notation": "ADL0211",
+            "pref_label": "ADCS-ADL Severe Dementia - Find Personal Belongings at Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106995"
+        },
+        {
+            "alt_label": "ADL02-Find Belongings Usual Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes how {S} usually performed.",
+            "identifier": "C106996",
+            "notation": "ADL0211A",
+            "pref_label": "ADCS-ADL Severe Dementia - Description of Usual Performance of Finding Personal Belonging at Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106996"
+        },
+        {
+            "alt_label": "ADL02-Obtain Beverage",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} obtain a hot or cold beverage for him/herself?",
+            "identifier": "C106997",
+            "notation": "ADL0212",
+            "pref_label": "ADCS-ADL Severe Dementia - Obtain Beverage for Self",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106997"
+        },
+        {
+            "alt_label": "ADL02-Obtain Beverage Highest Perform",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes {S} highest level of performance.",
+            "identifier": "C106998",
+            "notation": "ADL0212A",
+            "pref_label": "ADCS-ADL Severe Dementia - Description of Highest Performance of Obtaining Beverage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106998"
+        },
+        {
+            "alt_label": "ADL02-Dispose of Garbage",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} dispose of garbage or litter in an appropriate place or container at home?",
+            "identifier": "C106999",
+            "notation": "ADL0213",
+            "pref_label": "ADCS-ADL Severe Dementia - Dispose of Garbage in Appropriate Place at Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C106999"
+        },
+        {
+            "alt_label": "ADL02-Dispose Garbage Usual Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes how {S} usually performed.",
+            "identifier": "C107000",
+            "notation": "ADL0213A",
+            "pref_label": "ADCS-ADL Severe Dementia - Description of Usual Performance of Garbage Disposal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107000"
+        },
+        {
+            "alt_label": "ADL02-Get Around Outside Home",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} get around (or travel) outside of his/her home?",
+            "identifier": "C107001",
+            "notation": "ADL0214",
+            "pref_label": "ADCS-ADL Severe Dementia - Get Around Outside Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107001"
+        },
+        {
+            "alt_label": "ADL02-Get Around Optimal Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes {S} optimal performance.",
+            "identifier": "C107002",
+            "notation": "ADL0214A",
+            "pref_label": "ADCS-ADL Severe Dementia - Description of Optimal Performance of Getting Around Outside of Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107002"
+        },
+        {
+            "alt_label": "ADL02-Left On His/Her Own",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, was {S} ever left on his/her own?",
+            "identifier": "C107003",
+            "notation": "ADL0215",
+            "pref_label": "ADCS-ADL Severe Dementia - Subject Left on Their Own",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107003"
+        },
+        {
+            "alt_label": "ADL02-Left Away From Home",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Was {S} left: away from home for 15 minutes or longer, during the day?",
+            "identifier": "C107004",
+            "notation": "ADL0215A",
+            "pref_label": "ADCS-ADL Severe Dementia - Alone Away From Home for Fifteen Minutes or Longer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107004"
+        },
+        {
+            "alt_label": "ADL02-Left at Home for 1 Hour or Longer",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Was {S} left: at home for an hour or longer during the day?",
+            "identifier": "C107005",
+            "notation": "ADL0215B",
+            "pref_label": "ADCS-ADL Severe Dementia - Alone at Home for One Hour or Longer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107005"
+        },
+        {
+            "alt_label": "ADL02-Left at Home for Less Than 1 Hour",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Was {S} left: at home for less than 1 hour during the day?",
+            "identifier": "C107006",
+            "notation": "ADL0215C",
+            "pref_label": "ADCS-ADL Severe Dementia - Alone at Home for Less Than One Hour",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107006"
+        },
+        {
+            "alt_label": "ADL02-Run Water Faucet to Wash",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} usually run water from a faucet to wash {S} hands or face without help?",
+            "identifier": "C107007",
+            "notation": "ADL0216",
+            "pref_label": "ADCS-ADL Severe Dementia - Turn On Faucet to Wash Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107007"
+        },
+        {
+            "alt_label": "ADL02-Turn Off Faucet",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} usually turn off the faucet after finishing running water without help?",
+            "identifier": "C107008",
+            "notation": "ADL0217",
+            "pref_label": "ADCS-ADL Severe Dementia - Turn Off Faucet After Wash Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107008"
+        },
+        {
+            "alt_label": "ADL02-Turn On Light",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} usually turn on a light without help when entering a dark room or area?",
+            "identifier": "C107009",
+            "notation": "ADL0218",
+            "pref_label": "ADCS-ADL Severe Dementia - Turn On Light Without Help Entering Room",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107009"
+        },
+        {
+            "alt_label": "ADL02-Turn Off Light",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} usually turn off lights without help when leaving a room or going to sleep?",
+            "identifier": "C107010",
+            "notation": "ADL0219",
+            "pref_label": "ADCS-ADL Severe Dementia - Turn Off Light Without Help Leaving Room",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107010"
+        },
+        {
+            "alt_label": "ADL02-Sum 1 to 5",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Sum of Items 1-5.",
+            "identifier": "C107011",
+            "notation": "ADL0220",
+            "pref_label": "ADCS-ADL Severe Dementia - Sum of Items 1-5",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107011"
+        },
+        {
+            "alt_label": "ADL02-Sum 6 to 8",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Sum of Items 6-8.",
+            "identifier": "C107012",
+            "notation": "ADL0221",
+            "pref_label": "ADCS-ADL Severe Dementia - Sum of Items 6-8",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107012"
+        },
+        {
+            "alt_label": "ADL02-Sum 9 to 12",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Sum of Items 9-12.",
+            "identifier": "C107013",
+            "notation": "ADL0222",
+            "pref_label": "ADCS-ADL Severe Dementia - Sum of Items 9-12",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107013"
+        },
+        {
+            "alt_label": "ADL02-Sum 13 to 15",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Sum of Items 13-15.",
+            "identifier": "C107014",
+            "notation": "ADL0223",
+            "pref_label": "ADCS-ADL Severe Dementia - Sum of Items 13-15",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107014"
+        },
+        {
+            "alt_label": "ADL02-Sum 16 to 19",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Sum of Items 16-19.",
+            "identifier": "C107015",
+            "notation": "ADL0224",
+            "pref_label": "ADCS-ADL Severe Dementia - Sum of Items 16-19",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107015"
+        },
+        {
+            "alt_label": "ADL02-Total ADCS-ADL Score",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Total Score.",
+            "identifier": "C107016",
+            "notation": "ADL0225",
+            "pref_label": "ADCS-ADL Severe Dementia - Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106653-C107016"
+        }
+    ]
+}

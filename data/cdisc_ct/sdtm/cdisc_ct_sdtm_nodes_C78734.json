@@ -1,0 +1,850 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The fluid that is abnormally collected in localized areas of damaged tissue within the body, usually composed of living and dead white blood cells, bacteria, and dead tissue.",
+            "identifier": "C150890",
+            "notation": "ABSCESS FLUID",
+            "pref_label": "Abscess Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C150890"
+        },
+        {
+            "alt_label": "Body Fat;Fat Tissue",
+            "definition": "Connective tissue consisting primarily of adipocytes (fat cells) and supporting structural matrix.",
+            "identifier": "C12472",
+            "notation": "ADIPOSE TISSUE",
+            "pref_label": "Adipose Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12472"
+        },
+        {
+            "definition": "The gas from the alveoli of the lungs.",
+            "identifier": "C150891",
+            "notation": "ALVEOLAR AIR",
+            "pref_label": "Alveolar Air",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C150891"
+        },
+        {
+            "alt_label": "Aqua Amnii",
+            "definition": "The fluid within the amniotic cavity which surrounds and protects the developing embryo. (NCI)",
+            "identifier": "C13188",
+            "notation": "AMNIOTIC FLUID",
+            "pref_label": "Amniotic Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13188"
+        },
+        {
+            "alt_label": "Aqueous Humour",
+            "definition": "The watery fluid which is present in the anterior and posterior chambers of the eye. (NCI)",
+            "identifier": "C13190",
+            "notation": "AQUEOUS HUMOR",
+            "pref_label": "Aqueous Humor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13190"
+        },
+        {
+            "definition": "Oxygenated blood which is transported with nutrients to body tissues through the arterial system. The exception is blood within the pulmonary artery which carries deoxygenated blood to the lungs. (NCI)",
+            "identifier": "C78729",
+            "notation": "ARTERIAL BLOOD",
+            "pref_label": "Arterial Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C78729"
+        },
+        {
+            "definition": "Blood present in the umbilical arteries at the time of delivery.",
+            "identifier": "C120838",
+            "notation": "ARTERIAL CORD BLOOD",
+            "pref_label": "Arterial Cord Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C120838"
+        },
+        {
+            "definition": "Capillary blood collected from a puncture site that has been warmed or treated with creams containing a hyperemic or vasodilatory agent to increase arterial blood flow.",
+            "identifier": "C176369",
+            "notation": "ARTERIALIZED CAPILLARY BLOOD",
+            "pref_label": "Arterialized Capillary Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C176369"
+        },
+        {
+            "definition": "Fatty tissue which is deposited in the inner lining of the arterial wall. (NCI)",
+            "identifier": "C78739",
+            "notation": "ATHEROSCLEROTIC PLAQUE",
+            "pref_label": "Atherosclerotic Plaque",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C78739"
+        },
+        {
+            "definition": "A type of tear produced continually to keep the cornea moist; contains salts, water, and mucus.",
+            "identifier": "C176366",
+            "notation": "BASAL TEAR",
+            "pref_label": "Basal Tear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C176366"
+        },
+        {
+            "definition": "Fluid composed of waste products, bile acids, salts, cholesterol, and electrolytes. It is produced by the liver and may be stored in the gallbladder (if present).",
+            "identifier": "C13192",
+            "notation": "BILE",
+            "pref_label": "Bile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13192"
+        },
+        {
+            "alt_label": "Peripheral Blood;Whole Blood",
+            "definition": "A liquid tissue with the primary function of transporting oxygen and carbon dioxide. It supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection.",
+            "identifier": "C12434",
+            "notation": "BLOOD",
+            "pref_label": "Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12434"
+        },
+        {
+            "alt_label": "BMMC",
+            "definition": "Any cell with a single nucleus found in the bone marrow, for example lymphocytes, monocytes, mesenchymal stem cells and hematopoietic progenitor cells.",
+            "identifier": "C156591",
+            "notation": "BONE MARROW MONONUCLEAR CELL",
+            "pref_label": "Bone Marrow Mononuclear Cell",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C156591"
+        },
+        {
+            "definition": "The tissue occupying the spaces of some bones. It consists of blood vessel sinuses and a network of hematopoietic cells.",
+            "identifier": "C12431",
+            "notation": "BONE MARROW",
+            "pref_label": "Bone Marrow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12431"
+        },
+        {
+            "definition": "Calcified connective tissue that forms the skeletal components of the body. (NCI)",
+            "identifier": "C12366",
+            "notation": "BONE",
+            "pref_label": "Bone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12366"
+        },
+        {
+            "definition": "A liquid produced by the mammary gland.",
+            "identifier": "C13257",
+            "notation": "BREAST MILK",
+            "pref_label": "Breast Milk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13257"
+        },
+        {
+            "definition": "The middle fraction of an anticoagulated blood specimen following separation by centrifugation. It contains most of the white blood cells and platelets.",
+            "identifier": "C84507",
+            "notation": "BUFFY COAT",
+            "pref_label": "Buffy Coat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C84507"
+        },
+        {
+            "alt_label": "Calculi",
+            "definition": "A concretion of material in the body, usually composed of mineral salts. Representative examples include gallbladder stones, kidney stones, and salivary gland stones.",
+            "identifier": "C35708",
+            "notation": "CALCULUS",
+            "pref_label": "Stone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C35708"
+        },
+        {
+            "definition": "A mixture of arterial blood, venous blood and interstitial fluid, which is found in the capillaries.",
+            "identifier": "C112235",
+            "notation": "CAPILLARY BLOOD",
+            "pref_label": "Capillary Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C112235"
+        },
+        {
+            "definition": "A plasma sample that is prepared from capillary blood.",
+            "identifier": "C132461",
+            "notation": "CAPILLARY PLASMA",
+            "pref_label": "Capillary Plasma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C132461"
+        },
+        {
+            "alt_label": "Myocardium",
+            "definition": "The striated muscle tissue of the heart enveloped by the epicardium and the endocardium. (NCI)",
+            "identifier": "C12371",
+            "notation": "CARDIAC MUSCLE TISSUE",
+            "pref_label": "Myocardium",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12371"
+        },
+        {
+            "definition": "A cell sample that has been compacted by centrifugation.",
+            "identifier": "C113745",
+            "notation": "CELL PELLET",
+            "pref_label": "Cell Pellet",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C113745"
+        },
+        {
+            "alt_label": "CSF",
+            "definition": "The fluid that is contained within the brain ventricles, the subarachnoid space and the central canal of the spinal cord. (NCI)",
+            "identifier": "C12692",
+            "notation": "CEREBROSPINAL FLUID",
+            "pref_label": "Cerebrospinal Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12692"
+        },
+        {
+            "definition": "A wax secreted by glands in the ear canal.",
+            "identifier": "C32293",
+            "notation": "CERUMEN",
+            "pref_label": "Cerumen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C32293"
+        },
+        {
+            "definition": "The watery fluid secreted from the glands and associated structures of the cervicovaginal region.",
+            "identifier": "C150892",
+            "notation": "CERVICOVAGINAL SECRETION",
+            "pref_label": "Cervicovaginal Secretion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C150892"
+        },
+        {
+            "alt_label": "CTC",
+            "definition": "A metastatic cancer cell found in the peripheral blood. (NCI)",
+            "identifier": "C63797",
+            "notation": "CIRCULATING TUMOR CELL",
+            "pref_label": "Circulating Tumor Cell",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C63797"
+        },
+        {
+            "definition": "A thick, protein-rich substance secreted by the breasts during the second half of pregnancy and for a few days after birth before the breast milk comes in.",
+            "identifier": "C32348",
+            "notation": "COLOSTRUM",
+            "pref_label": "Human Colostrum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C32348"
+        },
+        {
+            "alt_label": "Umbilical Cord Blood",
+            "definition": "Blood present in the umbilical vessels at the time of delivery.",
+            "identifier": "C13300",
+            "notation": "CORD BLOOD",
+            "pref_label": "Umbilical Cord Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13300"
+        },
+        {
+            "definition": "The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins from the cord blood of a newborn baby.",
+            "identifier": "C119550",
+            "notation": "CORD SERUM",
+            "pref_label": "Umbilical Cord Serum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C119550"
+        },
+        {
+            "definition": "The cells and connective tissue from the inner layer of the two main layers of the skin. The dermis has connective tissue, blood vessels, oil and sweat glands, nerves, hair follicles, and other structures. It is made up of a thin upper layer called the papillary dermis, and a thick lower layer called the reticular dermis.",
+            "identifier": "C12701",
+            "notation": "DERMAL TISSUE",
+            "pref_label": "Dermis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12701"
+        },
+        {
+            "alt_label": "Dialysate",
+            "definition": "The fluid which runs through a dialysis machine and captures, for discard or analysis, the excess water and waste from the blood stream through diffusion and ultrafiltration. (NCI)",
+            "identifier": "C106515",
+            "notation": "DIALYSIS FLUID",
+            "pref_label": "Dialysis Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C106515"
+        },
+        {
+            "alt_label": "PD Fluid;Peritoneal Dialysate",
+            "definition": "The dialysis fluid which is collected from the peritoneal space and captures, for discard or analysis, the excess water and waste from the blood stream through diffusion and ultrafiltration. (NCI)",
+            "identifier": "C154852",
+            "notation": "DIALYSIS FLUID, PERITONEAL",
+            "pref_label": "Peritoneal Dialysis Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C154852"
+        },
+        {
+            "definition": "Normal or abnormal secretions expelled from a body location.",
+            "identifier": "C142366",
+            "notation": "DISCHARGE",
+            "pref_label": "Discharge Body Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C142366"
+        },
+        {
+            "alt_label": "Emesis;Vomitus",
+            "definition": "Partially digested gastric contents that are returned to the mouth or beyond via the vomit reflex present in some species.",
+            "identifier": "C77666",
+            "notation": "EMESIS",
+            "pref_label": "Vomitus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C77666"
+        },
+        {
+            "alt_label": "Psychic Tear",
+            "definition": "A type of tear produced in response to negative or positive emotions; contains higher amounts of proteins and stress-related hormones in comparison to other tear types.",
+            "identifier": "C176368",
+            "notation": "EMOTIONAL TEAR",
+            "pref_label": "Emotional Tear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C176368"
+        },
+        {
+            "definition": "A specimen that consists of the cells and connective tissue of the endometrium.",
+            "identifier": "C176371",
+            "notation": "ENDOMETRIAL TISSUE",
+            "pref_label": "Endometrial Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C176371"
+        },
+        {
+            "alt_label": "Endotracheal Aspirate Fluid;ETA Fluid;Tracheal Aspirate;Tracheal Aspirate Fluid",
+            "definition": "The fluid collected from the lumen of the trachea.",
+            "identifier": "C171504",
+            "notation": "ENDOTRACHEAL FLUID",
+            "pref_label": "Endotracheal Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C171504"
+        },
+        {
+            "definition": "The cells and connective tissue from the epithelial portion of the skin (cutis). It consists of the following layers: stratum corneum (horny layer), stratum granulosum (granular layer), stratum spinosum (prickle cell layer), and stratum basale (basal cell layer).",
+            "identifier": "C12708",
+            "notation": "EPIDERMAL TISSUE",
+            "pref_label": "Epidermis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12708"
+        },
+        {
+            "definition": "Any of the cells of the epithelium, which covers the body and lines its cavities and glands.",
+            "identifier": "C12578",
+            "notation": "EPITHELIAL CELL",
+            "pref_label": "Epithelial Cell",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12578"
+        },
+        {
+            "alt_label": "RBC;Red Blood Cells",
+            "definition": "Cell specialized for oxygen transport, having a high concentration of hemoglobin in the cytoplasm and little else; biconcave, anucleate discs, 7nm diameter in mammals.",
+            "identifier": "C12521",
+            "notation": "ERYTHROCYTES",
+            "pref_label": "Erythrocyte",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12521"
+        },
+        {
+            "definition": "Expired air that has been condensed.",
+            "identifier": "C126053",
+            "notation": "EXHALED BREATH CONDENSATE",
+            "pref_label": "Exhaled Breath Condensate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C126053"
+        },
+        {
+            "alt_label": "Exhaled Breath;Expired Breath",
+            "definition": "The air that moves out of the chest during expiration. It contains a higher percentage of carbon dioxide and a lower percentage of oxygen compared to the inhaled air. (NCI)",
+            "identifier": "C78741",
+            "notation": "EXPIRED AIR",
+            "pref_label": "Expired Air",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C78741"
+        },
+        {
+            "definition": "Accumulation of extravasated fluid containing inflammatory cells and fibrin. Necrotic debris and/or other cellular and extracellular components may also be present.",
+            "identifier": "C13233",
+            "notation": "EXUDATE",
+            "pref_label": "Exudate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13233"
+        },
+        {
+            "definition": "A connective tissue cell that secretes collagen, a component of the extracellular matrix.",
+            "identifier": "C12482",
+            "notation": "FIBROBLAST",
+            "pref_label": "Fibroblast",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12482"
+        },
+        {
+            "definition": "Liquid substances produced by the body.",
+            "identifier": "C13236",
+            "notation": "FLUID",
+            "pref_label": "Body Fluid or Substance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13236"
+        },
+        {
+            "alt_label": "Stomach Contents",
+            "definition": "The contents of the stomach that may include undigested food mixed with juices secreted by the gastric mucosal glands. (NCI)",
+            "identifier": "C77614",
+            "notation": "GASTRIC CONTENTS",
+            "pref_label": "Gastric Content",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C77614"
+        },
+        {
+            "definition": "The fluid produced by the stomach glands, composed of gastric acids and enzymes. (NCI)",
+            "identifier": "C86998",
+            "notation": "GASTRIC FLUID",
+            "pref_label": "Gastric Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C86998"
+        },
+        {
+            "definition": "A tube-like invagination of the epidermis from which the hair shaft develops and into which the sebaceous glands open; the follicle is lined by a cellular inner and outer root sheath of epidermal origin and is invested with a fibrous sheath derived from the dermis. (NCI)",
+            "identifier": "C13317",
+            "notation": "HAIR FOLLICLE",
+            "pref_label": "Hair Follicle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13317"
+        },
+        {
+            "alt_label": "Hair",
+            "definition": "The filamentous outgrowth of the epidermis. (NCI)",
+            "identifier": "C32705",
+            "notation": "HAIR",
+            "pref_label": "Hair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C32705"
+        },
+        {
+            "definition": "The liquid, solid or semi-solid lying below a liquid residue, which is separated by crystallization, precipitation or centrifugation of a plasma sample. (NCI)",
+            "identifier": "C106554",
+            "notation": "INFRANATANT, PLASMA",
+            "pref_label": "Plasma Infranatant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C106554"
+        },
+        {
+            "definition": "The liquid, solid or semi-solid lying below a liquid residue, which is separated by crystallization, precipitation or centrifugation of a pleural fluid sample. (NCI)",
+            "identifier": "C106558",
+            "notation": "INFRANATANT, PLEURAL FLUID",
+            "pref_label": "Pleural Fluid Infranatant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C106558"
+        },
+        {
+            "definition": "The liquid, solid or semi-solid lying below a liquid residue, which is separated by crystallization, precipitation or centrifugation of a serum sample. (NCI)",
+            "identifier": "C106565",
+            "notation": "INFRANATANT, SERUM",
+            "pref_label": "Serum Infranatant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C106565"
+        },
+        {
+            "definition": "The extracellular fluid component found in the spaces between tissues. This excludes plasma and transcellular fluid.",
+            "identifier": "C120839",
+            "notation": "INTERSTITIAL FLUID",
+            "pref_label": "Interstitial Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C120839"
+        },
+        {
+            "alt_label": "Microbial Isolate",
+            "definition": "A specific individual microbe and its genetically identical progeny separated on a single occasion from a sample taken from a host or culture system.",
+            "identifier": "C53471",
+            "notation": "ISOLATE",
+            "pref_label": "Isolate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C53471"
+        },
+        {
+            "definition": "The keratin-producing cell of the epidermis that forms in the deep basal layer of the stratified epithelium.",
+            "identifier": "C12589",
+            "notation": "KERATINOCYTE",
+            "pref_label": "Keratinocyte",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12589"
+        },
+        {
+            "alt_label": "Wash Fluid",
+            "definition": "Fluid introduced and collected from a body cavity or location by lavage or wash procedure.",
+            "identifier": "C103411",
+            "notation": "LAVAGE FLUID",
+            "pref_label": "Lavage Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C103411"
+        },
+        {
+            "definition": "Blood cells that are devoid of hemoglobin, capable of amoeboid motion and phagocytosis, and act as the principal components of the immune system.",
+            "identifier": "C12529",
+            "notation": "LEUKOCYTE",
+            "pref_label": "Leukocyte",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12529"
+        },
+        {
+            "definition": "Vaginal discharge occurring during the post-partum period. It consists of a mixture of blood, mucus, and placental remnants. (NCI)",
+            "identifier": "C78742",
+            "notation": "LOCHIA",
+            "pref_label": "Lochia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C78742"
+        },
+        {
+            "definition": "Pulmonary surfactant lines the lung epithelium and lowers surface tension to prevent collapse at end-expiration. Deficiency of pulmonary surfactant results in respiratory distress syndrome (RDS) in premature infants. Lung surfactant is synthesized in alveolar type II cells, stored in lamellar bodies and secreted via exocytosis. (NCI)",
+            "identifier": "C13273",
+            "notation": "LUNG SURFACTANT",
+            "pref_label": "Lung Surfactant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13273"
+        },
+        {
+            "definition": "A clear, transparent, sometimes faintly yellow and slightly opalescent fluid that is collected from the tissues throughout the body, flows in the lymphatic vessels (through the lymph nodes), and is eventually added to the venous blood circulation. Lymph consists of a clear liquid portion, varying numbers of white blood cells (chiefly lymphocytes), and a few red blood cells. (NCI)",
+            "identifier": "C13252",
+            "notation": "LYMPH",
+            "pref_label": "Lymph",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13252"
+        },
+        {
+            "definition": "The cellular debris and fluid produced by lysis of cells.",
+            "identifier": "C62004",
+            "notation": "LYSATE",
+            "pref_label": "Lysate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C62004"
+        },
+        {
+            "definition": "The newborn's first intestinal discharge. It is a dark-green, thick substance composed of mucus, intestinal secretions, hair, and intestinal mucosa cells. (NCI)",
+            "identifier": "C78743",
+            "notation": "MECONIUM",
+            "pref_label": "Meconium",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C78743"
+        },
+        {
+            "definition": "The discharged blood from the uterus during the reproductive years. The discharge occurs approximately once a month. (NCI)",
+            "identifier": "C78740",
+            "notation": "MENSTRUAL BLOOD",
+            "pref_label": "Menstrual Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C78740"
+        },
+        {
+            "definition": "The de-oxygenated blood flowing into the right side of the heart, composed of a mixture of venous blood from the entirety of the systemic circulation.",
+            "identifier": "C158281",
+            "notation": "MIXED VENOUS BLOOD",
+            "pref_label": "Mixed Venous Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C158281"
+        },
+        {
+            "definition": "A large, phagocytic mononuclear leukocyte produced in the vertebrate bone marrow and released into the blood; containing a large, oval or somewhat indented nucleus surrounded by voluminous cytoplasm and numerous organelles.",
+            "identifier": "C12547",
+            "notation": "MONOCYTE",
+            "pref_label": "Monocyte",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12547"
+        },
+        {
+            "definition": "The thick fluid secreted by the mucus glands in the aerodigestive tract and the vagina. (NCI)",
+            "identifier": "C13259",
+            "notation": "MUCUS",
+            "pref_label": "Mucus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13259"
+        },
+        {
+            "definition": "Tissue responsible for body and internal organ movement. Muscle tissue is composed of specialized contractile cells.",
+            "identifier": "C12435",
+            "notation": "MUSCLE TISSUE",
+            "pref_label": "Muscle Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12435"
+        },
+        {
+            "alt_label": "Nail",
+            "definition": "The cutaneous plate on the dorsal surface of the distal end of a finger or toe. (NCI)",
+            "identifier": "C33156",
+            "notation": "NAIL",
+            "pref_label": "Nail",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C33156"
+        },
+        {
+            "alt_label": "PBMC",
+            "definition": "A peripheral blood cell with a single nucleus, for example lymphocytes and monocytes.",
+            "identifier": "C12954",
+            "notation": "PERIPHERAL BLOOD MONONUCLEAR CELL",
+            "pref_label": "Peripheral Blood Mononuclear Cell",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12954"
+        },
+        {
+            "definition": "The fluid within the peritoneal cavity.",
+            "identifier": "C77612",
+            "notation": "PERITONEAL FLUID",
+            "pref_label": "Peritoneal Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C77612"
+        },
+        {
+            "alt_label": "Sweat",
+            "definition": "The liquid secreted by the sweat glands. (NCI)",
+            "identifier": "C13280",
+            "notation": "PERSPIRATION",
+            "pref_label": "Sweat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13280"
+        },
+        {
+            "definition": "The fluid that is produced from the movement of whole blood across a semipermeable membrane in response to a pressure gradient, removing blood cells and large proteins.",
+            "identifier": "C176370",
+            "notation": "PLASMA ULTRAFILTRATE",
+            "pref_label": "Plasma Ultrafiltrate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C176370"
+        },
+        {
+            "definition": "The fluid (acellular) portion of the circulating blood with retained clotting components.",
+            "identifier": "C13356",
+            "notation": "PLASMA",
+            "pref_label": "Plasma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13356"
+        },
+        {
+            "alt_label": "PPP",
+            "definition": "A plasma sample that is prepared from whole blood, which has undergone a number of centrifugation steps to decrease the amount of platelets. (NCI)",
+            "identifier": "C106556",
+            "notation": "PLATELET POOR PLASMA",
+            "pref_label": "Platelet-poor Plasma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C106556"
+        },
+        {
+            "alt_label": "PRP",
+            "definition": "A plasma sample that is prepared from whole blood, which has undergone a number of centrifugation steps to concentrate the amount of platelets. (NCI)",
+            "identifier": "C106557",
+            "notation": "PLATELET RICH PLASMA",
+            "pref_label": "Platelet-rich Plasma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C106557"
+        },
+        {
+            "alt_label": "Thrombocyte",
+            "definition": "An irregular, disc-shaped structure in the blood that assists in blood clotting. Platelets are not blood cells, they are fragments of large bone marrow cells called megakaryocytes. (NCI)",
+            "identifier": "C12520",
+            "notation": "PLATELET",
+            "pref_label": "Platelet",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12520"
+        },
+        {
+            "definition": "The fluid within the pleural cavity.",
+            "identifier": "C77613",
+            "notation": "PLEURAL FLUID",
+            "pref_label": "Pleural Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C77613"
+        },
+        {
+            "definition": "The serous membrane that lines the wall of the thoracic cavity and the surface of the lungs.",
+            "identifier": "C12469",
+            "notation": "PLEURAL TISSUE",
+            "pref_label": "Pleura",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12469"
+        },
+        {
+            "definition": "A slightly alkaline, white fluid secreted from the prostate and is a constituent of semen.",
+            "identifier": "C100896",
+            "notation": "PROSTATIC FLUID",
+            "pref_label": "Prostatic Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C100896"
+        },
+        {
+            "definition": "A yellowish substance produced during bacterial inflammation. It contains necrotic cells and cells fighting the infection. (NCI)",
+            "identifier": "C50718",
+            "notation": "PUS",
+            "pref_label": "Pus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C50718"
+        },
+        {
+            "definition": "A type of tear produced in response to irritation from foreign particles, vapors, bright lights, or peppery substances; contains higher amounts of antibodies in comparison to other tear types.",
+            "identifier": "C176367",
+            "notation": "REFLEX TEAR",
+            "pref_label": "Reflex Tear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C176367"
+        },
+        {
+            "definition": "Immature erythrocytes that have just undergone extrusion of their cell nucleus. They still contain some organelles that gradually decrease in number as the cells mature.",
+            "identifier": "C12528",
+            "notation": "RETICULOCYTES",
+            "pref_label": "Reticulocyte",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12528"
+        },
+        {
+            "definition": "A clear liquid secreted by the salivary glands.",
+            "identifier": "C13275",
+            "notation": "SALIVA",
+            "pref_label": "Saliva",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13275"
+        },
+        {
+            "definition": "A thick, oily substance produced by the sebaceous glands located in the dermis. (NCI)",
+            "identifier": "C13276",
+            "notation": "SEBUM",
+            "pref_label": "Sebum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13276"
+        },
+        {
+            "definition": "The fluid containing the spermatozoa, secreted by the testes and accessory reproductive glands of the male.",
+            "identifier": "C13277",
+            "notation": "SEMEN",
+            "pref_label": "Semen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13277"
+        },
+        {
+            "definition": "Part of the ejaculated fluid. It contains secretions from the seminal vesicles, Cowper gland, and prostate gland.",
+            "identifier": "C33529",
+            "notation": "SEMINAL FLUID",
+            "pref_label": "Seminal Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C33529"
+        },
+        {
+            "alt_label": "Ser/Plas/Bld",
+            "definition": "A specimen type consisting of serum or plasma or blood.",
+            "identifier": "C170628",
+            "notation": "SERUM OR PLASMA OR BLOOD",
+            "pref_label": "Serum or Plasma or Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C170628"
+        },
+        {
+            "alt_label": "Ser/Plas",
+            "definition": "The non-cellular portion of the circulating blood, with or without the clotting proteins present.",
+            "identifier": "C105706",
+            "notation": "SERUM OR PLASMA",
+            "pref_label": "Serum or Plasma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C105706"
+        },
+        {
+            "alt_label": "Sera",
+            "definition": "The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins. (NCI)",
+            "identifier": "C13325",
+            "notation": "SERUM",
+            "pref_label": "Serum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13325"
+        },
+        {
+            "definition": "Voluntary, striated muscle tissue predominantly associated with the skeleton.",
+            "identifier": "C13050",
+            "notation": "SKELETAL MUSCLE TISSUE",
+            "pref_label": "Skeletal Muscle Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13050"
+        },
+        {
+            "definition": "Tissue composed of three layers, epidermis, dermis and subcutis which protect underlying muscles and organs.",
+            "identifier": "C33563",
+            "notation": "SKIN TISSUE",
+            "pref_label": "Skin Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C33563"
+        },
+        {
+            "definition": "A white secretion of the sebaceous glands of the foreskin. (NCI)",
+            "identifier": "C33574",
+            "notation": "SMEGMA",
+            "pref_label": "Smegma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C33574"
+        },
+        {
+            "definition": "Primarily involuntary, non-striated muscle tissue of the internal organs and blood vessels.",
+            "identifier": "C12437",
+            "notation": "SMOOTH MUSCLE TISSUE",
+            "pref_label": "Smooth Muscle Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12437"
+        },
+        {
+            "alt_label": "Soft Tissue",
+            "definition": "Refers to muscle, fat, fibrous tissue, blood vessels, organ parenchyma, or other supporting tissue of the body.",
+            "identifier": "C12471",
+            "notation": "SOFT TISSUE",
+            "pref_label": "Soft Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12471"
+        },
+        {
+            "alt_label": "Sperm Cell",
+            "definition": "The male reproductive cell that is formed in the testicle. A sperm consists of a head, a body, and a tail that provides propulsion.",
+            "identifier": "C12602",
+            "notation": "SPERMATOZOON",
+            "pref_label": "Spermatozoon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12602"
+        },
+        {
+            "definition": "Material containing mucus, cellular debris, microorganisms and sometimes blood or pus. It is ejected through the mouth from the lungs, bronchi, and trachea. (NCI)",
+            "identifier": "C13278",
+            "notation": "SPUTUM",
+            "pref_label": "Sputum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13278"
+        },
+        {
+            "alt_label": "Feces",
+            "definition": "The material discharged from the bowel during defecation. It consists of undigested food, intestinal mucus, epithelial cells, and bacteria. (NCI)",
+            "identifier": "C13234",
+            "notation": "STOOL",
+            "pref_label": "Feces",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13234"
+        },
+        {
+            "definition": "Striated muscles are appendicular and axial muscles typically connected at either or both ends to the bony skeleton of the body. Striated muscle fibers contain a highly organized, contractile cytoskeletal apparatus with a striated microscopic appearance; muscle contraction is typically under voluntary control. (NCI)",
+            "identifier": "C12436",
+            "notation": "STRIATED MUSCLE TISSUE",
+            "pref_label": "Striated Muscle Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12436"
+        },
+        {
+            "definition": "The liquid lying above a liquid, solid or semi-solid residue, which is separated by crystallization, precipitation or centrifugation of a cerebrospinal fluid sample. (NCI)",
+            "identifier": "C150894",
+            "notation": "SUPERNATANT, CEREBROSPINAL FLUID",
+            "pref_label": "Cerebrospinal Fluid Supernatant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C150894"
+        },
+        {
+            "definition": "The liquid lying above a liquid, solid or semi-solid residue, which is separated by crystallization, precipitation or centrifugation of a plasma sample. (NCI)",
+            "identifier": "C106555",
+            "notation": "SUPERNATANT, PLASMA",
+            "pref_label": "Plasma Supernatant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C106555"
+        },
+        {
+            "definition": "The liquid lying above a liquid, solid or semi-solid residue, which is separated by crystallization, precipitation or centrifugation of a pleural fluid sample. (NCI)",
+            "identifier": "C106559",
+            "notation": "SUPERNATANT, PLEURAL FLUID",
+            "pref_label": "Pleural Fluid Supernatant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C106559"
+        },
+        {
+            "definition": "The liquid lying above a liquid, solid or semi-solid residue, which is separated by crystallization, precipitation or centrifugation of a serum or plasma sample. (NCI)",
+            "identifier": "C150893",
+            "notation": "SUPERNATANT, SERUM OR PLASMA",
+            "pref_label": "Serum or Plasma Supernatant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C150893"
+        },
+        {
+            "definition": "The liquid lying above a liquid, solid or semi-solid residue, which is separated by crystallization, precipitation or centrifugation of a serum sample. (NCI)",
+            "identifier": "C106566",
+            "notation": "SUPERNATANT, SERUM",
+            "pref_label": "Serum Supernatant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C106566"
+        },
+        {
+            "definition": "A heterogeneous and variable aggregate of body fluids, tissues, cells, microorganisms, and other materials that are collected from a swab biospecimen collection procedure.",
+            "identifier": "C150895",
+            "notation": "SWABBED MATERIAL",
+            "pref_label": "Swabbed Material",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C150895"
+        },
+        {
+            "alt_label": "Synovia",
+            "definition": "The fluid within a joint capsule.",
+            "identifier": "C33718",
+            "notation": "SYNOVIAL FLUID",
+            "pref_label": "Synovial Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C33718"
+        },
+        {
+            "definition": "The fluid secreted by the lacrimal apparatus.",
+            "identifier": "C33739",
+            "notation": "TEAR",
+            "pref_label": "Tear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C33739"
+        },
+        {
+            "definition": "An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function. (NCI)",
+            "identifier": "C12801",
+            "notation": "TISSUE",
+            "pref_label": "Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C12801"
+        },
+        {
+            "definition": "The fluid that passes through the wall of the veins and capillaries to the surrounding tissues because of increased intravascular pressure. It has low protein content. (NCI)",
+            "identifier": "C78744",
+            "notation": "TRANSUDATE",
+            "pref_label": "Transudate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C78744"
+        },
+        {
+            "definition": "A tumor sample, or entire tumor that is removed for examination.",
+            "identifier": "C18009",
+            "notation": "TUMOR TISSUE",
+            "pref_label": "Tumor Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C18009"
+        },
+        {
+            "definition": "Material separated from urine.",
+            "identifier": "C158282",
+            "notation": "URINE SEDIMENT",
+            "pref_label": "Urine Sediment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C158282"
+        },
+        {
+            "definition": "The fluid produced by the kidneys.",
+            "identifier": "C13283",
+            "notation": "URINE",
+            "pref_label": "Urine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13283"
+        },
+        {
+            "definition": "Deoxygenated blood containing urea and other waste products which is transported through the venous system to the heart and lungs. The exception is blood within the pulmonary vein which is oxygenated and travels from the lungs to the left atrium of the heart. (NCI)",
+            "identifier": "C78730",
+            "notation": "VENOUS BLOOD",
+            "pref_label": "Venous Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C78730"
+        },
+        {
+            "definition": "Blood present in the umbilical vein at the time of delivery.",
+            "identifier": "C120840",
+            "notation": "VENOUS CORD BLOOD",
+            "pref_label": "Venous Cord Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C120840"
+        },
+        {
+            "definition": "A plasma sample that is prepared from venous blood.",
+            "identifier": "C132462",
+            "notation": "VENOUS PLASMA",
+            "pref_label": "Venous Plasma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C132462"
+        },
+        {
+            "definition": "The clear colorless transparent jelly that fills the posterior chamber of the eyeball. (NCI)",
+            "identifier": "C13323",
+            "notation": "VITREOUS HUMOR",
+            "pref_label": "Vitreous Humor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C13323"
+        },
+        {
+            "definition": "The nerve tissue forming the bulk of the deep parts of the brain and the superficial parts of the spinal cord. It is composed of nerve cell processes, i.e. extensions (axons), which connect various gray matter areas of the brain to each other and carry nerve impulses to and from the nerve cell bodies within the central nervous system (neurons). (NCI)",
+            "identifier": "C33892",
+            "notation": "WHITE MATTER TISSUE",
+            "pref_label": "White Matter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78734-C33892"
+        }
+    ]
+}

@@ -1,0 +1,484 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CSS11-Aborted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of aborted or self-interrupted attempt.",
+            "identifier": "C118064",
+            "notation": "CSS11-Aborted Attempt, Describe",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Description of Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118064"
+        },
+        {
+            "alt_label": "CSS11-Aborted Attempt-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything? (Lifetime).",
+            "identifier": "C118060",
+            "notation": "CSS11-Aborted Attempt-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Aborted Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118060"
+        },
+        {
+            "alt_label": "CSS11-Aborted Attempt-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything? (Past 3 Months).",
+            "identifier": "C118061",
+            "notation": "CSS11-Aborted Attempt-P3M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Aborted Suicide Attempt (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118061"
+        },
+        {
+            "alt_label": "CSS11-Actual Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of actual attempt.",
+            "identifier": "C118052",
+            "notation": "CSS11-Actual Attempt, Describe",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Description of Actual Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118052"
+        },
+        {
+            "alt_label": "CSS11-Actual Attempt-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died? (Lifetime).",
+            "identifier": "C118048",
+            "notation": "CSS11-Actual Attempt-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Actual Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118048"
+        },
+        {
+            "alt_label": "CSS11-Actual Attempt-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died? (Past 3 Months).",
+            "identifier": "C118049",
+            "notation": "CSS11-Actual Attempt-P3M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Actual Suicide Attempt (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118049"
+        },
+        {
+            "alt_label": "CSS11-First Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Initial/first attempt actual lethality/medical damage.",
+            "identifier": "C118077",
+            "notation": "CSS11-First Attempt Damage",
+            "pref_label": "C-SSRS Lifetime/Recent Version - First Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118077"
+        },
+        {
+            "alt_label": "CSS11-First Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Initial/first attempt date.",
+            "identifier": "C118076",
+            "notation": "CSS11-First Attempt Date",
+            "pref_label": "C-SSRS Lifetime/Recent Version - First Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118076"
+        },
+        {
+            "alt_label": "CSS11-First Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Initial/first attempt potential lethality.",
+            "identifier": "C118078",
+            "notation": "CSS11-First Attempt Potential",
+            "pref_label": "C-SSRS Lifetime/Recent Version - First Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118078"
+        },
+        {
+            "alt_label": "CSS11-Idea, Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of active suicidal ideation with some intent to act, without specific plan.",
+            "identifier": "C118030",
+            "notation": "CSS11-Idea, Intent, No Plan, Describe",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Description of Active Suicidal Ideation with Some Intent to Act, without Specific Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118030"
+        },
+        {
+            "alt_label": "CSS11-Idea, Intent, No Plan-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you had these thoughts and had some intention of acting on them? (Lifetime).",
+            "identifier": "C118028",
+            "notation": "CSS11-Idea, Intent, No Plan-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118028"
+        },
+        {
+            "alt_label": "CSS11-Idea, Intent, No Plan-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you had these thoughts and had some intention of acting on them? (Past 1 Month).",
+            "identifier": "C118029",
+            "notation": "CSS11-Idea, Intent, No Plan-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118029"
+        },
+        {
+            "alt_label": "CSS11-Idea, No Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of active suicidal ideation with any methods (not plan) without intent to act.",
+            "identifier": "C118027",
+            "notation": "CSS11-Idea, No Intent, No Plan, Describe",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Description of Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118027"
+        },
+        {
+            "alt_label": "CSS11-Idea, No Intent, No Plan-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you been thinking about how you might do this? (Lifetime).",
+            "identifier": "C118025",
+            "notation": "CSS11-Idea, No Intent, No Plan-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118025"
+        },
+        {
+            "alt_label": "CSS11-Idea, No Intent, No Plan-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you been thinking about how you might do this? (Past 1 Month).",
+            "identifier": "C118026",
+            "notation": "CSS11-Idea, No Intent, No Plan-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118026"
+        },
+        {
+            "alt_label": "CSS11-Idea, Plan, Intent, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of active suicidal ideation with specific plan and intent.",
+            "identifier": "C118033",
+            "notation": "CSS11-Idea, Plan, Intent, Describe",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Description of Active Suicidal Ideation with Specific Plan and Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118033"
+        },
+        {
+            "alt_label": "CSS11-Idea, Plan, Intent-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Lifetime).",
+            "identifier": "C118031",
+            "notation": "CSS11-Idea, Plan, Intent-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Specific Plan and Intent (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118031"
+        },
+        {
+            "alt_label": "CSS11-Idea, Plan, Intent-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Past 1 Month).",
+            "identifier": "C118032",
+            "notation": "CSS11-Idea, Plan, Intent-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Specific Plan and Intent (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118032"
+        },
+        {
+            "alt_label": "CSS11-Interrupted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of interrupted attempt.",
+            "identifier": "C118059",
+            "notation": "CSS11-Interrupted Attempt, Describe",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Description of Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118059"
+        },
+        {
+            "alt_label": "CSS11-Interrupted Attempt-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has there been a time when you started to do something to end your life but someone or something stopped you before you actually did anything? (Lifetime).",
+            "identifier": "C118055",
+            "notation": "CSS11-Interrupted Attempt-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Interrupted Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118055"
+        },
+        {
+            "alt_label": "CSS11-Interrupted Attempt-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has there been a time when you started to do something to end your life but someone or something stopped you before you actually did anything? (Past 3 Months).",
+            "identifier": "C118056",
+            "notation": "CSS11-Interrupted Attempt-P3M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Interrupted Suicide Attempt (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118056"
+        },
+        {
+            "alt_label": "CSS11-Most Lethal Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most lethal attempt actual lethality/medical damage.",
+            "identifier": "C118074",
+            "notation": "CSS11-Most Lethal Attempt Damage",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Most Lethal Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118074"
+        },
+        {
+            "alt_label": "CSS11-Most Lethal Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most lethal attempt date.",
+            "identifier": "C118073",
+            "notation": "CSS11-Most Lethal Attempt Date",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Most Lethal Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118073"
+        },
+        {
+            "alt_label": "CSS11-Most Lethal Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most lethal attempt potential lethality.",
+            "identifier": "C118075",
+            "notation": "CSS11-Most Lethal Attempt Potential",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Most Lethal Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118075"
+        },
+        {
+            "alt_label": "CSS11-Most Recent Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most recent attempt actual lethality/medical damage.",
+            "identifier": "C118071",
+            "notation": "CSS11-Most Recent Attempt Damage",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Most Recent Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118071"
+        },
+        {
+            "alt_label": "CSS11-Most Recent Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most recent attempt date.",
+            "identifier": "C118070",
+            "notation": "CSS11-Most Recent Attempt Date",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Most Recent Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118070"
+        },
+        {
+            "alt_label": "CSS11-Most Recent Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most recent attempt potential lethality.",
+            "identifier": "C118072",
+            "notation": "CSS11-Most Recent Attempt Potential",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Most Recent Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118072"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Control-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Lifetime).",
+            "identifier": "C118042",
+            "notation": "CSS11-Most Severe Idea, Control-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Controllability of Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118042"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Control-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Past 1 Month).",
+            "identifier": "C118043",
+            "notation": "CSS11-Most Severe Idea, Control-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Controllability of Most Severe Ideation (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118043"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Desc-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of most severe ideation. (Lifetime).",
+            "identifier": "C118035",
+            "notation": "CSS11-Most Severe Idea, Desc-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Describe Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118035"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Desc-Recent-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of most severe ideation. (Recent - Past 1 Month).",
+            "identifier": "C118037",
+            "notation": "CSS11-Most Severe Idea, Desc-Recent-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Describe Recent Most Severe Ideation (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118037"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Deterrents-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Are there things - anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Lifetime).",
+            "identifier": "C118044",
+            "notation": "CSS11-Most Severe Idea, Deterrents-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Deterrents to Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118044"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Deterrents-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Are there things - anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Past 1 Month).",
+            "identifier": "C118045",
+            "notation": "CSS11-Most Severe Idea, Deterrents-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Deterrents to Most Severe Ideation (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118045"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Duration-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - When you have the thoughts how long do they last? (Lifetime).",
+            "identifier": "C118040",
+            "notation": "CSS11-Most Severe Idea, Duration-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Duration of Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118040"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Duration-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - When you have the thoughts how long do they last? (Past 1 Month).",
+            "identifier": "C118041",
+            "notation": "CSS11-Most Severe Idea, Duration-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Duration of Most Severe Ideation (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118041"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Frequency-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - How many times have you had these thoughts? (Lifetime).",
+            "identifier": "C118038",
+            "notation": "CSS11-Most Severe Idea, Frequency-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Frequency of Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118038"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Frequency-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - How many times have you had these thoughts? (Past 1 Month).",
+            "identifier": "C118039",
+            "notation": "CSS11-Most Severe Idea, Frequency-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Frequency of Most Severe Ideation (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118039"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Reasons-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Lifetime).",
+            "identifier": "C118046",
+            "notation": "CSS11-Most Severe Idea, Reasons-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Reasons for Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118046"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea, Reasons-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Past 1 Month).",
+            "identifier": "C118047",
+            "notation": "CSS11-Most Severe Idea, Reasons-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Reasons for Most Severe Ideation (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118047"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most severe ideation. (Lifetime).",
+            "identifier": "C118034",
+            "notation": "CSS11-Most Severe Idea-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118034"
+        },
+        {
+            "alt_label": "CSS11-Most Severe Idea-Recent-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most severe ideation. (Recent - Past 1 Month).",
+            "identifier": "C118036",
+            "notation": "CSS11-Most Severe Idea-Recent-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Recent Most Severe Ideation (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118036"
+        },
+        {
+            "alt_label": "CSS11-Non-Spec Suicid Thought, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of non-specific active suicidal thoughts.",
+            "identifier": "C118024",
+            "notation": "CSS11-Non-Spec Suicid Thought, Describe",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Description of Non-Specific Active Suicidal Thoughts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118024"
+        },
+        {
+            "alt_label": "CSS11-Non-Spec Suicid Thought-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you actually had any thoughts of killing yourself? (Lifetime).",
+            "identifier": "C118022",
+            "notation": "CSS11-Non-Spec Suicid Thought-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Non-Specific Active Suicidal Thoughts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118022"
+        },
+        {
+            "alt_label": "CSS11-Non-Spec Suicid Thought-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you actually had any thoughts of killing yourself? (Past 1 Month).",
+            "identifier": "C118023",
+            "notation": "CSS11-Non-Spec Suicid Thought-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Non-Specific Active Suicidal Thoughts (Past 1 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118023"
+        },
+        {
+            "alt_label": "CSS11-Non-suicid Self-injur Behav-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has subject engaged in non-suicidal self-injurious behavior? (Lifetime).",
+            "identifier": "C118053",
+            "notation": "CSS11-Non-suicid Self-injur Behav-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Non-suicidal Self-injurious Behavior (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118053"
+        },
+        {
+            "alt_label": "CSS11-Non-suicid Self-injur Behav-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has subject engaged in non-suicidal self-injurious behavior? (Past 3 Months).",
+            "identifier": "C118054",
+            "notation": "CSS11-Non-suicid Self-injur Behav-P3M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Non-suicidal Self-injurious Behavior (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118054"
+        },
+        {
+            "alt_label": "CSS11-Num of Interrupted Attempts-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of interrupted attempts. (Lifetime).",
+            "identifier": "C118057",
+            "notation": "CSS11-Num of Interrupted Attempts-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Number of Interrupted Suicide Attempts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118057"
+        },
+        {
+            "alt_label": "CSS11-Num of Interrupted Attempts-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of interrupted attempts. (Past 3 Months).",
+            "identifier": "C118058",
+            "notation": "CSS11-Num of Interrupted Attempts-P3M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Number of Interrupted Suicide Attempts (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118058"
+        },
+        {
+            "alt_label": "CSS11-Number of Aborted Attempts-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of aborted or self-interrupted attempts. (Lifetime).",
+            "identifier": "C118062",
+            "notation": "CSS11-Number of Aborted Attempts-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Number of Aborted Suicide Attempts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118062"
+        },
+        {
+            "alt_label": "CSS11-Number of Aborted Attempts-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of aborted or self-interrupted attempts. (Past 3 Months).",
+            "identifier": "C118063",
+            "notation": "CSS11-Number of Aborted Attempts-P3M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Number of Aborted Suicide Attempts (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118063"
+        },
+        {
+            "alt_label": "CSS11-Number of Actual Attempts-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of actual attempts. (Lifetime).",
+            "identifier": "C118050",
+            "notation": "CSS11-Number of Actual Attempts-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Number of Actual Suicide Attempts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118050"
+        },
+        {
+            "alt_label": "CSS11-Number of Actual Attempts-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of actual attempts. (Past 3 Months).",
+            "identifier": "C118051",
+            "notation": "CSS11-Number of Actual Attempts-P3M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Number of Actual Suicide Attempts (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118051"
+        },
+        {
+            "alt_label": "CSS11-Preparatory Acts/Behavior, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of preparatory acts or behavior.",
+            "identifier": "C118067",
+            "notation": "CSS11-Preparatory Acts/Behavior, Descr",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Description of Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118067"
+        },
+        {
+            "alt_label": "CSS11-Preparatory Acts/Behavior-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)? (Lifetime).",
+            "identifier": "C118065",
+            "notation": "CSS11-Preparatory Acts/Behavior-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Preparatory Acts or Behaviors Toward Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118065"
+        },
+        {
+            "alt_label": "CSS11-Preparatory Acts/Behavior-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)? (Past 3 Months).",
+            "identifier": "C118066",
+            "notation": "CSS11-Preparatory Acts/Behavior-P3M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Preparatory Acts or Behaviors Toward Suicide Attempt (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118066"
+        },
+        {
+            "alt_label": "CSS11-Suicidal Behavior-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Suicidal behavior was present during the assessment period? (Lifetime).",
+            "identifier": "C118068",
+            "notation": "CSS11-Suicidal Behavior-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Suicidal Behavior (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118068"
+        },
+        {
+            "alt_label": "CSS11-Suicidal Behavior-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Suicidal behavior was present during the assessment period? (Past 3 Months).",
+            "identifier": "C118069",
+            "notation": "CSS11-Suicidal Behavior-P3M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Suicidal Behavior (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118069"
+        },
+        {
+            "alt_label": "CSS11-Wish to be Dead, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of wishing to be dead.",
+            "identifier": "C118021",
+            "notation": "CSS11-Wish to be Dead, Describe",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Description of Wish to be Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118021"
+        },
+        {
+            "alt_label": "CSS11-Wish to be Dead-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you wished you were dead or wished you could go to sleep and not wake up? (Lifetime).",
+            "identifier": "C118019",
+            "notation": "CSS11-Wish to be Dead-Life",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Wish to be Dead (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118019"
+        },
+        {
+            "alt_label": "CSS11-Wish to be Dead-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you wished you were dead or wished you could go to sleep and not wake up? (Past 1 Month).",
+            "identifier": "C118020",
+            "notation": "CSS11-Wish to be Dead-P1M",
+            "pref_label": "C-SSRS Lifetime/Recent Version - Wish to be Dead (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117988-C118020"
+        }
+    ]
+}

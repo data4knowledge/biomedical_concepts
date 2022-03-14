@@ -1,0 +1,27 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A mean of a set of observations where the mathematic calculation is unspecified or unknown.",
+            "identifier": "C181249",
+            "notation": "MEAN",
+            "pref_label": "Mean Based on Unspecified Calculation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177908-C181249"
+        },
+        {
+            "alt_label": "Arithmetic Mean",
+            "definition": "The sum of the values of all observations or data points divided by the number of observations; an arithmetic average. (CDISC Glossary)",
+            "identifier": "C53319",
+            "notation": "MEAN, ARITHMETIC",
+            "pref_label": "Arithmetic Mean",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177908-C53319"
+        },
+        {
+            "alt_label": "Geometric Mean",
+            "definition": "The n-th root of the multiple products of n values; a geometric average.",
+            "identifier": "C94906",
+            "notation": "MEAN, GEOMETRIC",
+            "pref_label": "Geometric Mean",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177908-C94906"
+        }
+    ]
+}

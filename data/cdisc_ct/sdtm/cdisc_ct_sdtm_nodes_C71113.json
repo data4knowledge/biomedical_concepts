@@ -1,0 +1,759 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "One Time Per Week",
+            "definition": "One time per week. (NCI)",
+            "identifier": "C64526",
+            "notation": "1 TIME PER WEEK",
+            "pref_label": "Once Weekly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64526"
+        },
+        {
+            "alt_label": "10 Days Monthly",
+            "definition": "Ten days per month. (NCI)",
+            "identifier": "C139179",
+            "notation": "10 DAYS PER MONTH",
+            "pref_label": "Ten Days Per Month",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C139179"
+        },
+        {
+            "definition": "Two times per cycle.",
+            "identifier": "C176288",
+            "notation": "2 TIMES PER CYCLE",
+            "pref_label": "Two Times Per Cycle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C176288"
+        },
+        {
+            "alt_label": "BIS;Twice per week",
+            "definition": "Two times per week. (NCI)",
+            "identifier": "C64497",
+            "notation": "2 TIMES PER WEEK",
+            "pref_label": "Twice Weekly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64497"
+        },
+        {
+            "alt_label": "2 Times Per Year",
+            "definition": "Two times per year. (NCI)",
+            "identifier": "C98861",
+            "notation": "2 TIMES PER YEAR",
+            "pref_label": "Two Times Yearly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98861"
+        },
+        {
+            "definition": "Three times per cycle.",
+            "identifier": "C176289",
+            "notation": "3 TIMES PER CYCLE",
+            "pref_label": "Three Times Per Cycle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C176289"
+        },
+        {
+            "alt_label": "3 Times Per Month",
+            "definition": "Three times per month. (NCI)",
+            "identifier": "C98859",
+            "notation": "3 TIMES PER MONTH",
+            "pref_label": "Three Times Monthly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98859"
+        },
+        {
+            "alt_label": "Three times a week;TIS",
+            "definition": "Three times per week. (NCI)",
+            "identifier": "C64528",
+            "notation": "3 TIMES PER WEEK",
+            "pref_label": "Three Times Weekly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64528"
+        },
+        {
+            "alt_label": "3 Times Per Year",
+            "definition": "Three times per year. (NCI)",
+            "identifier": "C98860",
+            "notation": "3 TIMES PER YEAR",
+            "pref_label": "Three Times Yearly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98860"
+        },
+        {
+            "alt_label": "4 Times Per Month",
+            "definition": "Four times per month. (NCI)",
+            "identifier": "C98852",
+            "notation": "4 TIMES PER MONTH",
+            "pref_label": "Four Times Monthly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98852"
+        },
+        {
+            "alt_label": "4 times per week;QIS",
+            "definition": "Four times per week. (NCI)",
+            "identifier": "C64531",
+            "notation": "4 TIMES PER WEEK",
+            "pref_label": "Four Times Weekly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64531"
+        },
+        {
+            "alt_label": "4 Times Per Year",
+            "definition": "Four times per year. (NCI)",
+            "identifier": "C98853",
+            "notation": "4 TIMES PER YEAR",
+            "pref_label": "Four Times Yearly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98853"
+        },
+        {
+            "alt_label": "5 Times Daily",
+            "definition": "Five times per day. (NCI)",
+            "identifier": "C98849",
+            "notation": "5 TIMES PER DAY",
+            "pref_label": "Five Times Daily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98849"
+        },
+        {
+            "alt_label": "5 Times Per Month",
+            "definition": "Five times per month. (NCI)",
+            "identifier": "C98850",
+            "notation": "5 TIMES PER MONTH",
+            "pref_label": "Five Times Monthly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98850"
+        },
+        {
+            "alt_label": "5 Times Per Week",
+            "definition": "Five times per week. (NCI)",
+            "identifier": "C85552",
+            "notation": "5 TIMES PER WEEK",
+            "pref_label": "Five Times Weekly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C85552"
+        },
+        {
+            "alt_label": "5 Times Per Year",
+            "definition": "Five times per year. (NCI)",
+            "identifier": "C98851",
+            "notation": "5 TIMES PER YEAR",
+            "pref_label": "Five Times Yearly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98851"
+        },
+        {
+            "alt_label": "6 Times Daily",
+            "definition": "Six times per day. (NCI)",
+            "identifier": "C98855",
+            "notation": "6 TIMES PER DAY",
+            "pref_label": "Six Times Daily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98855"
+        },
+        {
+            "alt_label": "6 Times Per Month",
+            "definition": "Six times per month. (NCI)",
+            "identifier": "C98856",
+            "notation": "6 TIMES PER MONTH",
+            "pref_label": "Six Times Monthly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98856"
+        },
+        {
+            "alt_label": "6 Times Per Week",
+            "definition": "Six times per week. (NCI)",
+            "identifier": "C98857",
+            "notation": "6 TIMES PER WEEK",
+            "pref_label": "Six Times Weekly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98857"
+        },
+        {
+            "alt_label": "6 Times Per Year",
+            "definition": "Six times per year. (NCI)",
+            "identifier": "C98858",
+            "notation": "6 TIMES PER YEAR",
+            "pref_label": "Six Times Yearly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98858"
+        },
+        {
+            "alt_label": "7 Times Daily",
+            "definition": "Seven times per day. (NCI)",
+            "identifier": "C139180",
+            "notation": "7 TIMES PER DAY",
+            "pref_label": "Seven Times Per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C139180"
+        },
+        {
+            "alt_label": "7 Times Per Week",
+            "definition": "Seven times per week. (NCI)",
+            "identifier": "C98854",
+            "notation": "7 TIMES PER WEEK",
+            "pref_label": "Seven Times Weekly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C98854"
+        },
+        {
+            "alt_label": "8 Times Daily",
+            "definition": "Eight times per day. (NCI)",
+            "identifier": "C139181",
+            "notation": "8 TIMES PER DAY",
+            "pref_label": "Eight Times Per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C139181"
+        },
+        {
+            "alt_label": "9 Times Daily",
+            "definition": "Nine times per day. (NCI)",
+            "identifier": "C139182",
+            "notation": "9 TIMES PER DAY",
+            "pref_label": "Nine Times Per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C139182"
+        },
+        {
+            "alt_label": "Ad Libitum",
+            "definition": "As much as desired.",
+            "identifier": "C64636",
+            "notation": "AD LIBITUM",
+            "pref_label": "As Much as Desired",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64636"
+        },
+        {
+            "alt_label": "BD;Twice per day",
+            "definition": "Two times per day, at unspecified times. (NCI)",
+            "identifier": "C64496",
+            "notation": "BID",
+            "pref_label": "Twice Daily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64496"
+        },
+        {
+            "alt_label": "Twice per month",
+            "definition": "Twice per month. (NCI)",
+            "identifier": "C71129",
+            "notation": "BIM",
+            "pref_label": "Twice Per Month",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C71129"
+        },
+        {
+            "alt_label": "Continuous",
+            "definition": "Remain in force or carry on without letup; keep or maintain in unaltered condition; exist in time or space without stop or interruption. (NCI)",
+            "identifier": "C53279",
+            "notation": "CONTINUOUS",
+            "pref_label": "Continue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C53279"
+        },
+        {
+            "alt_label": "Q12S",
+            "definition": "Every twelve weeks.",
+            "identifier": "C161332",
+            "notation": "EVERY 12 WEEKS",
+            "pref_label": "Every Twelve Weeks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C161332"
+        },
+        {
+            "alt_label": "Q16S",
+            "definition": "Every sixteen weeks.",
+            "identifier": "C161336",
+            "notation": "EVERY 16 WEEKS",
+            "pref_label": "Every Sixteen Weeks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C161336"
+        },
+        {
+            "alt_label": "Every 2 weeks;Q2S",
+            "definition": "Every two weeks. (NCI)",
+            "identifier": "C71127",
+            "notation": "EVERY 2 WEEKS",
+            "pref_label": "Every Two Weeks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C71127"
+        },
+        {
+            "alt_label": "Every 3 weeks;Q3S",
+            "definition": "Every three weeks. (NCI)",
+            "identifier": "C64535",
+            "notation": "EVERY 3 WEEKS",
+            "pref_label": "Every Three Weeks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64535"
+        },
+        {
+            "definition": "Every three years.",
+            "identifier": "C161333",
+            "notation": "EVERY 3 YEARS",
+            "pref_label": "Every Three Years",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C161333"
+        },
+        {
+            "alt_label": "Every 4 weeks;Q4S",
+            "definition": "Every four weeks. (NCI)",
+            "identifier": "C64529",
+            "notation": "EVERY 4 WEEKS",
+            "pref_label": "Every Four Weeks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64529"
+        },
+        {
+            "alt_label": "Every 5 weeks;Q5S",
+            "definition": "Every five weeks. (NCI)",
+            "identifier": "C103390",
+            "notation": "EVERY 5 WEEKS",
+            "pref_label": "Every Five Weeks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C103390"
+        },
+        {
+            "definition": "Every five years.",
+            "identifier": "C161334",
+            "notation": "EVERY 5 YEARS",
+            "pref_label": "Every Five Years",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C161334"
+        },
+        {
+            "alt_label": "Every 6 Weeks;Q6S",
+            "definition": "Every six weeks. (NCI)",
+            "identifier": "C89788",
+            "notation": "EVERY 6 WEEKS",
+            "pref_label": "Every Six Weeks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C89788"
+        },
+        {
+            "alt_label": "Every 7 weeks;Q7S",
+            "definition": "Every seven weeks.",
+            "identifier": "C116149",
+            "notation": "EVERY 7 WEEKS",
+            "pref_label": "Every Seven Weeks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C116149"
+        },
+        {
+            "alt_label": "Every 8 weeks;Q8S",
+            "definition": "Every eight weeks. (NCI)",
+            "identifier": "C103389",
+            "notation": "EVERY 8 WEEKS",
+            "pref_label": "Every Eight Weeks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C103389"
+        },
+        {
+            "definition": "Every afternoon.",
+            "identifier": "C154484",
+            "notation": "EVERY AFTERNOON",
+            "pref_label": "Every Afternoon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C154484"
+        },
+        {
+            "definition": "Every evening.",
+            "identifier": "C160957",
+            "notation": "EVERY EVENING",
+            "pref_label": "Every Evening",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C160957"
+        },
+        {
+            "alt_label": "Every week;Per Week;QS",
+            "definition": "Every week. (NCI)",
+            "identifier": "C67069",
+            "notation": "EVERY WEEK",
+            "pref_label": "Weekly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C67069"
+        },
+        {
+            "alt_label": "Intermittent",
+            "definition": "Periodically stopping and starting. (NCI)",
+            "identifier": "C71325",
+            "notation": "INTERMITTENT",
+            "pref_label": "Intermittent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C71325"
+        },
+        {
+            "alt_label": "Occasional",
+            "definition": "Not occurring regularly or at short intervals.",
+            "identifier": "C64954",
+            "notation": "OCCASIONAL",
+            "pref_label": "Infrequent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64954"
+        },
+        {
+            "definition": "One time.",
+            "identifier": "C64576",
+            "notation": "ONCE",
+            "pref_label": "Once",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64576"
+        },
+        {
+            "alt_label": "/Year;Every Year;Per Annum;Per Year",
+            "definition": "A frequency rate of occurrences of something within a period of time equal to three hundred sixty-five days.",
+            "identifier": "C74924",
+            "notation": "PA",
+            "pref_label": "Per Year",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C74924"
+        },
+        {
+            "alt_label": "As needed",
+            "definition": "As needed. (NCI)",
+            "identifier": "C64499",
+            "notation": "PRN",
+            "pref_label": "As Needed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64499"
+        },
+        {
+            "alt_label": "Every 10 hours",
+            "definition": "Every ten hours. (NCI)",
+            "identifier": "C64500",
+            "notation": "Q10H",
+            "pref_label": "Every Ten Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64500"
+        },
+        {
+            "alt_label": "Every 11 hours",
+            "definition": "Every eleven hours. (NCI)",
+            "identifier": "C64501",
+            "notation": "Q11H",
+            "pref_label": "Every Eleven Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64501"
+        },
+        {
+            "alt_label": "Every 12 hours",
+            "definition": "Every twelve hours. (NCI)",
+            "identifier": "C64502",
+            "notation": "Q12H",
+            "pref_label": "Every Twelve Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64502"
+        },
+        {
+            "alt_label": "Every 13 hours",
+            "definition": "Every thirteen hours. (NCI)",
+            "identifier": "C64503",
+            "notation": "Q13H",
+            "pref_label": "Every Thirteen Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64503"
+        },
+        {
+            "alt_label": "Every 14 hours",
+            "definition": "Every fourteen hours. (NCI)",
+            "identifier": "C64504",
+            "notation": "Q14H",
+            "pref_label": "Every Fourteen Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64504"
+        },
+        {
+            "alt_label": "Every 15 hours",
+            "definition": "Every fifteen hours. (NCI)",
+            "identifier": "C64505",
+            "notation": "Q15H",
+            "pref_label": "Every Fifteen Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64505"
+        },
+        {
+            "alt_label": "Every 16 hours",
+            "definition": "Every sixteen hours. (NCI)",
+            "identifier": "C64506",
+            "notation": "Q16H",
+            "pref_label": "Every Sixteen Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64506"
+        },
+        {
+            "alt_label": "Every 17 hours",
+            "definition": "Every seventeen hours. (NCI)",
+            "identifier": "C64507",
+            "notation": "Q17H",
+            "pref_label": "Every Seventeen Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64507"
+        },
+        {
+            "alt_label": "Every 18 hours",
+            "definition": "Every eighteen hours. (NCI)",
+            "identifier": "C64508",
+            "notation": "Q18H",
+            "pref_label": "Every Eighteen Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64508"
+        },
+        {
+            "alt_label": "Every 19 hours",
+            "definition": "Every nineteen hours. (NCI)",
+            "identifier": "C64509",
+            "notation": "Q19H",
+            "pref_label": "Every Nineteen Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64509"
+        },
+        {
+            "alt_label": "Every 20 hours",
+            "definition": "Every twenty hours. (NCI)",
+            "identifier": "C64511",
+            "notation": "Q20H",
+            "pref_label": "Every Twenty Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64511"
+        },
+        {
+            "alt_label": "Every 21 hours",
+            "definition": "Every twenty-one hours. (NCI)",
+            "identifier": "C64512",
+            "notation": "Q21H",
+            "pref_label": "Every Twenty-One Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64512"
+        },
+        {
+            "alt_label": "Every 22 hours",
+            "definition": "Every twenty-two hours. (NCI)",
+            "identifier": "C64513",
+            "notation": "Q22H",
+            "pref_label": "Every Twenty-Two Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64513"
+        },
+        {
+            "alt_label": "Every 23 hours",
+            "definition": "Every twenty-three hours. (NCI)",
+            "identifier": "C64514",
+            "notation": "Q23H",
+            "pref_label": "Every Twenty-Three Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64514"
+        },
+        {
+            "alt_label": "Every 24 hours",
+            "definition": "Every twenty-four hours. (NCI)",
+            "identifier": "C64515",
+            "notation": "Q24H",
+            "pref_label": "Every Twenty-Four Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64515"
+        },
+        {
+            "alt_label": "Every 2 hours",
+            "definition": "Every two hours. (NCI)",
+            "identifier": "C64516",
+            "notation": "Q2H",
+            "pref_label": "Every Two Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64516"
+        },
+        {
+            "alt_label": "Every two months",
+            "definition": "Every two months. (NCI)",
+            "identifier": "C64536",
+            "notation": "Q2M",
+            "pref_label": "Every Two Months",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64536"
+        },
+        {
+            "alt_label": "Every 36 Hours",
+            "definition": "Every thirty-six hours. (NCI)",
+            "identifier": "C89791",
+            "notation": "Q36H",
+            "pref_label": "Every Thirty-six Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C89791"
+        },
+        {
+            "alt_label": "Every 3 days",
+            "definition": "Every three days. (NCI)",
+            "identifier": "C64533",
+            "notation": "Q3D",
+            "pref_label": "Every Three Days",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64533"
+        },
+        {
+            "alt_label": "Every 3 hours",
+            "definition": "Every three hours. (NCI)",
+            "identifier": "C64517",
+            "notation": "Q3H",
+            "pref_label": "Every Three Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64517"
+        },
+        {
+            "alt_label": "Every 3 months",
+            "definition": "Every three months. (NCI)",
+            "identifier": "C64537",
+            "notation": "Q3M",
+            "pref_label": "Every Three Months",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64537"
+        },
+        {
+            "alt_label": "Every 45 Minutes",
+            "definition": "Every forty-five minutes. (NCI)",
+            "identifier": "C139183",
+            "notation": "Q45MIN",
+            "pref_label": "Every Forty-Five Minutes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C139183"
+        },
+        {
+            "alt_label": "Every 48 Hours",
+            "definition": "Every forty-eight hours. (NCI)",
+            "identifier": "C89790",
+            "notation": "Q48H",
+            "pref_label": "Every Forty-eight Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C89790"
+        },
+        {
+            "alt_label": "Every 4 days",
+            "definition": "Every four days. (NCI)",
+            "identifier": "C64534",
+            "notation": "Q4D",
+            "pref_label": "Every Four Days",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64534"
+        },
+        {
+            "alt_label": "Every 4 hours",
+            "definition": "Every four hours. (NCI)",
+            "identifier": "C64518",
+            "notation": "Q4H",
+            "pref_label": "Every Four Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64518"
+        },
+        {
+            "alt_label": "Every 4 months",
+            "definition": "Every four months. (NCI)",
+            "identifier": "C64538",
+            "notation": "Q4M",
+            "pref_label": "Every Four Months",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64538"
+        },
+        {
+            "alt_label": "Every 5 days",
+            "definition": "Every five days. (NCI)",
+            "identifier": "C71124",
+            "notation": "Q5D",
+            "pref_label": "Every Five Days",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C71124"
+        },
+        {
+            "alt_label": "Every 5 hours",
+            "definition": "Every five hours. (NCI)",
+            "identifier": "C64519",
+            "notation": "Q5H",
+            "pref_label": "Every Five Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64519"
+        },
+        {
+            "definition": "Every six days.",
+            "identifier": "C161335",
+            "notation": "Q6D",
+            "pref_label": "Every Six Days",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C161335"
+        },
+        {
+            "alt_label": "Every 6 hours",
+            "definition": "Every six hours. (NCI)",
+            "identifier": "C64520",
+            "notation": "Q6H",
+            "pref_label": "Every Six Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64520"
+        },
+        {
+            "alt_label": "Every 6 Months",
+            "definition": "Every six months. (NCI)",
+            "identifier": "C89789",
+            "notation": "Q6M",
+            "pref_label": "Every Six Months",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C89789"
+        },
+        {
+            "alt_label": "Every 72 hours",
+            "definition": "Every seventy-two hours.",
+            "identifier": "C174288",
+            "notation": "Q72H",
+            "pref_label": "Every Seventy Two Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C174288"
+        },
+        {
+            "alt_label": "Every 7 Days",
+            "definition": "Every seven days. (NCI)",
+            "identifier": "C139177",
+            "notation": "Q7D",
+            "pref_label": "Every Seven Days",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C139177"
+        },
+        {
+            "alt_label": "Every 7 hours",
+            "definition": "Every seven hours. (NCI)",
+            "identifier": "C64521",
+            "notation": "Q7H",
+            "pref_label": "Every Seven Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64521"
+        },
+        {
+            "alt_label": "Every 8 hours",
+            "definition": "Every eight hours. (NCI)",
+            "identifier": "C64523",
+            "notation": "Q8H",
+            "pref_label": "Every Eight Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64523"
+        },
+        {
+            "alt_label": "Every 9 hours",
+            "definition": "Every nine hours. (NCI)",
+            "identifier": "C64524",
+            "notation": "Q9H",
+            "pref_label": "Every Nine Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64524"
+        },
+        {
+            "alt_label": "Every Morning",
+            "definition": "Every morning. (NCI)",
+            "identifier": "C64595",
+            "notation": "QAM",
+            "pref_label": "Every Morning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64595"
+        },
+        {
+            "alt_label": "/day;Daily;Per Day",
+            "definition": "A rate of occurrences within a period of time equal to one day.",
+            "identifier": "C25473",
+            "notation": "QD",
+            "pref_label": "Daily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C25473"
+        },
+        {
+            "alt_label": "Every hour",
+            "definition": "Every hour. (NCI)",
+            "identifier": "C64510",
+            "notation": "QH",
+            "pref_label": "Every Hour",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64510"
+        },
+        {
+            "definition": "Every day at bedtime.",
+            "identifier": "C64593",
+            "notation": "QHS",
+            "pref_label": "Hour Of Sleep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64593"
+        },
+        {
+            "alt_label": "4 times per day",
+            "definition": "Four times per day. (NCI)",
+            "identifier": "C64530",
+            "notation": "QID",
+            "pref_label": "Four Times Daily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64530"
+        },
+        {
+            "alt_label": "Every Month;Per Month",
+            "definition": "Every month. (NCI)",
+            "identifier": "C64498",
+            "notation": "QM",
+            "pref_label": "Monthly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64498"
+        },
+        {
+            "definition": "Every night.",
+            "identifier": "C139178",
+            "notation": "QN",
+            "pref_label": "Every Night",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C139178"
+        },
+        {
+            "alt_label": "Every other day;Every Second Day;Every Two Days;Q2D",
+            "definition": "Every other day. (NCI)",
+            "identifier": "C64525",
+            "notation": "QOD",
+            "pref_label": "Every Other Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64525"
+        },
+        {
+            "definition": "Every day, on or after 12:00 pm.",
+            "identifier": "C64596",
+            "notation": "QPM",
+            "pref_label": "QPM",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64596"
+        },
+        {
+            "definition": "Three times.",
+            "identifier": "C156502",
+            "notation": "THRICE",
+            "pref_label": "Thrice",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C156502"
+        },
+        {
+            "alt_label": "3 times per day",
+            "definition": "Three times per day. (NCI)",
+            "identifier": "C64527",
+            "notation": "TID",
+            "pref_label": "Three Times Daily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C64527"
+        },
+        {
+            "definition": "Two times. (NCI)",
+            "identifier": "C65134",
+            "notation": "TWICE",
+            "pref_label": "Twice",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C65134"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71113-C17998"
+        }
+    ]
+}

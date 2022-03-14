@@ -1,0 +1,548 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "UPD1--Motor:Action Tremor:Hand: Left",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Action tremor: Hand: Left.",
+            "identifier": "C111591",
+            "notation": "UPD1--Motor:Action Tremor:Hand: Left",
+            "pref_label": "UPDRS - Motor Examination: Action Tremor, Hand, Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111591"
+        },
+        {
+            "alt_label": "UPD1--Motor:Action Tremor:Hand: Right",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Action tremor: Hand: Right.",
+            "identifier": "C111590",
+            "notation": "UPD1--Motor:Action Tremor:Hand: Right",
+            "pref_label": "UPDRS - Motor Examination: Action Tremor, Hand, Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111590"
+        },
+        {
+            "alt_label": "UPD1-Activities Daily Living Sub-Total",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living sub-total.",
+            "identifier": "C111614",
+            "notation": "UPD1-Activities Daily Living Sub-Total",
+            "pref_label": "UPDRS - Activities of Daily Living Sub-total",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111614"
+        },
+        {
+            "alt_label": "UPD1-Activities:Cut Food/Handle Utensil",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Cutting food and handling utensils.",
+            "identifier": "C100909",
+            "notation": "UPD1-Activities:Cut Food/Handle Utensil",
+            "pref_label": "UPDRS - Activities of Daily Living: Cutting Food and Handling Utensils",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100909"
+        },
+        {
+            "alt_label": "UPD1-Activities:Dressing",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Dressing.",
+            "identifier": "C100910",
+            "notation": "UPD1-Activities:Dressing",
+            "pref_label": "UPDRS - Activities of Daily Living: Dressing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100910"
+        },
+        {
+            "alt_label": "UPD1-Activities:Falling",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Falling (unrelated to freezing).",
+            "identifier": "C100913",
+            "notation": "UPD1-Activities:Falling",
+            "pref_label": "UPDRS - Activities of Daily Living: Falling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100913"
+        },
+        {
+            "alt_label": "UPD1-Activities:Freezing When Walking",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Freezing when walking.",
+            "identifier": "C100914",
+            "notation": "UPD1-Activities:Freezing When Walking",
+            "pref_label": "UPDRS - Activities of Daily Living: Freezing When Walking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100914"
+        },
+        {
+            "alt_label": "UPD1-Activities:Handwriting",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Handwriting.",
+            "identifier": "C100908",
+            "notation": "UPD1-Activities:Handwriting",
+            "pref_label": "UPDRS - Activities of Daily Living: Handwriting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100908"
+        },
+        {
+            "alt_label": "UPD1-Activities:Hygiene",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Hygiene.",
+            "identifier": "C100911",
+            "notation": "UPD1-Activities:Hygiene",
+            "pref_label": "UPDRS - Activities of Daily Living: Hygiene",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100911"
+        },
+        {
+            "alt_label": "UPD1-Activities:Salivation",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Salivation.",
+            "identifier": "C100906",
+            "notation": "UPD1-Activities:Salivation",
+            "pref_label": "UPDRS - Activities of Daily Living: Salivation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100906"
+        },
+        {
+            "alt_label": "UPD1-Activities:Sensory Complaints",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Sensory complaints related to Parkinsonism.",
+            "identifier": "C100917",
+            "notation": "UPD1-Activities:Sensory Complaints",
+            "pref_label": "UPDRS - Activities of Daily Living: Sensory Complaints Related to Parkinsonism",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100917"
+        },
+        {
+            "alt_label": "UPD1-Activities:Speech",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Speech.",
+            "identifier": "C100905",
+            "notation": "UPD1-Activities:Speech",
+            "pref_label": "UPDRS - Activities of Daily Living: Speech",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100905"
+        },
+        {
+            "alt_label": "UPD1-Activities:Swallowing",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Swallowing.",
+            "identifier": "C100907",
+            "notation": "UPD1-Activities:Swallowing",
+            "pref_label": "UPDRS - Activities of Daily Living: Swallowing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100907"
+        },
+        {
+            "alt_label": "UPD1-Activities:Tremor",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Tremor (Symptomatic complaint of tremor in any part of body.).",
+            "identifier": "C100916",
+            "notation": "UPD1-Activities:Tremor",
+            "pref_label": "UPDRS - Activities of Daily Living: Tremor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100916"
+        },
+        {
+            "alt_label": "UPD1-Activities:Turn Bed/Adj Clothes",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Turning in bed and adjusting bed clothes.",
+            "identifier": "C100912",
+            "notation": "UPD1-Activities:Turn Bed/Adj Clothes",
+            "pref_label": "UPDRS - Activities of Daily Living: Turning in Bed and Adjusting Bed Clothes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100912"
+        },
+        {
+            "alt_label": "UPD1-Activities:Walking",
+            "definition": "Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Walking.",
+            "identifier": "C100915",
+            "notation": "UPD1-Activities:Walking",
+            "pref_label": "UPDRS - Activities of Daily Living: Walking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100915"
+        },
+        {
+            "alt_label": "UPD1-Blood Pressure: Seated",
+            "definition": "Unified Parkinson's Disease Rating Scale - Blood pressure: Seated.",
+            "identifier": "C111605",
+            "notation": "UPD1-Blood Pressure: Seated",
+            "pref_label": "UPDRS - Symptomatic Orthostasis: Blood Pressure, Seated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111605"
+        },
+        {
+            "alt_label": "UPD1-Blood Pressure: Standing",
+            "definition": "Unified Parkinson's Disease Rating Scale - Blood pressure: Standing.",
+            "identifier": "C111607",
+            "notation": "UPD1-Blood Pressure: Standing",
+            "pref_label": "UPDRS - Symptomatic Orthostasis: Blood Pressure, Standing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111607"
+        },
+        {
+            "alt_label": "UPD1-Blood Pressure: Supine",
+            "definition": "Unified Parkinson's Disease Rating Scale - Blood pressure: Supine.",
+            "identifier": "C111606",
+            "notation": "UPD1-Blood Pressure: Supine",
+            "pref_label": "UPDRS - Symptomatic Orthostasis: Blood Pressure, Supine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111606"
+        },
+        {
+            "alt_label": "UPD1-Complications:Anorex Nausea Vomit",
+            "definition": "Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Other complications, Does the patient have anorexia, nausea, or vomiting?",
+            "identifier": "C100940",
+            "notation": "UPD1-Complications:Anorex Nausea Vomit",
+            "pref_label": "UPDRS - Complications of Therapy: Other Complications - Anorexia, Nausea, or Vomiting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100940"
+        },
+        {
+            "alt_label": "UPD1-Complications:Dyskinesias Disable",
+            "definition": "Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Dyskinesias, Disability: How disabling are the dyskinesias? (Historical information; may be modified by office examination.).",
+            "identifier": "C100933",
+            "notation": "UPD1-Complications:Dyskinesias Disable",
+            "pref_label": "UPDRS - Complications of Therapy: Dyskinesias - Disability",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100933"
+        },
+        {
+            "alt_label": "UPD1-Complications:Dyskinesias Duration",
+            "definition": "Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Dyskinesias, Duration: What proportion of the waking day are dyskinesias present? (Historical information.).",
+            "identifier": "C100932",
+            "notation": "UPD1-Complications:Dyskinesias Duration",
+            "pref_label": "UPDRS - Complications of Therapy: Dyskinesias - Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100932"
+        },
+        {
+            "alt_label": "UPD1-Complications:Dyskinesias Dystonia",
+            "definition": "Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Dyskinesias, Presence of early morning dystonia (Historical information.).",
+            "identifier": "C100935",
+            "notation": "UPD1-Complications:Dyskinesias Dystonia",
+            "pref_label": "UPDRS - Complications of Therapy: Dyskinesias - Presence of Early Morning Dystonia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100935"
+        },
+        {
+            "alt_label": "UPD1-Complications:Dyskinesias Painful",
+            "definition": "Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Dyskinesias, Painful dyskinesias: How painful are the dyskinesias?",
+            "identifier": "C100934",
+            "notation": "UPD1-Complications:Dyskinesias Painful",
+            "pref_label": "UPDRS - Complications of Therapy: Dyskinesias - Painful Dyskinesias",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100934"
+        },
+        {
+            "alt_label": "UPD1-Complications:Fluct Average",
+            "definition": "Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Clinical fluctuations, What proportion of the waking day is the patient 'off' on average?",
+            "identifier": "C100939",
+            "notation": "UPD1-Complications:Fluct Average",
+            "pref_label": "UPDRS - Complications of Therapy: Clinical Fluctuations - Average Off Periods Per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100939"
+        },
+        {
+            "alt_label": "UPD1-Complications:Fluct Predictable",
+            "definition": "Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Clinical fluctuations, Are 'off' periods predictable?",
+            "identifier": "C100936",
+            "notation": "UPD1-Complications:Fluct Predictable",
+            "pref_label": "UPDRS - Complications of Therapy: Clinical Fluctuations - Off Periods Predictable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100936"
+        },
+        {
+            "alt_label": "UPD1-Complications:Fluct Suddenly",
+            "definition": "Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Clinical fluctuations, Do 'off' periods come on suddenly, within a few seconds?",
+            "identifier": "C100938",
+            "notation": "UPD1-Complications:Fluct Suddenly",
+            "pref_label": "UPDRS - Complications of Therapy: Clinical Fluctuations - Off Periods Sudden",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100938"
+        },
+        {
+            "alt_label": "UPD1-Complications:Fluct Unpredictable",
+            "definition": "Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Clinical fluctuations, Are 'off' periods unpredictable?",
+            "identifier": "C100937",
+            "notation": "UPD1-Complications:Fluct Unpredictable",
+            "pref_label": "UPDRS - Complications of Therapy: Clinical Fluctuations - Off Periods Unpredictable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100937"
+        },
+        {
+            "alt_label": "UPD1-Complications:Insomnia Hypersomnol",
+            "definition": "Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Other complications, Any sleep disturbances, such as insomnia or hypersomnolence?",
+            "identifier": "C100941",
+            "notation": "UPD1-Complications:Insomnia Hypersomnol",
+            "pref_label": "UPDRS - Complications of Therapy: Other Complications - Sleep Disturbances",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100941"
+        },
+        {
+            "alt_label": "UPD1-Complications:Symptom Orthostasis",
+            "definition": "Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Other complications, Does the patient have symptomatic orthostasis? (Record the patient's blood pressure, height and weight on the scoring form).",
+            "identifier": "C100942",
+            "notation": "UPD1-Complications:Symptom Orthostasis",
+            "pref_label": "UPDRS - Complications of Therapy: Other Complications - Symptomatic Orthostasis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100942"
+        },
+        {
+            "alt_label": "UPD1-Mentation, Behavior, Mood Sub-Total",
+            "definition": "Unified Parkinson's Disease Rating Scale - Mentation, behavior and mood sub-total.",
+            "identifier": "C111613",
+            "notation": "UPD1-Mentation, Behavior, Mood Sub-Total",
+            "pref_label": "UPDRS - Mentation, Behavior and Mood Sub-total",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111613"
+        },
+        {
+            "alt_label": "UPD1-Mentation:Depression",
+            "definition": "Unified Parkinson's Disease Rating Scale - Mentation, behavior and mood: Depression.",
+            "identifier": "C100903",
+            "notation": "UPD1-Mentation:Depression",
+            "pref_label": "UPDRS - Mentation, Behavior and Mood: Depression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100903"
+        },
+        {
+            "alt_label": "UPD1-Mentation:Intellectual Impairment",
+            "definition": "Unified Parkinson's Disease Rating Scale - Mentation, behavior and mood: Intellectual impairment.",
+            "identifier": "C100901",
+            "notation": "UPD1-Mentation:Intellectual Impairment",
+            "pref_label": "UPDRS - Mentation, Behavior and Mood: Intellectual Impairment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100901"
+        },
+        {
+            "alt_label": "UPD1-Mentation:Motivation/Initiative",
+            "definition": "Unified Parkinson's Disease Rating Scale - Mentation, behavior and mood: Motivation/Initiative.",
+            "identifier": "C100904",
+            "notation": "UPD1-Mentation:Motivation/Initiative",
+            "pref_label": "UPDRS - Mentation, Behavior and Mood: Motivation/Initiative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100904"
+        },
+        {
+            "alt_label": "UPD1-Mentation:Thought Disorder",
+            "definition": "Unified Parkinson's Disease Rating Scale - Mentation, behavior and mood: Thought disorder.",
+            "identifier": "C100902",
+            "notation": "UPD1-Mentation:Thought Disorder",
+            "pref_label": "UPDRS - Mentation, Behavior and Mood: Thought Disorder",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100902"
+        },
+        {
+            "alt_label": "UPD1-Modified Hoehn and Yahr Staging",
+            "definition": "Unified Parkinson's Disease Rating Scale - Modified Hoehn and Yahr Staging.",
+            "identifier": "C100943",
+            "notation": "UPD1-Modified Hoehn and Yahr Staging",
+            "pref_label": "UPDRS - Modified Hoehn and Yahr Staging",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100943"
+        },
+        {
+            "alt_label": "UPD1-Motor Examination Sub-Total",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination sub-total.",
+            "identifier": "C111615",
+            "notation": "UPD1-Motor Examination Sub-Total",
+            "pref_label": "UPDRS - Motor Examination Sub-total",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111615"
+        },
+        {
+            "alt_label": "UPD1-Motor:Arising from Chair",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Arising from chair (Patient attempts to rise from a straightbacked chair, with arms folded across chest.).",
+            "identifier": "C100927",
+            "notation": "UPD1-Motor:Arising from Chair",
+            "pref_label": "UPDRS - Motor Examination: Arising from Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100927"
+        },
+        {
+            "alt_label": "UPD1-Motor:Bradykinesia and Hypokinesia",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Body bradykinesia and hypokinesia (Combining slowness, hesitancy, decreased arm swing, small amplitude, and poverty of movement in general.).",
+            "identifier": "C100931",
+            "notation": "UPD1-Motor:Bradykinesia and Hypokinesia",
+            "pref_label": "UPDRS - Motor Examination: Body Bradykinesia and Hypokinesia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100931"
+        },
+        {
+            "alt_label": "UPD1-Motor:Facial Expression",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Facial expression.",
+            "identifier": "C100919",
+            "notation": "UPD1-Motor:Facial Expression",
+            "pref_label": "UPDRS - Motor Examination: Facial Expression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100919"
+        },
+        {
+            "alt_label": "UPD1-Motor:Finger Taps: Left",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Finger taps: Left.",
+            "identifier": "C111598",
+            "notation": "UPD1-Motor:Finger Taps: Left",
+            "pref_label": "UPDRS - Motor Examination: Finger Taps, Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111598"
+        },
+        {
+            "alt_label": "UPD1-Motor:Finger Taps: Right",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Finger taps: Right.",
+            "identifier": "C111597",
+            "notation": "UPD1-Motor:Finger Taps: Right",
+            "pref_label": "UPDRS - Motor Examination: Finger Taps, Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111597"
+        },
+        {
+            "alt_label": "UPD1-Motor:Gait",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Gait.",
+            "identifier": "C100929",
+            "notation": "UPD1-Motor:Gait",
+            "pref_label": "UPDRS - Motor Examination: Gait",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100929"
+        },
+        {
+            "alt_label": "UPD1-Motor:Hand Grips: Left",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Hand grips: Left.",
+            "identifier": "C111600",
+            "notation": "UPD1-Motor:Hand Grips: Left",
+            "pref_label": "UPDRS - Motor Examination: Hand Grips, Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111600"
+        },
+        {
+            "alt_label": "UPD1-Motor:Hand Grips: Right",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Hand grips: Right.",
+            "identifier": "C111599",
+            "notation": "UPD1-Motor:Hand Grips: Right",
+            "pref_label": "UPDRS - Motor Examination: Hand Grips, Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111599"
+        },
+        {
+            "alt_label": "UPD1-Motor:Hand Pronate/Supinate: Left",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Hand pronate/supinate: Left.",
+            "identifier": "C111602",
+            "notation": "UPD1-Motor:Hand Pronate/Supinate: Left",
+            "pref_label": "UPDRS - Motor Examination: Hand Pronate/Supinate, Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111602"
+        },
+        {
+            "alt_label": "UPD1-Motor:Hand Pronate/Supinate: Right",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Hand pronate/supinate: Right.",
+            "identifier": "C111601",
+            "notation": "UPD1-Motor:Hand Pronate/Supinate: Right",
+            "pref_label": "UPDRS - Motor Examination: Hand Pronate/Supinate, Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111601"
+        },
+        {
+            "alt_label": "UPD1-Motor:Leg Agility: Left",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Leg agility: Left.",
+            "identifier": "C111604",
+            "notation": "UPD1-Motor:Leg Agility: Left",
+            "pref_label": "UPDRS - Motor Examination: Leg Agility, Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111604"
+        },
+        {
+            "alt_label": "UPD1-Motor:Leg Agility: Right",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Leg agility: Right.",
+            "identifier": "C111603",
+            "notation": "UPD1-Motor:Leg Agility: Right",
+            "pref_label": "UPDRS - Motor Examination: Leg Agility, Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111603"
+        },
+        {
+            "alt_label": "UPD1-Motor:Postural Stability",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Postural stability (Response to sudden, strong posterior displacement produced by pull on shoulders while patient erect with eyes open and feet slightly apart. Patient is prepared.).",
+            "identifier": "C100930",
+            "notation": "UPD1-Motor:Postural Stability",
+            "pref_label": "UPDRS - Motor Examination: Postural Stability",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100930"
+        },
+        {
+            "alt_label": "UPD1-Motor:Posture",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Posture.",
+            "identifier": "C100928",
+            "notation": "UPD1-Motor:Posture",
+            "pref_label": "UPDRS - Motor Examination: Posture",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100928"
+        },
+        {
+            "alt_label": "UPD1-Motor:Rigidity Lower Extrem: Left",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Rigidity lower extremity: Left.",
+            "identifier": "C111596",
+            "notation": "UPD1-Motor:Rigidity Lower Extrem: Left",
+            "pref_label": "UPDRS - Motor Examination: Rigidity Lower Extremity, Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111596"
+        },
+        {
+            "alt_label": "UPD1-Motor:Rigidity Lower Extrem: Right",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Rigidity lower extremity: Right.",
+            "identifier": "C111595",
+            "notation": "UPD1-Motor:Rigidity Lower Extrem: Right",
+            "pref_label": "UPDRS - Motor Examination: Rigidity Lower Extremity, Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111595"
+        },
+        {
+            "alt_label": "UPD1-Motor:Rigidity Neck",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Rigidity neck.",
+            "identifier": "C111592",
+            "notation": "UPD1-Motor:Rigidity Neck",
+            "pref_label": "UPDRS - Motor Examination: Rigidity Neck",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111592"
+        },
+        {
+            "alt_label": "UPD1-Motor:Rigidity Upper Extrem: Left",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Rigidity upper extremity: Left.",
+            "identifier": "C111594",
+            "notation": "UPD1-Motor:Rigidity Upper Extrem: Left",
+            "pref_label": "UPDRS - Motor Examination: Rigidity Upper Extremity, Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111594"
+        },
+        {
+            "alt_label": "UPD1-Motor:Rigidity Upper Extrem: Right",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Rigidity upper extremity: Right.",
+            "identifier": "C111593",
+            "notation": "UPD1-Motor:Rigidity Upper Extrem: Right",
+            "pref_label": "UPDRS - Motor Examination: Rigidity Upper Extremity, Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111593"
+        },
+        {
+            "alt_label": "UPD1-Motor:Speech",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Speech.",
+            "identifier": "C100918",
+            "notation": "UPD1-Motor:Speech",
+            "pref_label": "UPDRS - Motor Examination: Speech",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C100918"
+        },
+        {
+            "alt_label": "UPD1-Motor:Tremor at Rest:Face Lips Chin",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Tremor at rest: face, lips, chin.",
+            "identifier": "C111585",
+            "notation": "UPD1-Motor:Tremor at Rest:Face Lips Chin",
+            "pref_label": "UPDRS - Motor Examination: Tremor at Rest, Face, Lips, Chin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111585"
+        },
+        {
+            "alt_label": "UPD1-Motor:Tremor at Rest:Feet: Left",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Tremor at rest: Feet: Left.",
+            "identifier": "C111589",
+            "notation": "UPD1-Motor:Tremor at Rest:Feet: Left",
+            "pref_label": "UPDRS - Motor Examination: Tremor at Rest, Feet, Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111589"
+        },
+        {
+            "alt_label": "UPD1-Motor:Tremor at Rest:Feet: Right",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Tremor at rest: Feet: Right.",
+            "identifier": "C111588",
+            "notation": "UPD1-Motor:Tremor at Rest:Feet: Right",
+            "pref_label": "UPDRS - Motor Examination: Tremor at Rest, Feet, Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111588"
+        },
+        {
+            "alt_label": "UPD1-Motor:Tremor at Rest:Hands: Left",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Tremor at rest: Hands: Left.",
+            "identifier": "C111587",
+            "notation": "UPD1-Motor:Tremor at Rest:Hands: Left",
+            "pref_label": "UPDRS - Motor Examination: Tremor at Rest, Hands, Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111587"
+        },
+        {
+            "alt_label": "UPD1-Motor:Tremor at Rest:Hands: Right",
+            "definition": "Unified Parkinson's Disease Rating Scale - Motor examination: Tremor at rest: Hands: Right.",
+            "identifier": "C111586",
+            "notation": "UPD1-Motor:Tremor at Rest:Hands: Right",
+            "pref_label": "UPDRS - Motor Examination: Tremor at Rest, Hands, Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111586"
+        },
+        {
+            "alt_label": "UPD1-Pulse: Seated",
+            "definition": "Unified Parkinson's Disease Rating Scale - Pulse: Seated.",
+            "identifier": "C111609",
+            "notation": "UPD1-Pulse: Seated",
+            "pref_label": "UPDRS - Symptomatic Orthostasis: Pulse, Seated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111609"
+        },
+        {
+            "alt_label": "UPD1-Pulse: Standing",
+            "definition": "Unified Parkinson's Disease Rating Scale - Pulse: Standing.",
+            "identifier": "C111610",
+            "notation": "UPD1-Pulse: Standing",
+            "pref_label": "UPDRS - Symptomatic Orthostasis: Pulse, Standing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111610"
+        },
+        {
+            "alt_label": "UPD1-Schwab/England % ADL (Dyskinesia)",
+            "definition": "Unified Parkinson's Disease Rating Scale - Schwab and England % ADL (with dyskinesia).",
+            "identifier": "C111612",
+            "notation": "UPD1-Schwab/England % ADL (Dyskinesia)",
+            "pref_label": "UPDRS - Schwab and England % ADL (With Dyskinesia)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111612"
+        },
+        {
+            "alt_label": "UPD1-Schwab/England % ADL Score (PD)",
+            "definition": "Unified Parkinson's Disease Rating Scale - Schwab and England % ADL Score (PD).",
+            "identifier": "C111611",
+            "notation": "UPD1-Schwab/England % ADL Score (PD)",
+            "pref_label": "UPDRS - Schwab and England % ADL Score (PD)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111611"
+        },
+        {
+            "alt_label": "UPD1-UPDRS Total",
+            "definition": "Unified Parkinson's Disease Rating Scale - UPDRS total.",
+            "identifier": "C111616",
+            "notation": "UPD1-UPDRS Total",
+            "pref_label": "UPDRS - UPDRS Total",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111616"
+        },
+        {
+            "alt_label": "UPD1-Weight",
+            "definition": "Unified Parkinson's Disease Rating Scale - Weight.",
+            "identifier": "C111608",
+            "notation": "UPD1-Weight",
+            "pref_label": "UPDRS - Symptomatic Orthostasis: Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100147-C111608"
+        }
+    ]
+}

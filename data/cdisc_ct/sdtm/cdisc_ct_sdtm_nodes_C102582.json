@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An individual that has tested positive for pulmonary, laryngeal, or pleural tuberculosis and may or may not present with cavitary disease.",
+            "identifier": "C102644",
+            "notation": "HIGH-PRIORITY TUBERCULOSIS CONTACT",
+            "pref_label": "High-priority Tuberculosis Subject",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102582-C102644"
+        },
+        {
+            "definition": "An individual that has had limited exposure to an individual with tuberculosis and has a low probability of having had a recent infection.",
+            "identifier": "C102662",
+            "notation": "LOW-PRIORITY TUBERCULOSIS CONTACT",
+            "pref_label": "Low-priority Tuberculosis Subject",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102582-C102662"
+        },
+        {
+            "definition": "An individual that has tested negative for pulmonary, laryngeal, or pleural tuberculosis but has had a non-cavitary chest x-ray that is consistent with tuberculosis.",
+            "identifier": "C102665",
+            "notation": "MEDIUM-PRIORITY TUBERCULOSIS CONTACT",
+            "pref_label": "Medium-priority Tuberculosis Subject",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102582-C102665"
+        }
+    ]
+}

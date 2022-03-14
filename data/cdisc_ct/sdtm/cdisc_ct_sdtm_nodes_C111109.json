@@ -1,0 +1,57 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Calibrate, Failure To;Failure to Calibrate",
+            "definition": "Issue associated with the failure of the device to perform a self-calibration procedure or process designed to assure the accuracy and proper performance of the device. (FDA)",
+            "identifier": "C62994",
+            "notation": "CALIBRATION FAILURE",
+            "pref_label": "Failure to Calibrate Problem",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111109-C62994"
+        },
+        {
+            "alt_label": "Software Malfunction",
+            "definition": "Issue associated with written programs, codes, and/or software system that affects device performance or communication with another device. (NCI)",
+            "identifier": "C63269",
+            "notation": "COMPUTER SOFTWARE ISSUE",
+            "pref_label": "Computer Software Problem",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111109-C63269"
+        },
+        {
+            "definition": "Issue associated with the failure of the software to store collected data.",
+            "identifier": "C116121",
+            "notation": "DATA STORAGE FAILURE",
+            "pref_label": "Data Storage Failure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111109-C116121"
+        },
+        {
+            "alt_label": "Device Operational Malfunction",
+            "definition": "Issue associated with any deviations from specifications relating to device operations (e.g. deployment, connection, electrical, computer software, infusion/flow, output, protective-measure, and incompatibility issues).",
+            "identifier": "C62954",
+            "notation": "DEVICE OPERATIONAL ISSUE",
+            "pref_label": "Medical Device Operational Issue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111109-C62954"
+        },
+        {
+            "alt_label": "Non-Study Equipment Malfunction",
+            "definition": "Issue associated with any deviations from specifications relating to non-study device or equipment operations.",
+            "identifier": "C112361",
+            "notation": "NON-STUDY EQUIPMENT ISSUE",
+            "pref_label": "Non-Study Device Issue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111109-C112361"
+        },
+        {
+            "definition": "An inspection and/or surveillance activity that has been anticipated to occur and was assigned a time or date when that activity is to be performed. (NCI)",
+            "identifier": "C111309",
+            "notation": "SCHEDULED MAINTENANCE",
+            "pref_label": "Scheduled Maintenance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111109-C111309"
+        },
+        {
+            "definition": "All program coding after initial deployment to correct coding errors, enhance the functionality of the software, and perfect the functioning of the software. (NCI)",
+            "identifier": "C67227",
+            "notation": "SOFTWARE UPDATE",
+            "pref_label": "Software Maintenance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111109-C67227"
+        }
+    ]
+}

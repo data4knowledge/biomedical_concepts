@@ -1,0 +1,193 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An augmented unipolar lead placed at the sixth intercostal space on the midaxillary line. (NCI)",
+            "identifier": "C90403",
+            "notation": "LEAD aV6",
+            "pref_label": "Lead Site aV6",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90403"
+        },
+        {
+            "definition": "An augmented unipolar electrocardiogram limb lead in which the positive (red) electrode is situated on the left pelvic limb and the negative electrode is a combination of the right thoracic limb (white) electrode and the left thoracic limb (black) electrode. Measures the electrical activity of the electrode on the left pelvic limb.",
+            "identifier": "C90360",
+            "notation": "LEAD aVF",
+            "pref_label": "Augmented Vector Foot",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90360"
+        },
+        {
+            "definition": "An augmented unipolar electrocardiogram limb lead in which the positive electrode is situated at the hindquarters proximal to the sacrum and the negative electrode is a combination of the electrode behind the right ear near the right mastoid process and the electrode near the apex of the heart (located in the ICS of left 5-6 rib close to the sternum).",
+            "identifier": "C135387",
+            "notation": "LEAD aVF-VENTRAL",
+            "pref_label": "Lead Site aVF-Ventral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C135387"
+        },
+        {
+            "definition": "An augmented unipolar electrocardiogram limb lead in which the positive (black) electrode is situated on the left thoracic limb and the negative electrode is a combination of the right thoracic limb (white) electrode and the left pelvic limb (red) electrode. Measures the electrical activity of the electrode on the left thoracic limb. (NCI)",
+            "identifier": "C90361",
+            "notation": "LEAD aVL",
+            "pref_label": "Augmented Vector Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90361"
+        },
+        {
+            "definition": "An augmented unipolar electrocardiogram limb lead in which the positive electrode is near the apex of the heart (located in the ICS of left 5-6 rib close to the sternum) and the negative electrode is a combination of the electrode behind the right ear near the right mastoid process and the electrode on hindquarters proximal to the sacrum.",
+            "identifier": "C135388",
+            "notation": "LEAD aVL-AXIAL",
+            "pref_label": "Lead Site aVL-Axial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C135388"
+        },
+        {
+            "definition": "An augmented unipolar electrocardiogram limb lead in which the positive (white) electrode is situated on the right thoracic limb and the negative electrode is a combination of the left thoracic limb (black) electrode and the left pelvic limb (red) electrode. Measures the electrical activity of the electrode on the right thoracic limb. (NCI)",
+            "identifier": "C90362",
+            "notation": "LEAD aVR",
+            "pref_label": "Augmented Vector Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90362"
+        },
+        {
+            "definition": "An augmented unipolar electrocardiogram limb lead in which the positive electrode is behind the right ear near the right mastoid process and the negative electrode is a combination of the electrode at the hindquarters proximal to the sacrum and the electrode near the apex of the heart (located in the ICS of left 5-6 rib close to the sternum).",
+            "identifier": "C135389",
+            "notation": "LEAD aVR-DORSAL",
+            "pref_label": "Lead Site aVR-Dorsal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C135389"
+        },
+        {
+            "definition": "A bipolar electrocardiogram limb lead which records the voltage between the positive electrode near the apex of the heart (located in the ICS of left 5-6 rib close to the sternum) and the negative electrode behind the right ear near the right mastoid process.",
+            "identifier": "C135390",
+            "notation": "LEAD AXIAL",
+            "pref_label": "Lead Site Axial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C135390"
+        },
+        {
+            "definition": "A bipolar EKG lead with the right thoracic limb electrode placed on the manubrium and left thoracic limb electrode placed at the surface marking of the V5 position (just above the 5th interspace in the anterior axillary line). The left pelvic limb lead acts as a neutral and may be placed anywhere. The C refers to 'clavicle' where it is often placed. (NCI)",
+            "identifier": "C90404",
+            "notation": "LEAD CM5",
+            "pref_label": "Lead Site CM5",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90404"
+        },
+        {
+            "definition": "A unipolar chest lead used mostly in large animals. Placed on the sixth ICS on the right side of the thorax along a line parallel to the level of the point of the humeralradial joint.",
+            "identifier": "C90405",
+            "notation": "LEAD CV5RL",
+            "pref_label": "Lead Site CV5RL",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90405"
+        },
+        {
+            "definition": "V1 electrode (+) placed in the 6th intercostal space on the left side of the thorax along a line parallel to the level of the point of the humeralradial joint.",
+            "identifier": "C90406",
+            "notation": "LEAD CV6LL",
+            "pref_label": "Lead Site CV6LL",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90406"
+        },
+        {
+            "definition": "V2 electrode (+) placed in the 6th intercostal space on the left side of the thorax along a line parallel to the level of the point of the shoulder. (NCI)",
+            "identifier": "C90407",
+            "notation": "LEAD CV6LU",
+            "pref_label": "Lead Site CV6LU",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90407"
+        },
+        {
+            "definition": "A bipolar electrocardiogram limb lead which records the voltage between the negative electrode behind the right ear near the right mastoid process and the positive electrode on the hindquarters proximal to the sacrum.",
+            "identifier": "C135391",
+            "notation": "LEAD DORSAL",
+            "pref_label": "Lead Site Dorsal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C135391"
+        },
+        {
+            "definition": "A bipolar electrocardiogram limb lead which records the voltage between the negative electrode on the right thoracic limb and the positive electrode on the left thoracic limb. (NCI)",
+            "identifier": "C90408",
+            "notation": "LEAD I",
+            "pref_label": "Lead Site I",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90408"
+        },
+        {
+            "definition": "A bipolar electrocardiogram limb lead which records the voltage between the negative electrode on the right thoracic limb and the positive electrode on the left pelvic limb. (NCI)",
+            "identifier": "C90409",
+            "notation": "LEAD II",
+            "pref_label": "Lead Site II",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90409"
+        },
+        {
+            "definition": "A bipolar electrocardiogram limb lead which records the voltage between the negative electrode on the left thoracic limb and the positive electrode on the left pelvic limb. (NCI)",
+            "identifier": "C90410",
+            "notation": "LEAD III",
+            "pref_label": "Lead Site III",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90410"
+        },
+        {
+            "definition": "A unipolar precordial lead placed at the second intercostal space to the left of the sternum. (NCI)",
+            "identifier": "C90411",
+            "notation": "LEAD rV2",
+            "pref_label": "Lead Site rV2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90411"
+        },
+        {
+            "alt_label": "Lead C1",
+            "definition": "A unipolar electrocardiogram lead site; the electrode is placed at the fourth intercostal space on the anterior chest wall (between ribs 4 and 5) to the right of the sternal border. In small animals, it is placed at the right fifth intercostal space near the sternum. (NCI)",
+            "identifier": "C90412",
+            "notation": "LEAD V1",
+            "pref_label": "Lead Site V1",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90412"
+        },
+        {
+            "definition": "A unipolar chest lead at which the electrode is placed over the dorsal spinous process of 7th thoracic vertebra. (NCI)",
+            "identifier": "C90413",
+            "notation": "LEAD V10",
+            "pref_label": "Lead Site V10",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90413"
+        },
+        {
+            "alt_label": "Lead C2",
+            "definition": "A unipolar electrocardiogram lead site; the electrode is placed on the anterior chest wall at the fourth intercostal space (between ribs 4 and 5) to the left of the sternal border. In small animals it corresponds to V2-V3 where it is placed at the 6th left intercostal space near the sternum. In large animals it is placed over the 6th rib at the level of the costochondral junction on the left side of the thorax.",
+            "identifier": "C90414",
+            "notation": "LEAD V2",
+            "pref_label": "Lead Site V2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90414"
+        },
+        {
+            "alt_label": "Lead C3",
+            "definition": "A unipolar electrocardiogram lead site; the electrode is placed on the anterior chest wall midway between leads V2 and V4. In large and small animals, it is placed over the dorsal spinous process of the 7th thoracic vertebra. (NCI)",
+            "identifier": "C90415",
+            "notation": "LEAD V3",
+            "pref_label": "Lead Site V3",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90415"
+        },
+        {
+            "alt_label": "Lead C4",
+            "definition": "A unipolar electrocardiogram lead site; the electrode is placed at the fifth intercostal space on the anterior chest wall (between ribs 5 and 6) at the left midclavicular line. In small animals it corresponds to V4-V6 where it is placed at the 6th left intercostal space near the costochondral junction. In large animals it is placed over the 6th rib at the level of a horizontal line drawn through the scapulohumeral articulation on the left side of the thorax. (NCI)",
+            "identifier": "C90416",
+            "notation": "LEAD V4",
+            "pref_label": "Lead Site V4",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90416"
+        },
+        {
+            "alt_label": "Lead C5",
+            "definition": "A unipolar electrocardiogram lead site; the electrode is placed on the anterior chest wall level with lead V4 at the left anterior axillary line. In large animals it is placed on the sixth ICS on the right side of the thorax along a line parallel to the level of the point of the shoulder corresponding to the electrical center of the heart (central terminal). (NCI)",
+            "identifier": "C90417",
+            "notation": "LEAD V5",
+            "pref_label": "Lead Site V5",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90417"
+        },
+        {
+            "alt_label": "Lead C6",
+            "definition": "A unipolar electrocardiogram lead site at which the electrode is placed on the anterior chest wall level with lead V5 at the left midaxillary line .",
+            "identifier": "C90418",
+            "notation": "LEAD V6",
+            "pref_label": "Lead Site V6",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C90418"
+        },
+        {
+            "definition": "A bipolar electrocardiogram limb lead which records the voltage with the positive electrode on the hindquarters proximal to the sacrum and the negative electrode near the apex of the heart (located in the ICS of left 5-6 rib close to the sternum).",
+            "identifier": "C135392",
+            "notation": "LEAD VENTRAL",
+            "pref_label": "Lead Site Ventral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C135392"
+        },
+        {
+            "alt_label": "Global Median Beat;Superimposition of Multiple Leads",
+            "definition": "Measurement methodology using multiple leads for the determination of an ECG parameter. This is often visually represented as a superimposition of the median beats from multiple leads.",
+            "identifier": "C117760",
+            "notation": "SML",
+            "pref_label": "Superimposition of Multiple Leads",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013-C117760"
+        }
+    ]
+}

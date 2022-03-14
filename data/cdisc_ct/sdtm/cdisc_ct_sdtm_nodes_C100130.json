@@ -1,0 +1,625 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A person whose association to an individual is unintentional.",
+            "identifier": "C130052",
+            "notation": "ACCIDENTAL ASSOCIATE",
+            "pref_label": "Accidental Association",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C130052"
+        },
+        {
+            "alt_label": "Biological Maternal Aunt",
+            "definition": "A female relative who is a sibling of the biological mother, and who both share a common ancestor. (NCI)",
+            "identifier": "C96575",
+            "notation": "AUNT, BIOLOGICAL MATERNAL",
+            "pref_label": "Biological Maternal Aunt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96575"
+        },
+        {
+            "alt_label": "Biological Paternal Aunt",
+            "definition": "A female relative who is a sibling of the biological father, and who both share a common ancestor. (NCI)",
+            "identifier": "C96581",
+            "notation": "AUNT, BIOLOGICAL PATERNAL",
+            "pref_label": "Biological Paternal Aunt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96581"
+        },
+        {
+            "alt_label": "Biological Aunt",
+            "definition": "A female relative who is a sibling of either of the biological parents, and who share a common ancestor. (NCI)",
+            "identifier": "C96569",
+            "notation": "AUNT, BIOLOGICAL",
+            "pref_label": "Biological Aunt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96569"
+        },
+        {
+            "definition": "An individual that shares genetic makeup with another individual.",
+            "identifier": "C71384",
+            "notation": "BIOLOGICALLY RELATED",
+            "pref_label": "Biological Relative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C71384"
+        },
+        {
+            "definition": "An individual that does not share any genetic makeup with another individual.",
+            "identifier": "C130053",
+            "notation": "BIOLOGICALLY UNRELATED",
+            "pref_label": "Biologically Unrelated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C130053"
+        },
+        {
+            "alt_label": "Half-brother with Mother as Common Parent",
+            "definition": "A male who shares with his sibling the genetic makeup inherited from only the biological mother.",
+            "identifier": "C96656",
+            "notation": "BROTHER, BIOLOGICAL MATERNAL HALF",
+            "pref_label": "Half-brother with Mother as Common Parent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96656"
+        },
+        {
+            "alt_label": "Half-brother with Father as Common Parent",
+            "definition": "A male who shares with his sibling the genetic makeup inherited from only the biological father.",
+            "identifier": "C96655",
+            "notation": "BROTHER, BIOLOGICAL PATERNAL HALF",
+            "pref_label": "Half-brother with Father as Common Parent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96655"
+        },
+        {
+            "alt_label": "Biological Brother",
+            "definition": "A male who shares with his sibling the genetic makeup inherited from one or both of their shared biological parents.",
+            "identifier": "C96570",
+            "notation": "BROTHER, BIOLOGICAL",
+            "pref_label": "Biological Brother",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96570"
+        },
+        {
+            "definition": "A male who shares with his sibling the genetic makeup inherited from both of the biological parents.",
+            "identifier": "C111201",
+            "notation": "BROTHER, FULL",
+            "pref_label": "Full Brother",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C111201"
+        },
+        {
+            "alt_label": "Half Brother",
+            "definition": "A male who shares with his sibling the genetic makeup inherited from only one of the biological parents.",
+            "identifier": "C71402",
+            "notation": "BROTHER, HALF",
+            "pref_label": "Half Brother",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C71402"
+        },
+        {
+            "alt_label": "Caregiver",
+            "definition": "The primary person in charge of the care of a patient, usually a family member or a designated health care professional. (NCI)",
+            "identifier": "C17445",
+            "notation": "CAREGIVER",
+            "pref_label": "Caregiver",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C17445"
+        },
+        {
+            "definition": "A biological or non-biological first generation offspring, including but not limited to biological children (including those born outside of marriage), adopted children, step children, and foster children. (NCI)",
+            "identifier": "C150886",
+            "notation": "CHILD",
+            "pref_label": "Child Relation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C150886"
+        },
+        {
+            "alt_label": "Biological Child",
+            "definition": "A son or daughter with genetic makeup inherited from the parent.",
+            "identifier": "C42708",
+            "notation": "CHILD, BIOLOGICAL",
+            "pref_label": "Offspring",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C42708"
+        },
+        {
+            "alt_label": "Clinician",
+            "definition": "An individual, such as a physician, nurse practitioner or other health care professional, who takes responsibility for a subject's care.",
+            "identifier": "C85499",
+            "notation": "CLINICIAN",
+            "pref_label": "Clinician",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C85499"
+        },
+        {
+            "alt_label": "Biological Maternal Cousin",
+            "definition": "A relative who is the offspring of a sibling of the biological mother and share a common ancestor.",
+            "identifier": "C96576",
+            "notation": "COUSIN, BIOLOGICAL MATERNAL",
+            "pref_label": "Biological Maternal Cousin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96576"
+        },
+        {
+            "alt_label": "Biological Paternal Cousin",
+            "definition": "A relative who is the offspring of a sibling of the biological father and share a common ancestor.",
+            "identifier": "C96582",
+            "notation": "COUSIN, BIOLOGICAL PATERNAL",
+            "pref_label": "Biological Paternal Cousin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96582"
+        },
+        {
+            "alt_label": "Biological Cousin",
+            "definition": "A relative who is the offspring of a sibling of either of the biological parents, and who share a common ancestor. (NCI)",
+            "identifier": "C96571",
+            "notation": "COUSIN, BIOLOGICAL",
+            "pref_label": "Biological Cousin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96571"
+        },
+        {
+            "definition": "A female progeny with genetic makeup inherited from the parent.",
+            "identifier": "C150887",
+            "notation": "DAUGHTER, BIOLOGICAL",
+            "pref_label": "Biological Daughter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C150887"
+        },
+        {
+            "alt_label": "Domestic Partner",
+            "definition": "Person declares that a domestic partnership relationship exists. (HL7)",
+            "identifier": "C53262",
+            "notation": "DOMESTIC PARTNER",
+            "pref_label": "Domestic Partnership",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C53262"
+        },
+        {
+            "alt_label": "Donor",
+            "definition": "One that contributes something. (NCI)",
+            "identifier": "C48284",
+            "notation": "DONOR",
+            "pref_label": "Donor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C48284"
+        },
+        {
+            "definition": "Someone from whom blood is removed for transplantation or other purpose.",
+            "identifier": "C132448",
+            "notation": "DONOR, BLOOD",
+            "pref_label": "Blood Donor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C132448"
+        },
+        {
+            "definition": "Someone from whom one or more kidneys are removed for transplantation or other purpose.",
+            "identifier": "C130054",
+            "notation": "DONOR, KIDNEY",
+            "pref_label": "Kidney Donor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C130054"
+        },
+        {
+            "alt_label": "Organ Donor",
+            "definition": "Someone from whom an organ is removed for transplantation or other purpose.",
+            "identifier": "C100810",
+            "notation": "DONOR, ORGAN",
+            "pref_label": "Organ Donor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C100810"
+        },
+        {
+            "alt_label": "Tissue Donor",
+            "definition": "Someone from whom tissue is removed for transplantation or other purpose.",
+            "identifier": "C25168",
+            "notation": "DONOR, TISSUE",
+            "pref_label": "Tissue Donor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C25168"
+        },
+        {
+            "definition": "One who instructs or educates others.",
+            "identifier": "C102873",
+            "notation": "EDUCATOR",
+            "pref_label": "Teacher",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C102873"
+        },
+        {
+            "alt_label": "Family Member",
+            "definition": "Any of the individuals who are descended from a common progenitor, related by marriage or other legal tie.",
+            "identifier": "C41256",
+            "notation": "FAMILY MEMBER",
+            "pref_label": "Family Member",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C41256"
+        },
+        {
+            "definition": "A male parent.",
+            "identifier": "C25174",
+            "notation": "FATHER",
+            "pref_label": "Father",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C25174"
+        },
+        {
+            "definition": "The biological father of the offspring of the female subject.",
+            "identifier": "C166092",
+            "notation": "FATHER, BIOLOGICAL OF SUBJECT'S CHILD",
+            "pref_label": "Biological Father of Subject's Child",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C166092"
+        },
+        {
+            "alt_label": "Biological Father",
+            "definition": "A male who contributes to the genetic makeup of his offspring through the fertilization of an ovum by his sperm. (NCI)",
+            "identifier": "C96572",
+            "notation": "FATHER, BIOLOGICAL",
+            "pref_label": "Biological Father",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96572"
+        },
+        {
+            "definition": "A male who has acquired children through marriage.",
+            "identifier": "C154851",
+            "notation": "FATHER, STEP",
+            "pref_label": "Step Father",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C154851"
+        },
+        {
+            "definition": "A person whom an individual knows, likes, and trusts. (NCI)",
+            "identifier": "C72884",
+            "notation": "FRIEND",
+            "pref_label": "Friend",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C72884"
+        },
+        {
+            "alt_label": "Biological Grandchild",
+            "definition": "A biological child of an individual's biological child.",
+            "identifier": "C100805",
+            "notation": "GRANDCHILD, BIOLOGICAL",
+            "pref_label": "Biological Grandchild",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C100805"
+        },
+        {
+            "alt_label": "Biological Maternal Grandfather",
+            "definition": "A male relative who is the biological father of the biological mother. (NCI)",
+            "identifier": "C96577",
+            "notation": "GRANDFATHER, BIOLOGICAL MATERNAL",
+            "pref_label": "Biological Maternal Grandfather",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96577"
+        },
+        {
+            "alt_label": "Biological Paternal Grandfather",
+            "definition": "A male relative who is the biological father of the biological father. (NCI)",
+            "identifier": "C96583",
+            "notation": "GRANDFATHER, BIOLOGICAL PATERNAL",
+            "pref_label": "Biological Paternal Grandfather",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96583"
+        },
+        {
+            "alt_label": "Biological Grandfather",
+            "definition": "A male relative who is the biological father of either the biological mother or the biological father. (NCI)",
+            "identifier": "C96573",
+            "notation": "GRANDFATHER, BIOLOGICAL",
+            "pref_label": "Biological Grandfather",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96573"
+        },
+        {
+            "alt_label": "Biological Maternal Grandmother",
+            "definition": "A female relative who is the biological mother of the biological mother. (NCI)",
+            "identifier": "C96578",
+            "notation": "GRANDMOTHER, BIOLOGICAL MATERNAL",
+            "pref_label": "Biological Maternal Grandmother",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96578"
+        },
+        {
+            "alt_label": "Biological Paternal Grandmother",
+            "definition": "A female relative who is the biological mother of the biological father. (NCI)",
+            "identifier": "C96584",
+            "notation": "GRANDMOTHER, BIOLOGICAL PATERNAL",
+            "pref_label": "Biological Paternal Grandmother",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96584"
+        },
+        {
+            "alt_label": "Biological Grandmother",
+            "definition": "A female relative who is the biological mother of either the biological mother or the biological father. (NCI)",
+            "identifier": "C96574",
+            "notation": "GRANDMOTHER, BIOLOGICAL",
+            "pref_label": "Biological Grandmother",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96574"
+        },
+        {
+            "definition": "A relative who is the biological parent of the biological mother.",
+            "identifier": "C111248",
+            "notation": "GRANDPARENT, BIOLOGICAL MATERNAL",
+            "pref_label": "Maternal Biological Grandparent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C111248"
+        },
+        {
+            "definition": "A relative who is the biological parent of the biological father.",
+            "identifier": "C111286",
+            "notation": "GRANDPARENT, BIOLOGICAL PATERNAL",
+            "pref_label": "Paternal Biological Grandparent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C111286"
+        },
+        {
+            "alt_label": "Biological Grandparent",
+            "definition": "A biological parent of the biological father or biological mother.",
+            "identifier": "C100806",
+            "notation": "GRANDPARENT, BIOLOGICAL",
+            "pref_label": "Biological Grandparent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C100806"
+        },
+        {
+            "definition": "An individual who is considered part of the social unit comprising one or more individuals living together (all of whom need not be related) in the same dwelling.",
+            "identifier": "C132449",
+            "notation": "HOUSEHOLD MEMBER",
+            "pref_label": "Household Member",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C132449"
+        },
+        {
+            "definition": "A male partner in marriage. (NCI)",
+            "identifier": "C71588",
+            "notation": "HUSBAND",
+            "pref_label": "Husband",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C71588"
+        },
+        {
+            "definition": "A female parent.",
+            "identifier": "C25189",
+            "notation": "MOTHER",
+            "pref_label": "Mother",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C25189"
+        },
+        {
+            "definition": "The biological mother of the offspring of the male subject.",
+            "identifier": "C166093",
+            "notation": "MOTHER, BIOLOGICAL OF SUBJECT'S CHILD",
+            "pref_label": "Biological Mother of Subject's Child",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C166093"
+        },
+        {
+            "alt_label": "Biological Mother",
+            "definition": "A female who contributes to the genetic makeup of her offspring from the fertilization of her ovum. (NCI)",
+            "identifier": "C96580",
+            "notation": "MOTHER, BIOLOGICAL",
+            "pref_label": "Biological Mother",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96580"
+        },
+        {
+            "definition": "A female who has acquired children through marriage.",
+            "identifier": "C132450",
+            "notation": "MOTHER, STEP",
+            "pref_label": "Stepmother",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C132450"
+        },
+        {
+            "alt_label": "Nurse",
+            "definition": "A professional healthcare provider who has graduated from a nursing program.",
+            "identifier": "C20821",
+            "notation": "NURSE",
+            "pref_label": "Nurse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C20821"
+        },
+        {
+            "definition": "A mother or a father.",
+            "identifier": "C42709",
+            "notation": "PARENT",
+            "pref_label": "Parent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C42709"
+        },
+        {
+            "alt_label": "Pregnancy Partner",
+            "definition": "An individual who provides support to a pregnant individual.",
+            "identifier": "C100811",
+            "notation": "PREGNANCY PARTNER",
+            "pref_label": "Pregnancy Partner",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C100811"
+        },
+        {
+            "definition": "Any individual related biologically or legally to another individual.",
+            "identifier": "C21480",
+            "notation": "RELATIVE",
+            "pref_label": "Relative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C21480"
+        },
+        {
+            "definition": "Any biological relative of an individual's biological father.",
+            "identifier": "C132451",
+            "notation": "RELATIVE, BIOLOGICAL PATERNAL",
+            "pref_label": "Biological Relative, Paternal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C132451"
+        },
+        {
+            "definition": "Any individual related biologically to another individual and considered immediate family as in the case of a parent, sibling or child. (NCI)",
+            "identifier": "C161420",
+            "notation": "RELATIVE, BIOLOGICAL, FIRST DEGREE",
+            "pref_label": "First Degree Biological Relative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C161420"
+        },
+        {
+            "definition": "Any individual related biologically to another individual and considered one degree removed from the immediate family as in the case of grandparents, aunts and uncles. (NCI)",
+            "identifier": "C161421",
+            "notation": "RELATIVE, BIOLOGICAL, SECOND DEGREE",
+            "pref_label": "Second Degree Biological Relative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C161421"
+        },
+        {
+            "alt_label": "First Degree Relative",
+            "definition": "Any individual related biologically or legally to another individual and considered immediate family as in the case of a spouse, parent, sibling or child.",
+            "identifier": "C21481",
+            "notation": "RELATIVE, FIRST DEGREE",
+            "pref_label": "First Degree Relative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C21481"
+        },
+        {
+            "definition": "Any individual related biologically or legally to another individual and residing in the same residence.",
+            "identifier": "C127782",
+            "notation": "RELATIVE, HOUSEHOLD",
+            "pref_label": "Household Relative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C127782"
+        },
+        {
+            "definition": "Any individual related biologically or legally to another individual and not residing in the same residence.",
+            "identifier": "C127783",
+            "notation": "RELATIVE, NON-HOUSEHOLD",
+            "pref_label": "Non-household Relative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C127783"
+        },
+        {
+            "alt_label": "Second Degree Relative",
+            "definition": "Any individual related biologically or legally to another individual and considered one degree removed from the immediate family as in the case of in-laws, grandparents, aunts and uncles.",
+            "identifier": "C19811",
+            "notation": "RELATIVE, SECOND DEGREE",
+            "pref_label": "Second Degree Relative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C19811"
+        },
+        {
+            "alt_label": "Third Degree Relative",
+            "definition": "Any individual related biologically or legally to another individual and considered two degrees removed from the immediate family as in the case of cousins.",
+            "identifier": "C100808",
+            "notation": "RELATIVE, THIRD DEGREE",
+            "pref_label": "Third Degree Relative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C100808"
+        },
+        {
+            "definition": "Any individual with whom the subject attends or attended the same school.",
+            "identifier": "C127784",
+            "notation": "SCHOOLMATE",
+            "pref_label": "Schoolmate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C127784"
+        },
+        {
+            "alt_label": "Sexual Partner",
+            "definition": "A person with whom one has had sexual relations.",
+            "identifier": "C100812",
+            "notation": "SEXUAL PARTNER",
+            "pref_label": "Sexual Partner",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C100812"
+        },
+        {
+            "definition": "A person's brother or sister.",
+            "identifier": "C25204",
+            "notation": "SIBLING",
+            "pref_label": "Sibling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C25204"
+        },
+        {
+            "alt_label": "Biological Sibling",
+            "definition": "A person's brother or sister with whom they share a genetic makeup inherited from their shared biological parents.",
+            "identifier": "C100809",
+            "notation": "SIBLING, BIOLOGICAL",
+            "pref_label": "Biological Sibling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C100809"
+        },
+        {
+            "definition": "A person's brother or sister with whom they share a genetic makeup inherited from both of their shared biological parents.",
+            "identifier": "C71390",
+            "notation": "SIBLING, FULL",
+            "pref_label": "Full Sibling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C71390"
+        },
+        {
+            "definition": "A person's brother or sister with whom they share a genetic makeup inherited from one of their shared biological parents.",
+            "identifier": "C71391",
+            "notation": "SIBLING, HALF",
+            "pref_label": "Half Sibling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C71391"
+        },
+        {
+            "alt_label": "Half-sister with Mother as Common Parent",
+            "definition": "A female who shares with her sibling the genetic makeup inherited from only the biological mother.",
+            "identifier": "C96658",
+            "notation": "SISTER, BIOLOGICAL MATERNAL HALF",
+            "pref_label": "Half-sister with Mother as Common Parent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96658"
+        },
+        {
+            "alt_label": "Half-sister with Father as Common Parent",
+            "definition": "A female who shares with her sibling the genetic makeup inherited from only the biological father.",
+            "identifier": "C96657",
+            "notation": "SISTER, BIOLOGICAL PATERNAL HALF",
+            "pref_label": "Half-sister with Father as Common Parent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96657"
+        },
+        {
+            "alt_label": "Biological Sister",
+            "definition": "A female who shares with her sibling the genetic makeup inherited from one or both of their shared biological parents.",
+            "identifier": "C96586",
+            "notation": "SISTER, BIOLOGICAL",
+            "pref_label": "Biological Sister",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96586"
+        },
+        {
+            "definition": "A female who shares with her sibling the genetic makeup inherited from both of the biological parents.",
+            "identifier": "C111202",
+            "notation": "SISTER, FULL",
+            "pref_label": "Full Sister",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C111202"
+        },
+        {
+            "alt_label": "Half Sister",
+            "definition": "A female who shares with her sibling the genetic makeup inherited from only one of the biological parents.",
+            "identifier": "C71403",
+            "notation": "SISTER, HALF",
+            "pref_label": "Half Sister",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C71403"
+        },
+        {
+            "definition": "A male progeny with genetic makeup inherited from the parent.",
+            "identifier": "C150888",
+            "notation": "SON, BIOLOGICAL",
+            "pref_label": "Biological Son",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C150888"
+        },
+        {
+            "alt_label": "Spouse",
+            "definition": "A person's partner in marriage. (NCI)",
+            "identifier": "C62649",
+            "notation": "SPOUSE",
+            "pref_label": "Spouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C62649"
+        },
+        {
+            "definition": "An individual that is believed likely to have transmitted a disease to another individual.",
+            "identifier": "C132452",
+            "notation": "SUSPECTED SOURCE CASE",
+            "pref_label": "Suspected Source Case",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C132452"
+        },
+        {
+            "alt_label": "Technician",
+            "definition": "A person skilled in the performance of the technical or procedural aspects of a profession. (NCI)",
+            "identifier": "C63861",
+            "notation": "TECHNICIAN",
+            "pref_label": "Technician",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C63861"
+        },
+        {
+            "alt_label": "Twin",
+            "definition": "Either of two offspring born from the same pregnancy. (NCI)",
+            "identifier": "C73427",
+            "notation": "TWIN",
+            "pref_label": "Twin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C73427"
+        },
+        {
+            "alt_label": "Dizygotic Twin",
+            "definition": "Either of the two offspring resulting from two separately fertilized ovums during the same pregnancy.",
+            "identifier": "C73428",
+            "notation": "TWIN, DIZYGOTIC",
+            "pref_label": "Fraternal Twin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C73428"
+        },
+        {
+            "alt_label": "Monozygotic Twin",
+            "definition": "Either of the two offspring resulting from a shared ovum. (NCI)",
+            "identifier": "C73429",
+            "notation": "TWIN, MONOZYGOTIC",
+            "pref_label": "Identical Twin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C73429"
+        },
+        {
+            "alt_label": "Biological Maternal Uncle",
+            "definition": "A male relative who is a sibling of the biological mother, and who both share a common ancestor. (NCI)",
+            "identifier": "C96579",
+            "notation": "UNCLE, BIOLOGICAL MATERNAL",
+            "pref_label": "Biological Maternal Uncle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96579"
+        },
+        {
+            "alt_label": "Biological Paternal Uncle",
+            "definition": "A male relative who is a sibling of the biological father, and who both share a common ancestor. (NCI)",
+            "identifier": "C96585",
+            "notation": "UNCLE, BIOLOGICAL PATERNAL",
+            "pref_label": "Biological Paternal Uncle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96585"
+        },
+        {
+            "alt_label": "Biological Uncle",
+            "definition": "A male relative who is a sibling of either of the biological parents, and who share a common ancestor. (NCI)",
+            "identifier": "C96587",
+            "notation": "UNCLE, BIOLOGICAL",
+            "pref_label": "Biological Uncle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C96587"
+        },
+        {
+            "definition": "A female partner in marriage.",
+            "identifier": "C71587",
+            "notation": "WIFE",
+            "pref_label": "Wife",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100130-C71587"
+        }
+    ]
+}

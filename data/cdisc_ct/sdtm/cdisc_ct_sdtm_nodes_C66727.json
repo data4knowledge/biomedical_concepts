@@ -1,0 +1,269 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Any untoward medical occurrence in a patient or clinical investigation subject administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment. An adverse event (AE) can therefore be any unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product, whether or not related to the medicinal (investigational) product. NOTE: For further information, see the ICH Guideline for Clinical Safety Data Management: Definitions and Standards for Expedited Reporting. [Modified from ICH E2A] Synonyms: side effect, adverse experience. See also serious adverse event, serious adverse experience. (CDISC glossary)",
+            "identifier": "C41331",
+            "notation": "ADVERSE EVENT",
+            "pref_label": "Adverse Event",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C41331"
+        },
+        {
+            "definition": "An indication that an approved drug is available for use for the disease indication.",
+            "identifier": "C172573",
+            "notation": "APPROVED DRUG AVAILABLE FOR INDICATION",
+            "pref_label": "Approved Drug Available For Indication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C172573"
+        },
+        {
+            "definition": "To possess every necessary or normal part or component or step; having come or been brought to a conclusion. (NCI)",
+            "identifier": "C25250",
+            "notation": "COMPLETED",
+            "pref_label": "Complete",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C25250"
+        },
+        {
+            "alt_label": "Died",
+            "definition": "The absence of life or state of being dead. (NCI)",
+            "identifier": "C28554",
+            "notation": "DEATH",
+            "pref_label": "Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C28554"
+        },
+        {
+            "alt_label": "Recurrent Disease",
+            "definition": "The return of a disease after a period of remission.",
+            "identifier": "C38155",
+            "notation": "DISEASE RELAPSE",
+            "pref_label": "Recurrent Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C38155"
+        },
+        {
+            "definition": "An indication that the subject has not been able to meet protocol-defined continuation criteria and will not continue to participate in the clinical trial.",
+            "identifier": "C139236",
+            "notation": "FAILURE TO MEET CONTINUATION CRITERIA",
+            "pref_label": "Failure To Meet Continuation Criteria",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C139236"
+        },
+        {
+            "definition": "An indication that the subject has been unable to fulfill/satisfy the criteria required for assignment into a randomized group.",
+            "identifier": "C105448",
+            "notation": "FAILURE TO MEET RANDOMIZATION CRITERIA",
+            "pref_label": "Failure to Meet Randomization Criteria",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C105448"
+        },
+        {
+            "definition": "The lack of expected or desired effect related to a therapy. (NCI)",
+            "identifier": "C48226",
+            "notation": "LACK OF EFFICACY",
+            "pref_label": "Lack of Efficacy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C48226"
+        },
+        {
+            "definition": "A problem with some logistical aspect of a clinical study, either on the part of the participant or the site.",
+            "identifier": "C176343",
+            "notation": "LOGISTICAL PROBLEM",
+            "pref_label": "Logistical Problem With Clinical Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C176343"
+        },
+        {
+            "definition": "The loss or lack of continuation of a subject to follow-up.",
+            "identifier": "C48227",
+            "notation": "LOST TO FOLLOW-UP",
+            "pref_label": "Lost To Follow-Up",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C48227"
+        },
+        {
+            "alt_label": "Passed Screening But Not Needed;Qualified But Not Needed;Reserve, Not Used",
+            "definition": "An indication that the subject met inclusion/exclusion criteria but was not needed in the trial.",
+            "identifier": "C150884",
+            "notation": "MET ELIGIBILITY CRITERIA BUT NOT NEEDED",
+            "pref_label": "Subject Met Eligibility Criteria But Was Not Needed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C150884"
+        },
+        {
+            "definition": "An indication that a subject has not ever been dosed with the study treatment or investigational product.",
+            "identifier": "C172572",
+            "notation": "NEVER DOSED",
+            "pref_label": "Never Dosed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C172572"
+        },
+        {
+            "alt_label": "NLCB",
+            "definition": "An indication that a treatment or therapy was changed or discontinued because it is no longer clinically beneficial to the subject or patient, based on the primary therapeutic objective for which it is being administered and assessed. (Trial Design and Objectives for Castration-Resistant Prostate Cancer: Updated Recommendations From the Prostate Cancer Clinical Trials Working Group 3. Scher HI, Morris MJ, Stadler WM, et al.; Prostate Cancer Clinical Trials Working Group 3. J Clin Oncol. 2016 Apr 20;34(12):1402-18.)",
+            "identifier": "C156551",
+            "notation": "NO LONGER CLINICALLY BENEFITING",
+            "pref_label": "No Longer Clinically Benefiting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C156551"
+        },
+        {
+            "definition": "An indication that a subject has not followed the instructions related to a device that is not under study.",
+            "identifier": "C139240",
+            "notation": "NON-COMPLIANCE WITH NON-STUDY DEVICE",
+            "pref_label": "Non-Compliance With Non-Study Device",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C139240"
+        },
+        {
+            "definition": "An indication that a subject has not followed the instructions related to a device under study.",
+            "identifier": "C139241",
+            "notation": "NON-COMPLIANCE WITH STUDY DEVICE",
+            "pref_label": "Non-Compliance With Study Device",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C139241"
+        },
+        {
+            "definition": "An indication that a subject has not agreed with or followed the instructions related to the study medication. (NCI)",
+            "identifier": "C49631",
+            "notation": "NON-COMPLIANCE WITH STUDY DRUG",
+            "pref_label": "Non-Compliance With Study Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C49631"
+        },
+        {
+            "definition": "An indication that a subject has not followed the schedule of study activities.",
+            "identifier": "C161411",
+            "notation": "NON-COMPLIANCE WITH STUDY SCHEDULE",
+            "pref_label": "Non-Compliance With Study Schedule",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C161411"
+        },
+        {
+            "alt_label": "Other",
+            "definition": "Different than the one(s) previously specified or mentioned. (NCI)",
+            "identifier": "C17649",
+            "notation": "OTHER",
+            "pref_label": "Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C17649"
+        },
+        {
+            "definition": "A position, opinion or judgment reached after consideration by a physician with reference to subject. (NCI)",
+            "identifier": "C48250",
+            "notation": "PHYSICIAN DECISION",
+            "pref_label": "Physician Decision",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C48250"
+        },
+        {
+            "definition": "Pregnancy is the state or condition of having a developing embryo or fetus in the body (uterus), after union of an ovum and spermatozoon, during the period from conception to birth. (NCI)",
+            "identifier": "C25742",
+            "notation": "PREGNANCY",
+            "pref_label": "Pregnancy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C25742"
+        },
+        {
+            "alt_label": "Disease Progression;Progressive Disease",
+            "definition": "A disease process that is increasing in extent or severity. (NCI)",
+            "identifier": "C35571",
+            "notation": "PROGRESSIVE DISEASE",
+            "pref_label": "Progressive Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C35571"
+        },
+        {
+            "definition": "A variation from processes or procedures defined in a protocol. Deviations usually do not preclude the overall evaluability of subject data for either efficacy or safety, and are often acknowledged and accepted in advance by the sponsor. NOTE: Good clinical practice recommends that deviations be summarized by site and by category as part of the report of study results so that the possible importance of the deviations to the findings of the study can be assessed. Compare to protocol violation. [See ICH E3] (CDISC Glossary)",
+            "identifier": "C50996",
+            "notation": "PROTOCOL DEVIATION",
+            "pref_label": "Protocol Deviation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C50996"
+        },
+        {
+            "definition": "A significant departure from processes or procedures that were required by the protocol. Violations often result in data that are not deemed evaluable for a per-protocol analysis, and may require that the subject(s) who violate the protocol be discontinued from the study. Compare to protocol deviation. (CDISC Glossary)",
+            "identifier": "C142185",
+            "notation": "PROTOCOL VIOLATION",
+            "pref_label": "Protocol Violation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C142185"
+        },
+        {
+            "definition": "An indication that the patient has met one or multiple protocol-specified withdrawal criteria and has been removed from the study or from one or more segments of the study.",
+            "identifier": "C142349",
+            "notation": "PROTOCOL-SPECIFIED WITHDRAWAL CRITERION MET",
+            "pref_label": "Protocol-Specified Withdrawal Criterion Met",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C142349"
+        },
+        {
+            "definition": "An indication that the subject was randomized but should not have been and study treatment was received in error.",
+            "identifier": "C139238",
+            "notation": "RANDOMIZED BY MISTAKE WITH STUDY TREATMENT",
+            "pref_label": "Randomized By Mistake With Study Treatment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C139238"
+        },
+        {
+            "definition": "An indication that the subject was randomized but should not have been however no study treatment was received.",
+            "identifier": "C139239",
+            "notation": "RANDOMIZED BY MISTAKE WITHOUT STUDY TREATMENT",
+            "pref_label": "Randomized By Mistake Without Study Treatment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C139239"
+        },
+        {
+            "definition": "An indication that the subject was randomized but should not have been.",
+            "identifier": "C139237",
+            "notation": "RANDOMIZED BY MISTAKE",
+            "pref_label": "Randomized By Mistake",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C139237"
+        },
+        {
+            "definition": "A healing process and/or an outcome implying relative health. The term is typically used in the context of direct and indirect effects of sickness or injury. (NCI)",
+            "identifier": "C25746",
+            "notation": "RECOVERY",
+            "pref_label": "Recovery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C25746"
+        },
+        {
+            "definition": "The potential subject who does not meet eligibility criteria during the screening period.",
+            "identifier": "C49628",
+            "notation": "SCREEN FAILURE",
+            "pref_label": "Trial Screen Failure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C49628"
+        },
+        {
+            "definition": "An indication that the subject did not complete the screening process.",
+            "identifier": "C166074",
+            "notation": "SCREENING NOT COMPLETED",
+            "pref_label": "Screening Not Completed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C166074"
+        },
+        {
+            "definition": "An indication that a clinical study was stopped at a particular site by its sponsor. (NCI)",
+            "identifier": "C106576",
+            "notation": "SITE TERMINATED BY SPONSOR",
+            "pref_label": "Trial Site Terminated by Sponsor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C106576"
+        },
+        {
+            "definition": "An indication that the study subject was removed from the study or from one or more segments of the study at the sponsor's request.",
+            "identifier": "C161410",
+            "notation": "SPONSOR REQUEST",
+            "pref_label": "Subject Removed at Sponsor Request",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C161410"
+        },
+        {
+            "definition": "An indication that a clinical study was stopped by its sponsor. (NCI)",
+            "identifier": "C49632",
+            "notation": "STUDY TERMINATED BY SPONSOR",
+            "pref_label": "Study Terminated By Sponsor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C49632"
+        },
+        {
+            "definition": "A problem with some technical aspect of a clinical study, usually related to an instrument. (NCI)",
+            "identifier": "C49633",
+            "notation": "TECHNICAL PROBLEMS",
+            "pref_label": "Technical Problem",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C49633"
+        },
+        {
+            "definition": "An indication that a study participant has been removed from the study or from one or more segments of the study by the parent or legal guardian.",
+            "identifier": "C102355",
+            "notation": "WITHDRAWAL BY PARENT/GUARDIAN",
+            "pref_label": "Study Subject Withdrawal by Parent or Guardian",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C102355"
+        },
+        {
+            "definition": "An indication that a study participant has removed themself from the study or from one or more segments of the study.",
+            "identifier": "C49634",
+            "notation": "WITHDRAWAL BY SUBJECT",
+            "pref_label": "Withdrawal by Subject",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C49634"
+        },
+        {
+            "definition": "An indication that the consent to participate in the study or one or more segments of the study has been revoked.",
+            "identifier": "C176342",
+            "notation": "WITHDRAWAL OF CONSENT",
+            "pref_label": "Study Consent Withdrawn",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66727-C176342"
+        }
+    ]
+}

@@ -1,0 +1,508 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Abdominal Skinfold Thickness",
+            "definition": "A measurement for determining the subcutaneous fat layer thickness whereby a pinch of skin approximately five centimeters to the right of the umbilicus is measured using calipers. (NCI)",
+            "identifier": "C103346",
+            "notation": "Abdominal Skinfold Thickness",
+            "pref_label": "Abdominal Skinfold Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C103346"
+        },
+        {
+            "alt_label": "Arm Span;Armspan;Reach;Wingspan",
+            "definition": "A measurement of the length from the tip of the middle finger on one hand to the tip of the middle finger on the other hand with the individual standing against the wall with both arms abducted to 90 degrees, the elbows and wrists extended, and the palms facing directly forward. (Philip H. Quanjer, Andre Capderou, Mumtaz M. Mazicioglu, Ashutosh N. Aggarwal, Sudip Datta Banik, Stevo Popovic, Francis A.K. Tayie, Mohammad Golshan, Mary S.M. Ip, Marc Zelter. European Respiratory Journal 2014 44: 905-912)",
+            "identifier": "C181553",
+            "notation": "Arm Span",
+            "pref_label": "Arm Span",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C181553"
+        },
+        {
+            "alt_label": "Basal Metabolic Rate",
+            "definition": "The measurement of a subject's energy expenditure when at rest.",
+            "identifier": "C126083",
+            "notation": "Basal Metabolic Rate",
+            "pref_label": "Basal Metabolic Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C126083"
+        },
+        {
+            "alt_label": "Birth Weight",
+            "definition": "A measurement of the weight of a neonate at birth.",
+            "identifier": "C76325",
+            "notation": "Birth Weight",
+            "pref_label": "Birth Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C76325"
+        },
+        {
+            "alt_label": "BMI-for-Age Percentile",
+            "definition": "An assessed relationship of an individual's body mass index and age to that of a reference population, expressed as a percentile.",
+            "identifier": "C163567",
+            "notation": "BMI-for-Age Percentile",
+            "pref_label": "BMI-for-Age Percentile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C163567"
+        },
+        {
+            "alt_label": "Body Fat Measurement",
+            "definition": "A measurement of the total fat mass within the subject's body. (NCI)",
+            "identifier": "C122232",
+            "notation": "Body Fat Measurement",
+            "pref_label": "Body Fat Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C122232"
+        },
+        {
+            "alt_label": "Body Frame Size",
+            "definition": "The categorization of a person's body frame into small, medium and large based on the measurement of wrist circumference or the breadth of the elbow. (NCI)",
+            "identifier": "C49680",
+            "notation": "Body Frame Size",
+            "pref_label": "Body Frame Size",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C49680"
+        },
+        {
+            "alt_label": "Body Length",
+            "definition": "The linear extent in space from one end of the body to the other end, or the extent of the body from beginning to end.",
+            "identifier": "C81298",
+            "notation": "Body Length",
+            "pref_label": "Total Body Length",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C81298"
+        },
+        {
+            "alt_label": "Body Mass Index",
+            "definition": "A general indicator of the body fat an individual is carrying based upon the ratio of weight to height. (NCI)",
+            "identifier": "C16358",
+            "notation": "Body Mass Index",
+            "pref_label": "Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C16358"
+        },
+        {
+            "alt_label": "Body Surface Area",
+            "definition": "A measure of the 2-dimensional extent of the body surface (i.e., the skin). Body surface area (BSA) can be calculated by mathematical formula or from a chart that relates height to weight. BSA is often an important factor in dosing. (NCI)",
+            "identifier": "C25157",
+            "notation": "Body Surface Area",
+            "pref_label": "Body Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C25157"
+        },
+        {
+            "alt_label": "Calf Circumference",
+            "definition": "A circumferential measurement of the lower leg in the region of the calf at the widest point.",
+            "identifier": "C178060",
+            "notation": "Calf Circumference",
+            "pref_label": "Calf Circumference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C178060"
+        },
+        {
+            "alt_label": "Capillary Refill Time",
+            "definition": "The amount of time it takes for a capillary bed to refill with blood after pressure blanching.",
+            "identifier": "C168125",
+            "notation": "Capillary Refill Time",
+            "pref_label": "Capillary Refill Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C168125"
+        },
+        {
+            "alt_label": "Chest Circumference",
+            "definition": "The distance around an individual's chest.",
+            "identifier": "C156606",
+            "notation": "Chest Circumference",
+            "pref_label": "Chest Circumference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C156606"
+        },
+        {
+            "alt_label": "Core Body Temperature",
+            "definition": "A measurement of the temperature within the deep tissues of the body.",
+            "identifier": "C174370",
+            "notation": "Core Body Temperature",
+            "pref_label": "Core Body Temperature",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C174370"
+        },
+        {
+            "alt_label": "Crown-to-Heel Length",
+            "definition": "A measurement of the length of the body from the crown of the head to the bottom of the heel.",
+            "identifier": "C170639",
+            "notation": "Crown-to-Heel Length",
+            "pref_label": "Crown to Heel Length",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C170639"
+        },
+        {
+            "alt_label": "Diastolic Blood Pressure",
+            "definition": "The minimum blood pressure in the systemic arterial circulation during the cardiac cycle.",
+            "identifier": "C25299",
+            "notation": "Diastolic Blood Pressure",
+            "pref_label": "Diastolic Blood Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C25299"
+        },
+        {
+            "alt_label": "Diastolic Blood Pressure-for-Age Percentile;Diastolic BP-for-Age Percentile",
+            "definition": "An assessed relationship of an individual's diastolic blood pressure and age to that of a reference population, expressed as a percentile.",
+            "identifier": "C172610",
+            "notation": "Diastolic BP-for-Age Percentile",
+            "pref_label": "Diastolic Blood Pressure-for-Age Percentile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C172610"
+        },
+        {
+            "alt_label": "Diastolic Blood Pressure-for-Height Percentile;Diastolic BP-for-Height Percentile",
+            "definition": "An assessed relationship of an individual's diastolic blood pressure and height to that of a reference population, expressed as a percentile.",
+            "identifier": "C172609",
+            "notation": "Diastolic BP-for-Height Percentile",
+            "pref_label": "Diastolic Blood Pressure-for-Height Percentile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C172609"
+        },
+        {
+            "alt_label": "Energy Expenditure",
+            "definition": "A measurement of the amount of energy used to carry out a physiological or physical function.",
+            "identifier": "C147491",
+            "notation": "Energy Expenditure",
+            "pref_label": "Energy Expenditure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C147491"
+        },
+        {
+            "alt_label": "Estimated Body Weight;Estimated Weight",
+            "definition": "An approximate determination of the body weight of the subject.",
+            "identifier": "C132482",
+            "notation": "Estimated Weight",
+            "pref_label": "Estimated Body Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C132482"
+        },
+        {
+            "alt_label": "Fetal Estimated Weight",
+            "definition": "An approximate determination of the weight of the fetus.",
+            "identifier": "C174372",
+            "notation": "Fetal Estimated Weight",
+            "pref_label": "Fetal Estimated Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C174372"
+        },
+        {
+            "alt_label": "Fetal Head Circumference",
+            "definition": "A circumferential measurement of the fetal head at the widest point.",
+            "identifier": "C158297",
+            "notation": "Fetal Head Circumference",
+            "pref_label": "Fetal Head Circumference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C158297"
+        },
+        {
+            "alt_label": "Fetal Heart Rate;Fetal HR",
+            "definition": "The number of fetal heartbeats per unit of time.",
+            "identifier": "C92716",
+            "notation": "Fetal Heart Rate",
+            "pref_label": "Fetal Heart Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C92716"
+        },
+        {
+            "alt_label": "Fetal Mandibular Length",
+            "definition": "A measurement of the length of the fetal mandible.",
+            "identifier": "C174375",
+            "notation": "Fetal Mandibular Length",
+            "pref_label": "Fetal Mandibular Length",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C174375"
+        },
+        {
+            "alt_label": "Fetal SAD;Fetal Sagittal Abdominal Diameter",
+            "definition": "A measurement of the sagittal abdominal diameter of the fetus.",
+            "identifier": "C174373",
+            "notation": "Fetal Sagittal Abdominal Diameter",
+            "pref_label": "Fetal Sagittal Abdominal Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C174373"
+        },
+        {
+            "alt_label": "Fetal Weight-for-Gest Age Percentile;Fetal Weight-for-Gestational Age Percentile",
+            "definition": "An assessed relationship of the fetal weight and gestational age to that of a reference population, expressed as a percentile.",
+            "identifier": "C174374",
+            "notation": "Fetal Weight-for-Gest Age Percentile",
+            "pref_label": "Fetal Weight-for-Gestational Age Percentile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C174374"
+        },
+        {
+            "alt_label": "Forearm Circumference",
+            "definition": "The distance around an individual's forearm.",
+            "identifier": "C100946",
+            "notation": "Forearm Circumference",
+            "pref_label": "Forearm Circumference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C100946"
+        },
+        {
+            "alt_label": "Fraction of Inspired Oxygen",
+            "definition": "A measurement of the volumetric fraction of oxygen in the inhaled gas.",
+            "identifier": "C38082",
+            "notation": "Fraction of Inspired Oxygen",
+            "pref_label": "Fraction of Inspired Oxygen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C38082"
+        },
+        {
+            "alt_label": "Head Circumference",
+            "definition": "A circumferential measurement of the head at the widest point.",
+            "identifier": "C81255",
+            "notation": "Head Circumference",
+            "pref_label": "Head Circumference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C81255"
+        },
+        {
+            "alt_label": "Heart Rate",
+            "definition": "The number of heartbeats per unit of time, usually expressed as beats per minute. (NCI)",
+            "identifier": "C49677",
+            "notation": "Heart Rate",
+            "pref_label": "Heart Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C49677"
+        },
+        {
+            "alt_label": "Height",
+            "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension. (NCI)",
+            "identifier": "C25347",
+            "notation": "Height",
+            "pref_label": "Height",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C25347"
+        },
+        {
+            "alt_label": "Height-for-Age Percentile",
+            "definition": "An assessed relationship of an individual's height and age to that of a reference population, expressed as a percentile.",
+            "identifier": "C163568",
+            "notation": "Height-for-Age Percentile",
+            "pref_label": "Height-for-Age Percentile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C163568"
+        },
+        {
+            "alt_label": "Hip Circumference",
+            "definition": "The distance around an individual's pelvic area or hips.",
+            "identifier": "C100947",
+            "notation": "Hip Circumference",
+            "pref_label": "Hip Circumference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C100947"
+        },
+        {
+            "alt_label": "Ideal Body Weight",
+            "definition": "A person's optimum weight as calculated by a standard methodology.",
+            "identifier": "C117976",
+            "notation": "Ideal Body Weight",
+            "pref_label": "Ideal Body Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C117976"
+        },
+        {
+            "alt_label": "Interpretation",
+            "definition": "An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.",
+            "identifier": "C41255",
+            "notation": "Interpretation",
+            "pref_label": "Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C41255"
+        },
+        {
+            "alt_label": "Knee to Heel Length",
+            "definition": "A measurement of the length of the lower leg from the top of the knee to the bottom of the heel. This measurement may be taken with a knemometer or calipers. (NCI)",
+            "identifier": "C84372",
+            "notation": "Knee to Heel Length",
+            "pref_label": "Knee to Heel Length Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C84372"
+        },
+        {
+            "alt_label": "Lean Body Mass",
+            "definition": "The weight of all organs and tissue in an individual less the weight of the individual's body fat.",
+            "identifier": "C71258",
+            "notation": "Lean Body Mass",
+            "pref_label": "Lean Body Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C71258"
+        },
+        {
+            "alt_label": "Mandibular Length",
+            "definition": "A measurement of the length of the mandible.",
+            "identifier": "C174233",
+            "notation": "Mandibular Length",
+            "pref_label": "Mandibular Length",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C174233"
+        },
+        {
+            "alt_label": "Maximum Predicted Heart Rate",
+            "definition": "The predicted upper limit for an individual's heart rate, which is calculated as 220 minus the subject's age for men, and 210 minus the subject's age for women.",
+            "identifier": "C147492",
+            "notation": "Maximum Predicted Heart Rate",
+            "pref_label": "Maximum Predicted Heart Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C147492"
+        },
+        {
+            "alt_label": "Mean Arterial Pressure",
+            "definition": "The mean pressure of the blood within the arterial circulation.",
+            "identifier": "C49679",
+            "notation": "Mean Arterial Pressure",
+            "pref_label": "Mean Arterial Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C49679"
+        },
+        {
+            "alt_label": "Mid-Upper Arm Circumference",
+            "definition": "The distance around an individual's upper arm, at the widest point.",
+            "identifier": "C124475",
+            "notation": "Mid-Upper Arm Circumference",
+            "pref_label": "Mid-Upper Arm Circumference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C124475"
+        },
+        {
+            "alt_label": "Neck Circumference",
+            "definition": "A circumferential measurement of the neck, just below the larynx.",
+            "identifier": "C154891",
+            "notation": "Neck Circumference",
+            "pref_label": "Neck Circumference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C154891"
+        },
+        {
+            "alt_label": "Oxygen Saturation",
+            "definition": "A measurement of the oxygen-hemoglobin saturation of a volume of blood.",
+            "identifier": "C60832",
+            "notation": "Oxygen Saturation",
+            "pref_label": "Oxygen Saturation Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C60832"
+        },
+        {
+            "alt_label": "Oxygen Saturation/Fraction Inspired O2",
+            "definition": "A relative measurement (ratio or percentage) of the oxygen-hemoglobin saturation of a volume of blood to the volumetric fraction of oxygen in the inhaled gas.",
+            "identifier": "C174311",
+            "notation": "Oxygen Saturation/Fraction Inspired O2",
+            "pref_label": "Oxygen Saturation/Fraction Inspired O2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C174311"
+        },
+        {
+            "alt_label": "Peripheral Body Temperature",
+            "definition": "A measurement of the temperature of the body at or near its surface.",
+            "identifier": "C174371",
+            "notation": "Peripheral Body Temperature",
+            "pref_label": "Peripheral Body Temperature",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C174371"
+        },
+        {
+            "alt_label": "Pulse Pressure",
+            "definition": "The change in systolic to diastolic pressure which produces a pulse.",
+            "identifier": "C100945",
+            "notation": "Pulse Pressure",
+            "pref_label": "Pulse Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C100945"
+        },
+        {
+            "alt_label": "Pulse Rate",
+            "definition": "The rate of the pulse as observed in an artery, expressed as beats per minute. It can be measured at several anatomical sites, including the wrist, neck, temple, groin, behind the knees, or on top of the foot. (NCI)",
+            "identifier": "C49676",
+            "notation": "Pulse Rate",
+            "pref_label": "Pulse Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C49676"
+        },
+        {
+            "alt_label": "Respiratory Rate",
+            "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute. (NCI)",
+            "identifier": "C49678",
+            "notation": "Respiratory Rate",
+            "pref_label": "Respiratory Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C49678"
+        },
+        {
+            "alt_label": "Sagittal Abdominal Diameter",
+            "definition": "A standard measure of visceral obesity, or abdominal fat, which is measured from the patient's back to upper abdomen between the bottom of the rib cage and the top of the pelvic area. This measurement may be taken with the patient standing or in the supine position. (NCI)",
+            "identifier": "C87054",
+            "notation": "Sagittal Abdominal Diameter",
+            "pref_label": "Sagittal Abdominal Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C87054"
+        },
+        {
+            "alt_label": "Subscapular Skinfold Thickness",
+            "definition": "A measurement of the thickness of a pinch of skin situated below or on the underside of the scapula. (NCI)",
+            "identifier": "C98785",
+            "notation": "Subscapular Skinfold Thickness",
+            "pref_label": "Subscapular Skinfold Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C98785"
+        },
+        {
+            "alt_label": "Systolic Blood Pressure",
+            "definition": "The maximum blood pressure in the systemic arterial circulation during the cardiac cycle.",
+            "identifier": "C25298",
+            "notation": "Systolic Blood Pressure",
+            "pref_label": "Systolic Blood Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C25298"
+        },
+        {
+            "alt_label": "Systolic Blood Pressure-for-Age Percentile;Systolic BP-for-Age Percentile",
+            "definition": "An assessed relationship of an individual's systolic blood pressure and age to that of a reference population, expressed as a percentile.",
+            "identifier": "C172608",
+            "notation": "Systolic BP-for-Age Percentile",
+            "pref_label": "Systolic Blood Pressure-for-Age Percentile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C172608"
+        },
+        {
+            "alt_label": "Systolic Blood Pressure-for-Height Percentile;Systolic BP-for-Height Percentile",
+            "definition": "An assessed relationship of an individual's systolic blood pressure and height to that of a reference population, expressed as a percentile.",
+            "identifier": "C172607",
+            "notation": "Systolic BP-for-Height Percentile",
+            "pref_label": "Systolic Blood Pressure-for-Height Percentile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C172607"
+        },
+        {
+            "alt_label": "Body Temperature;Temperature",
+            "definition": "A measurement of the temperature of the body.",
+            "identifier": "C174446",
+            "notation": "Temperature",
+            "pref_label": "Body Temperature",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C174446"
+        },
+        {
+            "alt_label": "Total Body Water",
+            "definition": "A measurement of the quantity of water within the body, including both the intracellular and extracellular compartments.",
+            "identifier": "C104622",
+            "notation": "Total Body Water",
+            "pref_label": "Total Body Water Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C104622"
+        },
+        {
+            "alt_label": "Triceps Skinfold Thickness",
+            "definition": "A measurement of the thickness of a pinch of skin on the triceps. (NCI)",
+            "identifier": "C98793",
+            "notation": "Triceps Skinfold Thickness",
+            "pref_label": "Triceps Skinfold Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C98793"
+        },
+        {
+            "alt_label": "Ulnar Length",
+            "definition": "A measurement of the length of the ulna.",
+            "identifier": "C174376",
+            "notation": "Ulnar Length",
+            "pref_label": "Ulnar Length",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C174376"
+        },
+        {
+            "alt_label": "Waist Circumference",
+            "definition": "The distance around an individual's midsection or waist.",
+            "identifier": "C100948",
+            "notation": "Waist Circumference",
+            "pref_label": "Waist Circumference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C100948"
+        },
+        {
+            "alt_label": "Waist to Heel Length",
+            "definition": "A measurement from the top of the waist to the bottom of the heel.",
+            "identifier": "C181552",
+            "notation": "Waist to Heel Length",
+            "pref_label": "Waist to Heel Length",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C181552"
+        },
+        {
+            "alt_label": "Waist to Hip Ratio",
+            "definition": "A relative measurement (ratio) of the waist circumference to the hip circumference.",
+            "identifier": "C17651",
+            "notation": "Waist to Hip Ratio",
+            "pref_label": "Waist-Hip Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C17651"
+        },
+        {
+            "alt_label": "Weight",
+            "definition": "The vertical force exerted by a mass as a result of gravity. (NCI)",
+            "identifier": "C25208",
+            "notation": "Weight",
+            "pref_label": "Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C25208"
+        },
+        {
+            "alt_label": "Weight-for-Age Percentile",
+            "definition": "An assessed relationship of an individual's weight and age to that of a reference population, expressed as a percentile.",
+            "identifier": "C163569",
+            "notation": "Weight-for-Age Percentile",
+            "pref_label": "Weight-for-Age Percentile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C163569"
+        },
+        {
+            "alt_label": "Weight-for-Height Percentile",
+            "definition": "An assessed relationship of an individual's weight and height to that of a reference population, expressed as a percentile.",
+            "identifier": "C163570",
+            "notation": "Weight-for-Height Percentile",
+            "pref_label": "Weight-for-Height Percentile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153-C163570"
+        }
+    ]
+}

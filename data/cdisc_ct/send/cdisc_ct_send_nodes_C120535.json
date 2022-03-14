@@ -1,0 +1,212 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Airway Resistance",
+            "definition": "A measurement of respiratory tract resistance to airflow during inspiration and expiration.",
+            "identifier": "C120927",
+            "notation": "Airway Resistance",
+            "pref_label": "Airway Resistance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120927"
+        },
+        {
+            "alt_label": "Apnea Time",
+            "definition": "A measurement of the apnea duration, determined by total sleep time minus the sum of inspiration time and expiration time.",
+            "identifier": "C158354",
+            "notation": "Apnea Time",
+            "pref_label": "Apnea Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C158354"
+        },
+        {
+            "alt_label": "Depth of Respiration",
+            "definition": "An assessment of the amount of air that is being inspired and expired.",
+            "identifier": "C120928",
+            "notation": "Depth of Respiration",
+            "pref_label": "Depth of Respiration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120928"
+        },
+        {
+            "alt_label": "Elapsed Time Between Breaths",
+            "definition": "The amount of time between one breath to the next breath calculated by inspiration time plus expiration time, per single respiratory cycle.",
+            "identifier": "C158355",
+            "notation": "Elapsed Time Between Breaths",
+            "pref_label": "Elapsed Time Between Breaths",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C158355"
+        },
+        {
+            "alt_label": "End Expiratory Pause",
+            "definition": "The brief period at the end of exhalation when respiration ceases to adjust for oxygen consumption. The length of the pause varies with oxygen demand.",
+            "identifier": "C120929",
+            "notation": "End Expiratory Pause",
+            "pref_label": "End Expiratory Pause",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120929"
+        },
+        {
+            "alt_label": "End Inspiratory Pause",
+            "definition": "The brief period at the end of inhalation when respiration ceases to adjust for oxygen consumption. The length of the pause varies with oxygen demand.",
+            "identifier": "C120930",
+            "notation": "End Inspiratory Pause",
+            "pref_label": "End Inspiratory Pause",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120930"
+        },
+        {
+            "alt_label": "Enhanced Pause",
+            "definition": "A unitless index of airway hyperreactivity used to evaluate changes in the shape of the airflow pattern of a subject using a whole-body flow plethysmograph.",
+            "identifier": "C120937",
+            "notation": "Enhanced Pause",
+            "pref_label": "Enhanced Pause",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120937"
+        },
+        {
+            "alt_label": "Expiration Relaxation Time",
+            "definition": "The time required to exhale 63.2% of the total expiratory volume, as measured from the start of exhalation.",
+            "identifier": "C120931",
+            "notation": "Expiration Relaxation Time",
+            "pref_label": "Expiration Relaxation Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120931"
+        },
+        {
+            "alt_label": "Expiration Time",
+            "definition": "The amount of time it takes for exhalation of air to occur.",
+            "identifier": "C120932",
+            "notation": "Expiration Time",
+            "pref_label": "Expiratory Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120932"
+        },
+        {
+            "alt_label": "Expiratory Flow 50%",
+            "definition": "The rate of gas flow during exhalation, beginning at the point at which tidal volume is decreased by 50%.",
+            "identifier": "C158353",
+            "notation": "Expiratory Flow 50%",
+            "pref_label": "Expiratory Flow 50%",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C158353"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume",
+            "definition": "Volume of air that a subject with fully inflated lungs can breathe out per unit time.",
+            "identifier": "C120933",
+            "notation": "Forced Expiratory Volume",
+            "pref_label": "Forced Expiratory Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120933"
+        },
+        {
+            "alt_label": "Inspiration Time",
+            "definition": "The amount of time it takes for inhalation of air to occur.",
+            "identifier": "C120934",
+            "notation": "Inspiration Time",
+            "pref_label": "Inspiratory Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120934"
+        },
+        {
+            "alt_label": "Mean Pulmonary Arterial Pressure",
+            "definition": "The mean pressure of the blood within the pulmonary circulation. The pulmonary pressure may be directly measured by insertion of an intra-arterial catheter connected to a transducer.",
+            "identifier": "C120935",
+            "notation": "Mean Pulmonary Arterial Pressure",
+            "pref_label": "Mean Pulmonary Arterial Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120935"
+        },
+        {
+            "alt_label": "Minute Volume",
+            "definition": "The amount of gas inspired or expired in one minute.",
+            "identifier": "C120936",
+            "notation": "Minute Volume",
+            "pref_label": "Minute Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120936"
+        },
+        {
+            "alt_label": "Minute Volume Adjusted;Minute Volume, Corrected;Mvadj",
+            "definition": "A measurement of the minute volume, which has been calculated using the corrected tidal volume.",
+            "identifier": "C163739",
+            "notation": "Minute Volume, Corrected",
+            "pref_label": "Corrected Minute Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C163739"
+        },
+        {
+            "alt_label": "Peak Expiratory Flow",
+            "definition": "The maximum rate of exhalation.",
+            "identifier": "C41372",
+            "notation": "Peak Expiratory Flow",
+            "pref_label": "Peak Expiratory Flow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C41372"
+        },
+        {
+            "alt_label": "Peak Expiratory Pressure",
+            "definition": "The peak pressure in the lungs during expiration.",
+            "identifier": "C120938",
+            "notation": "Peak Expiratory Pressure",
+            "pref_label": "Peak Expiratory Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120938"
+        },
+        {
+            "alt_label": "Peak Inspiratory Flow",
+            "definition": "The maximum rate of inhalation.",
+            "identifier": "C120939",
+            "notation": "Peak Inspiratory Flow",
+            "pref_label": "Peak Inspiratory Flow Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120939"
+        },
+        {
+            "alt_label": "Peak Inspiratory Pressure",
+            "definition": "The maximum pressure of inhaled air.",
+            "identifier": "C120940",
+            "notation": "Peak Inspiratory Pressure",
+            "pref_label": "Peak Inspiratory Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120940"
+        },
+        {
+            "alt_label": "Pulmonary Compliance",
+            "definition": "The elasticity of the pulmonary walls.",
+            "identifier": "C120942",
+            "notation": "Pulmonary Compliance",
+            "pref_label": "Pulmonary Compliance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120942"
+        },
+        {
+            "alt_label": "Pulmonary Diastolic Pressure",
+            "definition": "The blood pressure in the pulmonary artery after the contraction of the heart while the chambers of the heart refill with blood.",
+            "identifier": "C120941",
+            "notation": "Pulmonary Diastolic Pressure",
+            "pref_label": "Pulmonary Artery Diastolic Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120941"
+        },
+        {
+            "alt_label": "Pulmonary Systolic Pressure",
+            "definition": "The blood pressure in the pulmonary artery during the contraction of the left ventricle of the heart.",
+            "identifier": "C120943",
+            "notation": "Pulmonary Systolic Pressure",
+            "pref_label": "Pulmonary Artery Systolic Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C120943"
+        },
+        {
+            "alt_label": "Respiratory Rate",
+            "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute. (NCI)",
+            "identifier": "C49678",
+            "notation": "Respiratory Rate",
+            "pref_label": "Respiratory Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C49678"
+        },
+        {
+            "alt_label": "Tidal Volume",
+            "definition": "The volume of air moved into and out of the lungs during breathing at rest.",
+            "identifier": "C111324",
+            "notation": "Tidal Volume",
+            "pref_label": "Tidal Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C111324"
+        },
+        {
+            "alt_label": "Tidal Volume, Adjusted;Tidal Volume, Corrected;Tvadj",
+            "definition": "A measurement of the tidal volume, corrected using an adjustment factor that takes into account temperature, pressure, and humidity.",
+            "identifier": "C163740",
+            "notation": "Tidal Volume, Corrected",
+            "pref_label": "Corrected Tidal Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C163740"
+        },
+        {
+            "alt_label": "Total Lung Capacity",
+            "definition": "The total volume of air in the lungs after maximum inhalation.",
+            "identifier": "C111325",
+            "notation": "Total Lung Capacity",
+            "pref_label": "Total Lung Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535-C111325"
+        }
+    ]
+}

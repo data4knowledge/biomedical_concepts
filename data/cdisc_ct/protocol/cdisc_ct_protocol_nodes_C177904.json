@@ -1,0 +1,57 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Dose Form",
+            "definition": "The physical form in which active and/or inert ingredient(s) are presented.",
+            "identifier": "C42636",
+            "notation": "Dosage Form",
+            "pref_label": "Pharmaceutical Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177904-C42636"
+        },
+        {
+            "definition": "The schedule of doses of a therapeutic agent per unit of time, including: the time between doses (e.g., every 6 hours) or the time when the dose(s) are to be given (e.g., at 8 a.m. and 4 p.m. daily), and the amount of a medicine (e.g., number of capsules) to be given at each specific time. (Segen's Medical Dictionary)",
+            "identifier": "C142516",
+            "notation": "Dosage Regimen",
+            "pref_label": "Dosage Regimen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177904-C142516"
+        },
+        {
+            "alt_label": "Dosing Frequency",
+            "definition": "The number of doses administered per a specific interval.",
+            "identifier": "C89081",
+            "notation": "Dose Frequency",
+            "pref_label": "Dose Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177904-C89081"
+        },
+        {
+            "alt_label": "Dose Level;Dose per Administration",
+            "definition": "The amount of study drug (or placebo) administered to a patient or test subject to be taken at one time or at stated intervals.",
+            "identifier": "C25488",
+            "notation": "Dose",
+            "pref_label": "Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177904-C25488"
+        },
+        {
+            "definition": "The rationale or explanation for the planned dose(s).",
+            "identifier": "C177925",
+            "notation": "Justification for Dosage",
+            "pref_label": "Justification for Planned Dosage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177904-C177925"
+        },
+        {
+            "definition": "The rationale or explanation for the planned mode of delivery.",
+            "identifier": "C177926",
+            "notation": "Justification of Administration",
+            "pref_label": "Justification of Planned Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177904-C177926"
+        },
+        {
+            "alt_label": "Route of Administration",
+            "definition": "The pathway by which a substance is administered in order to reach the site of action in the body.",
+            "identifier": "C38114",
+            "notation": "Route of Administration",
+            "pref_label": "Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177904-C38114"
+        }
+    ]
+}

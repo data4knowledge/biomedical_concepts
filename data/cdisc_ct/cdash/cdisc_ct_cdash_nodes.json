@@ -1,0 +1,242 @@
+{
+    "API_SOURCE": [
+        {
+            "uri": "http://id.d4k.dk/dataset/source/cdisc/ct/cdash",
+            "url": "https://api.library.cdisc.org/api/mdr/ct/packages/cdashct-2021-12-17"
+        }
+    ],
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Concomitant Medication Dose Form",
+            "definition": "A terminology subset of the CDISC SDTM Pharmaceutical Dosage Form codelist created for CDASH Concomitant Medication Dose Form codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78418",
+            "label": "Concomitant Medication Dose Form",
+            "notation": "CMDOSFRM",
+            "pref_label": "CDISC CDASH Concomitant Medication Dose Form Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418"
+        },
+        {
+            "alt_label": "Concomitant Medication Dose Units",
+            "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Concomitant Medication Dose Units codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78417",
+            "label": "Concomitant Medication Dose Units",
+            "notation": "CMDOSU",
+            "pref_label": "CDISC CDASH Concomitant Medication Dose Units Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78417"
+        },
+        {
+            "alt_label": "Concomitant Medication Dosing Frequency per Interval",
+            "definition": "A terminology subset of the CDISC SDTM Frequency codelist created for CDASH Concomitant Medication Dosing Frequency per Interval codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78419",
+            "label": "Concomitant Medication Dosing Frequency per Interval",
+            "notation": "CMDOSFRQ",
+            "pref_label": "CDISC CDASH Concomitant Medication Dosing Frequency per Interval Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78419"
+        },
+        {
+            "alt_label": "Concomitant Medication Route of Administration",
+            "definition": "A terminology subset of the CDISC SDTM Route codelist created for CDASH Concomitant Medication Route of Administration codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78420",
+            "label": "Concomitant Medication Route of Administration",
+            "notation": "CMROUTE",
+            "pref_label": "CDISC CDASH Concomitant Medication Route of Administration Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78420"
+        },
+        {
+            "alt_label": "ECG Original Units",
+            "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH ECG Original Units codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78422",
+            "label": "ECG Original Units",
+            "notation": "EGORRESU",
+            "pref_label": "CDISC CDASH ECG Original Units Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78422"
+        },
+        {
+            "alt_label": "Ethnicity As Collected",
+            "definition": "A terminology codelist relevant to the ethnicity of an individual as collected on the case report form.",
+            "extensible": "true",
+            "identifier": "C128690",
+            "label": "Ethnicity As Collected",
+            "notation": "ETHNICC",
+            "pref_label": "CDISC SDTM Collected Ethnicity Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C128690"
+        },
+        {
+            "alt_label": "Exposure Dose Form",
+            "definition": "A terminology subset of the CDISC SDTM Pharmaceutical Dosage Form codelist created for CDASH Exposure Dose Form codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78426",
+            "label": "Exposure Dose Form",
+            "notation": "EXDOSFRM",
+            "pref_label": "CDISC CDASH Exposure Dose Form Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78426"
+        },
+        {
+            "alt_label": "Exposure Dosing Frequency per Interval",
+            "definition": "A terminology subset of the CDISC SDTM Frequency codelist created for CDASH Exposure Dosing Frequency per Interval codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78745",
+            "label": "Exposure Dosing Frequency per Interval",
+            "notation": "EXDOSFRQ",
+            "pref_label": "CDISC CDASH Exposure Dosing Frequency per Interval Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78745"
+        },
+        {
+            "alt_label": "Exposure Route of Administration",
+            "definition": "A terminology subset of the CDISC SDTM Route codelist created for CDASH Exposure Route of Administration codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78425",
+            "label": "Exposure Route of Administration",
+            "notation": "EXROUTE",
+            "pref_label": "CDISC CDASH Exposure Route of Administration Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425"
+        },
+        {
+            "alt_label": "Mode of Delivery",
+            "definition": "A terminology codelist relevant to the mode of delivery of a fetus or neonate.",
+            "extensible": "true",
+            "identifier": "C181165",
+            "label": "Mode of Delivery",
+            "notation": "MODDLV",
+            "pref_label": "CDISC SDTM Mode of Delivery Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C181165"
+        },
+        {
+            "alt_label": "Race As Collected",
+            "definition": "A terminology codelist relevant to the race of an individual as collected on the case report form.",
+            "extensible": "true",
+            "identifier": "C128689",
+            "label": "Race As Collected",
+            "notation": "RACEC",
+            "pref_label": "CDISC SDTM Collected Race Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C128689"
+        },
+        {
+            "alt_label": "Serious Adverse Event Report Category",
+            "definition": "Terminology relevant to the classification of a serious adverse event report.",
+            "extensible": "false",
+            "identifier": "C177909",
+            "label": "Serious Adverse Event Report Category",
+            "notation": "SAERCAT",
+            "pref_label": "CDISC CDASH Serious Adverse Event Report Category Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C177909"
+        },
+        {
+            "alt_label": "Study Agent Dechallenge Reaction Response",
+            "definition": "A terminology codelist relevant to the resultant reaction due to withdrawing, interrupting, or otherwise altering administration of study treatment.",
+            "extensible": "true",
+            "identifier": "C181164",
+            "label": "Study Agent Dechallenge Reaction Response",
+            "notation": "SADCRR",
+            "pref_label": "CDISC CDASH Study Agent Dechallenge Reaction Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C181164"
+        },
+        {
+            "alt_label": "Study Agent Rechallenge Reaction Response",
+            "definition": "A terminology codelist relevant to the resultant reaction due to restarting or otherwise returning administration of study treatment to previous level, after a dechallenge event.",
+            "extensible": "true",
+            "identifier": "C181163",
+            "label": "Study Agent Rechallenge Reaction Response",
+            "notation": "SARCRR",
+            "pref_label": "CDISC CDASH Study Agent Rechallenge Reaction Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C181163"
+        },
+        {
+            "alt_label": "Substance Use Never/Current/Former Classification",
+            "definition": "A terminology subset of the CDISC SDTM Never/Current/Former Classification codelist created for CDASH Substance Use Never/Current/Former Classification codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C83004",
+            "label": "Substance Use Never/Current/Former Classification",
+            "notation": "SUNCF",
+            "pref_label": "CDISC CDASH Substance Use Never/Current/Former Classification Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C83004"
+        },
+        {
+            "alt_label": "Total Volume Administration Unit",
+            "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Total Volume Administration Unit codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78428",
+            "label": "Total Volume Administration Unit",
+            "notation": "EXVOLTU",
+            "pref_label": "CDISC CDASH Total Volume Administration Unit Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78428"
+        },
+        {
+            "alt_label": "Unit for the Duration of Treatment Interruption",
+            "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit for Duration of Treatment Interruption codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78427",
+            "label": "Unit for the Duration of Treatment Interruption",
+            "notation": "EXINTPU",
+            "pref_label": "CDISC CDASH Unit for Duration of Treatment Interruption Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78427"
+        },
+        {
+            "alt_label": "Unit of Drug Dispensed or Returned",
+            "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit of Drug Dispensed or Returned codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78421",
+            "label": "Unit of Drug Dispensed or Returned",
+            "notation": "DAORRESU",
+            "pref_label": "CDISC CDASH Unit of Drug Dispensed or Returned Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78421"
+        },
+        {
+            "alt_label": "Unit of Measure for Flow Rate",
+            "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit of Measure for Flow Rate codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78429",
+            "label": "Unit of Measure for Flow Rate",
+            "notation": "EXFLRTU",
+            "pref_label": "CDISC CDASH Unit of Measure for Flow Rate Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78429"
+        },
+        {
+            "alt_label": "Units for Exposure",
+            "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Units for Exposure codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78423",
+            "label": "Units for Exposure",
+            "notation": "EXDOSU",
+            "pref_label": "CDISC CDASH Units for Exposure Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78423"
+        },
+        {
+            "alt_label": "Units for Planned Exposure",
+            "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Units for Planned Exposure codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78430",
+            "label": "Units for Planned Exposure",
+            "notation": "EXPDOSEU",
+            "pref_label": "CDISC CDASH Units for Planned Exposure Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78430"
+        },
+        {
+            "alt_label": "Vital Signs Position of Subject",
+            "definition": "A terminology subset of the CDISC SDTM Position codelist created for CDASH Vital Signs Position of Subject codelist. (NCI)",
+            "extensible": "true",
+            "identifier": "C78431",
+            "label": "Vital Signs Position of Subject",
+            "notation": "VSPOS",
+            "pref_label": "CDISC CDASH Vital Signs Position of Subject Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78431"
+        }
+    ],
+    "SKOS_CONCEPT_SCHEME": [
+        {
+            "description": "CDISC Controlled Terminology for CDASH is the set of CDISC-developed or CDISC-adopted standard expressions (values) used with data items within CDISC-defined CDASH datasets.",
+            "effective_date": "2021-12-17",
+            "label": "CDASH Controlled Terminology Package 48 Effective 2021-12-17",
+            "name": "CDASH CT 2021-12-17",
+            "source": "CDASH Controlled Terminology developed by the CDISC Terminology Team in collaboration with the National Cancer Institute's Enterprise Vocabulary Services (EVS)",
+            "status": "Final",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash",
+            "version": "2021-12-17"
+        }
+    ]
+}

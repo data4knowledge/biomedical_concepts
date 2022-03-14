@@ -1,0 +1,50 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CPM",
+            "definition": "A formula that normalizes transcript fragment counts based on the total number of transcript fragments that are sequenced. CPM equals the number of reads divided by the number of sequenced transcript fragments, and multiplied by 1,000,000.",
+            "identifier": "C181324",
+            "notation": "COUNTS PER MILLION FORMULA",
+            "pref_label": "Transcript Fragment Count per Million Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181181-C181324"
+        },
+        {
+            "definition": "A formula that compares gene expression by calculating the log2 fold difference between two gene expression intensities, or 2^(Value 2 Intensity - Value 1 Intensity).",
+            "identifier": "C181328",
+            "notation": "DIFFERENCES OF LOG2 INTENSITIES FORMULA",
+            "pref_label": "Differences Of Log2 Intensities Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181181-C181328"
+        },
+        {
+            "alt_label": "FPKM",
+            "definition": "A formula that calculates the number of fragments per million fragments sampled (calculated by dividing the fragment counts by a per million scaling factor, which is derived by taking the total fragments in the sample and dividing by 1,000,000) divided by the length of the gene, in kilobases. Fragments are represented by either paired or single end reads.",
+            "identifier": "C181325",
+            "notation": "FRAGMENTS PER KILOBASE MILLION FORMULA",
+            "pref_label": "Fragments Per Kilobase Million Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181181-C181325"
+        },
+        {
+            "definition": "A unique pattern of gene expression of one to many combinations of genes that is associated with type 1 interferon activity.",
+            "identifier": "C181329",
+            "notation": "IFN-1 GENE SIGNATURE",
+            "pref_label": "IFN-1 Gene Signature",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181181-C181329"
+        },
+        {
+            "alt_label": "RPKM",
+            "definition": "A formula that calculates the number of fragments per million fragments sampled (calculated by dividing the fragment counts by a per million scaling factor, which is derived by taking the total fragments in the sample and dividing by 1,000,000) divided by the length of the gene, in kilobases. Fragments are represented by single end reads.",
+            "identifier": "C181326",
+            "notation": "READS PER KILOBASE MILLION FORMULA",
+            "pref_label": "Reads Per Kilobase Million Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181181-C181326"
+        },
+        {
+            "alt_label": "TPM",
+            "definition": "A formula that identifies the reads per kilobase (RPK, derived by dividing the read counts by the length of each gene, in kilobases) divided by a per million scaling factor (which is the count of RPK values in a sample divided by 1,000,000).",
+            "identifier": "C181327",
+            "notation": "TRANSCRIPTS PER MILLION FORMULA",
+            "pref_label": "Transcripts Per Million Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181181-C181327"
+        }
+    ]
+}

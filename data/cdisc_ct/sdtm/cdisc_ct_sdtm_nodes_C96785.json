@@ -1,0 +1,652 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The absence of change in the overall attenuation of the metastasis and in the peripheral rim, suggesting a lack of response to treatment.",
+            "identifier": "C123571",
+            "notation": "ABSENT MORPHOLOGIC RESPONSE",
+            "pref_label": "Absent Morphologic Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123571"
+        },
+        {
+            "alt_label": "Cancer Antigen 125 50% Response",
+            "definition": "The amount of cancer antigen 125 is reduced by 50% from protocol-defined baseline value(s).",
+            "identifier": "C123572",
+            "notation": "CA125 50% RESPONSE",
+            "pref_label": "CA125 50% Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123572"
+        },
+        {
+            "alt_label": "Cancer Antigen 125 75% Response",
+            "definition": "The amount of cancer antigen 125 is reduced by 75% from protocol-defined baseline value(s).",
+            "identifier": "C123573",
+            "notation": "CA125 75% RESPONSE",
+            "pref_label": "CA125 75% Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123573"
+        },
+        {
+            "alt_label": "Clinical Complete Remission;Clinical Complete Response",
+            "definition": "The disappearance of all signs of cancer based on physical exam, such as palpation.",
+            "identifier": "C123574",
+            "notation": "cCR",
+            "pref_label": "Clinical Complete Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123574"
+        },
+        {
+            "alt_label": "Complete Hematologic Response",
+            "definition": "The disappearance of cancer in response to treatment, including platelet and white blood cell counts returning to normal levels, a non-palpable spleen, and no immature white blood cells present in the blood unless it is a regenerating marrow following treatment.",
+            "identifier": "C123575",
+            "notation": "CHR",
+            "pref_label": "Complete Hematologic Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123575"
+        },
+        {
+            "alt_label": "Complete Metabolic Response",
+            "definition": "The disappearance of metabolic tumor activity in all relevant lesions.",
+            "identifier": "C123407",
+            "notation": "CMR",
+            "pref_label": "Tumor Complete Metabolic Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123407"
+        },
+        {
+            "alt_label": "Complete Minimal Residual Disease Response",
+            "definition": "Absence of residual disease based on pre-defined thresholds and minimal residual disease negativity by laboratory techniques.",
+            "identifier": "C124427",
+            "notation": "COMPLETE MRD RESPONSE",
+            "pref_label": "Complete Minimal Residual Disease Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C124427"
+        },
+        {
+            "alt_label": "Clinical Partial Remission;Clinical Partial Response",
+            "definition": "A decrease in the size and the extent of tissue involvement by cancer, based on physical exam, such as palpation.",
+            "identifier": "C123576",
+            "notation": "cPR",
+            "pref_label": "Clinical Partial Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123576"
+        },
+        {
+            "alt_label": "Complete Remission;Complete Response",
+            "definition": "The disappearance of all signs of cancer in response to treatment. (NCI)",
+            "identifier": "C4870",
+            "notation": "CR",
+            "pref_label": "Complete Remission",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C4870"
+        },
+        {
+            "alt_label": "Complete Remission, CT-Based;Complete Response, CT-Based",
+            "definition": "The disappearance of all signs of cancer, based on CT scan and criteria-defined assessments.",
+            "identifier": "C123577",
+            "notation": "CR-CT",
+            "pref_label": "Complete Response by Computed Tomography",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123577"
+        },
+        {
+            "alt_label": "Complete Remission with Incomplete Blood Count Recovery;Complete Response with Incomplete Bone Marrow Recovery",
+            "definition": "The disappearance of all signs of cancer in response to treatment accompanied by incomplete bone marrow recovery, as evidenced by persistent anemia, thrombocytopenia or neutropenia.",
+            "identifier": "C103385",
+            "notation": "CRi",
+            "pref_label": "Complete Response with Incomplete Bone Marrow Recovery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C103385"
+        },
+        {
+            "alt_label": "CCgR;CCyR;Complete Cytogenetic Response;CRc;Cytogenetic Complete Remission;Cytogenetic Complete Response",
+            "definition": "The disappearance of all signs of cancer, including the absence of a detectable disease-related genetic abnormality, as determined by techniques such as karyotyping or FISH, in response to treatment.",
+            "identifier": "C123578",
+            "notation": "CYTOGENETIC CR",
+            "pref_label": "Cytogenetic Complete Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123578"
+        },
+        {
+            "alt_label": "Minimal CgR",
+            "definition": "A minimal decrease in abnormal karyotype, based on pre-defined thresholds.",
+            "identifier": "C123579",
+            "notation": "CYTOGENETIC MINIMAL RESPONSE",
+            "pref_label": "Cytogenetic Minimal Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123579"
+        },
+        {
+            "alt_label": "Minor CgR",
+            "definition": "A minor decrease in abnormal karyotype, based on pre-defined thresholds.",
+            "identifier": "C123580",
+            "notation": "CYTOGENETIC MINOR RESPONSE",
+            "pref_label": "Cytogenetic Minor Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123580"
+        },
+        {
+            "alt_label": "No CgR;No Cytogenetic Response",
+            "definition": "No change in abnormal karyotype, based on pre-defined thresholds.",
+            "identifier": "C123581",
+            "notation": "CYTOGENETIC NO RESPONSE",
+            "pref_label": "Cytogenetic No Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123581"
+        },
+        {
+            "alt_label": "Cytogenetic Partial Response;Partial CgR",
+            "definition": "A partial decrease in abnormal karyotype, based on pre-defined thresholds.",
+            "identifier": "C123582",
+            "notation": "CYTOGENETIC PR",
+            "pref_label": "Cytogenetic Partial Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123582"
+        },
+        {
+            "alt_label": "Reduced",
+            "definition": "Made less in size, amount, degree, or extent.",
+            "identifier": "C25640",
+            "notation": "DECREASED",
+            "pref_label": "Reduced",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C25640"
+        },
+        {
+            "definition": "A conversion from one disease diagnosis to another, which may be considered a progression to a worsening state.",
+            "identifier": "C123583",
+            "notation": "DISEASE TRANSFORMATION",
+            "pref_label": "Disease Transformation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123583"
+        },
+        {
+            "definition": "Open to question.",
+            "identifier": "C86071",
+            "notation": "EQUIVOCAL",
+            "pref_label": "Equivocal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C86071"
+        },
+        {
+            "definition": "No new lesions(s) and a decrease in lesion size, or a reduction in central necrosis or attenuation in one or more enhancing lesions, based on pre-defined thresholds.",
+            "identifier": "C123584",
+            "notation": "FAVORABLE RESPONSE",
+            "pref_label": "Favorable Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123584"
+        },
+        {
+            "alt_label": "Hematologic Improvement-Erythroid Response",
+            "definition": "An improvement in erythrocyte count as a response to treatment.",
+            "identifier": "C123585",
+            "notation": "HI-E",
+            "pref_label": "Hematologic Improvement-Erythroid Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123585"
+        },
+        {
+            "alt_label": "Hematologic Improvement-Neutrophil Response",
+            "definition": "An improvement of neutrophil count as a response to treatment.",
+            "identifier": "C123586",
+            "notation": "HI-N",
+            "pref_label": "Hematologic Improvement-Neutrophil Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123586"
+        },
+        {
+            "alt_label": "Hematologic Improvement-Platelet Response",
+            "definition": "An improvement of platelet count as a response to treatment.",
+            "identifier": "C123587",
+            "notation": "HI-P",
+            "pref_label": "Hematologic Improvement-Platelet Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123587"
+        },
+        {
+            "definition": "Radiographic progression which has been confirmed by additional imaging showing worsening of initial progression.",
+            "identifier": "C142356",
+            "notation": "iCPD",
+            "pref_label": "iRECIST Confirmed Progressive Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C142356"
+        },
+        {
+            "definition": "The disappearance of all signs of cancer following an initial apparent radiographic progression.",
+            "identifier": "C142357",
+            "notation": "iCR",
+            "pref_label": "iRECIST Complete Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C142357"
+        },
+        {
+            "alt_label": "Immunophenotypic Complete Response",
+            "definition": "The disappearance of all signs of cancer, supported by the absence of phenotypically aberrant plasma cells (clonal) in bone marrow. (Rajkumar SV, Harousseau J, Durie B et al, Consensus recommendations for the uniform reporting of clinical trials: report of the International Myeloma Workshop Consensus Panel 1. Blood. 2011; 117(18):4691-4695)",
+            "identifier": "C123588",
+            "notation": "IMMUNOPHENOTYPIC CR",
+            "pref_label": "Immunophenotypic Complete Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123588"
+        },
+        {
+            "alt_label": "Better",
+            "definition": "A subjective response indicating that something has improved or gotten better.",
+            "identifier": "C125459",
+            "notation": "IMPROVED",
+            "pref_label": "Improved",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C125459"
+        },
+        {
+            "definition": "A process of becoming larger, more intense, more extensive, more numerous, more important, or more likely.",
+            "identifier": "C25533",
+            "notation": "INCREASED",
+            "pref_label": "Increase",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C25533"
+        },
+        {
+            "definition": "A response that is neither favorable nor unfavorable.",
+            "identifier": "C123589",
+            "notation": "INDETERMINATE RESPONSE",
+            "pref_label": "Indeterminate Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123589"
+        },
+        {
+            "definition": "A finding indicating that there is a decrease based on a predetermined threshold in the size and the extent of tissue involvement by cancer following an initial apparent radiographic progression.",
+            "identifier": "C142358",
+            "notation": "iPR",
+            "pref_label": "iRECIST Partial Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C142358"
+        },
+        {
+            "definition": "Cancer that is neither decreasing nor increasing in extent or severity based on predetermined boundaries following an initial apparent radiographic progression.",
+            "identifier": "C142359",
+            "notation": "iSD",
+            "pref_label": "iRECIST Stable Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C142359"
+        },
+        {
+            "definition": "Apparent radiographic progression which requires confirmation, per criteria, with additional imaging.",
+            "identifier": "C142360",
+            "notation": "iUPD",
+            "pref_label": "iRECIST Unconfirmed Progressive Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C142360"
+        },
+        {
+            "definition": "A major decrease in signs of cancer, supported by pathological examination and based on pre-defined thresholds.",
+            "identifier": "C123590",
+            "notation": "MAJOR PATHOLOGIC RESPONSE",
+            "pref_label": "Major Pathologic Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123590"
+        },
+        {
+            "alt_label": "Marrow Complete Remission;Marrow Complete Response",
+            "definition": "A decrease in the number of bone marrow plasma cells to protocol-defined level(s).",
+            "identifier": "C123591",
+            "notation": "mCR",
+            "pref_label": "Marrow Complete Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123591"
+        },
+        {
+            "definition": "A minor decrease in signs of cancer, supported by pathological examination and based on pre-defined thresholds.",
+            "identifier": "C123592",
+            "notation": "MINOR PATHOLOGIC RESPONSE",
+            "pref_label": "Minor Pathologic Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123592"
+        },
+        {
+            "alt_label": "CMR;Complete Molecular Response;Molecular Complete Remission;Molecular Complete Response",
+            "definition": "The disappearance of all signs of cancer, supported by molecular analysis.",
+            "identifier": "C123593",
+            "notation": "MOLECULAR CR",
+            "pref_label": "Molecular Complete Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123593"
+        },
+        {
+            "alt_label": "Major Molecular Response;MMolR;MMR",
+            "definition": "A decrease in signs of cancer, supported by molecular analysis.",
+            "identifier": "C123594",
+            "notation": "MOLECULAR MAJOR RESPONSE",
+            "pref_label": "Molecular Major Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123594"
+        },
+        {
+            "alt_label": "Morphologic Complete Remission;Morphologic Complete Response",
+            "definition": "The disappearance of all signs of cancer, supported by morphological analysis.",
+            "identifier": "C123595",
+            "notation": "MORPHOLOGIC CR",
+            "pref_label": "Morphologic Complete Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123595"
+        },
+        {
+            "alt_label": "Morphologic Complete Remission with Incomplete Blood Count Recovery;Morphologic Complete Remission with Incomplete Bone Marrow Recovery",
+            "definition": "The disappearance of all cells with morphologic characteristics of cancer, accompanied by incomplete bone marrow recovery, as evidenced by persistent anemia, thrombocytopenia or neutropenia.",
+            "identifier": "C123596",
+            "notation": "MORPHOLOGIC CRi",
+            "pref_label": "Morphologic Complete Remission with Incomplete Blood Count Recovery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123596"
+        },
+        {
+            "alt_label": "NEL;No Evidence of Leukemia",
+            "definition": "The disappearance of all cells with morphologic characteristics of leukemia, accompanied by bone marrow recovery, in response to treatment. Hematologic recovery is not required. Leukemia free state can be a hypocellular marrow.",
+            "identifier": "C123597",
+            "notation": "MORPHOLOGIC LEUKEMIA-FREE STATE",
+            "pref_label": "Morphologic Leukemia-Free State",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123597"
+        },
+        {
+            "alt_label": "Minimal Response;Minor Response",
+            "definition": "A finding that refers to hematologic and solid malignancies and indicates that there is a minor improvement in the measures of disease burden, meeting a predetermined threshold, but not meeting partial response criteria.",
+            "identifier": "C123598",
+            "notation": "MR",
+            "pref_label": "Minimal Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123598"
+        },
+        {
+            "alt_label": "Minimal Residual Disease Negativity",
+            "definition": "Absence of minimal residual disease based on laboratory techniques.",
+            "identifier": "C124428",
+            "notation": "MRD NEGATIVITY",
+            "pref_label": "Minimal Residual Disease Negativity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C124428"
+        },
+        {
+            "alt_label": "Minimal Residual Disease Persistence",
+            "definition": "Presence of residual disease based on pre-defined thresholds and quantifiable minimal residual disease positivity by laboratory techniques.",
+            "identifier": "C124429",
+            "notation": "MRD PERSISTENCE",
+            "pref_label": "Minimal Residual Disease Persistence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C124429"
+        },
+        {
+            "alt_label": "Minimal Residual Disease Relapse;MRD Reappearance",
+            "definition": "Presence of residual disease based on pre-defined thresholds and return of quantifiable minimal residual disease positivity after a period of minimal residual disease negativity.",
+            "identifier": "C124430",
+            "notation": "MRD RELAPSE",
+            "pref_label": "Minimal Residual Disease Relapse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C124430"
+        },
+        {
+            "alt_label": "Not Assessable;Not Evaluable",
+            "definition": "Unable to be evaluated. (NCI)",
+            "identifier": "C62222",
+            "notation": "NE",
+            "pref_label": "Unevaluable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C62222"
+        },
+        {
+            "alt_label": "No Evidence of Disease",
+            "definition": "An absence of detectable disease.",
+            "identifier": "C40413",
+            "notation": "NED",
+            "pref_label": "No Evidence of Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C40413"
+        },
+        {
+            "alt_label": "Non Complete Response/Non Progressive Disease",
+            "definition": "Persistence of one or more non-target lesion(s) and/or maintenance of tumor marker levels above the normal limits. (RECIST)",
+            "identifier": "C96700",
+            "notation": "NON-CR/NON-PD",
+            "pref_label": "Non Complete Response/Non Progressive Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C96700"
+        },
+        {
+            "definition": "Persistence of one or more non-target lesion(s) without unequivocal progression following an initial apparent radiographic progression.",
+            "identifier": "C142361",
+            "notation": "NON-iCR/NON-iUPD",
+            "pref_label": "Non iRECIST Complete Response-Non iRECIST Unconfirmed Progressive Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C142361"
+        },
+        {
+            "alt_label": "Non Progressive Disease",
+            "definition": "Following a previous assessment of progressive disease unconfirmed (PDu) of non-target lesion(s), the subsequent required assessment does not confirm progressive disease.",
+            "identifier": "C123599",
+            "notation": "NON-PD",
+            "pref_label": "Non Progressive Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123599"
+        },
+        {
+            "alt_label": "Non-Quantifiable Minimal Residual Disease Positivity",
+            "definition": "Presence of non-quantifiable minimal residual disease based on laboratory techniques.",
+            "identifier": "C124431",
+            "notation": "NON-QUANTIFIABLE MRD POSITIVITY",
+            "pref_label": "Non-Quantifiable Minimal Residual Disease Positivity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C124431"
+        },
+        {
+            "definition": "An indication that the subject's steroid dose is the same as their physiologic replacement dose.",
+            "identifier": "C161412",
+            "notation": "NONE BEYOND PHYSIOLOGIC REPLACEMENT DOSE",
+            "pref_label": "No Steroid Use Beyond Physiologic Replacement Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C161412"
+        },
+        {
+            "alt_label": "Not All Evaluated",
+            "definition": "Not all target lesions were assessed. Or not all non-target lesions were assessed.",
+            "identifier": "C103424",
+            "notation": "NOT ALL EVALUATED",
+            "pref_label": "Not All Lesions Evaluated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C103424"
+        },
+        {
+            "alt_label": "Nodular Partial Response",
+            "definition": "Remission with remaining lymphoid nodules reflecting residual disease.",
+            "identifier": "C70633",
+            "notation": "nPR",
+            "pref_label": "Nodular Partial Remission",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C70633"
+        },
+        {
+            "alt_label": "No Response",
+            "definition": "No apparent change or worsening in lesion staging classification.",
+            "identifier": "C123600",
+            "notation": "NR",
+            "pref_label": "No Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123600"
+        },
+        {
+            "definition": "Hypo-attenuation of the metastases which may appear pseudocystic, perfectly homogeneous, and devoid of a recognizable peripheral rim.",
+            "identifier": "C123601",
+            "notation": "OPTIMAL MORPHOLOGIC RESPONSE",
+            "pref_label": "Optimal Morphologic Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123601"
+        },
+        {
+            "definition": "Mixed attenuation and some homogeneity of the metastases with a partially resolved peripheral rim.",
+            "identifier": "C123602",
+            "notation": "PARTIAL MORPHOLOGIC RESPONSE",
+            "pref_label": "Partial Morphologic Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123602"
+        },
+        {
+            "alt_label": "Complete Pathological Response;Pathologic Complete Remission;Pathologic Complete Response",
+            "definition": "The disappearance of all signs of cancer, supported by pathological examination.",
+            "identifier": "C123603",
+            "notation": "pCR",
+            "pref_label": "Pathologic Complete Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123603"
+        },
+        {
+            "alt_label": "Progression from PR;Progressive Disease from Partial Response",
+            "definition": "Disease progression occurring after a partial response.",
+            "identifier": "C123604",
+            "notation": "PD FROM PR",
+            "pref_label": "Progression from Partial Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123604"
+        },
+        {
+            "alt_label": "Disease Progression;Progressive Disease",
+            "definition": "A disease process that is increasing in extent or severity. (NCI)",
+            "identifier": "C35571",
+            "notation": "PD",
+            "pref_label": "Progressive Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C35571"
+        },
+        {
+            "alt_label": "Progressive Disease, CT-Based",
+            "definition": "There is an increase in the size and extent of tissue involvement by cancer, based on CT scan and criteria-defined assessments.",
+            "identifier": "C123606",
+            "notation": "PD-CT",
+            "pref_label": "Progressive Disease by Computed Tomography",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123606"
+        },
+        {
+            "alt_label": "Progression or Relapse After Hematologic Improvement",
+            "definition": "Disease progression or the return of a disease after a period of remission, occurring after a hematologic improvement.",
+            "identifier": "C123605",
+            "notation": "PD/RELAPSE AFTER HI",
+            "pref_label": "Progression or Relapse After Hematologic Improvement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123605"
+        },
+        {
+            "alt_label": "PD Unconfirmed;Unconfirmed Progressive Disease",
+            "definition": "A disease process that is increasing in scope or severity but the criteria for progressive disease is not met.",
+            "identifier": "C123607",
+            "notation": "PDu",
+            "pref_label": "Unconfirmed Progressive Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123607"
+        },
+        {
+            "alt_label": "Progressive Metabolic Disease",
+            "definition": "An increase of metabolic tumor activity in all relevant lesions, based on pre-defined thresholds, or the development of new lesions.",
+            "identifier": "C123608",
+            "notation": "PMD",
+            "pref_label": "Progressive Metabolic Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123608"
+        },
+        {
+            "alt_label": "Partial Metabolic Response",
+            "definition": "A decrease of metabolic tumor activity in all relevant lesions, based on a pre-defined threshold.",
+            "identifier": "C123609",
+            "notation": "PMR",
+            "pref_label": "Partial Metabolic Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123609"
+        },
+        {
+            "alt_label": "Partial Response with Lymphocytosis;PR-L;PRL",
+            "definition": "A decrease in the size and the extent of tissue involvement by cancer, accompanied by an increase in blood lymphocyte count above a predetermined threshold.",
+            "identifier": "C128998",
+            "notation": "PR WITH LYMPHOCYTOSIS",
+            "pref_label": "Partial Response with Lymphocytosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C128998"
+        },
+        {
+            "alt_label": "Partial Remission;Partial Response",
+            "definition": "A finding indicating that there is a decrease based on a predetermined threshold in the size and the extent of tissue involvement by cancer.",
+            "identifier": "C18058",
+            "notation": "PR",
+            "pref_label": "Partial Remission",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C18058"
+        },
+        {
+            "alt_label": "Partial Remission, CT-Based;Partial Response, CT-Based",
+            "definition": "A decrease in the size and extent of tissue involvement by cancer, based on CT scan and criteria-defined assessments.",
+            "identifier": "C123610",
+            "notation": "PR-CT",
+            "pref_label": "Partial Response by Computed Tomography",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123610"
+        },
+        {
+            "alt_label": "Prostate Specific Antigen Progression",
+            "definition": "The amount of prostate specific antigen is increased, based on pre-defined thresholds.",
+            "identifier": "C123611",
+            "notation": "PSA PROGRESSION",
+            "pref_label": "PSA Progression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123611"
+        },
+        {
+            "definition": "Apparent increase in lesion burden, not proven to be disease progression.",
+            "identifier": "C98298",
+            "notation": "PSEUDOPROGRESSION",
+            "pref_label": "Pseudoprogression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C98298"
+        },
+        {
+            "definition": "Apparent decrease in lesion burden, not proven to be favorable treatment response.",
+            "identifier": "C131142",
+            "notation": "PSEUDORESPONSE",
+            "pref_label": "Pseudoresponse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C131142"
+        },
+        {
+            "alt_label": "Quantifiable Minimal Residual Disease Positivity",
+            "definition": "Presence of quantifiable minimal residual disease based on laboratory techniques.",
+            "identifier": "C124432",
+            "notation": "QUANTIFIABLE MRD POSITIVITY",
+            "pref_label": "Quantifiable Minimal Residual Disease Positivity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C124432"
+        },
+        {
+            "alt_label": "Relapsed Disease From Complete Response or Partial Response",
+            "definition": "The return of a disease after a period of complete remission or partial remission.",
+            "identifier": "C123613",
+            "notation": "RELAPSED DISEASE FROM CR OR PR",
+            "pref_label": "Relapsed Disease From Complete or Partial Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123613"
+        },
+        {
+            "alt_label": "Relapse from CR;Relapsed Disease From Complete Response",
+            "definition": "The return of a disease after a period of complete remission.",
+            "identifier": "C123612",
+            "notation": "RELAPSED DISEASE FROM CR",
+            "pref_label": "Relapsed Disease From Complete Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123612"
+        },
+        {
+            "alt_label": "Recurrent Disease",
+            "definition": "The return of a disease after a period of remission.",
+            "identifier": "C38155",
+            "notation": "RELAPSED DISEASE",
+            "pref_label": "Recurrent Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C38155"
+        },
+        {
+            "alt_label": "Stringent Complete Remission;Stringent Complete Response",
+            "definition": "The confirmed disappearance of all signs of cancer, and absence of molecular or cytogenetic marker of disease, in response to treatment with additional biochemical, immunological and histopathological analyses to verify the CR.",
+            "identifier": "C123614",
+            "notation": "sCR",
+            "pref_label": "Stringent Complete Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123614"
+        },
+        {
+            "alt_label": "Stable Disease",
+            "definition": "Cancer that is neither decreasing nor increasing in extent or severity based on predetermined boundaries. (NCI)",
+            "identifier": "C18213",
+            "notation": "SD",
+            "pref_label": "Stable Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C18213"
+        },
+        {
+            "alt_label": "Stable Disease, CT-Based",
+            "definition": "The size and extent of tissue involvement by cancer is neither decreasing nor increasing, based on CT scan and criteria-defined assessments.",
+            "identifier": "C123615",
+            "notation": "SD-CT",
+            "pref_label": "Stable Disease by Computed Tomography",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123615"
+        },
+        {
+            "alt_label": "NMR;No Metabolic Response;Stable Metabolic Disease",
+            "definition": "The absence of change or mild changes of metabolic tumor activity in all relevant lesions based on a pre-defined threshold.",
+            "identifier": "C123616",
+            "notation": "SMD",
+            "pref_label": "Stable Metabolic Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123616"
+        },
+        {
+            "definition": "Subject to little fluctuation; showing little if any change. (NCI)",
+            "identifier": "C30103",
+            "notation": "STABLE",
+            "pref_label": "Stable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C30103"
+        },
+        {
+            "definition": "The lack of expected or desired effect related to a therapy. (NCI)",
+            "identifier": "C48226",
+            "notation": "TREATMENT FAILURE",
+            "pref_label": "Lack of Efficacy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C48226"
+        },
+        {
+            "definition": "Leaving no doubt; not open to question. (NCI)",
+            "identifier": "C123645",
+            "notation": "UNEQUIVOCAL",
+            "pref_label": "Unequivocal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123645"
+        },
+        {
+            "definition": "An increase in lesion size, based on a pre-defined threshold, or the development of new lesion(s), marked central fill-in of a lesion, or new enhancement of a previously homogeneously hypoattenuating nonenhancing mass.",
+            "identifier": "C123617",
+            "notation": "UNFAVORABLE RESPONSE",
+            "pref_label": "Unfavorable Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123617"
+        },
+        {
+            "alt_label": "Very Good Partial Remission;Very Good Partial Response",
+            "definition": "Partial response with additional serum and urine M-protein reduction, but not meeting complete response.",
+            "identifier": "C123618",
+            "notation": "VGPR",
+            "pref_label": "Very Good Partial Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C123618"
+        },
+        {
+            "definition": "In a declining condition or state.",
+            "identifier": "C71686",
+            "notation": "WORSENED",
+            "pref_label": "Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96785-C71686"
+        }
+    ]
+}

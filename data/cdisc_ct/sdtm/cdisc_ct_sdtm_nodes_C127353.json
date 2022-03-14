@@ -1,0 +1,260 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "FAC001-Bothered by Treatment Side Effect",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I am bothered by side effects of treatment.",
+            "identifier": "C127425",
+            "notation": "FAC001-Bothered by Treatment Side Effect",
+            "pref_label": "FACT-G Version 4 - Bothered by Treatment Side Effect",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127425"
+        },
+        {
+            "alt_label": "FAC001-Content With Quality of My Life",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I am content with the quality of my life right now.",
+            "identifier": "C127447",
+            "notation": "FAC001-Content With Quality of My Life",
+            "pref_label": "FACT-G Version 4 - Content With Quality of My Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127447"
+        },
+        {
+            "alt_label": "FAC001-Emotional Subscale Score",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: Subscale score.",
+            "identifier": "C180191",
+            "notation": "FAC001-Emotional Subscale Score",
+            "pref_label": "FACT-G Version 4 - Emotional Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C180191"
+        },
+        {
+            "alt_label": "FAC001-Enjoy Things I Usually Do for Fun",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I am enjoying the things I usually do for fun.",
+            "identifier": "C127446",
+            "notation": "FAC001-Enjoy Things I Usually Do for Fun",
+            "pref_label": "FACT-G Version 4 - Enjoy Things I Usually Do for Fun",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127446"
+        },
+        {
+            "alt_label": "FAC001-Functional Subscale Score",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: Subscale score.",
+            "identifier": "C180192",
+            "notation": "FAC001-Functional Subscale Score",
+            "pref_label": "FACT-G Version 4 - Functional Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C180192"
+        },
+        {
+            "alt_label": "FAC001-Get Emotional Support From Family",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I get emotional support from my family.",
+            "identifier": "C127429",
+            "notation": "FAC001-Get Emotional Support From Family",
+            "pref_label": "FACT-G Version 4 - I Get Emotional Support From My Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127429"
+        },
+        {
+            "alt_label": "FAC001-I Am Able to Enjoy Life",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I am able to enjoy life.",
+            "identifier": "C127443",
+            "notation": "FAC001-I Am Able to Enjoy Life",
+            "pref_label": "FACT-G Version 4 - I Am Able to Enjoy Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127443"
+        },
+        {
+            "alt_label": "FAC001-I Am Able to Work",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I am able to work (include work at home).",
+            "identifier": "C127441",
+            "notation": "FAC001-I Am Able to Work",
+            "pref_label": "FACT-G Version 4 - I Am Able to Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127441"
+        },
+        {
+            "alt_label": "FAC001-I Am Forced to Spend Time in Bed",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I am forced to spend time in bed.",
+            "identifier": "C127427",
+            "notation": "FAC001-I Am Forced to Spend Time in Bed",
+            "pref_label": "FACT-G Version 4 - I Am Forced to Spend Time in Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127427"
+        },
+        {
+            "alt_label": "FAC001-I Am Satisfied With My Sex Life",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I am satisfied with my sex life.",
+            "identifier": "C127434",
+            "notation": "FAC001-I Am Satisfied With My Sex Life",
+            "pref_label": "FACT-G Version 4 - I Am Satisfied With My Sex Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127434"
+        },
+        {
+            "alt_label": "FAC001-I Am Sleeping Well",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I am sleeping well.",
+            "identifier": "C127445",
+            "notation": "FAC001-I Am Sleeping Well",
+            "pref_label": "FACT-G Version 4 - I Am Sleeping Well",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127445"
+        },
+        {
+            "alt_label": "FAC001-I Feel Close to My Friends",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I feel close to my friends.",
+            "identifier": "C127428",
+            "notation": "FAC001-I Feel Close to My Friends",
+            "pref_label": "FACT-G Version 4 - I Feel Close to My Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127428"
+        },
+        {
+            "alt_label": "FAC001-I Feel Close to My Partner",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I feel close to my partner (or the person who is my main support).",
+            "identifier": "C127433",
+            "notation": "FAC001-I Feel Close to My Partner",
+            "pref_label": "FACT-G Version 4 - I Feel Close to My Partner",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127433"
+        },
+        {
+            "alt_label": "FAC001-I Feel Ill",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I feel ill.",
+            "identifier": "C127426",
+            "notation": "FAC001-I Feel Ill",
+            "pref_label": "FACT-G Version 4 - I Feel Ill",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127426"
+        },
+        {
+            "alt_label": "FAC001-I Feel Nervous",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I feel nervous.",
+            "identifier": "C127438",
+            "notation": "FAC001-I Feel Nervous",
+            "pref_label": "FACT-G Version 4 - I Feel Nervous",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127438"
+        },
+        {
+            "alt_label": "FAC001-I Feel Sad",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I feel sad.",
+            "identifier": "C127435",
+            "notation": "FAC001-I Feel Sad",
+            "pref_label": "FACT-G Version 4 - I Feel Sad",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127435"
+        },
+        {
+            "alt_label": "FAC001-I Get Support From My Friends",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I get support from my friends.",
+            "identifier": "C127430",
+            "notation": "FAC001-I Get Support From My Friends",
+            "pref_label": "FACT-G Version 4 - I Get Support From My Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127430"
+        },
+        {
+            "alt_label": "FAC001-I Have a Lack of Energy",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I have a lack of energy.",
+            "identifier": "C127421",
+            "notation": "FAC001-I Have a Lack of Energy",
+            "pref_label": "FACT-G Version 4 - I Have a Lack of Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127421"
+        },
+        {
+            "alt_label": "FAC001-I Have Accepted My Illness",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I have accepted my illness.",
+            "identifier": "C127444",
+            "notation": "FAC001-I Have Accepted My Illness",
+            "pref_label": "FACT-G Version 4 - I Have Accepted My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127444"
+        },
+        {
+            "alt_label": "FAC001-I Have Nausea",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I have nausea.",
+            "identifier": "C127422",
+            "notation": "FAC001-I Have Nausea",
+            "pref_label": "FACT-G Version 4 - I Have Nausea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127422"
+        },
+        {
+            "alt_label": "FAC001-I Have Pain",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I have pain.",
+            "identifier": "C127424",
+            "notation": "FAC001-I Have Pain",
+            "pref_label": "FACT-G Version 4 - I have pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127424"
+        },
+        {
+            "alt_label": "FAC001-I Worry About Dying",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I worry about dying.",
+            "identifier": "C127439",
+            "notation": "FAC001-I Worry About Dying",
+            "pref_label": "FACT-G Version 4 - I Worry About Dying",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127439"
+        },
+        {
+            "alt_label": "FAC001-Losing Hope Against Illness",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I am losing hope in the fight against my illness.",
+            "identifier": "C127437",
+            "notation": "FAC001-Losing Hope Against Illness",
+            "pref_label": "FACT-G Version 4 - Losing Hope Against Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127437"
+        },
+        {
+            "alt_label": "FAC001-My Family Has Accepted My Illness",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: My family has accepted my illness.",
+            "identifier": "C127431",
+            "notation": "FAC001-My Family Has Accepted My Illness",
+            "pref_label": "FACT-G Version 4 - My Family Has Accepted My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127431"
+        },
+        {
+            "alt_label": "FAC001-My Work Is Fulfilling",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: My work (include work at home) is fulfilling.",
+            "identifier": "C127442",
+            "notation": "FAC001-My Work Is Fulfilling",
+            "pref_label": "FACT-G Version 4 - My Work Is Fulfilling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127442"
+        },
+        {
+            "alt_label": "FAC001-Physical Subscale Score",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: Subscale score.",
+            "identifier": "C180189",
+            "notation": "FAC001-Physical Subscale Score",
+            "pref_label": "FACT-G Version 4 - Physical Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C180189"
+        },
+        {
+            "alt_label": "FAC001-Satisfied Communication Illness",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I am satisfied with family communication about my illness.",
+            "identifier": "C127432",
+            "notation": "FAC001-Satisfied Communication Illness",
+            "pref_label": "FACT-G Version 4 - Satisfied With Family Communication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127432"
+        },
+        {
+            "alt_label": "FAC001-Satisfied With How I Am Coping",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I am satisfied with how I am coping with my illness.",
+            "identifier": "C127436",
+            "notation": "FAC001-Satisfied With How I Am Coping",
+            "pref_label": "FACT-G Version 4 - Satisfied With How I Am Coping With Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127436"
+        },
+        {
+            "alt_label": "FAC001-Social/Family Subscale Score",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: Subscale score.",
+            "identifier": "C180190",
+            "notation": "FAC001-Social/Family Subscale Score",
+            "pref_label": "FACT-G Version 4 - Social/Family Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C180190"
+        },
+        {
+            "alt_label": "FAC001-Total Score",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - FACT-G total score.",
+            "identifier": "C180193",
+            "notation": "FAC001-Total Score",
+            "pref_label": "FACT-G Version 4 - Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C180193"
+        },
+        {
+            "alt_label": "FAC001-Trouble Meeting Needs of Family",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: Because of my physical condition, I have trouble meeting the needs of my family.",
+            "identifier": "C127423",
+            "notation": "FAC001-Trouble Meeting Needs of Family",
+            "pref_label": "FACT-G Version 4 - Trouble Meeting Needs of Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127423"
+        },
+        {
+            "alt_label": "FAC001-Worry My Condition Will Get Worse",
+            "definition": "Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I worry that my condition will get worse.",
+            "identifier": "C127440",
+            "notation": "FAC001-Worry My Condition Will Get Worse",
+            "pref_label": "FACT-G Version 4 - Worry My Condition Will Get Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127353-C127440"
+        }
+    ]
+}

@@ -1,0 +1,455 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "(L/day)/g;(mL/day)/mg",
+            "definition": "Liters per day (flow rate), divided by grams (weight) or milliliters per day (flow rate), divided by milligrams (dose).",
+            "identifier": "C85657",
+            "notation": "(L/day)/g",
+            "pref_label": "Liter per Gram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85657"
+        },
+        {
+            "alt_label": "(L/h)/g;(mL/h)/mg",
+            "definition": "Liters per hour (flow rate), divided by grams (weight) or milliliters per hour (flow rate), divided by milligrams (dose).",
+            "identifier": "C85658",
+            "notation": "(L/h)/g",
+            "pref_label": "Liter per Gram per Hour",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85658"
+        },
+        {
+            "alt_label": "(L/min)/g;(mL/min)/mg",
+            "definition": "Liters per minute (flow rate), divided by grams (weight) or milliliters per minute (flow rate), divided by milligrams (dose).",
+            "identifier": "C85659",
+            "notation": "(L/min)/g",
+            "pref_label": "Liter per Gram per Minute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85659"
+        },
+        {
+            "alt_label": "(L/day)/kg;(mL/day)/g;mL/g/day",
+            "definition": "Milliliters per gram per day or liters per day (flow rate), divided by kilograms (weight) or milliliters per day (flow rate), divided by grams (weight).",
+            "identifier": "C73755",
+            "notation": "(mL/day)/g",
+            "pref_label": "Milliliter per Gram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C73755"
+        },
+        {
+            "alt_label": "(L/h)/kg;(mL/h)/g;mL/g/h",
+            "definition": "Milliliters per gram per hour or liters per hour (flow rate), divided by kilograms (weight) or milliliters per hour (flow rate), divided by grams (weight).",
+            "identifier": "C73756",
+            "notation": "(mL/h)/g",
+            "pref_label": "Milliliter per Gram per Hour",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C73756"
+        },
+        {
+            "alt_label": "(L/min)/kg;(mL/min)/g;mL/g/min",
+            "definition": "Milliliters per gram per minute or liters per minute (flow rate), divided by kilograms (weight) or milliliters per minute (flow rate), divided by grams (weight).",
+            "identifier": "C73757",
+            "notation": "(mL/min)/g",
+            "pref_label": "Milliliter per Gram per Minute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C73757"
+        },
+        {
+            "alt_label": "day*fg/mL/g;day*pg/mL/kg",
+            "definition": "Days times picograms per milliliter (area under the curve), divided by kilograms (weight) or days times femtograms per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112244",
+            "notation": "day*fg/mL/g",
+            "pref_label": "Day Times Femtogram Per Milliliter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112244"
+        },
+        {
+            "definition": "Days times grams per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112246",
+            "notation": "day*g/mL/g",
+            "pref_label": "Day Times Gram Per Milliliter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112246"
+        },
+        {
+            "alt_label": "day*g/mL/kg;day*mg/mL/g;day*ng/mL/ug;day*ug/mL/mg",
+            "definition": "Days times grams per milliliter (area under the curve), divided by kilograms (weight); or days times milligrams per milliliter (area under the curve), divided by grams (weight); or days times micrograms per milliliter (area under the curve), divided by milligrams (dose); or days times nanograms per milliliter (area under the curve), divided by micrograms (dose).",
+            "identifier": "C112247",
+            "notation": "day*mg/mL/g",
+            "pref_label": "Day Times Gram Per Milliliter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112247"
+        },
+        {
+            "alt_label": "day*mmol/L/g;day*mol/L/kg",
+            "definition": "Days times moles per liter (area under the curve), divided by kilograms (weight) or days times millimoles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C112254",
+            "notation": "day*mmol/L/g",
+            "pref_label": "Day Times Millimole Per Liter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112254"
+        },
+        {
+            "definition": "Days times moles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C112256",
+            "notation": "day*mol/L/g",
+            "pref_label": "Day Times Mole Per Liter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112256"
+        },
+        {
+            "alt_label": "day*ng/mL/g;day*ug/mL/kg",
+            "definition": "Days times micrograms per milliliter (area under the curve), divided by kilograms (weight) or days times nanograms per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112249",
+            "notation": "day*ng/mL/g",
+            "pref_label": "Day Times Microgram Per Milliliter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112249"
+        },
+        {
+            "alt_label": "day*nmol/L/g;day*umol/L/kg",
+            "definition": "Days times micromoles per liter (area under the curve), divided by kilograms (weight) or days times nanomoles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C112251",
+            "notation": "day*nmol/L/g",
+            "pref_label": "Day Times Micromole Per Liter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112251"
+        },
+        {
+            "alt_label": "day*ng/mL/kg;day*pg/mL/g",
+            "definition": "Days times nanograms per milliliter (area under the curve), divided by kilograms (weight) or days times picograms per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112259",
+            "notation": "day*pg/mL/g",
+            "pref_label": "Day Times Nanogram Per Milliliter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112259"
+        },
+        {
+            "alt_label": "day*nmol/L/kg;day*pmol/L/g",
+            "definition": "Days times nanomoles per liter (area under the curve), divided by kilograms (weight) or days times picomoles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C112261",
+            "notation": "day*pmol/L/g",
+            "pref_label": "Day Times Nanomole Per Liter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112261"
+        },
+        {
+            "alt_label": "day*mg/mL/kg;day*ug/mL/g",
+            "definition": "Days times milligrams per milliliter (area under the curve), divided by kilograms (weight) or days times micrograms per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112248",
+            "notation": "day*ug/mL/g",
+            "pref_label": "Day Times Microgram Per Milliliter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112248"
+        },
+        {
+            "alt_label": "day*mmol/L/kg;day*umol/L/g",
+            "definition": "Days times millimoles per liter (area under the curve), divided by kilograms (weight) or days times micromoles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C112250",
+            "notation": "day*umol/L/g",
+            "pref_label": "Day Times Micromole Per Liter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112250"
+        },
+        {
+            "alt_label": "fg/mL/g;pg/mL/kg",
+            "definition": "Picograms per milliliter (concentration), divided by kilograms (weight) or femtograms per milliliter (concentration), divided by grams (weight).",
+            "identifier": "C119347",
+            "notation": "fg/mL/g",
+            "pref_label": "Femtogram per Milliliter per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C119347"
+        },
+        {
+            "alt_label": "g/mL/g;mg/mL/mg;ug/mL/ug",
+            "definition": "Grams per milliliter (concentration), divided by grams (weight) or milligrams per milliliter (concentration), divided by milligrams (dose) or micrograms per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C119361",
+            "notation": "g/mL/g",
+            "pref_label": "Gram per Milliliter per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C119361"
+        },
+        {
+            "alt_label": "h*fg/mL/g;h*pg/mL/kg",
+            "definition": "Hours times picograms per milliliter (area under the curve), divided by kilograms (weight) or hours times femtograms per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C85636",
+            "notation": "h*fg/mL/g",
+            "pref_label": "Hour Times Picogram per Milliliter per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85636"
+        },
+        {
+            "definition": "Hours times grams per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112300",
+            "notation": "h*g/mL/g",
+            "pref_label": "Hour Times Gram Per Milliliter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112300"
+        },
+        {
+            "alt_label": "h*g/mL/kg;h*mg/mL/g;h*ug/mL/mg",
+            "definition": "Hours times grams per milliliter (area under the curve), divided by kilograms (weight) or hours times milligrams per milliliter (area under the curve), divided by grams (weight) or hours times micrograms per milliliter (area under the curve), divided by milligrams (dose).",
+            "identifier": "C85617",
+            "notation": "h*mg/mL/g",
+            "pref_label": "Hour Times Microgram per Milliliter per Milligram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85617"
+        },
+        {
+            "alt_label": "h*mmol/L/g;h*mol/L/kg",
+            "definition": "Hours times moles per liter (area under the curve), divided by kilograms (weight) or hours times millimoles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C106530",
+            "notation": "h*mmol/L/g",
+            "pref_label": "Hour times Millimole Per Liter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C106530"
+        },
+        {
+            "alt_label": "h*mmol/L/mg;h*mol/L/g;h*umol/L/ug",
+            "definition": "Hours times millimoles per liter (area under the curve), divided by kilograms (weight); or hours times micromoles per liter (area under the curve), divided by grams (weight); or hours times nanomoles per liter (area under the curve), divided by milligrams (dose); or hours times picomoles per liter (area under the curve), divided by micrograms (dose).",
+            "identifier": "C106531",
+            "notation": "h*mol/L/g",
+            "pref_label": "Hour times Mole Per Liter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C106531"
+        },
+        {
+            "alt_label": "h*ng/mL/g;h*pg/mL/mg;h*ug/mL/kg",
+            "definition": "Hours times micrograms per milliliter (area under the curve), divided by kilograms (weight) or hours times nanograms per milliliter (area under the curve), divided by grams (weight) or hours times picograms per milliliter (area under the curve), divided by milligrams (dose).",
+            "identifier": "C85625",
+            "notation": "h*ng/mL/g",
+            "pref_label": "Hour Times Nanogram per Milliliter per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85625"
+        },
+        {
+            "alt_label": "h*nmol/L/g;h*umol/L/kg",
+            "definition": "Hours times micromoles per liter (area under the curve), divided by kilograms (weight) or hours times nanomoles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C112304",
+            "notation": "h*nmol/L/g",
+            "pref_label": "Hour Times Micromole Per Liter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112304"
+        },
+        {
+            "alt_label": "h*ng/mL/kg;h*pg/mL/g",
+            "definition": "Hours times nanograms per milliliter (area under the curve), divided by kilograms (weight) or hours times picograms per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C85626",
+            "notation": "h*pg/mL/g",
+            "pref_label": "Hour Times Nanogram per Milliliter per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85626"
+        },
+        {
+            "alt_label": "h*nmol/L/kg;h*pmol/L/g",
+            "definition": "Hours times nanomoles per liter (area under the curve), divided by kilograms (weight) or hours times picomoles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C106532",
+            "notation": "h*pmol/L/g",
+            "pref_label": "Hour times Picomole Per Liter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C106532"
+        },
+        {
+            "alt_label": "h*mg/mL/kg;h*ng/mL/mg;h*ug/mL/g",
+            "definition": "Hours times milligrams per milliliter (area under the curve), divided by kilograms (weight) or hours times micrograms per milliliter (area under the curve), divided by grams (weight) or hours times nanograms per milliliter (area under the curve), divided by milligrams (dose).",
+            "identifier": "C85627",
+            "notation": "h*ug/mL/g",
+            "pref_label": "Hour Times Nanogram per Milliliter per Milligram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85627"
+        },
+        {
+            "alt_label": "h*mmol/L/kg;h*nmol/L/mg;h*pmol/L/ug;h*umol/L/g",
+            "definition": "Hours times millimoles per liter (area under the curve), divided by kilograms (weight); or hours times micromoles per liter (area under the curve), divided by grams (weight); or hours times nanomoles per liter (area under the curve), divided by milligrams (dose); or hours times picomoles per liter (area under the curve), divided by micrograms (dose).",
+            "identifier": "C112307",
+            "notation": "h*umol/L/g",
+            "pref_label": "Hour Times Millimole Per Liter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112307"
+        },
+        {
+            "alt_label": "IU/mL/g;mIU/mL/mg;uIU/mL/ug",
+            "definition": "International units per milliliter (concentration), divided by grams (weight) or milli-international units per milliliter (concentration), divided by milligrams (dose) or micro-international units per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C119377",
+            "notation": "IU/mL/g",
+            "pref_label": "International Unit per Milliliter per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C119377"
+        },
+        {
+            "alt_label": "mL/mg",
+            "definition": "Liters (volume), divided by grams (weight) or milliliters (volume), divided by milligrams (dose).",
+            "identifier": "C42577",
+            "notation": "L/g",
+            "pref_label": "Cubic Meter per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C42577"
+        },
+        {
+            "alt_label": "g/mL/kg;mg/mL/g;ng/mL/ug;ug/mL/mg",
+            "definition": "Grams per milliliter (concentration), divided by kilograms (weight) or milligrams per milliliter (concentration), divided by grams (weight) or micrograms per milliliter (concentration), divided by milligrams (dose) or nanograms per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C85710",
+            "notation": "mg/mL/g",
+            "pref_label": "Milligram per Liter per Milligram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85710"
+        },
+        {
+            "alt_label": "min*fg/mL/g;min*pg/mL/kg",
+            "definition": "Minutes times picograms per milliliter (area under the curve), divided by kilograms (weight) or minutes times femtograms per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112334",
+            "notation": "min*fg/mL/g",
+            "pref_label": "Minute Times Femtogram Per Milliliter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112334"
+        },
+        {
+            "definition": "Minutes times grams per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112336",
+            "notation": "min*g/mL/g",
+            "pref_label": "Minute Times Gram Per Milliliter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112336"
+        },
+        {
+            "alt_label": "min*g/mL/kg;min*mg/mL/g",
+            "definition": "Minutes times grams per milliliter (area under the curve), divided by kilograms (weight) or minutes times milligrams per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112337",
+            "notation": "min*mg/mL/g",
+            "pref_label": "Minute Times Gram Per Milliliter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112337"
+        },
+        {
+            "alt_label": "min*mmol/L/g;min*mol/L/kg",
+            "definition": "Minutes times moles per liter (area under the curve), divided by kilograms (weight) or minutes times millimoles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C112344",
+            "notation": "min*mmol/L/g",
+            "pref_label": "Minute Times Millimole Per Liter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112344"
+        },
+        {
+            "definition": "Minutes times moles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C112346",
+            "notation": "min*mol/L/g",
+            "pref_label": "Minute Times Mole Per Liter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112346"
+        },
+        {
+            "alt_label": "min*ng/mL/g;min*ug/mL/kg",
+            "definition": "Minutes times micrograms per milliliter (area under the curve), divided by kilograms (weight) or minutes times nanograms per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112339",
+            "notation": "min*ng/mL/g",
+            "pref_label": "Minute Times Microgram Per Milliliter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112339"
+        },
+        {
+            "alt_label": "min*nmol/L/g;min*umol/L/kg",
+            "definition": "Minutes times micromoles per liter (area under the curve), divided by kilograms (weight) or minutes times nanomoles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C112341",
+            "notation": "min*nmol/L/g",
+            "pref_label": "Minute Times Micromole Per Liter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112341"
+        },
+        {
+            "alt_label": "min*ng/mL/kg;min*pg/mL/g",
+            "definition": "Minutes times nanograms per milliliter (area under the curve), divided by kilograms (weight) or minutes times picograms per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112349",
+            "notation": "min*pg/mL/g",
+            "pref_label": "Minute Times Nanogram Per Milliliter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112349"
+        },
+        {
+            "alt_label": "min*nmol/L/kg;min*pmol/L/g",
+            "definition": "Minutes times nanomoles per liter (area under the curve), divided by kilograms (weight) or minutes times picomoles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C112351",
+            "notation": "min*pmol/L/g",
+            "pref_label": "Minute Times Nanomole Per Liter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112351"
+        },
+        {
+            "alt_label": "min*mg/mL/kg;min*ug/mL/g",
+            "definition": "Minutes times milligrams per milliliter (area under the curve), divided by kilograms (weight) or minutes times micrograms per milliliter (area under the curve), divided by grams (weight).",
+            "identifier": "C112338",
+            "notation": "min*ug/mL/g",
+            "pref_label": "Minute Times Microgram Per Milliliter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112338"
+        },
+        {
+            "alt_label": "min*mmol/L/kg;min*umol/L/g",
+            "definition": "Minutes times millimoles per liter (area under the curve), divided by kilograms (weight) or minutes times micromoles per liter (area under the curve), divided by grams (weight).",
+            "identifier": "C112340",
+            "notation": "min*umol/L/g",
+            "pref_label": "Minute Times Micromole Per Liter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C112340"
+        },
+        {
+            "alt_label": "IU/mL/kg;mIU/mL/g;uIU/mL/mg",
+            "definition": "International units per milliliter (concentration), divided by kilograms (weight) or milli-international units per milliliter (concentration), divided by grams (weight) or micro-international units per milliliter (concentration), divided by milligrams (dose).",
+            "identifier": "C119378",
+            "notation": "mIU/mL/g",
+            "pref_label": "International Unit per Milliliter per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C119378"
+        },
+        {
+            "alt_label": "L/kg;mL/g",
+            "definition": "Liters (volume) divided by kilograms (weight) or milliliters (volume), divided by grams (weight).",
+            "identifier": "C73725",
+            "notation": "mL/g",
+            "pref_label": "Liter per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C73725"
+        },
+        {
+            "alt_label": "mmol/L/g;mol/L/kg;nmol/L/ug;umol/L/mg",
+            "definition": "Moles per liter (concentration), divided by kilograms (weight) or millimoles per liter (concentration), divided by grams (weight) or micromoles per liter (concentration), divided by milligrams (dose) or nanomoles per liter (concentration), divided by micrograms (dose).",
+            "identifier": "C119423",
+            "notation": "mmol/L/g",
+            "pref_label": "Millimole per Liter per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C119423"
+        },
+        {
+            "alt_label": "mmol/L/mg;mol/L/g;umol/L/ug",
+            "definition": "Moles per liter (concentration), divided by grams (weight) or millimoles per liter (concentration), divided by milligrams (dose) or micromoles per liter (concentration), divided by micrograms (dose).",
+            "identifier": "C119426",
+            "notation": "mol/L/g",
+            "pref_label": "Millimole per Liter per Milligram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C119426"
+        },
+        {
+            "alt_label": "mcg/kg;Microgram per Kilogram;ng/g;pg/mg;ug/kg",
+            "definition": "A unit of a mass fraction expressed as a number of micrograms of substance per kilogram of mixture. The unit is also used as a dose calculation unit.(NCI)",
+            "identifier": "C67396",
+            "notation": "ng/g",
+            "pref_label": "Microgram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C67396"
+        },
+        {
+            "alt_label": "fg/mL/ug;ng/mL/g;pg/mL/mg;ug/mL/kg",
+            "definition": "Micrograms per milliliter (concentration), divided by kilograms (weight) or nanograms per milliliter (concentration), divided by grams (weight) or picograms per milliliter (concentration), divided by milligrams (dose) or femtograms per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C119351",
+            "notation": "ng/mL/g",
+            "pref_label": "Femtogram per Milliliter per Microgram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C119351"
+        },
+        {
+            "alt_label": "nmol/g;pmol/mg;umol/kg",
+            "definition": "Nanomoles per gram.",
+            "identifier": "C85752",
+            "notation": "nmol/g",
+            "pref_label": "Nanomole per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85752"
+        },
+        {
+            "alt_label": "nmol/L/g;pmol/L/mg;umol/L/kg",
+            "definition": "Micromoles per liter (concentration), divided by kilograms (weight) or nanomoles per liter (concentration), divided by grams (weight) or picomoles per liter (concentration), divided by milligrams (dose).",
+            "identifier": "C119467",
+            "notation": "nmol/L/g",
+            "pref_label": "Nanomole per Liter per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C119467"
+        },
+        {
+            "alt_label": "fg/mL/mg;ng/mL/kg;pg/mL/g",
+            "definition": "Nanograms per milliliter (concentration), divided by kilograms (weight) or picograms per milliliter (concentration), divided by grams (weight) or femtograms per milliliter (concentration), divided by milligrams (dose).",
+            "identifier": "C85746",
+            "notation": "pg/mL/g",
+            "pref_label": "Nanogram per Milliliter per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85746"
+        },
+        {
+            "alt_label": "nmol/L/kg;pmol/L/g",
+            "definition": "Nanomoles per liter (concentration), divided by kilograms (weight) or picomoles per liter (concentration), divided by grams (weight).",
+            "identifier": "C119468",
+            "notation": "pmol/L/g",
+            "pref_label": "Nanomole per Liter per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C119468"
+        },
+        {
+            "alt_label": "mg/mL/kg;ng/mL/mg;pg/mL/ug;ug/mL/g",
+            "definition": "Milligrams per milliliter (concentration), divided by kilograms (weight) or micrograms per milliliter (concentration), divided by grams (weight) or nanograms per milliliter (concentration), divided by milligrams (dose) or picograms per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C85747",
+            "notation": "ug/mL/g",
+            "pref_label": "Nanogram per Milliliter per Milligram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85747"
+        },
+        {
+            "alt_label": "mIU/mL/kg;uIU/mL/g",
+            "definition": "Milli-international units per milliliter (concentration), divided by kilograms (weight) or micro-international units per milliliter (concentration), divided by grams (weight).",
+            "identifier": "C119408",
+            "notation": "uIU/mL/g",
+            "pref_label": "Milli-International Unit per Milliliter per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C119408"
+        },
+        {
+            "alt_label": "mmol/L/kg;nmol/L/mg;pmol/L/ug;umol/L/g",
+            "definition": "Millimoles per liter (concentration), divided by kilograms (weight) or micromoles per liter (concentration), divided by grams (weight) or nanomoles per liter (concentration), divided by milligrams (dose) or picomoles per liter (concentration), divided by micrograms (dose).",
+            "identifier": "C85784",
+            "notation": "umol/L/g",
+            "pref_label": "Picomole per Liter per Microgram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684-C85784"
+        }
+    ]
+}

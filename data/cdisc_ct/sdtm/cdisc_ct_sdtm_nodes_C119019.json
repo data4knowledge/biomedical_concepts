@@ -1,0 +1,32 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "0 to 24 hours after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical Endpoints in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)",
+            "identifier": "C119594",
+            "notation": "STENT THROMBOSIS ARC ACUTE",
+            "pref_label": "ARC Stent Thrombosis Timing Acute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119019-C119594"
+        },
+        {
+            "definition": "Greater than 30 days to 1 year after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical Endpoints in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)",
+            "identifier": "C119596",
+            "notation": "STENT THROMBOSIS ARC LATE",
+            "pref_label": "ARC Stent Thrombosis Timing Late",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119019-C119596"
+        },
+        {
+            "definition": "Greater than 24 hours to 30 days after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical Endpoints in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)",
+            "identifier": "C119595",
+            "notation": "STENT THROMBOSIS ARC SUBACUTE",
+            "pref_label": "ARC Stent Thrombosis Timing Subacute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119019-C119595"
+        },
+        {
+            "definition": "Greater than 1 year after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical Endpoints in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)",
+            "identifier": "C119597",
+            "notation": "STENT THROMBOSIS ARC VERY LATE",
+            "pref_label": "ARC Stent Thrombosis Timing Very Late",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119019-C119597"
+        }
+    ]
+}

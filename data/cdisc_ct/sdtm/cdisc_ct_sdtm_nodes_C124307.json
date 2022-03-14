@@ -1,0 +1,33 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Any action or response that serves to eliminate disease and prevent recurrence.",
+            "identifier": "C62220",
+            "notation": "CURATIVE",
+            "pref_label": "Cure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124307-C62220"
+        },
+        {
+            "definition": "Any action or response, without curative intent, that mitigates some or all of the unpleasant effects of a disease or condition.",
+            "identifier": "C101516",
+            "notation": "PALLIATIVE",
+            "pref_label": "Palliative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124307-C101516"
+        },
+        {
+            "alt_label": "Prophylaxis",
+            "definition": "Any action or response to modify or stop the development of a disease.",
+            "identifier": "C15843",
+            "notation": "PREVENTATIVE",
+            "pref_label": "Preventive Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124307-C15843"
+        },
+        {
+            "definition": "Any action or process to maximize comfort, minimize side effects, or mitigate against a decline in the participant's health or function. (clinicaltrials.gov)",
+            "identifier": "C15747",
+            "notation": "SUPPORTIVE CARE",
+            "pref_label": "Supportive Care",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124307-C15747"
+        }
+    ]
+}

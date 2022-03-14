@@ -1,0 +1,115 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A unique code assigned by an affiliated governing body or other organization that identifies a specific protocol (e.g., grant number, national number).",
+            "identifier": "C132344",
+            "notation": "Alternate Protocol Identifier",
+            "pref_label": "Alternate Protocol Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C132344"
+        },
+        {
+            "alt_label": "Abbreviated Protocol Title",
+            "definition": "The short descriptive name for the protocol.",
+            "identifier": "C132345",
+            "notation": "Brief Protocol Title",
+            "pref_label": "Brief Protocol Title",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C132345"
+        },
+        {
+            "definition": "The formal descriptive name for the protocol.",
+            "identifier": "C132346",
+            "notation": "Official Protocol Title",
+            "pref_label": "Official Protocol Title",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C132346"
+        },
+        {
+            "definition": "A written description of a change(s) to, or formal clarification of, a protocol. (ICH E6)",
+            "identifier": "C132347",
+            "notation": "Protocol Amendment",
+            "pref_label": "Protocol Amendment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C132347"
+        },
+        {
+            "definition": "A person who is the writer of a structured research study protocol.",
+            "identifier": "C51853",
+            "notation": "Protocol Author",
+            "pref_label": "Protocol Author",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C51853"
+        },
+        {
+            "alt_label": "Protocol Scientific Summary",
+            "definition": "A scientific summary of the key points of the protocol.",
+            "identifier": "C115628",
+            "notation": "Protocol Synopsis",
+            "pref_label": "Clinical Trial Protocol Synopsis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C115628"
+        },
+        {
+            "definition": "The descriptive name of the protocol that is intended for the lay public, written in easily understood language.",
+            "identifier": "C94105",
+            "notation": "Public Protocol Title",
+            "pref_label": "Study Protocol Document Version Public Title",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C94105"
+        },
+        {
+            "definition": "A unique code assigned by a clinical trial registry that identifies a specific protocol.",
+            "identifier": "C132348",
+            "notation": "Registry Protocol Identifier",
+            "pref_label": "Registry Protocol Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C132348"
+        },
+        {
+            "alt_label": "Schedule of Events;SoA",
+            "definition": "A standardized representation of planned clinical trial activities including interventions (e.g., administering drug, surgery) and study administrative activities (e.g., obtaining informed consent, distributing clinical trial material and diaries, randomization) as well as assessments. (CDISC Glossary)",
+            "identifier": "C132349",
+            "notation": "Schedule of Activities",
+            "pref_label": "Schedule of Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C132349"
+        },
+        {
+            "definition": "A more extensive descriptive name of the protocol that is intended for medical professionals, written using medical and scientific language.",
+            "identifier": "C132350",
+            "notation": "Scientific Protocol Title",
+            "pref_label": "Scientific Protocol Title",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C132350"
+        },
+        {
+            "alt_label": "Sponsor Protocol Code;Sponsor Protocol Number",
+            "definition": "A unique code assigned by the sponsor that identifies a specific protocol.",
+            "identifier": "C132351",
+            "notation": "Sponsor Protocol Identifier",
+            "pref_label": "Sponsor Protocol Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C132351"
+        },
+        {
+            "alt_label": "Trial Acronym",
+            "definition": "A word or words formed from the beginning letters or a combination of syllables and letters of a compound term, which identifies a clinical study.",
+            "identifier": "C94108",
+            "notation": "Study Acronym",
+            "pref_label": "Study Protocol Version Acronym",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C94108"
+        },
+        {
+            "definition": "The date on which a version of the protocol was finalized or approved by the study oversight committee.",
+            "identifier": "C181245",
+            "notation": "Study Protocol Version Approval by Oversight Committee Date",
+            "pref_label": "Study Protocol Version Approval by Oversight Committee Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C181245"
+        },
+        {
+            "alt_label": "Protocol Amendment Approval by Sponsor Date;Study Protocol Version Approval Date",
+            "definition": "The date on which a version of the protocol was finalized or approved by the sponsor.",
+            "identifier": "C132352",
+            "notation": "Study Protocol Version Approval by Sponsor Date",
+            "pref_label": "Protocol Approval by Sponsor Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C132352"
+        },
+        {
+            "definition": "A plan at a particular point in time for a formal investigation to assess the utility, impact, pharmacological, physiological, and/or psychological effects of a particular treatment, procedure, drug, device, biologic, food product, cosmetic, care plan, or subject characteristic. (BRIDG)",
+            "identifier": "C93490",
+            "notation": "Study Protocol Version",
+            "pref_label": "Study Protocol Version",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309-C93490"
+        }
+    ]
+}

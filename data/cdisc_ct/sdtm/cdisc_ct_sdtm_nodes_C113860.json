@@ -1,0 +1,444 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "MSQL1-Would You Say Your Health Is",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - In general, would you say your health is:",
+            "identifier": "C113988",
+            "notation": "MSQL101",
+            "pref_label": "MSQOL-54 - Would You Say Your Health Is",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113988"
+        },
+        {
+            "alt_label": "MSQL1-Health Now Compared to 1 Year Ago",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Compared to one year ago, how would you rate your health in general now?",
+            "identifier": "C113989",
+            "notation": "MSQL102",
+            "pref_label": "MSQOL-54 - Health Now Compared to One Year Ago",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113989"
+        },
+        {
+            "alt_label": "MSQL1-Health Limit Vigorous Activities",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports.",
+            "identifier": "C113990",
+            "notation": "MSQL103",
+            "pref_label": "MSQOL-54 - Health Limit Vigorous Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113990"
+        },
+        {
+            "alt_label": "MSQL1-Health Limit Moderate Activities",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Moderate activities, such as moving a table, pushing a vacuum cleaner, bowling, or playing golf.",
+            "identifier": "C113991",
+            "notation": "MSQL104",
+            "pref_label": "MSQOL-54 - Health Limit Moderate Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113991"
+        },
+        {
+            "alt_label": "MSQL1-Health Limit Carrying Groceries",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Lifting or carrying groceries.",
+            "identifier": "C113992",
+            "notation": "MSQL105",
+            "pref_label": "MSQOL-54 - Health Limit Lifting or Carrying Groceries",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113992"
+        },
+        {
+            "alt_label": "MSQL1-Health Limit Climb Several Flights",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Climbing several flights of stairs.",
+            "identifier": "C113993",
+            "notation": "MSQL106",
+            "pref_label": "MSQOL-54 - Health Limit Climbing Several Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113993"
+        },
+        {
+            "alt_label": "MSQL1-Health Limit Climb One Flight",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Climbing one flight of stairs.",
+            "identifier": "C113994",
+            "notation": "MSQL107",
+            "pref_label": "MSQOL-54 - Health Limit Climbing One Stair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113994"
+        },
+        {
+            "alt_label": "MSQL1-Health Limit Bending or Kneeling",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Bending, kneeling, or stooping.",
+            "identifier": "C113995",
+            "notation": "MSQL108",
+            "pref_label": "MSQOL-54 - Health Limit Bending, Kneeling or Stooping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113995"
+        },
+        {
+            "alt_label": "MSQL1-Health Limit Walk More Than Mile",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Walking more than a mile.",
+            "identifier": "C113996",
+            "notation": "MSQL109",
+            "pref_label": "MSQOL-54 - Health Limit Walking More than A Mile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113996"
+        },
+        {
+            "alt_label": "MSQL1-Health Limit Walk Several Blocks",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Walking several blocks.",
+            "identifier": "C113997",
+            "notation": "MSQL110",
+            "pref_label": "MSQOL-54 - Health Limit Walking Several Blocks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113997"
+        },
+        {
+            "alt_label": "MSQL1-Health Limit Walk One Block",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Walking one block.",
+            "identifier": "C113998",
+            "notation": "MSQL111",
+            "pref_label": "MSQOL-54 - Health Limit Walking One Block",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113998"
+        },
+        {
+            "alt_label": "MSQL1-Health Limit Bathing/Dressing Self",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Bathing and dressing yourself.",
+            "identifier": "C113999",
+            "notation": "MSQL112",
+            "pref_label": "MSQOL-54 - Health Limit Bathing and Dressing Yourself",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C113999"
+        },
+        {
+            "alt_label": "MSQL1-Phys Health: Cut Work Time",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Cut down on the amount of time you could spend on work or other activities.",
+            "identifier": "C114000",
+            "notation": "MSQL113",
+            "pref_label": "MSQOL-54 - Physical Health Cut Down Time on Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114000"
+        },
+        {
+            "alt_label": "MSQL1-Phys Health: Accomplish Less",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Accomplished less than you would like.",
+            "identifier": "C114001",
+            "notation": "MSQL114",
+            "pref_label": "MSQOL-54 - Physical Health Accomplish Less",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114001"
+        },
+        {
+            "alt_label": "MSQL1-Phys Health: Limit Kind of Work",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Were limited in the kind of work or other activities.",
+            "identifier": "C114002",
+            "notation": "MSQL115",
+            "pref_label": "MSQOL-54 - Physical Health Limited in the Kind of Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114002"
+        },
+        {
+            "alt_label": "MSQL1-Phys Health: Difficulty Performing",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Had difficulty performing the work or other activities.",
+            "identifier": "C114003",
+            "notation": "MSQL116",
+            "pref_label": "MSQOL-54 - Physical Health Difficulty Perform Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114003"
+        },
+        {
+            "alt_label": "MSQL1-Emotional Problem: Cut Work Time",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Cut down on the amount of time you could spend on work or other activities.",
+            "identifier": "C114004",
+            "notation": "MSQL117",
+            "pref_label": "MSQOL-54 - Emotional Problem Cut Down Time on Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114004"
+        },
+        {
+            "alt_label": "MSQL1-Emotional Problem: Accomplish Less",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Accomplished less than you would like.",
+            "identifier": "C114005",
+            "notation": "MSQL118",
+            "pref_label": "MSQOL-54 - Emotional Problem Accomplish Less",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114005"
+        },
+        {
+            "alt_label": "MSQL1-Emotional Problem: Less Careful",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Didn't do work or other activities as carefully as usual.",
+            "identifier": "C114006",
+            "notation": "MSQL119",
+            "pref_label": "MSQOL-54 - Emotional Problem Did Not Do Work Carefully",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114006"
+        },
+        {
+            "alt_label": "MSQL1-Extent Interfered Social Activity",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, to what extent has your physical health or emotional problems interfered with your normal social activities with family, friends, neighbors, or groups?",
+            "identifier": "C114007",
+            "notation": "MSQL120",
+            "pref_label": "MSQOL-54 - Extend Physical Health or Emotional Problem Interfere With Social Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114007"
+        },
+        {
+            "alt_label": "MSQL1-How Much Bodily Pain Have You Had",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much bodily pain have you had during the past 4 weeks?",
+            "identifier": "C114008",
+            "notation": "MSQL121",
+            "pref_label": "MSQOL-54 - Bodily Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114008"
+        },
+        {
+            "alt_label": "MSQL1-Did Pain Interfere With Your Work",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, how much did pain interfere with your normal work?",
+            "identifier": "C114009",
+            "notation": "MSQL122",
+            "pref_label": "MSQOL-54 - Pain Interfere With Normal Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114009"
+        },
+        {
+            "alt_label": "MSQL1-Did You Feel Full of Pep",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you feel full of pep?",
+            "identifier": "C114010",
+            "notation": "MSQL123",
+            "pref_label": "MSQOL-54 - Feel Full of Pep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114010"
+        },
+        {
+            "alt_label": "MSQL1-Have Been a Very Nervous Person",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you been a very nervous person?",
+            "identifier": "C114011",
+            "notation": "MSQL124",
+            "pref_label": "MSQOL-54 - Been a Nervous Person",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114011"
+        },
+        {
+            "alt_label": "MSQL1-Have Felt So Down in the Dumps",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you felt so down in the dumps that nothing could cheer you up?",
+            "identifier": "C114012",
+            "notation": "MSQL125",
+            "pref_label": "MSQOL-54 - Felt So Down Nothing Could Cheer You Up",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114012"
+        },
+        {
+            "alt_label": "MSQL1-Have You Felt Calm and Peaceful",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you felt calm and peaceful?",
+            "identifier": "C114013",
+            "notation": "MSQL126",
+            "pref_label": "MSQOL-54 - Felt Calm and Peaceful",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114013"
+        },
+        {
+            "alt_label": "MSQL1-Did You Have a Lot of Energy",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you have a lot of energy?",
+            "identifier": "C114014",
+            "notation": "MSQL127",
+            "pref_label": "MSQOL-54 - Have a Lot of Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114014"
+        },
+        {
+            "alt_label": "MSQL1-Have Felt Downhearted and Blue",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you felt downhearted and blue?",
+            "identifier": "C114015",
+            "notation": "MSQL128",
+            "pref_label": "MSQOL-54 - Felt Downhearted and Blue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114015"
+        },
+        {
+            "alt_label": "MSQL1-Did You Feel Worn Out",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you feel worn out?",
+            "identifier": "C114016",
+            "notation": "MSQL129",
+            "pref_label": "MSQOL-54 - Feel Worn Out",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114016"
+        },
+        {
+            "alt_label": "MSQL1-Have You Been a Happy Person",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you been a happy person?",
+            "identifier": "C114017",
+            "notation": "MSQL130",
+            "pref_label": "MSQOL-54 - Been a Happy Person",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114017"
+        },
+        {
+            "alt_label": "MSQL1-Did You Feel Tired",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you feel tired?",
+            "identifier": "C114018",
+            "notation": "MSQL131",
+            "pref_label": "MSQOL-54 - Feel Tired",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114018"
+        },
+        {
+            "alt_label": "MSQL1-Did You Feel Rested on Waking",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you feel rested on waking in the morning?",
+            "identifier": "C114019",
+            "notation": "MSQL132",
+            "pref_label": "MSQOL-54 - Feel Rested Waking in the Morning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114019"
+        },
+        {
+            "alt_label": "MSQL1-Amt Time Interfere Social Activity",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities?",
+            "identifier": "C114020",
+            "notation": "MSQL133",
+            "pref_label": "MSQOL-54 - Time Physical Health or Emotional Problem Interfere With Social Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114020"
+        },
+        {
+            "alt_label": "MSQL1-Get Sick Easier Than Other People",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How TRUE or FALSE is each of the following statements for you: I seem to get sick a little easier than other people.",
+            "identifier": "C114021",
+            "notation": "MSQL134",
+            "pref_label": "MSQOL-54 - Get Sick Easier Than Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114021"
+        },
+        {
+            "alt_label": "MSQL1-I Am as Healthy as Anybody I Know",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How TRUE or FALSE is each of the following statements for you: I am as healthy as anybody I know.",
+            "identifier": "C114022",
+            "notation": "MSQL135",
+            "pref_label": "MSQOL-54 - As Healthy as Anybody",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114022"
+        },
+        {
+            "alt_label": "MSQL1-I Expect My Health to Get Worse",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How TRUE or FALSE is each of the following statements for you: I expect my health to get worse.",
+            "identifier": "C114023",
+            "notation": "MSQL136",
+            "pref_label": "MSQOL-54 - Expect Health to Get Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114023"
+        },
+        {
+            "alt_label": "MSQL1-My Health Is Excellent",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How TRUE or FALSE is each of the following statements for you: My health is excellent.",
+            "identifier": "C114024",
+            "notation": "MSQL137",
+            "pref_label": "MSQOL-54 - Health is Excellent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114024"
+        },
+        {
+            "alt_label": "MSQL1-Discouraged by Health Problems",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Were you discouraged by your health problems?",
+            "identifier": "C114025",
+            "notation": "MSQL138",
+            "pref_label": "MSQOL-54 - Discouraged by Health Problem",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114025"
+        },
+        {
+            "alt_label": "MSQL1-Were Frustrated About Your Health",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Were you frustrated about your health?",
+            "identifier": "C114026",
+            "notation": "MSQL139",
+            "pref_label": "MSQOL-54 - Frustrated With Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114026"
+        },
+        {
+            "alt_label": "MSQL1-Was Health a Worry in Your Life",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Was your health a worry in your life?",
+            "identifier": "C114027",
+            "notation": "MSQL140",
+            "pref_label": "MSQOL-54 - Health a Worry in Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114027"
+        },
+        {
+            "alt_label": "MSQL1-Weighed Down by Health Problems",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you feel weighed down by your health problems?",
+            "identifier": "C114028",
+            "notation": "MSQL141",
+            "pref_label": "MSQOL-54 - Feel Weighed Down by Health Problem",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114028"
+        },
+        {
+            "alt_label": "MSQL1-Difficulty Concentrating/Thinking",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you had difficulty concentrating and thinking?",
+            "identifier": "C114029",
+            "notation": "MSQL142",
+            "pref_label": "MSQOL-54 - Difficulty Concentrating and Thinking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114029"
+        },
+        {
+            "alt_label": "MSQL1-Trouble Keep Attention for Long",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you have trouble keeping your attention on an activity for long?",
+            "identifier": "C114030",
+            "notation": "MSQL143",
+            "pref_label": "MSQOL-54 - Trouble Keep Attention for Long",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114030"
+        },
+        {
+            "alt_label": "MSQL1-Have Had Trouble With Your Memory",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you had trouble with your memory?",
+            "identifier": "C114031",
+            "notation": "MSQL144",
+            "pref_label": "MSQOL-54 - Trouble With Memory",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114031"
+        },
+        {
+            "alt_label": "MSQL1-Others Notice Your Memory Trouble",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have others, such as family members or friends, noticed that you have trouble with your memory or problems with your concentration?",
+            "identifier": "C114032",
+            "notation": "MSQL145",
+            "pref_label": "MSQOL-54 - Others Notice Your Problems With Memory or Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114032"
+        },
+        {
+            "alt_label": "MSQL1-Lack of Sexual Interest",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of a problem was each of the following for you during the past 4 weeks: Lack of sexual interest.",
+            "identifier": "C114033",
+            "notation": "MSQL146",
+            "pref_label": "MSQOL-54 - Lack of Sexual Interest",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114033"
+        },
+        {
+            "alt_label": "MSQL1-Difficult Getting/Keeping Erection",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of a problem was each of the following for you during the past 4 weeks: Difficulty getting or keeping an erection.",
+            "identifier": "C114034",
+            "notation": "MSQL147M",
+            "pref_label": "MSQOL-54 - Difficulty Keeping an Erection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114034"
+        },
+        {
+            "alt_label": "MSQL1-Inadequate Lubrication",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of a problem was each of the following for you during the past 4 weeks: Inadequate lubrication.",
+            "identifier": "C114035",
+            "notation": "MSQL147W",
+            "pref_label": "MSQOL-54 - Inadequate Lubrication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114035"
+        },
+        {
+            "alt_label": "MSQL1-Difficulty Having Orgasm",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of a problem was each of the following for you during the past 4 weeks: Difficulty having orgasm.",
+            "identifier": "C114036",
+            "notation": "MSQL148",
+            "pref_label": "MSQOL-54 - Difficulty Having Orgasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114036"
+        },
+        {
+            "alt_label": "MSQL1-Ability to Satisfy Sexual Partner",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - How much of a problem was each of the following for you during the past 4 weeks: Ability to satisfy sexual partner.",
+            "identifier": "C114037",
+            "notation": "MSQL149",
+            "pref_label": "MSQOL-54 - Ability to Satisfy Sexual Partner",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114037"
+        },
+        {
+            "alt_label": "MSQL1-Satisfied With Sexual Function",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Overall, how satisfied were you with your sexual function during the past 4 weeks?",
+            "identifier": "C114038",
+            "notation": "MSQL150",
+            "pref_label": "MSQOL-54 - Satisfied With Sexual Function",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114038"
+        },
+        {
+            "alt_label": "MSQL1-Bowel/Bladder Interfered Activity",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, to what extent have problems with your bowel or bladder function interfered with your normal social activities with family, friends, neighbors, or groups?",
+            "identifier": "C114039",
+            "notation": "MSQL151",
+            "pref_label": "MSQOL-54 - Bowel or Bladder Function Interfere With Social Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114039"
+        },
+        {
+            "alt_label": "MSQL1-Pain Interfere Enjoyment of Life",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, how much did pain interfere with your enjoyment of life?",
+            "identifier": "C114040",
+            "notation": "MSQL152",
+            "pref_label": "MSQOL-54 - Pain Interfere Enjoyment of Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114040"
+        },
+        {
+            "alt_label": "MSQL1-Rate Your Own Quality-of-Life",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Overall, how would you rate your own quality-of-life?",
+            "identifier": "C114041",
+            "notation": "MSQL153",
+            "pref_label": "MSQOL-54 - Rate Your Own Quality of Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114041"
+        },
+        {
+            "alt_label": "MSQL1-Describe How Feel About Your Life",
+            "definition": "Multiple Sclerosis Quality of Life-54 Instrument - Which best describes how you feel about your life as a whole?",
+            "identifier": "C114042",
+            "notation": "MSQL154",
+            "pref_label": "MSQOL-54 - Describe How You Feel About Your Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113860-C114042"
+        }
+    ]
+}

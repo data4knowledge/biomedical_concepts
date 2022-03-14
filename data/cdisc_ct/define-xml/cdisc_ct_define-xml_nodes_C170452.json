@@ -1,0 +1,61 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The implementation guide for the Clinical Data Interchange Standards Consortium (CDISC) Analysis Data Model standard.",
+            "identifier": "C170552",
+            "notation": "ADaMIG",
+            "pref_label": "ADaM Implementation Guide",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170452-C170552"
+        },
+        {
+            "alt_label": "CDISC Controlled Terminology;Clinical Data Interchange Standards Consortium Controlled Terminology",
+            "definition": "A standard terminology developed and maintained by Clinical Data Interchange Standards Consortium (CDISC) and the National Cancer Institute Enterprise Vocabulary Services (NCI-EVS) to support CDISC models, domains and specifications for data representation in regulated research.",
+            "identifier": "C163415",
+            "notation": "CDISC/NCI",
+            "pref_label": "Clinical Data Interchange Standards Consortium Controlled Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170452-C163415"
+        },
+        {
+            "definition": "The implementation guide for the Clinical Data Interchange Standards Consortium (CDISC) Study Data Tabulation Model standard.",
+            "identifier": "C170455",
+            "notation": "SDTMIG",
+            "pref_label": "SDTM Implementation Guide",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170452-C170455"
+        },
+        {
+            "definition": "The implementation guide for the Clinical Data Interchange Standards Consortium (CDISC) Study Data Tabulation Model Associated Persons standard.",
+            "identifier": "C170553",
+            "notation": "SDTMIG-AP",
+            "pref_label": "SDTM Implementation Guide-Associated Persons",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170452-C170553"
+        },
+        {
+            "definition": "The implementation guide for the Clinical Data Interchange Standards Consortium (CDISC) Study Data Tabulation Model Medical Devices standard.",
+            "identifier": "C170554",
+            "notation": "SDTMIG-MD",
+            "pref_label": "SDTM Implementation Guide-Medical Devices",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170452-C170554"
+        },
+        {
+            "definition": "The implementation guide for the Clinical Data Interchange Standards Consortium (CDISC) Standard for the Exchange of Nonclinical Data standard.",
+            "identifier": "C170456",
+            "notation": "SENDIG",
+            "pref_label": "SEND Implementation Guide",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170452-C170456"
+        },
+        {
+            "definition": "The implementation guide for the Clinical Data Interchange Standards Consortium (CDISC) Standard for the Exchange of Nonclinical Data Animal Rule standard.",
+            "identifier": "C181230",
+            "notation": "SENDIG-AR",
+            "pref_label": "SEND Implementation Guide-Animal Rule",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170452-C181230"
+        },
+        {
+            "definition": "The implementation guide for the Clinical Data Interchange Standards Consortium (CDISC) Standard for the Exchange of Nonclinical Data Developmental and Reproductive Toxicology standard.",
+            "identifier": "C170556",
+            "notation": "SENDIG-DART",
+            "pref_label": "SEND Implementation Guide-Developmental and Reproductive Toxicology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170452-C170556"
+        }
+    ]
+}

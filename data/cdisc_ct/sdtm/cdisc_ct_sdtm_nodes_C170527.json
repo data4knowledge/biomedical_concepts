@@ -1,0 +1,260 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "SPPB1-Side-by-Side Score",
+            "definition": "Short Physical Performance Battery V1.2 - Side-By-Side Stand: Side-by-side score.",
+            "identifier": "C170693",
+            "notation": "SPPB101",
+            "pref_label": "SPPB Version 1.2 - Side-by-Side Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170693"
+        },
+        {
+            "alt_label": "SPPB1-Side-by-Side Seconds Held If <10",
+            "definition": "Short Physical Performance Battery V1.2 - Side-By-Side Stand: Number of seconds held if less than 10 sec.",
+            "identifier": "C170694",
+            "notation": "SPPB101A",
+            "pref_label": "SPPB Version 1.2 - Side-by-Side Seconds Held If <10",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170694"
+        },
+        {
+            "alt_label": "SPPB1-Semi-Tandem Stand Score",
+            "definition": "Short Physical Performance Battery V1.2 - Semi-Tandem Stand: Semi-tandem stand score.",
+            "identifier": "C170695",
+            "notation": "SPPB102",
+            "pref_label": "SPPB Version 1.2 - Semi-Tandem Stand Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170695"
+        },
+        {
+            "alt_label": "SPPB1-Semi-Tandem Seconds Held If <10",
+            "definition": "Short Physical Performance Battery V1.2 - Semi-Tandem Stand: Number of seconds held if less than 10 sec.",
+            "identifier": "C170696",
+            "notation": "SPPB102A",
+            "pref_label": "SPPB Version 1.2 - Semi-Tandem Seconds Held If <10",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170696"
+        },
+        {
+            "alt_label": "SPPB1-Tandem Stand Score",
+            "definition": "Short Physical Performance Battery V1.2 - Tandem Stand: Tandem stand score.",
+            "identifier": "C170697",
+            "notation": "SPPB103",
+            "pref_label": "SPPB Version 1.2 - Tandem Stand Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170697"
+        },
+        {
+            "alt_label": "SPPB1-Tandem Seconds If <10",
+            "definition": "Short Physical Performance Battery V1.2 - Tandem Stand: Number of seconds if less than 10 sec.",
+            "identifier": "C170698",
+            "notation": "SPPB103A",
+            "pref_label": "SPPB Version 1.2 - Tandem Seconds If <10",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170698"
+        },
+        {
+            "alt_label": "SPPB1-Did Not Attempt Test Balance",
+            "definition": "Short Physical Performance Battery V1.2 - Balance Tests: If participant did not attempt test.",
+            "identifier": "C170699",
+            "notation": "SPPB104",
+            "pref_label": "SPPB Version 1.2 - Did Not Attempt Test Balance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170699"
+        },
+        {
+            "alt_label": "SPPB1-Did Not Attempt Balance Specify",
+            "definition": "Short Physical Performance Battery V1.2 - Balance Tests: If participant did not attempt test: Other (specify).",
+            "identifier": "C170700",
+            "notation": "SPPB104A",
+            "pref_label": "SPPB Version 1.2 - Did Not Attempt Balance Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170700"
+        },
+        {
+            "alt_label": "SPPB1-Total Balance Tests Score",
+            "definition": "Short Physical Performance Battery V1.2 - Total balance tests score.",
+            "identifier": "C170701",
+            "notation": "SPPB105",
+            "pref_label": "SPPB Version 1.2 - Total Balance Tests Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170701"
+        },
+        {
+            "alt_label": "SPPB1-Length of Walk Test Course",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test: Length of walk test course.",
+            "identifier": "C170702",
+            "notation": "SPPB106",
+            "pref_label": "SPPB Version 1.2 - Length of Walk Test Course",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170702"
+        },
+        {
+            "alt_label": "SPPB1-Time for 3 or 4 Meters 1st Gait",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test - First Gait Speed Test: Time for 3 or 4 meters.",
+            "identifier": "C170703",
+            "notation": "SPPB107",
+            "pref_label": "SPPB Version 1.2 - Time for 3 or 4 Meters 1st Gait",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170703"
+        },
+        {
+            "alt_label": "SPPB1-Did Not Attempt 1st Gait",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test - First Gait Speed Test: If participant did not attempt test.",
+            "identifier": "C170704",
+            "notation": "SPPB107A",
+            "pref_label": "SPPB Version 1.2 - Did Not Attempt 1st Gait",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170704"
+        },
+        {
+            "alt_label": "SPPB1-Did Not Attempt 1st Gait Specify",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test - First Gait Speed Test: If participant did not attempt test: Other (specify).",
+            "identifier": "C170705",
+            "notation": "SPPB107B",
+            "pref_label": "SPPB Version 1.2 - Did Not Attempt 1st Gait Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170705"
+        },
+        {
+            "alt_label": "SPPB1-Aids Used 1st Gait",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test - First Gait Speed Test: Aids used for first walk.",
+            "identifier": "C170706",
+            "notation": "SPPB107C",
+            "pref_label": "SPPB Version 1.2 - Aids Used 1st Gait",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170706"
+        },
+        {
+            "alt_label": "SPPB1-Aids Used 1st Gait Specify",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test - First Gait Speed Test: Aids used for first walk: Other (specify).",
+            "identifier": "C170707",
+            "notation": "SPPB107D",
+            "pref_label": "SPPB Version 1.2 - Aids Used 1st Gait Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170707"
+        },
+        {
+            "alt_label": "SPPB1-Time for 3 or 4 Meters - 2nd Gait",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test - Second Gait Speed Test: Time for 3 or 4 meters.",
+            "identifier": "C170708",
+            "notation": "SPPB108",
+            "pref_label": "SPPB Version 1.2 - Time for 3 or 4 Meters - 2nd Gait",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170708"
+        },
+        {
+            "alt_label": "SPPB1-Did Not Attempt or Failed 2nd Gait",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test - Second Gait Speed Test: If participant did not attempt or failed.",
+            "identifier": "C170709",
+            "notation": "SPPB108A",
+            "pref_label": "SPPB Version 1.2 - Did Not Attempt or Failed 2nd Gait",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170709"
+        },
+        {
+            "alt_label": "SPPB1-Did Not Attempt 2nd Gait Specify",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test - Second Gait Speed Test: If participant did not attempt or failed: Other (specify).",
+            "identifier": "C170710",
+            "notation": "SPPB108B",
+            "pref_label": "SPPB Version 1.2 - Did Not Attempt 2nd Gait Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170710"
+        },
+        {
+            "alt_label": "SPPB1-Aids Used 2nd Gait",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test - Second Gait Speed Test: Aids used for second walk.",
+            "identifier": "C170711",
+            "notation": "SPPB108C",
+            "pref_label": "SPPB Version 1.2 - Aids Used 2nd Gait",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170711"
+        },
+        {
+            "alt_label": "SPPB1-Aids Used 2nd Gait Specify",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test - Second Gait Speed Test: Aids used for second walk: Other (specify).",
+            "identifier": "C170712",
+            "notation": "SPPB108D",
+            "pref_label": "SPPB Version 1.2 - Aids Used 2nd Gait Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170712"
+        },
+        {
+            "alt_label": "SPPB1-For 4-Meter Walk",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test: For 4-meter walk.",
+            "identifier": "C170713",
+            "notation": "SPPB109A",
+            "pref_label": "SPPB Version 1.2 - For 4-Meter Walk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170713"
+        },
+        {
+            "alt_label": "SPPB1-For 3-Meter Walk",
+            "definition": "Short Physical Performance Battery V1.2 - Gait Speed Test: For 3-meter walk.",
+            "identifier": "C170714",
+            "notation": "SPPB109B",
+            "pref_label": "SPPB Version 1.2 - For 3-Meter Walk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170714"
+        },
+        {
+            "alt_label": "SPPB1-Safe to Stand Without Help",
+            "definition": "Short Physical Performance Battery V1.2 - Chair Stand Test - Single Chair Stand Test: Safe to stand without help.",
+            "identifier": "C170715",
+            "notation": "SPPB110",
+            "pref_label": "SPPB Version 1.2 - Safe to Stand Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170715"
+        },
+        {
+            "alt_label": "SPPB1-Results Single Chair",
+            "definition": "Short Physical Performance Battery V1.2 - Chair Stand Test - Single Chair Stand Test: Results.",
+            "identifier": "C170716",
+            "notation": "SPPB111",
+            "pref_label": "SPPB Version 1.2 - Results Single Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170716"
+        },
+        {
+            "alt_label": "SPPB1-Did Not Attempt Single Chair",
+            "definition": "Short Physical Performance Battery V1.2 - Chair Stand Test - Single Chair Stand Test: If participant did not attempt or failed.",
+            "identifier": "C170717",
+            "notation": "SPPB111A",
+            "pref_label": "SPPB Version 1.2 - Did Not Attempt Single Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170717"
+        },
+        {
+            "alt_label": "SPPB1-Not Attempt Single Chair Specify",
+            "definition": "Short Physical Performance Battery V1.2 - Chair Stand Test - Single Chair Stand Test: If participant did not attempt or failed: Other (specify).",
+            "identifier": "C170718",
+            "notation": "SPPB111B",
+            "pref_label": "SPPB Version 1.2 - Not Attempt Single Chair Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170718"
+        },
+        {
+            "alt_label": "SPPB1-Safe to Stand Five Times",
+            "definition": "Short Physical Performance Battery V1.2 - Chair Stand Test - Repeated Chair Stand Test: Safe to stand five times.",
+            "identifier": "C170719",
+            "notation": "SPPB112",
+            "pref_label": "SPPB Version 1.2 - Safe to Stand Five Times",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170719"
+        },
+        {
+            "alt_label": "SPPB1-Time to Complete Five Stands",
+            "definition": "Short Physical Performance Battery V1.2 - Chair Stand Test - Repeated Chair Stand Test: Time to complete five stands.",
+            "identifier": "C170720",
+            "notation": "SPPB113",
+            "pref_label": "SPPB Version 1.2 - Time to Complete Five Stands",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170720"
+        },
+        {
+            "alt_label": "SPPB1-Did Not Attempt Repeated Chair",
+            "definition": "Short Physical Performance Battery V1.2 - Chair Stand Test - Repeated Chair Stand Test: If participant did not attempt test or failed.",
+            "identifier": "C170721",
+            "notation": "SPPB113A",
+            "pref_label": "SPPB Version 1.2 - Did Not Attempt Repeated Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170721"
+        },
+        {
+            "alt_label": "SPPB1-Not Attempt Repeated Chair Specify",
+            "definition": "Short Physical Performance Battery V1.2 - Chair Stand Test - Repeated Chair Stand Test: If participant did not attempt test or failed: Other (specify).",
+            "identifier": "C170722",
+            "notation": "SPPB113B",
+            "pref_label": "SPPB Version 1.2 - Not Attempt Repeated Chair Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170722"
+        },
+        {
+            "alt_label": "SPPB1-Chair Stand Score Repeated",
+            "definition": "Short Physical Performance Battery V1.2 - Chair Stand Test - Repeated Chair Stand Test: Chair stand score.",
+            "identifier": "C170723",
+            "notation": "SPPB113C",
+            "pref_label": "SPPB Version 1.2 - Chair Stand Score Repeated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170723"
+        },
+        {
+            "alt_label": "SPPB1-Total Score",
+            "definition": "Short Physical Performance Battery V1.2 - Total score.",
+            "identifier": "C170724",
+            "notation": "SPPB114",
+            "pref_label": "SPPB Version 1.2 - Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C170527-C170724"
+        }
+    ]
+}

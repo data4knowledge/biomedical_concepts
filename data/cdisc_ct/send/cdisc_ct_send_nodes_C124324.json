@@ -1,0 +1,164 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Corpora Lutea Count",
+            "definition": "The number of corpora lutea present in the ovary/ovaries.",
+            "identifier": "C124619",
+            "notation": "CORPLUT",
+            "pref_label": "Corpora Lutea Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124619"
+        },
+        {
+            "alt_label": "Number of Dead Fetuses",
+            "definition": "A measurement of the number of dead fetuses in the uterus/uterine horn(s).",
+            "identifier": "C124620",
+            "notation": "FETDENUM",
+            "pref_label": "Number of Dead Fetuses",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124620"
+        },
+        {
+            "alt_label": "Fetal Female Sex Ratio",
+            "definition": "A measurement (expressed as a fraction or percent) of the number of live female fetuses to the total number of live male and female fetuses.",
+            "identifier": "C124621",
+            "notation": "FETFSEXR",
+            "pref_label": "Fetal Female Sex Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124621"
+        },
+        {
+            "alt_label": "Number of Live Female Fetuses",
+            "definition": "A measurement of the number of live female fetuses present in the uterus/uterine horn(s).",
+            "identifier": "C124622",
+            "notation": "FETLFNUM",
+            "pref_label": "Number of Live Female Fetuses",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124622"
+        },
+        {
+            "alt_label": "Number of Live Male Fetuses",
+            "definition": "A measurement of the number of live male fetuses present in the uterus/uterine horn(s).",
+            "identifier": "C124623",
+            "notation": "FETLMNUM",
+            "pref_label": "Number of Live Male Fetuses",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124623"
+        },
+        {
+            "alt_label": "Number of Live Fetuses",
+            "definition": "A measurement of the number of live fetuses in the uterus/uterine horn(s).",
+            "identifier": "C124624",
+            "notation": "FETLVNUM",
+            "pref_label": "Number of Live Fetuses",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124624"
+        },
+        {
+            "alt_label": "Fetal Male Sex Ratio",
+            "definition": "A measurement (expressed as a fraction or percent) of the number of live male fetuses to the total number of live male and female fetuses.",
+            "identifier": "C124625",
+            "notation": "FETMSEXR",
+            "pref_label": "Fetal Male Sex Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124625"
+        },
+        {
+            "alt_label": "Number of Fetuses",
+            "definition": "A measurement of the total number of fetuses (alive plus dead) present in the uterus/uterine horn(s).",
+            "identifier": "C124626",
+            "notation": "FETNUM",
+            "pref_label": "Number of Fetuses",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124626"
+        },
+        {
+            "alt_label": "Average Live Fetal Weight",
+            "definition": "A measurement of the average weight of all live fetuses.",
+            "identifier": "C124627",
+            "notation": "FWAVGL",
+            "pref_label": "Average Live Fetal Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124627"
+        },
+        {
+            "alt_label": "Average Female Live Fetal Weight",
+            "definition": "A measurement of the average weight of all live female fetuses.",
+            "identifier": "C124628",
+            "notation": "FWAVGLF",
+            "pref_label": "Average Female Live Fetal Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124628"
+        },
+        {
+            "alt_label": "Average Male Live Fetal Weight",
+            "definition": "A measurement of the average weight of all live male fetuses.",
+            "identifier": "C124629",
+            "notation": "FWAVGLM",
+            "pref_label": "Average Male Live Fetal Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124629"
+        },
+        {
+            "alt_label": "Total Live Fetal Weight",
+            "definition": "A measurement of the total weight of all live fetuses.",
+            "identifier": "C124630",
+            "notation": "FWTOTL",
+            "pref_label": "Total Live Fetal Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124630"
+        },
+        {
+            "alt_label": "Number of Implantations",
+            "definition": "A measurement of the number of implantations in the uterus/uterine horn(s).",
+            "identifier": "C124631",
+            "notation": "IMLNUM",
+            "pref_label": "Number of Implantations",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124631"
+        },
+        {
+            "alt_label": "Number of Intrauterine Deaths",
+            "definition": "A measurement of the total number of deaths (dead fetuses plus resorptions) in the uterus/uterine horn(s).",
+            "identifier": "C124632",
+            "notation": "IUDNUM",
+            "pref_label": "Number of Intrauterine Deaths",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124632"
+        },
+        {
+            "alt_label": "Pregnancy Status",
+            "definition": "The condition or state of the subject with regards to pregnancy.",
+            "identifier": "C69218",
+            "notation": "PREGSTAT",
+            "pref_label": "Pregnancy Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C69218"
+        },
+        {
+            "alt_label": "Pre-implantation Loss Percent",
+            "definition": "The percentage of released ova that failed to implant, calculated as the number of corpora lutea minus the number of implantations, divided by the number of corpora lutea and multiplied by 100.",
+            "identifier": "C124633",
+            "notation": "PREIMLSP",
+            "pref_label": "Pre-implantation Loss Percent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124633"
+        },
+        {
+            "alt_label": "Post-implantation Loss Percent",
+            "definition": "The percentage of implants that died, calculated as the number of intrauterine deaths divided by the number of implantations and multiplied by 100.",
+            "identifier": "C124634",
+            "notation": "PSTIMLSP",
+            "pref_label": "Post-implantation Loss Percent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124634"
+        },
+        {
+            "alt_label": "Number of Early Resorptions",
+            "definition": "A measurement of the number of early resorptions in the uterus/uterine horn(s).",
+            "identifier": "C124635",
+            "notation": "RSRPENUM",
+            "pref_label": "Number of Early Resorptions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124635"
+        },
+        {
+            "alt_label": "Number of Late Resorptions",
+            "definition": "A measurement of the number of late resorptions in the uterus/uterine horn(s).",
+            "identifier": "C124636",
+            "notation": "RSRPLNUM",
+            "pref_label": "Number of Late Resorptions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124636"
+        },
+        {
+            "alt_label": "Number of Resorptions",
+            "definition": "A measurement of the total number of resorptions (early plus late) in the uterus/uterine horn(s).",
+            "identifier": "C124637",
+            "notation": "RSRPNUM",
+            "pref_label": "Number of Resorptions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324-C124637"
+        }
+    ]
+}

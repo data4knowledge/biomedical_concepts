@@ -1,0 +1,3729 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The tissue that surrounds the organs present in the abdominal cavity.",
+            "identifier": "C77608",
+            "notation": "ABDOMINAL WALL",
+            "pref_label": "Abdominal Wall",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77608"
+        },
+        {
+            "definition": "The glandular stomach of ruminants.",
+            "identifier": "C98702",
+            "notation": "ABOMASUM",
+            "pref_label": "Abomasum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C98702"
+        },
+        {
+            "alt_label": "Body Fat;Fat Tissue",
+            "definition": "Connective tissue consisting primarily of adipocytes (fat cells) and supporting structural matrix.",
+            "identifier": "C12472",
+            "notation": "ADIPOSE TISSUE",
+            "pref_label": "Adipose Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12472"
+        },
+        {
+            "alt_label": "BAT;Brown Fat",
+            "definition": "Brown-colored adipose tissue that contains numerous small droplets of lipids and high numbers of mitochondria.",
+            "identifier": "C32235",
+            "notation": "ADIPOSE TISSUE, BROWN",
+            "pref_label": "Brown Adipose Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32235"
+        },
+        {
+            "alt_label": "White Fat",
+            "definition": "White-colored adipose tissue that is predominantly composed of cells with a large single vacuole containing lipid.",
+            "identifier": "C33889",
+            "notation": "ADIPOSE TISSUE, WHITE",
+            "pref_label": "White Adipose Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33889"
+        },
+        {
+            "definition": "A part of the respiratory system in multiple species (predominantly avian) which are variably connected with the lung.",
+            "identifier": "C120926",
+            "notation": "AIR SAC",
+            "pref_label": "Air Sac",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C120926"
+        },
+        {
+            "definition": "The total collection of tissues within a sample. (NCI)",
+            "identifier": "C90476",
+            "notation": "ALL TISSUES",
+            "pref_label": "Total Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C90476"
+        },
+        {
+            "alt_label": "Artery",
+            "definition": "A blood vessel that carries blood away from the heart. (NCI)",
+            "identifier": "C12372",
+            "notation": "ARTERY",
+            "pref_label": "Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12372"
+        },
+        {
+            "definition": "The major artery of the body; it arises from the left ventricle of the heart and terminally bifurcates into the common iliac arteries.",
+            "identifier": "C12669",
+            "notation": "ARTERY, AORTA",
+            "pref_label": "Aorta",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12669"
+        },
+        {
+            "definition": "One of the arteries of the pinna; in general it arises from the internal carotid artery or the superficial temporal artery.",
+            "identifier": "C52849",
+            "notation": "ARTERY, AURICULAR",
+            "pref_label": "Auricular Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C52849"
+        },
+        {
+            "definition": "An artery of the forelimb; in general it arises from the axillary artery and branches to form the radial and ulnar arteries.",
+            "identifier": "C12681",
+            "notation": "ARTERY, BRACHIAL",
+            "pref_label": "Brachial Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12681"
+        },
+        {
+            "alt_label": "Innominate Artery",
+            "definition": "An artery of the mediastinum; in general it arises from the aortic arch and branches to form the right subclavian artery and one or both common carotid arteries.",
+            "identifier": "C32814",
+            "notation": "ARTERY, BRACHIOCEPHALIC",
+            "pref_label": "Innominate Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32814"
+        },
+        {
+            "alt_label": "Common Carotid Artery",
+            "definition": "An artery of the mediastinum and neck; in general it arises as a primary or secondary branch of the aortic arch and branches into the internal and external carotid arteries.",
+            "identifier": "C12687",
+            "notation": "ARTERY, CAROTID",
+            "pref_label": "Common Carotid Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12687"
+        },
+        {
+            "definition": "One of the arteries of the heart; in general it arises from the aortic root and supplies the myocardium.",
+            "identifier": "C12843",
+            "notation": "ARTERY, CORONARY",
+            "pref_label": "Coronary Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12843"
+        },
+        {
+            "definition": "An artery of the thigh; in general it arises from the external iliac artery distal to the inguinal ligment and continues as the popliteal artery.",
+            "identifier": "C12715",
+            "notation": "ARTERY, FEMORAL",
+            "pref_label": "Femoral Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12715"
+        },
+        {
+            "definition": "An artery of the pelvic region and legs/hindlimbs; in general it arises from the bifurcation of the aorta and branches into the external and internal iliac arteries.",
+            "identifier": "C12733",
+            "notation": "ARTERY, ILIAC",
+            "pref_label": "Iliac Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12733"
+        },
+        {
+            "definition": "An artery of the thoracic wall; in general it arises from the subclavian artery and branches into the musculophrenic and superior epigastric arteries.",
+            "identifier": "C52941",
+            "notation": "ARTERY, INTERNAL THORACIC",
+            "pref_label": "Internal Mammary Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C52941"
+        },
+        {
+            "definition": "One of the arteries of the abdomen; in general it arises from the abdominal aorta and supplies blood mainly to the intestines.",
+            "identifier": "C52975",
+            "notation": "ARTERY, MESENTERIC",
+            "pref_label": "Mesenteric Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C52975"
+        },
+        {
+            "definition": "One of the arteries of the thorax; in general it arises from the pulmonary trunk and branches into the lungs.",
+            "identifier": "C12774",
+            "notation": "ARTERY, PULMONARY",
+            "pref_label": "Pulmonary Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12774"
+        },
+        {
+            "definition": "One of the arteries of the abdomen; in general it arises from the abdominal aorta and supplies blood to the kidney.",
+            "identifier": "C12778",
+            "notation": "ARTERY, RENAL",
+            "pref_label": "Renal Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12778"
+        },
+        {
+            "definition": "One of the arteries of the spine; in general it arises from the vertebral artery and supplies blood to the spinal cord.",
+            "identifier": "C33587",
+            "notation": "ARTERY, SPINAL",
+            "pref_label": "Spinal Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33587"
+        },
+        {
+            "definition": "One of the arteries of the thorax; in general it arises from the brachiocephalic artery or the aortic arch and branches into several arteries to supply blood to the head, neck, and arm/forelimb.",
+            "identifier": "C33643",
+            "notation": "ARTERY, SUBCLAVIAN",
+            "pref_label": "Subclavian Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33643"
+        },
+        {
+            "definition": "Fluid withdrawn from a body cavity, cyst, or tumor. (NCI)",
+            "identifier": "C13347",
+            "notation": "ASPIRATE",
+            "pref_label": "Aspirate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13347"
+        },
+        {
+            "definition": "Fluid composed of waste products, bile acids, salts, cholesterol, and electrolytes. It is produced by the liver and may be stored in the gallbladder (if present).",
+            "identifier": "C13192",
+            "notation": "BILE",
+            "pref_label": "Bile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13192"
+        },
+        {
+            "alt_label": "Biological Sample;Biological Specimen;Biospecimen;Sample",
+            "definition": "Any material collected from a biological entity for testing, diagnostic, propagation, treatment, or research purposes.",
+            "identifier": "C70699",
+            "notation": "BIOSPECIMEN",
+            "pref_label": "Biospecimen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C70699"
+        },
+        {
+            "definition": "A natural hollow or sinus within the body. (NCI)",
+            "identifier": "C25444",
+            "notation": "BODY CAVITY",
+            "pref_label": "Body Cavity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C25444"
+        },
+        {
+            "alt_label": "Abdomen",
+            "definition": "The body cavity between the thoracic and pelvic cavities in mammals.",
+            "identifier": "C12664",
+            "notation": "BODY CAVITY, ABDOMINAL",
+            "pref_label": "Abdomen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12664"
+        },
+        {
+            "alt_label": "Intracranial Cavity",
+            "definition": "The space that is formed by the bones of the skull, and contains the brain.",
+            "identifier": "C77638",
+            "notation": "BODY CAVITY, CRANIAL",
+            "pref_label": "Cranial Cavity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77638"
+        },
+        {
+            "alt_label": "Extraperitoneal Area;Extraperitoneal Space",
+            "definition": "The space of the abdominal and pelvic cavities outside the peritoneum. (NCI)",
+            "identifier": "C92208",
+            "notation": "BODY CAVITY, EXTRAPERITONEAL",
+            "pref_label": "Extraperitoneal Space",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92208"
+        },
+        {
+            "definition": "The upper respiratory tract extending from the nares to the pharynx.",
+            "identifier": "C12424",
+            "notation": "BODY CAVITY, NASAL",
+            "pref_label": "Nasal Cavity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12424"
+        },
+        {
+            "alt_label": "Buccal cavity;Mouth",
+            "definition": "The cavity of the mouth.",
+            "identifier": "C12421",
+            "notation": "BODY CAVITY, ORAL",
+            "pref_label": "Oral Cavity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12421"
+        },
+        {
+            "alt_label": "Eye Socket;Ocular Orbit;Orbit",
+            "definition": "The bony cavity that contains the eye and its associated structures.",
+            "identifier": "C12347",
+            "notation": "BODY CAVITY, ORBITAL",
+            "pref_label": "Orbit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12347"
+        },
+        {
+            "alt_label": "Pelvic Region;Pelvis",
+            "definition": "The bony, basin-shaped structure formed by the bones of the pelvis.",
+            "identifier": "C12767",
+            "notation": "BODY CAVITY, PELVIC",
+            "pref_label": "Pelvis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12767"
+        },
+        {
+            "definition": "The body space between the epicardium and the pericardium.",
+            "identifier": "C38662",
+            "notation": "BODY CAVITY, PERICARDIAL",
+            "pref_label": "Pericardial Cavity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C38662"
+        },
+        {
+            "definition": "A part of the abdominal cavity that lies between the visceral and parietal peritoneum.",
+            "identifier": "C12769",
+            "notation": "BODY CAVITY, PERITONEAL",
+            "pref_label": "Peritoneal Cavity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12769"
+        },
+        {
+            "definition": "A part of the thoracic cavity that lies between the visceral and parietal pleura.",
+            "identifier": "C12840",
+            "notation": "BODY CAVITY, PLEURAL",
+            "pref_label": "Pleural Cavity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12840"
+        },
+        {
+            "definition": "The cavity enclosed by the ribs between the diaphragm and the neck.",
+            "identifier": "C12905",
+            "notation": "BODY CAVITY, THORACIC",
+            "pref_label": "Thoracic Cavity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12905"
+        },
+        {
+            "definition": "The tissue occupying the spaces of some bones. It consists of blood vessel sinuses and a network of hematopoietic cells.",
+            "identifier": "C12431",
+            "notation": "BONE MARROW",
+            "pref_label": "Bone Marrow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12431"
+        },
+        {
+            "alt_label": "Bone Marrow, Femoral",
+            "definition": "Bone marrow in the femoral bone. (NCI)",
+            "identifier": "C77686",
+            "notation": "BONE MARROW, FEMUR",
+            "pref_label": "Bone Marrow, Femur",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77686"
+        },
+        {
+            "definition": "Bone marrow in the humerus bone. (NCI)",
+            "identifier": "C77687",
+            "notation": "BONE MARROW, HUMERUS",
+            "pref_label": "Bone Marrow, Humerus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77687"
+        },
+        {
+            "definition": "Bone marrow in the rib. (NCI)",
+            "identifier": "C77688",
+            "notation": "BONE MARROW, RIB",
+            "pref_label": "Bone Marrow, Rib",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77688"
+        },
+        {
+            "definition": "Bone marrow in the scapula. (NCI)",
+            "identifier": "C77689",
+            "notation": "BONE MARROW, SCAPULA",
+            "pref_label": "Bone Marrow, Scapula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77689"
+        },
+        {
+            "alt_label": "Bone Marrow, Sternal",
+            "definition": "Bone marrow in the sternum. (NCI)",
+            "identifier": "C77690",
+            "notation": "BONE MARROW, STERNUM",
+            "pref_label": "Bone Marrow, Sternum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77690"
+        },
+        {
+            "definition": "Bone marrow in the tibia bone. (NCI)",
+            "identifier": "C77691",
+            "notation": "BONE MARROW, TIBIA",
+            "pref_label": "Bone Marrow, Tibia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77691"
+        },
+        {
+            "alt_label": "Bone Marrow, Vertebral",
+            "definition": "Bone marrow in a vertebral bone. (NCI)",
+            "identifier": "C77692",
+            "notation": "BONE MARROW, VERTEBRUM",
+            "pref_label": "Bone Marrow, Vertebral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77692"
+        },
+        {
+            "definition": "Calcified connective tissue that forms the skeletal components of the body. (NCI)",
+            "identifier": "C12366",
+            "notation": "BONE",
+            "pref_label": "Bone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12366"
+        },
+        {
+            "alt_label": "Ossicles of the Ear",
+            "definition": "Any of the small bones in the middle ear that transmit acoustic vibrations from the eardrum to the inner ear.",
+            "identifier": "C32164",
+            "notation": "BONE, AUDITORY OSSICLES",
+            "pref_label": "Auditory Ossicle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32164"
+        },
+        {
+            "definition": "The roof or dome of the skull. (NCI)",
+            "identifier": "C81188",
+            "notation": "BONE, CALVARIUM",
+            "pref_label": "Skullcap",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C81188"
+        },
+        {
+            "definition": "Any of the bones of the joint located between the radius and ulna and metacarpus.",
+            "identifier": "C12688",
+            "notation": "BONE, CARPAL",
+            "pref_label": "Carpal Bone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12688"
+        },
+        {
+            "definition": "The paired bone that is situated between the sternum and the shoulder.",
+            "identifier": "C12695",
+            "notation": "BONE, CLAVICLE",
+            "pref_label": "Clavicle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12695"
+        },
+        {
+            "definition": "A rounded bony projection at the end of the bone. (NCI)",
+            "identifier": "C83002",
+            "notation": "BONE, CONDYLE",
+            "pref_label": "Condyle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C83002"
+        },
+        {
+            "alt_label": "Bone, Femoral",
+            "definition": "The bone positioned between the pelvis and the femorotibial joint.",
+            "identifier": "C12717",
+            "notation": "BONE, FEMUR",
+            "pref_label": "Femur",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12717"
+        },
+        {
+            "definition": "A tissue sample that contains the femur and femorotibial joint. (NCI)",
+            "identifier": "C135523",
+            "notation": "BONE, FEMUR/JOINT, FEMOROTIBIAL",
+            "pref_label": "Femur/Femorotibial Joint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C135523"
+        },
+        {
+            "definition": "The long bone that is lateral to the tibia.",
+            "identifier": "C12718",
+            "notation": "BONE, FIBULA",
+            "pref_label": "Fibula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12718"
+        },
+        {
+            "alt_label": "Bone, Humeral",
+            "definition": "The bone between the scapulohumeral and humeroulnar joints.",
+            "identifier": "C12731",
+            "notation": "BONE, HUMERUS",
+            "pref_label": "Humerus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12731"
+        },
+        {
+            "alt_label": "Ilium",
+            "definition": "The broad, dorsal, upper, and widest of the three principal bones composing either half of the pelvis. (NCI)",
+            "identifier": "C32765",
+            "notation": "BONE, ILIUM",
+            "pref_label": "Ilium",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32765"
+        },
+        {
+            "alt_label": "Bone, Mandibular;Inferior Maxillary Bone;Lower Jaw;Mandible",
+            "definition": "The lower jaw bone holding the lower teeth. (NCI)",
+            "identifier": "C12290",
+            "notation": "BONE, MANDIBLE",
+            "pref_label": "Mandible",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12290"
+        },
+        {
+            "definition": "The upper jaw bone holding the upper teeth.",
+            "identifier": "C26470",
+            "notation": "BONE, MAXILLA",
+            "pref_label": "Maxilla",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C26470"
+        },
+        {
+            "definition": "A small bone in front of the femorotibial joint that articulates with the femur.",
+            "identifier": "C33282",
+            "notation": "BONE, PATELLA",
+            "pref_label": "Patella",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33282"
+        },
+        {
+            "alt_label": "Pelvic Bone",
+            "definition": "The bony structure composed of the ilium, ishium, pubis and sacrum, which are typically fused during maturation.",
+            "identifier": "C33287",
+            "notation": "BONE, PELVIS",
+            "pref_label": "Pelvic Bone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33287"
+        },
+        {
+            "alt_label": "Phalanx",
+            "definition": "Any of the bones that make up the digits of the hand/forepaw, foot/hindpaw, or hoof.",
+            "identifier": "C33317",
+            "notation": "BONE, PHALANGE",
+            "pref_label": "Phalanx",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33317"
+        },
+        {
+            "definition": "The long bone that lies between the radiohumeral joint and the carpus and is adjacent to the ulna.",
+            "identifier": "C12777",
+            "notation": "BONE, RADIUS",
+            "pref_label": "Radius Bone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12777"
+        },
+        {
+            "definition": "Any one of the paired bones, extending from the thoracic vertebrae toward the median line on the ventral aspect of the trunk.",
+            "identifier": "C12782",
+            "notation": "BONE, RIB",
+            "pref_label": "Rib",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12782"
+        },
+        {
+            "alt_label": "Shoulder Blade",
+            "definition": "A bone that articulates with the humerus and is part of the scapulohumeral joint.",
+            "identifier": "C12783",
+            "notation": "BONE, SCAPULA",
+            "pref_label": "Scapula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12783"
+        },
+        {
+            "alt_label": "Bone, Skull;Cranium;Skull Bone",
+            "definition": "The bones that form the head, made up of the bones of the braincase and face. (NCI)",
+            "identifier": "C12789",
+            "notation": "BONE, SKULL",
+            "pref_label": "Skull",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12789"
+        },
+        {
+            "alt_label": "Sterna",
+            "definition": "The long, flat bone or sternebrae connecting with the cartilage of some ribs.",
+            "identifier": "C12793",
+            "notation": "BONE, STERNUM",
+            "pref_label": "Sternum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12793"
+        },
+        {
+            "alt_label": "Bone, Tarsal",
+            "definition": "Any of the short bones between the tibiotarsal joint and the tarsometatarsal joint.",
+            "identifier": "C12796",
+            "notation": "BONE, TARSUS",
+            "pref_label": "Tarsal Bone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12796"
+        },
+        {
+            "definition": "The long bone that is medial to the fibula.",
+            "identifier": "C12800",
+            "notation": "BONE, TIBIA",
+            "pref_label": "Tibia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12800"
+        },
+        {
+            "definition": "The bone that contains the olecranon process, lies between the radiohumeral joint and the carpus, and is adjacent to the radius.",
+            "identifier": "C12809",
+            "notation": "BONE, ULNA",
+            "pref_label": "Ulna",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12809"
+        },
+        {
+            "alt_label": "Vertebra;Vertebral Bone",
+            "definition": "One of the bones that make up the vertebral column.",
+            "identifier": "C33868",
+            "notation": "BONE, VERTEBRA",
+            "pref_label": "Vertebral Bone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33868"
+        },
+        {
+            "alt_label": "Nervous System, Brain",
+            "definition": "An organ composed of gray and white matter that is the center for intelligence and reasoning. It is protected by the bony cranium.",
+            "identifier": "C12439",
+            "notation": "BRAIN",
+            "pref_label": "Brain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12439"
+        },
+        {
+            "alt_label": "Amygdala;Amygdaloid Body;Amygdaloid Nucleus",
+            "definition": "A group of nuclei adjacent to the lateral ventricle of the brain within the temporal lobe, and is part of the limbic system.",
+            "identifier": "C12440",
+            "notation": "BRAIN, AMYGDALOID BODY",
+            "pref_label": "Amygdala",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12440"
+        },
+        {
+            "definition": "Clusters of neurons comprising the globus pallidus, putamen, caudate, nucleus accumbens, substantia nigra and subthalamic nucleus.",
+            "identifier": "C12447",
+            "notation": "BRAIN, BASAL GANGLIA",
+            "pref_label": "Basal Ganglia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12447"
+        },
+        {
+            "alt_label": "Brain Stem",
+            "definition": "The part of the brain that connects the cerebral hemispheres with the spinal cord. It consists of the mesencephalon, pons, and medulla oblongata. (NCI)",
+            "identifier": "C12441",
+            "notation": "BRAIN, BRAIN STEM",
+            "pref_label": "Brain Stem",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12441"
+        },
+        {
+            "definition": "The portion of the brain that extends from the brainstem through the cerebellar folia.",
+            "identifier": "C12445",
+            "notation": "BRAIN, CEREBELLUM",
+            "pref_label": "Cerebellum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12445"
+        },
+        {
+            "definition": "The portion of the brain comprising the frontal, parietal, temporal, and occipital lobes and extending through the thalamus.",
+            "identifier": "C12351",
+            "notation": "BRAIN, CEREBRUM",
+            "pref_label": "Cerebral Hemisphere",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12351"
+        },
+        {
+            "definition": "Blood vessels and ependyma forming villous structures in the ventricles of the brain.",
+            "identifier": "C12694",
+            "notation": "BRAIN, CHOROID PLEXUS",
+            "pref_label": "Choroid Plexus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12694"
+        },
+        {
+            "definition": "A collection of nuclei in the brainstem at which the auditory nerves terminate.",
+            "identifier": "C12837",
+            "notation": "BRAIN, COCHLEAR NUCLEI",
+            "pref_label": "Cochlear Nucleus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12837"
+        },
+        {
+            "definition": "A white matter structure within the brain that connects the left and right cerebral hemispheres.",
+            "identifier": "C12446",
+            "notation": "BRAIN, CORPUS CALLOSUM",
+            "pref_label": "Corpus Callosum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12446"
+        },
+        {
+            "definition": "The largest part of the brain composed of the cerebral hemispheres, thalamus, hypothalamus, and the limbic system. (NCI)",
+            "identifier": "C40185",
+            "notation": "BRAIN, FOREBRAIN",
+            "pref_label": "Forebrain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C40185"
+        },
+        {
+            "definition": "A curved gray matter structure of the cerebrum that is part of the limbic system.",
+            "identifier": "C12444",
+            "notation": "BRAIN, HIPPOCAMPUS",
+            "pref_label": "Hippocampus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12444"
+        },
+        {
+            "definition": "A small region of the brain composed of multiple nuclei and located underneath the thalamus.",
+            "identifier": "C12458",
+            "notation": "BRAIN, HYPOTHALAMUS",
+            "pref_label": "Hypothalamus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12458"
+        },
+        {
+            "definition": "The portion of the brainstem between the pons and cervical spinal cord.",
+            "identifier": "C12442",
+            "notation": "BRAIN, MEDULLA OBLONGATA",
+            "pref_label": "Medulla Oblongata",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12442"
+        },
+        {
+            "alt_label": "Mesencephalon",
+            "definition": "The portion of the brainstem between the pons and diencephalon.",
+            "identifier": "C12510",
+            "notation": "BRAIN, MIDBRAIN",
+            "pref_label": "Mesencephalon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12510"
+        },
+        {
+            "definition": "The region of the medulla oblongata at which the fourth ventricle transitions into the central canal of the spinal cord.",
+            "identifier": "C92592",
+            "notation": "BRAIN, OBEX",
+            "pref_label": "Obex Region",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92592"
+        },
+        {
+            "definition": "The portion of the vertebrate forebrain that lies behind the ethmoid bones; it begins the rhinencephalon.",
+            "identifier": "C28401",
+            "notation": "BRAIN, OLFACTORY BULB",
+            "pref_label": "Olfactory Bulb",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C28401"
+        },
+        {
+            "alt_label": "Pons Varolii",
+            "definition": "The portion of the brainstem between the midbrain and medulla oblongata.",
+            "identifier": "C12511",
+            "notation": "BRAIN, PONS",
+            "pref_label": "Pons Varolii",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12511"
+        },
+        {
+            "definition": "The portion of the midbrain composed of two parts, the pars compacta and pars reticulata.",
+            "identifier": "C12453",
+            "notation": "BRAIN, SUBSTANTIA NIGRA",
+            "pref_label": "Substantia Nigra",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12453"
+        },
+        {
+            "definition": "The portion of the diencephalon forming most of each lateral wall of the third ventricle.",
+            "identifier": "C12459",
+            "notation": "BRAIN, THALAMUS",
+            "pref_label": "Thalamus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12459"
+        },
+        {
+            "definition": "A brain region in the occipital cortex that receives visual stimuli from the retina. (NCI)",
+            "identifier": "C97340",
+            "notation": "BRAIN, VISUAL CORTEX",
+            "pref_label": "Primary Visual Cortex",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C97340"
+        },
+        {
+            "alt_label": "Bronchi",
+            "definition": "Tubular structure in continuation with the trachea, serving as an air passage.",
+            "identifier": "C12683",
+            "notation": "BRONCHUS",
+            "pref_label": "Bronchus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12683"
+        },
+        {
+            "alt_label": "BALT",
+            "definition": "Lymphoid tissue located in the mucosa of the bronchi.",
+            "identifier": "C32234",
+            "notation": "BRONCHUS-ASSOCIATED LYMPHOID TISSUE",
+            "pref_label": "Bronchus-Associated Lymphoid Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32234"
+        },
+        {
+            "definition": "The middle fraction of an anticoagulated blood specimen following separation by centrifugation. It contains most of the white blood cells and platelets.",
+            "identifier": "C84507",
+            "notation": "BUFFY COAT",
+            "pref_label": "Buffy Coat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C84507"
+        },
+        {
+            "definition": "A region of the cloaca in avian species responsible for B-cell maturation.",
+            "identifier": "C111141",
+            "notation": "BURSA OF FABRICIUS",
+            "pref_label": "Bursa Of Fabricius",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C111141"
+        },
+        {
+            "alt_label": "Carina, Tracheal",
+            "definition": "A ridge at the bifurcation of the trachea where the primary bronchi meet.",
+            "identifier": "C25264",
+            "notation": "CARINA",
+            "pref_label": "Carina",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C25264"
+        },
+        {
+            "definition": "A cluster of cells that function as chemo-receptors, located near the bifurcation of the carotid artery.",
+            "identifier": "C66852",
+            "notation": "CAROTID BODY",
+            "pref_label": "Carotid Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C66852"
+        },
+        {
+            "alt_label": "Cartilaginous",
+            "definition": "A type of connective tissue composed of chondrocytes and an extracellular matrix. There are three types of cartilage; namely elastic, hyaline, and fibrocartilage.",
+            "identifier": "C32268",
+            "notation": "CARTILAGE",
+            "pref_label": "Cartilaginous Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32268"
+        },
+        {
+            "alt_label": "Cervix Uteri;Uterine Cervix",
+            "definition": "The portion of the uterus (or uterine horns) that empties into the vagina.",
+            "identifier": "C12311",
+            "notation": "CERVIX",
+            "pref_label": "Cervix Uteri",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12311"
+        },
+        {
+            "definition": "An invagination of the oral mucosa within the cheek of some mammals that forms a pocket.",
+            "identifier": "C111156",
+            "notation": "CHEEK POUCH",
+            "pref_label": "Cheek Pouch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C111156"
+        },
+        {
+            "definition": "The soft tissue on the lateral aspects of the face, generally bounded by the eyes, nose, ear, and jaw line.",
+            "identifier": "C13070",
+            "notation": "CHEEK",
+            "pref_label": "Cheek",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13070"
+        },
+        {
+            "definition": "The erectile tissue in the vulva. It is composed of the corpora cavernosa and the glans clitoris.",
+            "identifier": "C12308",
+            "notation": "CLITORIS",
+            "pref_label": "Clitoris",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12308"
+        },
+        {
+            "definition": "The singular posterior opening of the intestinal and urinary tracts of birds, reptiles, amphibians, marsupials and monotremes. (NCI)",
+            "identifier": "C34127",
+            "notation": "CLOACA",
+            "pref_label": "Cloaca",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C34127"
+        },
+        {
+            "definition": "A thin tissue divided into the palpebral conjunctiva (covering the inner side of the eye lid) and the bulbar conjunctiva (covering the eyeball). (NCI)",
+            "identifier": "C12341",
+            "notation": "CONJUNCTIVA",
+            "pref_label": "Conjunctiva",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12341"
+        },
+        {
+            "definition": "The part of the conjunctiva that covers the eyeball.",
+            "identifier": "C12902",
+            "notation": "CONJUNCTIVA, BULBAR",
+            "pref_label": "Bulbar Conjunctiva",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12902"
+        },
+        {
+            "definition": "The part of the conjunctiva that covers the inner surface of the eyelid.",
+            "identifier": "C12901",
+            "notation": "CONJUNCTIVA, PALPEBRAL",
+            "pref_label": "Palpebral Conjunctiva",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12901"
+        },
+        {
+            "definition": "The supporting or framework tissue of the body, formed of fibrous and ground substance with a variety of cell types. The varieties of connective tissue are: areolar or loose; adipose; dense, regular or irregular, white fibrous; elastic; mucous; lymphoid tissue; cartilage; bone.",
+            "identifier": "C12374",
+            "notation": "CONNECTIVE TISSUE",
+            "pref_label": "Connective Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12374"
+        },
+        {
+            "alt_label": "Uterine Body;Uterus, Corpus",
+            "definition": "The body of the uterus.",
+            "identifier": "C12316",
+            "notation": "CORPUS UTERI",
+            "pref_label": "Corpus Uteri",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12316"
+        },
+        {
+            "alt_label": "Costochondral Joint;Costochondral Junction, Rib",
+            "definition": "A synchondrosis between the rib and the costal cartilage.",
+            "identifier": "C32392",
+            "notation": "COSTOCHONDRAL JUNCTION",
+            "pref_label": "Costochondral Joint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32392"
+        },
+        {
+            "alt_label": "Ingluvies",
+            "definition": "A saccular expansion of the esophagus in most avian species that can be used for food storage.",
+            "identifier": "C111162",
+            "notation": "CROP",
+            "pref_label": "Crop",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C111162"
+        },
+        {
+            "definition": "A tube that carries various secretions from one part of the body to another. (NCI)",
+            "identifier": "C12948",
+            "notation": "DUCT",
+            "pref_label": "Duct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12948"
+        },
+        {
+            "definition": "Any of the ducts conveying bile between the liver and the intestine, including hepatic, cystic, and common bile duct.",
+            "identifier": "C12376",
+            "notation": "DUCT, BILE",
+            "pref_label": "Bile Duct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12376"
+        },
+        {
+            "definition": "A duct that conveys bile from the convergence of the cystic and hepatic duct to the duodenum.",
+            "identifier": "C12698",
+            "notation": "DUCT, COMMON BILE",
+            "pref_label": "Common Bile Duct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12698"
+        },
+        {
+            "definition": "A duct that conveys bile from the convergence of the left and right hepatic ducts to the common bile duct.",
+            "identifier": "C32356",
+            "notation": "DUCT, COMMON HEPATIC",
+            "pref_label": "Common Hepatic Duct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32356"
+        },
+        {
+            "definition": "A duct that conveys bile from the gallbladder to the common bile duct.",
+            "identifier": "C32421",
+            "notation": "DUCT, CYSTIC",
+            "pref_label": "Cystic Duct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32421"
+        },
+        {
+            "definition": "A duct or ducts that convey spermatozoa from the rete testis to the head of the epididymis.",
+            "identifier": "C32492",
+            "notation": "DUCT, EFFERENT",
+            "pref_label": "Efferent Duct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32492"
+        },
+        {
+            "definition": "A duct that conveys tears from the eye to the nasal cavity.",
+            "identifier": "C33161",
+            "notation": "DUCT, NASOLACRIMAL",
+            "pref_label": "Nasolacrimal Duct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33161"
+        },
+        {
+            "definition": "Any of the ducts that conveys pancreatic secretions from the pancreas to the duodenum.",
+            "identifier": "C154699",
+            "notation": "DUCT, PANCREATIC",
+            "pref_label": "Main Pancreatic and Accessory Ducts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C154699"
+        },
+        {
+            "definition": "A tubular structure that runs from the outer ear to the tympanic membrane.",
+            "identifier": "C12498",
+            "notation": "EAR CANAL",
+            "pref_label": "External Acoustic Meatus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12498"
+        },
+        {
+            "definition": "A sensory organ that contains auditory and vestibular apparatuses.",
+            "identifier": "C12394",
+            "notation": "EAR",
+            "pref_label": "Ear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12394"
+        },
+        {
+            "definition": "The snail shell-shaped auditory component of the inner ear.",
+            "identifier": "C12395",
+            "notation": "EAR, COCHLEA",
+            "pref_label": "Cochlea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12395"
+        },
+        {
+            "definition": "A crescent-like structure located adjacent to the testis. It consists of a single highly coiled duct and is divided into 3 regions: caput (head), corpus (body) and cauda (tail).",
+            "identifier": "C12328",
+            "notation": "EPIDIDYMIS",
+            "pref_label": "Epididymis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12328"
+        },
+        {
+            "definition": "The region of the epididymis that connects to the vas deferens.",
+            "identifier": "C33732",
+            "notation": "EPIDIDYMIS, CAUDA",
+            "pref_label": "Tail of the Epididymis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33732"
+        },
+        {
+            "definition": "The end of long bones that lies adjacent to the metaphysis.",
+            "identifier": "C32529",
+            "notation": "EPIPHYSIS",
+            "pref_label": "Epiphysis of the Bone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32529"
+        },
+        {
+            "definition": "The portion of the digestive tract between the pharynx and stomach.",
+            "identifier": "C12389",
+            "notation": "ESOPHAGUS",
+            "pref_label": "Esophagus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12389"
+        },
+        {
+            "alt_label": "Auditory Tube;Pharyngotympanic Tube;Tuba Auditoria",
+            "definition": "A tubular structure that extends from the middle ear to the nasopharynx.",
+            "identifier": "C12500",
+            "notation": "EUSTACHIAN TUBE",
+            "pref_label": "Eustachian Tube",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12500"
+        },
+        {
+            "alt_label": "Eyeball",
+            "definition": "The sensory organ of vision.",
+            "identifier": "C12401",
+            "notation": "EYE",
+            "pref_label": "Eye",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12401"
+        },
+        {
+            "definition": "The space in the eye filled with aqueous humor and bounded by the cornea, a small portion of the sclera, a small portion of the ciliary body, the iris and lens. (Cline et al., Dictionary of Visual Science, 4th ed, p109)",
+            "identifier": "C12667",
+            "notation": "EYE, ANTERIOR CHAMBER",
+            "pref_label": "Anterior Chamber of the Eye",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12667"
+        },
+        {
+            "alt_label": "Aqueous Humour",
+            "definition": "The watery fluid which is present in the anterior and posterior chambers of the eye. (NCI)",
+            "identifier": "C13190",
+            "notation": "EYE, AQUEOUS HUMOR",
+            "pref_label": "Aqueous Humor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13190"
+        },
+        {
+            "definition": "A blood vessel-containing membrane of the eye that lies between the retina and the sclera. (NCI)",
+            "identifier": "C12344",
+            "notation": "EYE, CHOROID",
+            "pref_label": "Choroid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12344"
+        },
+        {
+            "definition": "Circumferential tissue located behind the iris and composed of muscle and epithelium.",
+            "identifier": "C12345",
+            "notation": "EYE, CILIARY BODY",
+            "pref_label": "Ciliary Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12345"
+        },
+        {
+            "definition": "The transparent, avascular tissue covering the front of the eye and is continuous with the sclera.",
+            "identifier": "C12342",
+            "notation": "EYE, CORNEA",
+            "pref_label": "Cornea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12342"
+        },
+        {
+            "definition": "The tissue in the eye that separates the anterior chamber from the posterior chamber.",
+            "identifier": "C12737",
+            "notation": "EYE, IRIS",
+            "pref_label": "Iris",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12737"
+        },
+        {
+            "alt_label": "Crystalline Lens;Ocular Lens",
+            "definition": "The structure of the eye through which light is focused onto the retina.",
+            "identifier": "C12743",
+            "notation": "EYE, LENS",
+            "pref_label": "Lens",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12743"
+        },
+        {
+            "alt_label": "Eye, Posterior Compartment",
+            "definition": "A space within the eye located between the iris and the lens. It is filled with aqueous humor. (NCI)",
+            "identifier": "C12900",
+            "notation": "EYE, POSTERIOR CHAMBER",
+            "pref_label": "Posterior Chamber of the Eye",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12900"
+        },
+        {
+            "definition": "The sensory tissue in the posterior portion of the eye that contains photoreceptors.",
+            "identifier": "C49328",
+            "notation": "EYE, RETINA",
+            "pref_label": "Retina Layer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C49328"
+        },
+        {
+            "definition": "The fibrous, outer tunic of the eyeball that is continuous with the cornea.",
+            "identifier": "C12784",
+            "notation": "EYE, SCLERA",
+            "pref_label": "Sclera",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12784"
+        },
+        {
+            "alt_label": "Uvea",
+            "definition": "The pigmented layer of the eyeball between the tough, white outer coat of the eye and the retina. (NCI)",
+            "identifier": "C12811",
+            "notation": "EYE, UVEA",
+            "pref_label": "Uvea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12811"
+        },
+        {
+            "definition": "The clear gelatinous material that occupies the space between the lens and the retina.",
+            "identifier": "C33884",
+            "notation": "EYE, VITREOUS",
+            "pref_label": "Vitreous Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33884"
+        },
+        {
+            "alt_label": "Palpebra",
+            "definition": "The section of skin, containing muscle and conjunctiva, that covers and protects the eye.",
+            "identifier": "C12713",
+            "notation": "EYELID",
+            "pref_label": "Eyelid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12713"
+        },
+        {
+            "definition": "The portion of the head that contains the structures such as the eyes, nose, mouth, and jaws.",
+            "identifier": "C13071",
+            "notation": "FACE",
+            "pref_label": "Face",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13071"
+        },
+        {
+            "alt_label": "Feces",
+            "definition": "The material discharged from the bowel during defecation. It consists of undigested food, intestinal mucus, epithelial cells, and bacteria. (NCI)",
+            "identifier": "C13234",
+            "notation": "FECES",
+            "pref_label": "Feces",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13234"
+        },
+        {
+            "definition": "Any prenatal tissue that has developed past the embryonic stage.",
+            "identifier": "C17730",
+            "notation": "FETUS",
+            "pref_label": "Fetal Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C17730"
+        },
+        {
+            "definition": "Liquid substances produced by the body.",
+            "identifier": "C13236",
+            "notation": "FLUID",
+            "pref_label": "Body Fluid or Substance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13236"
+        },
+        {
+            "definition": "The fluid within the abdomen, which may contain peritoneal or other fluids.",
+            "identifier": "C77611",
+            "notation": "FLUID, ABDOMINAL",
+            "pref_label": "Abdominal Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77611"
+        },
+        {
+            "alt_label": "Aqua Amnii",
+            "definition": "The fluid within the amniotic cavity which surrounds and protects the developing embryo. (NCI)",
+            "identifier": "C13188",
+            "notation": "FLUID, AMNIOTIC",
+            "pref_label": "Amniotic Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13188"
+        },
+        {
+            "alt_label": "Bronchial Lavage Fluid;Fluid, Bronchial Lavage",
+            "definition": "Fluid introduced into, and collected from, the lungs by a bronchoalveolar lavage procedure. (NCI)",
+            "identifier": "C13195",
+            "notation": "FLUID, BRONCHOALVEOLAR LAVAGE",
+            "pref_label": "Bronchoalveolar Lavage Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13195"
+        },
+        {
+            "alt_label": "CSF",
+            "definition": "The fluid that is contained within the brain ventricles, the subarachnoid space and the central canal of the spinal cord. (NCI)",
+            "identifier": "C12692",
+            "notation": "FLUID, CEREBROSPINAL",
+            "pref_label": "Cerebrospinal Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12692"
+        },
+        {
+            "definition": "The fluid within the pericardial cavity.",
+            "identifier": "C3319",
+            "notation": "FLUID, PERICARDIAL",
+            "pref_label": "Pericardial Effusion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C3319"
+        },
+        {
+            "definition": "The fluid within the peritoneal cavity.",
+            "identifier": "C77612",
+            "notation": "FLUID, PERITONEAL",
+            "pref_label": "Peritoneal Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77612"
+        },
+        {
+            "definition": "The fluid within the pleural cavity.",
+            "identifier": "C77613",
+            "notation": "FLUID, PLEURAL",
+            "pref_label": "Pleural Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77613"
+        },
+        {
+            "alt_label": "Synovia",
+            "definition": "The fluid within a joint capsule.",
+            "identifier": "C33718",
+            "notation": "FLUID, SYNOVIAL",
+            "pref_label": "Synovial Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33718"
+        },
+        {
+            "definition": "Fluid that is present in the thoracic cavity.",
+            "identifier": "C125897",
+            "notation": "FLUID, THORAX",
+            "pref_label": "Thoracic Fluid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C125897"
+        },
+        {
+            "definition": "The entire structure distal to the ankle joint/tarsus, which includes the metatarsus and digit(s).",
+            "identifier": "C32622",
+            "notation": "FOOT",
+            "pref_label": "Foot",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32622"
+        },
+        {
+            "definition": "A thick, spongy layer of tissue located under the metacarpal and metatarsal joints of the foot. It consists of a pad of adipose tissue covered by a thick epidermis containing dermal sweat glands.",
+            "identifier": "C92654",
+            "notation": "FOOTPAD",
+            "pref_label": "Footpad",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92654"
+        },
+        {
+            "definition": "The anterior, front or upper limb of an animal.",
+            "identifier": "C176321",
+            "notation": "FORELIMB",
+            "pref_label": "Fore Limb",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C176321"
+        },
+        {
+            "definition": "A sac-like organ located adjacent to the liver that stores and concentrates bile produced by the liver.",
+            "identifier": "C12377",
+            "notation": "GALLBLADDER",
+            "pref_label": "Gallbladder",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12377"
+        },
+        {
+            "alt_label": "Ganglia;Ganglion;Neural Ganglion",
+            "definition": "A cluster of nervous tissue principally composed of neuronal cell bodies external to the central nervous system (CNS). (NCI)",
+            "identifier": "C12719",
+            "notation": "GANGLION",
+            "pref_label": "Ganglion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12719"
+        },
+        {
+            "definition": "Any of the sympathetic ganglia of the cervical vertebrae.",
+            "identifier": "C98713",
+            "notation": "GANGLION, CERVICAL",
+            "pref_label": "Cervical Ganglia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C98713"
+        },
+        {
+            "definition": "A sympathetic ganglion located near the junction of the cervical region and thorax.",
+            "identifier": "C92211",
+            "notation": "GANGLION, CERVICOTHORACIC",
+            "pref_label": "Inferior Cervical Ganglion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92211"
+        },
+        {
+            "alt_label": "Spinal Ganglion",
+            "definition": "Sensory ganglia located on the dorsal spinal roots within the vertebral column. (MeSH)",
+            "identifier": "C12462",
+            "notation": "GANGLION, DORSAL ROOT",
+            "pref_label": "Dorsal Root Ganglion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12462"
+        },
+        {
+            "alt_label": "Cochlear Ganglion",
+            "definition": "The sensory ganglion within the modiolus of the cochlea.",
+            "identifier": "C179825",
+            "notation": "GANGLION, SPIRAL",
+            "pref_label": "Spiral Ganglion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C179825"
+        },
+        {
+            "alt_label": "Gasserian Ganglion",
+            "definition": "Large sensory ganglion of the trigeminal nerve.",
+            "identifier": "C62642",
+            "notation": "GANGLION, TRIGEMINAL",
+            "pref_label": "Trigeminal Ganglion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C62642"
+        },
+        {
+            "definition": "A specimen that contains the trigeminal ganglion and the trigeminal nerve.",
+            "identifier": "C92214",
+            "notation": "GANGLION, TRIGEMINAL/NERVE, TRIGEMINAL",
+            "pref_label": "Trigeminal Ganglion/Trigeminal Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92214"
+        },
+        {
+            "alt_label": "Stomach Contents",
+            "definition": "The contents of the stomach that may include undigested food mixed with juices secreted by the gastric mucosal glands. (NCI)",
+            "identifier": "C77614",
+            "notation": "GASTRIC CONTENTS",
+            "pref_label": "Gastric Content",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77614"
+        },
+        {
+            "definition": "A respiratory organ found in aquatic animals that allows for the exchange of dissolved oxygen from water into the blood stream. (NCI)",
+            "identifier": "C92593",
+            "notation": "GILLS",
+            "pref_label": "Gill",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92593"
+        },
+        {
+            "alt_label": "Gum",
+            "definition": "The soft tissue surrounding the neck of individual teeth as well as covering the alveolar bone. The tissue is fibrous and continuous with the periodontal ligament and mucosal covering. (NCI)",
+            "identifier": "C32677",
+            "notation": "GINGIVA",
+            "pref_label": "Gingiva",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32677"
+        },
+        {
+            "alt_label": "Nictitans Gland",
+            "definition": "A gland producing tears in a third eyelid.",
+            "identifier": "C77616",
+            "notation": "GLAND OF THE THIRD EYELID",
+            "pref_label": "Gland of the Third Eyelid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77616"
+        },
+        {
+            "definition": "The endocrine glands adjacent to the kidneys that consist of the outer adrenal cortex and the inner adrenal medulla in mammals.",
+            "identifier": "C12666",
+            "notation": "GLAND, ADRENAL",
+            "pref_label": "Adrenal Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12666"
+        },
+        {
+            "definition": "The exocrine glands of the male reproductive system located at the terminal portion of the ductus deferens.",
+            "identifier": "C77955",
+            "notation": "GLAND, AMPULLARY",
+            "pref_label": "Ampullary Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77955"
+        },
+        {
+            "definition": "Apocrine gland located in the wall of the anal sac.",
+            "identifier": "C125895",
+            "notation": "GLAND, ANAL SAC",
+            "pref_label": "Experimental Organism Anal Sac Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C125895"
+        },
+        {
+            "definition": "A compound tubular gland located in the submucosa of the proximal part of the duodenum.",
+            "identifier": "C13010",
+            "notation": "GLAND, BRUNNER'S",
+            "pref_label": "Brunner's Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13010"
+        },
+        {
+            "alt_label": "Cowper's Gland",
+            "definition": "The exocrine glands of the male reproductive system located at the base of the penis.",
+            "identifier": "C32395",
+            "notation": "GLAND, BULBOURETHRAL",
+            "pref_label": "Cowper Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32395"
+        },
+        {
+            "definition": "Superficial sebaceous glands located around the anus and contain fat. (Textbook of Small Animal Surgery - Volume 1. Slatter D (Ed.) (2003) Elsevier Health Sciences, Philadelpha PA)",
+            "identifier": "C77610",
+            "notation": "GLAND, CIRCUMANAL",
+            "pref_label": "Circumanal Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77610"
+        },
+        {
+            "definition": "Exocrine gland of the female reproductive system located under the skin adjacent to the vulva.",
+            "identifier": "C77617",
+            "notation": "GLAND, CLITORAL",
+            "pref_label": "Clitoral Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77617"
+        },
+        {
+            "definition": "The portion of the prostate, which when present, is adjacent to the seminal vesicles.",
+            "identifier": "C77618",
+            "notation": "GLAND, COAGULATING",
+            "pref_label": "Coagulating Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77618"
+        },
+        {
+            "definition": "The glands present in the endometrium or inner layer of the uterus.",
+            "identifier": "C33842",
+            "notation": "GLAND, ENDOMETRIAL",
+            "pref_label": "Uterine Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33842"
+        },
+        {
+            "definition": "The accessory sebaceous glands of the orbit.",
+            "identifier": "C77619",
+            "notation": "GLAND, HARDERIAN",
+            "pref_label": "Harderian Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77619"
+        },
+        {
+            "definition": "The exocrine glands that produce the watery serous component of tears.",
+            "identifier": "C12346",
+            "notation": "GLAND, LACRIMAL",
+            "pref_label": "Lacrimal Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12346"
+        },
+        {
+            "definition": "The exocrine glands of the mammae that produce milk in females, and are composed of lobules, alveolar ducts and alveoli.",
+            "identifier": "C12367",
+            "notation": "GLAND, MAMMARY",
+            "pref_label": "Mammary Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12367"
+        },
+        {
+            "definition": "A sebaceous gland in the eyelid that produces meibum.",
+            "identifier": "C33075",
+            "notation": "GLAND, MEIBOMIAN",
+            "pref_label": "Meibomian Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33075"
+        },
+        {
+            "definition": "Endocrine gland, usually in close proximity to the thyroid gland, that produces parathyroid hormone.",
+            "identifier": "C12765",
+            "notation": "GLAND, PARATHYROID",
+            "pref_label": "Parathyroid Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12765"
+        },
+        {
+            "definition": "Deep sebaceous glands located around the anus and contain no fat. (Textbook of Small Animal Surgery - Volume 1. Slatter D (Ed.) (2003) Elsevier Health Sciences, Philadelpha PA)",
+            "identifier": "C77620",
+            "notation": "GLAND, PERIANAL",
+            "pref_label": "Perianal Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77620"
+        },
+        {
+            "alt_label": "Pineal Body",
+            "definition": "A small endocrine gland that arises from the central posterior aspect of the diencephalon.",
+            "identifier": "C12398",
+            "notation": "GLAND, PINEAL",
+            "pref_label": "Pineal Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12398"
+        },
+        {
+            "alt_label": "Hypophysis;Hypophysis Cerebri",
+            "definition": "A small endocrine gland extending from the hypothalamus at the base of the brain.",
+            "identifier": "C12399",
+            "notation": "GLAND, PITUITARY",
+            "pref_label": "Pituitary Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12399"
+        },
+        {
+            "definition": "Exocrine glands of the male reproductive system located adjacent to the prepuce.",
+            "identifier": "C79432",
+            "notation": "GLAND, PREPUTIAL",
+            "pref_label": "Preputial Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C79432"
+        },
+        {
+            "definition": "A specimen that contains either the preputial or clitoral glands.",
+            "identifier": "C117978",
+            "notation": "GLAND, PREPUTIAL/GLAND, CLITORAL",
+            "pref_label": "Preputial Gland/Clitoral Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C117978"
+        },
+        {
+            "definition": "A lobe of the prostate gland located on the dorsolateral aspect of the proximal urethra.",
+            "identifier": "C77622",
+            "notation": "GLAND, PROSTATE DORSOLATERAL",
+            "pref_label": "Dorsolateral Prostate Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77622"
+        },
+        {
+            "definition": "A lobe of the prostate gland located on the ventral aspect of the proximal urethra.",
+            "identifier": "C77623",
+            "notation": "GLAND, PROSTATE VENTRAL",
+            "pref_label": "Ventral Prostate Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77623"
+        },
+        {
+            "definition": "The male reproductive accessory gland that produces prostatic fluid and is located adjacent to or around the urethra distal to the urinary bladder in mammals.",
+            "identifier": "C12410",
+            "notation": "GLAND, PROSTATE",
+            "pref_label": "Prostate Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12410"
+        },
+        {
+            "definition": "A specimen that contains the prostate and seminal vesicles.",
+            "identifier": "C77670",
+            "notation": "GLAND, PROSTATE/GLAND, SEMINAL VESICLE",
+            "pref_label": "Prostate/Seminal Vesicles",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77670"
+        },
+        {
+            "definition": "Any number of exocrine glands that secrete saliva into the oral cavity.",
+            "identifier": "C12426",
+            "notation": "GLAND, SALIVARY",
+            "pref_label": "Salivary Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12426"
+        },
+        {
+            "definition": "Salivary glands that produce and secrete a saliva made up exclusively of mucous. (NCI)",
+            "identifier": "C33141",
+            "notation": "GLAND, SALIVARY, MUCOUS",
+            "pref_label": "Mucous Salivary Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33141"
+        },
+        {
+            "definition": "The salivary gland located adjacent to the ear.",
+            "identifier": "C12427",
+            "notation": "GLAND, SALIVARY, PAROTID",
+            "pref_label": "Parotid Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12427"
+        },
+        {
+            "definition": "Salivary glands that produce and secrete a saliva made up exclusively of a pale-yellow transparent fluid containing amylase. (NCI)",
+            "identifier": "C33539",
+            "notation": "GLAND, SALIVARY, SEROUS",
+            "pref_label": "Serous Salivary Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33539"
+        },
+        {
+            "definition": "The salivary gland located under the tongue in the floor of the oral cavity or adjacent to the submandibular salivary gland.",
+            "identifier": "C12234",
+            "notation": "GLAND, SALIVARY, SUBLINGUAL",
+            "pref_label": "Sublingual Salivary Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12234"
+        },
+        {
+            "alt_label": "Gland, Salivary, Mandibular;Submaxillary Gland",
+            "definition": "The salivary gland located adjacent to the mandible.",
+            "identifier": "C12233",
+            "notation": "GLAND, SALIVARY, SUBMANDIBULAR",
+            "pref_label": "Submandibular Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12233"
+        },
+        {
+            "definition": "A specimen that contains the submandibular and sublingual salivary glands.",
+            "identifier": "C92215",
+            "notation": "GLAND, SALIVARY, SUBMANDIBULAR/GLAND, SALIVARY, SUBLINGUAL",
+            "pref_label": "Submandibular Gland/Sublingual Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92215"
+        },
+        {
+            "definition": "The salivary gland located adjacent to the zygomatic arch.",
+            "identifier": "C77624",
+            "notation": "GLAND, SALIVARY, ZYGOMATIC",
+            "pref_label": "Zygomatic Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77624"
+        },
+        {
+            "definition": "Small glands located within the skin that are usually associated with the hair follicle.",
+            "identifier": "C33519",
+            "notation": "GLAND, SEBACEOUS",
+            "pref_label": "Sebaceous Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33519"
+        },
+        {
+            "alt_label": "Seminal Sacs",
+            "definition": "A mammalian male reproductive accessory gland located adjacent to the urinary bladder and proximal to the prostate.",
+            "identifier": "C12787",
+            "notation": "GLAND, SEMINAL VESICLE",
+            "pref_label": "Seminal Vesicle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12787"
+        },
+        {
+            "definition": "A specimen that contains a seminal vesicle and coagulating gland.",
+            "identifier": "C92216",
+            "notation": "GLAND, SEMINAL VESICLE/GLAND, COAGULATING",
+            "pref_label": "Seminal Vesicle/Coagulating Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92216"
+        },
+        {
+            "definition": "Endocrine gland(s) adjacent to the trachea in mammals that produce thyroxine and other hormones.",
+            "identifier": "C12400",
+            "notation": "GLAND, THYROID",
+            "pref_label": "Thyroid Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12400"
+        },
+        {
+            "definition": "A specimen that contains the thyroid and parathyroid glands.",
+            "identifier": "C77667",
+            "notation": "GLAND, THYROID/GLAND, PARATHYROID",
+            "pref_label": "Thyroid/Parathyroid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77667"
+        },
+        {
+            "definition": "A sebaceous gland in the eyelid that produces an oily substance that lubricates the eyelashes.",
+            "identifier": "C33521",
+            "notation": "GLAND, ZEIS",
+            "pref_label": "Sebaceous Gland of the Eyelash",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33521"
+        },
+        {
+            "definition": "A sebaceous gland located at the base of the rodent external ear.",
+            "identifier": "C77954",
+            "notation": "GLAND, ZYMBAL",
+            "pref_label": "Zymbal Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77954"
+        },
+        {
+            "definition": "A reproductive organ that produces gametes.",
+            "identifier": "C12725",
+            "notation": "GONAD",
+            "pref_label": "Gonad",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12725"
+        },
+        {
+            "definition": "The uterus during pregnancy. (NCI)",
+            "identifier": "C77639",
+            "notation": "GRAVID UTERUS",
+            "pref_label": "Gravid Uterus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77639"
+        },
+        {
+            "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part. (NCI)",
+            "identifier": "C3824",
+            "notation": "GROSS LESION",
+            "pref_label": "Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C3824"
+        },
+        {
+            "alt_label": "GALT",
+            "definition": "Lymphoid tissue located in the mucosa of the digestive tract.",
+            "identifier": "C12936",
+            "notation": "GUT-ASSOCIATED LYMPHOID TISSUE",
+            "pref_label": "Gut-Associated Lymphoid Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12936"
+        },
+        {
+            "alt_label": "Hair",
+            "definition": "The filamentous outgrowth of the epidermis. (NCI)",
+            "identifier": "C32705",
+            "notation": "HAIR",
+            "pref_label": "Hair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32705"
+        },
+        {
+            "alt_label": "Hand",
+            "definition": "The distal portion of the upper extremity. It consists of the carpus, metacarpus, and digits. (NCI)",
+            "identifier": "C32712",
+            "notation": "HAND",
+            "pref_label": "Hand",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32712"
+        },
+        {
+            "definition": "The portion of the body containing the mouth, the brain and multiple sensory organs.",
+            "identifier": "C12419",
+            "notation": "HEAD",
+            "pref_label": "Head",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12419"
+        },
+        {
+            "definition": "A hollow muscular organ which receives the blood from the veins and pumps it into the arteries.",
+            "identifier": "C12727",
+            "notation": "HEART",
+            "pref_label": "Heart",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12727"
+        },
+        {
+            "alt_label": "Hematopoietic And Lymphoid Tissue",
+            "definition": "Any of the tissues that contain hematopoietic cells and/or lymphocytes and immune system cells.",
+            "identifier": "C41168",
+            "notation": "HEMOLYMPHORETICULAR TISSUE",
+            "pref_label": "Hematopoietic and Lymphoid Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C41168"
+        },
+        {
+            "definition": "The posterior, rear or lower limb of an animal.",
+            "identifier": "C77625",
+            "notation": "HINDLIMB",
+            "pref_label": "Hind Limb",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77625"
+        },
+        {
+            "definition": "The keratinized, outer portion of the foot of a ungulate mammal.",
+            "identifier": "C77626",
+            "notation": "HOOF WALL",
+            "pref_label": "Hoof Wall",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77626"
+        },
+        {
+            "alt_label": "Ileocecal Region",
+            "definition": "The segment of the gastrointestinal tract where the terminal ileum transitions to the cecum, and where the ileocecal sphincter regulates the movement of chyme from the small intestine into the large intestine. (NCI)",
+            "identifier": "C178001",
+            "notation": "ILEOCECAL JUNCTION",
+            "pref_label": "Ileocecal Junction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C178001"
+        },
+        {
+            "alt_label": "Ileocecocolic Junction;Ileocolocaecal Area",
+            "definition": "Transitional area involving the terminal ileum, cecum and beginning of the colon.",
+            "identifier": "C179826",
+            "notation": "ILEOCECOCOLIC REGION",
+            "pref_label": "Ileocecocolic Region",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C179826"
+        },
+        {
+            "alt_label": "Internal Ear;Labyrinth",
+            "definition": "The innermost portion of the ear that contains the vestibule, cochlea and semicircular canals.",
+            "identifier": "C12499",
+            "notation": "INNER EAR",
+            "pref_label": "Inner Ear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12499"
+        },
+        {
+            "alt_label": "Interventricular Septal Wall",
+            "definition": "The wall that separates the left and right ventricles of the heart. (NCI)",
+            "identifier": "C32874",
+            "notation": "INTERVENTRICULAR SEPTUM",
+            "pref_label": "Interventricular Septum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32874"
+        },
+        {
+            "definition": "Spongy discs located between the vertebrae of the spinal column; composed of the outer annulus fibrosus and inner nucleus pulposus. (NCI)",
+            "identifier": "C49571",
+            "notation": "INTERVERTEBRAL DISC",
+            "pref_label": "Intervertebral Disc",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C49571"
+        },
+        {
+            "definition": "The portion of the gastrointestinal tract that includes the small and large intestines.",
+            "identifier": "C12736",
+            "notation": "INTESTINE",
+            "pref_label": "Intestine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12736"
+        },
+        {
+            "alt_label": "Articulation;Joint",
+            "definition": "The connection point between two bones or skeletal elements. The joint may be fixed or movable. (NCI)",
+            "identifier": "C13044",
+            "notation": "JOINT",
+            "pref_label": "Joint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13044"
+        },
+        {
+            "definition": "A joint formed between carpal bones. (NCI)",
+            "identifier": "C32264",
+            "notation": "JOINT, CARPUS",
+            "pref_label": "Carpal Joint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32264"
+        },
+        {
+            "alt_label": "Elbow;Elbow Joint",
+            "definition": "A joint involving the humerus, radius and ulna bones.",
+            "identifier": "C32497",
+            "notation": "JOINT, ELBOW",
+            "pref_label": "Elbow Joint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32497"
+        },
+        {
+            "alt_label": "Femorotibial Joint;Joint, Stifle;Knee;Tibiofemoral Joint",
+            "definition": "The joint connecting the lower part of the femur with the upper part of the tibia.",
+            "identifier": "C32898",
+            "notation": "JOINT, FEMOROTIBIAL",
+            "pref_label": "Knee Joint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32898"
+        },
+        {
+            "alt_label": "Coxofemoral Joint;Hip Joint",
+            "definition": "A ball-and-socket joint between the head of the femur and the acetabulum. (NCI)",
+            "identifier": "C32742",
+            "notation": "JOINT, HIP",
+            "pref_label": "Hip Joint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32742"
+        },
+        {
+            "definition": "The joint connecting the scapula and the proximal portion of the humerus.",
+            "identifier": "C111308",
+            "notation": "JOINT, SCAPULOHUMERAL",
+            "pref_label": "Scapulohumeral Joint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C111308"
+        },
+        {
+            "definition": "A joint formed by the union of tarsal bones.",
+            "identifier": "C33735",
+            "notation": "JOINT, TARSUS",
+            "pref_label": "Tarsal Joint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33735"
+        },
+        {
+            "definition": "The organs of the urinary tract located in the retroperitoneal cavity adjacent to the spine and composed of the renal cortex and the renal medulla.",
+            "identifier": "C12415",
+            "notation": "KIDNEY",
+            "pref_label": "Kidney",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12415"
+        },
+        {
+            "definition": "The junction of the upper and lower lips at the corner of the mouth. (NCI)",
+            "identifier": "C12227",
+            "notation": "LABIAL JUNCTION",
+            "pref_label": "Commissure of the Lip",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12227"
+        },
+        {
+            "definition": "One of the two longitudinal folds of skin that form the lateral boundary of the vulva.",
+            "identifier": "C12306",
+            "notation": "LABIUM MAJUS",
+            "pref_label": "Labium Majus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12306"
+        },
+        {
+            "definition": "One of the two longitudinal folds of skin located between the labia majora.",
+            "identifier": "C12307",
+            "notation": "LABIUM MINUS",
+            "pref_label": "Labium Minus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12307"
+        },
+        {
+            "definition": "The ascending colon of the horse. (NCI)",
+            "identifier": "C92439",
+            "notation": "LARGE COLON",
+            "pref_label": "Large Colon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92439"
+        },
+        {
+            "alt_label": "Large Bowel",
+            "definition": "The avillous section of the intestine composed of crypts and extending from the terminal small intestine to the external orifice.",
+            "identifier": "C12379",
+            "notation": "LARGE INTESTINE",
+            "pref_label": "Large Intestine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12379"
+        },
+        {
+            "definition": "The distal orifice of the digestive tract located between the rectum and the external surface of the body, comprising glandular, transitional, and squamous epithelium.",
+            "identifier": "C43362",
+            "notation": "LARGE INTESTINE, ANUS",
+            "pref_label": "Anus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C43362"
+        },
+        {
+            "definition": "A pouch-like tissue attached to the cecum, which may exist as a diverticulum.",
+            "identifier": "C12380",
+            "notation": "LARGE INTESTINE, APPENDIX",
+            "pref_label": "Appendix",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12380"
+        },
+        {
+            "definition": "The pouch-like portion of the proximal large intestine opening into the colon.",
+            "identifier": "C12381",
+            "notation": "LARGE INTESTINE, CECUM",
+            "pref_label": "Cecum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12381"
+        },
+        {
+            "definition": "The portion of the large intestine which extends from the cecum (or small intestine in animals that don't have a cecum) to the rectum.",
+            "identifier": "C12382",
+            "notation": "LARGE INTESTINE, COLON",
+            "pref_label": "Colon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12382"
+        },
+        {
+            "definition": "The terminal portion of the large intestine extending from the terminus of the colon to the anus or anal canal.",
+            "identifier": "C12390",
+            "notation": "LARGE INTESTINE, RECTUM",
+            "pref_label": "Rectum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12390"
+        },
+        {
+            "definition": "A specimen that contains the rectum and anus.",
+            "identifier": "C92217",
+            "notation": "LARGE INTESTINE, RECTUM/LARGE INTESTINE, ANUS",
+            "pref_label": "Rectum/Anus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92217"
+        },
+        {
+            "definition": "An accessory mucosal membranous diverticulum of the laryngeal region, found in certain nonhuman primates.",
+            "identifier": "C122233",
+            "notation": "LARYNGEAL POUCH",
+            "pref_label": "Laryngeal Pouch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C122233"
+        },
+        {
+            "definition": "The cartilaginous structure of the respiratory tract between the pharynx and the trachea.",
+            "identifier": "C12420",
+            "notation": "LARYNX",
+            "pref_label": "Larynx",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12420"
+        },
+        {
+            "alt_label": "Ligament",
+            "definition": "Band of fibrous tissue connecting bone to bone or cartilage to bone thereby supporting or strengthening a joint. (NCI)",
+            "identifier": "C13046",
+            "notation": "LIGAMENT",
+            "pref_label": "Ligament",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13046"
+        },
+        {
+            "alt_label": "Extremity",
+            "definition": "A jointed extremity of the upper/thoracic or lower/pelvic regions.",
+            "identifier": "C12429",
+            "notation": "LIMB",
+            "pref_label": "Limb",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12429"
+        },
+        {
+            "alt_label": "Lip;Vermillion of the Lip",
+            "definition": "Fleshy fold which surrounds the opening of the mouth. (NCI)",
+            "identifier": "C12220",
+            "notation": "LIP",
+            "pref_label": "Lip",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12220"
+        },
+        {
+            "definition": "An abdominal organ that has variable lobation which are composed mainly of hepatic lobules.",
+            "identifier": "C12392",
+            "notation": "LIVER",
+            "pref_label": "Liver",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12392"
+        },
+        {
+            "definition": "A specimen that contains the liver and gallbladder.",
+            "identifier": "C77669",
+            "notation": "LIVER/GALLBLADDER",
+            "pref_label": "Liver/Gallbladder",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77669"
+        },
+        {
+            "definition": "A thoracic organ that has variable lobation and is the primary respiratory organ of mammals.",
+            "identifier": "C12468",
+            "notation": "LUNG",
+            "pref_label": "Lung",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12468"
+        },
+        {
+            "definition": "A specimen that contains lung and bronchial tissues.",
+            "identifier": "C92218",
+            "notation": "LUNG/BRONCHUS",
+            "pref_label": "Lung/Bronchus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92218"
+        },
+        {
+            "definition": "A tissue sample that contains the lung, bronchus, trachea, and larynx.",
+            "identifier": "C129005",
+            "notation": "LUNG/BRONCHUS/TRACHEA/LARYNX",
+            "pref_label": "Lung/Bronchus/Trachea/Larynx",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C129005"
+        },
+        {
+            "alt_label": "Lymphatic Gland",
+            "definition": "Secondary lymphoid organ associated with lymphatic vessels and consisting of an outer cortex, inner medulla and sinuses.",
+            "identifier": "C12745",
+            "notation": "LYMPH NODE",
+            "pref_label": "Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12745"
+        },
+        {
+            "definition": "Lymph node(s) in the axillary region.",
+            "identifier": "C12904",
+            "notation": "LYMPH NODE, AXILLARY",
+            "pref_label": "Axillary Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12904"
+        },
+        {
+            "definition": "Lymph node(s) adjacent to the brachial vein.",
+            "identifier": "C92221",
+            "notation": "LYMPH NODE, BRACHIAL",
+            "pref_label": "Brachial Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92221"
+        },
+        {
+            "definition": "Lymph node(s) adjacent to the bronchi.",
+            "identifier": "C32232",
+            "notation": "LYMPH NODE, BRONCHIAL",
+            "pref_label": "Bronchial Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32232"
+        },
+        {
+            "definition": "Lymph node(s) in the cervical region, or neck.",
+            "identifier": "C32298",
+            "notation": "LYMPH NODE, CERVICAL",
+            "pref_label": "Cervical Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32298"
+        },
+        {
+            "definition": "Lymph node(s) in the side of the neck, cranial to the scapula and lateral to the deep cervical lymph node.",
+            "identifier": "C33659",
+            "notation": "LYMPH NODE, CERVICAL, SUPERFICIAL",
+            "pref_label": "Superficial Cervical Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33659"
+        },
+        {
+            "definition": "The lymph node or group of lymph nodes that drain a particular anatomic site or organ.",
+            "identifier": "C150905",
+            "notation": "LYMPH NODE, DRAINING",
+            "pref_label": "Draining Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C150905"
+        },
+        {
+            "definition": "Lymph node(s) adjacent to the stomach.",
+            "identifier": "C92222",
+            "notation": "LYMPH NODE, GASTRIC",
+            "pref_label": "Gastric Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92222"
+        },
+        {
+            "definition": "Lymph node(s) adjacent to the liver.",
+            "identifier": "C77640",
+            "notation": "LYMPH NODE, HEPATIC",
+            "pref_label": "Hepatic Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77640"
+        },
+        {
+            "definition": "Lymph node(s) adjacent to the ileocecocolic junction.",
+            "identifier": "C77653",
+            "notation": "LYMPH NODE, ILEOCECOCOLIC",
+            "pref_label": "Ileocecocolic Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77653"
+        },
+        {
+            "definition": "Lymph node(s) adjacent to the iliac vessels in the iliosacral region and cranial to the iliofemoral lymph node.",
+            "identifier": "C32761",
+            "notation": "LYMPH NODE, ILIAC",
+            "pref_label": "Iliac Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32761"
+        },
+        {
+            "definition": "Lymph node(s) in the inguinal region.",
+            "identifier": "C32801",
+            "notation": "LYMPH NODE, INGUINAL",
+            "pref_label": "Inguinal Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32801"
+        },
+        {
+            "definition": "Lymph node(s) in the intercostal space.",
+            "identifier": "C77652",
+            "notation": "LYMPH NODE, INTERCOSTAL",
+            "pref_label": "Intercostal Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77652"
+        },
+        {
+            "alt_label": "Lymph Node, Para-Aortic",
+            "definition": "Lymph node(s) adjacent to the lumbar vertebral column.",
+            "identifier": "C77643",
+            "notation": "LYMPH NODE, LUMBAR",
+            "pref_label": "Paraaortic Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77643"
+        },
+        {
+            "definition": "Lymph node(s) in or adjacent to the mammary gland.",
+            "identifier": "C32853",
+            "notation": "LYMPH NODE, MAMMARY GLAND",
+            "pref_label": "Internal Mammary Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32853"
+        },
+        {
+            "alt_label": "Lymph Node, Submandibular",
+            "definition": "Lymph node(s) adjacent to the mandible.",
+            "identifier": "C77650",
+            "notation": "LYMPH NODE, MANDIBULAR",
+            "pref_label": "Submandibular Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77650"
+        },
+        {
+            "definition": "Lymph node(s) in the mediastinal region.",
+            "identifier": "C33073",
+            "notation": "LYMPH NODE, MEDIASTINAL",
+            "pref_label": "Mediastinal Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33073"
+        },
+        {
+            "definition": "Lymph node(s) in or adjacent to the mesentery.",
+            "identifier": "C77641",
+            "notation": "LYMPH NODE, MESENTERIC",
+            "pref_label": "Mesenteric Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77641"
+        },
+        {
+            "definition": "Lymph node(s) in or adjacent to the pancreas.",
+            "identifier": "C77642",
+            "notation": "LYMPH NODE, PANCREATIC",
+            "pref_label": "Pancreatic Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77642"
+        },
+        {
+            "alt_label": "Parotid Gland Lymph Node",
+            "definition": "Lymph node(s) in or adjacent to the parotid gland.",
+            "identifier": "C33278",
+            "notation": "LYMPH NODE, PAROTID",
+            "pref_label": "Parotid Gland Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33278"
+        },
+        {
+            "definition": "Lymph node(s) adjacent to the femorotibial joint.",
+            "identifier": "C53146",
+            "notation": "LYMPH NODE, POPLITEAL",
+            "pref_label": "Popliteal Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C53146"
+        },
+        {
+            "alt_label": "Periportal Lymph Node",
+            "definition": "Lymph node(s) adjacent to the portal vein.",
+            "identifier": "C77645",
+            "notation": "LYMPH NODE, PORTAL",
+            "pref_label": "Portal Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77645"
+        },
+        {
+            "definition": "Lymph node(s) that drains the lymph from a region of interest.",
+            "identifier": "C49018",
+            "notation": "LYMPH NODE, REGIONAL",
+            "pref_label": "Regional Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C49018"
+        },
+        {
+            "definition": "Lymph node(s) adjacent to the hilar region of the kidney.",
+            "identifier": "C77646",
+            "notation": "LYMPH NODE, RENAL",
+            "pref_label": "Renal Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77646"
+        },
+        {
+            "alt_label": "Suprapharyngeal Lymph Node",
+            "definition": "Lymph node(s) in the retropharyngeal space.",
+            "identifier": "C77649",
+            "notation": "LYMPH NODE, RETROPHARYNGEAL",
+            "pref_label": "Retropharyngeal Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77649"
+        },
+        {
+            "definition": "Lymph node(s) in the sacral region.",
+            "identifier": "C77647",
+            "notation": "LYMPH NODE, SACRAL",
+            "pref_label": "Sacral Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77647"
+        },
+        {
+            "definition": "Lymph node(s) in the inguinofemoral region.",
+            "identifier": "C92594",
+            "notation": "LYMPH NODE, SUBILIAC",
+            "pref_label": "Subiliac Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92594"
+        },
+        {
+            "definition": "Lymph node(s) adjacent to the tongue in the floor of the oral cavity.",
+            "identifier": "C92434",
+            "notation": "LYMPH NODE, SUBLINGUAL",
+            "pref_label": "Sublingual Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92434"
+        },
+        {
+            "definition": "Lymph node(s) adjacent to the bifurcation of the trachea.",
+            "identifier": "C77651",
+            "notation": "LYMPH NODE, TRACHEOBRONCHIAL",
+            "pref_label": "Tracheobronchial Lymph Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77651"
+        },
+        {
+            "definition": "A benign or malignant pathologic structure in any part of the body resulting from cystic changes or accumulation of inflammatory or neoplastic cells.",
+            "identifier": "C34808",
+            "notation": "MASS",
+            "pref_label": "Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C34808"
+        },
+        {
+            "definition": "The central region of the thoracic cavity of mammals containing a group of organs surrounded by loose connective tissue, which separates the two pleural sacs.",
+            "identifier": "C12748",
+            "notation": "MEDIASTINUM",
+            "pref_label": "Mediastinum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12748"
+        },
+        {
+            "definition": "A translucent membrane present in the eye of some animals, also called the third eyelid.",
+            "identifier": "C77657",
+            "notation": "MEMBRANE, NICTITATING",
+            "pref_label": "Nictitating Membrane",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77657"
+        },
+        {
+            "definition": "Any one of three membranes that surround the brain and spinal cord. (NCI)",
+            "identifier": "C12348",
+            "notation": "MENINGES",
+            "pref_label": "Meninges",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12348"
+        },
+        {
+            "definition": "Cartilaginous material that serves as a cushion between the tuberosities of the femur and the tibia.",
+            "identifier": "C33096",
+            "notation": "MENISCUS",
+            "pref_label": "Meniscus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33096"
+        },
+        {
+            "definition": "A meniscus located towards the outer aspect of the femorotibial joint.",
+            "identifier": "C33097",
+            "notation": "MENISCUS, LATERAL",
+            "pref_label": "Meniscus Lateralis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33097"
+        },
+        {
+            "definition": "A meniscus located towards the inner aspect of the knee/stifle joint.",
+            "identifier": "C33098",
+            "notation": "MENISCUS, MEDIAL",
+            "pref_label": "Meniscus Medialis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33098"
+        },
+        {
+            "definition": "A double layer of peritoneum that attaches to the wall of the abdominal cavity and supports the small intestines.",
+            "identifier": "C33103",
+            "notation": "MESENTERY",
+            "pref_label": "Mesentery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33103"
+        },
+        {
+            "definition": "A specimen that contains mesentery and peritoneum.",
+            "identifier": "C92435",
+            "notation": "MESENTERY/PERITONEUM",
+            "pref_label": "Mesentery/Peritoneum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92435"
+        },
+        {
+            "definition": "The peritoneal fold that covers and attaches the ovary to the broad ligament. (NCI)",
+            "identifier": "C92440",
+            "notation": "MESOVARIAN LIGAMENTS",
+            "pref_label": "Mesovarium",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92440"
+        },
+        {
+            "definition": "The part of the ear including the eardrum and ossicles.",
+            "identifier": "C12274",
+            "notation": "MIDDLE EAR",
+            "pref_label": "Middle Ear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12274"
+        },
+        {
+            "definition": "The fluid that remains after removing the fat and casein from the milk. (NCI)",
+            "identifier": "C77658",
+            "notation": "MILK SERUM",
+            "pref_label": "Milk Serum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77658"
+        },
+        {
+            "definition": "A liquid produced by the mammary gland.",
+            "identifier": "C13257",
+            "notation": "MILK",
+            "pref_label": "Breast Milk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13257"
+        },
+        {
+            "definition": "The mucosal membranes located on the inside of the cheek, in the buccal cavity. (NCI)",
+            "identifier": "C12505",
+            "notation": "MUCOSA, BUCCAL",
+            "pref_label": "Buccal Mucosa",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12505"
+        },
+        {
+            "definition": "The mucosal membranes that line the nasal cavity.",
+            "identifier": "C33205",
+            "notation": "MUCOSA, NASAL",
+            "pref_label": "Olfactory Mucosa",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33205"
+        },
+        {
+            "definition": "The mucosal membranes that line the oral cavity.",
+            "identifier": "C77637",
+            "notation": "MUCOSA, ORAL",
+            "pref_label": "Oral Mucosa",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77637"
+        },
+        {
+            "definition": "The thick fluid secreted by the mucus glands in the aerodigestive tract and the vagina. (NCI)",
+            "identifier": "C13259",
+            "notation": "MUCUS",
+            "pref_label": "Mucus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13259"
+        },
+        {
+            "definition": "Any muscle of the abdominal wall.",
+            "identifier": "C32040",
+            "notation": "MUSCLE, ABDOMINAL",
+            "pref_label": "Abdominal Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32040"
+        },
+        {
+            "definition": "A group of muscles generally extending from the pubis to the femur; primary function is adduction of the thigh.",
+            "identifier": "C53039",
+            "notation": "MUSCLE, ADDUCTOR",
+            "pref_label": "Adductor Group of the Leg",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C53039"
+        },
+        {
+            "definition": "A muscle of the proximal arm/forelimb, in general extending from the scapula to the radius and adjacent fascia; primary function is flexion of the elbow joint and, in some species, also functions in supination of the antebrachium.",
+            "identifier": "C32200",
+            "notation": "MUSCLE, BICEPS BRACHII",
+            "pref_label": "Biceps Brachii",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32200"
+        },
+        {
+            "definition": "A muscle in the thigh, in general extending from the ischial tuberosity and posterior femur to the fibula; primary function is to extend the femorotibial joint.",
+            "identifier": "C53147",
+            "notation": "MUSCLE, BICEPS FEMORIS",
+            "pref_label": "Biceps Femoris",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C53147"
+        },
+        {
+            "alt_label": "Bulbocavernosus",
+            "definition": "Paired superficial muscles on the midline of the perineum, covering the bulb of the penis in males and the vestibular bulb in females.",
+            "identifier": "C112234",
+            "notation": "MUSCLE, BULBOSPONGIOSUS",
+            "pref_label": "Bulbospongiosus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C112234"
+        },
+        {
+            "definition": "A musculotendinous sheet separating the thoracic cavity from the abdominal cavity.",
+            "identifier": "C12702",
+            "notation": "MUSCLE, DIAPHRAGM",
+            "pref_label": "Diaphragm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12702"
+        },
+        {
+            "alt_label": "Superior Oblique Muscle",
+            "definition": "A muscle of the eye, in general extending from the annulus of Zinn to the upper, medial side of the orbit; primary function is abduction, depression and internal rotation of the eye.",
+            "identifier": "C33688",
+            "notation": "MUSCLE, DORSAL OBLIQUE",
+            "pref_label": "Superior Oblique Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33688"
+        },
+        {
+            "alt_label": "Superior Rectus Muscle",
+            "definition": "A muscle of the eye, in general extending from the annulus of Zinn to the dorsal aspect of the eye at the annulus tendineus; primary function is depression of the eyeball.",
+            "identifier": "C33694",
+            "notation": "MUSCLE, DORSAL RECTUS",
+            "pref_label": "Superior Rectus Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33694"
+        },
+        {
+            "alt_label": "Extensor Spinae;Sacrospinalis Muscle",
+            "definition": "A group of three paired epaxial muscle bundles (iliocostalis, longissimus, and spinalis) extending along and lateral to the spinous processes of the cervical, thoracic, and lumbar vertebrae; primary function is extension and rotation of the spine.",
+            "identifier": "C52902",
+            "notation": "MUSCLE, ERECTOR SPINAE",
+            "pref_label": "Erector Spinae",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C52902"
+        },
+        {
+            "alt_label": "Long Digital Extensor Muscle",
+            "definition": "A muscle extending from the lateral surface of the tibia to the digits; primary function is the extension of the digits and flexion of the tarsal joint.",
+            "identifier": "C52918",
+            "notation": "MUSCLE, EXTENSOR DIGITORUM LONGUS",
+            "pref_label": "Extensor Digitorum Longus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C52918"
+        },
+        {
+            "alt_label": "Oculomotor Muscle",
+            "definition": "A group of muscles in the orbit extending from the posterior orbit to the eye and upper eyelid; primary function is the movement of the eye and retraction of the upper eyelid.",
+            "identifier": "C33199",
+            "notation": "MUSCLE, EXTRAOCULAR",
+            "pref_label": "Extraocular Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33199"
+        },
+        {
+            "definition": "A bipennate muscle extending from the femoral condyles to the calcaneus; primary function is the extension of the tarsal joint and flexion of the femorotibial joint.",
+            "identifier": "C32666",
+            "notation": "MUSCLE, GASTROCNEMIUS",
+            "pref_label": "Gastrocnemius Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32666"
+        },
+        {
+            "definition": "A group of three muscles (gluteus maximus, gluteus medius, gluteus minimus) extending from the ilium and sacrum to the femur; primary function is extension and abduction of the hip joint.",
+            "identifier": "C78205",
+            "notation": "MUSCLE, GLUTEUS",
+            "pref_label": "Gluteal Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C78205"
+        },
+        {
+            "definition": "A group of muscles extending from one rib to the adjacent rib; primary function is movement of the thoracic wall during inspiration and expiration.",
+            "identifier": "C32824",
+            "notation": "MUSCLE, INTERCOSTAL",
+            "pref_label": "Intercostal Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32824"
+        },
+        {
+            "definition": "A muscle of the eye, in general extending from the annulus of Zinn to the lateral aspect of the anterior portion of the eye at the annulus tendineus; primary function is abduction of the eye.",
+            "identifier": "C32945",
+            "notation": "MUSCLE, LATERAL RECTUS",
+            "pref_label": "Lateral Rectus Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32945"
+        },
+        {
+            "alt_label": "Musculus Latissimus Dorsi",
+            "definition": "A muscle of the back, in general extending from the thoracolumbar vertebrae and scapula to the proximal humerus; primary function is adduction, extension, and medial rotation of the shoulder joint.",
+            "identifier": "C33150",
+            "notation": "MUSCLE, LATISSIMUS",
+            "pref_label": "Musculus Latissimus Dorsi",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33150"
+        },
+        {
+            "definition": "A group of muscles, in general extending from the inner surfaces of the ischium and pubis to the coccyx/coccygeal vertebrae; primary function is downward and lateral movement of the tail in tailed species, and to support the pelvic cavity.",
+            "identifier": "C32984",
+            "notation": "MUSCLE, LEVATOR ANI",
+            "pref_label": "Levator Ani",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32984"
+        },
+        {
+            "definition": "A specimen that contains the bulbospongiosus and levator ani muscles.",
+            "identifier": "C112430",
+            "notation": "MUSCLE, LEVATOR ANI/BULBOSPONGIOSUS",
+            "pref_label": "Levator Ani/Bulbospongiosus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C112430"
+        },
+        {
+            "definition": "A muscle extending from the zygomatic arch to the lateral surface of mandibular ramus; primary function is elevation of the mandible (closing of the mouth).",
+            "identifier": "C13074",
+            "notation": "MUSCLE, MASSETER",
+            "pref_label": "Masseter Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13074"
+        },
+        {
+            "definition": "A muscle of the eye, in general extending from the annulus of Zinn to the medial aspect of the anterior portion of the eye at the annulus tendineus; primary function is adduction of the eye.",
+            "identifier": "C33068",
+            "notation": "MUSCLE, MEDIAL RECTUS",
+            "pref_label": "Medial Rectus Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33068"
+        },
+        {
+            "definition": "A group of muscles on the exterior of the thorax, in general extending from the sternum to the humerus; primary function is movement of the upper forelimb.",
+            "identifier": "C33286",
+            "notation": "MUSCLE, PECTORALIS",
+            "pref_label": "Pectoralis Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33286"
+        },
+        {
+            "definition": "A superficial muscle in primates between the soleus and the gastrocnemius; primary function is flexion of the tarsus and femorotibial joint.",
+            "identifier": "C117979",
+            "notation": "MUSCLE, PLANTARIS",
+            "pref_label": "Plantaris Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C117979"
+        },
+        {
+            "definition": "A group of muscles on the abdominal spine, in general extending from the lumbar vertebrae to the femur; the primary function is flexion of the hip joint.",
+            "identifier": "C33422",
+            "notation": "MUSCLE, PSOAS",
+            "pref_label": "Psoas Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33422"
+        },
+        {
+            "definition": "A group of muscles in the thigh, in general extending from the pelvis to the patella and tibia; primary function is extension of the femorotibial joint.",
+            "identifier": "C33441",
+            "notation": "MUSCLE, QUADRICEPS FEMORIS",
+            "pref_label": "Quadriceps Muscle of the Thigh",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33441"
+        },
+        {
+            "definition": "A muscle in the quadriceps femoris muscle group between the vastus lateralis and vastus medialis and lying on the vastus intermedius; primary function is extension of the femorotibilal joint.",
+            "identifier": "C53175",
+            "notation": "MUSCLE, RECTUS FEMORIS",
+            "pref_label": "Rectus Femoris",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C53175"
+        },
+        {
+            "definition": "A muscle of the thigh, in general extends from the ishium to the medial tibia; primary function is the extension of the hip.",
+            "identifier": "C53176",
+            "notation": "MUSCLE, SEMITENDINOSUS",
+            "pref_label": "Semitendinosus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C53176"
+        },
+        {
+            "definition": "Voluntary, striated muscle tissue predominantly associated with the skeleton.",
+            "identifier": "C13050",
+            "notation": "MUSCLE, SKELETAL",
+            "pref_label": "Skeletal Muscle Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13050"
+        },
+        {
+            "definition": "Primarily involuntary, non-striated muscle tissue of the internal organs and blood vessels.",
+            "identifier": "C12437",
+            "notation": "MUSCLE, SMOOTH",
+            "pref_label": "Smooth Muscle Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12437"
+        },
+        {
+            "definition": "A muscle in the crus, in general extending from the tibia and fibula to the calcaneous; primary function is plantarflexion of the foot.",
+            "identifier": "C53075",
+            "notation": "MUSCLE, SOLEUS",
+            "pref_label": "Soleus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C53075"
+        },
+        {
+            "definition": "A muscle of the neck extending from the manubrium sterni to the head; primary function is lateral movement of the head and neck.",
+            "identifier": "C117980",
+            "notation": "MUSCLE, STERNOCEPHALICUS",
+            "pref_label": "Sternocephalicus Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C117980"
+        },
+        {
+            "definition": "A muscle of the crus, in general extending from the tibia to the first metatarsal; primary function is rotation of the foot.",
+            "identifier": "C53079",
+            "notation": "MUSCLE, TIBIALIS CRANIALIS",
+            "pref_label": "Tibialis Cranialis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C53079"
+        },
+        {
+            "definition": "A muscle of the proximal arm/forelimb, in general extending from the scapula and humerus to the olecranon of the ulna; primary function is extension of humeroulnar joint.",
+            "identifier": "C90604",
+            "notation": "MUSCLE, TRICEPS BRACHII",
+            "pref_label": "Triceps Brachii",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C90604"
+        },
+        {
+            "definition": "A muscle in the quadriceps femoris muscle group between the vastus lateralis and vastus medialis deep to the rectus femoris; primary function is the extension of the femorotibial joint.",
+            "identifier": "C117876",
+            "notation": "MUSCLE, VASTUS INTERMEDIUS",
+            "pref_label": "Vastus Intermedius Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C117876"
+        },
+        {
+            "definition": "A muscle in the quadriceps femoris muscle group lateral to the vastus intermedius; primary function is the extension of the femorotibial joint.",
+            "identifier": "C53073",
+            "notation": "MUSCLE, VASTUS LATERALIS",
+            "pref_label": "Vastus Lateralis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C53073"
+        },
+        {
+            "definition": "A muscle in the quadriceps femoris muscle group medial to the vastus intermedius; primary function is the extension of the femorotibial joint.",
+            "identifier": "C117736",
+            "notation": "MUSCLE, VASTUS MEDIALIS",
+            "pref_label": "Vastus Medialis Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C117736"
+        },
+        {
+            "alt_label": "Inferior Oblique Muscle",
+            "definition": "A muscle of the eye, in general extending from the maxillary bone to the inferior lateral aspect of the posterior part of the eye; primary function is lateral rotation of the eye.",
+            "identifier": "C32783",
+            "notation": "MUSCLE, VENTRAL OBLIQUE",
+            "pref_label": "Inferior Oblique Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32783"
+        },
+        {
+            "alt_label": "Inferior Rectus Muscle",
+            "definition": "A muscle of the eye, in general extending from the annulus of Zinn to the ventral aspect of the eye at the annulus tendineus; primary function is depression of the eyeball.",
+            "identifier": "C32790",
+            "notation": "MUSCLE, VENTRAL RECTUS",
+            "pref_label": "Inferior Rectus Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32790"
+        },
+        {
+            "definition": "A muscle extending from the zygomatic bone to the corners of the mouth/upper lip; primary function is to draw the lip superiorly, posteriorly and laterally.",
+            "identifier": "C179827",
+            "notation": "MUSCLE, ZYGOMATICUS",
+            "pref_label": "Zygomaticus Muscle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C179827"
+        },
+        {
+            "alt_label": "Nasal Concha;Nasoturbinate",
+            "definition": "The bone that protrudes into the nasal cavity from the skull, variably covered by respiratory, transitional or olfactory epithelium.",
+            "identifier": "C49594",
+            "notation": "NASAL TURBINATE",
+            "pref_label": "Nasal Turbinate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C49594"
+        },
+        {
+            "definition": "The nasal turbinate originating from the ethmoidal crest on the inner wall of the nasal bone and extending to the maxilla.",
+            "identifier": "C139163",
+            "notation": "NASAL TURBINATE, DORSAL CONCHA",
+            "pref_label": "Dorsal Nasal Turbinate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C139163"
+        },
+        {
+            "alt_label": "Ethmoturbinate",
+            "definition": "The nasal turbinates extending from the ethmoidal crest into the nasal cavity.",
+            "identifier": "C139162",
+            "notation": "NASAL TURBINATE, ETHMOIDAL CONCHA",
+            "pref_label": "Ethmoidal Nasal Turbinate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C139162"
+        },
+        {
+            "alt_label": "Media Nasal Concha",
+            "definition": "The largest of the ethmoidal nasal turbinates in some species, extending from the ethmoidal crest into the middle of the nasal cavity.",
+            "identifier": "C139164",
+            "notation": "NASAL TURBINATE, MIDDLE CONCHA",
+            "pref_label": "Medial Nasal Turbinate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C139164"
+        },
+        {
+            "alt_label": "Maxilloturbinate",
+            "definition": "The nasal turbinate originating from the conchal crest on the medial wall of the maxilla and extending into the nasal cavity.",
+            "identifier": "C139165",
+            "notation": "NASAL TURBINATE, VENTRAL CONCHA",
+            "pref_label": "Ventral Nasal Turbinate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C139165"
+        },
+        {
+            "alt_label": "NALT",
+            "definition": "The lymphocytic cell population present in the mucosa of the nasopharyngeal duct.",
+            "identifier": "C77659",
+            "notation": "NASAL-ASSOCIATED LYMPHOID TISSUE",
+            "pref_label": "Nasal-Associated Lymphoid Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77659"
+        },
+        {
+            "definition": "The part of the pharynx above the soft palate, which is continuous with the nasal cavity and extends to the oropharynx.",
+            "identifier": "C12423",
+            "notation": "NASOPHARYNX",
+            "pref_label": "Nasopharynx",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12423"
+        },
+        {
+            "definition": "The initial segment of a nerve after it has branched off from the central nervous system.",
+            "identifier": "C54024",
+            "notation": "NERVE ROOT",
+            "pref_label": "Nerve Root",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C54024"
+        },
+        {
+            "definition": "A bundle of neuronal fibers that transmits electrochemical impulses encoding sensory and motor information from one body part to another.",
+            "identifier": "C12466",
+            "notation": "NERVE",
+            "pref_label": "Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12466"
+        },
+        {
+            "alt_label": "Brachial Plexus",
+            "definition": "A nerve network originating from spinal nerves in the cervical and thoracic vertebrae and giving rise to multiple nerves that innervate the arm/forelimb.",
+            "identifier": "C12682",
+            "notation": "NERVE, BRACHIAL PLEXUS",
+            "pref_label": "Brachial Plexus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12682"
+        },
+        {
+            "definition": "A nerve network originating from the spinal nerves in the sacral and caudal vertebrae and giving rise to multiple nerves that innervate the tail. (NCI)",
+            "identifier": "C174385",
+            "notation": "NERVE, CAUDAL PLEXUS",
+            "pref_label": "Caudal Plexus Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C174385"
+        },
+        {
+            "alt_label": "Acoustic Nerve;Auditory Nerve",
+            "definition": "The cochlear portion of the vestibulocochlear nerve, which transmits auditory sensory impulses to the cochlear nucleus in the brainstem.",
+            "identifier": "C12697",
+            "notation": "NERVE, COCHLEAR",
+            "pref_label": "Cochlear Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12697"
+        },
+        {
+            "definition": "Any of the 12 paired nerves that originate in the brain stem. (NCI)",
+            "identifier": "C12700",
+            "notation": "NERVE, CRANIAL",
+            "pref_label": "Cranial Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12700"
+        },
+        {
+            "alt_label": "Seventh Cranial Nerve",
+            "definition": "A cranial nerve extending from the brain stem between the pons and medulla, which innervates the facial muscles, glands and the tongue.",
+            "identifier": "C12714",
+            "notation": "NERVE, FACIAL",
+            "pref_label": "Facial Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12714"
+        },
+        {
+            "definition": "A nerve extending from the brachial plexus traveling the length of the arm/thoracic limb, which innervates some flexor muscles of the arm/forelimb and the skin on the palmar aspect of the carpus, metacarpus and digits.",
+            "identifier": "C52815",
+            "notation": "NERVE, MEDIAN",
+            "pref_label": "Median Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C52815"
+        },
+        {
+            "alt_label": "Second Cranial Nerve",
+            "definition": "A cranial nerve extending between the retina and optic chiasma, which innervates the eye.",
+            "identifier": "C12761",
+            "notation": "NERVE, OPTIC",
+            "pref_label": "Optic Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12761"
+        },
+        {
+            "definition": "Any nerve outside the brain or spinal cord that connects with peripheral receptors or effectors. (NCI)",
+            "identifier": "C12768",
+            "notation": "NERVE, PERIPHERAL",
+            "pref_label": "Peripheral Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12768"
+        },
+        {
+            "alt_label": "Nerve, Fibular",
+            "definition": "A branch of the sciatic nerve that includes the common, deep, and/or superficial peroneal nerves, which innervates multiple muscles in the distal region of the leg/hindlimb.",
+            "identifier": "C52814",
+            "notation": "NERVE, PERONEAL",
+            "pref_label": "Peroneal Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C52814"
+        },
+        {
+            "definition": "The portion of the peroneal nerve that extends from the sciatic nerve to the bifurcation of the deep and superficial peroneal nerves.",
+            "identifier": "C92601",
+            "notation": "NERVE, PERONEAL, COMMON",
+            "pref_label": "Common Peroneal Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92601"
+        },
+        {
+            "definition": "A branch of the common peroneal nerve that runs deep to the superficial peroneal nerve and which predominantly innervates the muscles of the crus and foot/hindfoot.",
+            "identifier": "C92602",
+            "notation": "NERVE, PERONEAL, DEEP",
+            "pref_label": "Deep Peroneal Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92602"
+        },
+        {
+            "definition": "A branch of the common peroneal nerve that runs superficial to the deep peroneal nerve and which predominantly innervates the skin of the crus and foot/hindfoot.",
+            "identifier": "C92603",
+            "notation": "NERVE, PERONEAL, SUPERFICIAL",
+            "pref_label": "Superficial Peroneal Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92603"
+        },
+        {
+            "definition": "A nerve arising from the tibial nerve and dividing into the medial and lateral plantar nerves, which innervates the skin and muscles of the plantar region of the foot/hindfoot.",
+            "identifier": "C77674",
+            "notation": "NERVE, PLANTAR",
+            "pref_label": "Plantar Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77674"
+        },
+        {
+            "definition": "A nerve extending from the brachial plexus traveling the length of the arm/forelimb, which innervates the extensor muscles of the elbow, carpus and phalanges, as well as the skin on the dorsal aspect of the carpus, metacarpus and digits.",
+            "identifier": "C52812",
+            "notation": "NERVE, RADIAL",
+            "pref_label": "Radial Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C52812"
+        },
+        {
+            "definition": "A branch of the femoral nerve traveling the length of the leg/hindlimb, which innervates the sartorius and the skin of the medial aspect of the leg/hindlimb from the knee/stifle joint to the metatarsus.",
+            "identifier": "C147511",
+            "notation": "NERVE, SAPHENOUS",
+            "pref_label": "Saphenous Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C147511"
+        },
+        {
+            "definition": "A nerve arising from the merge of the lumbar and sacral rami in the pelvis and dividing into the common peroneal and tibial nerves, and which innervates the muscles of the thigh.",
+            "identifier": "C52810",
+            "notation": "NERVE, SCIATIC",
+            "pref_label": "Sciatic Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C52810"
+        },
+        {
+            "alt_label": "Spinal Roots",
+            "definition": "A nerve arising from the spinal cord where the dorsal and ventral roots converge and exit through the intervertebral foramen.",
+            "identifier": "C12792",
+            "notation": "NERVE, SPINAL",
+            "pref_label": "Spinal Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12792"
+        },
+        {
+            "definition": "A minor branch of the sciatic nerve that includes the lateral and caudal sural nerves, which innervates the skin of the crus, tarsus and metatarsus.",
+            "identifier": "C77675",
+            "notation": "NERVE, SURAL",
+            "pref_label": "Sural Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77675"
+        },
+        {
+            "definition": "A branch of the sciatic nerve that divides into the medial and lateral plantar nerves, and which innervates the muscles of the crus and the skin of the tarsus.",
+            "identifier": "C52809",
+            "notation": "NERVE, TIBIAL",
+            "pref_label": "Tibial Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C52809"
+        },
+        {
+            "alt_label": "Fifth Cranial Nerve",
+            "definition": "A cranial nerve extending from the pons, which innervates the skin, mucous membranes, and masticatory muscles of the head.",
+            "identifier": "C12806",
+            "notation": "NERVE, TRIGEMINAL",
+            "pref_label": "Trigeminal Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12806"
+        },
+        {
+            "definition": "A nerve arising from spinal nerves C8, T1 and T2, which innervates the flexor muscles of the arm/forelimb and skin of the arm/forelimb and lateral manus.",
+            "identifier": "C52807",
+            "notation": "NERVE, ULNAR",
+            "pref_label": "Ulnar Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C52807"
+        },
+        {
+            "alt_label": "Tenth Cranial Nerve",
+            "definition": "A cranial nerve arising from the medulla oblongata, which provides efferent parasympathetic innervation to tissues and viscera in the neck, thorax and abdomen; it also includes somatic and visceral afferent nerve fibers.",
+            "identifier": "C12812",
+            "notation": "NERVE, VAGUS",
+            "pref_label": "Vagus Nerve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12812"
+        },
+        {
+            "definition": "The protuberance in the skin where the ducts of the mammary gland open.",
+            "identifier": "C12299",
+            "notation": "NIPPLE",
+            "pref_label": "Nipple",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12299"
+        },
+        {
+            "alt_label": "Nose",
+            "definition": "A structure of special sense serving as an organ of the sense of smell and as an entrance to the respiratory tract. (NCI)",
+            "identifier": "C12756",
+            "notation": "NOSE",
+            "pref_label": "Nose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12756"
+        },
+        {
+            "alt_label": "Cell Nucleus",
+            "definition": "A body within the cell, surrounded by a membrane, within which lie the chromosomes, one or more nucleoli, combined with proteins, and exhibits mitosis. (NCI)",
+            "identifier": "C13197",
+            "notation": "NUCLEUS",
+            "pref_label": "Nucleus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13197"
+        },
+        {
+            "definition": "The area of mucosa in the nose lined by olfactory epithelium and containing olfactory glands. (NCI)",
+            "identifier": "C98765",
+            "notation": "OLFACTORY REGION",
+            "pref_label": "Olfactory Region",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C98765"
+        },
+        {
+            "definition": "The third compartment of the forestomach of ruminants with many long folds of mucosa (resembling a book). (NCI)",
+            "identifier": "C98766",
+            "notation": "OMASUM",
+            "pref_label": "Omasum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C98766"
+        },
+        {
+            "definition": "A double layer of peritoneum covering abdominal organs.",
+            "identifier": "C33209",
+            "notation": "OMENTUM",
+            "pref_label": "Omentum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33209"
+        },
+        {
+            "alt_label": "Optic Nerve Head",
+            "definition": "The portion of the retina at which the axons of the ganglion cells exit the eyeball to form the optic nerve.",
+            "identifier": "C12760",
+            "notation": "OPTIC DISC",
+            "pref_label": "Optic Disc",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12760"
+        },
+        {
+            "definition": "The part of the pharynx between the soft palate and the upper portion of the epiglottis. (NCI)",
+            "identifier": "C12762",
+            "notation": "OROPHARYNX",
+            "pref_label": "Oropharynx",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12762"
+        },
+        {
+            "definition": "The female gonad.",
+            "identifier": "C12404",
+            "notation": "OVARY",
+            "pref_label": "Ovary",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12404"
+        },
+        {
+            "definition": "A specimen that contains the ovary and oviduct.",
+            "identifier": "C92595",
+            "notation": "OVARY/OVIDUCT",
+            "pref_label": "Ovary/Oviduct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92595"
+        },
+        {
+            "alt_label": "Fallopian Tube",
+            "definition": "The tube through which eggs pass from an ovary.",
+            "identifier": "C12403",
+            "notation": "OVIDUCT",
+            "pref_label": "Fallopian Tube",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12403"
+        },
+        {
+            "definition": "The roof of the oral cavity. It separates the oral cavity from the nasal cavity.",
+            "identifier": "C12229",
+            "notation": "PALATE",
+            "pref_label": "Palate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12229"
+        },
+        {
+            "definition": "The part of the roof of the mouth supported by bone.",
+            "identifier": "C12230",
+            "notation": "PALATE, HARD",
+            "pref_label": "Hard Palate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12230"
+        },
+        {
+            "definition": "The part of the roof of the mouth not supported by bone.",
+            "identifier": "C12231",
+            "notation": "PALATE, SOFT",
+            "pref_label": "Soft Palate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12231"
+        },
+        {
+            "definition": "A digestive organ in the abdomen that has both endocrine and exocrine functions.",
+            "identifier": "C12393",
+            "notation": "PANCREAS",
+            "pref_label": "Pancreas",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12393"
+        },
+        {
+            "definition": "An opening on the duodenal mucosa where the bile and pancreatic ducts enter the duodenum.",
+            "identifier": "C119578",
+            "notation": "PAPILLA, DUODENAL",
+            "pref_label": "Duodenal Papilla",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C119578"
+        },
+        {
+            "definition": "The air-filled cavities adjacent to the nasal cavity lined by a mucous membrane and located in the bones of the skull.",
+            "identifier": "C12763",
+            "notation": "PARANASAL SINUS",
+            "pref_label": "Paranasal Sinus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12763"
+        },
+        {
+            "definition": "The entire structure distal to the ankle joint/tarsus or wrist joint/carpus in quadruped animals.",
+            "identifier": "C77660",
+            "notation": "PAW",
+            "pref_label": "Paw",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77660"
+        },
+        {
+            "definition": "The male organ of urination and copulation. (NCI)",
+            "identifier": "C12409",
+            "notation": "PENIS",
+            "pref_label": "Penis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12409"
+        },
+        {
+            "definition": "The membrane surrounding the heart and roots of the vessels at the base of the heart.",
+            "identifier": "C13005",
+            "notation": "PERICARDIUM",
+            "pref_label": "Pericardium",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13005"
+        },
+        {
+            "alt_label": "Perineum",
+            "definition": "The area located between the anus and vulva in females, and anus and scrotum in males. (NCI)",
+            "identifier": "C33301",
+            "notation": "PERINEUM",
+            "pref_label": "Perineum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33301"
+        },
+        {
+            "definition": "The membrane that lines the abdominal and pelvic cavities.",
+            "identifier": "C12770",
+            "notation": "PERITONEUM",
+            "pref_label": "Peritoneum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12770"
+        },
+        {
+            "definition": "An organized aggregate of gut-associated lymphoid tissue located in the mucosa of the small intestine.",
+            "identifier": "C12771",
+            "notation": "PEYER'S PATCH",
+            "pref_label": "Peyer Patch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12771"
+        },
+        {
+            "definition": "A passageway in the head and neck that includes the nasopharynx, oropharynx and laryngopharynx.",
+            "identifier": "C12425",
+            "notation": "PHARYNX",
+            "pref_label": "Pharynx",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12425"
+        },
+        {
+            "alt_label": "Auricle;External Ear",
+            "definition": "The external part of the ear. (NCI)",
+            "identifier": "C12292",
+            "notation": "PINNA",
+            "pref_label": "External Ear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12292"
+        },
+        {
+            "definition": "An organ present in true mammals during embryonic developmen that provides the fetus with nutrients and oxygen, facilitates gas and waste exchange between the fetus and mother.",
+            "identifier": "C13272",
+            "notation": "PLACENTA",
+            "pref_label": "Placenta",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13272"
+        },
+        {
+            "definition": "The fluid (acellular) portion of the circulating blood with retained clotting components.",
+            "identifier": "C13356",
+            "notation": "PLASMA",
+            "pref_label": "Plasma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13356"
+        },
+        {
+            "definition": "The serous membrane that lines the wall of the thoracic cavity and the surface of the lungs.",
+            "identifier": "C12469",
+            "notation": "PLEURA",
+            "pref_label": "Pleura",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12469"
+        },
+        {
+            "alt_label": "Preputium Penis",
+            "definition": "A fold of skin covering the end of the penis.",
+            "identifier": "C12323",
+            "notation": "PREPUCE",
+            "pref_label": "Prepuce",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12323"
+        },
+        {
+            "definition": "The portion of the stomach of some non-mammalian species located between the thoracic esophagus and the ventriculus.",
+            "identifier": "C111301",
+            "notation": "PROVENTRICULUS",
+            "pref_label": "Proventriculus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C111301"
+        },
+        {
+            "definition": "The funnel-shaped proximal portion of the ureter located within the kidney into which urine is secreted, from the collecting duct system of the kidney. (NCI)",
+            "identifier": "C12887",
+            "notation": "RENAL PELVIS",
+            "pref_label": "Renal Pelvis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12887"
+        },
+        {
+            "definition": "Tissue from any of the organs involved in reproduction.",
+            "identifier": "C176412",
+            "notation": "REPRODUCTIVE TISSUE",
+            "pref_label": "Reproductive Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C176412"
+        },
+        {
+            "definition": "A network of tubules that convey sperm from the seminiferous tubules within the testicles to the efferent ducts. (NCI)",
+            "identifier": "C33467",
+            "notation": "RETE TESTIS",
+            "pref_label": "Rete Testis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33467"
+        },
+        {
+            "definition": "Smallest forestomach of ruminants with complex honeycomb folding of mucosa. (NCI)",
+            "identifier": "C98777",
+            "notation": "RETICULUM",
+            "pref_label": "Reticulum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C98777"
+        },
+        {
+            "definition": "The region of the abdomen outside the peritoneum, where the kidneys lie and the great blood vessels run.",
+            "identifier": "C12298",
+            "notation": "RETROPERITONEUM",
+            "pref_label": "Retroperitoneum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12298"
+        },
+        {
+            "definition": "A bony pouch in the tympanic cavity that is enclosed by the secondary tympanic membrane.",
+            "identifier": "C179828",
+            "notation": "ROUND WINDOW NICHE",
+            "pref_label": "Round Window Niche",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C179828"
+        },
+        {
+            "alt_label": "Paunch",
+            "definition": "Largest forestomach of ruminants where bacterial fermentation occurs. (NCI)",
+            "identifier": "C98778",
+            "notation": "RUMEN",
+            "pref_label": "Rumen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C98778"
+        },
+        {
+            "definition": "One of two pouches located on either side of the anus of most carnivores that contain the secretions of the anal sac glands.",
+            "identifier": "C125896",
+            "notation": "SAC, ANAL",
+            "pref_label": "Anal Sac",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C125896"
+        },
+        {
+            "definition": "Membranous sac on the ventral aspect of the developing embryo that acts as a primitive circulatory system as well as providing nourishment. (NCI)",
+            "identifier": "C14128",
+            "notation": "SAC, YOLK",
+            "pref_label": "Yolk Sac",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C14128"
+        },
+        {
+            "definition": "A clear liquid secreted by the salivary glands.",
+            "identifier": "C13275",
+            "notation": "SALIVA",
+            "pref_label": "Saliva",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13275"
+        },
+        {
+            "definition": "The pouch that encloses the testicles.",
+            "identifier": "C12785",
+            "notation": "SCROTUM",
+            "pref_label": "Scrotum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12785"
+        },
+        {
+            "alt_label": "Round Window Membrane",
+            "definition": "A membrane that encloses the round window niche of the middle ear.",
+            "identifier": "C179829",
+            "notation": "SECONDARY TYMPANIC MEMBRANE",
+            "pref_label": "Secondary Tympanic Membrane",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C179829"
+        },
+        {
+            "definition": "The fluid containing the spermatozoa, secreted by the testes and accessory reproductive glands of the male.",
+            "identifier": "C13277",
+            "notation": "SEMEN",
+            "pref_label": "Semen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13277"
+        },
+        {
+            "alt_label": "Sera",
+            "definition": "The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins. (NCI)",
+            "identifier": "C13325",
+            "notation": "SERUM",
+            "pref_label": "Serum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13325"
+        },
+        {
+            "alt_label": "Sinus",
+            "definition": "A recess, cavity, or channel. (NCI)",
+            "identifier": "C33556",
+            "notation": "SINUS",
+            "pref_label": "Sinus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33556"
+        },
+        {
+            "alt_label": "Site, Exposure",
+            "definition": "The anatomic site at which medical intervention is administered. (NCI)",
+            "identifier": "C77676",
+            "notation": "SITE, APPLICATION",
+            "pref_label": "Application Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77676"
+        },
+        {
+            "definition": "The anatomic site targeted for a biopsy procedure. (NCI)",
+            "identifier": "C77677",
+            "notation": "SITE, BIOPSY",
+            "pref_label": "Biopsy Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77677"
+        },
+        {
+            "definition": "The anatomic site through which fluid is transferred into or out of the body using a catheter. (NCI)",
+            "identifier": "C92596",
+            "notation": "SITE, CATHETER",
+            "pref_label": "Catheter Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92596"
+        },
+        {
+            "definition": "The site of the surgical exposure of an internal organ or tissue. (NCI)",
+            "identifier": "C77685",
+            "notation": "SITE, EXTERIORIZATION",
+            "pref_label": "Exteriorization Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77685"
+        },
+        {
+            "definition": "The anatomic site at which a material such as a tissue, graft, device or radioactive material is inserted with some intended degree of permanence. This term may also refer to the site of the uterus at which the early embryo is attached.",
+            "identifier": "C77678",
+            "notation": "SITE, IMPLANTATION",
+            "pref_label": "Implantation Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77678"
+        },
+        {
+            "definition": "The anatomic site through which fluid is introduced into the body. (NCI)",
+            "identifier": "C77679",
+            "notation": "SITE, INFUSION",
+            "pref_label": "Infusion Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77679"
+        },
+        {
+            "definition": "The anatomic site at which a medication or a vaccine is injected. (NCI)",
+            "identifier": "C77680",
+            "notation": "SITE, INJECTION",
+            "pref_label": "Injection Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77680"
+        },
+        {
+            "definition": "The anatomic site at which damage or harm was suffered. (NCI)",
+            "identifier": "C77681",
+            "notation": "SITE, INJURY",
+            "pref_label": "Injury Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77681"
+        },
+        {
+            "definition": "The anatomic site at which a microchip is implanted. (NCI)",
+            "identifier": "C77682",
+            "notation": "SITE, MICROCHIP",
+            "pref_label": "Microchip Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77682"
+        },
+        {
+            "definition": "The anatomic site at which a subcutaneous port is implanted.",
+            "identifier": "C147512",
+            "notation": "SITE, SUBCUTANEOUS PORT",
+            "pref_label": "Subcutaneous Port Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C147512"
+        },
+        {
+            "alt_label": "Incision Site",
+            "definition": "The anatomic site of a cut made during surgery. The term may also refer to the resultant scar from the surgical procedure. (NCI)",
+            "identifier": "C77683",
+            "notation": "SITE, SURGICAL",
+            "pref_label": "Incision Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77683"
+        },
+        {
+            "definition": "The anatomic site at which a tattoo is present. (NCI)",
+            "identifier": "C77684",
+            "notation": "SITE, TATTOO",
+            "pref_label": "Tattoo Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77684"
+        },
+        {
+            "definition": "Referring to the fact that the original site of growth of a metastatic cancer is unknown or uncertain. (NCI)",
+            "identifier": "C48322",
+            "notation": "SITE, UNCERTAIN PRIMARY",
+            "pref_label": "Primary Site Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C48322"
+        },
+        {
+            "alt_label": "Integument;Skin",
+            "definition": "An organ that constitutes the external surface of the body. It consists of the epidermis, dermis, and skin appendages. (NCI)",
+            "identifier": "C12470",
+            "notation": "SKIN",
+            "pref_label": "Skin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12470"
+        },
+        {
+            "definition": "A specimen that contains the epidermis, dermis, and subcutaneous adipose tissue.",
+            "identifier": "C92441",
+            "notation": "SKIN/SUBCUTIS",
+            "pref_label": "Skin/Subcutaneous Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92441"
+        },
+        {
+            "definition": "The terminal part of the colon of the horse with a reduced diameter. (NCI)",
+            "identifier": "C92437",
+            "notation": "SMALL COLON",
+            "pref_label": "Small Colon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92437"
+        },
+        {
+            "definition": "The villous section of the intestine extending from the pylorus to the proximal large intestine.",
+            "identifier": "C12386",
+            "notation": "SMALL INTESTINE",
+            "pref_label": "Small Intestine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12386"
+        },
+        {
+            "definition": "The portion of the small intestine between the stomach and jejunum.",
+            "identifier": "C12263",
+            "notation": "SMALL INTESTINE, DUODENUM",
+            "pref_label": "Duodenum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12263"
+        },
+        {
+            "definition": "The portion of the small intestine between the jejunum and large intestine.",
+            "identifier": "C12387",
+            "notation": "SMALL INTESTINE, ILEUM",
+            "pref_label": "Ileum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12387"
+        },
+        {
+            "definition": "A region of the small intestine of some animals, between the duodenum and colon, wherein the jejunum and ileum are co-located but not spatially distinct from each other.",
+            "identifier": "C179830",
+            "notation": "SMALL INTESTINE, JEJUNOILEUM",
+            "pref_label": "Experimental Organism Jejunoileum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C179830"
+        },
+        {
+            "definition": "The portion of the small intestine between the duodenum and ileum.",
+            "identifier": "C12388",
+            "notation": "SMALL INTESTINE, JEJUNUM",
+            "pref_label": "Jejunum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12388"
+        },
+        {
+            "definition": "An anatomic structure exclusive to rabbits that is located at the terminal part of the ileum. It is rich in lymphoid tissue.",
+            "identifier": "C88024",
+            "notation": "SMALL INTESTINE, SACCULUS ROTUNDUS",
+            "pref_label": "Sacculus Rotundus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C88024"
+        },
+        {
+            "alt_label": "Vertebral Column",
+            "definition": "The series of vertebrae and other tissues extending from the skull to the last tailbone.",
+            "identifier": "C12998",
+            "notation": "SPINAL COLUMN",
+            "pref_label": "Vertebral Column",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12998"
+        },
+        {
+            "alt_label": "Medulla Spinalis",
+            "definition": "The portion of the central nervous system that lies within the vertebral canal and from which the spinal nerves emerge.",
+            "identifier": "C12464",
+            "notation": "SPINAL CORD",
+            "pref_label": "Spinal Cord",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12464"
+        },
+        {
+            "definition": "The segment of the spinal cord between the end of the brain stem and the thoracic spinal cord.",
+            "identifier": "C12892",
+            "notation": "SPINAL CORD, CERVICAL",
+            "pref_label": "Cervical Spinal Cord",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12892"
+        },
+        {
+            "definition": "The segment of the spinal cord between the thoracic spinal cord and the sacral spinal cord.",
+            "identifier": "C12895",
+            "notation": "SPINAL CORD, LUMBAR",
+            "pref_label": "Lumbar Spinal Cord",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12895"
+        },
+        {
+            "definition": "The segment of the spinal cord between the lumbar spinal cord and the caudal spinal cord.",
+            "identifier": "C12896",
+            "notation": "SPINAL CORD, SACRAL",
+            "pref_label": "Sacral Spinal Cord",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12896"
+        },
+        {
+            "definition": "The segment of the spinal cord between the cervical spinal cord and the lumbar spinal cord.",
+            "identifier": "C12894",
+            "notation": "SPINAL CORD, THORACIC",
+            "pref_label": "Thoracic Spinal Cord",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12894"
+        },
+        {
+            "definition": "The ascending colon of the ruminants and pigs. (NCI)",
+            "identifier": "C92438",
+            "notation": "SPIRAL COLON",
+            "pref_label": "Spiral Colon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92438"
+        },
+        {
+            "definition": "An abdominal organ that is part of the hematopoietic and immune systems. It is composed of the white pulp and the red pulp and is surrounded by a capsule.",
+            "identifier": "C12432",
+            "notation": "SPLEEN",
+            "pref_label": "Spleen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12432"
+        },
+        {
+            "definition": "The portion of the gastrointestinal tract located between the esophagus and the proximal duodenum.",
+            "identifier": "C12391",
+            "notation": "STOMACH",
+            "pref_label": "Stomach",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12391"
+        },
+        {
+            "definition": "The region of the stomach adjacent to the esophogastric junction.",
+            "identifier": "C12256",
+            "notation": "STOMACH, CARDIA",
+            "pref_label": "Gastric Cardia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12256"
+        },
+        {
+            "definition": "The blind sac region of the glandular stomach.",
+            "identifier": "C12257",
+            "notation": "STOMACH, FUNDUS",
+            "pref_label": "Fundus of the Stomach",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12257"
+        },
+        {
+            "definition": "The portion of the stomach that contains glandular mucosa.",
+            "identifier": "C77661",
+            "notation": "STOMACH, GLANDULAR",
+            "pref_label": "Glandular Stomach",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77661"
+        },
+        {
+            "alt_label": "Forestomach",
+            "definition": "The portion of the stomach that contains stratified squamous mucosa.",
+            "identifier": "C77662",
+            "notation": "STOMACH, NONGLANDULAR",
+            "pref_label": "Nonglandular Stomach",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77662"
+        },
+        {
+            "definition": "The region of the stomach that connects to the duodenum.",
+            "identifier": "C12260",
+            "notation": "STOMACH, PYLORUS",
+            "pref_label": "Pylorus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12260"
+        },
+        {
+            "alt_label": "Subcutaneous Tissue",
+            "definition": "Adipose and connective tissue located deep to the dermis.",
+            "identifier": "C33645",
+            "notation": "SUBCUTIS",
+            "pref_label": "Subcutis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33645"
+        },
+        {
+            "alt_label": "Sweat",
+            "definition": "The liquid secreted by the sweat glands. (NCI)",
+            "identifier": "C13280",
+            "notation": "SWEAT",
+            "pref_label": "Sweat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13280"
+        },
+        {
+            "definition": "The connective tissue and synoviocytes that line the inner surface of the joint capsule.",
+            "identifier": "C12473",
+            "notation": "SYNOVIAL MEMBRANE",
+            "pref_label": "Synovial Membrane",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12473"
+        },
+        {
+            "definition": "The vocal organ of a bird located near the tracheal bifurcation.",
+            "identifier": "C111323",
+            "notation": "SYRINX",
+            "pref_label": "Syrinx",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C111323"
+        },
+        {
+            "definition": "A flexible appendage caudal to the sacrum.",
+            "identifier": "C77663",
+            "notation": "TAIL",
+            "pref_label": "Tail",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77663"
+        },
+        {
+            "definition": "The fluid secreted by the lacrimal apparatus.",
+            "identifier": "C33739",
+            "notation": "TEAR",
+            "pref_label": "Tear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33739"
+        },
+        {
+            "definition": "A specialized type of nipple distinguished by its large cistern (lactiferous sinus) that connects to the exterior through the teat canal.",
+            "identifier": "C77664",
+            "notation": "TEAT",
+            "pref_label": "Teat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77664"
+        },
+        {
+            "definition": "A membranous sheet that envelops a tendon.",
+            "identifier": "C96299",
+            "notation": "TENDON SHEATH",
+            "pref_label": "Tendon Sheath",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C96299"
+        },
+        {
+            "definition": "A band of fibrous connective tissue that joins bone to muscle. (NCI)",
+            "identifier": "C13045",
+            "notation": "TENDON",
+            "pref_label": "Tendon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13045"
+        },
+        {
+            "definition": "The tendon that, in general, attaches the gastrocnemius muscle to the calcaneous bone in the tarsus.",
+            "identifier": "C32043",
+            "notation": "TENDON, CALCANEAL",
+            "pref_label": "Achilles Tendon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32043"
+        },
+        {
+            "alt_label": "Testicle",
+            "definition": "The male gonad.",
+            "identifier": "C12412",
+            "notation": "TESTIS",
+            "pref_label": "Testis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12412"
+        },
+        {
+            "definition": "A specimen that contains the testis and epididymis.",
+            "identifier": "C77668",
+            "notation": "TESTIS/EPIDIDYMIS",
+            "pref_label": "Testis/Epididymis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77668"
+        },
+        {
+            "alt_label": "Chest Wall",
+            "definition": "The total system of structures outside the lungs that move as a part of breathing; it includes all structures from the skin to the parietal pleura. (NCI)",
+            "identifier": "C62484",
+            "notation": "THORACIC WALL",
+            "pref_label": "Chest Wall",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C62484"
+        },
+        {
+            "alt_label": "Thymus Gland",
+            "definition": "A primary lymphoid organ generally located in the mediastinum near the thoracic inlet and/or along lateral aspects of the neck.",
+            "identifier": "C12433",
+            "notation": "THYMUS",
+            "pref_label": "Thymus Gland",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12433"
+        },
+        {
+            "definition": "A tissue specimen for which the identity or anatomic origin is not known or specified.",
+            "identifier": "C132256",
+            "notation": "TISSUE, UNSPECIFIED",
+            "pref_label": "Unspecified Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C132256"
+        },
+        {
+            "definition": "The muscular organ in the mouth used in taste perception and food ingestion.",
+            "identifier": "C12422",
+            "notation": "TONGUE",
+            "pref_label": "Tongue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12422"
+        },
+        {
+            "definition": "A secondary lymphoid tissue in the mucosa of the pharynx.",
+            "identifier": "C12802",
+            "notation": "TONSIL",
+            "pref_label": "Tonsil",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12802"
+        },
+        {
+            "definition": "A tonsil in the mucosa at the root of the tongue.",
+            "identifier": "C32988",
+            "notation": "TONSIL, LINGUAL",
+            "pref_label": "Lingual Tonsil",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32988"
+        },
+        {
+            "definition": "A tonsil in the mucosa of the glossopalatine arch of the oropharynx.",
+            "identifier": "C33250",
+            "notation": "TONSIL, PALATINE",
+            "pref_label": "Palatine Tonsil",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33250"
+        },
+        {
+            "alt_label": "Adenoid",
+            "definition": "A tonsil in the mucosa of the nasopharynx.",
+            "identifier": "C33318",
+            "notation": "TONSIL, PHARYNGEAL",
+            "pref_label": "Pharyngeal Tonsil",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33318"
+        },
+        {
+            "definition": "A hard calcified structure in the jaw; primarily used for eating.",
+            "identifier": "C12506",
+            "notation": "TOOTH",
+            "pref_label": "Tooth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12506"
+        },
+        {
+            "alt_label": "Canine Tooth",
+            "definition": "A single-cusped (pointed) and usually single-rooted tooth located between the incisors and premolars. (NCI)",
+            "identifier": "C32258",
+            "notation": "TOOTH, CANINE",
+            "pref_label": "Canine Tooth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32258"
+        },
+        {
+            "definition": "A tooth between the canines in either jaw.",
+            "identifier": "C32769",
+            "notation": "TOOTH, INCISOR",
+            "pref_label": "Incisor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32769"
+        },
+        {
+            "definition": "A tooth behind the premolars.",
+            "identifier": "C33136",
+            "notation": "TOOTH, MOLAR",
+            "pref_label": "Molar Tooth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33136"
+        },
+        {
+            "definition": "A tooth between the canine and molar.",
+            "identifier": "C32201",
+            "notation": "TOOTH, PREMOLAR",
+            "pref_label": "Bicuspid Tooth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32201"
+        },
+        {
+            "alt_label": "Windpipe",
+            "definition": "The fibrocartilaginous tube extending from the larynx to the bronchi.",
+            "identifier": "C12428",
+            "notation": "TRACHEA",
+            "pref_label": "Trachea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12428"
+        },
+        {
+            "definition": "The visceral and parietal serous membranes lining the testicular pouch.",
+            "identifier": "C33822",
+            "notation": "TUNICA VAGINALIS",
+            "pref_label": "Tunica Vaginalis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33822"
+        },
+        {
+            "definition": "The bony structure containing an inner lumen within the middle ear.",
+            "identifier": "C112425",
+            "notation": "TYMPANIC BULLA",
+            "pref_label": "Tympanic Bulla",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C112425"
+        },
+        {
+            "alt_label": "Tympanic Membrane",
+            "definition": "A thin membrane that separates the external auditory canal from the middle ear.",
+            "identifier": "C12502",
+            "notation": "TYMPANIC MEMBRANE",
+            "pref_label": "Tympanic Membrane",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12502"
+        },
+        {
+            "definition": "The tube that extends from each kidney to the urinary bladder.",
+            "identifier": "C12416",
+            "notation": "URETER",
+            "pref_label": "Ureter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12416"
+        },
+        {
+            "definition": "The tube that extends from the urinary bladder to the urethral opening.",
+            "identifier": "C12417",
+            "notation": "URETHRA",
+            "pref_label": "Urethra",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12417"
+        },
+        {
+            "alt_label": "Urinary Bladder",
+            "definition": "The distensible sac-like organ that functions as a reservoir of urine, collecting from the kidneys and eliminating via the urethra. (NCI)",
+            "identifier": "C12414",
+            "notation": "URINARY BLADDER",
+            "pref_label": "Bladder",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12414"
+        },
+        {
+            "definition": "The fluid produced by the kidneys.",
+            "identifier": "C13283",
+            "notation": "URINE",
+            "pref_label": "Urine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C13283"
+        },
+        {
+            "definition": "The portion of the uterus that connects the oviduct to the corpus uteri.",
+            "identifier": "C161570",
+            "notation": "UTERINE HORN",
+            "pref_label": "Uterine Horn",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C161570"
+        },
+        {
+            "alt_label": "Womb",
+            "definition": "A hollow muscular organ within which the fertilized egg implants and the embryo/fetus develops during pregnancy.",
+            "identifier": "C12405",
+            "notation": "UTERUS",
+            "pref_label": "Uterus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12405"
+        },
+        {
+            "definition": "A specimen that contains the uterus and cervix.",
+            "identifier": "C92436",
+            "notation": "UTERUS/CERVIX",
+            "pref_label": "Uterus/Cervix",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92436"
+        },
+        {
+            "definition": "A specimen that contains the uterus and ovaries.",
+            "identifier": "C77672",
+            "notation": "UTERUS/OVARY",
+            "pref_label": "Uterus/Ovaries",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77672"
+        },
+        {
+            "alt_label": "Vagina",
+            "definition": "The female genital canal, extending from the uterus to the vulva. (NCI)",
+            "identifier": "C12407",
+            "notation": "VAGINA",
+            "pref_label": "Vagina",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12407"
+        },
+        {
+            "definition": "A cardiac valve located between the left ventricle and the aorta.",
+            "identifier": "C12670",
+            "notation": "VALVE, AORTIC",
+            "pref_label": "Aortic Valve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12670"
+        },
+        {
+            "definition": "A valve located in the heart.",
+            "identifier": "C12729",
+            "notation": "VALVE, CARDIAC",
+            "pref_label": "Cardiac Valve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12729"
+        },
+        {
+            "alt_label": "Left Atrioventricular Valve;Mitral Valve",
+            "definition": "A cardiac valve located between the left atrium and ventricle.",
+            "identifier": "C12753",
+            "notation": "VALVE, LEFT ATRIOVENTRICULAR",
+            "pref_label": "Mitral Valve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12753"
+        },
+        {
+            "definition": "A cardiac valve located between the right atrium and the pulmonary artery.",
+            "identifier": "C12775",
+            "notation": "VALVE, PULMONARY",
+            "pref_label": "Pulmonary Valve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12775"
+        },
+        {
+            "alt_label": "Right Atrioventricular Valve;Tricuspid Valve",
+            "definition": "A cardiac valve located between the right atrium and ventricle.",
+            "identifier": "C12805",
+            "notation": "VALVE, RIGHT ATRIOVENTRICULAR",
+            "pref_label": "Tricuspid Valve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12805"
+        },
+        {
+            "alt_label": "Ductus Deferens",
+            "definition": "A duct carrying spermatozoa from the epididymides to the urethra.",
+            "identifier": "C12813",
+            "notation": "VAS DEFERENS",
+            "pref_label": "Vas Deferens",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12813"
+        },
+        {
+            "alt_label": "Vein",
+            "definition": "A blood vessel that carries blood towards the heart.",
+            "identifier": "C12814",
+            "notation": "VEIN",
+            "pref_label": "Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12814"
+        },
+        {
+            "definition": "One of the veins of the pinna; in general these veins anastmose with each other or drain into the internal maxillary or superficial temporal vein.",
+            "identifier": "C77673",
+            "notation": "VEIN, AURICULAR",
+            "pref_label": "Auricular Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77673"
+        },
+        {
+            "definition": "A vein of the arm/forelimb; in general it arises from the union of the radial and ulnar veins and drains into the axillary vein.",
+            "identifier": "C12883",
+            "notation": "VEIN, BRACHIAL",
+            "pref_label": "Brachial Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12883"
+        },
+        {
+            "alt_label": "Tail Vein",
+            "definition": "A vein in the tail of some species.",
+            "identifier": "C92598",
+            "notation": "VEIN, CAUDAL",
+            "pref_label": "Caudal Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C92598"
+        },
+        {
+            "alt_label": "Vena Cephalica",
+            "definition": "A vein of the arm/forelimb; in general it arises from the dorsal venous network of the hand/forefoot and drains into the axillary vein.",
+            "identifier": "C32286",
+            "notation": "VEIN, CEPHALIC",
+            "pref_label": "Cephalic Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C32286"
+        },
+        {
+            "definition": "A vein of the thigh; in general it arises from the popliteal vein and drains into the external iliac vein.",
+            "identifier": "C12716",
+            "notation": "VEIN, FEMORAL",
+            "pref_label": "Femoral Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12716"
+        },
+        {
+            "alt_label": "Vena Jugularis",
+            "definition": "One of the veins of the neck; in general it arises from the junction of the maxillary and linguofacial veins and drains into the brachiocephalic or the cranial caval vein.",
+            "identifier": "C12738",
+            "notation": "VEIN, JUGULAR",
+            "pref_label": "Jugular Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12738"
+        },
+        {
+            "definition": "A vein of the abdomen; in general it arises from the intestines and pancreas, combines with the splenic vein, and drains into the portal vein.",
+            "identifier": "C53055",
+            "notation": "VEIN, MESENTERIC",
+            "pref_label": "Mesenteric Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C53055"
+        },
+        {
+            "alt_label": "Hepatic Portal Vein",
+            "definition": "A vein lying in the lower part of the abdomen; in general it arises from the junction of the mesenteric and splenic veins and draining into the liver.",
+            "identifier": "C33343",
+            "notation": "VEIN, PORTAL",
+            "pref_label": "Portal Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33343"
+        },
+        {
+            "definition": "Any of the veins that carry oxygenated blood from the lungs and drain into the left atrium of the heart.",
+            "identifier": "C12776",
+            "notation": "VEIN, PULMONARY",
+            "pref_label": "Pulmonary Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12776"
+        },
+        {
+            "definition": "A vein arising from the kidney; in general it drains into the caudal vena cava vein.",
+            "identifier": "C33462",
+            "notation": "VEIN, RENAL",
+            "pref_label": "Renal Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33462"
+        },
+        {
+            "alt_label": "Saphenous Vein",
+            "definition": "A vein of the leg/hindlimb; in general it arises from the venous network of the leg/hindfoot and drains into the femoral vein.",
+            "identifier": "C33511",
+            "notation": "VEIN, SAPHENA",
+            "pref_label": "Saphenous Vein",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33511"
+        },
+        {
+            "definition": "The two major veins (caudal or cranial) that carry deoxygenated blood from the body and drain into the right atrium of the heart.",
+            "identifier": "C12817",
+            "notation": "VEIN, VENA CAVA",
+            "pref_label": "Vena Cava",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12817"
+        },
+        {
+            "definition": "The portion of the stomach of some non-mammalian species located between the proventriculus and the small intestine.",
+            "identifier": "C114236",
+            "notation": "VENTRICULUS",
+            "pref_label": "Ventriculus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C114236"
+        },
+        {
+            "definition": "A tubular structure through which the blood circulates in the body. Blood vessels constitute a network composed of arteries, arterioles, capillaries, venules, and veins. (NCI)",
+            "identifier": "C12679",
+            "notation": "VESSEL, BLOOD",
+            "pref_label": "Blood Vessel",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12679"
+        },
+        {
+            "definition": "A thin-walled tubular structure through which the lymph circulates in the body.",
+            "identifier": "C33038",
+            "notation": "VESSEL, LYMPHATIC",
+            "pref_label": "Lymphatic Vessel",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C33038"
+        },
+        {
+            "alt_label": "Emesis;Vomitus",
+            "definition": "Partially digested gastric contents that are returned to the mouth or beyond via the vomit reflex present in some species.",
+            "identifier": "C77666",
+            "notation": "VOMITUS",
+            "pref_label": "Vomitus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77666"
+        },
+        {
+            "definition": "The external, visible part of the female genitalia surrounding the urethral and vaginal opening(s).",
+            "identifier": "C12408",
+            "notation": "VULVA",
+            "pref_label": "Vulva",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C12408"
+        },
+        {
+            "definition": "Referring to the entire body of an animal. (NCI)",
+            "identifier": "C77665",
+            "notation": "WHOLE ANIMAL",
+            "pref_label": "Whole Animal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C77665"
+        },
+        {
+            "definition": "Blood that has not been separated into its various components; blood that has not been modified except for the addition of an anticoagulant. (NCI)",
+            "identifier": "C41067",
+            "notation": "WHOLE BLOOD",
+            "pref_label": "Whole Blood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529-C41067"
+        }
+    ]
+}

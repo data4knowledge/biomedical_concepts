@@ -1,0 +1,1316 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Aortic Augmentation Index",
+            "definition": "The augmentation pressure divided by the aortic pulse pressure (aortic systolic minus aortic diastolic pressure) multiplied by 100, expressed as a percentage.",
+            "identifier": "C122038",
+            "notation": "AAUGIX",
+            "pref_label": "Aortic Augmentation Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C122038"
+        },
+        {
+            "alt_label": "Aortic Augmentation Index at 75bpm",
+            "definition": "The aortic augmentation index normalized to a heart rate of 75 beats per minute.",
+            "identifier": "C122083",
+            "notation": "AAUGIX75",
+            "pref_label": "Aortic Augmentation Index at 75bpm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C122083"
+        },
+        {
+            "alt_label": "Aortic Augmentation Pressure",
+            "definition": "The difference between the second pressure peak in the aortic wave, secondary to the pressure wave reflection from the sites of peripheral arterial impedance mismatch (P2) and the first pressure peak in the aortic wave form, secondary to ventricular ejection (P1).",
+            "identifier": "C122084",
+            "notation": "AAUGPR",
+            "pref_label": "Aortic Augmentation Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C122084"
+        },
+        {
+            "alt_label": "Aortic Augmentation Pressure Peak P1",
+            "definition": "The first pressure peak in the aortic wave form secondary to ventricular ejection.",
+            "identifier": "C122085",
+            "notation": "AAUGPRP1",
+            "pref_label": "Augmentation Pressure Point P1",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C122085"
+        },
+        {
+            "alt_label": "Aortic Augmentation Pressure Peak P2",
+            "definition": "The second pressure peak in the aortic waveform secondary to pressure wave reflection from the periphery.",
+            "identifier": "C122086",
+            "notation": "AAUGPRP2",
+            "pref_label": "Augmentation Pressure Point P2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C122086"
+        },
+        {
+            "alt_label": "Aortic Coarctation Indicator",
+            "definition": "An indication as to whether there is coarctation of the aorta.",
+            "identifier": "C139033",
+            "notation": "ACRCTIND",
+            "pref_label": "Aortic Coarctation Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139033"
+        },
+        {
+            "alt_label": "Aortic Coarctation Severity",
+            "definition": "The assessment of the severity of aortic coarctation.",
+            "identifier": "C139037",
+            "notation": "ACRCTSEV",
+            "pref_label": "Aortic Coarctation Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139037"
+        },
+        {
+            "alt_label": "Aortic Ductal Coarctation Severity;Aortic Juxta-ductal Coarctation Severity",
+            "definition": "The assessment of the severity of ductal aortic coarctation.",
+            "identifier": "C139035",
+            "notation": "ADUCSEV",
+            "pref_label": "Aortic Juxta-ductal Coarctation Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139035"
+        },
+        {
+            "alt_label": "Aneurysm Indicator",
+            "definition": "An indication as to whether there is the presence of one or more aneurysms.",
+            "identifier": "C139038",
+            "notation": "ANEURIND",
+            "pref_label": "Aneurysm Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139038"
+        },
+        {
+            "alt_label": "Annular a' Velocity",
+            "definition": "The peak velocity of the annular motion during late ventricular diastole (the active filling of the ventricle).",
+            "identifier": "C127535",
+            "notation": "ANNAVEL",
+            "pref_label": "Annular a' Velocity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127535"
+        },
+        {
+            "alt_label": "Annular e' Velocity",
+            "definition": "The peak velocity of the annular motion during early ventricular diastole (the passive filling of the ventricle).",
+            "identifier": "C127536",
+            "notation": "ANNEVEL",
+            "pref_label": "Annular e' Velocity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127536"
+        },
+        {
+            "alt_label": "Annular S' Velocity",
+            "definition": "The peak velocity of the annular motion during ventricular systole.",
+            "identifier": "C139045",
+            "notation": "ANNSVEL",
+            "pref_label": "Annular S' Velocity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139045"
+        },
+        {
+            "alt_label": "Aortic Postductal Coarctation Severity",
+            "definition": "The assessment of the severity of postductal aortic coarctation.",
+            "identifier": "C139036",
+            "notation": "APOSCSEV",
+            "pref_label": "Aortic Postductal Coarctation Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139036"
+        },
+        {
+            "alt_label": "Aortic Preductal Coarctation Severity",
+            "definition": "The assessment of the severity of preductal aortic coarctation.",
+            "identifier": "C139034",
+            "notation": "APRECSEV",
+            "pref_label": "Aortic Preductal Coarctation Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139034"
+        },
+        {
+            "alt_label": "Annular Plane Systolic Excursion",
+            "definition": "The longitudinal displacement of a cardiac valve annulus toward the apex of the heart.",
+            "identifier": "C139042",
+            "notation": "APSE",
+            "pref_label": "Annular Plane Systolic Excursion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139042"
+        },
+        {
+            "alt_label": "Area, End Ventricular Diastole",
+            "definition": "The 2-dimensional surface enclosed within a boundary of a cardiovascular structure and measured at end ventricular diastole.",
+            "identifier": "C127537",
+            "notation": "AREAEVD",
+            "pref_label": "Area at End Ventricular Diastole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127537"
+        },
+        {
+            "alt_label": "Area, End Ventricular Systole",
+            "definition": "The 2-dimensional surface enclosed within a boundary of a cardiovascular structure and measured at end ventricular systole.",
+            "identifier": "C127538",
+            "notation": "AREAEVS",
+            "pref_label": "Area at End Ventricular Systole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127538"
+        },
+        {
+            "alt_label": "Aortic Regur Jet Width LVOT Diam Rt;Aortic Regurgitant Jet Width to Left Ventricular Outflow Tract Diameter Ratio",
+            "definition": "A relative measurement (ratio) of the aortic regurgitant jet width to left ventricular outflow tract (LVOT) diameter.",
+            "identifier": "C127539",
+            "notation": "ARGJWLVD",
+            "pref_label": "Aortic Regurgitant Jet Width to Left Ventricular Outflow Tract Diameter Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127539"
+        },
+        {
+            "alt_label": "Aortic Valve Regurgitant Fraction",
+            "definition": "A measurement of the volume of retrograde blood flow across the orifice of the aortic valve expressed as a percentage of the anterograde flow volume.",
+            "identifier": "C127540",
+            "notation": "AVRGF",
+            "pref_label": "Aortic Valve Regurgitant Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127540"
+        },
+        {
+            "alt_label": "Aortic Valve Regurgitant Jet Width",
+            "definition": "The measured width of the regurgitant jet of blood into the left ventricular outflow tract.",
+            "identifier": "C127541",
+            "notation": "AVRGJW",
+            "pref_label": "Aortic Valve Regurgitant Jet Width",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127541"
+        },
+        {
+            "alt_label": "Aortic Valve Regurgitant Volume",
+            "definition": "A measurement of the volume of retrograde blood flow across the orifice of the aortic valve.",
+            "identifier": "C127542",
+            "notation": "AVRGVOL",
+            "pref_label": "Aortic Valve Regurgitant Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127542"
+        },
+        {
+            "alt_label": "Aortic Valve Vena Contracta Area",
+            "definition": "The area of the vena contracta of the aortic valve.",
+            "identifier": "C127543",
+            "notation": "AVVCA",
+            "pref_label": "Aortic Valve Vena Contracta Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127543"
+        },
+        {
+            "alt_label": "Aortic Valve Vena Contracta Width",
+            "definition": "The width of the vena contracta of the aortic valve.",
+            "identifier": "C127544",
+            "notation": "AVVCW",
+            "pref_label": "Aortic Valve Vena Contracta Width",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127544"
+        },
+        {
+            "alt_label": "Blood Flow Rate",
+            "definition": "The volume of blood per unit time passing through a specified location, such as a point in a blood vessel or an entire organ.",
+            "identifier": "C94866",
+            "notation": "BLDFLRT",
+            "pref_label": "Blood Flow Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C94866"
+        },
+        {
+            "alt_label": "Coronary Artery No Reflow Indicator",
+            "definition": "An indication as to whether there is a new acute reduction in coronary flow (TIMI grade 0-1) in the absence of dissection, thrombus, spasm, or high-grade residual stenosis at the original PCI lesion site.",
+            "identifier": "C119331",
+            "notation": "CANRFIND",
+            "pref_label": "Coronary No Reflow at PCI Site Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C119331"
+        },
+        {
+            "alt_label": "Cardiac Index",
+            "definition": "The measure of an individual's cardiac output divided by the individual's body surface area (CI= CO/BSA).",
+            "identifier": "C119245",
+            "notation": "CARDIDX",
+            "pref_label": "Cardiac Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C119245"
+        },
+        {
+            "alt_label": "Cardiac Output",
+            "definition": "The total volume of blood pumped by the heart over a set period of time, conventionally one minute; it is calculated as heart rate times stroke volume (CO= HR x SV).",
+            "identifier": "C119246",
+            "notation": "CARDOUT",
+            "pref_label": "Cardiac Output",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C119246"
+        },
+        {
+            "alt_label": "Cardiac Muscle Hypertrophy Indicator",
+            "definition": "An indication as to whether there is a hypertrophied cardiac muscle.",
+            "identifier": "C139063",
+            "notation": "CMHYIND",
+            "pref_label": "Heart Chamber Hypertrophy Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139063"
+        },
+        {
+            "alt_label": "Coronary Artery Dominance",
+            "definition": "The pattern of the epicardial vessels supplying the posterolateral and posterior descending coronary arteries.",
+            "identifier": "C100086",
+            "notation": "COARTDOM",
+            "pref_label": "Coronary Artery Dominance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C100086"
+        },
+        {
+            "alt_label": "Cross-sectional Diameter",
+            "definition": "A measurement of a structure taken along the plane that is perpendicular to the long axis.",
+            "identifier": "C139032",
+            "notation": "CSDIA",
+            "pref_label": "Cross-sectional Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139032"
+        },
+        {
+            "alt_label": "Cross-sec Diameter, EVD;Cross-sectional Diameter, End Ventricular Diastole",
+            "definition": "The cross sectional diameter of a cardiovascular structure measured at end ventricular diastole.",
+            "identifier": "C127545",
+            "notation": "CSDIAEVD",
+            "pref_label": "Cross-sectional Diameter at End Ventricular Diastole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127545"
+        },
+        {
+            "alt_label": "Cross-sec Diameter, EVS;Cross-sectional Diameter, End Ventricular Systole",
+            "definition": "The cross sectional diameter of a cardiovascular structure measured at end ventricular systole.",
+            "identifier": "C127546",
+            "notation": "CSDIAEVS",
+            "pref_label": "Cross-sectional Diameter at End Ventricular Systole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127546"
+        },
+        {
+            "alt_label": "Cross-sec Diameter, MVS;Cross-sectional Diameter, Mid Ventricular Systole",
+            "definition": "The cross sectional diameter of a cardiovascular structure measured at mid ventricular systole.",
+            "identifier": "C127547",
+            "notation": "CSDIAMVS",
+            "pref_label": "Cross-sectional Diameter at Mid Ventricular Systole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127547"
+        },
+        {
+            "alt_label": "Cusp Doming Indicator",
+            "definition": "An indication as to whether there is doming of a cardiac valve cusp.",
+            "identifier": "C127548",
+            "notation": "CSPDIND",
+            "pref_label": "Cusp Doming Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127548"
+        },
+        {
+            "alt_label": "Cusp Doming Severity",
+            "definition": "The assessment of the severity of doming of a cardiac valve cusp.",
+            "identifier": "C127549",
+            "notation": "CSPDSEV",
+            "pref_label": "Cusp Doming Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127549"
+        },
+        {
+            "alt_label": "Cusp Flail Indicator",
+            "definition": "An indication as to whether there is a flailing cardiac valve cusp.",
+            "identifier": "C127550",
+            "notation": "CSPFIND",
+            "pref_label": "Cusp Flail Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127550"
+        },
+        {
+            "alt_label": "Cusp Flail Severity",
+            "definition": "The assessment of the severity of a flailing cardiac valve cusp.",
+            "identifier": "C127551",
+            "notation": "CSPFSEV",
+            "pref_label": "Cusp Flail Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127551"
+        },
+        {
+            "alt_label": "Cusp Flail Timing",
+            "definition": "The time point during the cardiac cycle when the flail of one or more cardiac valve cusps occurs.",
+            "identifier": "C127552",
+            "notation": "CSPFT",
+            "pref_label": "Cusp Flail Timing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127552"
+        },
+        {
+            "alt_label": "Cusp Prolapse Indicator",
+            "definition": "An indication as to whether there is a prolapsing cardiac valve cusp.",
+            "identifier": "C127553",
+            "notation": "CSPPIND",
+            "pref_label": "Cusp Prolapse Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127553"
+        },
+        {
+            "alt_label": "Cusp Prolapse Severity",
+            "definition": "The assessment of the severity of a prolapsing cardiac valve cusp.",
+            "identifier": "C127554",
+            "notation": "CSPPSEV",
+            "pref_label": "Cusp Prolapse Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127554"
+        },
+        {
+            "alt_label": "Cusp Prolapse Timing",
+            "definition": "The time point during the cardiac cycle when the prolapse of one or more cardiac valve cusps occurs.",
+            "identifier": "C127555",
+            "notation": "CSPPT",
+            "pref_label": "Cusp Prolapse Timing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127555"
+        },
+        {
+            "alt_label": "Cusp Restricted Motion Indicator",
+            "definition": "An indication as to whether there is restricted motion of a cardiac valve cusp.",
+            "identifier": "C127556",
+            "notation": "CSPRMIND",
+            "pref_label": "Cusp Restricted Motion Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127556"
+        },
+        {
+            "alt_label": "Cusp Restricted Motion Severity",
+            "definition": "The assessment of the severity of restricted motion of a cardiac valve cusp.",
+            "identifier": "C127557",
+            "notation": "CSPRMSEV",
+            "pref_label": "Cusp Restricted Motion Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127557"
+        },
+        {
+            "alt_label": "Cusp Tethering Indicator",
+            "definition": "An indication as to whether there is tethering of a cardiac valve cusp.",
+            "identifier": "C127558",
+            "notation": "CSPTEIND",
+            "pref_label": "Cusp Tethering Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127558"
+        },
+        {
+            "alt_label": "Cusp Tethering Severity",
+            "definition": "The assessment of the severity of tethering of a cardiac valve cusp.",
+            "identifier": "C127559",
+            "notation": "CSPTESEV",
+            "pref_label": "Cusp Tethering Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127559"
+        },
+        {
+            "alt_label": "Cusp Thickening Indicator",
+            "definition": "An indication as to whether there is a thickened cardiac valve cusp.",
+            "identifier": "C127560",
+            "notation": "CSPTIND",
+            "pref_label": "Cusp Thickening Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127560"
+        },
+        {
+            "alt_label": "Cusp Thickening Severity",
+            "definition": "The assessment of the severity of a thickening cardiac cusp.",
+            "identifier": "C127561",
+            "notation": "CSPTSEV",
+            "pref_label": "Cusp Thickening Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127561"
+        },
+        {
+            "alt_label": "Chordae Tendineae Prolapse Indicator",
+            "definition": "An indication as to whether there is prolapsing of a cardiac valve chordae tendinae.",
+            "identifier": "C127562",
+            "notation": "CTPIND",
+            "pref_label": "Chordae Tendineae Prolapse Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127562"
+        },
+        {
+            "alt_label": "Cardiac Valvular Regurgitation Severity",
+            "definition": "The qualitative measurement of the severity of cardiac valvular regurgitation.",
+            "identifier": "C102244",
+            "notation": "CVLREGTS",
+            "pref_label": "Cardiac Valvular Regurgitation Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C102244"
+        },
+        {
+            "alt_label": "Cardiac Valvular Stenosis Severity",
+            "definition": "The qualitative measurement of the severity of cardiac valvular stenosis.",
+            "identifier": "C102245",
+            "notation": "CVLSTNS",
+            "pref_label": "Cardiac Valvular Stenosis Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C102245"
+        },
+        {
+            "alt_label": "Cardiac Valvular Regurgitation Indicator",
+            "definition": "An indication as to whether a specific cardiac valve is regurgitant.",
+            "identifier": "C139055",
+            "notation": "CVRGIND",
+            "pref_label": "Cardiac Valvular Regurgitation Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139055"
+        },
+        {
+            "alt_label": "Cardiac Valve Regur Jet Direction;Cardiac Valve Regurgitation Jet Direction",
+            "definition": "The trajectory of the retrograde blood flow from a cardiac valve.",
+            "identifier": "C127563",
+            "notation": "CVRGJDR",
+            "pref_label": "Cardiac Valve Regurgitant Jet Direction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127563"
+        },
+        {
+            "alt_label": "Cardiac Valvular Regur Likely Etiology;Cardiac Valvular Regurgitation Likely Etiology",
+            "definition": "An estimation as to the cause of the pathology responsible for the cardiac valve regurgitation.",
+            "identifier": "C139056",
+            "notation": "CVRGLE",
+            "pref_label": "Cardiac Valvular Regurgitation Likely Etiology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139056"
+        },
+        {
+            "alt_label": "Cardiac Wall Motion Type",
+            "definition": "The assessment of the movement of the cardiac muscle, either as a whole or at one or more specific anatomical locations.",
+            "identifier": "C127564",
+            "notation": "CWMTYP",
+            "pref_label": "Cardiac Wall Motion Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127564"
+        },
+        {
+            "alt_label": "DeBakey AoD Classification;DeBakey Aortic Dissection Classification",
+            "definition": "The type of aortic dissection present as defined by the DeBakey Classification System (DeBakey ME, Henly WS, Cooley DA, Morris GC Jr, Crawford ES, Beall AC Jr. Surgical management of dissecting aneurysms of the aorta. J Thorac Cardiovasc Surg. 1965 Jan;49:130-49).",
+            "identifier": "C139041",
+            "notation": "DEBAKADC",
+            "pref_label": "DeBakey Aortic Dissection Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139041"
+        },
+        {
+            "alt_label": "Depth",
+            "definition": "The extent downward or inward; the perpendicular measurement from the surface downward to determine deepness. (NCI)",
+            "identifier": "C25333",
+            "notation": "DEPTH",
+            "pref_label": "Depth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C25333"
+        },
+        {
+            "alt_label": "Dimensionless Index;Dimensionless Velocity Index",
+            "definition": "The ratio of the blood velocity in the left ventricular outflow tract (LVOT) to the maximum blood velocity across the aortic valve.",
+            "identifier": "C147148",
+            "notation": "DIMSSNDX",
+            "pref_label": "Dimensionless Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C147148"
+        },
+        {
+            "alt_label": "Dissection Indicator",
+            "definition": "An indication as to whether there is the presence of blood vessel dissection.",
+            "identifier": "C139039",
+            "notation": "DISECIND",
+            "pref_label": "Dissection Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139039"
+        },
+        {
+            "alt_label": "Effective Regurgitant Orifice Area",
+            "definition": "A measurement of the effective regurgitant orifice area of the valve.",
+            "identifier": "C127565",
+            "notation": "EFFRGOA",
+            "pref_label": "Effective Regurgitant Orifice Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127565"
+        },
+        {
+            "alt_label": "Ejection Wave Amplitude",
+            "definition": "The magnitude of the ejection wave that occurs when blood is ejected into the aorta by the left ventricle.",
+            "identifier": "C122088",
+            "notation": "EJWAMP",
+            "pref_label": "Ejection Wave Amplitude",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C122088"
+        },
+        {
+            "alt_label": "Effective Orifice Area",
+            "definition": "The calculated estimate of the area of a cardiac valve at the point of maximum opening.",
+            "identifier": "C147149",
+            "notation": "EOA",
+            "pref_label": "Effective Orifice Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C147149"
+        },
+        {
+            "alt_label": "Effective Orifice Area Index",
+            "definition": "The ratio of the effective orifice area (EOA) to the body surface area (BSA).",
+            "identifier": "C147150",
+            "notation": "EOAINDEX",
+            "pref_label": "Effective Orifice Area Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C147150"
+        },
+        {
+            "alt_label": "Eccentric Regurgitant Jet Indicator",
+            "definition": "An indication as to whether an eccentric regurgitant jet direction is present.",
+            "identifier": "C139057",
+            "notation": "ERGJIND",
+            "pref_label": "Eccentric Regurgitant Jet Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139057"
+        },
+        {
+            "alt_label": "Fractional Area Change",
+            "definition": "The percent reduction in the area of a given structure with the following formula: (EDA-ESA)/EDA times 100, where EDA is end diastolic area and ESA is end systolic area.",
+            "identifier": "C142241",
+            "notation": "FAC",
+            "pref_label": "Fractional Area Change",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C142241"
+        },
+        {
+            "alt_label": "Observed Foreign Body Indicator",
+            "definition": "An indication as to whether a medical or non-medical foreign body is present in a subject.",
+            "identifier": "C147151",
+            "notation": "FBODYIND",
+            "pref_label": "Observed Foreign Body Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C147151"
+        },
+        {
+            "alt_label": "Heart Chamber Enlargement Indicator",
+            "definition": "An indication as to whether there is an enlarged heart chamber.",
+            "identifier": "C139062",
+            "notation": "HCENLIND",
+            "pref_label": "Heart Chamber Enlargement Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139062"
+        },
+        {
+            "alt_label": "Heart Chamber Volume, End Ventricular Diastole;Heart Chamber Volume, EVD",
+            "definition": "The volume of blood remaining in a heart chamber at end ventricular diastole.",
+            "identifier": "C135372",
+            "notation": "HCVOLEVD",
+            "pref_label": "Heart Chamber Volume at End Ventricular Diastole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C135372"
+        },
+        {
+            "alt_label": "Heart Chamber Volume, End Ventricular Systole;Heart Chamber Volume, EVS",
+            "definition": "The volume of blood remaining in a heart chamber at end ventricular systole.",
+            "identifier": "C135373",
+            "notation": "HCVOLEVS",
+            "pref_label": "Heart Chamber Volume at End Ventricular Systole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C135373"
+        },
+        {
+            "alt_label": "In-Stent Restenosis Indicator",
+            "definition": "An indication as to whether there is re-narrowing of a stent implanted at a lesion site to treat a prior stenosis, to a diameter stenosis of greater than 50% within the stent.",
+            "identifier": "C116148",
+            "notation": "INRSTIND",
+            "pref_label": "In-Stent Restenosis Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C116148"
+        },
+        {
+            "alt_label": "Interpretation",
+            "definition": "An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.",
+            "identifier": "C41255",
+            "notation": "INTP",
+            "pref_label": "Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C41255"
+        },
+        {
+            "alt_label": "Ischemic Myocardium Percentage",
+            "definition": "The percentage of myocardial tissue which exhibits characteristics of inadequate blood flow (ischemia).",
+            "identifier": "C80494",
+            "notation": "ISHMYOP",
+            "pref_label": "Ischemic Myocardium Percentage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C80494"
+        },
+        {
+            "alt_label": "Inferior Vena Cava Collapse Indicator;Inferior Vena Cava Collapse Sniff Ind",
+            "definition": "An indication as to whether inferior vena cava collapse occurred with sniff.",
+            "identifier": "C130055",
+            "notation": "IVCCSIND",
+            "pref_label": "Inferior Vena Cava Collapse Due to Sniff Test Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C130055"
+        },
+        {
+            "alt_label": "Largest Cross-sec Diameter, EVD;Largest Cross-sectional Diameter, End Ventricular Diastole",
+            "definition": "The largest cross sectional diameter of a vascular structure measured at end ventricular diastole.",
+            "identifier": "C127566",
+            "notation": "LCDIAEVD",
+            "pref_label": "Largest Cross-sectional Diameter at End Ventricular Diastole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127566"
+        },
+        {
+            "alt_label": "Length",
+            "definition": "The linear extent in space from one end of something to the other end, or the extent of something from beginning to end. (NCI)",
+            "identifier": "C25334",
+            "notation": "LENGTH",
+            "pref_label": "Length",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C25334"
+        },
+        {
+            "alt_label": "Largest Cross-sec Thickness;Largest Cross-sectional Thickness",
+            "definition": "The assessment of the largest cross-sectional thickness of a tissue.",
+            "identifier": "C127567",
+            "notation": "LGTHCK",
+            "pref_label": "Largest Cross-sectional Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127567"
+        },
+        {
+            "alt_label": "Late Lumen Loss",
+            "definition": "The difference between the mean minimum lumen diameter (MLD) assessed immediately after an index procedure and the MLD assessed at follow-up angiography.",
+            "identifier": "C116146",
+            "notation": "LLMLOSS",
+            "pref_label": "Late Lumen Loss Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C116146"
+        },
+        {
+            "alt_label": "Lesion Restenosis Indicator",
+            "definition": "An indication as to whether there is re-narrowing of a lesion site following treatment of a prior stenosis, to a diameter stenosis of greater than 50% at the previously treated lesion site.",
+            "identifier": "C116147",
+            "notation": "LRSTIND",
+            "pref_label": "Lesion Restenosis Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C116147"
+        },
+        {
+            "alt_label": "Left Ventricular Ejection Fraction",
+            "definition": "The percent or fraction of the left ventricular end diastolic volume ejected during systole that can be measured by visual estimation or calculation.",
+            "identifier": "C99524",
+            "notation": "LVEF",
+            "pref_label": "Left Ventricular Ejection Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C99524"
+        },
+        {
+            "alt_label": "Left Ventricular Ejection Fraction, Cal;Left Ventricular Ejection Fraction, Calculated",
+            "definition": "A calculated estimation of the percent or fraction of the volume of blood ejected from the left ventricle during left ventricular systole, calculated as the left ventricular stroke volume divided by the left ventricular end diastolic volume.",
+            "identifier": "C135374",
+            "notation": "LVEF_C",
+            "pref_label": "Calculated Left Ventricular Ejection Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C135374"
+        },
+        {
+            "alt_label": "Left Ventricular Ejection Fraction, Est;Left Ventricular Ejection Fraction, Estimated",
+            "definition": "A visual estimation of the percent or fraction of the volume of blood ejected from the left ventricle during left ventricular systole.",
+            "identifier": "C135375",
+            "notation": "LVEF_E",
+            "pref_label": "Estimated Left Ventricular Ejection Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C135375"
+        },
+        {
+            "alt_label": "Left Ventricular Fractional Shortening",
+            "definition": "The reduction in the length of the end-diastolic diameter dimension that occurs between end-systole and end-diastole, expressed as a fraction of the end-diastolic dimension. Calculation of the left ventricular fractional shortening is per the following formula: [(end-diastolic dimension minus end-systolic dimension) divided by end-diastolic dimension] multiplied by 100.",
+            "identifier": "C38020",
+            "notation": "LVFS",
+            "pref_label": "Left Ventricular Fractional Shortening",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C38020"
+        },
+        {
+            "alt_label": "Left Ventricular Mass, Estimated",
+            "definition": "The weight of the left ventricle in grams as estimated by a formula that uses estimated measurements from echocardiographic exams, as well as constants like the specific gravity of the myocardium. Left ventricular mass is estimated using the following equation, LV Mass (g) = 0.8 {1.04[([LVEDD + IVSd + PWd]^3 - LVEDD^3)]} + 0.6, where LVEDD is LV end-diastolic dimension, IVSd is interventricular septal thickness at end-diastole, and PWd is posterior wall thickness at end-diastole.",
+            "identifier": "C142242",
+            "notation": "LVMAS_E",
+            "pref_label": "Estimated Mass of Left Ventricle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C142242"
+        },
+        {
+            "alt_label": "Left Ventricular Mass Index",
+            "definition": "The left ventricular mass divided by the subject's body surface area.",
+            "identifier": "C142243",
+            "notation": "LVMASIDX",
+            "pref_label": "Left Ventricular Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C142243"
+        },
+        {
+            "alt_label": "Left Ventricular Outflow Tract Peak Velocity;LVOT Peak Velocity",
+            "definition": "A measurement of the maximum velocity of blood flow measured in the left ventricular outflow tract during left ventricular systole.",
+            "identifier": "C127568",
+            "notation": "LVOTPVEL",
+            "pref_label": "Left Ventricular Outflow Tract Peak Velocity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127568"
+        },
+        {
+            "alt_label": "Left Ventricular Outflow Tract Velocity Time Integral;LVOT Velocity Time Integral",
+            "definition": "The integral of all of the instantaneous flow velocities within the left ventricular outflow tract during left ventricular systole.",
+            "identifier": "C127569",
+            "notation": "LVOTVTI",
+            "pref_label": "Left Ventricular Outflow Tract Velocity Time Integral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127569"
+        },
+        {
+            "alt_label": "Mass",
+            "definition": "The amount of matter in an object.",
+            "identifier": "C43246",
+            "notation": "MASS",
+            "pref_label": "Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C43246"
+        },
+        {
+            "alt_label": "Maximal Pericardial Effusion Width",
+            "definition": "The quantitative measurement of the maximum separation between the parietal and visceral pericardia during diastole.",
+            "identifier": "C139048",
+            "notation": "MAXPEFFW",
+            "pref_label": "Maximal Pericardial Effusion Width",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139048"
+        },
+        {
+            "alt_label": "Mean Blood Flow Velocity",
+            "definition": "A measurement of the mean velocity of blood across an area or tissue.",
+            "identifier": "C127570",
+            "notation": "MBFVEL",
+            "pref_label": "Mean Blood Flow Velocity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127570"
+        },
+        {
+            "alt_label": "Mean Blood Pressure, Estimated",
+            "definition": "The estimated average blood pressure. (NCI)",
+            "identifier": "C135376",
+            "notation": "MEANBP_E",
+            "pref_label": "Estimated Mean Blood Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C135376"
+        },
+        {
+            "alt_label": "Mean Vessel Diameter",
+            "definition": "The mean of the inside diameters of the normal blood vessel segments.",
+            "identifier": "C116143",
+            "notation": "MEANVDIA",
+            "pref_label": "Mean Vessel Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C116143"
+        },
+        {
+            "alt_label": "Mean Pressure Gradient",
+            "definition": "A value that represents the mean pressure gradient that exists between two points across a structure.",
+            "identifier": "C147152",
+            "notation": "MGPRES",
+            "pref_label": "Mean Pressure Gradient",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C147152"
+        },
+        {
+            "alt_label": "Minimum Vessel Lumen Diameter",
+            "definition": "The minimum diameter of the inside of a blood vessel (lumen) derived quantitatively in a single view.",
+            "identifier": "C116144",
+            "notation": "MINLDIAM",
+            "pref_label": "Minimum Vessel Lumen Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C116144"
+        },
+        {
+            "alt_label": "Mitral E/A Ratio",
+            "definition": "The ratio of the peak early ventricular diastolic (E) transmitral velocity to the peak late ventricular diastolic (A) transmitral velocity.",
+            "identifier": "C127571",
+            "notation": "MITRALEA",
+            "pref_label": "Mitral E/A Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127571"
+        },
+        {
+            "alt_label": "Mitral E/e' Ratio",
+            "definition": "The ratio of the peak early ventricular diastolic (E) transmitral velocity to the peak early mitral annular motion velocity (e').",
+            "identifier": "C127572",
+            "notation": "MITRALEE",
+            "pref_label": "Mitral E/e' Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127572"
+        },
+        {
+            "alt_label": "Major Axis Cross-sec. Diameter;Major Axis Cross-sectional Diameter",
+            "definition": "The cross sectional diameter of a tissue, organ, or structure measured along its major axis. (NCI)",
+            "identifier": "C135377",
+            "notation": "MJDIA",
+            "pref_label": "Major Axis Cross-sectional Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C135377"
+        },
+        {
+            "alt_label": "Major Axis Cross-sec Diameter, EVD;Major Axis Cross-sectional Diameter, End Ventricular Diastole",
+            "definition": "The cross sectional diameter of a cardiovascular structure measured along its major axis at end ventricular diastole.",
+            "identifier": "C127573",
+            "notation": "MJDIAEVD",
+            "pref_label": "Major Axis Cross-sectional Diameter at End Ventricular Diastole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127573"
+        },
+        {
+            "alt_label": "Major Axis Cross-sec Diameter, EVS;Major Axis Cross-sectional Diameter, End Ventricular Systole",
+            "definition": "The cross sectional diameter of a cardiovascular structure measured along its major axis at end ventricular systole.",
+            "identifier": "C127574",
+            "notation": "MJDIAEVS",
+            "pref_label": "Major Axis Cross-sectional Diameter at End Ventricular Systole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127574"
+        },
+        {
+            "alt_label": "Major Axis Cross-sec. Diameter, MVS;Major Axis Cross-sectional Diameter, Mid Ventricular Systole",
+            "definition": "The cross-sectional diameter of a cardiovascular structure measured along its major axis at mid ventricular systole.",
+            "identifier": "C139053",
+            "notation": "MJDIAMVS",
+            "pref_label": "Major Axis Cross-sectional Diameter at Mid Ventricular Systole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139053"
+        },
+        {
+            "alt_label": "Major Axis Internal Diameter, End Ventricular Diastole;Major Axis Internal Diameter, EVD",
+            "definition": "The internal diameter of a cardiovascular structure measured along its major axis at end ventricular diastole.",
+            "identifier": "C139059",
+            "notation": "MJIDEVD",
+            "pref_label": "Major Axis Internal Diameter at End Ventricular Diastole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139059"
+        },
+        {
+            "alt_label": "Major Axis Internal Diameter, End Ventricular Systole;Major Axis Internal Diameter, EVS",
+            "definition": "The internal diameter of a cardiovascular structure measured along its major axis at end ventricular systole.",
+            "identifier": "C139058",
+            "notation": "MJIDEVS",
+            "pref_label": "Major Axis Internal Diameter at End Ventricular Systole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139058"
+        },
+        {
+            "alt_label": "Minor Axis Cross-sec. Diameter;Minor Axis Cross-sectional Diameter",
+            "definition": "The cross sectional diameter of a tissue, organ, or structure measured along its minor axis. (NCI)",
+            "identifier": "C135378",
+            "notation": "MNDIA",
+            "pref_label": "Minor Axis Cross-sectional Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C135378"
+        },
+        {
+            "alt_label": "Minor Axis Cross-sec Diameter, EVD;Minor Axis Cross-sectional Diameter, End Ventricular Diastole",
+            "definition": "The cross sectional diameter of a cardiovascular structure measured along its minor axis at end ventricular diastole.",
+            "identifier": "C127575",
+            "notation": "MNDIAEVD",
+            "pref_label": "Minor Axis Cross-sectional Diameter at End Ventricular Diastole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127575"
+        },
+        {
+            "alt_label": "Minor Axis Cross-sec Diameter, EVS;Minor Axis Cross-sectional Diameter, End Ventricular Systole",
+            "definition": "The cross sectional diameter of a cardiovascular structure measured along its minor axis at end ventricular systole.",
+            "identifier": "C127576",
+            "notation": "MNDIAEVS",
+            "pref_label": "Minor Axis Cross-sectional Diameter at End Ventricular Systole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127576"
+        },
+        {
+            "alt_label": "Minor Axis Cross-sec. Diameter, MVS;Minor Axis Cross-sectional Diameter, Mid Ventricular Systole",
+            "definition": "The cross-sectional diameter of a cardiovascular structure measured along its minor axis at mid ventricular systole.",
+            "identifier": "C139052",
+            "notation": "MNDIAMVS",
+            "pref_label": "Minor Axis Cross-sectional Diameter at Mid Ventricular Systole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139052"
+        },
+        {
+            "alt_label": "Minor Axis Internal Diameter, End Ventricular Diastole;Minor Axis Internal Diameter, EVD",
+            "definition": "The internal diameter of a cardiovascular structure measured along its minor axis at end ventricular diastole.",
+            "identifier": "C139061",
+            "notation": "MNIDEVD",
+            "pref_label": "Minor Axis Internal Diameter at End Ventricular Diastole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139061"
+        },
+        {
+            "alt_label": "Minor Axis Internal Diameter, End Ventricular Systole;Minor Axis Internal Diameter, EVS",
+            "definition": "The internal diameter of a cardiovascular structure measured along its minor axis at end ventricular systole.",
+            "identifier": "C139060",
+            "notation": "MNIDEVS",
+            "pref_label": "Minor Axis Internal Diameter at End Ventricular Systole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139060"
+        },
+        {
+            "alt_label": "Myocardial Performance Index",
+            "definition": "A calculated result that uses the following base formula to quantify both systolic and diastolic ventricular function: MPI = (IVCT + IVRT)/VET, where IVCT is isovolumetric contraction time, IVRT is isovolumetric relaxation time, and VET is ventricular ejection time.",
+            "identifier": "C139043",
+            "notation": "MPI",
+            "pref_label": "Myocardial Performance Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139043"
+        },
+        {
+            "alt_label": "Mitral Regur Jet Area L Atrial Area Rt;Mitral Regurgitant Jet Area to Left Atrial Area Ratio",
+            "definition": "A relative measurement (ratio) of the mitral regurgitant jet area to left atrial area.",
+            "identifier": "C127577",
+            "notation": "MRGJALA",
+            "pref_label": "Mitral Regurgitant Jet Area to Left Atrial Area Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127577"
+        },
+        {
+            "alt_label": "Mitral Valve Regurgitant Fraction",
+            "definition": "A measurement of the volume of retrograde blood flow across the orifice of the mitral valve expressed as a percentage of the anterograde flow volume.",
+            "identifier": "C127578",
+            "notation": "MVRGF",
+            "pref_label": "Mitral Valve Regurgitant Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127578"
+        },
+        {
+            "alt_label": "Mitral Valve Regurgitant Jet Area",
+            "definition": "The measured area of the regurgitant jet of blood into the left atrium.",
+            "identifier": "C127579",
+            "notation": "MVRGJA",
+            "pref_label": "Mitral Valve Regurgitant Jet Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127579"
+        },
+        {
+            "alt_label": "Mitral Valve Regurgitant Volume",
+            "definition": "A measurement of the volume of retrograde blood flow across the orifice of the mitral valve.",
+            "identifier": "C127580",
+            "notation": "MVRGVOL",
+            "pref_label": "Mitral Valve Regurgitant Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127580"
+        },
+        {
+            "alt_label": "Mitral Valve Vena Contracta Area",
+            "definition": "The area of the vena contracta of the mitral valve.",
+            "identifier": "C127581",
+            "notation": "MVVCA",
+            "pref_label": "Mitral Valve Vena Contracta Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127581"
+        },
+        {
+            "alt_label": "Mitral Valve Vena Contracta Width",
+            "definition": "The width of the vena contracta of the mitral valve.",
+            "identifier": "C127582",
+            "notation": "MVVCW",
+            "pref_label": "Mitral Valve Vena Contracta Width",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127582"
+        },
+        {
+            "alt_label": "Native Cardiac Valve Intervention Type",
+            "definition": "A description of what kind of intervention has been performed on a native cardiac valve.",
+            "identifier": "C139050",
+            "notation": "NCVALTYP",
+            "pref_label": "Native Cardiac Valve Intervention Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139050"
+        },
+        {
+            "alt_label": "Number of Cusps",
+            "definition": "A quantitative determination of the number of cusps composing a given cardiac valve.",
+            "identifier": "C139054",
+            "notation": "NUMCUSPS",
+            "pref_label": "Number of Cardiac Valve Cusps",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139054"
+        },
+        {
+            "alt_label": "Number of Diseased Coronary Vessels",
+            "definition": "Number of major epicardial vessels with greater than or equal to 70% reduction in diameter or greater than or equal to 50% reduction in cross-sectional area.",
+            "identifier": "C99996",
+            "notation": "NUMDCAV",
+            "pref_label": "Number of Diseased Coronary Artery Vessels",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C99996"
+        },
+        {
+            "alt_label": "Obs Med Device Type In Intended Loc;Observed Medical Device In The Intended Location",
+            "definition": "A description of the type of medical device that is found in a subject and is in its intended location.",
+            "identifier": "C146994",
+            "notation": "OBMDILOC",
+            "pref_label": "Observed Medical Device Type In Intended Location",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C146994"
+        },
+        {
+            "alt_label": "Obs Med Device Type Not In Intended Loc",
+            "definition": "A description of the type of medical device that is found in a subject but is not in its intended location.",
+            "identifier": "C147153",
+            "notation": "OBMDNLOC",
+            "pref_label": "Observed Medical Device Type Not Present In Intended Location Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C147153"
+        },
+        {
+            "alt_label": "Observed Non-Medical Foreign Body Type",
+            "definition": "A description of the type of non-medical foreign body that is found in a subject.",
+            "identifier": "C147154",
+            "notation": "OBNMFBT",
+            "pref_label": "Observed Non-Medical Foreign Body Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C147154"
+        },
+        {
+            "alt_label": "Pulmonary Arterial Hypertension Ind;Pulmonary Arterial Hypertension Indicator",
+            "definition": "An indication as to whether pulmonary arterial hypertension is present.",
+            "identifier": "C135379",
+            "notation": "PAHTNIND",
+            "pref_label": "Pulmonary Arterial Hypertension Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C135379"
+        },
+        {
+            "alt_label": "Peak Blood Flow Velocity",
+            "definition": "A measurement of the maximum velocity of blood across an area or tissue.",
+            "identifier": "C127583",
+            "notation": "PBFVEL",
+            "pref_label": "Peak Blood Flow Velocity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127583"
+        },
+        {
+            "alt_label": "Percent Diameter Stenosis",
+            "definition": "The value calculated as 100 x (1 - MLD/RVD), using the mean quantitative values for minimum lumen diameter (MLD) and reference vessel diameter (RVD).",
+            "identifier": "C116145",
+            "notation": "PCTDIAST",
+            "pref_label": "Percent Diameter Stenosis Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C116145"
+        },
+        {
+            "alt_label": "Prosthetic Cardiac Valve Type",
+            "definition": "A description of the type of artificial cardiac valve in use.",
+            "identifier": "C139051",
+            "notation": "PCVALTYP",
+            "pref_label": "Prosthetic Cardiac Valve Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139051"
+        },
+        {
+            "alt_label": "Pericardial Effusion Indicator",
+            "definition": "An indication as to whether there is effusion between the parietal and visceral pericardia.",
+            "identifier": "C139046",
+            "notation": "PEFFIND",
+            "pref_label": "Pericardial Effusion Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139046"
+        },
+        {
+            "alt_label": "Pericardial Effusion Size",
+            "definition": "The qualitative description of the overall size of a pericardial effusion as assessed at the point of greatest separation between the parietal and visceral pericardia during diastole.",
+            "identifier": "C139047",
+            "notation": "PEFFSIZE",
+            "pref_label": "Pericardial Effusion Size",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139047"
+        },
+        {
+            "alt_label": "Peak Pressure Gradient",
+            "definition": "A value that represents the maximum pressure gradient that exists between two points across a structure.",
+            "identifier": "C147155",
+            "notation": "PGPRES",
+            "pref_label": "Peak Pressure Gradient",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C147155"
+        },
+        {
+            "alt_label": "Peak A Velocity",
+            "definition": "The peak velocity of blood flow across a cardiac valve during late ventricular diastole (the active filling of the ventricle).",
+            "identifier": "C127584",
+            "notation": "PKAVEL",
+            "pref_label": "Peak A Velocity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127584"
+        },
+        {
+            "alt_label": "Peak E Velocity",
+            "definition": "The peak velocity of blood flow across a cardiac valve during early ventricular diastole (the passive filling of the ventricle).",
+            "identifier": "C127585",
+            "notation": "PKEVEL",
+            "pref_label": "Peak E Velocity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127585"
+        },
+        {
+            "alt_label": "Peak Pressure Rise Rate",
+            "definition": "The greatest rate of increase in peak pressure.",
+            "identifier": "C139044",
+            "notation": "PPRR",
+            "pref_label": "Peak Pressure Rise Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139044"
+        },
+        {
+            "alt_label": "Pressure Half Time",
+            "definition": "The amount of time required for the peak transvalvular pressure gradient to decrease to one half of the value.",
+            "identifier": "C147156",
+            "notation": "PRESHT",
+            "pref_label": "Pressure Half Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C147156"
+        },
+        {
+            "alt_label": "Pulmonic Regur Jet Width RVOT Diam Rt;Pulmonic Regurgitant Jet Width to Right Ventricular Outflow Tract Diameter Ratio",
+            "definition": "A relative measurement (ratio) of the pulmonic regurgitant jet width to right ventricular outflow tract (RVOT) diameter.",
+            "identifier": "C127586",
+            "notation": "PRGJWRVD",
+            "pref_label": "Pulmonic Regurgitant Jet Width to Right Ventricular Outflow Tract Diameter Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127586"
+        },
+        {
+            "alt_label": "Pulmonary Vein Dominance",
+            "definition": "The determination of whether blood flow in the pulmonary veins is greater during ventricular systole or diastole.",
+            "identifier": "C127587",
+            "notation": "PVEINDOM",
+            "pref_label": "Pulmonary Vein Dominance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127587"
+        },
+        {
+            "alt_label": "Pulmonary Vascular Resistance",
+            "definition": "The resistance to blood flow through the pulmonary vasculature.",
+            "identifier": "C119247",
+            "notation": "PVR",
+            "pref_label": "Pulmonary Vascular Resistance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C119247"
+        },
+        {
+            "alt_label": "Pulmonary Valve Regurgitant Fraction",
+            "definition": "A measurement of the volume of retrograde blood flow across the orifice of the pulmonic valve expressed as a percentage of the anterograde flow volume.",
+            "identifier": "C127588",
+            "notation": "PVRGF",
+            "pref_label": "Pulmonary Valve Regurgitant Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127588"
+        },
+        {
+            "alt_label": "Pulmonic Valve Regurgitant Jet Width",
+            "definition": "The measured width of the regurgitant jet of blood into the right ventricular outflow tract.",
+            "identifier": "C127589",
+            "notation": "PVRGJW",
+            "pref_label": "Pulmonic Valve Regurgitant Jet Width",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127589"
+        },
+        {
+            "alt_label": "Pulmonary Valve Regurgitant Volume",
+            "definition": "A measurement of the volume of retrograde blood flow across the orifice of the pulmonic valve.",
+            "identifier": "C127590",
+            "notation": "PVRGVOL",
+            "pref_label": "Pulmonary Valve Regurgitant Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127590"
+        },
+        {
+            "alt_label": "Pulmonary Valve Vena Contracta Area",
+            "definition": "The area of the vena contracta of the pulmonic valve.",
+            "identifier": "C127591",
+            "notation": "PVVCA",
+            "pref_label": "Pulmonary Valve Vena Contracta Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127591"
+        },
+        {
+            "alt_label": "Pulmonary Valve Vena Contracta Width",
+            "definition": "The width of the vena contracta of the pulmonic valve.",
+            "identifier": "C127592",
+            "notation": "PVVCW",
+            "pref_label": "Pulmonary Valve Vena Contracta Width",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127592"
+        },
+        {
+            "alt_label": "Pulse Wave Velocity",
+            "definition": "The distance traveled by the peak of the ventricular ejection pressure wave per unit of time.",
+            "identifier": "C122087",
+            "notation": "PWV",
+            "pref_label": "Pulse Wave Velocity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C122087"
+        },
+        {
+            "alt_label": "Reflection Magnitude",
+            "definition": "The reflected-to-forward pressure wave amplitude ratio. (Hashimoto J et al, J Hypertens. 2008 May;26(5):1017-24)",
+            "identifier": "C122089",
+            "notation": "RFLMAG",
+            "pref_label": "Reflection Magnitude",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C122089"
+        },
+        {
+            "alt_label": "Reflection Wave Amplitude",
+            "definition": "The summation of the numerous waves being reflected by sites of impedance mismatch where central elastic arteries join more muscular arteries.",
+            "identifier": "C122090",
+            "notation": "RFLWAMP",
+            "pref_label": "Reflection Wave Amplitude",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C122090"
+        },
+        {
+            "alt_label": "Right Ventricular Ejection Fraction, Cal;Right Ventricular Ejection Fraction, Calculated",
+            "definition": "A calculated estimation of the percent or fraction of the volume of blood ejected from the right ventricle during right ventricular systole, calculated as the right ventricular stroke volume divided by the right ventricular end diastolic volume.",
+            "identifier": "C135380",
+            "notation": "RVEF_C",
+            "pref_label": "Calculated Right Ventricular Ejection Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C135380"
+        },
+        {
+            "alt_label": "Right Ventricular Ejection Fraction, Est;Right Ventricular Ejection Fraction, Estimated",
+            "definition": "A visual estimation of the percent or fraction of the volume of blood ejected from the right ventricle during right ventricular systole.",
+            "identifier": "C135381",
+            "notation": "RVEF_E",
+            "pref_label": "Estimated Right Ventricular Ejection Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C135381"
+        },
+        {
+            "alt_label": "SAM Indicator;Systolic Anterior Motion Indicator",
+            "definition": "An indication as to whether there is systolic anterior motion of a cardiac valve and its associated structures.",
+            "identifier": "C127593",
+            "notation": "SAMIND",
+            "pref_label": "Systolic Anterior Motion Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127593"
+        },
+        {
+            "alt_label": "SAM Severity;Systolic Anterior Motion Severity",
+            "definition": "The assessment of the severity of the systolic anterior motion of a cardiac valve and its associated structures.",
+            "identifier": "C127594",
+            "notation": "SAMSEV",
+            "pref_label": "Systolic Anterior Motion Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127594"
+        },
+        {
+            "alt_label": "Stanford AoD Classification;Stanford Aortic Dissection Classification",
+            "definition": "The type of aortic dissection present as defined by the Stanford Classification System (Daily PO, Trueblood HW, Stinson EB, Wuerflein RD, Shumway NE. Management of acute aortic dissections. Ann Thorac Surg. 1970 Sep;10(3):237-47).",
+            "identifier": "C139040",
+            "notation": "STANFADC",
+            "pref_label": "Stanford Aortic Dissection Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139040"
+        },
+        {
+            "alt_label": "Stroke Volume",
+            "definition": "The difference in the volumes of blood between the points of maximum dilation and maximum contraction. This is the end diastolic volume minus the end systolic volume.",
+            "identifier": "C94989",
+            "notation": "STROKVOL",
+            "pref_label": "Stroke Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C94989"
+        },
+        {
+            "alt_label": "Systemic Vascular Resistance;Total Peripheral Resistance",
+            "definition": "The resistance to blood flow through the systemic vasculature.",
+            "identifier": "C119248",
+            "notation": "SVR",
+            "pref_label": "Systemic Vascular Resistance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C119248"
+        },
+        {
+            "alt_label": "Systolic Pressure, Estimated",
+            "definition": "A quantitative estimate of the pressure in a given cardiovascular structure during ventricular systole.",
+            "identifier": "C139031",
+            "notation": "SYSPRS_E",
+            "pref_label": "Estimated Systolic Blood Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C139031"
+        },
+        {
+            "alt_label": "Cross-sec Thickness, EVD;Cross-sectional Thickness, End Ventricular Diastole",
+            "definition": "The cross-sectional thickness of a cardiovascular structure measured at end ventricular diastole.",
+            "identifier": "C127595",
+            "notation": "THCKEVD",
+            "pref_label": "Cross-sectional Thickness at End Ventricular Diastole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127595"
+        },
+        {
+            "alt_label": "Cross-sec Thickness, EVS;Cross-sectional Thickness, End Ventricular Systole",
+            "definition": "The cross-sectional thickness of a cardiovascular structure measured at end ventricular systole.",
+            "identifier": "C127596",
+            "notation": "THCKEVS",
+            "pref_label": "Cross-sectional Thickness at End Ventricular Systole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127596"
+        },
+        {
+            "alt_label": "Tricus Regur Jet Area R Atrial Area Rt;Tricuspid Regurgitant Jet Area to Right Atrial Area Ratio",
+            "definition": "A relative measurement (ratio) of the tricuspid regurgitant jet area to the right atrial area.",
+            "identifier": "C127597",
+            "notation": "TRGJARA",
+            "pref_label": "Tricuspid Regurgitant Jet Area to Right Atrial Area Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127597"
+        },
+        {
+            "alt_label": "Tricuspid Valve Regurgitant Fraction",
+            "definition": "A measurement of the volume of retrograde blood flow across the orifice of the tricuspid valve expressed as a percentage of the anterograde flow volume.",
+            "identifier": "C127598",
+            "notation": "TVRGF",
+            "pref_label": "Tricuspid Valve Regurgitant Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127598"
+        },
+        {
+            "alt_label": "Tricuspid Valve Regurgitant Jet Area",
+            "definition": "The measured area of the regurgitant jet of blood into the right atrium.",
+            "identifier": "C127599",
+            "notation": "TVRGJA",
+            "pref_label": "Tricuspid Valve Regurgitant Jet Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127599"
+        },
+        {
+            "alt_label": "Tricuspid Valve Regurgitant Volume",
+            "definition": "A measurement of the volume of retrograde blood flow across the orifice of the tricuspid valve.",
+            "identifier": "C127600",
+            "notation": "TVRGVOL",
+            "pref_label": "Tricuspid Valve Regurgitant Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127600"
+        },
+        {
+            "alt_label": "Tricuspid Valve Vena Contracta Area",
+            "definition": "The area of the vena contracta of the tricuspid valve.",
+            "identifier": "C127601",
+            "notation": "TVVCA",
+            "pref_label": "Tricuspid Valve Vena Contracta Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127601"
+        },
+        {
+            "alt_label": "Tricuspid Valve Vena Contracta Width",
+            "definition": "The width of the vena contracta of the tricuspid valve.",
+            "identifier": "C127602",
+            "notation": "TVVCW",
+            "pref_label": "Tricuspid Valve Vena Contracta Width",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127602"
+        },
+        {
+            "alt_label": "Valve Area Index",
+            "definition": "The ratio of the valve area to the body surface area.",
+            "identifier": "C147157",
+            "notation": "VAREANDX",
+            "pref_label": "Valve Area Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C147157"
+        },
+        {
+            "alt_label": "Velocity Time Integral, Blood Flow",
+            "definition": "The integral of all of the forward flow velocities during the time of blood flow across or within a specified area.",
+            "identifier": "C127603",
+            "notation": "VELTI",
+            "pref_label": "Blood Flow Velocity Time Integral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C127603"
+        },
+        {
+            "alt_label": "Cardiac Valvular Stenosis Indicator",
+            "definition": "An indication as to whether the cardiac valve in question has stenosis.",
+            "identifier": "C142244",
+            "notation": "VLSTNIND",
+            "pref_label": "Cardiac Valvular Stenosis Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C142244"
+        },
+        {
+            "alt_label": "Cardiac Valve Stenosis Likely Etiology",
+            "definition": "A description of the likely cause of the pathology responsible for the cardiac valve stenosis.",
+            "identifier": "C142245",
+            "notation": "VLSTNSLE",
+            "pref_label": "Cardiac Valve Stenosis Likely Etiology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C142245"
+        },
+        {
+            "alt_label": "Valve Area",
+            "definition": "The quantitative measurement estimating the surface area of a valve.",
+            "identifier": "C147158",
+            "notation": "VLVAREA",
+            "pref_label": "Valve Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C147158"
+        },
+        {
+            "alt_label": "Weight",
+            "definition": "The vertical force exerted by a mass as a result of gravity. (NCI)",
+            "identifier": "C25208",
+            "notation": "WEIGHT",
+            "pref_label": "Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C25208"
+        },
+        {
+            "alt_label": "Width",
+            "definition": "The extent or measurement of something from side to side. (NCI)",
+            "identifier": "C25345",
+            "notation": "WIDTH",
+            "pref_label": "Width",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101847-C25345"
+        }
+    ]
+}

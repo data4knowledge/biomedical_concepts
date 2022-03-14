@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Diagnostic Criteria Met",
+            "definition": "A description of the diagnostic criteria that the subject fulfilled in order to establish a medical diagnosis.",
+            "identifier": "C117883",
+            "notation": "DXCRITMT",
+            "pref_label": "Which Diagnostic Criteria Met",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117741-C117883"
+        },
+        {
+            "alt_label": "Localization of Onset",
+            "definition": "The anatomical location of the beginning or early stages of a disease.",
+            "identifier": "C117884",
+            "notation": "LOCONSET",
+            "pref_label": "Location of Disease Onset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117741-C117884"
+        },
+        {
+            "alt_label": "Onset Unifocal or Multifocal",
+            "definition": "A categorization of the number of lesions present in the Central Nervous System at the time of diagnosis of a specific disease.",
+            "identifier": "C117885",
+            "notation": "OUNIMULT",
+            "pref_label": "Focality of Disease Onset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117741-C117885"
+        }
+    ]
+}

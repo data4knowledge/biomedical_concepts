@@ -1,0 +1,32 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A full description of the outcome measure.",
+            "identifier": "C165138",
+            "notation": "Outcome Measure Description",
+            "pref_label": "Study Outcome Measure Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C165641-C165138"
+        },
+        {
+            "definition": "The period of time over which the study outcome measure is assessed.",
+            "identifier": "C165859",
+            "notation": "Outcome Measure Time Frame",
+            "pref_label": "Outcome Measure Time Frame",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C165641-C165859"
+        },
+        {
+            "definition": "The descriptive name of the outcome measure.",
+            "identifier": "C165860",
+            "notation": "Outcome Measure Title",
+            "pref_label": "Outcome Measure Title",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C165641-C165860"
+        },
+        {
+            "definition": "A characterization or classification of the specific key measurement(s) or observation(s) used to measure the effect of experimental variables on the participants in a study, or for observational studies, to describe patterns of diseases or traits or associations with exposures, risk factors or treatment.",
+            "identifier": "C165861",
+            "notation": "Outcome Measure Type",
+            "pref_label": "Outcome Measure Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C165641-C165861"
+        }
+    ]
+}

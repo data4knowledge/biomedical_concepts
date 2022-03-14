@@ -1,0 +1,796 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "FAC100-Sev: Dressing Without Help",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Dressing yourself without help.",
+            "identifier": "C155482",
+            "notation": "FAC10001",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Dressing Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155482"
+        },
+        {
+            "alt_label": "FAC100-Sev: Dressing Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Dressing yourself without help. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155483",
+            "notation": "FAC10002",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Dressing Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155483"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walk 50 Steps",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking 50 steps/paces on flat ground at a normal speed without stopping.",
+            "identifier": "C155484",
+            "notation": "FAC10003",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walk 50 Steps",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155484"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walk 50 Steps Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking 50 steps/paces on flat ground at a normal speed without stopping. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155485",
+            "notation": "FAC10004",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walk 50 Steps Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155485"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walk Up 20 Stairs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking up 20 stairs (2 flights) without stopping.",
+            "identifier": "C155486",
+            "notation": "FAC10005",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walk Up 20 Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155486"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walk Up 20 Stairs Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking up 20 stairs (2 flights) without stopping. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155487",
+            "notation": "FAC10006",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walk Up 20 Stairs Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155487"
+        },
+        {
+            "alt_label": "FAC100-Sev: Preparing Meals",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Preparing meals.",
+            "identifier": "C155488",
+            "notation": "FAC10007",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Preparing Meals",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155488"
+        },
+        {
+            "alt_label": "FAC100-Sev: Preparing Meals Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Preparing meals. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155489",
+            "notation": "FAC10008",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Preparing Meals Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155489"
+        },
+        {
+            "alt_label": "FAC100-Sev: Washing Dishes",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Washing dishes.",
+            "identifier": "C155490",
+            "notation": "FAC10009",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Washing Dishes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155490"
+        },
+        {
+            "alt_label": "FAC100-Sev: Washing Dishes Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Washing dishes. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155491",
+            "notation": "FAC10010",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Washing Dishes Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155491"
+        },
+        {
+            "alt_label": "FAC100-Sev: Sweeping/Mopping",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Sweeping or mopping.",
+            "identifier": "C155492",
+            "notation": "FAC10011",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Sweeping/Mopping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155492"
+        },
+        {
+            "alt_label": "FAC100-Sev: Sweeping/Mopping Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Sweeping or mopping. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155493",
+            "notation": "FAC10012",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Sweeping/Mopping Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155493"
+        },
+        {
+            "alt_label": "FAC100-Sev: Making a Bed",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Making a bed.",
+            "identifier": "C155494",
+            "notation": "FAC10013",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Making a Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155494"
+        },
+        {
+            "alt_label": "FAC100-Sev: Making a Bed Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Making a bed. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155495",
+            "notation": "FAC10014",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Making a Bed Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155495"
+        },
+        {
+            "alt_label": "FAC100-Sev: Lifting 10-20 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Lifting something weighing 10-20 lbs (about 4.5-9kg, like a large bag of groceries).",
+            "identifier": "C155496",
+            "notation": "FAC10015",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Lifting 10-20 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155496"
+        },
+        {
+            "alt_label": "FAC100-Sev: Lifting 10-20 Lbs Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Lifting something weighing 10-20 lbs (about 4.5-9kg, like a large bag of groceries). Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155497",
+            "notation": "FAC10016",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Lifting 10-20 Lbs Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155497"
+        },
+        {
+            "alt_label": "FAC100-Sev: Carry 10-20 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Carrying something weighing 10-20 lbs (about 4.5-9kg, like a large bag of groceries) from one room to another.",
+            "identifier": "C155498",
+            "notation": "FAC10017",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Carry 10-20 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155498"
+        },
+        {
+            "alt_label": "FAC100-Sev: Carry 10-20 Lbs Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Carrying something weighing 10-20 lbs (about 4.5-9kg, like a large bag of groceries) from one room to another. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155499",
+            "notation": "FAC10018",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Carry 10-20 Lbs Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155499"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walk for 1/2 Mile",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking (faster than your usual speed) for 1/2 mile (almost 1 km) without stopping.",
+            "identifier": "C155500",
+            "notation": "FAC10019",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walk for 1/2 Mile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155500"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walk for 1/2 Mile Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking (faster than your usual speed) for 1/2 mile (almost 1 km) without stopping. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155501",
+            "notation": "FAC10020",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walk for 1/2 Mile Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155501"
+        },
+        {
+            "alt_label": "FAC100-Sev: Bath Without Help",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Taking a bath without help.",
+            "identifier": "C155502",
+            "notation": "FAC10021",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Bath Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155502"
+        },
+        {
+            "alt_label": "FAC100-Sev: Bath Without Help Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Taking a bath without help. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155503",
+            "notation": "FAC10022",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Bath Without Help Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155503"
+        },
+        {
+            "alt_label": "FAC100-Sev: Taking a Shower",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Taking a shower.",
+            "identifier": "C155504",
+            "notation": "FAC10023",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Taking a Shower",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155504"
+        },
+        {
+            "alt_label": "FAC100-Sev: Taking a Shower Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Taking a shower. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155505",
+            "notation": "FAC10024",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Taking a Shower Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155505"
+        },
+        {
+            "alt_label": "FAC100-Sev: Putting on Socks",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Putting on socks or stockings.",
+            "identifier": "C155506",
+            "notation": "FAC10025",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Putting on Socks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155506"
+        },
+        {
+            "alt_label": "FAC100-Sev: Putting on Socks Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Putting on socks or stockings. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155507",
+            "notation": "FAC10026",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Putting on Socks Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155507"
+        },
+        {
+            "alt_label": "FAC100-Sev: Standing 5 Minutes",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Standing for at least 5 minutes.",
+            "identifier": "C155508",
+            "notation": "FAC10027",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Standing 5 Minutes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155508"
+        },
+        {
+            "alt_label": "FAC100-Sev: Standing 5 Minutes Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Standing for at least 5 minutes. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155509",
+            "notation": "FAC10028",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Standing 5 Minutes Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155509"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking 10 Steps",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking 10 steps/paces on flat ground at a normal speed without stopping.",
+            "identifier": "C155510",
+            "notation": "FAC10029",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking 10 Steps",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155510"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking 10 Steps Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking 10 steps/paces on flat ground at a normal speed without stopping. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155511",
+            "notation": "FAC10030",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking 10 Steps Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155511"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking 1/2 Mile",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking 1/2 mile (almost 1 km) on flat ground at a normal speed without stopping.",
+            "identifier": "C155512",
+            "notation": "FAC10031",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking 1/2 Mile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155512"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking 1/2 Mile Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking 1/2 mile (almost 1 km) on flat ground at a normal speed without stopping. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155513",
+            "notation": "FAC10032",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking 1/2 Mile Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155513"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking Up 5 Stairs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking up 5 stairs without stopping.",
+            "identifier": "C155514",
+            "notation": "FAC10033",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking Up 5 Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155514"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking Up 5 Stairs Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking up 5 stairs without stopping. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155515",
+            "notation": "FAC10034",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking Up 5 Stairs Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155515"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking Up 10 Stairs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking up 10 stairs (1 flight) without stopping.",
+            "identifier": "C155516",
+            "notation": "FAC10035",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking Up 10 Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155516"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking Up 10 Stairs Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking up 10 stairs (1 flight) without stopping. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155517",
+            "notation": "FAC10036",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking Up 10 Stairs Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155517"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking Up 30 Stairs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking up 30 stairs (3 flights) without stopping.",
+            "identifier": "C155518",
+            "notation": "FAC10037",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking Up 30 Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155518"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking Up 30 Stairs Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking up 30 stairs (3 flights) without stopping. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155519",
+            "notation": "FAC10038",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking Up 30 Stairs Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155519"
+        },
+        {
+            "alt_label": "FAC100-Sev: Lift Less Than 5 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Lifting something weighing less than 5 lbs (about 2 kg, like a houseplant).",
+            "identifier": "C155520",
+            "notation": "FAC10039",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Lift Less Than 5 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155520"
+        },
+        {
+            "alt_label": "FAC100-Sev: Lift Less Than 5 Lbs Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Lifting something weighing less than 5 lbs (about 2 kg, like a houseplant). Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155521",
+            "notation": "FAC10040",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Lift Less Than 5 Lbs Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155521"
+        },
+        {
+            "alt_label": "FAC100-Sev: Lifting 5-10 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Lifting something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes).",
+            "identifier": "C155522",
+            "notation": "FAC10041",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Lifting 5-10 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155522"
+        },
+        {
+            "alt_label": "FAC100-Sev: Lifting 5-10 Lbs Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Lifting something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes). Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155523",
+            "notation": "FAC10042",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Lifting 5-10 Lbs Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155523"
+        },
+        {
+            "alt_label": "FAC100-Sev: Lift More Than 20 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Lifting something weighing more than 20 lbs (about 9 kg, like a medium-sized suitcase).",
+            "identifier": "C155524",
+            "notation": "FAC10043",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Lift More Than 20 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155524"
+        },
+        {
+            "alt_label": "FAC100-Sev: Lift More Than 20 Lb Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Lifting something weighing more than 20 lbs (about 9 kg, like a medium-sized suitcase). Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155525",
+            "notation": "FAC10044",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Lift More Than 20 Lbs Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155525"
+        },
+        {
+            "alt_label": "FAC100-Sev: Carrying Less Than 5 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Carrying something weighing less than 5 lbs (about 2 kg, like a houseplant) from one room to another.",
+            "identifier": "C155526",
+            "notation": "FAC10045",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Carrying Less Than 5 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155526"
+        },
+        {
+            "alt_label": "FAC100-Sev: Carrying Less Than 5 Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Carrying something weighing less than 5 lbs (about 2 kg, like a houseplant) from one room to another. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155527",
+            "notation": "FAC10046",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Carrying Less Than 5 Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155527"
+        },
+        {
+            "alt_label": "FAC100-Sev: Carrying 5-10 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Carrying something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes) from one room to another.",
+            "identifier": "C155528",
+            "notation": "FAC10047",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Carrying 5-10 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155528"
+        },
+        {
+            "alt_label": "FAC100-Sev: Carrying 5-10 Lbs Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Carrying something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes) from one room to another. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155529",
+            "notation": "FAC10048",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Carrying 5-10 Lbs Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155529"
+        },
+        {
+            "alt_label": "FAC100-Sev: Get In/Out of a Car",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Getting in or out of a car.",
+            "identifier": "C155530",
+            "notation": "FAC10049",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Get In/Out of a Car",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155530"
+        },
+        {
+            "alt_label": "FAC100-Sev: Get In/Out of a Car Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Getting in or out of a car. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155531",
+            "notation": "FAC10050",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Get In/Out of a Car Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155531"
+        },
+        {
+            "alt_label": "FAC100-Sev: Dining Out",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Dining out.",
+            "identifier": "C155532",
+            "notation": "FAC10051",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Dining Out",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155532"
+        },
+        {
+            "alt_label": "FAC100-Sev: Dining Out Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Dining out. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155533",
+            "notation": "FAC10052",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Dining Out Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155533"
+        },
+        {
+            "alt_label": "FAC100-Sev: Low-intensity Activ",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Low-intensity leisure activity (gardening, etc.).",
+            "identifier": "C155534",
+            "notation": "FAC10053",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Low-intensity Activity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155534"
+        },
+        {
+            "alt_label": "FAC100-Sev: Low-intensity Activ Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Low-intensity leisure activity (gardening, etc.). Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155535",
+            "notation": "FAC10054",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Low-intensity Activity Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155535"
+        },
+        {
+            "alt_label": "FAC100-Sev: Moderate Activity",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Moderate-intensity leisure activity (bicycling on level terrain, etc.).",
+            "identifier": "C155536",
+            "notation": "FAC10055",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Moderate Activity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155536"
+        },
+        {
+            "alt_label": "FAC100-Sev: Moderate Activity Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Moderate-intensity leisure activity (bicycling on level terrain, etc.). Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155537",
+            "notation": "FAC10056",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Moderate Activity Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155537"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walk Fast 50 Steps",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking (faster than your usual speed) for 50 steps without stopping.",
+            "identifier": "C155538",
+            "notation": "FAC10057",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walk Fast 50 Steps",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155538"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walk Fast 50 Steps Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking (faster than your usual speed) for 50 steps without stopping. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155539",
+            "notation": "FAC10058",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walk Fast 50 Steps Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155539"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking Fast 1 Mile",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking (faster than your usual speed) for at least 1 mile ( a little more than 1.5 km) without stopping.",
+            "identifier": "C155540",
+            "notation": "FAC10059",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking Fast 1 Mile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155540"
+        },
+        {
+            "alt_label": "FAC100-Sev: Walking Fast 1 Mile Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Walking (faster than your usual speed) for at least 1 mile ( a little more than 1.5 km) without stopping. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155541",
+            "notation": "FAC10060",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Walking Fast 1 Mile Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155541"
+        },
+        {
+            "alt_label": "FAC100-Sev: Singing or Humming",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Singing or humming.",
+            "identifier": "C155542",
+            "notation": "FAC10061",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Singing or Humming",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155542"
+        },
+        {
+            "alt_label": "FAC100-Sev: Singing or Humming Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Singing or humming. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155543",
+            "notation": "FAC10062",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Singing or Humming Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155543"
+        },
+        {
+            "alt_label": "FAC100-Sev: Talking While Walking",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Talking while walking.",
+            "identifier": "C155544",
+            "notation": "FAC10063",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Talking While Walking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155544"
+        },
+        {
+            "alt_label": "FAC100-Sev: Talking While Walk Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Talking while walking. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155545",
+            "notation": "FAC10064",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Talking While Walk Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155545"
+        },
+        {
+            "alt_label": "FAC100-Sev: Scrubbing the Floor",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Scrubbing the floor or counter.",
+            "identifier": "C155546",
+            "notation": "FAC10065",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Scrubbing the Floor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155546"
+        },
+        {
+            "alt_label": "FAC100-Sev: Scrubbing the Floor Why Not",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Dyspnea Severity: Over the past 7 days, how short of breath did you get with each of these activities?: Scrubbing the floor or counter. Please indicate why you did not do this in the past 7 days.",
+            "identifier": "C155547",
+            "notation": "FAC10066",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Severity: Scrubbing the Floor Why Not",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155547"
+        },
+        {
+            "alt_label": "FAC100-Limit: Dressing Without Help",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Dressing yourself without help.",
+            "identifier": "C155548",
+            "notation": "FAC10067",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Dressing Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155548"
+        },
+        {
+            "alt_label": "FAC100-Limit: Walk 50 Steps",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Walking 50 steps/paces on flat ground at a normal speed without stopping.",
+            "identifier": "C155549",
+            "notation": "FAC10068",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Walk 50 Steps",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155549"
+        },
+        {
+            "alt_label": "FAC100-Limit: Walk Up 20 Stairs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Walking up 20 stairs (2 flights) without stopping.",
+            "identifier": "C155550",
+            "notation": "FAC10069",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Walk Up 20 Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155550"
+        },
+        {
+            "alt_label": "FAC100-Limit: Preparing Meals",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Preparing meals.",
+            "identifier": "C155551",
+            "notation": "FAC10070",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Preparing Meals",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155551"
+        },
+        {
+            "alt_label": "FAC100-Limit: Washing Dishes",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Washing dishes.",
+            "identifier": "C155552",
+            "notation": "FAC10071",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Washing Dishes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155552"
+        },
+        {
+            "alt_label": "FAC100-Limit: Sweeping/Mopping",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Sweeping or mopping.",
+            "identifier": "C155553",
+            "notation": "FAC10072",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Sweeping/Mopping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155553"
+        },
+        {
+            "alt_label": "FAC100-Limit: Making a Bed",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Making a bed.",
+            "identifier": "C155554",
+            "notation": "FAC10073",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Making a Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155554"
+        },
+        {
+            "alt_label": "FAC100-Limit: Lifting 10-20 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Lifting something weighing 10-20 lbs (about 4.5-9kg, like a large bag of groceries).",
+            "identifier": "C155555",
+            "notation": "FAC10074",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Lifting 10-20 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155555"
+        },
+        {
+            "alt_label": "FAC100-Limit: Carry 10-20 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Carrying something weighing 10-20 lbs (about 4.5-9kg, like a large bag of groceries) from one room to another.",
+            "identifier": "C155556",
+            "notation": "FAC10075",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Carry 10-20 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155556"
+        },
+        {
+            "alt_label": "FAC100-Limit: Walk for 1/2 Mile",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Walking (faster than your usual speed) for 1/2 mile (almost 1 km) without stopping.",
+            "identifier": "C155557",
+            "notation": "FAC10076",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Walk for 1/2 Mile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155557"
+        },
+        {
+            "alt_label": "FAC100-Limit: Taking a Bath Without Help",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Taking a bath without help.",
+            "identifier": "C155558",
+            "notation": "FAC10077",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Taking a Bath Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155558"
+        },
+        {
+            "alt_label": "FAC100-Limit: Taking a Shower",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Taking a shower.",
+            "identifier": "C155559",
+            "notation": "FAC10078",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Taking a Shower",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155559"
+        },
+        {
+            "alt_label": "FAC100-Limit: Putting on Socks",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Putting on socks or stockings.",
+            "identifier": "C155560",
+            "notation": "FAC10079",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Putting on Socks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155560"
+        },
+        {
+            "alt_label": "FAC100-Limit: Standing 5 Minutes",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Standing for at least 5 minutes.",
+            "identifier": "C155561",
+            "notation": "FAC10080",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Standing 5 Minutes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155561"
+        },
+        {
+            "alt_label": "FAC100-Limit: Walking 10 Steps",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Walking 10 steps/paces on flat ground at a normal speed without stopping.",
+            "identifier": "C155562",
+            "notation": "FAC10081",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Walking 10 Steps",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155562"
+        },
+        {
+            "alt_label": "FAC100-Limit: Walking 1/2 Mile",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Walking 1/2 mile (almost 1 km) on flat ground at a normal speed without stopping.",
+            "identifier": "C155563",
+            "notation": "FAC10082",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Walking 1/2 Mile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155563"
+        },
+        {
+            "alt_label": "FAC100-Limit: Walking Up 5 Stairs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Walking up 5 stairs without stopping.",
+            "identifier": "C155564",
+            "notation": "FAC10083",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Walking Up 5 Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155564"
+        },
+        {
+            "alt_label": "FAC100-Limit: Walking Up 10 Stairs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Walking up 10 stairs (1 flight) without stopping.",
+            "identifier": "C155565",
+            "notation": "FAC10084",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Walking Up 10 Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155565"
+        },
+        {
+            "alt_label": "FAC100-Limit: Walking Up 30 Stairs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Walking up 30 stairs (3 flights) without stopping.",
+            "identifier": "C155566",
+            "notation": "FAC10085",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Walking Up 30 Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155566"
+        },
+        {
+            "alt_label": "FAC100-Limit: Scrubbing the Floor",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Scrubbing the floor or counter.",
+            "identifier": "C155567",
+            "notation": "FAC10086",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Scrubbing the Floor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155567"
+        },
+        {
+            "alt_label": "FAC100-Limit: Lifting Less Than 5 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Lifting something weighing less than 5 lbs (about 2 kg, like a houseplant).",
+            "identifier": "C155568",
+            "notation": "FAC10087",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Lifting Less Than 5 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155568"
+        },
+        {
+            "alt_label": "FAC100-Limit: Lifting 5-10 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Lifting something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes).",
+            "identifier": "C155569",
+            "notation": "FAC10088",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Lifting 5-10 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155569"
+        },
+        {
+            "alt_label": "FAC100-Limit: Lifting More Than 20 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Lifting something weighing more than 20 lbs (about 9 kg, like a medium-sized suitcase).",
+            "identifier": "C155570",
+            "notation": "FAC10089",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Lifting More Than 20 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155570"
+        },
+        {
+            "alt_label": "FAC100-Limit: Carrying Less Than 5 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Carrying something weighing less than 5 lbs (about 2 kg, like a houseplant) from one room to another.",
+            "identifier": "C155571",
+            "notation": "FAC10090",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Carrying Less Than 5 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155571"
+        },
+        {
+            "alt_label": "FAC100-Limit: Carrying 5-10 Lbs",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Carrying something weighing 5-10 lbs (about 2-4.5 kg, like a basket of clothes) from one room to another.",
+            "identifier": "C155572",
+            "notation": "FAC10091",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Carrying 5-10 Lbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155572"
+        },
+        {
+            "alt_label": "FAC100-Limit: Get In/Out of a Car",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Getting in or out of a car.",
+            "identifier": "C155573",
+            "notation": "FAC10092",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Get In/Out of a Car",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155573"
+        },
+        {
+            "alt_label": "FAC100-Limit: Dining Out",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Dining out.",
+            "identifier": "C155574",
+            "notation": "FAC10093",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Dining Out",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155574"
+        },
+        {
+            "alt_label": "FAC100-Limit: Low-intensity Activity",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Low-intensity leisure activity (gardening, etc.).",
+            "identifier": "C155575",
+            "notation": "FAC10094",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Low-intensity Activity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155575"
+        },
+        {
+            "alt_label": "FAC100-Limit: Moderate Activity",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Moderate-intensity leisure activity (bicycling on level terrain, etc.).",
+            "identifier": "C155576",
+            "notation": "FAC10095",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Moderate Activity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155576"
+        },
+        {
+            "alt_label": "FAC100-Limit: Walk Fast 50 Steps",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Walking (faster than your usual speed) for 50 steps without stopping.",
+            "identifier": "C155577",
+            "notation": "FAC10096",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Walk Fast 50 Steps",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155577"
+        },
+        {
+            "alt_label": "FAC100-Limit: Walking Fast 1 Mile",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Walking (faster than your usual speed) for at least 1 mile (a little more than 1.5 km) without stopping.",
+            "identifier": "C155578",
+            "notation": "FAC10097",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Walking Fast 1 Mile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155578"
+        },
+        {
+            "alt_label": "FAC100-Limit: Singing or Humming",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Singing or humming.",
+            "identifier": "C155579",
+            "notation": "FAC10098",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Singing or Humming",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155579"
+        },
+        {
+            "alt_label": "FAC100-Limit: Talking While Walking",
+            "definition": "Functional Assessment of Chronic Illness Therapy-Dyspnea Scale 33 Item Bank - Functional Limitation: Considering your shortness of breath over the past 7 days, rate the amount of difficulty you had when doing the following activities: Talking while walking.",
+            "identifier": "C155580",
+            "notation": "FAC10099",
+            "pref_label": "FACIT-Dyspnea Scale 33 Item Bank Version - Limit: Talking While Walking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154451-C155580"
+        }
+    ]
+}

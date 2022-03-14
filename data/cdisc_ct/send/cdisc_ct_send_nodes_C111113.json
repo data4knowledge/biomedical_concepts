@@ -1,0 +1,364 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Challenge Agent Characterization",
+            "definition": "A special purpose domain for the characterization of challenge agents (i.e., the substances administered to cause the diseases or conditions of interest) for those study designs that involve the use of a challenge agent.",
+            "identifier": "C163738",
+            "notation": "AC",
+            "pref_label": "Challenge Agent Characterization Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C163738"
+        },
+        {
+            "alt_label": "Procedure Agents",
+            "definition": "An interventions domain that contains the agents administered to the subject as part of a procedure or assessment, as opposed to drugs, medications and therapies administered with therapeutic intent.",
+            "identifier": "C117755",
+            "notation": "AG",
+            "pref_label": "Procedure Agents Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C117755"
+        },
+        {
+            "alt_label": "Body Weight Gain",
+            "definition": "Body weight gain is the actual difference between two body weight measurements for any given interval for a subject. This is most commonly shown as the difference between two consecutive body weight measurements.",
+            "identifier": "C95083",
+            "notation": "BG",
+            "pref_label": "Body Weight Gain Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95083"
+        },
+        {
+            "alt_label": "Body Weight",
+            "definition": "This domain captures body weights collected for subjects during the study and at the end of the study (terminal body weights).",
+            "identifier": "C95085",
+            "notation": "BW",
+            "pref_label": "Body Weight Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95085"
+        },
+        {
+            "alt_label": "Clinical Observation",
+            "definition": "This domain captures clinical sign information including ophthalmology, physical examination, and dermal examination collected in life while executing the study.",
+            "identifier": "C95086",
+            "notation": "CL",
+            "pref_label": "Clinical Observation Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95086"
+        },
+        {
+            "alt_label": "Concomitant/Prior Medications",
+            "definition": "An interventions domain that contains concomitant and prior medications used by the subject, such as those given on an as needed basis or condition-appropriate medications.",
+            "identifier": "C49568",
+            "notation": "CM",
+            "pref_label": "Concomitant Medication Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49568"
+        },
+        {
+            "alt_label": "Comments",
+            "definition": "A special-purpose domain that contains comments that may be collected alongside other data.",
+            "identifier": "C49569",
+            "notation": "CO",
+            "pref_label": "Comment Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49569"
+        },
+        {
+            "alt_label": "Cardiovascular System Findings",
+            "definition": "A findings domain that contains physiological and morphological findings related to the cardiovascular system, including the heart, blood vessels and lymphatic vessels.",
+            "identifier": "C102605",
+            "notation": "CV",
+            "pref_label": "Cardiovascular System Findings Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C102605"
+        },
+        {
+            "alt_label": "Death Details;Death Diagnosis and Details",
+            "definition": "A findings domain that contains the diagnosis of the cause of death for a subject.",
+            "identifier": "C95087",
+            "notation": "DD",
+            "pref_label": "Death Diagnosis Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95087"
+        },
+        {
+            "alt_label": "Demographics",
+            "definition": "A special-purpose domain that includes a set of essential standard variables that describe each subject in a clinical study. It is the parent domain for all other observations for human clinical subjects.",
+            "identifier": "C49572",
+            "notation": "DM",
+            "pref_label": "Demographics Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49572"
+        },
+        {
+            "alt_label": "Disposition",
+            "definition": "An events domain that contains information encompassing and representing data related to subject disposition.",
+            "identifier": "C49576",
+            "notation": "DS",
+            "pref_label": "Disposition Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49576"
+        },
+        {
+            "alt_label": "ECG Test Results",
+            "definition": "A findings domain that contains ECG data, including position of the subject, method of evaluation, all cycle measurements and all findings from the ECG including an overall interpretation if collected or derived.",
+            "identifier": "C49626",
+            "notation": "EG",
+            "pref_label": "Electrocardiogram Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49626"
+        },
+        {
+            "alt_label": "Exposure",
+            "definition": "An interventions domain that contains the details of a subject's exposure to protocol-specified study treatment. Study treatment may be any intervention that is prospectively defined as a test material within a study, and is typically but not always supplied to the subject.",
+            "identifier": "C49587",
+            "notation": "EX",
+            "pref_label": "Exposure Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49587"
+        },
+        {
+            "alt_label": "Findings About Events or Interventions",
+            "definition": "A findings domain that contains the findings about an event or intervention that cannot be represented within an events or interventions domain record or as a supplemental qualifier.",
+            "identifier": "C85442",
+            "notation": "FA",
+            "pref_label": "Findings About Events or Interventions Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C85442"
+        },
+        {
+            "alt_label": "Fertility",
+            "definition": "This domain captures test results relative to male and female fertility.",
+            "identifier": "C95089",
+            "notation": "FE",
+            "pref_label": "Fertility Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95089"
+        },
+        {
+            "alt_label": "Fetal Measurements",
+            "definition": "The fetal measurements domain captures individual fetal body and tissue weights, as well as growth measurements.",
+            "identifier": "C106522",
+            "notation": "FM",
+            "pref_label": "Fetal Measurements Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C106522"
+        },
+        {
+            "alt_label": "Food And Water",
+            "definition": "This domain captures food/water consumption of animals in the study. The data in this domain is derived data.",
+            "identifier": "C95090",
+            "notation": "FW",
+            "pref_label": "Food and Water Consumption Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95090"
+        },
+        {
+            "alt_label": "Fetal Pathology Findings",
+            "definition": "Morphologic findings for fetal pathology examinations on an individual fetus.",
+            "identifier": "C95091",
+            "notation": "FX",
+            "pref_label": "Fetal Pathology Findings Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95091"
+        },
+        {
+            "alt_label": "Implantation Classification",
+            "definition": "The Implantation Classification domain provides a record for each implantation identified for the scheduled cesarean section component of a study.",
+            "identifier": "C95092",
+            "notation": "IC",
+            "pref_label": "Implantation Classification Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95092"
+        },
+        {
+            "alt_label": "Laboratory Test Results",
+            "definition": "A findings domain that contains laboratory test data such as hematology, clinical chemistry and urinalysis. This domain does not include microbiology or pharmacokinetic data, which are stored in separate domains.",
+            "identifier": "C49592",
+            "notation": "LB",
+            "pref_label": "Laboratory Data Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49592"
+        },
+        {
+            "alt_label": "Cesarean Section and Delivery Litter Results",
+            "definition": "This domain captures litter based results in female animals for cesarean section and/or delivery components of a study, including litter survival during preweaning.",
+            "identifier": "C95093",
+            "notation": "LR",
+            "pref_label": "Cesarean Section and Delivery Litter Results Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95093"
+        },
+        {
+            "alt_label": "Macroscopic Findings",
+            "definition": "The gross pathology findings recorded at necropsy.",
+            "identifier": "C95094",
+            "notation": "MA",
+            "pref_label": "Macroscopic Findings Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95094"
+        },
+        {
+            "alt_label": "Microbiology Specimen",
+            "definition": "A findings domain that represents non-host organisms identified including bacteria, viruses, parasites, protozoa and fungi.",
+            "identifier": "C49602",
+            "notation": "MB",
+            "pref_label": "Microbiology Specimen Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49602"
+        },
+        {
+            "alt_label": "Medical History",
+            "definition": "An events domain that contains data that includes the subject's prior medical history at the start of the trial.",
+            "identifier": "C49603",
+            "notation": "MH",
+            "pref_label": "Medical History Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49603"
+        },
+        {
+            "alt_label": "Microscopic Findings",
+            "definition": "A findings domain that contains histopathology findings and microscopic evaluations.",
+            "identifier": "C95095",
+            "notation": "MI",
+            "pref_label": "Microscopic Findings Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95095"
+        },
+        {
+            "alt_label": "Nervous System Findings",
+            "definition": "A findings domain that contains physiological and morphological findings related to the nervous system, including the brain, spinal cord, the cranial and spinal nerves, autonomic ganglia and plexuses.",
+            "identifier": "C102677",
+            "notation": "NV",
+            "pref_label": "Nervous System Findings Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C102677"
+        },
+        {
+            "alt_label": "Organ Measurements",
+            "definition": "Findings from organ measurement evaluations.",
+            "identifier": "C49605",
+            "notation": "OM",
+            "pref_label": "Organ Measurement Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49605"
+        },
+        {
+            "alt_label": "Pairing Events",
+            "definition": "Nonclinical pairing records for the fertility component of a study.",
+            "identifier": "C102694",
+            "notation": "PA",
+            "pref_label": "Pairing Events Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C102694"
+        },
+        {
+            "alt_label": "Pharmacokinetics Concentrations",
+            "definition": "A findings domain that contains concentrations of drugs or metabolites in fluids or tissues as a function of time.",
+            "identifier": "C49606",
+            "notation": "PC",
+            "pref_label": "Pharmacokinetic Concentration Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49606"
+        },
+        {
+            "alt_label": "Palpable Masses",
+            "definition": "This domain captures information of any palpable masses examined during the experimental phase.",
+            "identifier": "C95097",
+            "notation": "PM",
+            "pref_label": "Palpable Masses Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95097"
+        },
+        {
+            "alt_label": "Pharmacokinetics Parameters",
+            "definition": "A findings domain that contains pharmacokinetic parameters derived from pharmacokinetic concentration-time (PC) data.",
+            "identifier": "C49607",
+            "notation": "PP",
+            "pref_label": "Pharmacokinetic Parameters Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49607"
+        },
+        {
+            "alt_label": "Procedures",
+            "definition": "An interventions domain that contains interventional activity intended to have diagnostic, preventive, therapeutic, or palliative effects.",
+            "identifier": "C102700",
+            "notation": "PR",
+            "pref_label": "Procedure Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C102700"
+        },
+        {
+            "alt_label": "Nonclinical Pregnancy Results",
+            "definition": "Pregnancy results of female nonclinical subjects.",
+            "identifier": "C102678",
+            "notation": "PY",
+            "pref_label": "Nonclinical Pregnancy Results Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C102678"
+        },
+        {
+            "alt_label": "Respiratory System Findings",
+            "definition": "A findings domain that contains physiological and morphological findings related to the respiratory system, including the organs that are involved in breathing such as the nose, throat, larynx, trachea, bronchi and lungs.",
+            "identifier": "C95098",
+            "notation": "RE",
+            "pref_label": "Respiratory Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95098"
+        },
+        {
+            "alt_label": "Subject Characteristics",
+            "definition": "A findings domain that contains subject-related data not collected in other domains.",
+            "identifier": "C49610",
+            "notation": "SC",
+            "pref_label": "Subject Characteristics Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49610"
+        },
+        {
+            "alt_label": "Subject Elements",
+            "definition": "A special-purpose domain that contains the actual order of elements followed by the subject, together with the start date/time and end date/time for each element.",
+            "identifier": "C49616",
+            "notation": "SE",
+            "pref_label": "Subject Element Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49616"
+        },
+        {
+            "alt_label": "Subject Repro Stages",
+            "definition": "Describes the actual order of reproductive stages that were experienced by the subject, together with the start date/time and end date/time for each reproductive stage.",
+            "identifier": "C95099",
+            "notation": "SJ",
+            "pref_label": "Subject Stages Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95099"
+        },
+        {
+            "alt_label": "Trial Arms",
+            "definition": "A trial design domain that contains each planned arm in the trial.",
+            "identifier": "C49618",
+            "notation": "TA",
+            "pref_label": "Trial Arms Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49618"
+        },
+        {
+            "alt_label": "Trial Elements",
+            "definition": "A trial design domain that contains the element code that is unique for each element, the element description, and the rules for starting and ending an element.",
+            "identifier": "C49619",
+            "notation": "TE",
+            "pref_label": "Trial Elements Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49619"
+        },
+        {
+            "alt_label": "Tumor Findings",
+            "definition": "This domain captures the tumor findings of the nonclinical subject.",
+            "identifier": "C95100",
+            "notation": "TF",
+            "pref_label": "Tumor Findings Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95100"
+        },
+        {
+            "alt_label": "Trial Repro Paths",
+            "definition": "Describes each planned reproductive path in a non-clinical developmental and reproductive toxicology study, with the ordered sequence of reproductive stages that comprise each reproductive path.",
+            "identifier": "C95101",
+            "notation": "TP",
+            "pref_label": "Trial Paths Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95101"
+        },
+        {
+            "alt_label": "Trial Summary",
+            "definition": "A trial design domain that contains one record for each trial summary characteristic. This domain is not subject oriented.",
+            "identifier": "C53483",
+            "notation": "TS",
+            "pref_label": "Trial Summary Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C53483"
+        },
+        {
+            "alt_label": "Trial Repro Stages",
+            "definition": "Describes the planned unique reproductive stages in a non-clinical developmental and reproductive toxicology study, with reproductive stage code, description, and rules for start and end.",
+            "identifier": "C95102",
+            "notation": "TT",
+            "pref_label": "Trial Stages Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95102"
+        },
+        {
+            "alt_label": "Trial Sets",
+            "definition": "A trial design domain that contains one record for each trial set characteristic including experimental factors, treatment factors, inherent characteristics, or distinct sponsor designations. This domain is not subject oriented.",
+            "identifier": "C95103",
+            "notation": "TX",
+            "pref_label": "Trial Sets Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C95103"
+        },
+        {
+            "alt_label": "Vital Signs",
+            "definition": "A findings domain that contains measurements including but not limited to blood pressure, temperature, respiration, body surface area, body mass index, height and weight.",
+            "identifier": "C49622",
+            "notation": "VS",
+            "pref_label": "Vital Signs Domain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113-C49622"
+        }
+    ]
+}

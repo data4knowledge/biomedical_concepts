@@ -1,0 +1,556 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "BPI1-Aching",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: aching.",
+            "identifier": "C100316",
+            "notation": "BPI1-Aching",
+            "pref_label": "BPI - Aching",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100316"
+        },
+        {
+            "alt_label": "BPI1-Area Hurts Most",
+            "definition": "Brief Pain Inventory - On the diagram, put an X on the area that hurts the most.",
+            "identifier": "C100302",
+            "notation": "BPI1-Area Hurts Most",
+            "pref_label": "BPI - Area Hurts Most",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100302"
+        },
+        {
+            "alt_label": "BPI1-Areas of Pain",
+            "definition": "Brief Pain Inventory - On the diagram, shade in the areas where you feel pain.",
+            "identifier": "C100301",
+            "notation": "BPI1-Areas of Pain",
+            "pref_label": "BPI - Areas of Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100301"
+        },
+        {
+            "alt_label": "BPI1-Biofeedback to Relieve Pain",
+            "definition": "Brief Pain Inventory - Other methods I use to relieve pain include: biofeedback.",
+            "identifier": "C100351",
+            "notation": "BPI1-Biofeedback to Relieve Pain",
+            "pref_label": "BPI - Biofeedback to Relieve Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100351"
+        },
+        {
+            "alt_label": "BPI1-Burning",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: burning.",
+            "identifier": "C100323",
+            "notation": "BPI1-Burning",
+            "pref_label": "BPI - Burning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100323"
+        },
+        {
+            "alt_label": "BPI1-Cold Compresses to Relieve Pain",
+            "definition": "Brief Pain Inventory - Other methods I use to relieve pain include: cold compresses.",
+            "identifier": "C100348",
+            "notation": "BPI1-Cold Compresses to Relieve Pain",
+            "pref_label": "BPI - Cold Compresses to Relieve Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100348"
+        },
+        {
+            "alt_label": "BPI1-Concerned Use Too Much Pain Med",
+            "definition": "Brief Pain Inventory - Are you concerned that you use too much pain medication?",
+            "identifier": "C100342",
+            "notation": "BPI1-Concerned Use Too Much Pain Med",
+            "pref_label": "BPI - Concerned with Too Much Pain Medication Use",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100342"
+        },
+        {
+            "alt_label": "BPI1-Current Job Status",
+            "definition": "Brief Pain Inventory - Which of the following best describes your current job status?",
+            "identifier": "C100292",
+            "notation": "BPI1-Current Job Status",
+            "pref_label": "BPI - Current Job Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100292"
+        },
+        {
+            "alt_label": "BPI1-Current Occupation",
+            "definition": "Brief Pain Inventory - Current occupation.",
+            "identifier": "C100290",
+            "notation": "BPI1-Current Occupation",
+            "pref_label": "BPI - Current Occupation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100290"
+        },
+        {
+            "alt_label": "BPI1-Describe Unrelated Med Condition",
+            "definition": "Brief Pain Inventory - I believe my pain is due to a medical condition unrelated to my primary disease. Please describe condition.",
+            "identifier": "C100315",
+            "notation": "BPI1-Describe Unrelated Med Condition",
+            "pref_label": "BPI - Describe Unrelated Medical Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100315"
+        },
+        {
+            "alt_label": "BPI1-Distraction to Relieve Pain",
+            "definition": "Brief Pain Inventory - Other methods I use to relieve pain include: distraction.",
+            "identifier": "C100350",
+            "notation": "BPI1-Distraction to Relieve Pain",
+            "pref_label": "BPI - Distraction to Relieve Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100350"
+        },
+        {
+            "alt_label": "BPI1-Education",
+            "definition": "Brief Pain Inventory - Education.",
+            "identifier": "C100288",
+            "notation": "BPI1-Education",
+            "pref_label": "BPI - Education",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100288"
+        },
+        {
+            "alt_label": "BPI1-Exhausting",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: exhausting.",
+            "identifier": "C100324",
+            "notation": "BPI1-Exhausting",
+            "pref_label": "BPI - Exhausting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100324"
+        },
+        {
+            "alt_label": "BPI1-Gnawing",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: gnawing.",
+            "identifier": "C100320",
+            "notation": "BPI1-Gnawing",
+            "pref_label": "BPI - Gnawing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100320"
+        },
+        {
+            "alt_label": "BPI1-Hours before Pain Returns",
+            "definition": "Brief Pain Inventory - If you take pain medication, how many hours does it take before the pain returns?",
+            "identifier": "C100311",
+            "notation": "BPI1-Hours before Pain Returns",
+            "pref_label": "BPI - Hours before Pain Returns",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100311"
+        },
+        {
+            "alt_label": "BPI1-How Long Since Diagnosis",
+            "definition": "Brief Pain Inventory - How long has it been since you first learned your diagnosis?",
+            "identifier": "C100293",
+            "notation": "BPI1-How Long Since Diagnosis",
+            "pref_label": "BPI - How Long Since Diagnosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100293"
+        },
+        {
+            "alt_label": "BPI1-Hypnosis to Relieve Pain",
+            "definition": "Brief Pain Inventory - Other methods I use to relieve pain include: hypnosis.",
+            "identifier": "C100352",
+            "notation": "BPI1-Hypnosis to Relieve Pain",
+            "pref_label": "BPI - Hypnosis to Relieve Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100352"
+        },
+        {
+            "alt_label": "BPI1-Kind of Surgery in Past Month",
+            "definition": "Brief Pain Inventory - What kind of surgery have you had in the past month?",
+            "identifier": "C100297",
+            "notation": "BPI1-Kind of Surgery in Past Month",
+            "pref_label": "BPI - Kind of Surgery in Past Month",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100297"
+        },
+        {
+            "alt_label": "BPI1-Marital Status",
+            "definition": "Brief Pain Inventory - Marital status.",
+            "identifier": "C100287",
+            "notation": "BPI1-Marital Status",
+            "pref_label": "BPI - Marital Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100287"
+        },
+        {
+            "alt_label": "BPI1-Meds not Prescribed Taken for Pain",
+            "definition": "Brief Pain Inventory - Medications not prescribed by my doctor that I take for pain are.",
+            "identifier": "C100355",
+            "notation": "BPI1-Meds not Prescribed Taken for Pain",
+            "pref_label": "BPI - Medications not Prescribed Taken for Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100355"
+        },
+        {
+            "alt_label": "BPI1-Miserable",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: miserable.",
+            "identifier": "C100329",
+            "notation": "BPI1-Miserable",
+            "pref_label": "BPI - Miserable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100329"
+        },
+        {
+            "alt_label": "BPI1-Nagging",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: nagging.",
+            "identifier": "C100327",
+            "notation": "BPI1-Nagging",
+            "pref_label": "BPI - Nagging",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100327"
+        },
+        {
+            "alt_label": "BPI1-Need Further Info about Pain Med",
+            "definition": "Brief Pain Inventory - Do you feel you need to receive further information about your pain medication?",
+            "identifier": "C100346",
+            "notation": "BPI1-Need Further Info about Pain Med",
+            "pref_label": "BPI - Need Further Information about Pain Medication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100346"
+        },
+        {
+            "alt_label": "BPI1-Need more Pain Med than Prescribed",
+            "definition": "Brief Pain Inventory - Do you feel you need to take more of the pain medication than your doctor has prescribed?",
+            "identifier": "C100341",
+            "notation": "BPI1-Need more Pain Med than Prescribed",
+            "pref_label": "BPI - Need more Pain Medication than Prescribed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100341"
+        },
+        {
+            "alt_label": "BPI1-Need Stronger Type of Pain Med",
+            "definition": "Brief Pain Inventory - Do you feel you need a stronger type of pain medication?",
+            "identifier": "C100340",
+            "notation": "BPI1-Need Stronger Type of Pain Med",
+            "pref_label": "BPI - Need Stronger Type of Pain Medication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100340"
+        },
+        {
+            "alt_label": "BPI1-Numb",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: numb.",
+            "identifier": "C100328",
+            "notation": "BPI1-Numb",
+            "pref_label": "BPI - Numb",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100328"
+        },
+        {
+            "alt_label": "BPI1-Other specify to Relieve Pain",
+            "definition": "Brief Pain Inventory - Other methods I use to relieve pain include: other. Please specify.",
+            "identifier": "C100354",
+            "notation": "BPI1-Other specify to Relieve Pain",
+            "pref_label": "BPI - Specified Other Method to Relieve Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100354"
+        },
+        {
+            "alt_label": "BPI1-Other to Relieve Pain",
+            "definition": "Brief Pain Inventory - Other methods I use to relieve pain include: other.",
+            "identifier": "C100353",
+            "notation": "BPI1-Other to Relieve Pain",
+            "pref_label": "BPI - Other Methods to Relieve Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100353"
+        },
+        {
+            "alt_label": "BPI1-Pain at its Least in Last Week",
+            "definition": "Brief Pain Inventory - Please rate your pain by circling the one number that best describes your pain at its least in the last week.",
+            "identifier": "C100304",
+            "notation": "BPI1-Pain at its Least in Last Week",
+            "pref_label": "BPI - Pain at its Least in Last Week",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100304"
+        },
+        {
+            "alt_label": "BPI1-Pain at its Worst in Last Week",
+            "definition": "Brief Pain Inventory - Please rate your pain by circling the one number that best describes your pain at its worst in the last week.",
+            "identifier": "C100303",
+            "notation": "BPI1-Pain at its Worst in Last Week",
+            "pref_label": "BPI - Pain at its Worst in Last Week",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100303"
+        },
+        {
+            "alt_label": "BPI1-Pain Due to Effects of Treatment",
+            "definition": "Brief Pain Inventory - I believe my pain is due to the effects of treatment.",
+            "identifier": "C100312",
+            "notation": "BPI1-Pain Due to Effects of Treatment",
+            "pref_label": "BPI - Pain Due to Effects of Treatment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100312"
+        },
+        {
+            "alt_label": "BPI1-Pain Due to Present Disease",
+            "definition": "Brief Pain Inventory - Have you ever had pain due to your present disease?",
+            "identifier": "C100294",
+            "notation": "BPI1-Pain Due to Present Disease",
+            "pref_label": "BPI - Pain Due to Present Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100294"
+        },
+        {
+            "alt_label": "BPI1-Pain Due to Primary Disease",
+            "definition": "Brief Pain Inventory - I believe my pain is due to my primary disease.",
+            "identifier": "C100313",
+            "notation": "BPI1-Pain Due to Primary Disease",
+            "pref_label": "BPI - Pain Due to Primary Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100313"
+        },
+        {
+            "alt_label": "BPI1-Pain Due to Unrelated Med Condition",
+            "definition": "Brief Pain Inventory - I believe my pain is due to a medical condition unrelated to my primary disease.",
+            "identifier": "C100314",
+            "notation": "BPI1-Pain Due to Unrelated Med Condition",
+            "pref_label": "BPI - Pain Due to Unrelated Medical Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100314"
+        },
+        {
+            "alt_label": "BPI1-Pain Interfered Enjoyment of Life",
+            "definition": "Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your enjoyment of life.",
+            "identifier": "C100337",
+            "notation": "BPI1-Pain Interfered Enjoyment of Life",
+            "pref_label": "BPI - Pain Interfered with Enjoyment of Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100337"
+        },
+        {
+            "alt_label": "BPI1-Pain Interfered General Activity",
+            "definition": "Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your general activity.",
+            "identifier": "C100331",
+            "notation": "BPI1-Pain Interfered General Activity",
+            "pref_label": "BPI - Pain Interfered with General Activity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100331"
+        },
+        {
+            "alt_label": "BPI1-Pain Interfered Walking Ability",
+            "definition": "Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your walking ability.",
+            "identifier": "C100333",
+            "notation": "BPI1-Pain Interfered Walking Ability",
+            "pref_label": "BPI - Pain Interfered with Walking Ability",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100333"
+        },
+        {
+            "alt_label": "BPI1-Pain Interfered with Mood",
+            "definition": "Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your mood.",
+            "identifier": "C100332",
+            "notation": "BPI1-Pain Interfered with Mood",
+            "pref_label": "BPI - Pain Interfered with Mood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100332"
+        },
+        {
+            "alt_label": "BPI1-Pain Interfered with Normal Work",
+            "definition": "Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your normal work.",
+            "identifier": "C100334",
+            "notation": "BPI1-Pain Interfered with Normal Work",
+            "pref_label": "BPI - Pain Interfered with Normal Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100334"
+        },
+        {
+            "alt_label": "BPI1-Pain Interfered with Relations",
+            "definition": "Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your relations with other people.",
+            "identifier": "C100335",
+            "notation": "BPI1-Pain Interfered with Relations",
+            "pref_label": "BPI - Pain Interfered with Relations",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100335"
+        },
+        {
+            "alt_label": "BPI1-Pain Interfered with Sleep",
+            "definition": "Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your sleep.",
+            "identifier": "C100336",
+            "notation": "BPI1-Pain Interfered with Sleep",
+            "pref_label": "BPI - Pain Interfered with Sleep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100336"
+        },
+        {
+            "alt_label": "BPI1-Pain Medications in the Last 7 Days",
+            "definition": "Brief Pain Inventory - Did you take pain medications in the last 7 days?",
+            "identifier": "C100299",
+            "notation": "BPI1-Pain Medications in the Last 7 Days",
+            "pref_label": "BPI - Pain Medications in the Last 7 Days",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100299"
+        },
+        {
+            "alt_label": "BPI1-Pain on the Average",
+            "definition": "Brief Pain Inventory - Please rate your pain by circling the one number that best describes your pain on the average.",
+            "identifier": "C100305",
+            "notation": "BPI1-Pain on the Average",
+            "pref_label": "BPI - Pain on the Average",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100305"
+        },
+        {
+            "alt_label": "BPI1-Pain One of Your Symptoms",
+            "definition": "Brief Pain Inventory - When you first received your diagnosis, was pain one of your symptoms?",
+            "identifier": "C100295",
+            "notation": "BPI1-Pain One of Your Symptoms",
+            "pref_label": "BPI - Pain as a Symptom",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100295"
+        },
+        {
+            "alt_label": "BPI1-Pain Other than Everyday Kinds",
+            "definition": "Brief Pain Inventory - Have you had pain other than these everyday kinds of pain during the last week?",
+            "identifier": "C100298",
+            "notation": "BPI1-Pain Other than Everyday Kinds",
+            "pref_label": "BPI - Pain Other than Everyday Kinds",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100298"
+        },
+        {
+            "alt_label": "BPI1-Pain Requires Medication Daily",
+            "definition": "Brief Pain Inventory - I feel I have some form of pain that requires medication each and every day.",
+            "identifier": "C100300",
+            "notation": "BPI1-Pain Requires Medication Daily",
+            "pref_label": "BPI - Pain Requires Medication Daily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100300"
+        },
+        {
+            "alt_label": "BPI1-Pain Right Now",
+            "definition": "Brief Pain Inventory - Please rate your pain by circling the one number that tells how much pain you have right now.",
+            "identifier": "C100306",
+            "notation": "BPI1-Pain Right Now",
+            "pref_label": "BPI - Pain Right Now",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100306"
+        },
+        {
+            "alt_label": "BPI1-Penetrating",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: penetrating.",
+            "identifier": "C100326",
+            "notation": "BPI1-Penetrating",
+            "pref_label": "BPI - Penetrating",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100326"
+        },
+        {
+            "alt_label": "BPI1-Prefer to Take Pain Medicine",
+            "definition": "Brief Pain Inventory - I prefer to take my pain medicine.",
+            "identifier": "C100338",
+            "notation": "BPI1-Prefer to Take Pain Medicine",
+            "pref_label": "BPI - Prefer to Take Pain Medicine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100338"
+        },
+        {
+            "alt_label": "BPI1-Problems with Side Effects Pain Med",
+            "definition": "Brief Pain Inventory - Are you having problems with side effects from your pain medication?",
+            "identifier": "C100344",
+            "notation": "BPI1-Problems with Side Effects Pain Med",
+            "pref_label": "BPI - Problems with Side Effects Pain Medication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100344"
+        },
+        {
+            "alt_label": "BPI1-Professional Degree",
+            "definition": "Brief Pain Inventory - Education. Professional degree.",
+            "identifier": "C100289",
+            "notation": "BPI1-Professional Degree",
+            "pref_label": "BPI - Professional Degree",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100289"
+        },
+        {
+            "alt_label": "BPI1-Relaxation Techniques Relieve Pain",
+            "definition": "Brief Pain Inventory - Other methods I use to relieve pain include: relaxation techniques.",
+            "identifier": "C100349",
+            "notation": "BPI1-Relaxation Techniques Relieve Pain",
+            "pref_label": "BPI - Relaxation Techniques Relieve Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100349"
+        },
+        {
+            "alt_label": "BPI1-Relief Pain Treatments Provided",
+            "definition": "Brief Pain Inventory - In the last week, how much relief have pain treatments or medications provided? Please circle the one percentage that most shows how much relief you have received.",
+            "identifier": "C100310",
+            "notation": "BPI1-Relief Pain Treatments Provided",
+            "pref_label": "BPI - Relief Pain Treatments Provided",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100310"
+        },
+        {
+            "alt_label": "BPI1-Sharp",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: sharp.",
+            "identifier": "C100321",
+            "notation": "BPI1-Sharp",
+            "pref_label": "BPI - Sharp",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100321"
+        },
+        {
+            "alt_label": "BPI1-Shooting",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: shooting.",
+            "identifier": "C100318",
+            "notation": "BPI1-Shooting",
+            "pref_label": "BPI - Shooting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100318"
+        },
+        {
+            "alt_label": "BPI1-Spouse's Occupation",
+            "definition": "Brief Pain Inventory - Spouse's occupation.",
+            "identifier": "C100291",
+            "notation": "BPI1-Spouse's Occupation",
+            "pref_label": "BPI - Spouse's Occupation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100291"
+        },
+        {
+            "alt_label": "BPI1-Stabbing",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: stabbing.",
+            "identifier": "C100319",
+            "notation": "BPI1-Stabbing",
+            "pref_label": "BPI - Stabbing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100319"
+        },
+        {
+            "alt_label": "BPI1-Surgery in Past Month",
+            "definition": "Brief Pain Inventory - Have you had surgery in the past month?",
+            "identifier": "C100296",
+            "notation": "BPI1-Surgery in Past Month",
+            "pref_label": "BPI - Surgery in Past Month",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100296"
+        },
+        {
+            "alt_label": "BPI1-Take my Pain Medicine",
+            "definition": "Brief Pain Inventory - I take my pain medicine (in a 24 hour period).",
+            "identifier": "C100339",
+            "notation": "BPI1-Take my Pain Medicine",
+            "pref_label": "BPI - Take my Pain Medicine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100339"
+        },
+        {
+            "alt_label": "BPI1-Tender",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: tender.",
+            "identifier": "C100322",
+            "notation": "BPI1-Tender",
+            "pref_label": "BPI - Tender",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100322"
+        },
+        {
+            "alt_label": "BPI1-Things that Make Pain Feel Better",
+            "definition": "Brief Pain Inventory - What kinds of things make your pain feel better?",
+            "identifier": "C100307",
+            "notation": "BPI1-Things that Make Pain Feel Better",
+            "pref_label": "BPI - Things that Make Pain Feel Better",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100307"
+        },
+        {
+            "alt_label": "BPI1-Things that Make your Pain Worse",
+            "definition": "Brief Pain Inventory - What kinds of things make your pain feel worse?",
+            "identifier": "C100308",
+            "notation": "BPI1-Things that Make your Pain Worse",
+            "pref_label": "BPI - Things that Make your Pain Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100308"
+        },
+        {
+            "alt_label": "BPI1-Throbbing",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: throbbing.",
+            "identifier": "C100317",
+            "notation": "BPI1-Throbbing",
+            "pref_label": "BPI - Throbbing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100317"
+        },
+        {
+            "alt_label": "BPI1-Tiring",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: tiring.",
+            "identifier": "C100325",
+            "notation": "BPI1-Tiring",
+            "pref_label": "BPI - Tiring",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100325"
+        },
+        {
+            "alt_label": "BPI1-Treatments Receiving for Pain",
+            "definition": "Brief Pain Inventory - What treatments or medications are you receiving for your pain?",
+            "identifier": "C100309",
+            "notation": "BPI1-Treatments Receiving for Pain",
+            "pref_label": "BPI - Treatments Receiving for Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100309"
+        },
+        {
+            "alt_label": "BPI1-Unbearable",
+            "definition": "Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: unbearable.",
+            "identifier": "C100330",
+            "notation": "BPI1-Unbearable",
+            "pref_label": "BPI - Unbearable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100330"
+        },
+        {
+            "alt_label": "BPI1-Warm Compresses to Relieve Pain",
+            "definition": "Brief Pain Inventory - Other methods I use to relieve pain include: warm compresses.",
+            "identifier": "C100347",
+            "notation": "BPI1-Warm Compresses to Relieve Pain",
+            "pref_label": "BPI - Warm Compresses to Relieve Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100347"
+        },
+        {
+            "alt_label": "BPI1-Which Side Effects from Pain Med",
+            "definition": "Brief Pain Inventory - Are you having problems with side effects from your pain medication? Which side effects?",
+            "identifier": "C100345",
+            "notation": "BPI1-Which Side Effects from Pain Med",
+            "pref_label": "BPI - What Side Effects from Pain Medication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100345"
+        },
+        {
+            "alt_label": "BPI1-Why Concerned Use Too Much Pain Med",
+            "definition": "Brief Pain Inventory - Are you concerned that you use too much pain medication? If Yes, why?",
+            "identifier": "C100343",
+            "notation": "BPI1-Why Concerned Use Too Much Pain Med",
+            "pref_label": "BPI - Why Concerned with Too Much Pain Medication Use",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100161-C100343"
+        }
+    ]
+}

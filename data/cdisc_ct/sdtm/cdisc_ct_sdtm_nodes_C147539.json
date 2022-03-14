@@ -1,0 +1,404 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "FAC061-Bothered by Change in Food Tastes",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am bothered by a change in the way food tastes.",
+            "identifier": "C147636",
+            "notation": "FAC061-Bothered by Change in Food Tastes",
+            "pref_label": "FACT-BMT Version 4 - Bothered by Change in Food Tastes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147636"
+        },
+        {
+            "alt_label": "FAC061-Bothered by Treatment Side Effect",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am bothered by side effects of treatment.",
+            "identifier": "C147597",
+            "notation": "FAC061-Bothered by Treatment Side Effect",
+            "pref_label": "FACT-BMT Version 4 - Bothered by Treatment Side Effect",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147597"
+        },
+        {
+            "alt_label": "FAC061-Concerns Ability to Have Children",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I have concerns about my ability to have children.",
+            "identifier": "C147629",
+            "notation": "FAC061-Concerns Ability to Have Children",
+            "pref_label": "FACT-BMT Version 4 - Concerns Ability to Have Children",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147629"
+        },
+        {
+            "alt_label": "FAC061-Confidence in My Nurse(s)",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I have confidence in my nurse(s).",
+            "identifier": "C147630",
+            "notation": "FAC061-Confidence in My Nurse(s)",
+            "pref_label": "FACT-BMT Version 4 - Confidence in My Nurse(s)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147630"
+        },
+        {
+            "alt_label": "FAC061-Content With Quality of My Life",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am content with the quality of my life right now.",
+            "identifier": "C147619",
+            "notation": "FAC061-Content With Quality of My Life",
+            "pref_label": "FACT-BMT Version 4 - Content With Quality of My Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147619"
+        },
+        {
+            "alt_label": "FAC061-Cost of Treatment Is Burden on Me",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - The cost of my treatment is a burden on me or my family.",
+            "identifier": "C147642",
+            "notation": "FAC061-Cost of Treatment Is Burden on Me",
+            "pref_label": "FACT-BMT Version 4 - Cost of Treatment Is Burden on Me",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147642"
+        },
+        {
+            "alt_label": "FAC061-Enjoy Things I Usually Do for Fun",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am enjoying the things I usually do for fun.",
+            "identifier": "C147618",
+            "notation": "FAC061-Enjoy Things I Usually Do for Fun",
+            "pref_label": "FACT-BMT Version 4 - Enjoy Things I Usually Do for Fun",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147618"
+        },
+        {
+            "alt_label": "FAC061-Get Emotional Support From Family",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I get emotional support from my family.",
+            "identifier": "C147601",
+            "notation": "FAC061-Get Emotional Support From Family",
+            "pref_label": "FACT-BMT Version 4 - Get Emotional Support From Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147601"
+        },
+        {
+            "alt_label": "FAC061-I Am Able to Concentrate",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am able to concentrate.",
+            "identifier": "C147633",
+            "notation": "FAC061-I Am Able to Concentrate",
+            "pref_label": "FACT-BMT Version 4 - I Am Able to Concentrate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147633"
+        },
+        {
+            "alt_label": "FAC061-I Am Able to Enjoy Life",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am able to enjoy life.",
+            "identifier": "C147615",
+            "notation": "FAC061-I Am Able to Enjoy Life",
+            "pref_label": "FACT-BMT Version 4 - I Am Able to Enjoy Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147615"
+        },
+        {
+            "alt_label": "FAC061-I Am Able to Get Around by Myself",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am able to get around by myself.",
+            "identifier": "C147626",
+            "notation": "FAC061-I Am Able to Get Around by Myself",
+            "pref_label": "FACT-BMT Version 4 - I Am Able to Get Around by Myself",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147626"
+        },
+        {
+            "alt_label": "FAC061-I Am Able to Work",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am able to work (include work at home).",
+            "identifier": "C147613",
+            "notation": "FAC061-I Am Able to Work",
+            "pref_label": "FACT-BMT Version 4 - I Am Able to Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147613"
+        },
+        {
+            "alt_label": "FAC061-I Am Bothered by Skin Problems",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am bothered by skin problems.",
+            "identifier": "C147639",
+            "notation": "FAC061-I Am Bothered by Skin Problems",
+            "pref_label": "FACT-BMT Version 4 - I Am Bothered by Skin Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147639"
+        },
+        {
+            "alt_label": "FAC061-I Am Concerned About Keeping Job",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am concerned about keeping my job (include work at home).",
+            "identifier": "C147620",
+            "notation": "FAC061-I Am Concerned About Keeping Job",
+            "pref_label": "FACT-BMT Version 4 - I Am Concerned About Keeping Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147620"
+        },
+        {
+            "alt_label": "FAC061-I Am Forced to Spend Time in Bed",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am forced to spend time in bed.",
+            "identifier": "C147599",
+            "notation": "FAC061-I Am Forced to Spend Time in Bed",
+            "pref_label": "FACT-BMT Version 4 - I Am Forced to Spend Time in Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147599"
+        },
+        {
+            "alt_label": "FAC061-I Am Interested in Sex",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am interested in sex.",
+            "identifier": "C147628",
+            "notation": "FAC061-I Am Interested in Sex",
+            "pref_label": "FACT-BMT Version 4 - I Am Interested in Sex",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147628"
+        },
+        {
+            "alt_label": "FAC061-I Am Satisfied With My Sex Life",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am satisfied with my sex life.",
+            "identifier": "C147606",
+            "notation": "FAC061-I Am Satisfied With My Sex Life",
+            "pref_label": "FACT-BMT Version 4 - I Am Satisfied With My Sex Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147606"
+        },
+        {
+            "alt_label": "FAC061-I Am Sleeping Well",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am sleeping well.",
+            "identifier": "C147617",
+            "notation": "FAC061-I Am Sleeping Well",
+            "pref_label": "FACT-BMT Version 4 - I Am Sleeping Well",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147617"
+        },
+        {
+            "alt_label": "FAC061-I Can Remember Things",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I can remember things.",
+            "identifier": "C147632",
+            "notation": "FAC061-I Can Remember Things",
+            "pref_label": "FACT-BMT Version 4 - I Can Remember Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147632"
+        },
+        {
+            "alt_label": "FAC061-I Feel Close to My Friends",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I feel close to my friends.",
+            "identifier": "C147600",
+            "notation": "FAC061-I Feel Close to My Friends",
+            "pref_label": "FACT-BMT Version 4 - I Feel Close to My Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147600"
+        },
+        {
+            "alt_label": "FAC061-I Feel Close to My Partner",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I feel close to my partner (or the person who is my main support).",
+            "identifier": "C147605",
+            "notation": "FAC061-I Feel Close to My Partner",
+            "pref_label": "FACT-BMT Version 4 - I Feel Close to My Partner",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147605"
+        },
+        {
+            "alt_label": "FAC061-I Feel Distant From Other People",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I feel distant from other people.",
+            "identifier": "C147621",
+            "notation": "FAC061-I Feel Distant From Other People",
+            "pref_label": "FACT-BMT Version 4 - I Feel Distant From Other People",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147621"
+        },
+        {
+            "alt_label": "FAC061-I Feel Ill",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I feel ill.",
+            "identifier": "C147598",
+            "notation": "FAC061-I Feel Ill",
+            "pref_label": "FACT-BMT Version 4 - I Feel Ill",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147598"
+        },
+        {
+            "alt_label": "FAC061-I Feel Nervous",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I feel nervous.",
+            "identifier": "C147610",
+            "notation": "FAC061-I Feel Nervous",
+            "pref_label": "FACT-BMT Version 4 - I Feel Nervous",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147610"
+        },
+        {
+            "alt_label": "FAC061-I Feel Sad",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I feel sad.",
+            "identifier": "C147607",
+            "notation": "FAC061-I Feel Sad",
+            "pref_label": "FACT-BMT Version 4 - I Feel Sad",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147607"
+        },
+        {
+            "alt_label": "FAC061-I Get Support From My Friends",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I get support from my friends.",
+            "identifier": "C147602",
+            "notation": "FAC061-I Get Support From My Friends",
+            "pref_label": "FACT-BMT Version 4 - I Get Support From My Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147602"
+        },
+        {
+            "alt_label": "FAC061-I Get Tired Easily",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I get tired easily.",
+            "identifier": "C147627",
+            "notation": "FAC061-I Get Tired Easily",
+            "pref_label": "FACT-BMT Version 4 - I Get Tired Easily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147627"
+        },
+        {
+            "alt_label": "FAC061-I Have a Good Appetite",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I have a good appetite.",
+            "identifier": "C147624",
+            "notation": "FAC061-I Have a Good Appetite",
+            "pref_label": "FACT-BMT Version 4 - I Have a Good Appetite",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147624"
+        },
+        {
+            "alt_label": "FAC061-I Have a Lack of Energy",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I have a lack of energy.",
+            "identifier": "C147593",
+            "notation": "FAC061-I Have a Lack of Energy",
+            "pref_label": "FACT-BMT Version 4 - I Have a Lack of Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147593"
+        },
+        {
+            "alt_label": "FAC061-I Have Accepted My Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I have accepted my illness.",
+            "identifier": "C147616",
+            "notation": "FAC061-I Have Accepted My Illness",
+            "pref_label": "FACT-BMT Version 4 - I Have Accepted My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147616"
+        },
+        {
+            "alt_label": "FAC061-I Have Been Short of Breath",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I have been short of breath.",
+            "identifier": "C147638",
+            "notation": "FAC061-I Have Been Short of Breath",
+            "pref_label": "FACT-BMT Version 4 - I Have Been Short of Breath",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147638"
+        },
+        {
+            "alt_label": "FAC061-I Have Frequent Colds/Infections",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I have frequent colds/infections.",
+            "identifier": "C147634",
+            "notation": "FAC061-I Have Frequent Colds/Infections",
+            "pref_label": "FACT-BMT Version 4 - I Have Frequent Colds/Infections",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147634"
+        },
+        {
+            "alt_label": "FAC061-I Have Nausea",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I have nausea.",
+            "identifier": "C147594",
+            "notation": "FAC061-I Have Nausea",
+            "pref_label": "FACT-BMT Version 4 - I Have Nausea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147594"
+        },
+        {
+            "alt_label": "FAC061-I Have Pain",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I have pain.",
+            "identifier": "C147596",
+            "notation": "FAC061-I Have Pain",
+            "pref_label": "FACT-BMT Version 4 - I Have Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147596"
+        },
+        {
+            "alt_label": "FAC061-I Have Tremors",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I have tremors.",
+            "identifier": "C147637",
+            "notation": "FAC061-I Have Tremors",
+            "pref_label": "FACT-BMT Version 4 - I Have Tremors",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147637"
+        },
+        {
+            "alt_label": "FAC061-I Have Trouble With My Bowels",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I have trouble with my bowels.",
+            "identifier": "C147640",
+            "notation": "FAC061-I Have Trouble With My Bowels",
+            "pref_label": "FACT-BMT Version 4 - I Have Trouble With My Bowels",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147640"
+        },
+        {
+            "alt_label": "FAC061-I Like the Appearance of My Body",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I like the appearance of my body.",
+            "identifier": "C147625",
+            "notation": "FAC061-I Like the Appearance of My Body",
+            "pref_label": "FACT-BMT Version 4 - I Like the Appearance of My Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147625"
+        },
+        {
+            "alt_label": "FAC061-I Regret Bone Marrow Transplant",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I regret having the bone marrow transplant.",
+            "identifier": "C147631",
+            "notation": "FAC061-I Regret Bone Marrow Transplant",
+            "pref_label": "FACT-BMT Version 4 - I Regret Bone Marrow Transplant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147631"
+        },
+        {
+            "alt_label": "FAC061-I Worry About Dying",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I worry about dying.",
+            "identifier": "C147611",
+            "notation": "FAC061-I Worry About Dying",
+            "pref_label": "FACT-BMT Version 4 - I Worry About Dying",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147611"
+        },
+        {
+            "alt_label": "FAC061-I Worry Transplant Will Not Work",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I worry that the transplant will not work.",
+            "identifier": "C147622",
+            "notation": "FAC061-I Worry Transplant Will Not Work",
+            "pref_label": "FACT-BMT Version 4 - I Worry Transplant Will Not Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147622"
+        },
+        {
+            "alt_label": "FAC061-Illness Is Hardship for My Family",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - My illness is a personal hardship for my close family members.",
+            "identifier": "C147641",
+            "notation": "FAC061-Illness Is Hardship for My Family",
+            "pref_label": "FACT-BMT Version 4 - Illness Is Hardship for My Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147641"
+        },
+        {
+            "alt_label": "FAC061-Losing Hope Against Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am losing hope in the fight against my illness.",
+            "identifier": "C147609",
+            "notation": "FAC061-Losing Hope Against Illness",
+            "pref_label": "FACT-BMT Version 4 - Losing Hope Against Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147609"
+        },
+        {
+            "alt_label": "FAC061-My Eyesight Is Blurry",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - My eyesight is blurry.",
+            "identifier": "C147635",
+            "notation": "FAC061-My Eyesight Is Blurry",
+            "pref_label": "FACT-BMT Version 4 - My Eyesight Is Blurry",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147635"
+        },
+        {
+            "alt_label": "FAC061-My Family Has Accepted My Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - My family has accepted my illness.",
+            "identifier": "C147603",
+            "notation": "FAC061-My Family Has Accepted My Illness",
+            "pref_label": "FACT-BMT Version 4 - My Family Has Accepted My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147603"
+        },
+        {
+            "alt_label": "FAC061-My Work Is Fulfilling",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - My work (include work at home) is fulfilling.",
+            "identifier": "C147614",
+            "notation": "FAC061-My Work Is Fulfilling",
+            "pref_label": "FACT-BMT Version 4 - My Work Is Fulfilling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147614"
+        },
+        {
+            "alt_label": "FAC061-Satisfied Communication Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am satisfied with family communication about my illness.",
+            "identifier": "C147604",
+            "notation": "FAC061-Satisfied Communication Illness",
+            "pref_label": "FACT-BMT Version 4 - Satisfied Communication Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147604"
+        },
+        {
+            "alt_label": "FAC061-Satisfied With How I Am Coping",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I am satisfied with how I am coping with my illness.",
+            "identifier": "C147608",
+            "notation": "FAC061-Satisfied With How I Am Coping",
+            "pref_label": "FACT-BMT Version 4 - Satisfied With How I Am Coping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147608"
+        },
+        {
+            "alt_label": "FAC061-Side Effect of Treatment Worse",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - The side effects of treatment are worse than I had imagined.",
+            "identifier": "C147623",
+            "notation": "FAC061-Side Effect of Treatment Worse",
+            "pref_label": "FACT-BMT Version 4 - Side Effect of Treatment Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147623"
+        },
+        {
+            "alt_label": "FAC061-Trouble Meeting Needs of Family",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - Because of my physical condition, I have trouble meeting the needs of my family.",
+            "identifier": "C147595",
+            "notation": "FAC061-Trouble Meeting Needs of Family",
+            "pref_label": "FACT-BMT Version 4 - Trouble Meeting Needs of Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147595"
+        },
+        {
+            "alt_label": "FAC061-Worry My Condition Will Get Worse",
+            "definition": "Functional Assessment of Cancer Therapy-Bone Marrow Transplant Version 4 - I worry that my condition will get worse.",
+            "identifier": "C147612",
+            "notation": "FAC061-Worry My Condition Will Get Worse",
+            "pref_label": "FACT-BMT Version 4 - Worry My Condition Will Get Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C147539-C147612"
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The intended recipient of a heart transplant.",
+            "identifier": "C99919",
+            "notation": "CANDIDATE TO RECEIVE CARDIAC TRANSPLANT",
+            "pref_label": "Candidate to Receive Cardiac Transplant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99919"
+        },
+        {
+            "definition": "An episode of cardiac arrest or arrhythmia where the etiology was unknown.",
+            "identifier": "C100033",
+            "notation": "CARDIAC ARREST/ARRHYTHMIA ETIOLOGY UNKNOWN",
+            "pref_label": "Cardiac Arrest/Arrhythmia Etiology Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100033"
+        },
+        {
+            "definition": "A disease of the heart muscle or myocardium proper. Cardiomyopathies may be classified as either primary or secondary, on the basis of etiology, or on the pathophysiology of the lesion: hypertrophic, dilated, or restrictive.",
+            "identifier": "C34830",
+            "notation": "CARDIOMYOPATHY",
+            "pref_label": "Cardiomyopathy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C34830"
+        },
+        {
+            "definition": "A longstanding, complete blockage of a vessel.",
+            "identifier": "C99938",
+            "notation": "CHRONIC TOTAL OCCLUSION",
+            "pref_label": "Chronic Total Occlusion Vessel",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99938"
+        },
+        {
+            "definition": "The subject contributing a heart for a cardiac transplant.",
+            "identifier": "C99947",
+            "notation": "DONOR FOR CARDIAC TRANSPLANT",
+            "pref_label": "Donor for Cardiac Transplant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99947"
+        },
+        {
+            "definition": "The battery that supplies the device has reached the end of its life.",
+            "identifier": "C99949",
+            "notation": "END OF EXPECTED BATTERY LIFE",
+            "pref_label": "End of Expected Battery Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99949"
+        },
+        {
+            "definition": "There is a faulty connector/header in the device.",
+            "identifier": "C100035",
+            "notation": "FAULTY CONNECTOR/HEADER",
+            "pref_label": "Faulty Device Connector/Header",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100035"
+        },
+        {
+            "definition": "A cardiac lead requires revision, at which time the generator to the device will be replaced.",
+            "identifier": "C99925",
+            "notation": "GENERATOR IS BEING REPLACED AT THE TIME OF LEAD REVISION",
+            "pref_label": "Cardiac Device Generator is Being Replaced at Time of Lead Revision",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99925"
+        },
+        {
+            "definition": "The device has a generator malfunction.",
+            "identifier": "C99943",
+            "notation": "GENERATOR MALFUNCTION",
+            "pref_label": "Device Generator Malfunction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99943"
+        },
+        {
+            "definition": "An immediate percutaneous coronary intervention is necessary for a myocardial infarction that presents with ST segment elevation.",
+            "identifier": "C99961",
+            "notation": "IMMEDIATE PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR ST ELEVATION MYOCARDIAL INFARCTION (STEMI)",
+            "pref_label": "Immediate Percutaneous Coronary Intervention for ST Elevation Myocardial Infarction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99961"
+        },
+        {
+            "definition": "A disorder resulting from the presence and activity of a microbial, viral, or parasitic agent. It can be transmitted by direct or indirect contact. (NCI)",
+            "identifier": "C26726",
+            "notation": "INFECTION",
+            "pref_label": "Infectious Disorder",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C26726"
+        },
+        {
+            "definition": "A cardiac lead has damaged local tissue enough to require treatment.",
+            "identifier": "C99931",
+            "notation": "LEAD EROSION",
+            "pref_label": "Cardiac Lead Erosion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99931"
+        },
+        {
+            "definition": "The degree of impairment of the left cardiac ventricle to contract efficiently.",
+            "identifier": "C64251",
+            "notation": "LEFT VENTRICULAR SYSTOLIC DYSFUNCTION",
+            "pref_label": "Left Ventricular Systolic Dysfunction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C64251"
+        },
+        {
+            "definition": "An imperative issued by the manufacturer of a device that the device needs to be returned to a designated source for repair or replacement.",
+            "identifier": "C100045",
+            "notation": "MANUFACTURER RECALL",
+            "pref_label": "Manufacturer Recall",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100045"
+        },
+        {
+            "definition": "The device manufacturer had recognized a recurrent performance failure in the device.",
+            "identifier": "C99980",
+            "notation": "MANUFACTURER RECOGNIZED A RECURRING PERFORMANCE FAILURE",
+            "pref_label": "Manufacturer Recognized a Recurring Performance Failure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99980"
+        },
+        {
+            "definition": "The medical condition or the procedure affects the device implantation site.",
+            "identifier": "C99982",
+            "notation": "MEDICAL CONDITION OR PROCEDURE AFFECTS IMPLANTATION SITE",
+            "pref_label": "Medical Condition or Procedure Affects Implantation Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99982"
+        },
+        {
+            "definition": "An intended medical or surgical procedure necessitates the relocation of a cardiac lead.",
+            "identifier": "C99983",
+            "notation": "MEDICAL OR SURGICAL PROCEDURE REQUIRING RELOCATION OF LEAD",
+            "pref_label": "Medical or Surgical Procedure Requiring Relocation of Lead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99983"
+        },
+        {
+            "definition": "Includes patients with unstable angina or Non-STEMI who have high risk features for short-term risk of death or nonfatal MI. High risk features includes at least one of the following: history of accelerating tempo of ischemic symptoms in preceding 48 hours; character of pain - prolonged ongoing (greater than 20 minutes) rest pain; clinical findings - pulmonary edema, most likely due to ischemia or new or worsening mitral regurgitation murmur; or S3 or new worsening rales or Hypotension, bradycardia, tachycardia or age greater than 75 years; ECG - angina at rest with transient ST-segment changes greater than 0.5 mm or bundle-branch block, new or presumed new or sustained ventricular tachycardia; cardiac markers - NSTEMI patients with elevated cardiac TnT, Tnl, or CK-MB.",
+            "identifier": "C99999",
+            "notation": "PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR HIGH RISK NON-ST ELEVATION MYOCARDIAL INFARCTION OR UNSTABLE ANGINA",
+            "pref_label": "Percutaneous Coronary Intervention for High Risk Non-ST Elevation Myocardial Infarction or Unstable Angina",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C99999"
+        },
+        {
+            "definition": "A percutaneous coronary intervention is necessary for a myocardial infarction that presents with ST segment elevation and the subject does not have recurrent or persistent symptoms, symptoms of heart failure or ventricular arrhythmia after a successful dose of thrombolytic therapy.",
+            "identifier": "C100001",
+            "notation": "PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR ST ELEVATION MYOCARDIAL INFARCTION (STEMI) (STABLE AFTER SUCCESSFUL FULL-DOSE THROMBOLYTICS)",
+            "pref_label": "Percutaneous Coronary Intervention for ST Elevation Myocardial Infarction-Stable After Successful Full-Dose Thrombolytic Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100001"
+        },
+        {
+            "definition": "A percutaneous coronary intervention is necessary for a myocardial infarction that presents with ST segment elevation and the subject does not have recurrent or persistent symptoms, symptoms of heart failure or ventricular arrhythmia. The presentation is past twelve hours since onset of symptoms.",
+            "identifier": "C100000",
+            "notation": "PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR ST ELEVATION MYOCARDIAL INFARCTION (STEMI) (STABLE, >12 HRS FROM SYMPTOM ONSET)",
+            "pref_label": "Percutaneous Coronary Intervention for ST Elevation Myocardial Infarction-Stable-Over 12 Hours From Symptom Onset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100000"
+        },
+        {
+            "definition": "A percutaneous coronary intervention is necessary for a myocardial infarction that presents with ST segment elevation and the subject has recurrent or persistent symptoms, symptoms of heart failure or ventricular arrhythmia. The presentation is past twelve hours since onset of symptoms.",
+            "identifier": "C100002",
+            "notation": "PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR ST ELEVATION MYOCARDIAL INFARCTION (STEMI) (UNSTABLE, >12 HRS FROM SYMPTOM ONSET)",
+            "pref_label": "Percutaneous Coronary Intervention for ST Elevation Myocardial Infarction-Unstable-Over 12 Hours From Symptom Onset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100002"
+        },
+        {
+            "definition": "A procedure to evaluate the health of the an individual after receiving a heart transplant.",
+            "identifier": "C100005",
+            "notation": "POST-CARDIAC TRANSPLANT",
+            "pref_label": "Post-Cardiac Transplant Evaluation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100005"
+        },
+        {
+            "definition": "A procedure to evaluate the health of the cardiac system to determine feasibility of a non-cardiac related surgical procedure.",
+            "identifier": "C100006",
+            "notation": "PRE-OPERATIVE EVALUATION FOR NON-CARDIOVASCULAR SURGERY",
+            "pref_label": "Pre-Operative Evaluation for Non-Cardiovascular Surgery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100006"
+        },
+        {
+            "definition": "A procedure performed to avoid the first occurrence of a disease condition.",
+            "identifier": "C15306",
+            "notation": "PRIMARY PREVENTION",
+            "pref_label": "Primary Prevention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C15306"
+        },
+        {
+            "definition": "A percutaneous coronary intervention is imperative for a myocardial infarction that presents with ST segment elevation after an unsatisfactory response to a full dose of thrombolytic therapy.",
+            "identifier": "C100008",
+            "notation": "RESCUE PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR ST ELEVATION MYOCARDIAL INFARCTION (STEMI) (AFTER FAILED FULL-DOSE THROMBOLYTICS)",
+            "pref_label": "Rescue Percutaneous Coronary Intervention for ST Elevation Myocardial Infarction After Failed Full-Dose Thrombolytic Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100008"
+        },
+        {
+            "definition": "A procedure performed to avoid a subsequent occurrence of a disease condition.",
+            "identifier": "C15712",
+            "notation": "SECONDARY PREVENTION",
+            "pref_label": "Secondary Prevention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C15712"
+        },
+        {
+            "definition": "Ventricular tachycardia that occurs without provocation and does not resolve spontaneously.",
+            "identifier": "C100014",
+            "notation": "SPONTANEOUS SUSTAINED VENTRICULAR TACHYCARDIA",
+            "pref_label": "Spontaneous Sustained Ventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100014"
+        },
+        {
+            "definition": "A subsequent Percutaneous Coronary Intervention in a planned series of procedures, where the first PCI could have been during a prior admission, or during this admission.",
+            "identifier": "C100015",
+            "notation": "STAGED PERCUTANEOUS CORONARY INTERVENTION (PCI)",
+            "pref_label": "Staged Percutaneous Coronary Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100015"
+        },
+        {
+            "definition": "A sudden loss of consciousness with loss of postural tone not related to anesthesia with high risk characteristics. High risk characteristics include non-ischemic dilated cardiomyopathy, or ischemic heart disease with significant ventricular dysfunction, hypertrophic cardiomyopathy, Brugada Syndrome, or Long QT Syndrome.",
+            "identifier": "C100018",
+            "notation": "SYNCOPE WITH HIGH RISK CHARACTERISTICS",
+            "pref_label": "Syncope with High Risk Cardiac Characteristics",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100018"
+        },
+        {
+            "definition": "Sudden loss of consciousness with loss of postural tone not related to anesthesia with ventricular tachycardia (VT) that can be induced during an electrophysiological study.",
+            "identifier": "C100019",
+            "notation": "SYNCOPE WITH INDUCIBLE VENTRICULAR TACHYCARDIA",
+            "pref_label": "Syncope with Inducible Ventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100019"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C17998"
+        },
+        {
+            "definition": "A device with additional pacing capabilities is replacing the current device.",
+            "identifier": "C100030",
+            "notation": "UPGRADE TO A DEVICE WITH ADDITIONAL PACING CAPABILITIES",
+            "pref_label": "Upgrade to Cardiac Device with Additional Pacing Capabilities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C100030"
+        },
+        {
+            "definition": "Ventricular Fibrillation is characterized by rapid, usually more than 300 bpm (cycle length: 180 ms or less), grossly irregular ventricular rhythm with marked variability in QRS cycle length, morphology, and amplitude.",
+            "identifier": "C50799",
+            "notation": "VENTRICULAR FIBRILLATION",
+            "pref_label": "Ventricular Fibrillation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101859-C50799"
+        }
+    ]
+}

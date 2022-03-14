@@ -1,0 +1,3340 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Acinetobacter",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Acinetobacter genus level in a biological specimen.",
+            "identifier": "C179755",
+            "notation": "ACINETOB",
+            "pref_label": "Acinetobacter Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C179755"
+        },
+        {
+            "alt_label": "Adenovirus Antibody",
+            "definition": "A measurement of the adenovirus antibody in a biological specimen.",
+            "identifier": "C111125",
+            "notation": "ADENOVAB",
+            "pref_label": "Adenovirus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C111125"
+        },
+        {
+            "alt_label": "Adenovirus Antigen",
+            "definition": "A measurement of the Adenovirus antigen in a biological specimen.",
+            "identifier": "C154830",
+            "notation": "ADENOVAG",
+            "pref_label": "Adenovirus Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154830"
+        },
+        {
+            "alt_label": "Adenoviridae;Adenovirus",
+            "definition": "A measurement of the adenoviridae in a biological specimen.",
+            "identifier": "C171498",
+            "notation": "ADENOVIR",
+            "pref_label": "Adenoviridae Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C171498"
+        },
+        {
+            "alt_label": "Adenovirus IgG Antibody",
+            "definition": "A measurement of the adenovirus IgG antibody in a biological specimen.",
+            "identifier": "C163529",
+            "notation": "ADVIGGAB",
+            "pref_label": "Adenovirus IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163529"
+        },
+        {
+            "alt_label": "Adenovirus IgM Antibody",
+            "definition": "A measurement of the adenovirus IgM antibody in a biological specimen.",
+            "identifier": "C163530",
+            "notation": "ADVIGMAB",
+            "pref_label": "Adenovirus IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163530"
+        },
+        {
+            "alt_label": "Acid-Fast Bacilli",
+            "definition": "A measurement of any rod-shaped bacteria that resist decolorizing by acid after accepting an aqueous stain solution, due to the mycolic acids in their cell walls.",
+            "identifier": "C128981",
+            "notation": "AFB",
+            "pref_label": "Acid-Fast Bacilli Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C128981"
+        },
+        {
+            "alt_label": "Anti-Saccharomyces cerevisiae Antibody;Baker's Yeast Antibody",
+            "definition": "A measurement of the anti-Saccharomyces cerevisiae antibody in a biological specimen.",
+            "identifier": "C81976",
+            "notation": "ASCAB",
+            "pref_label": "Anti-Saccharomyces cerevisiae Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C81976"
+        },
+        {
+            "alt_label": "Aspergillus Antibody",
+            "definition": "A measurement of the antibody to any member of the genus Aspergillus in a biological specimen.",
+            "identifier": "C166028",
+            "notation": "ASPAB",
+            "pref_label": "Aspergillus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166028"
+        },
+        {
+            "alt_label": "Aspergillus",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Aspergillus genus level in a biological specimen.",
+            "identifier": "C172528",
+            "notation": "ASPERGIL",
+            "pref_label": "Aspergillus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172528"
+        },
+        {
+            "alt_label": "Achromobacter xylosoxidans",
+            "definition": "A measurement of the Achromobacter xylosoxidans in a biological specimen.",
+            "identifier": "C172529",
+            "notation": "AXY",
+            "pref_label": "Achromobacter xylosoxidans Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172529"
+        },
+        {
+            "alt_label": "Human Parvovirus B19",
+            "definition": "A measurement of the Human Parvovirus B19 in a biological specimen.",
+            "identifier": "C156542",
+            "notation": "B19V",
+            "pref_label": "Human Parvovirus B19 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C156542"
+        },
+        {
+            "alt_label": "Bacterial Beta-lactamase",
+            "definition": "A measurement of the bacterial enzyme beta-lactamase in a biological specimen.",
+            "identifier": "C161400",
+            "notation": "BACBLACT",
+            "pref_label": "Bacterial Beta-lactamase Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161400"
+        },
+        {
+            "alt_label": "Bacteria",
+            "definition": "A measurement of the bacteria in a biological specimen.",
+            "identifier": "C64469",
+            "notation": "BACT",
+            "pref_label": "Bacterial Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C64469"
+        },
+        {
+            "alt_label": "Burkholderia ambifaria",
+            "definition": "A measurement of the Burkholderia ambifaria in a biological specimen.",
+            "identifier": "C172535",
+            "notation": "BAM",
+            "pref_label": "Burkholderia ambifaria Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172535"
+        },
+        {
+            "alt_label": "Burkholderia anthina",
+            "definition": "A measurement of the Burkholderia anthina in a biological specimen.",
+            "identifier": "C172536",
+            "notation": "BAN",
+            "pref_label": "Burkholderia anthina Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172536"
+        },
+        {
+            "alt_label": "B. burgdorferi IgG and IgM Antibody;Borrelia burgdorferi IgG and IgM Antibody",
+            "definition": "A measurement of the Borrelia burgdorferi IgG and IgM antibodies in a biological specimen.",
+            "identifier": "C147310",
+            "notation": "BBIGGMAB",
+            "pref_label": "Borrelia burgdorferi IgG and IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147310"
+        },
+        {
+            "alt_label": "Borrelia burgdorferi Antibody;Lyme Antibody",
+            "definition": "A measurement of the total Borrelia burgdorferi antibody in a biological specimen.",
+            "identifier": "C122098",
+            "notation": "BBRAB",
+            "pref_label": "Borrelia Burgdorferi Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C122098"
+        },
+        {
+            "alt_label": "Borrelia burgdorferi IgA Antibody;Lyme IgA Antibody",
+            "definition": "A measurement of the Borrelia burgdorferi IgA antibody in a biological specimen.",
+            "identifier": "C122099",
+            "notation": "BBRIGAAB",
+            "pref_label": "Borrelia Burgdorferi IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C122099"
+        },
+        {
+            "alt_label": "Borrelia burgdorferi IgG Antibody;Lyme IgG Antibody",
+            "definition": "A measurement of the Borrelia burgdorferi IgG antibody in a biological specimen.",
+            "identifier": "C122100",
+            "notation": "BBRIGGAB",
+            "pref_label": "Borrelia Burgdorferi IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C122100"
+        },
+        {
+            "alt_label": "Borrelia burgdorferi IgM Antibody;Lyme IgM Antibody",
+            "definition": "A measurement of the Borrelia burgdorferi IgM antibody in a biological specimen.",
+            "identifier": "C122101",
+            "notation": "BBRIGMAB",
+            "pref_label": "Borrelia Burgdorferi IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C122101"
+        },
+        {
+            "alt_label": "Burkholderia cenocepacia",
+            "definition": "A measurement of the Burkholderia cenocepacia in a biological specimen.",
+            "identifier": "C172531",
+            "notation": "BCE",
+            "pref_label": "Burkholderia cenocepacia Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172531"
+        },
+        {
+            "alt_label": "B. cepacia;Burkholderia cepacia;Pseudomonas cepacia",
+            "definition": "A measurement of the Burkholderia cepacia in a biological specimen.",
+            "identifier": "C147456",
+            "notation": "BCEPACIA",
+            "pref_label": "Burkholderia cepacia Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147456"
+        },
+        {
+            "alt_label": "Bacterial Sialidase",
+            "definition": "A measurement of the bacterial sialidase enzyme in a biological specimen.",
+            "identifier": "C154820",
+            "notation": "BCTSILDS",
+            "pref_label": "Bacterial Sialidase Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154820"
+        },
+        {
+            "alt_label": "Burkholderia dolosa",
+            "definition": "A measurement of the Burkholderia dolosa in a biological specimen.",
+            "identifier": "C172534",
+            "notation": "BDO",
+            "pref_label": "Burkholderia dolosa Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172534"
+        },
+        {
+            "alt_label": "Beta-lactamase Negative Bacteria",
+            "definition": "A measurement of the beta-lactamase negative bacteria in a biological specimen.",
+            "identifier": "C160937",
+            "notation": "BLNBAC",
+            "pref_label": "Beta-lactamase Negative Bacteria Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C160937"
+        },
+        {
+            "alt_label": "Beta-lactamase Positive Bacteria",
+            "definition": "A measurement of the beta-lactamase positive bacteria in a biological specimen.",
+            "identifier": "C160936",
+            "notation": "BLPBAC",
+            "pref_label": "Beta-lactamase Positive Bacteria Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C160936"
+        },
+        {
+            "alt_label": "Burkholderia multivorans",
+            "definition": "A measurement of the Burkholderia multivorans in a biological specimen.",
+            "identifier": "C172530",
+            "notation": "BMU",
+            "pref_label": "Burkholderia multivorans Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172530"
+        },
+        {
+            "alt_label": "Bordetella parapertussis",
+            "definition": "A measurement of the Bordetella parapertussis in a biological specimen.",
+            "identifier": "C178015",
+            "notation": "BPA",
+            "pref_label": "Bordetella Parapertussis Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178015"
+        },
+        {
+            "alt_label": "Bordetella pertussis",
+            "definition": "A measurement of the Bordetella pertussis in a biological specimen.",
+            "identifier": "C179756",
+            "notation": "BPE",
+            "pref_label": "Bordetella pertussis Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C179756"
+        },
+        {
+            "alt_label": "Bordetella pertussis Antigen",
+            "definition": "A measurement of the Bordetella pertussis antigen in a biological specimen.",
+            "identifier": "C154832",
+            "notation": "BPEAG",
+            "pref_label": "Bordetella pertussis Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154832"
+        },
+        {
+            "alt_label": "Bordetella pertussis DNA",
+            "definition": "A measurement of the Bordetella pertussis DNA in a biological specimen.",
+            "identifier": "C184667",
+            "notation": "BPEDNA",
+            "pref_label": "Bordetella pertussis DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184667"
+        },
+        {
+            "alt_label": "Bordetella pertussis Serotype Fim 2/3 AB;Bordetella pertussis Serotype Fimbriae 2/3 Antibody",
+            "definition": "A measurement of the Bordetella pertussis serotypes fimbriae 2 and/or fimbriae 3 antibody in a biological specimen.",
+            "identifier": "C163531",
+            "notation": "BPEF23AB",
+            "pref_label": "Bordetella pertussis Serotype Fimbrae 2/3 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163531"
+        },
+        {
+            "alt_label": "B. pertussis Filament Haemagglutinin AB;Bordetella pertussis FHA Antibody;Bordetella pertussis Filamentous Haemagglutinin Antibody",
+            "definition": "A measurement of the Bordetella pertussis filamentous haemagglutinin antibody in a biological specimen.",
+            "identifier": "C163532",
+            "notation": "BPEFHAAB",
+            "pref_label": "Bordetella pertussis Filament Haemagglutinin Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163532"
+        },
+        {
+            "alt_label": "Bordetella pertussis Pertactin Antibody;Bordetella pertussis PRN Antibody",
+            "definition": "A measurement of the Bordetella pertussis pertactin antibody in a biological specimen.",
+            "identifier": "C163533",
+            "notation": "BPEPRNAB",
+            "pref_label": "Bordetella pertussis Pertactin Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163533"
+        },
+        {
+            "alt_label": "Bordetella pertussis Toxin Antibody",
+            "definition": "A measurement of the Bordetella pertussis toxin antibody in a biological specimen.",
+            "identifier": "C163534",
+            "notation": "BPETXNAB",
+            "pref_label": "Bordetella pertussis Toxin Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163534"
+        },
+        {
+            "alt_label": "Burkholderia pyrrocinia",
+            "definition": "A measurement of the Burkholderia pyrrocinia in a biological specimen.",
+            "identifier": "C172537",
+            "notation": "BPY",
+            "pref_label": "Burkholderia pyrrocinia Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172537"
+        },
+        {
+            "alt_label": "Burkholderia stabilis",
+            "definition": "A measurement of the Burkholderia stabilis in a biological specimen.",
+            "identifier": "C172532",
+            "notation": "BST",
+            "pref_label": "Burkholderia stabilis Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172532"
+        },
+        {
+            "alt_label": "Burkholderia",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Burkholderia genus level in a biological specimen.",
+            "identifier": "C139113",
+            "notation": "BURKHOLD",
+            "pref_label": "Burkholderia Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C139113"
+        },
+        {
+            "alt_label": "Burkholderia vietnamiensis",
+            "definition": "A measurement of the Burkholderia vietnamiensis in a biological specimen.",
+            "identifier": "C172533",
+            "notation": "BVI",
+            "pref_label": "Burkholderia vietnamiensis Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172533"
+        },
+        {
+            "alt_label": "Mucor racemosus IgE Antibody",
+            "definition": "A measurement of the Mucor racemosus IgE antibody in a biological specimen.",
+            "identifier": "C130096",
+            "notation": "C130096",
+            "pref_label": "Mucor racemosus IgE Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130096"
+        },
+        {
+            "alt_label": "Mucor racemosus IgA Antibody",
+            "definition": "A measurement of the Mucor racemosus IgA antibody in a biological specimen.",
+            "identifier": "C130097",
+            "notation": "C130097",
+            "pref_label": "Mucor racemosus IgA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130097"
+        },
+        {
+            "alt_label": "Mucor racemosus IgG Antibody",
+            "definition": "A measurement of the Mucor racemosus IgG antibody in a biological specimen.",
+            "identifier": "C130098",
+            "notation": "C130098",
+            "pref_label": "Mucor racemosus IgG Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130098"
+        },
+        {
+            "alt_label": "Mucor racemosus IgG4 Antibody",
+            "definition": "A measurement of the Mucor racemosus IgG4 antibody in a biological specimen",
+            "identifier": "C130099",
+            "notation": "C130099",
+            "pref_label": "Mucor racemosus IgG4 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130099"
+        },
+        {
+            "alt_label": "Aspergillus fumigatus IgE Antibody",
+            "definition": "A measurement of the Aspergillus fumigatus IgE antibody in a biological specimen.",
+            "identifier": "C130144",
+            "notation": "C130144",
+            "pref_label": "Aspergillus fumigatus Antigen IgE Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130144"
+        },
+        {
+            "alt_label": "Aspergillus fumigatus IgG Antibody",
+            "definition": "A measurement of the Aspergillus fumigatus IgG antibody in a biological specimen.",
+            "identifier": "C130145",
+            "notation": "C130145",
+            "pref_label": "Aspergillus fumigatus Antigen IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130145"
+        },
+        {
+            "alt_label": "Penicillium chrysogenum IgE Antibody;Penicillium notatum IgE Antibody",
+            "definition": "A measurement of the Penicillium notatum IgE antibody in a biological specimen.",
+            "identifier": "C130146",
+            "notation": "C130146",
+            "pref_label": "Penicillium notatum Antigen IgE Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130146"
+        },
+        {
+            "alt_label": "Penicillium chrysogenum IgA Antibody;Penicillium notatum IgA Antibody",
+            "definition": "A measurement of the Penicillium notatum IgA antibody in a biological specimen.",
+            "identifier": "C130147",
+            "notation": "C130147",
+            "pref_label": "Penicillium notatum Antigen IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130147"
+        },
+        {
+            "alt_label": "Penicillium chrysogenum IgG Antibody;Penicillium notatum IgG Antibody",
+            "definition": "A measurement of the Penicillium notatum IgG antibody in a biological specimen.",
+            "identifier": "C130148",
+            "notation": "C130148",
+            "pref_label": "Penicillium notatum Antigen IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130148"
+        },
+        {
+            "alt_label": "Penicillium chrysogenum IgG4 Antibody;Penicillium notatum IgG4 Antibody",
+            "definition": "A measurement of the Penicillium notatum IgG4 antibody in a biological specimen.",
+            "identifier": "C130149",
+            "notation": "C130149",
+            "pref_label": "Penicillium notatum Antigen IgG4 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130149"
+        },
+        {
+            "alt_label": "Alternaria alternata IgE Antibody;Alternaria tenuis IgE Antibody",
+            "definition": "A measurement of the Alternaria alternata IgE antibody in a biological specimen.",
+            "identifier": "C130150",
+            "notation": "C130150",
+            "pref_label": "Alternaria tenuis alternata Antigen IgE Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130150"
+        },
+        {
+            "alt_label": "Alternaria alternata IgA Antibody;Alternaria tenuis IgA Antibody",
+            "definition": "A measurement of the Alternaria alternata IgA antibody in a biological specimen.",
+            "identifier": "C130151",
+            "notation": "C130151",
+            "pref_label": "Alternaria tenuis alternata Antigen IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130151"
+        },
+        {
+            "alt_label": "Alternaria alternata IgG Antibody;Alternaria tenuis IgG Antibody",
+            "definition": "A measurement of the Alternaria alternata IgG antibody in a biological specimen.",
+            "identifier": "C130152",
+            "notation": "C130152",
+            "pref_label": "Alternaria tenuis alternata Antigen IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130152"
+        },
+        {
+            "alt_label": "Alternaria alternata IgG4 Antibody;Alternaria tenuis IgG4 Antibody",
+            "definition": "A measurement of the Alternaria alternata IgG4 antibody in a biological specimen.",
+            "identifier": "C130153",
+            "notation": "C130153",
+            "pref_label": "Alternaria tenuis alternata Antigen IgG4 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C130153"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 1 IgG AB;Streptococcus pneumoniae Serotype 1 IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 1 IgG antibody in a biological specimen.",
+            "identifier": "C142249",
+            "notation": "C142249",
+            "pref_label": "Streptococcus pneumoniae Serotype 1 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142249"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 2 IgG AB;Streptococcus pneumoniae Serotype 2 IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 2 IgG antibody in a biological specimen.",
+            "identifier": "C142250",
+            "notation": "C142250",
+            "pref_label": "Streptococcus pneumoniae Serotype 2 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142250"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 3 IgG AB;Streptococcus pneumoniae Serotype 3 IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 3 IgG antibody in a biological specimen.",
+            "identifier": "C142251",
+            "notation": "C142251",
+            "pref_label": "Streptococcus pneumoniae Serotype 3 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142251"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 4 IgG AB;Streptococcus pneumoniae Serotype 4 IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 4 IgG antibody in a biological specimen.",
+            "identifier": "C142252",
+            "notation": "C142252",
+            "pref_label": "Streptococcus pneumoniae Serotype 4 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142252"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 5 IgG AB;Streptococcus pneumoniae Serotype 5 IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 5 IgG antibody in a biological specimen.",
+            "identifier": "C142253",
+            "notation": "C142253",
+            "pref_label": "Streptococcus pneumoniae Serotype 5 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142253"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 6B IgG AB;Streptococcus pneumoniae Serotype 6B IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 6B IgG antibody in a biological specimen.",
+            "identifier": "C142254",
+            "notation": "C142254",
+            "pref_label": "Streptococcus pneumoniae Serotype 6B IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142254"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 7F IgG AB;Streptococcus pneumoniae Serotype 7F IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 7F IgG antibody in a biological specimen.",
+            "identifier": "C142255",
+            "notation": "C142255",
+            "pref_label": "Streptococcus pneumoniae Serotype 7F IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142255"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 8 IgG AB;Streptococcus pneumoniae Serotype 8 IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 8 IgG antibody in a biological specimen.",
+            "identifier": "C142256",
+            "notation": "C142256",
+            "pref_label": "Streptococcus pneumoniae Serotype 8 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142256"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 9N IgG AB;Streptococcus pneumoniae Serotype 9N IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 9N IgG antibody in a biological specimen.",
+            "identifier": "C142257",
+            "notation": "C142257",
+            "pref_label": "Streptococcus pneumoniae Serotype 9N IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142257"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 9V IgG AB;Streptococcus pneumoniae Serotype 9V IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 9V IgG antibody in a biological specimen.",
+            "identifier": "C142258",
+            "notation": "C142258",
+            "pref_label": "Streptococcus pneumoniae Serotype 9V IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142258"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 10A IgG AB;Streptococcus pneumoniae Serotype 10A IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 10A IgG antibody in a biological specimen.",
+            "identifier": "C142259",
+            "notation": "C142259",
+            "pref_label": "Streptococcus pneumoniae Serotype 10A IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142259"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 11A IgG AB;Streptococcus pneumoniae Serotype 11A IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 11A IgG antibody in a biological specimen.",
+            "identifier": "C142260",
+            "notation": "C142260",
+            "pref_label": "Streptococcus pneumoniae Serotype 11A IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142260"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 12F IgG AB;Streptococcus pneumoniae Serotype 12F IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 12F IgG antibody in a biological specimen.",
+            "identifier": "C142261",
+            "notation": "C142261",
+            "pref_label": "Streptococcus pneumoniae Serotype 12F IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142261"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 14 IgG AB;Streptococcus pneumoniae Serotype 14 IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 14 IgG antibody in a biological specimen.",
+            "identifier": "C142262",
+            "notation": "C142262",
+            "pref_label": "Streptococcus pneumoniae Serotype 14 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142262"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 15B IgG AB;Streptococcus pneumoniae Serotype 15B IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 15B IgG antibody in a biological specimen.",
+            "identifier": "C142263",
+            "notation": "C142263",
+            "pref_label": "Streptococcus pneumoniae Serotype 15B IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142263"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 17F IgG AB;Streptococcus pneumoniae Serotype 17F IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 17F IgG antibody in a biological specimen.",
+            "identifier": "C142264",
+            "notation": "C142264",
+            "pref_label": "Streptococcus pneumoniae Serotype 17F IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142264"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 18C IgG AB;Streptococcus pneumoniae Serotype 18C IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 18C IgG antibody in a biological specimen.",
+            "identifier": "C142265",
+            "notation": "C142265",
+            "pref_label": "Streptococcus pneumoniae Serotype 18C IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142265"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 19F IgG AB;Streptococcus pneumoniae Serotype 19F IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 19F IgG antibody in a biological specimen.",
+            "identifier": "C142266",
+            "notation": "C142266",
+            "pref_label": "Streptococcus pneumoniae Serotype 19F IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142266"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 19A IgG AB;Streptococcus pneumoniae Serotype 19A IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 19A IgG antibody in a biological specimen.",
+            "identifier": "C142267",
+            "notation": "C142267",
+            "pref_label": "Streptococcus pneumoniae Serotype 19A IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142267"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 20 IgG AB;Streptococcus pneumoniae Serotype 20 IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 20 IgG antibody in a biological specimen.",
+            "identifier": "C142268",
+            "notation": "C142268",
+            "pref_label": "Streptococcus pneumoniae Serotype 20 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142268"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 22F IgG AB;Streptococcus pneumoniae Serotype 22F IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 22F IgG antibody in a biological specimen.",
+            "identifier": "C142269",
+            "notation": "C142269",
+            "pref_label": "Streptococcus pneumoniae Serotype 22F IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142269"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 23F IgG AB;Streptococcus pneumoniae Serotype 23F IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 23F IgG antibody in a biological specimen.",
+            "identifier": "C142270",
+            "notation": "C142270",
+            "pref_label": "Streptococcus pneumoniae Serotype 23F IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142270"
+        },
+        {
+            "alt_label": "S. pneumonia Sero 33F IgG AB;Streptococcus pneumoniae Serotype 33F IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae serotype 33F IgG antibody in a biological specimen.",
+            "identifier": "C142271",
+            "notation": "C142271",
+            "pref_label": "Streptococcus pneumoniae Serotype 33F IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142271"
+        },
+        {
+            "alt_label": "Cladosporium herbarum IgE Antibody",
+            "definition": "A measurement of the Cladosporium herbarum antigen IgE antibody in a biological specimen.",
+            "identifier": "C147286",
+            "notation": "C147286",
+            "pref_label": "Cladosporium herbarum IgE Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147286"
+        },
+        {
+            "alt_label": "Clostridium difficile 027/NAP1/BI",
+            "definition": "A measurement of the 027/NAP1/BI strain of Clostridium difficile in a biological specimen.",
+            "identifier": "C150639",
+            "notation": "C150639",
+            "pref_label": "Clostridium difficile 027/NAP1/BI Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150639"
+        },
+        {
+            "alt_label": "HIV-2 Glycoprotein 36 Antibody;HIV-2 gp36 Antibody",
+            "definition": "A measurement of the HIV-2 glycoprotein 36 antibody in a biological specimen.",
+            "identifier": "C163521",
+            "notation": "C163521",
+            "pref_label": "HIV-2 gp36 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163521"
+        },
+        {
+            "alt_label": "HIV-2 Glycoprotein140 Antibody;HIV-2 gp140 Antibody",
+            "definition": "A measurement of the amount of HIV-2 gp140 antibody in a biological specimen.",
+            "identifier": "C163522",
+            "notation": "C163522",
+            "pref_label": "HIV-2 gp140 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163522"
+        },
+        {
+            "alt_label": "HIV-1 p31 Antibody;HIV-1 Protein 31 Antibody",
+            "definition": "A measurement of the amount of HIV-1 p31 antibody in a biological specimen.",
+            "identifier": "C163523",
+            "notation": "C163523",
+            "pref_label": "HIV-1 p31 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163523"
+        },
+        {
+            "alt_label": "HIV-1 Glycoprotein 160 Antibody;HIV-1 gp160 Antibody",
+            "definition": "A measurement of the HIV-1 gp160 antibody in a biological specimen.",
+            "identifier": "C163524",
+            "notation": "C163524",
+            "pref_label": "HIV-1 gp160 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163524"
+        },
+        {
+            "alt_label": "HIV-1 p24 Antibody;HIV-1 Protein 24 Antibody",
+            "definition": "A measurement of the HIV-1 p24 antibody in a biological specimen.",
+            "identifier": "C163525",
+            "notation": "C163525",
+            "pref_label": "HIV-1 p24 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163525"
+        },
+        {
+            "alt_label": "HIV-1 Glycoprotein 41 Antibody;HIV-1 gp41 Antibody",
+            "definition": "A measurement of the HIV-1 gp41 antibody in a biological specimen.",
+            "identifier": "C163526",
+            "notation": "C163526",
+            "pref_label": "HIV-1 gp41 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163526"
+        },
+        {
+            "alt_label": "Fusarium proliferatum IgE Antibody;Gibberella intermedia IgE Antibody",
+            "definition": "A measurement of the Fusarium proliferatum IgE antibody in a biological specimen.",
+            "identifier": "C163527",
+            "notation": "C163527",
+            "pref_label": "Fusarium proliferatum IgE Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163527"
+        },
+        {
+            "alt_label": "Malassezia IgE Antibody",
+            "definition": "A measurement of the IgE antibody to any member of the genus Malassezia in a biological specimen.",
+            "identifier": "C163528",
+            "notation": "C163528",
+            "pref_label": "Malassezia Species IgE Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163528"
+        },
+        {
+            "alt_label": "Norovirus Genogroup GII.4 IgG antibody;Norovirus GII.4 IgG antibody",
+            "definition": "A measurement of Norovirus genogroup II.4 IgG antibody in a biological specimen.",
+            "identifier": "C166005",
+            "notation": "C166005",
+            "pref_label": "Norovirus Genogroup II.4 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166005"
+        },
+        {
+            "alt_label": "Norovirus Genogroup GII.4 IgA antibody;Norovirus GII.4 IgA antibody",
+            "definition": "A measurement of Norovirus genogroup II.4 IgA antibody in a biological specimen.",
+            "identifier": "C166006",
+            "notation": "C166006",
+            "pref_label": "Norovirus Genogroup II.4 IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166006"
+        },
+        {
+            "alt_label": "Norovirus Genogroup GII.4 IgM antibody;Norovirus GII.4 IgM antibody",
+            "definition": "A measurement of Norovirus genogroup II.4 IgM antibody in a biological specimen.",
+            "identifier": "C166007",
+            "notation": "C166007",
+            "pref_label": "Norovirus Genogroup II.4 IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166007"
+        },
+        {
+            "alt_label": "V. chol/parahaemolyticus/vulnificus DNA;Vibrio cholerae/parahaemolyticus/vulnificus DNA",
+            "definition": "A measurement of the Vibrio cholerae and/or Vibrio parahaemolyticus and/or Vibrio vulnificus DNA in a biological specimen.",
+            "identifier": "C166008",
+            "notation": "C166008",
+            "pref_label": "Vibrio cholerae, Vibrio parahaemolyticus, and/or Vibrio vulnificus DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166008"
+        },
+        {
+            "alt_label": "Invasion Plasmid Antigen H Gene;ipaH gene;Shigella species and/or Enteroinvasive Escherichia coli Invasion Plasmid Antigen H DNA;Shigella/EIEC ipaH DNA",
+            "definition": "A measurement of the invasion plasmid antigen H DNA from any members of the genus Shigella and/or enteroinvasive Escherichia coli in a biological specimen.",
+            "identifier": "C166009",
+            "notation": "C166009",
+            "pref_label": "Shigella and/or Enteroinvasive Escherichia coli ipaH DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166009"
+        },
+        {
+            "alt_label": "Sapovirus Genogroups I/II/IV/V RNA",
+            "definition": "A measurement of the Sapovirus genogroups I, II, IV and/or V RNA in a biological specimen.",
+            "identifier": "C166010",
+            "notation": "C166010",
+            "pref_label": "Sapovirus Genogroups I, II, IV, and/or V RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166010"
+        },
+        {
+            "alt_label": "Norovirus genogroup I and/or genogroup II RNA;Norovirus GI/GII RNA",
+            "definition": "A measurement of Norovirus genogroup I and/or II RNA in a biological specimen.",
+            "identifier": "C166011",
+            "notation": "C166011",
+            "pref_label": "Norovirus Genogroup I and/or II RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166011"
+        },
+        {
+            "alt_label": "Enterotoxigenic Escherichia coli LtA/ST1a/ST1b DNA;ETEC LtA/ST1a/ST1b DNA",
+            "definition": "A measurement of the enterotoxigenic Escherichia coli LtA, ST1a and/or ST1b DNA in a biological specimen.",
+            "identifier": "C166012",
+            "notation": "C166012",
+            "pref_label": "Enterotoxigenic Escherichia coli LtA, ST1a, and/or ST1b DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166012"
+        },
+        {
+            "alt_label": "Enteropathogenic Escherichia coli eae DNA;EPEC eae DNA",
+            "definition": "A measurement of the enteropathogenic Escherichia coli eae DNA in a biological specimen.",
+            "identifier": "C166013",
+            "notation": "C166013",
+            "pref_label": "Enteropathogenic Escherichia coli eae DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166013"
+        },
+        {
+            "alt_label": "EAEC pAA Plasmid aggR/aatA DNA;Enteroaggregative Escherichia coli pAA Plasmid aggR/aatA DNA",
+            "definition": "A measurement of the enteroaggregative Escherichia coli pAA plasmid aggR and/or aatA DNA in a biological specimen.",
+            "identifier": "C166014",
+            "notation": "C166014",
+            "pref_label": "Enteroaggregative Escherichia coli pAA Plasmid aggR and/or aatA DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166014"
+        },
+        {
+            "alt_label": "C. coli/jejuni/upsaliensis DNA;Campylobacter coli/jejuni/upsaliensis DNA",
+            "definition": "A measurement of the Campylobacter coli, Campylobacter jejuni and/or Campylobacter upsaliensis DNA in a biological specimen.",
+            "identifier": "C166015",
+            "notation": "C166015",
+            "pref_label": "Campylobacter coli, Campylobacter jejuni and/or Campylobacter upsaliensis DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166015"
+        },
+        {
+            "alt_label": "Human astrovirus 1/2/3/4/5/6/7/8 RNA",
+            "definition": "A measurement of the Human astrovirus 1, 2, 3, 4, 5, 6, 7 and/or 8 RNA in a biological specimen.",
+            "identifier": "C166016",
+            "notation": "C166016",
+            "pref_label": "Human astrovirus 1, 2, 3, 4, 5, 6, 7, and/or 8 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166016"
+        },
+        {
+            "alt_label": "Human adenovirus 40/41 DNA;Human adenovirus F40/F41 DNA;Mastadenovirus 40/41 DNA",
+            "definition": "A measurement of the Human adenovirus type 40 and/or Human adenovirus type 41 DNA in a biological specimen.",
+            "identifier": "C166017",
+            "notation": "C166017",
+            "pref_label": "Human adenovirus 40 and/or Human adenovirus 41 DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166017"
+        },
+        {
+            "alt_label": "Mucor racemosus IgG AB RAST Score",
+            "definition": "A classification of the amount of Mucor racemosus IgG antibody, using the RAST (radioallergosorbent test) scoring system, in a biological specimen.",
+            "identifier": "C166018",
+            "notation": "C166018",
+            "pref_label": "Mucor racemosus IgG Antibody RAST Score Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166018"
+        },
+        {
+            "alt_label": "A. fumigatus IgG AB RAST Score",
+            "definition": "A classification of the amount of A. fumigatus antigen IgG antibody, using the RAST (radioallergosorbent test) scoring system, in a biological specimen.",
+            "identifier": "C166019",
+            "notation": "C166019",
+            "pref_label": "Aspergillus fumigatus IgG Antibody RAST Score Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166019"
+        },
+        {
+            "alt_label": "P. notatum IgG AB RAST Score",
+            "definition": "A classification of the amount of P. notatum antigen IgG antibody, using the RAST (radioallergosorbent test) scoring system, in a biological specimen.",
+            "identifier": "C166020",
+            "notation": "C166020",
+            "pref_label": "Penicillium notatum IgG Antibody RAST Score Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166020"
+        },
+        {
+            "alt_label": "A. tenuis alternata IgG AB RAST Score",
+            "definition": "A classification of the amount of Alternaria alternata antigen IgG antibody, using the RAST (radioallergosorbent test) scoring system, in a biological specimen.",
+            "identifier": "C166021",
+            "notation": "C166021",
+            "pref_label": "Alternaria alternata IgG Antibody RAST Score Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166021"
+        },
+        {
+            "alt_label": "Mucor racemosus IgE RAST Score",
+            "definition": "A classification of the amount of Mucor racemosus antigen IgE antibody, using the RAST (radioallergosorbent test) scoring system, in a biological specimen.",
+            "identifier": "C166022",
+            "notation": "C166022",
+            "pref_label": "Mucor racemosus IgE Antibody RAST Score Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166022"
+        },
+        {
+            "alt_label": "A. fumigatus IgE AB RAST Score",
+            "definition": "A classification of the amount of A. fumigatus antigen IgE antibody, using the RAST (radioallergosorbent test) scoring system, in a biological specimen.",
+            "identifier": "C166023",
+            "notation": "C166023",
+            "pref_label": "Aspergillus fumigatus IgE Antibody RAST Score Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166023"
+        },
+        {
+            "alt_label": "P. notatum IgE AB RAST Score",
+            "definition": "A classification of the amount of P. notatum antigen IgE antibody, using the RAST (radioallergosorbent test) scoring system, in a biological specimen.",
+            "identifier": "C166024",
+            "notation": "C166024",
+            "pref_label": "Penicillium notatum IgE Antibody RAST Score Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166024"
+        },
+        {
+            "alt_label": "A. tenuis alternata IgE AB RAST Score",
+            "definition": "A classification of the amount of Alternaria alternata antigen IgE antibody, using the RAST (radioallergosorbent test) scoring system, in a biological specimen.",
+            "identifier": "C166025",
+            "notation": "C166025",
+            "pref_label": "Alternaria alternata IgE Antibody RAST Score Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166025"
+        },
+        {
+            "alt_label": "Cladosporium herbarum IgE AB RAST Score",
+            "definition": "A classification of the amount of Cladosporium herbarum IgE antibody, using the RAST (radioallergosorbent test) scoring system, in a biological specimen.",
+            "identifier": "C166026",
+            "notation": "C166026",
+            "pref_label": "Cladosporium herbarum IgE Antibody RAST Score Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166026"
+        },
+        {
+            "alt_label": "Penicillium chrysogenum IgE AB RAST Score;Penicilliumchrysogenum IgE AB RAST Score",
+            "definition": "A classification of the amount of Penicillium chrysogenum IgE antibody, using the RAST (radioallergosorbent test) scoring system, in a biological specimen.",
+            "identifier": "C166027",
+            "notation": "C166027",
+            "pref_label": "Penicillium chrysogenum IgE Antibody RAST Score Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166027"
+        },
+        {
+            "alt_label": "HCoV-229E RNA;Human Coronavirus 229E RNA",
+            "definition": "A measurement of the Human coronavirus 229E RNA in a biological specimen.",
+            "identifier": "C184652",
+            "notation": "C229ERNA",
+            "pref_label": "HCoV-229E RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184652"
+        },
+        {
+            "alt_label": "Candida albicans;Candida stellatoidea",
+            "definition": "A measurement of the Candida albicans in a biological specimen.",
+            "identifier": "C161404",
+            "notation": "CAL",
+            "pref_label": "Candida albicans Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161404"
+        },
+        {
+            "alt_label": "Candida",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Candida genus level in a biological specimen.",
+            "identifier": "C179757",
+            "notation": "CANDIDA",
+            "pref_label": "Candida Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C179757"
+        },
+        {
+            "alt_label": "Cyclospora cayetanensis DNA",
+            "definition": "A measurement of the Cyclospora cayetanensis DNA in a biological specimen.",
+            "identifier": "C166029",
+            "notation": "CCADNA",
+            "pref_label": "Cyclospora cayetanensis DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166029"
+        },
+        {
+            "alt_label": "Clostridium difficile",
+            "definition": "A measurement of the Clostridium difficile in a biological specimen.",
+            "identifier": "C150637",
+            "notation": "CDF",
+            "pref_label": "Clostridium difficile Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150637"
+        },
+        {
+            "alt_label": "Clostridium difficile A/B Toxin",
+            "definition": "A measurement of the Clostridium difficile A and/or B toxin in a biological specimen.",
+            "identifier": "C150858",
+            "notation": "CDFABTOX",
+            "pref_label": "Clostridium difficile A and/or B Toxin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150858"
+        },
+        {
+            "alt_label": "Clostridium difficile A Toxin",
+            "definition": "A measurement of the Clostridium difficile toxin A in a biological specimen.",
+            "identifier": "C150863",
+            "notation": "CDFATOX",
+            "pref_label": "Clostridium difficile A Toxin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150863"
+        },
+        {
+            "alt_label": "Clostridium difficile B Toxin",
+            "definition": "A measurement of the Clostridium difficile toxin B in a biological specimen.",
+            "identifier": "C150864",
+            "notation": "CDFBTOX",
+            "pref_label": "Clostridium difficile B Toxin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150864"
+        },
+        {
+            "alt_label": "Clostridium difficile cdt DNA",
+            "definition": "A measurement of the Clostridium difficile binary toxin (cdt) DNA in a biological specimen.",
+            "identifier": "C150866",
+            "notation": "CDFCDTD",
+            "pref_label": "Clostridium difficile cdt DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150866"
+        },
+        {
+            "alt_label": "C. difficile Glutamate Dehydrogenase;Clostridium difficile Glutamate Dehydrogenase",
+            "definition": "A measurement of the Clostridium difficile glutamate dehydrogenase in a biological specimen.",
+            "identifier": "C150857",
+            "notation": "CDFGDH",
+            "pref_label": "C. difficile Glutamate Dehydrogenase Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150857"
+        },
+        {
+            "alt_label": "Clostridium difficile tcdA DNA",
+            "definition": "A measurement of the Clostridium difficile toxin A (tcdA) DNA in a biological specimen.",
+            "identifier": "C150859",
+            "notation": "CDFTCDAD",
+            "pref_label": "Clostridium difficile tcdA DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150859"
+        },
+        {
+            "alt_label": "Clostridium difficile tcdB DNA",
+            "definition": "A measurement of the Clostridium difficile toxin B (tcdB) DNA in a biological specimen.",
+            "identifier": "C150860",
+            "notation": "CDFTCDBD",
+            "pref_label": "Clostridium difficile tcdB DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150860"
+        },
+        {
+            "alt_label": "Clostridium difficile tcdC DNA",
+            "definition": "A measurement of the Clostridium difficile regulatory protein (tcdC) DNA in a biological specimen.",
+            "identifier": "C150861",
+            "notation": "CDFTCDCD",
+            "pref_label": "Clostridium difficile tcdC DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150861"
+        },
+        {
+            "alt_label": "Clostridium difficile Toxin",
+            "definition": "A measurement of the Clostridium difficile toxin in a biological specimen.",
+            "identifier": "C103381",
+            "notation": "CDFTXN",
+            "pref_label": "Clostridium difficile Toxin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C103381"
+        },
+        {
+            "alt_label": "Corynebacterium diphtheriae Toxoid Ab",
+            "definition": "A measurement of the Corynebacterium diphtheriae toxoid antibody in a biological specimen.",
+            "identifier": "C163535",
+            "notation": "CDITDAB",
+            "pref_label": "Corynebacterium diphtheriae Toxoid Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163535"
+        },
+        {
+            "alt_label": "Chikungunya Virus Antibody",
+            "definition": "A measurement of the Chikungunya virus antibody in a biological specimen.",
+            "identifier": "C135404",
+            "notation": "CHKAB",
+            "pref_label": "Chikungunya Virus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C135404"
+        },
+        {
+            "alt_label": "Chlamydia",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Chlamydia genus level in a biological specimen.",
+            "identifier": "C172527",
+            "notation": "CHLAMYD",
+            "pref_label": "Chlamydia Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172527"
+        },
+        {
+            "alt_label": "Coccidioides immitis Antibody",
+            "definition": "A measurement of the Coccidioides immitis antibody in a biological specimen.",
+            "identifier": "C166030",
+            "notation": "CIMAB",
+            "pref_label": "Coccidioides immitis Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166030"
+        },
+        {
+            "alt_label": "Cytomegalovirus",
+            "definition": "A measurement of the Cytomegalovirus in a biological specimen.",
+            "identifier": "C184672",
+            "notation": "CMV",
+            "pref_label": "Cytomegalovirus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184672"
+        },
+        {
+            "alt_label": "Cytomegalovirus Antigen",
+            "definition": "A measurement of the Cytomegalovirus antigen in a biological specimen.",
+            "identifier": "C154828",
+            "notation": "CMVAG",
+            "pref_label": "Cytomegalovirus Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154828"
+        },
+        {
+            "alt_label": "Cytomegalovirus DNA",
+            "definition": "A measurement of the Cytomegalovirus DNA in a biological specimen.",
+            "identifier": "C161394",
+            "notation": "CMVDNA",
+            "pref_label": "Cytomegalovirus DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161394"
+        },
+        {
+            "alt_label": "Cytomegalovirus IgG Antibody",
+            "definition": "A measurement of the cytomegalovirus IgG antibody in a biological specimen.",
+            "identifier": "C96596",
+            "notation": "CMVIGGAB",
+            "pref_label": "Cytomegalovirus IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96596"
+        },
+        {
+            "alt_label": "Cytomegalovirus IgM Antibody",
+            "definition": "A measurement of the cytomegalovirus IgM antibody in a biological specimen.",
+            "identifier": "C96597",
+            "notation": "CMVIGMAB",
+            "pref_label": "Cytomegalovirus IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96597"
+        },
+        {
+            "alt_label": "Cytomegalovirus Phosphoprotein 65 Antigen;Cytomegalovirus pp65 Antigen",
+            "definition": "A measurement of the Cytomegalovirus phosphoprotein 65 (pp65) antigen in a biological specimen.",
+            "identifier": "C170608",
+            "notation": "CMVP65AG",
+            "pref_label": "Cytomegalovirus pp65 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C170608"
+        },
+        {
+            "alt_label": "Coccidioides Antibody",
+            "definition": "A measurement of the coccidioides antibody in a biological specimen.",
+            "identifier": "C111160",
+            "notation": "COCCAB",
+            "pref_label": "Coccidioides Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C111160"
+        },
+        {
+            "alt_label": "Coccidioides IgG Antibody",
+            "definition": "A measurement of the IgG antibody from any member of the genus Coccidioides in a biological specimen.",
+            "identifier": "C166031",
+            "notation": "COCCIGG",
+            "pref_label": "Coccidioides IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166031"
+        },
+        {
+            "alt_label": "Coccidioides IgM Antibody",
+            "definition": "A measurement of the IgM antibody from any member of the genus Coccidioides in a biological specimen.",
+            "identifier": "C166032",
+            "notation": "COCCIGM",
+            "pref_label": "Coccidioides IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166032"
+        },
+        {
+            "alt_label": "Cryptosporidium parvum Antigen",
+            "definition": "A measurement of the Cryptosporidium parvum antigen in a biological specimen.",
+            "identifier": "C154831",
+            "notation": "CPAAG",
+            "pref_label": "Cryptosporidium parvum Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154831"
+        },
+        {
+            "alt_label": "Chlamydia pneumoniae",
+            "definition": "A measurement of the Chlamydia pneumoniae in a biological specimen.",
+            "identifier": "C178016",
+            "notation": "CPN",
+            "pref_label": "Chlamydia Pneumoniae Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178016"
+        },
+        {
+            "alt_label": "Chlamydia pneumoniae DNA",
+            "definition": "A measurement of the Chlamydia pneumoniae DNA in a biological specimen.",
+            "identifier": "C184657",
+            "notation": "CPNDNA",
+            "pref_label": "Chlamydia pneumoniae DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184657"
+        },
+        {
+            "alt_label": "Chlamydia pneumoniae IgA Antibody",
+            "definition": "A measurement of the Chlamydia pneumoniae IgA antibody in a biological specimen.",
+            "identifier": "C92432",
+            "notation": "CPNIGAAB",
+            "pref_label": "Chlamydia pneumoniae IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92432"
+        },
+        {
+            "alt_label": "Chlamydia pneumoniae IgG Antibody;Chlamydophila pneumoniae IgG Antibody",
+            "definition": "A measurement of the Chlamydia pneumoniae IgG antibody in a biological specimen.",
+            "identifier": "C163536",
+            "notation": "CPNIGGAB",
+            "pref_label": "Chlamydia pneumoniae IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163536"
+        },
+        {
+            "alt_label": "Chlamydia pneumoniae IgM Antibody",
+            "definition": "A measurement of the Chlamydia pneumoniae IgM in a biological specimen.",
+            "identifier": "C92433",
+            "notation": "CPNIGMAB",
+            "pref_label": "Chlamydia pneumoniae IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92433"
+        },
+        {
+            "alt_label": "Coronaviridae;Coronavirus",
+            "definition": "A measurement of the coronaviridae in a biological specimen.",
+            "identifier": "C171456",
+            "notation": "CRONAVIR",
+            "pref_label": "Coronaviridae Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C171456"
+        },
+        {
+            "alt_label": "Cryptococcus Antigen",
+            "definition": "A measurement of the antigen from any member of the genus Cryptococcus in a biological specimen.",
+            "identifier": "C154829",
+            "notation": "CRYPTCAG",
+            "pref_label": "Cryptococcus Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154829"
+        },
+        {
+            "alt_label": "Cryptosporidium DNA",
+            "definition": "A measurement of the DNA from any member of the genus Cryptosporidium in a biological specimen.",
+            "identifier": "C166033",
+            "notation": "CRYPTDNA",
+            "pref_label": "Cryptosporidium DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166033"
+        },
+        {
+            "alt_label": "Cryptosporidium Antigen",
+            "definition": "A measurement of the antigen from any member of the genus Cryptosporidium in a biological specimen.",
+            "identifier": "C166034",
+            "notation": "CSPORAG",
+            "pref_label": "Cryptosporidium Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166034"
+        },
+        {
+            "alt_label": "Cholera Toxin B Subunit IgG Antibody",
+            "definition": "A measurement of the cholera toxin B subunit IgG antibody in a biological specimen.",
+            "identifier": "C116194",
+            "notation": "CTBIGGAB",
+            "pref_label": "Cholera Toxin B Subunit IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C116194"
+        },
+        {
+            "alt_label": "Clostridium tetani TeNT Antibody;Clostridium tetani Toxin Antibody;Tetanospasmin Antibody;Tetanus Neurotoxin Antibody",
+            "definition": "A measurement of the Clostridium tetani toxin antibody in a biological specimen.",
+            "identifier": "C163537",
+            "notation": "CTETXNAB",
+            "pref_label": "Clostridium tetani Toxin Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163537"
+        },
+        {
+            "alt_label": "Chlamydia trachomatis",
+            "definition": "A measurement of the Chlamydia trachomatis in a biological specimen.",
+            "identifier": "C184659",
+            "notation": "CTR",
+            "pref_label": "Chlamydia trachomatis Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184659"
+        },
+        {
+            "alt_label": "Chlamydia trachomatis Antigen",
+            "definition": "A measurement of the Chlamydia trachomatis antigen in a biological specimen.",
+            "identifier": "C154835",
+            "notation": "CTRAG",
+            "pref_label": "Chlamydia trachomatis Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154835"
+        },
+        {
+            "alt_label": "Chlamydia trachomatis DNA",
+            "definition": "A measurement of the Chlamydia trachomatis DNA in a biological specimen.",
+            "identifier": "C161392",
+            "notation": "CTRDNA",
+            "pref_label": "Chlamydia trachomatis DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161392"
+        },
+        {
+            "alt_label": "Chlamydia trachomatis IgA Antibody",
+            "definition": "A measurement of the Chlamydia trachomatis IgA antibody in a biological specimen.",
+            "identifier": "C100464",
+            "notation": "CTRIGAAB",
+            "pref_label": "Chlamydia trachomatis IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C100464"
+        },
+        {
+            "alt_label": "Chlamydia trachomatis IgG Antibody",
+            "definition": "A measurement of the Chlamydia trachomatis IgG antibody in a biological specimen.",
+            "identifier": "C100466",
+            "notation": "CTRIGGAB",
+            "pref_label": "Chlamydia trachomatis IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C100466"
+        },
+        {
+            "alt_label": "Chlamydia trachomatis IgM Antibody",
+            "definition": "A measurement of the Chlamydia trachomatis IgM antibody in a biological specimen.",
+            "identifier": "C100465",
+            "notation": "CTRIGMAB",
+            "pref_label": "Chlamydia trachomatis IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C100465"
+        },
+        {
+            "alt_label": "Clostridium tetani IgG Antibody",
+            "definition": "A measurement of the Clostridium tetani IgG antibody in a biological specimen.",
+            "identifier": "C103382",
+            "notation": "CTTIGGAB",
+            "pref_label": "Clostridium tetani IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C103382"
+        },
+        {
+            "alt_label": "Clostridium tetani Toxoid IgG Antibody",
+            "definition": "A measurement of the Clostridium tetani toxoid IgG antibody in a biological specimen.",
+            "identifier": "C135406",
+            "notation": "CTXIGGAB",
+            "pref_label": "Clostridium tetani Toxoid IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C135406"
+        },
+        {
+            "alt_label": "Curved Bacillus;Curved Rods",
+            "definition": "A measurement of the curved rod-shaped bacillus in a biological specimen.",
+            "identifier": "C184671",
+            "notation": "CURVBAC",
+            "pref_label": "Curved Bacillus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184671"
+        },
+        {
+            "alt_label": "Dengue Virus Antibody",
+            "definition": "A measurement of the dengue virus antibody in a biological specimen.",
+            "identifier": "C147332",
+            "notation": "DNVAB",
+            "pref_label": "Dengue Virus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147332"
+        },
+        {
+            "alt_label": "Dengue Virus IGG Antibody",
+            "definition": "A measurement of the dengue virus IgG antibody in a biological specimen.",
+            "identifier": "C184649",
+            "notation": "DNVIGGAB",
+            "pref_label": "Dengue Virus IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184649"
+        },
+        {
+            "alt_label": "Dengue Virus IGM Antibody",
+            "definition": "A measurement of the dengue virus IgM antibody in a biological specimen.",
+            "identifier": "C184650",
+            "notation": "DNVIGMAB",
+            "pref_label": "Dengue Virus IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184650"
+        },
+        {
+            "alt_label": "Dengue Virus Nonstructural Protein 1;Dengue Virus NS1 Antigen",
+            "definition": "A measurement of the dengue virus NS1 antigen in a biological specimen.",
+            "identifier": "C184648",
+            "notation": "DNVNS1AG",
+            "pref_label": "Dengue Virus NS1 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184648"
+        },
+        {
+            "alt_label": "Corynebacterium diphtheriae IgG Antibody;Diphtheria IgG Antibody",
+            "definition": "A measurement of the Corynebacterium diphtheriae IgG antibodies in a biological specimen.",
+            "identifier": "C103388",
+            "notation": "DPTIGGAB",
+            "pref_label": "Diphtheria IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C103388"
+        },
+        {
+            "alt_label": "Epstein-Barr Capsid IgG Antibody",
+            "definition": "A measurement of the Epstein-Barr capsid IgG antibody in a biological specimen.",
+            "identifier": "C96600",
+            "notation": "EBCIGGAB",
+            "pref_label": "Epstein-Barr Capsid IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96600"
+        },
+        {
+            "alt_label": "Epstein-Barr Capsid IgM Antibody",
+            "definition": "A measurement of the Epstein-Barr capsid IgM antibody in a biological specimen.",
+            "identifier": "C96601",
+            "notation": "EBCIGMAB",
+            "pref_label": "Epstein-Barr Capsid IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96601"
+        },
+        {
+            "alt_label": "Epstein-Barr DNA",
+            "definition": "A measurement of the Epstein-Barr virus DNA in a biological specimen.",
+            "identifier": "C166035",
+            "notation": "EBDNA",
+            "pref_label": "Epstein-Barr DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166035"
+        },
+        {
+            "alt_label": "Epstein-Barr Early Antigen",
+            "definition": "A measurement of the Epstein-Barr early antigen in a biological specimen.",
+            "identifier": "C96602",
+            "notation": "EBEAG",
+            "pref_label": "Epstein-Barr Early Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96602"
+        },
+        {
+            "alt_label": "Epstein-Barr Early D Antigen IgG Ab",
+            "definition": "A measurement of the Epstein-Barr early diffuse antigen IgG antibody in a biological specimen.",
+            "identifier": "C122116",
+            "notation": "EBEDIGAB",
+            "pref_label": "Epstein-Barr Early D Antigen IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C122116"
+        },
+        {
+            "alt_label": "Epstein-Barr Nuclear Antigen 1 IgG Ab",
+            "definition": "A measurement of the Epstein-Barr nuclear antigen 1 IgG antibody in a biological specimen.",
+            "identifier": "C106518",
+            "notation": "EBN1IGAB",
+            "pref_label": "Epstein-Barr Nuclear Antigen 1 IgG Ab Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C106518"
+        },
+        {
+            "alt_label": "Epstein-Barr Nuclear Antibody;Epstein-Barr Nuclear Antigen Antibody",
+            "definition": "A measurement of the Epstein-Barr nuclear antibody in a biological specimen.",
+            "identifier": "C96603",
+            "notation": "EBNAB",
+            "pref_label": "Epstein-Barr Nuclear Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96603"
+        },
+        {
+            "alt_label": "Epstein-Barr Nuclear Antigen",
+            "definition": "A measurement of the Epstein-Barr nuclear antigen in a biological specimen.",
+            "identifier": "C96604",
+            "notation": "EBNAG",
+            "pref_label": "Epstein-Barr Nuclear Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96604"
+        },
+        {
+            "alt_label": "Ebola Virus IgM Antibody",
+            "definition": "A measurement of the Ebola virus IgM antibodies in a biological specimen.",
+            "identifier": "C135410",
+            "notation": "EBOIGMAB",
+            "pref_label": "Ebola Virus IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C135410"
+        },
+        {
+            "alt_label": "Ebola Virus",
+            "definition": "A measurement of the Ebola virus in a biological specimen.",
+            "identifier": "C184673",
+            "notation": "EBOV",
+            "pref_label": "Ebola Virus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184673"
+        },
+        {
+            "alt_label": "Epstein-Barr Virus",
+            "definition": "A measurement of the Epstein-Barr virus in a biological specimen.",
+            "identifier": "C184675",
+            "notation": "EBV",
+            "pref_label": "Epstein-Barr Virus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184675"
+        },
+        {
+            "alt_label": "Epstein-Barr Virus Antibody Profile;Epstein-Barr Virus Infection Status;Epstein-Barr Virus Panel",
+            "definition": "An assessment of Epstein-Barr virus infection based on a panel of EBV antigen antibody tests.",
+            "identifier": "C106519",
+            "notation": "EBVINTP",
+            "pref_label": "Epstein-Barr Virus Infection Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C106519"
+        },
+        {
+            "alt_label": "Escherichia coli Shiga-like Toxin",
+            "definition": "A measurement of the total Escherichia coli shiga-like toxin in a biological specimen.",
+            "identifier": "C154818",
+            "notation": "ECLSLTXN",
+            "pref_label": "Escherichia coli Shiga-like Toxin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154818"
+        },
+        {
+            "alt_label": "Escherichia coli",
+            "definition": "A measurement of the Escherichia coli in a biological specimen.",
+            "identifier": "C172538",
+            "notation": "ECO",
+            "pref_label": "Escherichia coli Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172538"
+        },
+        {
+            "alt_label": "Streptococcus faecalis",
+            "definition": "A measurement of the Enterococcus faecalis in a biological specimen.",
+            "identifier": "C161396",
+            "notation": "EFA",
+            "pref_label": "Enterococcus faecalis Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161396"
+        },
+        {
+            "alt_label": "Entamoeba histolytica DNA",
+            "definition": "A measurement of the Entamoeba histolytica DNA in a biological specimen.",
+            "identifier": "C166036",
+            "notation": "EHIDNA",
+            "pref_label": "Entamoeba histolytica DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166036"
+        },
+        {
+            "alt_label": "Human Poliovirus 1 Neutralizing Antibody;Type 1 Poliovirus Neutralizing Antibody",
+            "definition": "A measurement of the Human poliovirus 1 neutralizing antibody in a biological specimen.",
+            "identifier": "C181456",
+            "notation": "ENC1NAB",
+            "pref_label": "Human Poliovirus 1 Neutralizing Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C181456"
+        },
+        {
+            "alt_label": "Human Poliovirus 3 Neutralizing Antibody;Type 3 Poliovirus Neutralizing Antibody",
+            "definition": "A measurement of the Human poliovirus 3 neutralizing antibody in a biological specimen.",
+            "identifier": "C181457",
+            "notation": "ENC3NAB",
+            "pref_label": "Human Poliovirus 3 Neutralizing Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C181457"
+        },
+        {
+            "alt_label": "Enterobacter",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Enterobacter genus level in a biological specimen.",
+            "identifier": "C179758",
+            "notation": "ENTEROBA",
+            "pref_label": "Enterobacter Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C179758"
+        },
+        {
+            "alt_label": "Enterovirus",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Enterovirus genus level in a biological specimen.",
+            "identifier": "C172548",
+            "notation": "ENTEROVI",
+            "pref_label": "Enterovirus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172548"
+        },
+        {
+            "alt_label": "Escherichia coli O157 DNA",
+            "definition": "A measurement of the Escherichia coli O157 DNA in a biological specimen.",
+            "identifier": "C166037",
+            "notation": "EO157DNA",
+            "pref_label": "Escherichia coli O157 DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166037"
+        },
+        {
+            "alt_label": "Flagellates",
+            "definition": "A measurement of the flagellates (protozoans that possess flagella) in a biological specimen.",
+            "identifier": "C135421",
+            "notation": "FLAGEL",
+            "pref_label": "Flagellates Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C135421"
+        },
+        {
+            "alt_label": "Fungi;Fungus",
+            "definition": "A measurement of the fungi in a biological specimen.",
+            "identifier": "C154813",
+            "notation": "FUNGI",
+            "pref_label": "Fungi Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154813"
+        },
+        {
+            "alt_label": "Fungi, Filamentous",
+            "definition": "A measurement of the filamentous fungi in a biological specimen.",
+            "identifier": "C147343",
+            "notation": "FUNGIFIL",
+            "pref_label": "Filamentous Fungi Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147343"
+        },
+        {
+            "alt_label": "Fungi, Yeast-Like",
+            "definition": "A measurement of the yeast-like fungi in a biological specimen.",
+            "identifier": "C147344",
+            "notation": "FUNGYLK",
+            "pref_label": "Yeast-Like Fungi Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147344"
+        },
+        {
+            "alt_label": "Giardia lamblia Antigen",
+            "definition": "A measurement of the Giardia lamblia antigen in a biological specimen.",
+            "identifier": "C154822",
+            "notation": "GLAAG",
+            "pref_label": "Giardia lamblia Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154822"
+        },
+        {
+            "alt_label": "Giardia duodenalis DNA;Giardia intestinalis DNA;Giardia lamblia DNA",
+            "definition": "A measurement of the Giardia lamblia DNA in a biological specimen.",
+            "identifier": "C166038",
+            "notation": "GLADNA",
+            "pref_label": "Giardia lamblia DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166038"
+        },
+        {
+            "alt_label": "Galactomannan Antigen",
+            "definition": "A measurement of the galactomannan antigen in a biological specimen.",
+            "identifier": "C154817",
+            "notation": "GLTAG",
+            "pref_label": "Galactomannan Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154817"
+        },
+        {
+            "alt_label": "Gram Negative Bacteria",
+            "definition": "A measurement of the gram negative bacteria in a biological specimen.",
+            "identifier": "C154812",
+            "notation": "GMNBAC",
+            "pref_label": "Gram Negative Bacteria Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154812"
+        },
+        {
+            "alt_label": "Gram Negative Cocci",
+            "definition": "A measurement of the gram negative cocci-shaped bacteria in a biological specimen.",
+            "identifier": "C161401",
+            "notation": "GMNCOC",
+            "pref_label": "Gram Negative Cocci Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161401"
+        },
+        {
+            "alt_label": "Gram Positive Bacteria",
+            "definition": "A measurement of the gram positive bacteria in a biological specimen.",
+            "identifier": "C154811",
+            "notation": "GMPBAC",
+            "pref_label": "Gram Positive Bacteria Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154811"
+        },
+        {
+            "alt_label": "Corynebacterium vaginalis;Gardnerella vaginalis",
+            "definition": "A measurement of the Gardnerella vaginalis in a biological specimen.",
+            "identifier": "C161402",
+            "notation": "GVA",
+            "pref_label": "Gardnerella vaginalis Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161402"
+        },
+        {
+            "alt_label": "Hepatitis A Virus Antibody",
+            "definition": "A measurement of the hepatitis A virus antibody in a biological specimen.",
+            "identifier": "C92534",
+            "notation": "HAAB",
+            "pref_label": "Hepatitis A Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92534"
+        },
+        {
+            "alt_label": "H. influenzae;Haemophilus influenzae",
+            "definition": "A measurement of the Haemophilus influenza virus in a biological specimen.",
+            "identifier": "C147457",
+            "notation": "HAEMINF",
+            "pref_label": "Haemophilus influenzae Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147457"
+        },
+        {
+            "alt_label": "Haemophilus",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Haemophilus genus level in a biological specimen.",
+            "identifier": "C147458",
+            "notation": "HAEMOPH",
+            "pref_label": "Haemophilus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147458"
+        },
+        {
+            "alt_label": "Hepatitis A Virus IgG Antibody",
+            "definition": "A measurement of hepatitis A virus IgG antibody in a biological specimen.",
+            "identifier": "C163538",
+            "notation": "HAIGGAB",
+            "pref_label": "Hepatitis A Virus IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163538"
+        },
+        {
+            "alt_label": "Hepatitis A Virus IgM Antibody",
+            "definition": "A measurement of hepatitis A virus IgM antibody in a biological specimen.",
+            "identifier": "C92271",
+            "notation": "HAIGMAB",
+            "pref_label": "Hepatitis A Virus Antibody IgM Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92271"
+        },
+        {
+            "alt_label": "Hepatitis B Virus Antibody",
+            "definition": "A measurement of an unspecified hepatitis B antibody in a biological specimen.",
+            "identifier": "C125944",
+            "notation": "HBAB",
+            "pref_label": "Hepatitis B Virus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C125944"
+        },
+        {
+            "alt_label": "Hepatitis B Virus Core Antibody",
+            "definition": "A measurement of the hepatitis B virus core antibody in a biological specimen.",
+            "identifier": "C96660",
+            "notation": "HBCAB",
+            "pref_label": "Hepatitis B Virus Core Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96660"
+        },
+        {
+            "alt_label": "Hepatitis B Virus Core Antigen",
+            "definition": "A measurement of the Hepatitis B virus core antigen in a biological specimen.",
+            "identifier": "C166039",
+            "notation": "HBCAG",
+            "pref_label": "Hepatitis B Virus Core Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166039"
+        },
+        {
+            "alt_label": "Hepatitis B Virus Core IgG Antibody",
+            "definition": "A measurement of the hepatitis B virus core IgG antibody in a biological specimen.",
+            "identifier": "C119280",
+            "notation": "HBCIGGAB",
+            "pref_label": "Hepatitis B Virus Core IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C119280"
+        },
+        {
+            "alt_label": "Hepatitis B Virus Core IgM Antibody",
+            "definition": "A measurement of the hepatitis B virus core IgM antibody in a biological specimen.",
+            "identifier": "C96661",
+            "notation": "HBCIGMAB",
+            "pref_label": "Hepatitis B Virus Core IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96661"
+        },
+        {
+            "alt_label": "Hepatitis B Virus DNA",
+            "definition": "A measurement of the Hepatitis B virus DNA in a biological specimen.",
+            "identifier": "C103404",
+            "notation": "HBDNA",
+            "pref_label": "Hepatitis B DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C103404"
+        },
+        {
+            "alt_label": "Hepatitis B Virus e Antibody",
+            "definition": "A measurement of the hepatitis B e antibody in a biological specimen.",
+            "identifier": "C96662",
+            "notation": "HBEAB",
+            "pref_label": "Hepatitis B Virus e Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96662"
+        },
+        {
+            "alt_label": "Hepatitis B Virus e Antigen",
+            "definition": "A measurement of the hepatitis B e antigen in a biological specimen.",
+            "identifier": "C96663",
+            "notation": "HBEAG",
+            "pref_label": "Hepatitis B Virus e Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96663"
+        },
+        {
+            "alt_label": "Hepatitis B Virus Nucleic Acid",
+            "definition": "A measurement of the hepatitis B virus nucleic acid in a biological specimen.",
+            "identifier": "C166040",
+            "notation": "HBNUAC",
+            "pref_label": "Hepatitis B Virus Nucleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166040"
+        },
+        {
+            "alt_label": "Human bocavirus DNA",
+            "definition": "A measurement of the Human bocavirus DNA in a biological specimen.",
+            "identifier": "C184656",
+            "notation": "HBOVDNA",
+            "pref_label": "Human bocavirus DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184656"
+        },
+        {
+            "alt_label": "Anti-HBs;HBsAb;Hepatitis B Virus Surface Antibody",
+            "definition": "A measurement of the hepatitis B virus surface antibody in a biological specimen.",
+            "identifier": "C74711",
+            "notation": "HBSAB",
+            "pref_label": "Hepatitis B Surface Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C74711"
+        },
+        {
+            "alt_label": "HBsAg;Hepatitis B Virus Surface Antigen",
+            "definition": "A measurement of the surface antigen reaction of a biological specimen to the Hepatitis B virus.",
+            "identifier": "C64850",
+            "notation": "HBSAG",
+            "pref_label": "Hepatitis B Virus Surface Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C64850"
+        },
+        {
+            "alt_label": "Hepatitis C Virus Antibody",
+            "definition": "A measurement of the hepatitis C virus antibody in a biological specimen.",
+            "identifier": "C92535",
+            "notation": "HCAB",
+            "pref_label": "Hepatitis C Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92535"
+        },
+        {
+            "alt_label": "Hepatitis C Virus Antigen",
+            "definition": "A measurement of the hepatitis C virus antigen in a biological specimen.",
+            "identifier": "C116196",
+            "notation": "HCAG",
+            "pref_label": "Hepatitis C Virus Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C116196"
+        },
+        {
+            "alt_label": "Hepatitis C Virus Core Antigen",
+            "definition": "A measurement of the hepatitis C virus core antigen in a biological specimen.",
+            "identifier": "C135424",
+            "notation": "HCCAG",
+            "pref_label": "Hepatitis C Virus Core Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C135424"
+        },
+        {
+            "alt_label": "Hepatitis C Virus Nucleic Acid",
+            "definition": "A measurement of the hepatitis C virus nucleic acid in a biological specimen.",
+            "identifier": "C166041",
+            "notation": "HCNUAC",
+            "pref_label": "Hepatitis C Virus Nucleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166041"
+        },
+        {
+            "alt_label": "Human Coronavirus 229E",
+            "definition": "A measurement of the Human coronavirus 229E in a biological specimen.",
+            "identifier": "C178007",
+            "notation": "HCOV229E",
+            "pref_label": "Human Coronavirus 229E Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178007"
+        },
+        {
+            "alt_label": "Human Coronavirus HKU1",
+            "definition": "A measurement of the Human coronavirus HKU1 in a biological specimen.",
+            "identifier": "C178008",
+            "notation": "HCOVHKU1",
+            "pref_label": "Human Coronavirus HKU1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178008"
+        },
+        {
+            "alt_label": "Human Coronavirus NL63",
+            "definition": "A measurement of the Human coronavirus NL63 in a biological specimen.",
+            "identifier": "C178009",
+            "notation": "HCOVNL63",
+            "pref_label": "Human Coronavirus NL63 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178009"
+        },
+        {
+            "alt_label": "Human Coronavirus OC43",
+            "definition": "A measurement of the Human coronavirus OC43 in a biological specimen.",
+            "identifier": "C178010",
+            "notation": "HCOVOC43",
+            "pref_label": "Human Coronavirus OC43 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178010"
+        },
+        {
+            "alt_label": "Histoplasma capsulatum Antigen",
+            "definition": "A measurement of the Histoplasma capsulatum antigen in a biological specimen.",
+            "identifier": "C154816",
+            "notation": "HCPAG",
+            "pref_label": "Histoplasma capsulatum Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154816"
+        },
+        {
+            "alt_label": "Hepatitis C Virus RNA",
+            "definition": "A measurement of the Hepatitis C virus RNA in a biological specimen.",
+            "identifier": "C142330",
+            "notation": "HCRNA",
+            "pref_label": "Hepatitis C Virus RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142330"
+        },
+        {
+            "alt_label": "HCV Antibody Signal/HCV Antibody Cutoff",
+            "definition": "A relative measurement (ratio) of the Hepatitis C virus antibody signal in a biological specimen to Hepatitis C virus positive internal control.",
+            "identifier": "C139086",
+            "notation": "HCVSHCVC",
+            "pref_label": "HCV Antibody Signal to HCV Antibody Cutoff Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C139086"
+        },
+        {
+            "alt_label": "Hepatitis D Virus Antibody;Hepatitis Delta Antibody",
+            "definition": "A measurement of the hepatitis D virus antibody in a biological specimen.",
+            "identifier": "C96664",
+            "notation": "HDAB",
+            "pref_label": "Hepatitis D Virus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96664"
+        },
+        {
+            "alt_label": "Hepatitis D Virus IgG Antibody",
+            "definition": "A measurement of the hepatitis D virus IgG antibody in a biological specimen.",
+            "identifier": "C119281",
+            "notation": "HDIGGAB",
+            "pref_label": "Hepatitis D Virus IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C119281"
+        },
+        {
+            "alt_label": "Hepatitis D Virus IgM Antibody",
+            "definition": "A measurement of the hepatitis D virus IgM antibody in a biological specimen.",
+            "identifier": "C119282",
+            "notation": "HDIGMAB",
+            "pref_label": "Hepatitis D Virus IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C119282"
+        },
+        {
+            "alt_label": "Hepatitis E Virus Antibody",
+            "definition": "A measurement of the hepatitis E virus antibody in a biological specimen.",
+            "identifier": "C119283",
+            "notation": "HEAB",
+            "pref_label": "Hepatitis E Virus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C119283"
+        },
+        {
+            "alt_label": "Hepatitis E Virus Antigen",
+            "definition": "A measurement of the Hepatitis E virus antigen in a biological specimen.",
+            "identifier": "C166042",
+            "notation": "HEAG",
+            "pref_label": "Hepatitis E Virus Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166042"
+        },
+        {
+            "alt_label": "Hepatitis E Virus IgG Antibody",
+            "definition": "A measurement of IgG antibody to the hepatitis E virus in a biological specimen.",
+            "identifier": "C106526",
+            "notation": "HEIGGAB",
+            "pref_label": "Hepatitis E Virus IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C106526"
+        },
+        {
+            "alt_label": "Hepatitis E Virus IgM Antibody",
+            "definition": "A measurement of the hepatitis E virus IgM antibody in a biological specimen.",
+            "identifier": "C96665",
+            "notation": "HEIGMAB",
+            "pref_label": "Hepatitis E Virus IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96665"
+        },
+        {
+            "alt_label": "Hepatitis E Virus RNA",
+            "definition": "A measurement of the Hepatitis E virus RNA in a biological specimen.",
+            "identifier": "C142331",
+            "notation": "HERNA",
+            "pref_label": "Hepatitis E Virus RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142331"
+        },
+        {
+            "alt_label": "Human Immunodeficiency Virus",
+            "definition": "A measurement of the Human Immunodeficiency Virus in a biological specimen.",
+            "identifier": "C161395",
+            "notation": "HIV",
+            "pref_label": "Human Immunodeficiency Virus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161395"
+        },
+        {
+            "alt_label": "HIV-1 p24 Antigen",
+            "definition": "A measurement of the HIV-1 p24 antigen in a biological specimen.",
+            "identifier": "C92265",
+            "notation": "HIV124AG",
+            "pref_label": "HIV-1 p24 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92265"
+        },
+        {
+            "alt_label": "HIV-1/2 Antibody",
+            "definition": "A measurement of either the HIV-1 or HIV-2 virus antibody in a biological specimen.",
+            "identifier": "C74714",
+            "notation": "HIV12AB",
+            "pref_label": "HIV-1 HIV-2 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C74714"
+        },
+        {
+            "alt_label": "HIV-1/2 Antigen/Antibody",
+            "definition": "A measurement of the HIV-1/HIV-2 antigens and/or HIV-1/HIV-2 antibodies in a biological specimen (to be used when the antigen is not specified).",
+            "identifier": "C163539",
+            "notation": "HIV12AGB",
+            "pref_label": "HIV-1/2 Antigen/Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163539"
+        },
+        {
+            "alt_label": "HIV-1/2 Antibody + HIV-1 p24 Antigen",
+            "definition": "A measurement of the antibody reaction of a biological specimen to either the HIV-1 or HIV-2 virus and the measurement of HIV-1 p24 antigen in a biological specimen.",
+            "identifier": "C139085",
+            "notation": "HIV12P24",
+            "pref_label": "HIV-1/2 Antibody and HIV-1 p24 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C139085"
+        },
+        {
+            "alt_label": "HIV-1/2 RNA",
+            "definition": "A measurement of the HIV-1 and/or HIV-2 RNA in a biological specimen.",
+            "identifier": "C161393",
+            "notation": "HIV12RNA",
+            "pref_label": "HIV-1/2 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161393"
+        },
+        {
+            "alt_label": "HIV-1 Antibody",
+            "definition": "A measurement of the HIV-1 virus antibody in a biological specimen.",
+            "identifier": "C74713",
+            "notation": "HIV1AB",
+            "pref_label": "HIV-1 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C74713"
+        },
+        {
+            "alt_label": "HIV-1 Antibody + HIV-1 p24 Antigen",
+            "definition": "A measurement of the antibody reaction to the HIV-1 virus and the measurement of HIV-1 p24 antigen in a biological specimen.",
+            "identifier": "C166043",
+            "notation": "HIV1AB24",
+            "pref_label": "HIV-1 Antibody and HIV-1 p24 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166043"
+        },
+        {
+            "alt_label": "HIV-1 Antigen",
+            "definition": "A measurement of the HIV-1 antigen in a biological specimen.",
+            "identifier": "C154821",
+            "notation": "HIV1AG",
+            "pref_label": "HIV-1 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154821"
+        },
+        {
+            "alt_label": "HIV-1 Group M and O Nucleic Acid",
+            "definition": "A measurement of the HIV-1 group M and O nucleic acids in a biological specimen.",
+            "identifier": "C92263",
+            "notation": "HIV1MONA",
+            "pref_label": "HIV-1 Group M and O Nucleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92263"
+        },
+        {
+            "alt_label": "HIV-1 Group O Antibody",
+            "definition": "A measurement of the HIV-1 group O antibody in a biological specimen.",
+            "identifier": "C92264",
+            "notation": "HIV1OAB",
+            "pref_label": "HIV-1 Group O Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92264"
+        },
+        {
+            "alt_label": "HIV-1 RNA",
+            "definition": "A measurement of the HIV-1 RNA in a biological specimen.",
+            "identifier": "C158238",
+            "notation": "HIV1RNA",
+            "pref_label": "HIV-1 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C158238"
+        },
+        {
+            "alt_label": "HIV-2 Antibody",
+            "definition": "A measurement of the HIV-2 virus antibody in a biological specimen.",
+            "identifier": "C74715",
+            "notation": "HIV2AB",
+            "pref_label": "HIV-2 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C74715"
+        },
+        {
+            "alt_label": "HIV-2 Antibody + HIV-1 p24 Antigen",
+            "definition": "A measurement of the antibody reaction to the HIV-2 virus and the measurement of HIV-1 p24 antigen in a biological specimen.",
+            "identifier": "C166044",
+            "notation": "HIV2AB24",
+            "pref_label": "HIV-2 Antibody And HIV-1 p24 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166044"
+        },
+        {
+            "alt_label": "HIV-2 Nucleic Acid",
+            "definition": "A measurement of the HIV-2 nucleic acids in a biological specimen.",
+            "identifier": "C92266",
+            "notation": "HIV2NUAC",
+            "pref_label": "HIV-2 Nucleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92266"
+        },
+        {
+            "alt_label": "HIV-2 RNA",
+            "definition": "A measurement of the HIV-2 RNA in a biological specimen.",
+            "identifier": "C166045",
+            "notation": "HIV2RNA",
+            "pref_label": "HIV-2 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166045"
+        },
+        {
+            "alt_label": "HIV Antibody",
+            "definition": "A measurement of the HIV virus antibody in a biological specimen.",
+            "identifier": "C106527",
+            "notation": "HIVAB",
+            "pref_label": "HIV Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C106527"
+        },
+        {
+            "alt_label": "HCoV-HKU1 RNA;Human Coronavirus HKU1 RNA",
+            "definition": "A measurement of the Human coronavirus HKU1 RNA in a biological specimen.",
+            "identifier": "C184655",
+            "notation": "HKU1RNA",
+            "pref_label": "HCoV-HKU1 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184655"
+        },
+        {
+            "alt_label": "Human Metapneumovirus",
+            "definition": "A measurement of the Human metapneumovirus in a biological specimen.",
+            "identifier": "C178011",
+            "notation": "HMPV",
+            "pref_label": "Human Metapneumovirus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178011"
+        },
+        {
+            "alt_label": "Human Parainfluenza Type 1 Antigen",
+            "definition": "A measurement of the Human Parainfluenza Type 1 antigen in a biological specimen.",
+            "identifier": "C154834",
+            "notation": "HPIV1AG",
+            "pref_label": "Human Parainfluenza Type 1 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154834"
+        },
+        {
+            "alt_label": "Human Parainfluenza Virus 1 RNA;Human Respirovirus 1 RNA",
+            "definition": "A measurement of the Human parainfluenza virus 1 RNA in a biological specimen.",
+            "identifier": "C184662",
+            "notation": "HPIV1RNA",
+            "pref_label": "Human Parainfluenza Virus 1 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184662"
+        },
+        {
+            "alt_label": "Human Parainfluenza Virus 2",
+            "definition": "A measurement of the Human parainfluenza virus 2 in a biological specimen.",
+            "identifier": "C178012",
+            "notation": "HPIV2",
+            "pref_label": "Human Parainfluenza Virus 2 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178012"
+        },
+        {
+            "alt_label": "Human Orthorubulavirus 2 RNA;Human Parainfluenza Virus 2 RNA",
+            "definition": "A measurement of the Human parainfluenza virus 2 RNA in a biological specimen.",
+            "identifier": "C184663",
+            "notation": "HPIV2RNA",
+            "pref_label": "Human Parainfluenza Virus 2 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184663"
+        },
+        {
+            "alt_label": "Human Parainfluenza Virus 3",
+            "definition": "A measurement of the Human parainfluenza virus 3 in a biological specimen.",
+            "identifier": "C178013",
+            "notation": "HPIV3",
+            "pref_label": "Human Parainfluenza Virus 3 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178013"
+        },
+        {
+            "alt_label": "Human Parainfluenza Virus 3 RNA;Human Respirovirus 3 RNA",
+            "definition": "A measurement of the Human parainfluenza virus 3 RNA in a biological specimen.",
+            "identifier": "C184664",
+            "notation": "HPIV3RNA",
+            "pref_label": "Human Parainfluenza Virus 3 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184664"
+        },
+        {
+            "alt_label": "Human Parainfluenza Virus 4",
+            "definition": "A measurement of the Human parainfluenza virus 4 in a biological specimen.",
+            "identifier": "C178014",
+            "notation": "HPIV4",
+            "pref_label": "Human Parainfluenza Virus 4 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178014"
+        },
+        {
+            "alt_label": "Human Orthorubulavirus 4 RNA;Human Parainfluenza Virus 4 RNA",
+            "definition": "A measurement of the Human parainfluenza virus 4 RNA in a biological specimen.",
+            "identifier": "C184651",
+            "notation": "HPIV4RNA",
+            "pref_label": "Human Parainfluenza Virus 4 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184651"
+        },
+        {
+            "alt_label": "Human Parainfluenza Antigen",
+            "definition": "A measurement of the Human Parainfluenza antigen in a biological specimen.",
+            "identifier": "C154833",
+            "notation": "HPIVAG",
+            "pref_label": "Human Parainfluenza Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154833"
+        },
+        {
+            "alt_label": "Helicobacter pylori IgG Antibody",
+            "definition": "A measurement of the Helicobacter pylori IgG antibody in a biological specimen.",
+            "identifier": "C103403",
+            "notation": "HPLIGGAB",
+            "pref_label": "Helicobacter pylori IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C103403"
+        },
+        {
+            "alt_label": "Human Papillomavirus 11 Antibody",
+            "definition": "A measurement of the human papillomavirus 11 antibody in a biological specimen.",
+            "identifier": "C127618",
+            "notation": "HPV11AB",
+            "pref_label": "Human Papillomavirus 11 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C127618"
+        },
+        {
+            "alt_label": "Human Papillomavirus 16 Antibody",
+            "definition": "A measurement of the human papillomavirus 16 antibody in a biological specimen.",
+            "identifier": "C127619",
+            "notation": "HPV16AB",
+            "pref_label": "Human Papillomavirus 16 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C127619"
+        },
+        {
+            "alt_label": "Human Papillomavirus 18 Antibody",
+            "definition": "A measurement of the human papillomavirus 18 antibody in a biological specimen.",
+            "identifier": "C127620",
+            "notation": "HPV18AB",
+            "pref_label": "Human Papillomavirus 18 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C127620"
+        },
+        {
+            "alt_label": "Human Papillomavirus 6 Antibody",
+            "definition": "A measurement of the human papillomavirus 6 antibody in a biological specimen.",
+            "identifier": "C127621",
+            "notation": "HPV6AB",
+            "pref_label": "Human Papillomavirus 6 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C127621"
+        },
+        {
+            "alt_label": "Helicobacter pylori Antigen",
+            "definition": "A measurement of the Helicobacter pylori antigen in a biological specimen.",
+            "identifier": "C154819",
+            "notation": "HPYAG",
+            "pref_label": "Helicobacter pylori Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154819"
+        },
+        {
+            "alt_label": "Helicobacter pylori DNA",
+            "definition": "A measurement of the Helicobacter pylori DNA in a biological specimen.",
+            "identifier": "C184666",
+            "notation": "HPYDNA",
+            "pref_label": "Helicobacter pylori DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184666"
+        },
+        {
+            "alt_label": "Herpes Simplex Virus 1/2 IgG Antibody;HSV-1/2 IgG Ab",
+            "definition": "A measurement of the herpes simplex virus 1 and 2 IgG antibody in a biological specimen.",
+            "identifier": "C96697",
+            "notation": "HS12GGAB",
+            "pref_label": "Herpes Simplex Virus 1/2 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96697"
+        },
+        {
+            "alt_label": "Herpes Simplex Virus 1/2 IgM Antibody;HSV-1/2 IgM Ab",
+            "definition": "A measurement of the herpes simplex virus 1 and 2 IgM antibody in a biological specimen.",
+            "identifier": "C96698",
+            "notation": "HS12GMAB",
+            "pref_label": "Herpes Simplex Virus 1/2 IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96698"
+        },
+        {
+            "alt_label": "Herpes Simplex Virus 1 IgG Antibody;HSV-1 IgG Antibody",
+            "definition": "A measurement of the herpes simplex virus 1 IgG antibody in a biological specimen.",
+            "identifier": "C96666",
+            "notation": "HS1IGGAB",
+            "pref_label": "Herpes Simplex Virus 1 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96666"
+        },
+        {
+            "alt_label": "Herpes Simplex Virus 1 IgM Antibody",
+            "definition": "A measurement of the Herpes Simplex virus 1 IgM antibodies in a biological specimen.",
+            "identifier": "C98738",
+            "notation": "HS1IGMAB",
+            "pref_label": "Herpes Simplex Virus 1 IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C98738"
+        },
+        {
+            "alt_label": "Herpes Simplex Virus 2 IgG Antibody;HSV-2 IgG Antibody",
+            "definition": "A measurement of the herpes simplex virus 2 IgG antibody in a biological specimen.",
+            "identifier": "C96667",
+            "notation": "HS2IGGAB",
+            "pref_label": "Herpes Simplex Virus 2 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96667"
+        },
+        {
+            "alt_label": "Herpes Simplex Virus 2 IgM Antibody",
+            "definition": "A measurement of the Herpes Simplex virus 2 IgM antibodies in a biological specimen.",
+            "identifier": "C98739",
+            "notation": "HS2IGMAB",
+            "pref_label": "Herpes Simplex Virus 2 IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C98739"
+        },
+        {
+            "alt_label": "Herpes Simplex Virus 6 Antibody",
+            "definition": "A measurement of the herpes simplex virus 6 antibody in a biological specimen.",
+            "identifier": "C112292",
+            "notation": "HS6AB",
+            "pref_label": "Herpes Simplex Virus 6 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C112292"
+        },
+        {
+            "alt_label": "HTLV-1/2 Antibody;HTLV-I/II Antibody;Human T-cell Lymphotropic Virus 1/2 Antibody",
+            "definition": "A measurement of either the HTLV-1 or HTLV-2 virus antibody in a biological specimen.",
+            "identifier": "C122125",
+            "notation": "HTLV12AB",
+            "pref_label": "HTLV-I HTLV-II Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C122125"
+        },
+        {
+            "alt_label": "Heterophile Antibodies",
+            "definition": "A measurement of the heterophile antibodies in a biological specimen.",
+            "identifier": "C81984",
+            "notation": "HTPHAB",
+            "pref_label": "Heterophile Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C81984"
+        },
+        {
+            "alt_label": "Influenza A IgG Antibody",
+            "definition": "A measurement of the Influenza A IgG antibody in a biological specimen.",
+            "identifier": "C103408",
+            "notation": "IAIGGAB",
+            "pref_label": "Influenza A IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C103408"
+        },
+        {
+            "alt_label": "Influenza B IgG Antibody",
+            "definition": "A measurement of the Influenza B IgG antibody in a biological specimen.",
+            "identifier": "C103409",
+            "notation": "IBIGGAB",
+            "pref_label": "Influenza B IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C103409"
+        },
+        {
+            "alt_label": "Influenza A Antigen",
+            "definition": "A measurement of the influenza A antigen in a biological specimen.",
+            "identifier": "C120677",
+            "notation": "INFAAG",
+            "pref_label": "Influenza A Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C120677"
+        },
+        {
+            "alt_label": "Influenza A/B Virus",
+            "definition": "A measurement of the influenza A and/or B virus in a biological specimen.",
+            "identifier": "C184674",
+            "notation": "INFAB",
+            "pref_label": "Influenza A/B Virus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184674"
+        },
+        {
+            "alt_label": "Influenza A/B Antigen",
+            "definition": "A measurement of the influenza A and/or B antigen in a biological specimen.",
+            "identifier": "C120678",
+            "notation": "INFABAG",
+            "pref_label": "Influenza A/B Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C120678"
+        },
+        {
+            "alt_label": "Influenza B Antigen",
+            "definition": "A measurement of the influenza B antigen in a biological specimen.",
+            "identifier": "C120679",
+            "notation": "INFBAG",
+            "pref_label": "Influenza B Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C120679"
+        },
+        {
+            "alt_label": "JC Polyomavirus Antibody;JC Virus Antibody;JCV Antibody;John Cunningham Virus Antibody",
+            "definition": "A measurement of the JC virus antibody in a biological specimen.",
+            "identifier": "C112326",
+            "notation": "JCVAB",
+            "pref_label": "JC Virus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C112326"
+        },
+        {
+            "alt_label": "JC Polyomavirus DNA;JC Virus DNA;JCV DNA;John Cunningham Virus DNA",
+            "definition": "A measurement of the JC virus DNA in a biological specimen.",
+            "identifier": "C163540",
+            "notation": "JCVDNA",
+            "pref_label": "JC Virus DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163540"
+        },
+        {
+            "alt_label": "Japanese Encephalitis Virus Antibody",
+            "definition": "A measurement of the Japanese encephalitis virus antibody in a biological specimen.",
+            "identifier": "C147378",
+            "notation": "JEVAB",
+            "pref_label": "Japanese Encephalitis Virus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147378"
+        },
+        {
+            "alt_label": "Klebsiella",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Klebsiella genus level in a biological specimen.",
+            "identifier": "C172539",
+            "notation": "KLEBSIEL",
+            "pref_label": "Klebsiella Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172539"
+        },
+        {
+            "alt_label": "Lactobacillus crispatus DNA",
+            "definition": "A measurement of the Lactobacillus crispatus DNA in a biological specimen.",
+            "identifier": "C166046",
+            "notation": "LCRDNA",
+            "pref_label": "Lactobacillus crispatus DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166046"
+        },
+        {
+            "alt_label": "Legionella pneumophila Antigen",
+            "definition": "A measurement of the Legionella pneumophila antigen in a biological specimen.",
+            "identifier": "C92275",
+            "notation": "LPNAG",
+            "pref_label": "Legionella pneumophila Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92275"
+        },
+        {
+            "alt_label": "Legionella pneumophila IgG IgM Antibody",
+            "definition": "A measurement of the Legionella pneumophila IgG and IgM in a biological specimen.",
+            "identifier": "C92277",
+            "notation": "LPNGMAB",
+            "pref_label": "Legionella pneumophila IgG IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92277"
+        },
+        {
+            "alt_label": "Legionella pneumophila IgG Antibody",
+            "definition": "A measurement of the Legionella pneumophila IgG antibody in a biological specimen.",
+            "identifier": "C92276",
+            "notation": "LPNIGGAB",
+            "pref_label": "Legionella pneumophila IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92276"
+        },
+        {
+            "alt_label": "Legionella pneumophila IgM Antibody",
+            "definition": "A measurement of the Legionella pneumophila IgM antibody in a biological specimen.",
+            "identifier": "C92278",
+            "notation": "LPNIGMAB",
+            "pref_label": "Legionella pneumophila IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92278"
+        },
+        {
+            "alt_label": "Legionella pneumophila Serogroup 1 Antigen;Legionella pneumophila Sg 1 Antigen",
+            "definition": "A measurement of the Legionella pneumophila serogroup 1 antigen in a biological specimen.",
+            "identifier": "C154826",
+            "notation": "LPNS1AG",
+            "pref_label": "Legionella pneumophila Serogroup 1 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154826"
+        },
+        {
+            "alt_label": "Mycobacterium abscessus",
+            "definition": "A measurement of the Mycobacterium abscessus in a biological specimen.",
+            "identifier": "C172543",
+            "notation": "MAB",
+            "pref_label": "Mycobacterium abscessus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172543"
+        },
+        {
+            "alt_label": "Mycobacterium avium Complex",
+            "definition": "A measurement of the group of bacterial species that can be assigned to the Mycobacterium avium complex in a biological specimen.",
+            "identifier": "C172540",
+            "notation": "MAVCM",
+            "pref_label": "Mycobacterium avium Complex Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172540"
+        },
+        {
+            "alt_label": "Mycobacterium chelonae",
+            "definition": "A measurement of the Mycobacterium chelonae in a biological specimen.",
+            "identifier": "C172544",
+            "notation": "MCH",
+            "pref_label": "Mycobacterium chelonae Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172544"
+        },
+        {
+            "alt_label": "Microbial Organism Identification",
+            "definition": "The identification of the type of a microbial organism in a biological specimen.",
+            "identifier": "C132416",
+            "notation": "MCORGIDN",
+            "pref_label": "Microoganism Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C132416"
+        },
+        {
+            "alt_label": "MERS-CoV RNA",
+            "definition": "A measurement of the MERS-CoV RNA in a biological specimen.",
+            "identifier": "C171515",
+            "notation": "MERSRNA",
+            "pref_label": "MERS-CoV RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C171515"
+        },
+        {
+            "alt_label": "Microfilaria",
+            "definition": "Presence of microfilaria stage of filarial nematodes in smears prepared from whole blood or other body fluids.",
+            "identifier": "C117843",
+            "notation": "MFILARIA",
+            "pref_label": "Microfilaria Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C117843"
+        },
+        {
+            "alt_label": "Mycobacterium fortuitum",
+            "definition": "A measurement of the Mycobacterium fortuitum in a biological specimen.",
+            "identifier": "C172545",
+            "notation": "MFO",
+            "pref_label": "Mycobacterium fortuitum Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172545"
+        },
+        {
+            "alt_label": "Mycoplasma genitalium",
+            "definition": "A measurement of the Mycoplasma genitalium in a biological specimen.",
+            "identifier": "C166047",
+            "notation": "MGE",
+            "pref_label": "Mycoplasma genitalium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166047"
+        },
+        {
+            "alt_label": "Mycobacterium kansasii",
+            "definition": "A measurement of the Mycobacterium kansasii in a biological specimen.",
+            "identifier": "C172541",
+            "notation": "MKA",
+            "pref_label": "Mycobacterium kansasii Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172541"
+        },
+        {
+            "alt_label": "Mumps Virus IgG Antibody",
+            "definition": "A measurement of the mumps virus IgG antibody in a biological specimen.",
+            "identifier": "C122136",
+            "notation": "MMPIGGAB",
+            "pref_label": "Mumps Virus IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C122136"
+        },
+        {
+            "alt_label": "Mumps Rubulavirus IgM Antibody;Mumps Virus IgM Antibody",
+            "definition": "A measurement of the Mumps rubulavirus IgM Antibody in a biological specimen.",
+            "identifier": "C163541",
+            "notation": "MMPIGMAB",
+            "pref_label": "Mumps Virus IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163541"
+        },
+        {
+            "alt_label": "Morganella",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Morganella genus level in a biological specimen.",
+            "identifier": "C179759",
+            "notation": "MORGANEL",
+            "pref_label": "Morganella Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C179759"
+        },
+        {
+            "alt_label": "Mycoplasma pneumoniae",
+            "definition": "A measurement of the Mycoplasma pneumoniae in a biological specimen.",
+            "identifier": "C156543",
+            "notation": "MPN",
+            "pref_label": "Mycoplasma pneumoniae Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C156543"
+        },
+        {
+            "alt_label": "Mycoplasma pneumoniae DNA",
+            "definition": "A measurement of the Mycoplasma pneumoniae DNA in a biological specimen.",
+            "identifier": "C184658",
+            "notation": "MPNDNA",
+            "pref_label": "Mycoplasma pneumoniae DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184658"
+        },
+        {
+            "alt_label": "Mycoplasma pneumoniae IgA Antibody",
+            "definition": "A measurement of the Mycoplasma pneumoniae IgA antibody in a biological specimen.",
+            "identifier": "C163542",
+            "notation": "MPNIGAAB",
+            "pref_label": "Mycoplasma pneumoniae IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163542"
+        },
+        {
+            "alt_label": "Mycoplasma pneumoniae IgM Antibody",
+            "definition": "A measurement of the Mycoplasma pneumoniae IgM antibody in a biological specimen.",
+            "identifier": "C163543",
+            "notation": "MPNIGMAB",
+            "pref_label": "Mycoplasma pneumoniae IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163543"
+        },
+        {
+            "alt_label": "Mycoplasma pneumophila IgG Antibody",
+            "definition": "A measurement of the Mycoplasma pneumophila IgG antibody in a biological specimen.",
+            "identifier": "C166048",
+            "notation": "MPPIGGAB",
+            "pref_label": "Mycoplasma pneumophila IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166048"
+        },
+        {
+            "alt_label": "Mycoplasma pneumophila IgM Antibody",
+            "definition": "A measurement of the Mycoplasma pneumophila IgM antibody in a biological specimen.",
+            "identifier": "C166049",
+            "notation": "MPPIGMAB",
+            "pref_label": "Mycoplasma pneumophila IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166049"
+        },
+        {
+            "alt_label": "S. aureus, Methicillin-Resistant;Staphylococcus aureus, Methicillin-Resistant",
+            "definition": "A measurement of the methicillin-resistant strain of Staphylococcus aureus in a biological specimen.",
+            "identifier": "C139110",
+            "notation": "MRSA",
+            "pref_label": "Methicillin-resistant Staphylococcus aureus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C139110"
+        },
+        {
+            "alt_label": "Mycobacterium simiae",
+            "definition": "A measurement of the Mycobacterium simiae in a biological specimen.",
+            "identifier": "C172542",
+            "notation": "MSI",
+            "pref_label": "Mycobacterium simiae Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172542"
+        },
+        {
+            "alt_label": "S. aureus, Methicillin-Susceptible;Staphylococcus aureus, Methicillin-Susceptible",
+            "definition": "A measurement of the methicillin-susceptible strain of Staphylococcus aureus in a biological specimen.",
+            "identifier": "C139111",
+            "notation": "MSSA",
+            "pref_label": "Methicillin-susceptible Staphylococcus aureus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C139111"
+        },
+        {
+            "alt_label": "Mycobacterium tuberculosis",
+            "definition": "A measurement of the organisms that are assigned to the Mycobacterium tuberculosis species in a biological specimen.",
+            "identifier": "C128982",
+            "notation": "MTB",
+            "pref_label": "Mycobacterium Tuberculosis Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C128982"
+        },
+        {
+            "alt_label": "Mycobacterium tuberculosis Complex",
+            "definition": "A measurement of the organisms assignable to the Mycobacterium tuberculosis complex in a biological specimen.",
+            "identifier": "C128983",
+            "notation": "MTBCMPLX",
+            "pref_label": "Mycobacterium tuberculosis Complex Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C128983"
+        },
+        {
+            "alt_label": "Mycobacterium tuberculosis IgA Antibody",
+            "definition": "A measurement of the Mycobacterium tuberculosis IgA antibodies in a biological specimen.",
+            "identifier": "C124346",
+            "notation": "MTBIGAAB",
+            "pref_label": "Mycobacterium tuberculosis IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C124346"
+        },
+        {
+            "alt_label": "Mycobacterium tuberculosis IgE Antibody",
+            "definition": "A measurement of the Mycobacterium tuberculosis IgE antibodies in a biological specimen.",
+            "identifier": "C124347",
+            "notation": "MTBIGEAB",
+            "pref_label": "Mycobacterium tuberculosis IgE Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C124347"
+        },
+        {
+            "alt_label": "Mycobacterium tuberculosis IgG Antibody",
+            "definition": "A measurement of the Mycobacterium tuberculosis IgG antibodies in a biological specimen.",
+            "identifier": "C124348",
+            "notation": "MTBIGGAB",
+            "pref_label": "Mycobacterium tuberculosis IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C124348"
+        },
+        {
+            "alt_label": "M. tuberculosis IFN Gamma Response;Mycobacterium tuberculosis IFN Gamma Response",
+            "definition": "A measurement of the amount of interferon gamma that is released when Mycobacterium tuberculosis antigen is incubated with a biological specimen, usually blood. Increased amounts of interferon gamma suggests a prior or existing M. tuberculosis infection.",
+            "identifier": "C92241",
+            "notation": "MYTBGIR",
+            "pref_label": "Mycobacterium tuberculosis Interferon Gamma Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92241"
+        },
+        {
+            "alt_label": "Mycobacterium tuberculosis Nucleic Acid",
+            "definition": "A measurement of the Mycobacterium tuberculosis nucleic acid in a biological specimen.",
+            "identifier": "C92279",
+            "notation": "MYTBNUAC",
+            "pref_label": "Mycobacterium tuberculosis Nucleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92279"
+        },
+        {
+            "alt_label": "Neisseria gonorrhoeae",
+            "definition": "A measurement of the Neisseria gonorrhoeae in a biological specimen.",
+            "identifier": "C92298",
+            "notation": "NGO",
+            "pref_label": "Neisseria gonorrhoeae Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92298"
+        },
+        {
+            "alt_label": "N. gonorrhoeae, Beta-lactamase Negative",
+            "definition": "A measurement of the beta-lactamase negative strain of Neisseria gonorrhoeae in a biological specimen.",
+            "identifier": "C161399",
+            "notation": "NGOBLN",
+            "pref_label": "Neisseria gonorrhoeae, Beta-lactamase Negative Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161399"
+        },
+        {
+            "alt_label": "N. gonorrhoeae, Beta-lactamase Positive",
+            "definition": "A measurement of the beta-lactamase positive strain of Neisseria gonorrhoeae in a biological specimen.",
+            "identifier": "C161398",
+            "notation": "NGOBLP",
+            "pref_label": "Neisseria gonorrhoeae, Beta-lactamase Positive Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161398"
+        },
+        {
+            "alt_label": "HCoV-NL63 RNA;Human Coronavirus NL63 RNA",
+            "definition": "A measurement of the Human coronavirus NL63 RNA in a biological specimen.",
+            "identifier": "C184654",
+            "notation": "NL63RNA",
+            "pref_label": "HCoV-NL63 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184654"
+        },
+        {
+            "alt_label": "Norwalk calicivirus RNA;Norwalk virus RNA",
+            "definition": "A measurement of the Norwalk virus RNA in a biological specimen.",
+            "identifier": "C166050",
+            "notation": "NOVRNA",
+            "pref_label": "Norwalk virus RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166050"
+        },
+        {
+            "alt_label": "Non-tuberculous mycobacteria;Nontuberculous Mycobacteria;NTM",
+            "definition": "A measurement of the organisms that are assigned to the Mycobacterium genus but are not tuberculosis or leprosy-causing in a biological specimen.",
+            "identifier": "C147459",
+            "notation": "NTBMYCO",
+            "pref_label": "Nontuberculous Mycobacteria Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147459"
+        },
+        {
+            "alt_label": "Human Calicivirus Genogroup 2 RNA;Norovirus Genogroup II RNA;Norovirus GII RNA",
+            "definition": "A measurement of Norovirus genogroup II RNA in a biological specimen.",
+            "identifier": "C166051",
+            "notation": "NVGIIRNA",
+            "pref_label": "Norovirus Genogroup II RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166051"
+        },
+        {
+            "alt_label": "Human Calicivirus Genogroup 1 RNA;Norovirus Genogroup 1 RNA;Norovirus GI RNA",
+            "definition": "A measurement of Norovirus genogroup I RNA in a biological specimen.",
+            "identifier": "C166052",
+            "notation": "NVGIRNA",
+            "pref_label": "Norovirus Genogroup I RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166052"
+        },
+        {
+            "alt_label": "Norovirus RNA",
+            "definition": "A measurement of the RNA from any member of the genus Norovirus in a biological specimen.",
+            "identifier": "C184668",
+            "notation": "NVRNA",
+            "pref_label": "Norovirus RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184668"
+        },
+        {
+            "alt_label": "HCoV-OC43 RNA;Human Coronavirus OC43 RNA",
+            "definition": "A measurement of the Human coronavirus OC43 RNA in a biological specimen.",
+            "identifier": "C184653",
+            "notation": "OC43RNA",
+            "pref_label": "HCoV-OC43 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184653"
+        },
+        {
+            "alt_label": "Ova and Parasite",
+            "definition": "A measurement of the parasites and ova in a biological specimen.",
+            "identifier": "C100452",
+            "notation": "OVAPARS",
+            "pref_label": "Ova and Parasite Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C100452"
+        },
+        {
+            "alt_label": "Pseudomonas aeruginosa",
+            "definition": "A measurement of the Pseudomonas aeruginosa in a biological specimen.",
+            "identifier": "C172546",
+            "notation": "PAE",
+            "pref_label": "Pseudomonas aeruginosa Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172546"
+        },
+        {
+            "alt_label": "P. aeruginosa, Mucoid;Pseudomonas aeruginosa, Mucoid",
+            "definition": "A measurement of the mucoid strain of Pseudomonas aeruginosa in a biological specimen.",
+            "identifier": "C139108",
+            "notation": "PAERGMUC",
+            "pref_label": "Mucoid Pseudomonas aeruginosa Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C139108"
+        },
+        {
+            "alt_label": "P. aeruginosa, Non-Mucoid;Pseudomonas aeruginosa, Non-Mucoid",
+            "definition": "A measurement of the non-mucoid strain of Pseudomonas aeruginosa in a biological specimen.",
+            "identifier": "C139107",
+            "notation": "PAERGNMC",
+            "pref_label": "Non-Mucoid Pseudomonas aeruginosa Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C139107"
+        },
+        {
+            "alt_label": "P. aeruginosa, Small-colony Variant;Pseudomonas aeruginosa, SCV;Pseudomonas aeruginosa, Small-colony Variant",
+            "definition": "A measurement of the small-colony variant strain of Pseudomonas aeruginosa in a biological specimen.",
+            "identifier": "C139109",
+            "notation": "PAERGSCV",
+            "pref_label": "Small-Colony Variant Pseudomonas aeruginosa Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C139109"
+        },
+        {
+            "alt_label": "Parvovirus B19 IgG Antibody",
+            "definition": "A measurement of the Parvovirus B19 IgG antibody in a biological specimen.",
+            "identifier": "C96617",
+            "notation": "PB19GGAB",
+            "pref_label": "Parvovirus B19 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96617"
+        },
+        {
+            "alt_label": "Parvovirus B19 IgM Antibody",
+            "definition": "A measurement of the Parvovirus B19 IgM antibody in a biological specimen.",
+            "identifier": "C96618",
+            "notation": "PB19GMAB",
+            "pref_label": "Parvovirus B19 IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C96618"
+        },
+        {
+            "alt_label": "Plasmodium knowlesi, Asexual",
+            "definition": "A measurement of the Plasmodium knowlesi in an asexual replication stage in a biological specimen.",
+            "identifier": "C132417",
+            "notation": "PKNOWLA",
+            "pref_label": "Asexual Plasmodium knowlesi Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C132417"
+        },
+        {
+            "alt_label": "Plasmodium knowlesi, Sexual",
+            "definition": "A measurement of the Plasmodium knowlesi in a sexual replication stage in a biological specimen.",
+            "identifier": "C132418",
+            "notation": "PKNOWLS",
+            "pref_label": "Sexual Plasmodium knowlesi Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C132418"
+        },
+        {
+            "alt_label": "Malaria;Plasmodium",
+            "definition": "Examination of a biological specimen to detect the presence of any protozoan belonging to the Plasmodium genus.",
+            "identifier": "C100453",
+            "notation": "PLSMDM",
+            "pref_label": "Plasmodium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C100453"
+        },
+        {
+            "alt_label": "Proteus mirabilis",
+            "definition": "A measurement of the Proteus mirabilis in a biological specimen.",
+            "identifier": "C179760",
+            "notation": "PMI",
+            "pref_label": "Proteus mirabilis Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C179760"
+        },
+        {
+            "alt_label": "Protozoa",
+            "definition": "A measurement of protozoa in a biological specimen.",
+            "identifier": "C117849",
+            "notation": "PROTOZOA",
+            "pref_label": "Protozoa Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C117849"
+        },
+        {
+            "alt_label": "Pseudomonas",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Pseudomonas genus level in a biological specimen.",
+            "identifier": "C172384",
+            "notation": "PSEUDOMO",
+            "pref_label": "Pseudomonas Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172384"
+        },
+        {
+            "alt_label": "Plesiomonas shigelloides DNA",
+            "definition": "A measurement of the Plesiomonas shigelloides DNA in a biological specimen.",
+            "identifier": "C166053",
+            "notation": "PSHDNA",
+            "pref_label": "Plesiomonas shigelloides DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166053"
+        },
+        {
+            "alt_label": "Measles Virus Antigen",
+            "definition": "A measurement of the Rubeola virus antigen in a biological specimen.",
+            "identifier": "C154815",
+            "notation": "RBOAG",
+            "pref_label": "Rubeola Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154815"
+        },
+        {
+            "alt_label": "Measles IgG Antibody;Rubeola IgG Antibody",
+            "definition": "A measurement of the Measles (Rubeola) virus IgG antibody in a biological specimen.",
+            "identifier": "C112412",
+            "notation": "RBOIGGAB",
+            "pref_label": "Rubeola IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C112412"
+        },
+        {
+            "alt_label": "Measles IgM Antibody;Rubeola IgM Antibody",
+            "definition": "A measurement of the Measles (Rubeola) virus IgM antibody in a biological specimen.",
+            "identifier": "C112413",
+            "notation": "RBOIGMAB",
+            "pref_label": "Rubeola IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C112413"
+        },
+        {
+            "alt_label": "Rapid Plasma Reagin;Reagin Antibody;RPR;VDRL;Venereal Disease Research Laboratory Test",
+            "definition": "A measurement of the non-specific Treponemal antibodies produced in response to cellular damage caused by Treponema pallidum (syphilis) in a biological specimen.",
+            "identifier": "C74716",
+            "notation": "REAAB",
+            "pref_label": "Rapid Plasma Reagin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C74716"
+        },
+        {
+            "alt_label": "Rotavirus Antigen",
+            "definition": "A measurement of the antigen from any member of the genus Rotavirus in a biological specimen.",
+            "identifier": "C154827",
+            "notation": "ROTAG",
+            "pref_label": "Rotavirus Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154827"
+        },
+        {
+            "alt_label": "Rotavirus",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Rotavirus genus level in a biological specimen.",
+            "identifier": "C172549",
+            "notation": "ROTAVIRU",
+            "pref_label": "Rotavirus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C172549"
+        },
+        {
+            "alt_label": "Rotavirus A RNA;Rotavirus Group A RNA",
+            "definition": "A measurement of the Rotavirus A RNA in a biological specimen.",
+            "identifier": "C166054",
+            "notation": "RROARNA",
+            "pref_label": "Rotavirus A RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166054"
+        },
+        {
+            "alt_label": "Respiratory Syncytial Virus",
+            "definition": "A measurement of the respiratory syncytial virus in a biological specimen.",
+            "identifier": "C171526",
+            "notation": "RSV",
+            "pref_label": "Respiratory Syncytial Virus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C171526"
+        },
+        {
+            "alt_label": "Respiratory Syncytial Virus Type A",
+            "definition": "A measurement of the respiratory syncytial virus type A in a biological specimen.",
+            "identifier": "C184660",
+            "notation": "RSVA",
+            "pref_label": "Respiratory Syncytial Virus Type A Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184660"
+        },
+        {
+            "alt_label": "Respiratory Syncytial Virus Antigen;RSV Antigen",
+            "definition": "A measurement of the respiratory syncytial virus antigen in a biological specimen.",
+            "identifier": "C154823",
+            "notation": "RSVAG",
+            "pref_label": "Respiratory Syncytial Virus Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154823"
+        },
+        {
+            "alt_label": "Respiratory Syncytial Virus Type B",
+            "definition": "A measurement of the respiratory syncytial virus type B in a biological specimen.",
+            "identifier": "C184661",
+            "notation": "RSVB",
+            "pref_label": "Respiratory Syncytial Virus Type B Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184661"
+        },
+        {
+            "alt_label": "Rubella IgG Antibody",
+            "definition": "A measurement of the Rubella IgG antibody in a biological specimen.",
+            "identifier": "C103440",
+            "notation": "RUBIGGAB",
+            "pref_label": "Rubella IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C103440"
+        },
+        {
+            "alt_label": "Rubella IgM Antibody",
+            "definition": "A measurement of the Rubella IgM antibody in a biological specimen.",
+            "identifier": "C163544",
+            "notation": "RUBIGMAB",
+            "pref_label": "Rubella IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C163544"
+        },
+        {
+            "alt_label": "Human rhinovirus/enterovirus",
+            "definition": "A measurement of the Human rhinovirus and/or Human enterovirus in a biological specimen.",
+            "identifier": "C179761",
+            "notation": "RVENT",
+            "pref_label": "Human Rhinovirus and/or Enterovirus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C179761"
+        },
+        {
+            "alt_label": "Human rhinovirus/enterovirus RNA",
+            "definition": "A measurement of RNA from any member of the Human Rhinovirus species and/or Human Enterovirus species in a biological specimen.",
+            "identifier": "C170609",
+            "notation": "RVENTRNA",
+            "pref_label": "Human rhinovirus and/or enterovirus RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C170609"
+        },
+        {
+            "alt_label": "Streptococcus agalactiae",
+            "definition": "A measurement of the Streptococcus agalactiae in a biological specimen.",
+            "identifier": "C179762",
+            "notation": "SAG",
+            "pref_label": "Streptococcus agalactiae Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C179762"
+        },
+        {
+            "alt_label": "Streptococcus agalactiae Antigen;Streptococcus Group B Antigen",
+            "definition": "A measurement of the Streptococcus agalactiae antigen in a biological specimen.",
+            "identifier": "C154824",
+            "notation": "SAGAG",
+            "pref_label": "Streptococcus agalactiae Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154824"
+        },
+        {
+            "alt_label": "Salmonella",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Salmonella genus level in a biological specimen.",
+            "identifier": "C181460",
+            "notation": "SALMONEL",
+            "pref_label": "Salmonella Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C181460"
+        },
+        {
+            "alt_label": "SARS-CoV-1/SARS-CoV-2 Antigen",
+            "definition": "A measurement of the antigens from SARS-CoV-1 and/or SARS-CoV-2 in a biological specimen.",
+            "identifier": "C174327",
+            "notation": "SAR12AG",
+            "pref_label": "SARS-CoV-1/SARS-CoV-2 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C174327"
+        },
+        {
+            "alt_label": "SARS-CoV-2 Antibody",
+            "definition": "A measurement of the SARS-CoV-2 antibody in a biological specimen.",
+            "identifier": "C171439",
+            "notation": "SAR2AB",
+            "pref_label": "Severe Acute Respiratory Syndrome Coronavirus 2 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C171439"
+        },
+        {
+            "alt_label": "SARS-CoV-2 Antigen",
+            "definition": "A measurement of the SARS-CoV-2 antigen in a biological specimen.",
+            "identifier": "C176327",
+            "notation": "SAR2AG",
+            "pref_label": "SARS-CoV-2 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C176327"
+        },
+        {
+            "alt_label": "SARS-CoV-2 IgA Antibody",
+            "definition": "A measurement of the SARS-CoV-2 IgA antibody in a biological specimen.",
+            "identifier": "C171527",
+            "notation": "SAR2IGA",
+            "pref_label": "SARS-CoV-2 IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C171527"
+        },
+        {
+            "alt_label": "SARS-CoV-2 IgA/IgM Antibody",
+            "definition": "A measurement of the SARS-CoV-2 IgA and/or IgM antibody in a biological specimen.",
+            "identifier": "C174326",
+            "notation": "SAR2IGAM",
+            "pref_label": "SARS-CoV-2 IgA/IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C174326"
+        },
+        {
+            "alt_label": "SARS-CoV-2 IgG Antibody",
+            "definition": "A measurement of the SARS-CoV-2 IgG antibody in a biological specimen.",
+            "identifier": "C171528",
+            "notation": "SAR2IGG",
+            "pref_label": "SARS-CoV-2 IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C171528"
+        },
+        {
+            "alt_label": "SARS-CoV-2 IgG/IgM Antibody",
+            "definition": "A measurement of the SARS-CoV-2 IgG and/or IgM antibody in a biological specimen.",
+            "identifier": "C171529",
+            "notation": "SAR2IGGM",
+            "pref_label": "SARS-CoV-2 IgG and/or IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C171529"
+        },
+        {
+            "alt_label": "SARS-CoV-2 IgM Antibody",
+            "definition": "A measurement of the SARS-CoV-2 IgM antibody in a biological specimen.",
+            "identifier": "C171530",
+            "notation": "SAR2IGM",
+            "pref_label": "SARS-CoV-2 IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C171530"
+        },
+        {
+            "alt_label": "SARS-CoV-2 IgM/IgA/IgG Antibody",
+            "definition": "A measurement of the SARS-CoV-2 IgM, IgA and/or IgG antibody in a biological specimen.",
+            "identifier": "C174325",
+            "notation": "SAR2IMAG",
+            "pref_label": "SARS-CoV-2 IgM/IgA/IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C174325"
+        },
+        {
+            "alt_label": "SARS-CoV-2 Neutralizing Antibody",
+            "definition": "A measurement of the SARS-CoV-2 neutralizing antibody in a biological specimen.",
+            "identifier": "C174329",
+            "notation": "SAR2NAB",
+            "pref_label": "SARS-CoV-2 Neutralizing Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C174329"
+        },
+        {
+            "alt_label": "SARS-CoV-2 N Protein Antibody;SARS-CoV-2 Nucleocapsid Protein Antibody",
+            "definition": "A measurement of the SARS-CoV-2 nucleocapsid protein antibody in a biological specimen.",
+            "identifier": "C178005",
+            "notation": "SAR2NPAB",
+            "pref_label": "SARS-CoV-2 Nucleocapsid Protein Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178005"
+        },
+        {
+            "alt_label": "SARS-CoV-2 RNA",
+            "definition": "A measurement of the SARS-CoV-2 RNA in a biological specimen.",
+            "identifier": "C171531",
+            "notation": "SAR2RNA",
+            "pref_label": "SARS-CoV-2 RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C171531"
+        },
+        {
+            "alt_label": "SARS-CoV-2 S Protein Antibody;SARS-CoV-2 Spike Protein Antibody",
+            "definition": "A measurement of the SARS-CoV-2 spike protein antibody in a biological specimen.",
+            "identifier": "C178006",
+            "notation": "SAR2SPAB",
+            "pref_label": "SARS-CoV-2 Spike Protein Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C178006"
+        },
+        {
+            "alt_label": "SARS-related Coronavirus RNA/MERS RNA",
+            "definition": "A measurement of the SARS-related and/or MERS Coronavirus RNA which includes but not limited to SARS-CoV, SARS-CoV-2, other SARS-like Coronavirus, and/or MERS-CoV in a biological specimen.",
+            "identifier": "C174324",
+            "notation": "SARRMRNA",
+            "pref_label": "SARS-related Coronavirus RNA/MERS RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C174324"
+        },
+        {
+            "alt_label": "SARS-CoV;SARS-CoV-1;Severe Acute Respiratory Syndrome-Related Coronavirus",
+            "definition": "A measurement of the severe acute respiratory syndrome-related Coronavirus in a biological specimen.",
+            "identifier": "C174328",
+            "notation": "SARSCOV1",
+            "pref_label": "Severe Acute Respiratory Syndrome-related Coronavirus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C174328"
+        },
+        {
+            "alt_label": "SARS-CoV-2;Severe Acute Resp Syndrome Coronavirus 2;Severe Acute Respiratory Syndrome Coronavirus 2",
+            "definition": "A measurement of the severe acute respiratory syndrome Coronavirus 2 in a biological specimen.",
+            "identifier": "C171532",
+            "notation": "SARSCOV2",
+            "pref_label": "Severe Acute Respiratory Syndrome Coronavirus 2 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C171532"
+        },
+        {
+            "alt_label": "SARS-related Coronavirus RNA",
+            "definition": "A measurement of the SARS-related Coronavirus RNA including but not limited to SARS-CoV, SARS-CoV-2, and/or other SARS-like Coronavirus in a biological specimen.",
+            "identifier": "C174323",
+            "notation": "SARSRRNA",
+            "pref_label": "SARS-related Coronavirus RNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C174323"
+        },
+        {
+            "alt_label": "S. aureus;Staphylococcus aureus",
+            "definition": "A measurement of the Staphylococcus aureus in a biological specimen.",
+            "identifier": "C147460",
+            "notation": "SAUREUS",
+            "pref_label": "Staphylococcus aureus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147460"
+        },
+        {
+            "alt_label": "Salmonella enterica/bongori DNA",
+            "definition": "A measurement of the Salmonella enterica and/or Salmonella bongori DNA in a biological specimen.",
+            "identifier": "C166055",
+            "notation": "SENBODNA",
+            "pref_label": "Salmonella enterica and/or Salmonella bongori DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166055"
+        },
+        {
+            "alt_label": "Serratia",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Serratia genus level in a biological specimen.",
+            "identifier": "C179763",
+            "notation": "SERRATIA",
+            "pref_label": "Serratia Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C179763"
+        },
+        {
+            "alt_label": "Shiga Toxin",
+            "definition": "A measurement of the shiga toxin in a biological specimen.",
+            "identifier": "C184669",
+            "notation": "SHIGATOX",
+            "pref_label": "Shiga Toxin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184669"
+        },
+        {
+            "alt_label": "Shigella DNA",
+            "definition": "A measurement of the DNA from any member of the genus Shigella in a biological specimen.",
+            "identifier": "C184670",
+            "notation": "SHIGDNA",
+            "pref_label": "Shigella DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184670"
+        },
+        {
+            "alt_label": "Shigella",
+            "definition": "A measurement of the organisms that are not assigned to the species level but are assigned to the Shigella genus level in a biological specimen.",
+            "identifier": "C181459",
+            "notation": "SHIGELLA",
+            "pref_label": "Shigella Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C181459"
+        },
+        {
+            "alt_label": "Schistosoma mansoni Antibody",
+            "definition": "A measurement of the Schistosoma mansoni antibody in a biological specimen.",
+            "identifier": "C166056",
+            "notation": "SMAAB",
+            "pref_label": "Schistosoma mansoni Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166056"
+        },
+        {
+            "alt_label": "Streptococcus pneumoniae IgG Antibody",
+            "definition": "A measurement of the Streptococcus pneumoniae IgG antibody in a biological specimen.",
+            "identifier": "C142232",
+            "notation": "SPNAB",
+            "pref_label": "Streptococcus pneumoniae IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C142232"
+        },
+        {
+            "alt_label": "Streptococcus pneumoniae Antigen",
+            "definition": "A measurement of the Streptococcus pneumoniae antigen in a biological specimen.",
+            "identifier": "C122152",
+            "notation": "SPNAG",
+            "pref_label": "Streptococcus pneumoniae Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C122152"
+        },
+        {
+            "alt_label": "Streptococcus pyogenes Antigen",
+            "definition": "A measurement of the Streptococcus pyogenes antigen in a biological specimen.",
+            "identifier": "C154814",
+            "notation": "SPYAG",
+            "pref_label": "Streptococcus pyogenes Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154814"
+        },
+        {
+            "alt_label": "Staphylococcus saprophyticus",
+            "definition": "A measurement of the Staphylococcus saprophyticus in a biological specimen.",
+            "identifier": "C179764",
+            "notation": "SSA",
+            "pref_label": "Staphylococcus saprophyticus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C179764"
+        },
+        {
+            "alt_label": "Stenotrophomonas maltophilia",
+            "definition": "A measurement of the organisms that are assigned to the Stenotrophomonas maltophilia species in a biological specimen.",
+            "identifier": "C139112",
+            "notation": "STENMALT",
+            "pref_label": "Stenotrophomonas maltophilia Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C139112"
+        },
+        {
+            "alt_label": "Strongyloides IgG Antibody",
+            "definition": "A measurement of strongyloides IgG antibody in a biological specimen.",
+            "identifier": "C117858",
+            "notation": "STRIGGAB",
+            "pref_label": "Strongyloides IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C117858"
+        },
+        {
+            "alt_label": "Antistreptolysin O;Streptolysin O Antibody",
+            "definition": "A measurement of Streptolysin O Antibody in a biological specimen.",
+            "identifier": "C92282",
+            "notation": "STRPLOAB",
+            "pref_label": "Streptolysin O Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92282"
+        },
+        {
+            "alt_label": "Toxoplasma gondii IgG Antibody",
+            "definition": "A measurement of the Toxoplasma gondii IgG antibody in a biological specimen.",
+            "identifier": "C139089",
+            "notation": "TGNIGGAB",
+            "pref_label": "Toxoplasma gondii IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C139089"
+        },
+        {
+            "alt_label": "Toxoplasma gondii IgM Antibody",
+            "definition": "A measurement of the Toxoplasma gondii IgM antibody in a biological specimen.",
+            "identifier": "C139090",
+            "notation": "TGNIGMAB",
+            "pref_label": "Toxoplasma gondii IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C139090"
+        },
+        {
+            "alt_label": "Toxoplasma gondii DNA",
+            "definition": "A measurement of the Toxoplasma gondii DNA in a biological specimen.",
+            "identifier": "C184665",
+            "notation": "TGODNA",
+            "pref_label": "Toxoplasma gondii DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184665"
+        },
+        {
+            "alt_label": "Toxoplasma gondii IgG/IgM Antibody",
+            "definition": "A measurement of the Toxoplasma gondii IgG and/or IgM antibody in a biological specimen.",
+            "identifier": "C166057",
+            "notation": "TGOGMAB",
+            "pref_label": "Toxoplasma gondii IgG and/or IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166057"
+        },
+        {
+            "alt_label": "Toxin B-Producing Clostridium difficile",
+            "definition": "A measurement of the toxin B-producing strain of Clostridium difficile in a biological specimen.",
+            "identifier": "C150865",
+            "notation": "TOXBPCDF",
+            "pref_label": "Toxin B-Producing Clostridium difficile Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150865"
+        },
+        {
+            "alt_label": "Toxigenic Clostridium difficile",
+            "definition": "A measurement of the toxigenic strain of Clostridium difficile in a biological specimen.",
+            "identifier": "C150862",
+            "notation": "TOXCDF",
+            "pref_label": "Toxigenic Clostridium difficile Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C150862"
+        },
+        {
+            "alt_label": "Treponema pallidum",
+            "definition": "A measurement of the Treponema pallidum in a biological specimen.",
+            "identifier": "C184647",
+            "notation": "TPA",
+            "pref_label": "Treponema pallidum Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C184647"
+        },
+        {
+            "alt_label": "Treponema pallidum Antibody",
+            "definition": "A measurement of the total Treponema pallidum antibody in a biological specimen.",
+            "identifier": "C132388",
+            "notation": "TPLAB",
+            "pref_label": "Treponema pallidum Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C132388"
+        },
+        {
+            "alt_label": "Trichomonas",
+            "definition": "Examination of a biological specimen to detect the presence of any protozoan belonging to the Trichomonas genus.",
+            "identifier": "C92238",
+            "notation": "TRICH",
+            "pref_label": "Trichomonas Screening",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92238"
+        },
+        {
+            "alt_label": "Trichomonas vaginalis",
+            "definition": "A measurement of the Trichomonas vaginalis in a biological specimen.",
+            "identifier": "C161403",
+            "notation": "TVA",
+            "pref_label": "Trichomonas vaginalis Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C161403"
+        },
+        {
+            "alt_label": "Urease",
+            "definition": "A measurement of the microbial urease enzyme in a biological specimen.",
+            "identifier": "C154825",
+            "notation": "UREASE",
+            "pref_label": "Urease Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C154825"
+        },
+        {
+            "alt_label": "Vaccinia Virus",
+            "definition": "A measurement of the Vaccinia virus in a biological specimen.",
+            "identifier": "C181458",
+            "notation": "VACCINIA",
+            "pref_label": "Vaccinia Virus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C181458"
+        },
+        {
+            "alt_label": "Vibrio cholerae DNA",
+            "definition": "A measurement of the Vibrio cholerae DNA in a biological specimen.",
+            "identifier": "C166058",
+            "notation": "VCHDNA",
+            "pref_label": "Vibrio cholerae DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166058"
+        },
+        {
+            "alt_label": "Varicella Zoster Virus Antibody",
+            "definition": "A measurement of the total varicella zoster virus antibody in a biological specimen.",
+            "identifier": "C117867",
+            "notation": "VZVAB",
+            "pref_label": "Varicella Zoster Virus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C117867"
+        },
+        {
+            "alt_label": "Varicella Zoster Virus IgA Antibody",
+            "definition": "A measurement of the Varicella Zoster virus IgA antibodies in a biological specimen.",
+            "identifier": "C98795",
+            "notation": "VZVIGAAB",
+            "pref_label": "Varicella Zoster Virus IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C98795"
+        },
+        {
+            "alt_label": "Varicella Zoster Virus IgG Antibody",
+            "definition": "A measurement of the Varicella Zoster virus IgG antibodies in a biological specimen.",
+            "identifier": "C98796",
+            "notation": "VZVIGGAB",
+            "pref_label": "Varicella Zoster Virus IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C98796"
+        },
+        {
+            "alt_label": "Varicella Zoster Virus IgM Antibody",
+            "definition": "A measurement of the Varicella Zoster virus IgM antibodies in a biological specimen.",
+            "identifier": "C98797",
+            "notation": "VZVIGMAB",
+            "pref_label": "Varicella Zoster Virus IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C98797"
+        },
+        {
+            "alt_label": "West Nile Virus Antibody",
+            "definition": "A measurement of the west Nile virus antibody in a biological specimen.",
+            "identifier": "C147448",
+            "notation": "WNVAB",
+            "pref_label": "West Nile Virus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147448"
+        },
+        {
+            "alt_label": "Yeast Cells",
+            "definition": "A measurement of the yeast cells present in a biological specimen.",
+            "identifier": "C74664",
+            "notation": "YEAST",
+            "pref_label": "Yeast Cell Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C74664"
+        },
+        {
+            "alt_label": "Budding Yeast;Yeast Budding",
+            "definition": "A measurement of the budding yeast present in a biological specimen.",
+            "identifier": "C106504",
+            "notation": "YEASTBUD",
+            "pref_label": "Budding Yeast Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C106504"
+        },
+        {
+            "alt_label": "Yeast Hyphae",
+            "definition": "A measurement of the yeast hyphae present in a biological specimen.",
+            "identifier": "C92239",
+            "notation": "YEASTHYP",
+            "pref_label": "Yeast Hyphae Screening",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C92239"
+        },
+        {
+            "alt_label": "Yersinia enterocolitica DNA",
+            "definition": "A measurement of the Yersinia enterocolitica DNA in a biological specimen.",
+            "identifier": "C166059",
+            "notation": "YENDNA",
+            "pref_label": "Yersinia enterocolitica DNA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C166059"
+        },
+        {
+            "alt_label": "Yellow Fever Virus Antibody",
+            "definition": "A measurement of the yellow fever virus antibody in a biological specimen.",
+            "identifier": "C147450",
+            "notation": "YFVAB",
+            "pref_label": "Yellow Fever Virus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147450"
+        },
+        {
+            "alt_label": "Zaire Ebolavirus",
+            "definition": "A measurement of the Zaire ebolavirus present in a biological specimen.",
+            "identifier": "C132420",
+            "notation": "ZEBOV",
+            "pref_label": "Zaire Ebolavirus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C132420"
+        },
+        {
+            "alt_label": "Zika Virus Antibody",
+            "definition": "A measurement of the Zika virus antibody in a biological specimen.",
+            "identifier": "C147451",
+            "notation": "ZKVAB",
+            "pref_label": "Zika Virus Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120527-C147451"
+        }
+    ]
+}

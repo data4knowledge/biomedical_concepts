@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "BLCS01-Lost Control of Bladder",
+            "definition": "Bladder Control Scale - During the past 4 weeks, how often have you lost control of your bladder or had an accident?",
+            "identifier": "C113953",
+            "notation": "BLCS0101",
+            "pref_label": "BLCS - Lost Control of Your Bladder",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113852-C113953"
+        },
+        {
+            "alt_label": "BLCS01-Almost Lost Control of Bladder",
+            "definition": "Bladder Control Scale - During the past 4 weeks, how often have you almost lost control of your bladder or had an accident?",
+            "identifier": "C113954",
+            "notation": "BLCS0102",
+            "pref_label": "BLCS - Almost Lost Control of Your Bladder",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113852-C113954"
+        },
+        {
+            "alt_label": "BLCS01-Altered Activity Because Bladder",
+            "definition": "Bladder Control Scale - During the past 4 weeks, how often have you altered your activities because of bladder problems?",
+            "identifier": "C113955",
+            "notation": "BLCS0103",
+            "pref_label": "BLCS - Altered Activities Because Bladder Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113852-C113955"
+        },
+        {
+            "alt_label": "BLCS01-Bladder Restricted Lifestyle",
+            "definition": "Bladder Control Scale - During the past 4 weeks, how much have bladder problems restricted your overall lifestyle?",
+            "identifier": "C113956",
+            "notation": "BLCS0104",
+            "pref_label": "BLCS - Bladder Problems Restrict Overall Lifestyle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113852-C113956"
+        }
+    ]
+}

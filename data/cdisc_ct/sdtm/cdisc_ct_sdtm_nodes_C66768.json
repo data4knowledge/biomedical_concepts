@@ -1,0 +1,48 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "5;FATAL;Grade 5",
+            "definition": "The termination of life as a result of an adverse event. (NCI)",
+            "identifier": "C48275",
+            "notation": "FATAL",
+            "pref_label": "Death Related to Adverse Event",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66768-C48275"
+        },
+        {
+            "definition": "One of the possible results of an adverse event outcome that indicates that the event has not improved or recuperated. (NCI)",
+            "identifier": "C49494",
+            "notation": "NOT RECOVERED/NOT RESOLVED",
+            "pref_label": "Not Recovered from Adverse Event",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66768-C49494"
+        },
+        {
+            "definition": "One of the possible results of an adverse event outcome where the subject recuperated but retained pathological conditions resulting from the prior disease or injury. (NCI)",
+            "identifier": "C49495",
+            "notation": "RECOVERED/RESOLVED WITH SEQUELAE",
+            "pref_label": "Recovered from Adverse Event with Sequelae",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66768-C49495"
+        },
+        {
+            "definition": "One of the possible results of an adverse event outcome that indicates that the event has improved or recuperated. (NCI)",
+            "identifier": "C49498",
+            "notation": "RECOVERED/RESOLVED",
+            "pref_label": "Recovered from Adverse Event",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66768-C49498"
+        },
+        {
+            "definition": "One of the possible results of an adverse event outcome that indicates that the event is improving. (NCI)",
+            "identifier": "C49496",
+            "notation": "RECOVERING/RESOLVING",
+            "pref_label": "Recovering or Resolving",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66768-C49496"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66768-C17998"
+        }
+    ]
+}

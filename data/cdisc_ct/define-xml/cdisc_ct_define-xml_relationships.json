@@ -1,0 +1,67 @@
+{
+    "FROM_SOURCE": [
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/source/cdisc/ct/define-xml"
+        }
+    ],
+    "SKOS_HAS_TOP_CONCEPT": [
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C165635"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C177903"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C176227"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C117745"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C117744"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C172331"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170448"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170450"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170452"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C172332"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170451"
+        }
+    ],
+    "SKOS_NARROWER": []
+}

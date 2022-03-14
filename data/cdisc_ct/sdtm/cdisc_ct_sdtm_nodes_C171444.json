@@ -1,0 +1,150 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The subject or patient has interacted with a healthcare professional at a cardiac catheterization unit.",
+            "identifier": "C171501",
+            "notation": "CARDIAC CATHETERIZATION LABORATORY VISIT",
+            "pref_label": "Cardiac Catheterization Laboratory Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171501"
+        },
+        {
+            "alt_label": "CICU Stay;Coronary Intensive Care Unit Stay",
+            "definition": "The subject or patient has been admitted as an inpatient to a cardiac intensive care unit.",
+            "identifier": "C171502",
+            "notation": "CARDIAC INTENSIVE CARE UNIT STAY",
+            "pref_label": "Cardiac Intensive Care Unit Stay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171502"
+        },
+        {
+            "definition": "The subject or patient has interacted with a healthcare professional at a cardiology unit.",
+            "identifier": "C177950",
+            "notation": "CARDIOLOGY UNIT VISIT",
+            "pref_label": "Cardiology Unit Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C177950"
+        },
+        {
+            "definition": "The subject or patient has interacted with a dietary specialist.",
+            "identifier": "C177948",
+            "notation": "DIETARY SPECIALIST VISIT",
+            "pref_label": "Dietary Specialist Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C177948"
+        },
+        {
+            "definition": "The subject or patient has interacted with a healthcare professional at an emergency room.",
+            "identifier": "C176294",
+            "notation": "EMERGENCY ROOM VISIT",
+            "pref_label": "Emergency Room Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C176294"
+        },
+        {
+            "alt_label": "General Medical Unit Stay",
+            "definition": "The subject or patient has been admitted as an inpatient to a general medical unit of a hospital.",
+            "identifier": "C171509",
+            "notation": "GENERAL WARD STAY",
+            "pref_label": "General Ward Stay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171509"
+        },
+        {
+            "definition": "The subject or patient has interacted with a healthcare professional.",
+            "identifier": "C177947",
+            "notation": "HEALTHCARE PROFESSIONAL VISIT",
+            "pref_label": "Healthcare Professional Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C177947"
+        },
+        {
+            "definition": "The subject or patient has interacted with a healthcare professional within a residence.",
+            "identifier": "C184507",
+            "notation": "HOME HEALTHCARE VISIT",
+            "pref_label": "Home Healthcare Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C184507"
+        },
+        {
+            "alt_label": "Inpatient Hospital Stay;Inpatient Hospitalization",
+            "definition": "The subject or patient has been admitted as an inpatient to a hospital.",
+            "identifier": "C171453",
+            "notation": "HOSPITAL STAY",
+            "pref_label": "Hospital Stay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171453"
+        },
+        {
+            "alt_label": "ICU Stay",
+            "definition": "The subject or patient has been admitted as an inpatient to a intensive care unit.",
+            "identifier": "C171454",
+            "notation": "INTENSIVE CARE UNIT STAY",
+            "pref_label": "Intensive Care Unit Stay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171454"
+        },
+        {
+            "definition": "The subject or patient has interacted with a mental health specialist.",
+            "identifier": "C177949",
+            "notation": "MENTAL HEALTH SPECIALIST VISIT",
+            "pref_label": "Mental Health Specialist Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C177949"
+        },
+        {
+            "alt_label": "Neuro-ICU Stay;Neuro-Trauma ICU Stay",
+            "definition": "The subject or patient has been admitted as an inpatient to a neuro-intensive care unit.",
+            "identifier": "C171517",
+            "notation": "NEURO INTENSIVE CARE UNIT STAY",
+            "pref_label": "Neuro Intensive Care Unit Stay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171517"
+        },
+        {
+            "definition": "The subject or patient has been admitted as an inpatient to a nursing home.",
+            "identifier": "C171518",
+            "notation": "NURSING HOME STAY",
+            "pref_label": "Nursing Home Stay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171518"
+        },
+        {
+            "definition": "The subject or patient has interacted with a healthcare professional at a physical therapy facility.",
+            "identifier": "C171520",
+            "notation": "PHYSICAL THERAPY FACILITY VISIT",
+            "pref_label": "Physical Therapy Facility Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171520"
+        },
+        {
+            "definition": "The subject or patient has interacted with a primary care physician.",
+            "identifier": "C176292",
+            "notation": "PRIMARY CARE PHYSICIAN'S OFFICE VISIT",
+            "pref_label": "Primary Care Physician's Office Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C176292"
+        },
+        {
+            "definition": "The subject or patient has been admitted as an inpatient to a psychiatric ward.",
+            "identifier": "C171522",
+            "notation": "PSYCHIATRIC WARD STAY",
+            "pref_label": "Psychiatric Ward Stay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171522"
+        },
+        {
+            "definition": "The subject or patient has been admitted as an inpatient to a rehabilitation facility.",
+            "identifier": "C171523",
+            "notation": "REHABILITATION FACILITY STAY",
+            "pref_label": "Rehabilitation Facility Stay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171523"
+        },
+        {
+            "definition": "The subject or patient has been admitted as an inpatient to a skilled nursing facility.",
+            "identifier": "C171534",
+            "notation": "SKILLED NURSING FACILITY STAY",
+            "pref_label": "Skilled Nursing Facility Stay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171534"
+        },
+        {
+            "definition": "The subject or patient has interacted with a specialty care physician.",
+            "identifier": "C176293",
+            "notation": "SPECIALTY CARE PHYSICIAN'S OFFICE VISIT",
+            "pref_label": "Specialty Care Physician's Office Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C176293"
+        },
+        {
+            "alt_label": "SICU Stay",
+            "definition": "The subject or patient has been admitted as an inpatient to a surgical intensive care unit.",
+            "identifier": "C171535",
+            "notation": "SURGICAL INTENSIVE CARE UNIT STAY",
+            "pref_label": "Surgical Intensive Care Unit Stay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171444-C171535"
+        }
+    ]
+}

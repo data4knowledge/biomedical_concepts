@@ -1,0 +1,40 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "There are no indicators of bacterial infection in an individual who previously had an infection.",
+            "identifier": "C102600",
+            "notation": "BACTERIOLOGICAL CURE",
+            "pref_label": "Bacteriological Cure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102578-C102600"
+        },
+        {
+            "definition": "There are indicators of bacterial infection in the individual who previously had an infection.",
+            "identifier": "C102601",
+            "notation": "BACTERIOLOGICAL FAILURE",
+            "pref_label": "Bacteriological Failure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102578-C102601"
+        },
+        {
+            "definition": "There are no signs or symptoms of disease in the individual who previously had a disease.",
+            "identifier": "C102607",
+            "notation": "CLINICAL CURE",
+            "pref_label": "Clinical Cure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102578-C102607"
+        },
+        {
+            "definition": "There are still signs or symptoms of disease in the individual who previously had an infection.",
+            "identifier": "C102608",
+            "notation": "CLINICAL FAILURE",
+            "pref_label": "Clinical Failure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102578-C102608"
+        },
+        {
+            "alt_label": "Recurrent Disease",
+            "definition": "The return of a disease after a period of remission.",
+            "identifier": "C38155",
+            "notation": "RECURRENT DISEASE",
+            "pref_label": "Recurrent Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102578-C38155"
+        }
+    ]
+}

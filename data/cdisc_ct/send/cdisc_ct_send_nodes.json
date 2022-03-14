@@ -1,0 +1,1252 @@
+{
+    "API_SOURCE": [
+        {
+            "uri": "http://id.d4k.dk/dataset/source/cdisc/ct/send",
+            "url": "https://api.library.cdisc.org/api/mdr/ct/packages/sendct-2021-12-17"
+        }
+    ],
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Age Estimation Method Response",
+            "definition": "Terminology related to the method by which the age of an individual is determined through estimation.",
+            "extensible": "true",
+            "identifier": "C158118",
+            "label": "Age Estimation Method Response",
+            "notation": "AGESMETH",
+            "pref_label": "CDISC SEND Age Estimation Method Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158118"
+        },
+        {
+            "alt_label": "Age Unit",
+            "definition": "Those units of time that are routinely used to express the age of a subject.",
+            "extensible": "false",
+            "identifier": "C66781",
+            "label": "Age Unit",
+            "notation": "AGEU",
+            "pref_label": "CDISC SDTM Age Unit Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66781"
+        },
+        {
+            "alt_label": "Anatomical Location",
+            "definition": "Terminology codelist used for anatomical location within CDISC.",
+            "extensible": "true",
+            "identifier": "C74456",
+            "label": "Anatomical Location",
+            "notation": "LOC",
+            "pref_label": "CDISC SDTM Anatomical Location Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C74456"
+        },
+        {
+            "alt_label": "Biological Challenge Agent Category Response",
+            "definition": "Terminology related to classifications that describe and group the biological challenge agent.",
+            "extensible": "true",
+            "identifier": "C158119",
+            "label": "Biological Challenge Agent Category Response",
+            "notation": "BACAT",
+            "pref_label": "CDISC SEND Biological Challenge Agent Category Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158119"
+        },
+        {
+            "alt_label": "Body Irradiation Model Response",
+            "definition": "Terminology related to the body irradiation model used in the study.",
+            "extensible": "true",
+            "identifier": "C160927",
+            "label": "Body Irradiation Model Response",
+            "notation": "BIRRMRS",
+            "pref_label": "CDISC SEND Body Irradiation Model Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160927"
+        },
+        {
+            "alt_label": "Body System",
+            "definition": "The terminology that includes concepts relevant to anatomical structure that consists of organs and organ subclasses responsible for certain body functions.",
+            "extensible": "true",
+            "identifier": "C88026",
+            "label": "Body System",
+            "notation": "BODSYS",
+            "pref_label": "CDISC SEND Body System Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88026"
+        },
+        {
+            "alt_label": "Body Weight Gain Test Code",
+            "definition": "Terminology for the test codes concerned with the increase in overall body mass.",
+            "extensible": "true",
+            "identifier": "C89960",
+            "label": "Body Weight Gain Test Code",
+            "notation": "BGTESTCD",
+            "pref_label": "CDISC SEND Body Weight Gain Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89960"
+        },
+        {
+            "alt_label": "Body Weight Gain Test Name",
+            "definition": "Terminology for the test names concerned with the increase in overall body mass.",
+            "extensible": "true",
+            "identifier": "C89959",
+            "label": "Body Weight Gain Test Name",
+            "notation": "BGTEST",
+            "pref_label": "CDISC SEND Body Weight Gain Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89959"
+        },
+        {
+            "alt_label": "Body Weight Test Code",
+            "definition": "Terminology for the test codes concerned with the measurement of body mass.",
+            "extensible": "true",
+            "identifier": "C89962",
+            "label": "Body Weight Test Code",
+            "notation": "BWTESTCD",
+            "pref_label": "CDISC SEND Body Weight Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89962"
+        },
+        {
+            "alt_label": "Body Weight Test Name",
+            "definition": "Terminology for the test names concerned with the measurement of body mass.",
+            "extensible": "true",
+            "identifier": "C89961",
+            "label": "Body Weight Test Name",
+            "notation": "BWTEST",
+            "pref_label": "CDISC SEND Body Weight Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89961"
+        },
+        {
+            "alt_label": "Category for Clinical Observation",
+            "definition": "Terminology related to classifications that describe and group clinical observations.",
+            "extensible": "true",
+            "identifier": "C89963",
+            "label": "Category for Clinical Observation",
+            "notation": "CLCAT",
+            "pref_label": "CDISC SEND Category for Clinical Observation Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89963"
+        },
+        {
+            "alt_label": "CDISC Define-XML Specification Version",
+            "definition": "Terminology related to the version of the Define-XML specification that is in use for the study.",
+            "extensible": "true",
+            "identifier": "C177911",
+            "label": "CDISC Define-XML Specification Version",
+            "notation": "DFXMLVER",
+            "pref_label": "CDISC Define-XML Specification Version Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C177911"
+        },
+        {
+            "alt_label": "Challenge Agent Category Response",
+            "definition": "Terminology related to classifications that describe and group the challenge agent.",
+            "extensible": "true",
+            "identifier": "C158120",
+            "label": "Challenge Agent Category Response",
+            "notation": "CAGTCAT",
+            "pref_label": "CDISC SEND Challenge Agent Category Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158120"
+        },
+        {
+            "alt_label": "Challenge Agent Parameter Code",
+            "definition": "Terminology related to the parameter codes of the challenge agent characteristics within a study.",
+            "extensible": "true",
+            "identifier": "C158116",
+            "label": "Challenge Agent Parameter Code",
+            "notation": "ACPARMCD",
+            "pref_label": "CDISC SEND Challenge Agent Parameter Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116"
+        },
+        {
+            "alt_label": "Challenge Agent Parameter Long Name",
+            "definition": "Terminology related to the parameter names of the challenge agent characteristics within a study.",
+            "extensible": "true",
+            "identifier": "C158117",
+            "label": "Challenge Agent Parameter Long Name",
+            "notation": "ACPARM",
+            "pref_label": "CDISC SEND Challenge Agent Parameter Long Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158117"
+        },
+        {
+            "alt_label": "Chemical Challenge Agent Name Response",
+            "definition": "Terminology related to the names of chemical challenge agents.",
+            "extensible": "true",
+            "identifier": "C160930",
+            "label": "Chemical Challenge Agent Name Response",
+            "notation": "CHAGNAMR",
+            "pref_label": "CDISC SEND Chemical Challenge Agent Name Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160930"
+        },
+        {
+            "alt_label": "Chronicity",
+            "definition": "Terminology relevant to the relative duration of a finding.",
+            "extensible": "true",
+            "identifier": "C120529",
+            "label": "Chronicity",
+            "notation": "CHRNCTY",
+            "pref_label": "CDISC SEND Chronicity Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120529"
+        },
+        {
+            "alt_label": "Consciousness State",
+            "definition": "Terminology related to the sense of awareness of self and of the environment.",
+            "extensible": "true",
+            "identifier": "C90018",
+            "label": "Consciousness State",
+            "notation": "CSTATE",
+            "pref_label": "CDISC SEND Consciousness State Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90018"
+        },
+        {
+            "alt_label": "Country",
+            "definition": "A collective generic term that refers here to a wide variety of dependencies, areas of special sovereignty, uninhabited islands, and other entities in addition to the traditional countries or independent states. (NCI)",
+            "extensible": "false",
+            "identifier": "C66786",
+            "label": "Country",
+            "notation": "COUNTRY",
+            "pref_label": "CDISC SEND Country Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66786"
+        },
+        {
+            "alt_label": "Death Diagnosis Test Code",
+            "definition": "Terminology for the test codes concerned with the circumstance or condition that results in the death of a living being.",
+            "extensible": "false",
+            "identifier": "C89966",
+            "label": "Death Diagnosis Test Code",
+            "notation": "DDTESTCD",
+            "pref_label": "CDISC SEND Death Diagnosis Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89966"
+        },
+        {
+            "alt_label": "Death Diagnosis Test Name",
+            "definition": "Terminology for the test names concerned with the circumstance or condition that results in the death of a living being.",
+            "extensible": "false",
+            "identifier": "C89965",
+            "label": "Death Diagnosis Test Name",
+            "notation": "DDTEST",
+            "pref_label": "CDISC SEND Death Diagnosis Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89965"
+        },
+        {
+            "alt_label": "Directionality",
+            "definition": "CDISC terminology for anatomical location or specimen further detailing directionality.",
+            "extensible": "true",
+            "identifier": "C99074",
+            "label": "Directionality",
+            "notation": "DIR",
+            "pref_label": "CDISC SDTM Directionality Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C99074"
+        },
+        {
+            "alt_label": "Distribution",
+            "definition": "Terminology relevant to the distribution of a finding within a specimen.",
+            "extensible": "true",
+            "identifier": "C120530",
+            "label": "Distribution",
+            "notation": "DSTRBN",
+            "pref_label": "CDISC SEND Distribution Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120530"
+        },
+        {
+            "alt_label": "ECG Lead",
+            "definition": "Terminology related to electrocardiogram lead names.",
+            "extensible": "true",
+            "identifier": "C90013",
+            "label": "ECG Lead",
+            "notation": "EGLEAD",
+            "pref_label": "CDISC SDTM Electrocardiogram Lead Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90013"
+        },
+        {
+            "alt_label": "ECG Result",
+            "definition": "Terminology codelist used with ECG Findings and Abnormalities within CDISC.",
+            "extensible": "true",
+            "identifier": "C71150",
+            "label": "ECG Result",
+            "notation": "EGSTRESC",
+            "pref_label": "CDISC SDTM ECG Finding Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150"
+        },
+        {
+            "alt_label": "ECG Test Code",
+            "definition": "Terminology codelist used with ECG Tests within CDISC.",
+            "extensible": "true",
+            "identifier": "C71153",
+            "label": "ECG Test Code",
+            "notation": "EGTESTCD",
+            "pref_label": "CDISC SDTM ECG Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71153"
+        },
+        {
+            "alt_label": "ECG Test Method",
+            "definition": "Terminology codelist used with ECG Test Methods within CDISC.",
+            "extensible": "true",
+            "identifier": "C71151",
+            "label": "ECG Test Method",
+            "notation": "EGMETHOD",
+            "pref_label": "CDISC SDTM ECG Test Method Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151"
+        },
+        {
+            "alt_label": "ECG Test Name",
+            "definition": "Terminology codelist used with ECG Test Names within CDISC.",
+            "extensible": "true",
+            "identifier": "C71152",
+            "label": "ECG Test Name",
+            "notation": "EGTEST",
+            "pref_label": "CDISC SDTM ECG Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71152"
+        },
+        {
+            "alt_label": "Expected Onset of Rad/Nuc Targeted Injury Response",
+            "definition": "Terminology related to the relative timing of the expected onset of the targeted injury, with respect to rad/nuc challenge agent exposure.",
+            "extensible": "true",
+            "identifier": "C160929",
+            "label": "Expected Onset of Rad/Nuc Targeted Injury Response",
+            "notation": "EORNTI",
+            "pref_label": "CDISC SEND Expected Onset of Rad/Nuc Targeted Injury Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160929"
+        },
+        {
+            "alt_label": "Fetal Measurement Test Code",
+            "definition": "Terminology for the test code relevant to fetal measurements.",
+            "extensible": "true",
+            "identifier": "C124311",
+            "label": "Fetal Measurement Test Code",
+            "notation": "FMTESTCD",
+            "pref_label": "CDISC SEND Fetal Measurement Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124311"
+        },
+        {
+            "alt_label": "Fetal Measurement Test Name",
+            "definition": "Terminology for the test name relevant to fetal measurements.",
+            "extensible": "true",
+            "identifier": "C124312",
+            "label": "Fetal Measurement Test Name",
+            "notation": "FMTEST",
+            "pref_label": "CDISC SEND Fetal Measurement Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124312"
+        },
+        {
+            "alt_label": "Fetal Pathology Findings Result",
+            "definition": "Terminology relevant to the results for fetal gross pathological findings.",
+            "extensible": "true",
+            "identifier": "C124310",
+            "label": "Fetal Pathology Findings Result",
+            "notation": "FXFINDRS",
+            "pref_label": "CDISC SEND Fetal Pathology Findings Result Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310"
+        },
+        {
+            "alt_label": "Fetal Pathology Findings Result Category",
+            "definition": "Terminology relevant to the classifications of the results for fetal pathology findings.",
+            "extensible": "true",
+            "identifier": "C124313",
+            "label": "Fetal Pathology Findings Result Category",
+            "notation": "FXRESCAT",
+            "pref_label": "CDISC SEND Fetal Pathology Findings Result Category Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124313"
+        },
+        {
+            "alt_label": "Fetal Pathology Findings Test Code",
+            "definition": "Terminology for the test codes relevant to fetal pathology findings.",
+            "extensible": "true",
+            "identifier": "C124314",
+            "label": "Fetal Pathology Findings Test Code",
+            "notation": "FXTESTCD",
+            "pref_label": "CDISC SEND Fetal Pathology Findings Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124314"
+        },
+        {
+            "alt_label": "Fetal Pathology Findings Test Name",
+            "definition": "Terminology for the test names relevant to fetal pathology findings.",
+            "extensible": "true",
+            "identifier": "C124315",
+            "label": "Fetal Pathology Findings Test Name",
+            "notation": "FXTEST",
+            "pref_label": "CDISC SEND Fetal Pathology Findings Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124315"
+        },
+        {
+            "alt_label": "Food and Water Consumption Test Code",
+            "definition": "Terminology for the test codes concerned with the subject's consumption of food and/or water.",
+            "extensible": "true",
+            "identifier": "C89970",
+            "label": "Food and Water Consumption Test Code",
+            "notation": "FWTESTCD",
+            "pref_label": "CDISC SEND Food and Water Consumption Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89970"
+        },
+        {
+            "alt_label": "Food and Water Consumption Test Name",
+            "definition": "Terminology for the test names concerned with the subject's consumption of food and/or water.",
+            "extensible": "true",
+            "identifier": "C89969",
+            "label": "Food and Water Consumption Test Name",
+            "notation": "FWTEST",
+            "pref_label": "CDISC SEND Food and Water Consumption Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89969"
+        },
+        {
+            "alt_label": "Frequency",
+            "definition": "The terminology that includes terms pertaining to frequency within CDISC.",
+            "extensible": "true",
+            "identifier": "C71113",
+            "label": "Frequency",
+            "notation": "FREQ",
+            "pref_label": "CDISC SDTM Frequency Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71113"
+        },
+        {
+            "alt_label": "Genus and Species Response",
+            "definition": "Terminology related to taxonomic organism names at the genus, species, or subspecies level.",
+            "extensible": "true",
+            "identifier": "C160931",
+            "label": "Genus and Species Response",
+            "notation": "GENUSSPC",
+            "pref_label": "CDISC SEND Genus and Species Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160931"
+        },
+        {
+            "alt_label": "Implantation Findings Result",
+            "definition": "Terminology relevant to the results for implantation findings.",
+            "extensible": "true",
+            "identifier": "C124317",
+            "label": "Implantation Findings Result",
+            "notation": "ICFINDRS",
+            "pref_label": "CDISC SEND Implantation Findings Result Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124317"
+        },
+        {
+            "alt_label": "Implantation Findings Result Category",
+            "definition": "Terminology relevant to the classifications of the results for implantation classification findings.",
+            "extensible": "true",
+            "identifier": "C124316",
+            "label": "Implantation Findings Result Category",
+            "notation": "ICRESCAT",
+            "pref_label": "CDISC SEND Implantation Findings Result Category Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124316"
+        },
+        {
+            "alt_label": "Implantation Findings Test Code",
+            "definition": "Terminology for the test codes relevant to implantation classifications.",
+            "extensible": "true",
+            "identifier": "C124318",
+            "label": "Implantation Findings Test Code",
+            "notation": "ICTESTCD",
+            "pref_label": "CDISC SEND Implantation Findings Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124318"
+        },
+        {
+            "alt_label": "Implantation Findings Test Name",
+            "definition": "Terminology for the test names relevant to implantation classifications.",
+            "extensible": "true",
+            "identifier": "C124319",
+            "label": "Implantation Findings Test Name",
+            "notation": "ICTEST",
+            "pref_label": "CDISC SEND Implantation Findings Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124319"
+        },
+        {
+            "alt_label": "Irradiation Field Orientation/Sequence Response",
+            "definition": "Terminology relevant to the description of the irradiation field as it pertains to orientation to the body and, when appropriate, the sequencing of exposure(s).",
+            "extensible": "true",
+            "identifier": "C163029",
+            "label": "Irradiation Field Orientation/Sequence Response",
+            "notation": "IRORSEQR",
+            "pref_label": "CDISC SEND Irradiation Field Orientation/Sequence Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C163029"
+        },
+        {
+            "alt_label": "Laboratory Test Code",
+            "definition": "Terminology used for laboratory test codes of the CDISC Study Data Tabulation Model.",
+            "extensible": "true",
+            "identifier": "C65047",
+            "label": "Laboratory Test Code",
+            "notation": "LBTESTCD",
+            "pref_label": "CDISC SDTM Laboratory Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C65047"
+        },
+        {
+            "alt_label": "Laboratory Test Name",
+            "definition": "Terminology used for laboratory test names of the CDISC Study Data Tabulation Model.",
+            "extensible": "true",
+            "identifier": "C67154",
+            "label": "Laboratory Test Name",
+            "notation": "LBTEST",
+            "pref_label": "CDISC SDTM Laboratory Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67154"
+        },
+        {
+            "alt_label": "Laterality",
+            "definition": "CDISC terminology for anatomical location or specimen further detailing the side(s) of interest.",
+            "extensible": "true",
+            "identifier": "C99073",
+            "label": "Laterality",
+            "notation": "LAT",
+            "pref_label": "CDISC SDTM Laterality Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C99073"
+        },
+        {
+            "alt_label": "Macroscopic Findings Test Code",
+            "definition": "Terminology for the test codes concerned with the findings from a specimen that are visible to the naked eye.",
+            "extensible": "true",
+            "identifier": "C89972",
+            "label": "Macroscopic Findings Test Code",
+            "notation": "MATESTCD",
+            "pref_label": "CDISC SEND Macroscopic Findings Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89972"
+        },
+        {
+            "alt_label": "Macroscopic Findings Test Name",
+            "definition": "Terminology for the test names concerned with the findings from a specimen that are visible to the naked eye.",
+            "extensible": "true",
+            "identifier": "C89971",
+            "label": "Macroscopic Findings Test Name",
+            "notation": "MATEST",
+            "pref_label": "CDISC SEND Macroscopic Findings Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89971"
+        },
+        {
+            "alt_label": "Method of Termination",
+            "definition": "Terminology related to the method by which an experimental organism is euthanized. This includes events that occur as a step in the induction of death.",
+            "extensible": "true",
+            "identifier": "C89975",
+            "label": "Method of Termination",
+            "notation": "MTHTRM",
+            "pref_label": "CDISC SEND Method of Termination Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975"
+        },
+        {
+            "alt_label": "Microscopic Histopathology Result Category",
+            "definition": "Terminology related to the classifications of the results from a microscopic histopathological analysis.",
+            "extensible": "true",
+            "identifier": "C90017",
+            "label": "Microscopic Histopathology Result Category",
+            "notation": "MIRESCAT",
+            "pref_label": "CDISC SEND Microscopic Histopathology Result Category Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90017"
+        },
+        {
+            "alt_label": "Microscopy Sexual Maturity Status",
+            "definition": "Terminology related to the sexual maturity status determined by qualitative microscopic evaluation.",
+            "extensible": "false",
+            "identifier": "C176226",
+            "label": "Microscopy Sexual Maturity Status",
+            "notation": "MISXMAT",
+            "pref_label": "CDISC SEND Microscopy Sexual Maturity Status Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C176226"
+        },
+        {
+            "alt_label": "Neoplasm Type",
+            "definition": "The terminology that includes concepts relevant to benign or malignant tissue growth.",
+            "extensible": "true",
+            "identifier": "C88025",
+            "label": "Neoplasm Type",
+            "notation": "NEOPLASM",
+            "pref_label": "CDISC SEND Tumor Findings Results Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025"
+        },
+        {
+            "alt_label": "Neoplastic Status",
+            "definition": "Terminology related to the classifications of the results from a histopathological analysis of a tumor.",
+            "extensible": "false",
+            "identifier": "C90004",
+            "label": "Neoplastic Status",
+            "notation": "NEOSTAT",
+            "pref_label": "CDISC SEND Tumor Findings Histopathology Result Category Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90004"
+        },
+        {
+            "alt_label": "No Yes Response",
+            "definition": "A term that is used to indicate a question with permissible values of yes/no/unknown/not applicable.",
+            "extensible": "false",
+            "identifier": "C66742",
+            "label": "No Yes Response",
+            "notation": "NY",
+            "pref_label": "CDISC SDTM Yes No Unknown or Not Applicable Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66742"
+        },
+        {
+            "alt_label": "Non-Neoplastic Finding Type",
+            "definition": "The terminology that includes concepts relevant to non-neoplastic microscopic findings.",
+            "extensible": "true",
+            "identifier": "C120531",
+            "label": "Non-Neoplastic Finding Type",
+            "notation": "NONNEO",
+            "pref_label": "CDISC SEND Non-Neoplastic Finding Type Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531"
+        },
+        {
+            "alt_label": "Nonclinical DART Sex",
+            "definition": "Terminology related to the determination of fetal sex in Developmental and Reproductive Toxicology (DART) studies.",
+            "extensible": "false",
+            "identifier": "C124320",
+            "label": "Nonclinical DART Sex",
+            "notation": "NCDSEX",
+            "pref_label": "CDISC SEND Nonclinical DART Sex Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124320"
+        },
+        {
+            "alt_label": "Nonclinical DART Trial Phases",
+            "definition": "Terminology related to intervals of time associated with the defined phases of Developmental and Reproductive Toxicology (DART) studies.",
+            "extensible": "true",
+            "identifier": "C124321",
+            "label": "Nonclinical DART Trial Phases",
+            "notation": "NCDPHASE",
+            "pref_label": "CDISC SEND Nonclinical DART Trial Phases Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124321"
+        },
+        {
+            "alt_label": "Not Done",
+            "definition": "Indicates a task, process or examination that has either not been initiated or completed. (NCI)",
+            "extensible": "false",
+            "identifier": "C66789",
+            "label": "Not Done",
+            "notation": "ND",
+            "pref_label": "CDISC SDTM Not Done Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66789"
+        },
+        {
+            "alt_label": "Null Flavor Reason",
+            "definition": "Terminology relevant to the reason for why a data value is not present.",
+            "extensible": "true",
+            "identifier": "C150810",
+            "label": "Null Flavor Reason",
+            "notation": "NULLFLAV",
+            "pref_label": "CDISC SEND Null Flavor Reason Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810"
+        },
+        {
+            "alt_label": "Organ Measurement Test Code",
+            "definition": "Terminology for the test codes concerned with the measurement of organs.",
+            "extensible": "true",
+            "identifier": "C89977",
+            "label": "Organ Measurement Test Code",
+            "notation": "OMTESTCD",
+            "pref_label": "CDISC SEND Organ Measurement Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89977"
+        },
+        {
+            "alt_label": "Organ Measurement Test Name",
+            "definition": "Terminology for the test names concerned with the measurement of organs.",
+            "extensible": "true",
+            "identifier": "C89976",
+            "label": "Organ Measurement Test Name",
+            "notation": "OMTEST",
+            "pref_label": "CDISC SEND Organ Measurement Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89976"
+        },
+        {
+            "alt_label": "Pharmaceutical Dosage Form",
+            "definition": "The form of the completed pharmaceutical product, e.g. tablet, capsule, injection, elixir, suppository. Dosage form can have a significant effect on the onset, duration and intensity of the pharmacological action of a drug. A pharmaceutical dosage form controls the rate at which the drug is released into the biological fluids. This release rate affects its intrinsic absorption pattern and therefore, the bioavailability of the drug.",
+            "extensible": "true",
+            "identifier": "C66726",
+            "label": "Pharmaceutical Dosage Form",
+            "notation": "FRM",
+            "pref_label": "CDISC SDTM Pharmaceutical Dosage Form Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66726"
+        },
+        {
+            "alt_label": "Physical Properties Test Code",
+            "definition": "Terminology relevant to the test codes that describe the physical characteristics of an entity.",
+            "extensible": "true",
+            "identifier": "C95121",
+            "label": "Physical Properties Test Code",
+            "notation": "PHSPRPCD",
+            "pref_label": "CDISC SDTM Physical Properties Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C95121"
+        },
+        {
+            "alt_label": "Physical Properties Test Name",
+            "definition": "Terminology relevant to the test names that describe the physical characteristics of an entity.",
+            "extensible": "true",
+            "identifier": "C95120",
+            "label": "Physical Properties Test Name",
+            "notation": "PHSPRP",
+            "pref_label": "CDISC SDTM Physical Properties Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C95120"
+        },
+        {
+            "alt_label": "PK Parameters",
+            "definition": "Parameters used to describe the time-concentration curve.",
+            "extensible": "true",
+            "identifier": "C85493",
+            "label": "PK Parameters",
+            "notation": "PKPARM",
+            "pref_label": "CDISC SDTM Pharmacokinetic Parameter Long Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493"
+        },
+        {
+            "alt_label": "PK Parameters Code",
+            "definition": "Parameter codes used to describe the time-concentration curve.",
+            "extensible": "true",
+            "identifier": "C85839",
+            "label": "PK Parameters Code",
+            "notation": "PKPARMCD",
+            "pref_label": "CDISC SDTM Pharmacokinetic Parameter Short Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85839"
+        },
+        {
+            "alt_label": "PK Units of Measure",
+            "definition": "Units of measure for pharmacokinetic data and parameters.",
+            "extensible": "true",
+            "identifier": "C85494",
+            "label": "PK Units of Measure",
+            "notation": "PKUNIT",
+            "pref_label": "CDISC SDTM Pharmacokinetic Parameter Unit of Measure Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85494"
+        },
+        {
+            "alt_label": "PK Units of Measure - Dose mg",
+            "definition": "Units of measure for pharmacokinetic parameters normalized by dose amount in milligrams.",
+            "extensible": "true",
+            "identifier": "C128685",
+            "label": "PK Units of Measure - Dose mg",
+            "notation": "PKUDMG",
+            "pref_label": "CDISC SDTM PK Unit of Measure Milligram Dose Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128685"
+        },
+        {
+            "alt_label": "PK Units of Measure - Dose ug",
+            "definition": "Units of measure for pharmacokinetic parameters normalized by dose amount in micrograms.",
+            "extensible": "true",
+            "identifier": "C128686",
+            "label": "PK Units of Measure - Dose ug",
+            "notation": "PKUDUG",
+            "pref_label": "CDISC SDTM PK Unit of Measure Microgram Dose Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128686"
+        },
+        {
+            "alt_label": "PK Units of Measure - Weight g",
+            "definition": "Units of measure for pharmacokinetic parameters normalized by weight in grams.",
+            "extensible": "true",
+            "identifier": "C128684",
+            "label": "PK Units of Measure - Weight g",
+            "notation": "PKUWG",
+            "pref_label": "CDISC SDTM PK Unit of Measure Gram Weight Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128684"
+        },
+        {
+            "alt_label": "PK Units of Measure - Weight kg",
+            "definition": "Units of measure for pharmacokinetic parameters normalized by weight in kilograms.",
+            "extensible": "true",
+            "identifier": "C128683",
+            "label": "PK Units of Measure - Weight kg",
+            "notation": "PKUWKG",
+            "pref_label": "CDISC SDTM PK Unit of Measure Kilogram Weight Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C128683"
+        },
+        {
+            "alt_label": "Planned Pharmacologic Target Mode of Action Response",
+            "definition": "Terminology related to the functional change at the level of the intended target of the pharmacologic intervention.",
+            "extensible": "true",
+            "identifier": "C154684",
+            "label": "Planned Pharmacologic Target Mode of Action Response",
+            "notation": "PPTMDARS",
+            "pref_label": "CDISC SEND Planned Pharmacologic Target Mode of Action Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684"
+        },
+        {
+            "alt_label": "Portion/Totality",
+            "definition": "Qualifier for anatomical location or specimen further detailing the portion or totality, which means arrangement of, or apportioning of an entity.",
+            "extensible": "true",
+            "identifier": "C99075",
+            "label": "Portion/Totality",
+            "notation": "PORTOT",
+            "pref_label": "CDISC SDTM Portion/Totality Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C99075"
+        },
+        {
+            "alt_label": "Position",
+            "definition": "Terminology codelist used with Body Position within CDISC.",
+            "extensible": "true",
+            "identifier": "C71148",
+            "label": "Position",
+            "notation": "POSITION",
+            "pref_label": "CDISC SDTM Body Position Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71148"
+        },
+        {
+            "alt_label": "Pregnancy Findings Result",
+            "definition": "Terminology relevant to the results for pregnancy findings.",
+            "extensible": "true",
+            "identifier": "C124323",
+            "label": "Pregnancy Findings Result",
+            "notation": "PYFINDRS",
+            "pref_label": "CDISC SEND Pregnancy Findings Result Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124323"
+        },
+        {
+            "alt_label": "Pregnancy Findings Result Category",
+            "definition": "Terminology relevant to the classifications of the results for pregnancy findings.",
+            "extensible": "true",
+            "identifier": "C124322",
+            "label": "Pregnancy Findings Result Category",
+            "notation": "PYRESCAT",
+            "pref_label": "CDISC SEND Pregnancy Findings Result Category Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124322"
+        },
+        {
+            "alt_label": "Pregnancy Findings Test Code",
+            "definition": "Terminology for the test codes relevant to pregnancy.",
+            "extensible": "true",
+            "identifier": "C124324",
+            "label": "Pregnancy Findings Test Code",
+            "notation": "PYTESTCD",
+            "pref_label": "CDISC SEND Pregnancy Findings Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124324"
+        },
+        {
+            "alt_label": "Pregnancy Findings Test Name",
+            "definition": "Terminology for the test names relevant to pregnancy.",
+            "extensible": "true",
+            "identifier": "C124325",
+            "label": "Pregnancy Findings Test Name",
+            "notation": "PYTEST",
+            "pref_label": "CDISC SEND Pregnancy Findings Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124325"
+        },
+        {
+            "alt_label": "Rad/Nuc Agent Ionizing Radiation Type Response",
+            "definition": "Terminology related to the form of ionizing radiation that is emitted by the rad/nuc agent source.",
+            "extensible": "true",
+            "identifier": "C158121",
+            "label": "Rad/Nuc Agent Ionizing Radiation Type Response",
+            "notation": "RNAIOTYP",
+            "pref_label": "CDISC SEND Rad/Nuc Agent Ionizing Radiation Type Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158121"
+        },
+        {
+            "alt_label": "Rad/Nuc Agent Source Response",
+            "definition": "Terminology related to the mode by which the radiological or nuclear challenge agent is delivered to the subject.",
+            "extensible": "true",
+            "identifier": "C158122",
+            "label": "Rad/Nuc Agent Source Response",
+            "notation": "RNASRC",
+            "pref_label": "CDISC SEND Rad/Nuc Agent Source Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158122"
+        },
+        {
+            "alt_label": "Rad/Nuc Targeted Injury Model Response",
+            "definition": "Terminology related to the type of radiation injury that is being induced in the animal.",
+            "extensible": "true",
+            "identifier": "C160928",
+            "label": "Rad/Nuc Targeted Injury Model Response",
+            "notation": "RNTIMRS",
+            "pref_label": "CDISC SEND Rad/Nuc Targeted Injury Model Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160928"
+        },
+        {
+            "alt_label": "Relationship Type",
+            "definition": "The description of relationship types between a record or set of records.",
+            "extensible": "false",
+            "identifier": "C78737",
+            "label": "Relationship Type",
+            "notation": "RELTYPE",
+            "pref_label": "CDISC SDTM Relationship Type Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C78737"
+        },
+        {
+            "alt_label": "Restraint Mode Response",
+            "definition": "Terminology related to the means by which restraint was applied to the individual.",
+            "extensible": "true",
+            "identifier": "C158123",
+            "label": "Restraint Mode Response",
+            "notation": "RSTMODRS",
+            "pref_label": "CDISC SEND Restraint Mode Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158123"
+        },
+        {
+            "alt_label": "Route of Administration Response",
+            "definition": "A terminology codelist relevant to the course by which a substance is administered in order to reach the site of action in the body.",
+            "extensible": "true",
+            "identifier": "C66729",
+            "label": "Route of Administration Response",
+            "notation": "ROUTE",
+            "pref_label": "CDISC SDTM Route of Administration Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729"
+        },
+        {
+            "alt_label": "SEND Cardiovascular Test Code",
+            "definition": "Terminology related to the non-clinical cardiovascular test code codelist.",
+            "extensible": "true",
+            "identifier": "C120532",
+            "label": "SEND Cardiovascular Test Code",
+            "notation": "SCVTSTCD",
+            "pref_label": "CDISC SEND Cardiovascular Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532"
+        },
+        {
+            "alt_label": "SEND Cardiovascular Test Name",
+            "definition": "Terminology related to the non-clinical cardiovascular test name codelist.",
+            "extensible": "true",
+            "identifier": "C120533",
+            "label": "SEND Cardiovascular Test Name",
+            "notation": "SCVTST",
+            "pref_label": "CDISC SEND Cardiovascular Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120533"
+        },
+        {
+            "alt_label": "SEND Control Type",
+            "definition": "Terminology relevant to the types of controls in nonclinical studies.",
+            "extensible": "true",
+            "identifier": "C184332",
+            "label": "SEND Control Type",
+            "notation": "STCNTRL",
+            "pref_label": "CDISC SEND Control Type Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C184332"
+        },
+        {
+            "alt_label": "SEND Domain Abbreviation",
+            "definition": "A unique, 2-character domain code used in the regulatory submission process of pre-clinical studies. The domain abbreviation is used consistently throughout the submission, i.e. in the dataset name, as the value of the domain variable within the dataset, and as a prefix for most variable names in the dataset.",
+            "extensible": "true",
+            "identifier": "C111113",
+            "label": "SEND Domain Abbreviation",
+            "notation": "SDOMAIN",
+            "pref_label": "CDISC SEND Domain Abbreviation Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C111113"
+        },
+        {
+            "alt_label": "SEND ECG Category",
+            "definition": "Terminology related to classifications that describe non-clinical ECG tests.",
+            "extensible": "true",
+            "identifier": "C90012",
+            "label": "SEND ECG Category",
+            "notation": "EGCATSND",
+            "pref_label": "CDISC SEND Electrocardiogram Category Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90012"
+        },
+        {
+            "alt_label": "SEND Implementation Guide Version",
+            "definition": "Terminology related to the name and version of the SEND implementation guide that is in use for the study.",
+            "extensible": "true",
+            "identifier": "C89982",
+            "label": "SEND Implementation Guide Version",
+            "notation": "SNDIGVER",
+            "pref_label": "CDISC SEND Version Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89982"
+        },
+        {
+            "alt_label": "SEND Microbiology Test Code",
+            "definition": "Terminology for the test code relevant to non-clinical microbiology findings.",
+            "extensible": "true",
+            "identifier": "C163030",
+            "label": "SEND Microbiology Test Code",
+            "notation": "SMBTSTCD",
+            "pref_label": "CDISC SEND Microbiology Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C163030"
+        },
+        {
+            "alt_label": "SEND Microbiology Test Name",
+            "definition": "Terminology for the test name relevant to non-clinical microbiology findings.",
+            "extensible": "true",
+            "identifier": "C163031",
+            "label": "SEND Microbiology Test Name",
+            "notation": "SMBTST",
+            "pref_label": "CDISC SEND Microbiology Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C163031"
+        },
+        {
+            "alt_label": "SEND Microscopic Findings Test Code",
+            "definition": "Terminology for the test codes concerned with the non-clinical findings from a specimen that are visible by microscopic analysis.",
+            "extensible": "true",
+            "identifier": "C89974",
+            "label": "SEND Microscopic Findings Test Code",
+            "notation": "MITESTCD",
+            "pref_label": "CDISC SEND Microscopic Findings Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89974"
+        },
+        {
+            "alt_label": "SEND Microscopic Findings Test Name",
+            "definition": "Terminology for the test codes concerned with the non-clinical findings from a specimen that are visible by microscopic analysis.",
+            "extensible": "true",
+            "identifier": "C89973",
+            "label": "SEND Microscopic Findings Test Name",
+            "notation": "MITEST",
+            "pref_label": "CDISC SEND Microscopic Findings Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89973"
+        },
+        {
+            "alt_label": "SEND Respiratory Test Code",
+            "definition": "Terminology related to the non-clinical respiratory test code codelist.",
+            "extensible": "true",
+            "identifier": "C120534",
+            "label": "SEND Respiratory Test Code",
+            "notation": "SRETSTCD",
+            "pref_label": "CDISC SEND Respiratory Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120534"
+        },
+        {
+            "alt_label": "SEND Respiratory Test Name",
+            "definition": "Terminology related to the non-clinical respiratory test name codelist.",
+            "extensible": "true",
+            "identifier": "C120535",
+            "label": "SEND Respiratory Test Name",
+            "notation": "SRETST",
+            "pref_label": "CDISC SEND Respiratory Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120535"
+        },
+        {
+            "alt_label": "SEND Severity",
+            "definition": "Non-clinical terminology relevant to the degree of an occurrence of a reported finding.",
+            "extensible": "false",
+            "identifier": "C90000",
+            "label": "SEND Severity",
+            "notation": "SEV",
+            "pref_label": "CDISC SEND Severity Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90000"
+        },
+        {
+            "alt_label": "SEND Study Type",
+            "definition": "Terminology relevant to the type of nonclinical study performed.",
+            "extensible": "true",
+            "identifier": "C90003",
+            "label": "SEND Study Type",
+            "notation": "SSTYP",
+            "pref_label": "CDISC SEND Study Type Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003"
+        },
+        {
+            "alt_label": "SEND Subject Characteristics Test Code",
+            "definition": "Terminology for the test codes concerned with the distinguishing qualities or prominent aspect of a person, object, action, process, or substance.",
+            "extensible": "true",
+            "identifier": "C89981",
+            "label": "SEND Subject Characteristics Test Code",
+            "notation": "SBCCDSND",
+            "pref_label": "CDISC SEND Subject Characteristic Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981"
+        },
+        {
+            "alt_label": "SEND Subject Characteristics Test Name",
+            "definition": "Terminology for the test names concerned with the distinguishing qualities or prominent aspect of a person, object, action, process, or substance.",
+            "extensible": "true",
+            "identifier": "C89980",
+            "label": "SEND Subject Characteristics Test Name",
+            "notation": "SBCSND",
+            "pref_label": "CDISC SEND Subject Characteristic Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89980"
+        },
+        {
+            "alt_label": "SEND Trial Summary Parameter Test Code",
+            "definition": "Terminology related to the parameter codes of the individual characteristics of a nonclinical study.",
+            "extensible": "true",
+            "identifier": "C90009",
+            "label": "SEND Trial Summary Parameter Test Code",
+            "notation": "STSPRMCD",
+            "pref_label": "CDISC SEND Trial Summary Parameter Short Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009"
+        },
+        {
+            "alt_label": "SEND Trial Summary Parameter Test Name",
+            "definition": "Terminology related to the parameter names of the individual characteristics of a nonclinical study.",
+            "extensible": "true",
+            "identifier": "C90007",
+            "label": "SEND Trial Summary Parameter Test Name",
+            "notation": "STSPRM",
+            "pref_label": "CDISC SEND Trial Summary Parameter Long Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90007"
+        },
+        {
+            "alt_label": "SEND Vital Signs Test Code",
+            "definition": "The name given to the test code that analyzes a vital sign in nonclinical studies.",
+            "extensible": "true",
+            "identifier": "C120536",
+            "label": "SEND Vital Signs Test Code",
+            "notation": "SVSTSTCD",
+            "pref_label": "CDISC SEND Vital Signs Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120536"
+        },
+        {
+            "alt_label": "SEND Vital Signs Test Name",
+            "definition": "The name given to the test name that analyzes a vital sign in nonclinical studies.",
+            "extensible": "true",
+            "identifier": "C120537",
+            "label": "SEND Vital Signs Test Name",
+            "notation": "SVSTST",
+            "pref_label": "CDISC SEND Vital Signs Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120537"
+        },
+        {
+            "alt_label": "Sex",
+            "definition": "The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female. (NCI)",
+            "extensible": "false",
+            "identifier": "C66731",
+            "label": "Sex",
+            "notation": "SEX",
+            "pref_label": "CDISC SDTM Sex of Individual Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66731"
+        },
+        {
+            "alt_label": "Sex of Participants Response",
+            "definition": "A terminology codelist relevant to the specific sex, either male, female, or mixed of the subject group being studied.",
+            "extensible": "false",
+            "identifier": "C66732",
+            "label": "Sex of Participants Response",
+            "notation": "SEXPOP",
+            "pref_label": "CDISC SDTM Sex of Study Group Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66732"
+        },
+        {
+            "alt_label": "Sexual Maturity Status Response",
+            "definition": "Terminology related to the capacity of an organism to reproduce via sexual reproduction.",
+            "extensible": "true",
+            "identifier": "C158124",
+            "label": "Sexual Maturity Status Response",
+            "notation": "SEXMAT",
+            "pref_label": "CDISC SEND Sexual Maturity Status Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158124"
+        },
+        {
+            "alt_label": "Species",
+            "definition": "Terminology related to the common name for an animal used as the test system in a study (e.g., dog, monkey, mouse, rabbit, rat).",
+            "extensible": "true",
+            "identifier": "C77808",
+            "label": "Species",
+            "notation": "SPECIES",
+            "pref_label": "CDISC SEND Laboratory Animal Species Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77808"
+        },
+        {
+            "alt_label": "Specimen",
+            "definition": "Terminology related to any material sample taken from a biological entity.",
+            "extensible": "true",
+            "identifier": "C77529",
+            "label": "Specimen",
+            "notation": "SPEC",
+            "pref_label": "CDISC SEND Biospecimens Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77529"
+        },
+        {
+            "alt_label": "Standardized Disposition Term",
+            "definition": "Terminology related to the final disposition of the subject in a study.",
+            "extensible": "false",
+            "identifier": "C89968",
+            "label": "Standardized Disposition Term",
+            "notation": "DSDECOD",
+            "pref_label": "CDISC SEND Standardized Disposition Term Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89968"
+        },
+        {
+            "alt_label": "Strain/Substrain",
+            "definition": "Terminology used to identify the vendor-supplied strain, substrain or breed designation for the test system under study. It may combine the background strain, substrain, and associated genetic modifications as supplied by the vendor.",
+            "extensible": "true",
+            "identifier": "C77530",
+            "label": "Strain/Substrain",
+            "notation": "STRAIN",
+            "pref_label": "CDISC SEND Laboratory Animal Strain Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530"
+        },
+        {
+            "alt_label": "Study Category",
+            "definition": "The type of nonclinical study performed e.g. pharmacokinetics, safety pharmacology and toxicology.",
+            "extensible": "true",
+            "identifier": "C90002",
+            "label": "Study Category",
+            "notation": "STCAT",
+            "pref_label": "CDISC SEND Study Category Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90002"
+        },
+        {
+            "alt_label": "Study Design",
+            "definition": "Terminology related to the plan detailing how a study will be performed in order to represent the phenomenon under examination, to answer the research questions that have been asked, and defining the methods of data analysis.",
+            "extensible": "true",
+            "identifier": "C89967",
+            "label": "Study Design",
+            "notation": "DESIGN",
+            "pref_label": "CDISC SEND Study Design Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89967"
+        },
+        {
+            "alt_label": "Study Report Status Response",
+            "definition": "Terminology related to the status of the study report associated with the datasets.",
+            "extensible": "true",
+            "identifier": "C158125",
+            "label": "Study Report Status Response",
+            "notation": "STRPSTAT",
+            "pref_label": "CDISC SEND Study Report Status Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158125"
+        },
+        {
+            "alt_label": "Test Site Activity Response",
+            "definition": "Terminology relevant to the general type of study activity performed at a test site.",
+            "extensible": "true",
+            "identifier": "C181166",
+            "label": "Test Site Activity Response",
+            "notation": "TSACTVYR",
+            "pref_label": "CDISC SEND Test Site Activity Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C181166"
+        },
+        {
+            "alt_label": "Tumor Findings Test Code",
+            "definition": "Terminology for the test codes concerned with the assessment or evaluation of a neoplastic mass.",
+            "extensible": "true",
+            "identifier": "C90006",
+            "label": "Tumor Findings Test Code",
+            "notation": "TFTESTCD",
+            "pref_label": "CDISC SEND Tumor Findings Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90006"
+        },
+        {
+            "alt_label": "Tumor Findings Test Name",
+            "definition": "Terminology for the test names concerned with the assessment or evaluation of a neoplastic mass.",
+            "extensible": "true",
+            "identifier": "C90005",
+            "label": "Tumor Findings Test Name",
+            "notation": "TFTEST",
+            "pref_label": "CDISC SEND Tumor Findings Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90005"
+        },
+        {
+            "alt_label": "Unit",
+            "definition": "Terminology codelist used for units within CDISC.",
+            "extensible": "true",
+            "identifier": "C71620",
+            "label": "Unit",
+            "notation": "UNIT",
+            "pref_label": "CDISC SDTM Unit of Measure Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71620"
+        },
+        {
+            "alt_label": "Units for Vital Signs Results",
+            "definition": "The unit used to record and describe the result of a test investigating a vital sign. (NCI)",
+            "extensible": "true",
+            "identifier": "C66770",
+            "label": "Units for Vital Signs Results",
+            "notation": "VSRESU",
+            "pref_label": "CDISC SDTM Unit for Vital Sign Result Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770"
+        },
+        {
+            "alt_label": "Vital Signs Test Code",
+            "definition": "The test code given to the test that analyzes a particular set of vital signs including temperature, respiratory rate, heart rate, and blood pressure.",
+            "extensible": "true",
+            "identifier": "C66741",
+            "label": "Vital Signs Test Code",
+            "notation": "VSTESTCD",
+            "pref_label": "CDISC SDTM Vital Sign Test Code Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66741"
+        },
+        {
+            "alt_label": "Vital Signs Test Name",
+            "definition": "The test name given to the test that analyzes a particular set of vital signs including temperature, respiratory rate, heart rate, and blood pressure.",
+            "extensible": "true",
+            "identifier": "C67153",
+            "label": "Vital Signs Test Name",
+            "notation": "VSTEST",
+            "pref_label": "CDISC SDTM Vital Sign Test Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C67153"
+        },
+        {
+            "alt_label": "Within Normal Limits Results",
+            "definition": "Terminology related to result values that are considered normal or within normal limits.",
+            "extensible": "true",
+            "identifier": "C132321",
+            "label": "Within Normal Limits Results",
+            "notation": "NORMRS",
+            "pref_label": "CDISC SEND Within Normal Limits Results Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C132321"
+        }
+    ],
+    "SKOS_CONCEPT_SCHEME": [
+        {
+            "description": "CDISC Controlled Terminology for SEND is the set of CDISC-developed or CDISC-adopted standard expressions (values) used with data items within CDISC-defined SEND datasets.",
+            "effective_date": "2021-12-17",
+            "label": "SEND Controlled Terminology Package 48 Effective 2021-12-17",
+            "name": "SEND CT 2021-12-17",
+            "source": "SEND Controlled Terminology developed by the CDISC Terminology Team in collaboration with the National Cancer Institute's Enterprise Vocabulary Services (EVS)",
+            "status": "Final",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send",
+            "version": "2021-12-17"
+        }
+    ]
+}

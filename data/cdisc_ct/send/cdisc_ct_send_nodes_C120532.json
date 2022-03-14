@@ -1,0 +1,156 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Activity",
+            "definition": "A measurement of a subject's physical activity or movement.",
+            "identifier": "C120914",
+            "notation": "ACTIVITY",
+            "pref_label": "Physical Activity Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C120914"
+        },
+        {
+            "alt_label": "Diastolic Blood Pressure",
+            "definition": "The minimum blood pressure in the systemic arterial circulation during the cardiac cycle.",
+            "identifier": "C25299",
+            "notation": "DIABP",
+            "pref_label": "Diastolic Blood Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C25299"
+        },
+        {
+            "alt_label": "dP/dt Average",
+            "definition": "The average rate of pressure change over time within the left ventricle (systole).",
+            "identifier": "C120915",
+            "notation": "DPDTAVG",
+            "pref_label": "dP/dt Average",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C120915"
+        },
+        {
+            "alt_label": "dPdt Maximum;+dPdt;Left Ventricular Maximum Positive dP/dt",
+            "definition": "The maximum rate of positive pressure change over time within the left ventricle (systole).",
+            "identifier": "C120916",
+            "notation": "DPDTMAX",
+            "pref_label": "Left Ventricular Maximum Positive dP/dt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C120916"
+        },
+        {
+            "alt_label": "dPdt Minimum;Left Ventricular Minimum Positive dP/dt",
+            "definition": "The minimum rate of positive pressure change over time within the left ventricle (systole).",
+            "identifier": "C120917",
+            "notation": "DPDTMIN",
+            "pref_label": "Left Ventricular Minimum Positive dP/dt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C120917"
+        },
+        {
+            "alt_label": "-dP/dt;Left Ventricular Maximum Negative dP/dt",
+            "definition": "The maximum rate of negative pressure change over time within the left ventricle (diastole).",
+            "identifier": "C120918",
+            "notation": "DPDTNEG",
+            "pref_label": "Left Ventricular Maximum Negative dP/dt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C120918"
+        },
+        {
+            "alt_label": "Heart Rate",
+            "definition": "The number of heartbeats per unit of time, usually expressed as beats per minute. (NCI)",
+            "identifier": "C49677",
+            "notation": "HR",
+            "pref_label": "Heart Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C49677"
+        },
+        {
+            "alt_label": "Left Ventricular End Diastolic Pressure",
+            "definition": "The pressure within the left ventricle of the heart at the end of the period when the chambers of the heart refill with blood and just before the contraction begins.",
+            "identifier": "C120919",
+            "notation": "LVEDP",
+            "pref_label": "Left Ventricular End Diastolic Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C120919"
+        },
+        {
+            "alt_label": "Left Ventricular Systolic Pressure",
+            "definition": "The pressure within the left ventricle of the heart during the contraction of the left ventricle of the heart.",
+            "identifier": "C120920",
+            "notation": "LVSYSBP",
+            "pref_label": "Left Ventricular Systolic Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C120920"
+        },
+        {
+            "alt_label": "Mean Arterial Pressure",
+            "definition": "The mean pressure of the blood within the arterial circulation.",
+            "identifier": "C49679",
+            "notation": "MAP",
+            "pref_label": "Mean Arterial Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C49679"
+        },
+        {
+            "alt_label": "Left Ventricular Pressure Maximum;Pressure at dP/dt Maximum",
+            "definition": "The positive pressure that correlates with the maximum dP/dt, the rate of change in pressure over time.",
+            "identifier": "C121185",
+            "notation": "PDPDTMAX",
+            "pref_label": "Pressure at dP/dt Maximum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C121185"
+        },
+        {
+            "alt_label": "Left Ventricular Pressure Minimum;Pressure at dP/dt Minimum",
+            "definition": "The positive pressure that correlates with the minimum dP/dt, the rate of change in pressure over time.",
+            "identifier": "C121186",
+            "notation": "PDPDTMIN",
+            "pref_label": "Pressure at dP/dt Minimum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C121186"
+        },
+        {
+            "alt_label": "Pulse Pressure",
+            "definition": "The change in systolic to diastolic pressure which produces a pulse.",
+            "identifier": "C100945",
+            "notation": "PULSEPR",
+            "pref_label": "Pulse Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C100945"
+        },
+        {
+            "alt_label": "Summary (Max) QA Interval",
+            "definition": "The maximum time interval between the Q wave on an ECG and the onset of the aortic blood pressure pulse.",
+            "identifier": "C120921",
+            "notation": "QAMAX",
+            "pref_label": "Maximum QA Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C120921"
+        },
+        {
+            "alt_label": "Summary (Mean) QA Interval",
+            "definition": "The mean time interval between the Q wave on an ECG and the onset of the aortic blood pressure pulse.",
+            "identifier": "C120922",
+            "notation": "QAMEAN",
+            "pref_label": "Mean QA Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C120922"
+        },
+        {
+            "alt_label": "Summary (Median) QA Interval",
+            "definition": "The median time interval between the Q wave on an ECG and the onset of the aortic blood pressure pulse.",
+            "identifier": "C120923",
+            "notation": "QAMEDIAN",
+            "pref_label": "Median QA Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C120923"
+        },
+        {
+            "alt_label": "Summary (Min) QA Interval",
+            "definition": "The minimum time interval between the Q wave on an ECG and the onset of the aortic blood pressure pulse.",
+            "identifier": "C120924",
+            "notation": "QAMIN",
+            "pref_label": "Minimum QA Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C120924"
+        },
+        {
+            "alt_label": "Systolic Blood Pressure",
+            "definition": "The maximum blood pressure in the systemic arterial circulation during the cardiac cycle.",
+            "identifier": "C25298",
+            "notation": "SYSBP",
+            "pref_label": "Systolic Blood Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C25298"
+        },
+        {
+            "alt_label": "Systemic Vascular Resistance;Total Peripheral Resistance",
+            "definition": "The resistance to blood flow through the systemic vasculature.",
+            "identifier": "C119248",
+            "notation": "TPR",
+            "pref_label": "Systemic Vascular Resistance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120532-C119248"
+        }
+    ]
+}

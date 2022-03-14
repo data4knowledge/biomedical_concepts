@@ -1,0 +1,356 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "MPAI1-Alcohol Use-Post-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Post-injury use of alcoholic beverages.",
+            "identifier": "C115884",
+            "notation": "MPAI1-Alcohol Use-Post-Injury",
+            "pref_label": "MPAI-4 - Alcohol Use Post-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115884"
+        },
+        {
+            "alt_label": "MPAI1-Alcohol Use-Pre-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Pre-injury use of alcoholic beverages.",
+            "identifier": "C115883",
+            "notation": "MPAI1-Alcohol Use-Pre-Injury",
+            "pref_label": "MPAI-4 - Alcohol Use Pre-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115883"
+        },
+        {
+            "alt_label": "MPAI1-Anxiety",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Tense, nervous, fearful, phobias, nightmares, flashbacks of stressful events.",
+            "identifier": "C115864",
+            "notation": "MPAI1-Anxiety",
+            "pref_label": "MPAI-4 - Adjustment: Anxiety",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115864"
+        },
+        {
+            "alt_label": "MPAI1-Attention/Concentration",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Problems ignoring distractions, shifting attention, keeping more than one thing in mind at a time.",
+            "identifier": "C115859",
+            "notation": "MPAI1-Attention/Concentration",
+            "pref_label": "MPAI-4 - Abilities: Attention or Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115859"
+        },
+        {
+            "alt_label": "MPAI1-Audition",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Problems hearing; ringing in the ears.",
+            "identifier": "C115854",
+            "notation": "MPAI1-Audition",
+            "pref_label": "MPAI-4 - Abilities: Audition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115854"
+        },
+        {
+            "alt_label": "MPAI1-Depression",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Sad, blue, hopeless, poor appetite, poor sleep, worry, self-criticism.",
+            "identifier": "C115865",
+            "notation": "MPAI1-Depression",
+            "pref_label": "MPAI-4 - Adjustment: Depression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115865"
+        },
+        {
+            "alt_label": "MPAI1-Dizziness",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Feeling unsteady, dizzy, light-headed.",
+            "identifier": "C115855",
+            "notation": "MPAI1-Dizziness",
+            "pref_label": "MPAI-4 - Abilities: Dizziness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115855"
+        },
+        {
+            "alt_label": "MPAI1-Drug Use-Post-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Post-injury use of illegal drugs or abuse of prescription drugs.",
+            "identifier": "C115886",
+            "notation": "MPAI1-Drug Use-Post-Injury",
+            "pref_label": "MPAI-4 - Drug Use Post-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115886"
+        },
+        {
+            "alt_label": "MPAI1-Drug Use-Pre-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Pre-injury use of illegal drugs or abuse of prescription drugs.",
+            "identifier": "C115885",
+            "notation": "MPAI1-Drug Use-Pre-Injury",
+            "pref_label": "MPAI-4 - Drug Use Pre-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115885"
+        },
+        {
+            "alt_label": "MPAI1-Family/Significant Relationships",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Interactions with close others; describe stress within the family or those closest to the person with brain injury; 'family functioning' means cooperating to accomplish those tasks that need to be done to keep the household running.",
+            "identifier": "C115872",
+            "notation": "MPAI1-Family/Significant Relationships",
+            "pref_label": "MPAI-4 - Adjustment: Family or Significant Relationships",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115872"
+        },
+        {
+            "alt_label": "MPAI1-Fatigue",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Feeling tired; lack of energy; tiring easily.",
+            "identifier": "C115868",
+            "notation": "MPAI1-Fatigue",
+            "pref_label": "MPAI-4 - Adjustment: Fatigue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115868"
+        },
+        {
+            "alt_label": "MPAI1-Fund of Information",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Problems remembering information learned in school or on the job; difficulty remembering information about self and family from years ago.",
+            "identifier": "C115861",
+            "notation": "MPAI1-Fund of Information",
+            "pref_label": "MPAI-4 - Abilities: Fund of Information",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115861"
+        },
+        {
+            "alt_label": "MPAI1-Impaired Self-Awareness",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Lack of recognition of personal limitations and disabilities and how they interfere with everyday activities and work or school.",
+            "identifier": "C115871",
+            "notation": "MPAI1-Impaired Self-Awareness",
+            "pref_label": "MPAI-4 - Adjustment: Impaired Self-Awareness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115871"
+        },
+        {
+            "alt_label": "MPAI1-Inappropriate Social Interaction",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Acting childish, silly, rude, behavior not fitting for time and place.",
+            "identifier": "C115870",
+            "notation": "MPAI1-Inappropriate Social Interaction",
+            "pref_label": "MPAI-4 - Adjustment: Inappropriate Social Interaction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115870"
+        },
+        {
+            "alt_label": "MPAI1-Initiation",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Problems getting started on activities without prompting.",
+            "identifier": "C115873",
+            "notation": "MPAI1-Initiation",
+            "pref_label": "MPAI-4 - Participation: Initiation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115873"
+        },
+        {
+            "alt_label": "MPAI1-Irritablity, Anger, Aggression",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Verbal or physical expressions of anger.",
+            "identifier": "C115866",
+            "notation": "MPAI1-Irritablity, Anger, Aggression",
+            "pref_label": "MPAI-4 - Adjustment: Irritability, Anger, Aggression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115866"
+        },
+        {
+            "alt_label": "MPAI1-Law Violations-Post-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Post-injury history before and after injury.",
+            "identifier": "C115890",
+            "notation": "MPAI1-Law Violations-Post-Injury",
+            "pref_label": "MPAI-4 - Law Violations Post-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115890"
+        },
+        {
+            "alt_label": "MPAI1-Law Violations-Pre-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Pre-injury history before and after injury.",
+            "identifier": "C115889",
+            "notation": "MPAI1-Law Violations-Pre-Injury",
+            "pref_label": "MPAI-4 - Law Violations Pre-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115889"
+        },
+        {
+            "alt_label": "MPAI1-Leisure and Recreation Activities",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Leisure and recreational activities.",
+            "identifier": "C115875",
+            "notation": "MPAI1-Leisure and Recreation Activities",
+            "pref_label": "MPAI-4 - Participation: Leisure and Recreational Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115875"
+        },
+        {
+            "alt_label": "MPAI1-Managing Money and Finances",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Shopping, keeping a check book or other bank account, managing personal income and investments.",
+            "identifier": "C115882",
+            "notation": "MPAI1-Managing Money and Finances",
+            "pref_label": "MPAI-4 - Participation: Managing Money and Finances",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115882"
+        },
+        {
+            "alt_label": "MPAI1-Memory",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Problems learning and recalling new information.",
+            "identifier": "C115860",
+            "notation": "MPAI1-Memory",
+            "pref_label": "MPAI-4 - Abilities: Memory",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115860"
+        },
+        {
+            "alt_label": "MPAI1-Mobility",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Problems walking or moving; balance problems that interfere with moving about.",
+            "identifier": "C115851",
+            "notation": "MPAI1-Mobility",
+            "pref_label": "MPAI-4 - Abilities: Mobility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115851"
+        },
+        {
+            "alt_label": "MPAI1-Motor Speech",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Abnormal clearness or rate of speech; stuttering.",
+            "identifier": "C115856",
+            "notation": "MPAI1-Motor Speech",
+            "pref_label": "MPAI-4 - Abilities: Motor Speech",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115856"
+        },
+        {
+            "alt_label": "MPAI1-Nonverbal Communication",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Restricted or unusual gestures or facial expressions; talking too much or not enough; missing nonverbal cues from others.",
+            "identifier": "C115858",
+            "notation": "MPAI1-Nonverbal Communication",
+            "pref_label": "MPAI-4 - Abilities: Nonverbal Communication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115858"
+        },
+        {
+            "alt_label": "MPAI1-Novel Problem-Solving",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Problems thinking up solutions or picking the best solution to new problems.",
+            "identifier": "C115862",
+            "notation": "MPAI1-Novel Problem-Solving",
+            "pref_label": "MPAI-4 - Abilities: Novel Problem-Solving",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115862"
+        },
+        {
+            "alt_label": "MPAI1-Other Cognitive Cond-Post-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Post-injury cognitive disability due to nonpsychiatric medical conditions other than brain injury, such as, dementia, stroke, developmental disability.",
+            "identifier": "C115894",
+            "notation": "MPAI1-Other Cognitive Cond-Post-Injury",
+            "pref_label": "MPAI-4 - Other Condition Causing Cognitive Impairment Post-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115894"
+        },
+        {
+            "alt_label": "MPAI1-Other Cognitive Cond-Pre-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Pre-injury cognitive disability due to nonpsychiatric medical conditions other than brain injury, such as, dementia, stroke, developmental disability.",
+            "identifier": "C115893",
+            "notation": "MPAI1-Other Cognitive Cond-Pre-Injury",
+            "pref_label": "MPAI-4 - Other Condition Causing Cognitive Impairment Pre-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115893"
+        },
+        {
+            "alt_label": "MPAI1-Other Employment",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Hours per week involved in constructive, role-appropriate activity other than paid employment when primary desired social role is not paid employment. 'Support' means special help from another person with responsibilities (such as, a job coach or shadow, tutor, helper) or reduced responsibilities. Modifications to the physical environment that facilitate employment are not considered as support.",
+            "identifier": "C115880",
+            "notation": "MPAI1-Other Employment",
+            "pref_label": "MPAI-4 - Participation: Other Employment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115880"
+        },
+        {
+            "alt_label": "MPAI1-Other Employment-Social Role",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Primary social role when paid employment is not primary desired social role.",
+            "identifier": "C115881",
+            "notation": "MPAI1-Other Employment-Social Role",
+            "pref_label": "MPAI-4 - Participation: Other Employment-Social Role",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115881"
+        },
+        {
+            "alt_label": "MPAI1-Other Physical Cond-Post-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Post-injury physical disability due to medical conditions other than brain injury, such as, spinal cord injury, amputation.",
+            "identifier": "C115892",
+            "notation": "MPAI1-Other Physical Cond-Post-Injury",
+            "pref_label": "MPAI-4 - Other Condition Causing Physical Impairment Post-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115892"
+        },
+        {
+            "alt_label": "MPAI1-Other Physical Cond-Pre-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Pre-injury physical disability due to medical conditions other than brain injury, such as, spinal cord injury, amputation.",
+            "identifier": "C115891",
+            "notation": "MPAI1-Other Physical Cond-Pre-Injury",
+            "pref_label": "MPAI-4 - Other Condition Causing Physical Impairment Pre-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115891"
+        },
+        {
+            "alt_label": "MPAI1-Paid Employment",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Hours per week at paid employment when primary desired social role is paid employment. 'Support' means special help from another person with responsibilities (such as, a job coach or shadow, tutor, helper) or reduced responsibilities. Modifications to the physical environment that facilitate employment are not considered as support.",
+            "identifier": "C115879",
+            "notation": "MPAI1-Paid Employment",
+            "pref_label": "MPAI-4 - Participation: Paid Employment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115879"
+        },
+        {
+            "alt_label": "MPAI1-Pain and Headache",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Verbal and nonverbal expressions of pain; activities limited by pain.",
+            "identifier": "C115867",
+            "notation": "MPAI1-Pain and Headache",
+            "pref_label": "MPAI-4 - Adjustment: Pain and Headache",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115867"
+        },
+        {
+            "alt_label": "MPAI1-Psychotic Symptoms-Post-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Post-injury hallucinations, delusions, other persistent severely distorted perceptions of reality.",
+            "identifier": "C115888",
+            "notation": "MPAI1-Psychotic Symptoms-Post-Injury",
+            "pref_label": "MPAI-4 - Psychotic Symptoms Post-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115888"
+        },
+        {
+            "alt_label": "MPAI1-Psychotic Symptoms-Pre-Injury",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Pre-injury hallucinations, delusions, other persistent severely distorted perceptions of reality.",
+            "identifier": "C115887",
+            "notation": "MPAI1-Psychotic Symptoms-Pre-Injury",
+            "pref_label": "MPAI-4 - Psychotic Symptoms Pre-Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115887"
+        },
+        {
+            "alt_label": "MPAI1-Residence",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Responsibilities of independent living and homemaking (such as meal preparation, home repairs and maintenance, personal health maintenance beyond basic hygiene including medication management) but not including managing money.",
+            "identifier": "C115877",
+            "notation": "MPAI1-Residence",
+            "pref_label": "MPAI-4 - Participation: Residence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115877"
+        },
+        {
+            "alt_label": "MPAI1-Self-Care",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Eating, dressing, bathing, hygiene.",
+            "identifier": "C115876",
+            "notation": "MPAI1-Self-Care",
+            "pref_label": "MPAI-4 - Participation: Self-Care",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115876"
+        },
+        {
+            "alt_label": "MPAI1-Sensitivity to Mild Symptoms",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Focusing on thinking, physical or emotional problems attributed to brain injury; rate only how concern or worry about these symptoms affects current functioning over and above the effects of the symptoms themselves.",
+            "identifier": "C115869",
+            "notation": "MPAI1-Sensitivity to Mild Symptoms",
+            "pref_label": "MPAI-4 - Adjustment: Sensitivity to Mild Symptoms",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115869"
+        },
+        {
+            "alt_label": "MPAI1-Social Contact-Friends/Coworkers",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Social contact with friends, work associates, and other people who are not family, significant others, or professionals.",
+            "identifier": "C115874",
+            "notation": "MPAI1-Social Contact-Friends/Coworkers",
+            "pref_label": "MPAI-4 - Participation: Social Contact with Fiends, Work Associates and Others",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115874"
+        },
+        {
+            "alt_label": "MPAI1-Transportation",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Transportation.",
+            "identifier": "C115878",
+            "notation": "MPAI1-Transportation",
+            "pref_label": "MPAI-4 - Participation: Transportation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115878"
+        },
+        {
+            "alt_label": "MPAI1-Use of Hands",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Impaired strength or coordination in one or both hands.",
+            "identifier": "C115852",
+            "notation": "MPAI1-Use of Hands",
+            "pref_label": "MPAI-4 - Abilities: Use of Hands",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115852"
+        },
+        {
+            "alt_label": "MPAI1-Verbal Communication",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Problems expressing or understanding language.",
+            "identifier": "C115857",
+            "notation": "MPAI1-Verbal Communication",
+            "pref_label": "MPAI-4 - Abilities: Verbal Communication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115857"
+        },
+        {
+            "alt_label": "MPAI1-Vision",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Problems seeing; double vision; eye, brain, or nerve injuries that interfere with seeing.",
+            "identifier": "C115853",
+            "notation": "MPAI1-Vision",
+            "pref_label": "MPAI-4 - Abilities: Vision",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115853"
+        },
+        {
+            "alt_label": "MPAI1-Visuospatial Abilities",
+            "definition": "Mayo-Portland Adaptability Inventory-4 - Problems drawing, assembling things, route-finding, being visually aware on both the left and right sides.",
+            "identifier": "C115863",
+            "notation": "MPAI1-Visuospatial Abilities",
+            "pref_label": "MPAI-4 - Abilities: Visuospatial Abilities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115405-C115863"
+        }
+    ]
+}

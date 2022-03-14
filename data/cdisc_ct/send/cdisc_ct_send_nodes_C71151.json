@@ -1,0 +1,266 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "10 Lead Standard",
+            "definition": "An electrocardiogram lead placement on the subject using a ten electrode lead set to synthesize standard 12 lead electrocardiograph data to elicit an electrical view of the heart.",
+            "identifier": "C90349",
+            "notation": "10 LEAD STANDARD",
+            "pref_label": "10 Lead Standard",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C90349"
+        },
+        {
+            "alt_label": "12 Lead 1 Lead Missing",
+            "definition": "An electrocardiogram (ECG) lead placement whereby 12 leadpoints are recorded but one standard lead position is missing therefore requiring a Mortara source consistency filter. (NCI)",
+            "identifier": "C71125",
+            "notation": "12 LEAD 1 LEAD MISSING",
+            "pref_label": "12 Lead Placement 1 Lead Missing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71125"
+        },
+        {
+            "alt_label": "12 Lead Cabrera",
+            "definition": "An electrocardiogram (ECG) lead placement whereby the display of the 12 standard ECG leads is in an orderly sequence in a single horizontal display of: aVL, I, -aVR, II, aVF, III, V1 to V6. In the Cabrera display the limb lead aVR is inverted (-aVR) to obtain the same positive leftward orientation as the other 5 limbs. (NCI)",
+            "identifier": "C71116",
+            "notation": "12 LEAD CABRERA",
+            "pref_label": "12 Lead Placement Cabrera",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71116"
+        },
+        {
+            "definition": "A continuous electrocardiographic (ECG) recording utilizing 12 leads. The positioning of the electrodes may vary from the standard 12 lead ECG placement. Examples include but are not limited to 12 lead Holter with modified Mason-Likar lead placements, 12 lead exercise ECGs, and 12 lead telemetry systems.",
+            "identifier": "C123444",
+            "notation": "12 LEAD CONTINUOUS ECG",
+            "pref_label": "12 Lead Continuous ECG",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C123444"
+        },
+        {
+            "alt_label": "12 Lead EASI Dower Transformation",
+            "definition": "An electrocardiogram (ECG) lead placement whereby 4 chest electrodes and 1 reference electrode are used to allow for continuous monitoring at the clinical level. This placement creates a 12 lead ECG that allows the acquisition of simultaneous events in the frontal, horizontal and sagittal heart planes with the linear transformation of vectors. This system provides a three-dimensional portrayal of the heart and uses mathematical and fixed coefficients for each lead. (NCI)",
+            "identifier": "C71123",
+            "notation": "12 LEAD EASI DOWER TRANSFORMATION",
+            "pref_label": "Lead Placement EASI Dower Transformation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71123"
+        },
+        {
+            "definition": "A standard duration (typically 10 seconds) 12 lead electrocardiogram (ECG) extracted from a 12 lead continuous ECG.",
+            "identifier": "C123445",
+            "notation": "12 LEAD ECG EXTRACTED FROM 12 LEAD CONTINUOUS ECG RECORDING",
+            "pref_label": "12 Lead ECG Extracted From 12 Lead Continuous ECG Recording",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C123445"
+        },
+        {
+            "alt_label": "12 Lead Mason Likar",
+            "definition": "An electrocardiogram (ECG) lead placement whereby 12 leadpoints are recorded but the standard lead positions have been modified for ECG recording during exercise. Exercise stress testing requires moving the limb electrodes to more central positions on the thorax. The electrodes are placed in bony prominences close to the bases of the respective limbs in order to avoid skeletal muscle artifact, provide stability for recording electrodes and to record waveforms similar to the standard limb sites. (NCI)",
+            "identifier": "C71103",
+            "notation": "12 LEAD MASON LIKAR",
+            "pref_label": "12 Lead Placement Mason Likar",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71103"
+        },
+        {
+            "alt_label": "12 Lead Modified Mason Likar",
+            "definition": "An electrocardiogram (ECG) lead placement whereby 12 leadpoints are recorded but the Mason Likar lead positions have been modified so that V1 to V6 on the chest are part of a single electrode pad. In addition, lead CM5 is substituted for lead aVR. (NCI)",
+            "identifier": "C71110",
+            "notation": "12 LEAD MODIFIED MASON LIKAR",
+            "pref_label": "12 Lead Placement Mason Likar Modified",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71110"
+        },
+        {
+            "alt_label": "12 Lead Non-Standard",
+            "definition": "An electrocardiogram (ECG) lead placement whereby the limb leads are placed on the torso for easier and faster application in emergency situations. (NCI)",
+            "identifier": "C71114",
+            "notation": "12 LEAD NON-STANDARD",
+            "pref_label": "12 Lead Placement Non-Standard",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71114"
+        },
+        {
+            "alt_label": "12 Lead Right-sided Precordial Leads;Right-sided Chest Leads",
+            "definition": "An electrocardiogram (ECG) lead placement whereby the precordial leads are intentionally placed on the right side of the chest.",
+            "identifier": "C116139",
+            "notation": "12 LEAD RIGHT-SIDED PRECORDIAL LEADS",
+            "pref_label": "12 Lead Placement Right-sided Precordial Leads",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C116139"
+        },
+        {
+            "alt_label": "12 Lead Single Pad",
+            "definition": "An electrocardiogram (ECG) lead placement whereby 12 leadpoints are recorded but the standard lead positions have been modified so that all leads on the chest are part of a single electrode pad. (NCI)",
+            "identifier": "C71112",
+            "notation": "12 LEAD SINGLE PAD",
+            "pref_label": "12 Lead Placement Chest",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71112"
+        },
+        {
+            "alt_label": "12 Lead Standard",
+            "definition": "An electrocardiogram (ECG) lead placement whereby 12 leads are recorded, with each lead representing an electrical view of the heart. The six leads recorded in the frontal plane are derived from the placement of 3 electrodes (RA or Right Arm, LA, or Left Arm, and LL or Left Leg). These bipolar frontal leads form the basis of Einthoven's triangle, and are represented by leads I, II, and III. Three other derived (or augmented) bipolar frontal vectors are also recorded on a standard 12-lead EKG, aVR, aVF, and aVL. 6 unipolar leads, corresponding to V1 - V6 measure the electrical activity in the horizontal plane. The placement for the V leads is as follows: V1: right 4th intercostal space,V2: left 4th intercostal space, V3: halfway between V2 and V4, V4: left 5th intercostal space, mid-clavicular line, V5: horizontal to V4, anterior axillary line, V6: horizontal to V5, mid-axillary line. (NCI)",
+            "identifier": "C71102",
+            "notation": "12 LEAD STANDARD",
+            "pref_label": "12 Lead Placement Standard",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71102"
+        },
+        {
+            "alt_label": "12 Lead Unspecified",
+            "definition": "An electrocardiogram (ECG) lead placement whereby 12 leadpoints are recorded but the position of the leads is unspecified. (NCI)",
+            "identifier": "C71101",
+            "notation": "12 LEAD UNSPECIFIED",
+            "pref_label": "12 Lead Placement Unspecified",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71101"
+        },
+        {
+            "definition": "An electrocardiogram (ECG) lead configuration that is primarily used to record ECGs in non-human animals, and which uses six (6) electrodes to generate eight (8) ECG leads (ECG wave forms). The six electrode configuration includes the following: four (4) limb electrodes, which are placed analogous to an Einthoven configuration in humans, and two (2) chest electrodes. The eight (8) ECG leads recorded comprise three standard limb leads (leads I, II, and III), three augmented leads (Leads aVR, aVF, and aVL), and two chest leads, which are generated using two unipolar chest leads, typically CV5RL [rV2] and CV6LL [V2] for canines, or MV1 and MV2 for primates.",
+            "identifier": "C132355",
+            "notation": "6 LEAD NEHB-SPORI",
+            "pref_label": "6 Lead NEHB-SPORI",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C132355"
+        },
+        {
+            "alt_label": "6 Lead Standard",
+            "definition": "An electrocardiogram lead placement on the subject using a six electrode lead set with three standard leads and three augmented derived leads to elicit an electrical view of the heart.",
+            "identifier": "C90350",
+            "notation": "6 LEAD STANDARD",
+            "pref_label": "6 Lead Standard",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C90350"
+        },
+        {
+            "definition": "An electrocardiogram lead placement for non-human species using a five electrode lead set to monitor and/or record 7 ECG leads, analogous to the standard and augmented human limb leads and one chest lead.",
+            "identifier": "C158157",
+            "notation": "7 LEAD STANDARD, NON-HUMAN",
+            "pref_label": "7 Lead Placement Standard for Non-Human Subjects",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C158157"
+        },
+        {
+            "definition": "An electrocardiogram (ECG) recorded using 6 electrodes to generate 8 ECG leads (ECG wave forms). The 6 electrode configuration includes 4 limb electrodes in an Einthoven configuration and two chest electrodes. The 8 ECG leads recorded consist of three standard limb leads (leads I, II, and III), three augmented leads (leads aVR, aVF, and aVL), and two chest leads (which are generated using two unipolar chest leads (typically CV5RL [rV2] and CV6LL [V2] for canines or MV1 and MV2 for non-human primates). This lead configuration is typically used to record ECGs in non-human animals.",
+            "identifier": "C132356",
+            "notation": "8 LEAD STANDARD",
+            "pref_label": "8 Lead Standard",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C132356"
+        },
+        {
+            "alt_label": "Bipolar uncorrected XYZ lead system",
+            "definition": "An electrocardiogram (ECG) lead placement whereby the X+ lead is placed at the right mid-axillary line ate the 4th intercostal space, X- at the left mid-axillary line at he 4th intercostal space, Y+ at the proximal left leg, Y- at the superior aspect of the manubrium, Z+ at the direct posterior to Z- and Z- at the 4th intercostal space at the left sternal margin. (NCI)",
+            "identifier": "C71121",
+            "notation": "BIPOLAR UNCORRECTED XYZ LEAD SYSTEM",
+            "pref_label": "Lead Placement Bipolar Uncorrected XYZ",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71121"
+        },
+        {
+            "definition": "A continuous electrocardiographic (ECG) recording utilizing 1 or more leads that records and stores data directly to the device. The subject need not be restricted to a medical facility, and may be able to participate in their customary activities of daily living.",
+            "identifier": "C123446",
+            "notation": "CONTINUOUS AMBULATORY ECG",
+            "pref_label": "Continuous Ambulatory ECG",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C123446"
+        },
+        {
+            "definition": "A continuous electrocardiographic (ECG) recording utilizing one or more implanted leads in a non-human species.",
+            "identifier": "C154718",
+            "notation": "CONTINUOUS ECG RECORDING FOR NON-HUMAN SPECIES USING IMPLANTED LEADS",
+            "pref_label": "Continuous ECG Recording for Non-human Species Using Implanted Leads",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C154718"
+        },
+        {
+            "definition": "A continuous electrocardiographic (ECG) recording utilizing one or more surface leads in a non-human species.",
+            "identifier": "C154717",
+            "notation": "CONTINUOUS SURFACE ECG RECORDING FOR NON-HUMAN SPECIES",
+            "pref_label": "Continuous Surface ECG Recording for Non-human Species",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C154717"
+        },
+        {
+            "alt_label": "Cube lead system",
+            "definition": "An electrocardiogram (ECG) lead placement that is a type of uncorrected vectorcardiograph. This lead system is based on a rectangular body axis. It uses an extra number of electrodes to make it three-dimensional. (NCI)",
+            "identifier": "C71120",
+            "notation": "CUBE LEAD SYSTEM",
+            "pref_label": "Lead Placement Cube",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71120"
+        },
+        {
+            "alt_label": "Frank lead system",
+            "definition": "An electrocardiogram (ECG) lead placement for determining 3 orthogonal components X (right to left direction), Y (foot to head direction) and Z (back to front direction) of the heart. For this method a minimum of 4 electrodes are needed that represent the right arm, left arm, left leg and back. However, usually 7 electrodes are used to avoid dependence on the dipole location and facilitate interpretation. (NCI)",
+            "identifier": "C71118",
+            "notation": "FRANK LEAD SYSTEM",
+            "pref_label": "Lead Placement Frank",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71118"
+        },
+        {
+            "definition": "An electrocardiographic method for collecting continuous ECG waveforms with a variable number of discrete leads with duration longer than the standard 10 second ECG. Holter recording may be performed in patients who are ambulatory, and may collect data for 24 hours or longer.",
+            "identifier": "C38064",
+            "notation": "HOLTER CONTINUOUS ECG RECORDING",
+            "pref_label": "Holter Monitoring",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C38064"
+        },
+        {
+            "alt_label": "McFee-Parungao lead system",
+            "definition": "An electrocardiogram (ECG) lead placement for determining 3 orthogonal components X (back to front), Y (right to left) and Z (foot to head) of the heart. This system places the electrodes closer to the heart to achieve better orthogonality and a homogeneous lead field. (NCI)",
+            "identifier": "C71119",
+            "notation": "MCFEE-PARUNGAO LEAD SYSTEM",
+            "pref_label": "Lead Placement McFee-Parungao",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71119"
+        },
+        {
+            "alt_label": "Pseudo-orthogonal XYZ lead system",
+            "definition": "An electrocardiogram (ECG) lead placement that allows monitoring and recording of cardiac electrical activity. A V1-type lead is used whose positive electrode is localized in the 4th intercostal space, 2.5cm from the sternum. Its negative electrode is placed below the left clavicle. An addition of lead V5 and aVF can be made to facilitate interpretation. (NCI)",
+            "identifier": "C71122",
+            "notation": "PSEUDO-ORTHOGONAL XYZ LEAD SYSTEM",
+            "pref_label": "Lead Placement Pseudo Orthogonal XYZ",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71122"
+        },
+        {
+            "alt_label": "Standard 12-lead and CC5-CM5-ML",
+            "definition": "An electrocardiogram (ECG) lead placement whereby 12 leadpoints are recorded but the standard lead positions have been modified so that the negative reference is at CM5 and the active electrode is at the left leg position. (NCI)",
+            "identifier": "C71128",
+            "notation": "STANDARD 12-LEAD AND CC5-CM5-ML",
+            "pref_label": "12 Lead Placement Standard And CC5-CM5-ML",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71128"
+        },
+        {
+            "alt_label": "Standard 12-lead and CM5-CC5-CH5",
+            "definition": "An electrocardiogram (ECG) lead placement whereby 12 leadpoints are recorded but the standard lead positions have been modified so that the bipolar lead groups place the negative of the reference electrode over the manubrium (CM5), the right scapula (CB5), V5R (CC5) or on the forehead (CH5) and the active electrode at V5. (NCI)",
+            "identifier": "C71126",
+            "notation": "STANDARD 12-LEAD AND CM5-CC5-CH5",
+            "pref_label": "12 Lead Placement Standard And CC5-CM5-CH5",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71126"
+        },
+        {
+            "alt_label": "Standard 12-lead extended to the left by V7, V8, V9",
+            "definition": "An electrocardiogram (ECG) lead placement whereby the standard lead placement is modified by having leads V7, V8 and V9. (NCI)",
+            "identifier": "C71131",
+            "notation": "STANDARD 12-LEAD EXTENDED LEFT",
+            "pref_label": "12 Lead Placement Standard Extended Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71131"
+        },
+        {
+            "alt_label": "Standard 12-lead extended to the right by V5R, V4R, V3R",
+            "definition": "An electrocardiogram (ECG) lead placement whereby the rightward oriented V leads progress from V1R, placed instead of the standard V2, to V6R. The V3 lead in the standard placement is replaced by V4R. (NCI)",
+            "identifier": "C71130",
+            "notation": "STANDARD 12-LEAD EXTENDED RIGHT",
+            "pref_label": "12 Lead Placement Standard Extended Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71130"
+        },
+        {
+            "definition": "Limb leads on the back (shoulder and on the hips). (NCI)",
+            "identifier": "C71115",
+            "notation": "STANDARD LEADS FOR BICYCLE EXERCISE",
+            "pref_label": "Lead Placement Bicycle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71115"
+        },
+        {
+            "alt_label": "Standard leads one intercostal space higher",
+            "definition": "An electrocardiographic lead placement schema in which the V leads are placed one intercostal space cephalad to the position they would have in the standard lead placement schema. (NCI)",
+            "identifier": "C71117",
+            "notation": "STANDARD LEADS ONE INTERCOSTAL SPACE HIGHER",
+            "pref_label": "Lead Placement Standard Intercostal Space Higher",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71117"
+        },
+        {
+            "alt_label": "Vectorcardiograph Corrected",
+            "definition": "A recording of the electrical activity of the heart displayed in the form of a vector loop, corrected for anatomic inconsistencies. (NCI)",
+            "identifier": "C71092",
+            "notation": "VECTORCARDIOGRAPH CORRECTED",
+            "pref_label": "Vectorcardiograph Corrected",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71092"
+        },
+        {
+            "alt_label": "Vectorcardiograph Uncorrected",
+            "definition": "A recording of the electrical activity of the heart displayed in the form of a vector loop, uncorrected for anatomic inconsistencies. (NCI)",
+            "identifier": "C71093",
+            "notation": "VECTORCARDIOGRAPH UNCORRECTED",
+            "pref_label": "Vectorcardiograph Uncorrected",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71151-C71093"
+        }
+    ]
+}

@@ -1,0 +1,655 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Derived by Dunn (1928) from a mouse/chinchilla cross, the 129/Sv substrain has been recognized as a member of the Parental subgroup of substrains.",
+            "identifier": "C37320",
+            "notation": "129/SV",
+            "pref_label": "129/Sv Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C37320"
+        },
+        {
+            "definition": "Derived by Strong (1921) from a cross between the Cold Spring harbor and Bagg Albino stocks. The A strain mouse has an albino coat (genotype a,b,c) and is susceptible to carcinogen-induced lung adenomas and cleft palate formation in response to cortisone. Also, the strain has defective macrophage function reminiscent of lps mutation common to other strains.",
+            "identifier": "C14650",
+            "notation": "A/J",
+            "pref_label": "A/J Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14650"
+        },
+        {
+            "definition": "Derived by Curtiss and Dunning (1926) at Columbia University by crossing an inbred August rat with an inbred 2331 Copenhagen rat, to Heston (1945) and then to the NIH (1950). The ACI rat strain is agouti in color with white belly and feet, and genotype A hi. (NCI)",
+            "identifier": "C14392",
+            "notation": "ACI",
+            "pref_label": "ACI, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14392"
+        },
+        {
+            "definition": "The diurnal primate, Chlorocebus sabaeus.",
+            "identifier": "C76360",
+            "notation": "AFRICAN GREEN",
+            "pref_label": "African Green Monkey",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76360"
+        },
+        {
+            "definition": "Originally disseminated by Detweiler and carried by Furth (1928-1936) and the Rockefeller Institute for subsequent generations. The AKR mouse has an albino coat (genotype a, B, c) and is highly susceptible to leukemias. The strain is viremic from birth in that all tissues express the AKV retrovirus and copies of the AKV genome are integrated in the mouse genome, which is associated with leukemia development. The AKR strain is also a source of the Thy1.1 thymocyte antigen, which is expressed on thymocyte, bone marrow and T cell progenitors and is used as a marker for a variety of stem cells.",
+            "identifier": "C14505",
+            "notation": "AKR/J",
+            "pref_label": "AKR/J Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14505"
+        },
+        {
+            "definition": "A partial congenic mouse with background strain of C57BL/6 and 129/Sv chimera, containing a heterozygous or homozygous p53 mutation. (NCI)",
+            "identifier": "C98707",
+            "notation": "B6.129-Trp53tm1Brd N5",
+            "pref_label": "B6.129-Trp53tm1Brd N5",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C98707"
+        },
+        {
+            "definition": "Derived from a cross between a C57BL/6 female and a C3H male, this hybrid strain is commonly used in the production of transgenic mice.",
+            "identifier": "C76182",
+            "notation": "B6C3F1",
+            "pref_label": "B6C3 Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76182"
+        },
+        {
+            "definition": "Multiple species of large terrestrial monkeys in the genus Papio, including P. hamadryas, P. papio, P. anubis, P. cynocephalus and P. ursinus.",
+            "identifier": "C14252",
+            "notation": "BABOON",
+            "pref_label": "Baboon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14252"
+        },
+        {
+            "definition": "Derived from albino mice stocks originally disseminated by Bagg (1913) to Snell in 1932 that has an albino coat with genotype A,b,c.",
+            "identifier": "C37357",
+            "notation": "BALB/C",
+            "pref_label": "BALB/c Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C37357"
+        },
+        {
+            "definition": "The Beagle is a hardy, sturdy squarely-built, small hound, with a short coat in tri-color, red and white, orange and white, or lemon and white. The ears are long, wide and pendant. There are two height classes, 13-15 inches (33-38 cm) and under 13 inches (33 cm). Weight: 20-25 pounds (9-11 kg).",
+            "identifier": "C53897",
+            "notation": "BEAGLE",
+            "pref_label": "Beagle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C53897"
+        },
+        {
+            "alt_label": "BN",
+            "definition": "An inbred strain of Rattus norvegicus derived from Silvers and Billingham stock (1958), characterized by a non-agouti brown coat color and RT1n MHC haplotype.",
+            "identifier": "C14395",
+            "notation": "BROWN NORWAY",
+            "pref_label": "BN, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14395"
+        },
+        {
+            "definition": "Developed by Dr. Carl Hansen at the NIH, this strain was derived from a cross between NIH Swiss and C57BL/6N mice. The Black Swiss mouse has genotype Tyrp1B, (a) and is homozygous for the rd1 mutation of the Pde6b gene. (NCI)",
+            "identifier": "C122234",
+            "notation": "BS",
+            "pref_label": "Black Swiss Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C122234"
+        },
+        {
+            "alt_label": "BUF",
+            "definition": "Derived from Buffalo stock of H. Morris to the NIH in 1950 and disseminated from Charles River since 1998, the Buffalo is a white albino rat, genotype c.",
+            "identifier": "C14396",
+            "notation": "BUFFALO",
+            "pref_label": "BUF, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14396"
+        },
+        {
+            "definition": "Derived from the C3H progenitor strain that was passed to Heston in 1941. The C3H/He mouse has an agouti coat color, genotype +, rd and is wild type at the lps locus. (NCI)",
+            "identifier": "C37367",
+            "notation": "C3H/He",
+            "pref_label": "C3H/He Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C37367"
+        },
+        {
+            "definition": "Derived from the C3H progenitor strain that was passed to Heston in 1941 and to Jackson Lab in 1947. The C3H/HeJ mouse has an agouti coat color and genotype +, rd.",
+            "identifier": "C37369",
+            "notation": "C3H/HeJ",
+            "pref_label": "C3H/HeJ Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C37369"
+        },
+        {
+            "definition": "Derived by Little (1921) from A Lathrop stocks and separated out before 1937, the C57BL/10 mouse has a black coat and carries a Y chromosome of Asian Mus musculus origin and a LINE-1 element from Mus spretus. Substrain C57BL/10 differs from other substrains at multiple loci, including H9, Igh2 and Lv, on chromosome 4 and has a high incidence of spontaneous mutations.",
+            "identifier": "C37376",
+            "notation": "C57BL/10",
+            "pref_label": "C57BL/10 Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C37376"
+        },
+        {
+            "definition": "Derived by Little (1921) from A Lathrop stocks and separated out before 1937, the C57BL/6 mouse has a black coat and carries a Y chromosome of Asian Mus musculus origin and a LINE-1 element from Mus spretus. Substrain C57BL/6 differs from other substrains at multiple loci, including H9, Igh2 and Lv, on chromosome 4. This mouse model is prone to the development of fatty lesions in the aorta similar to atheromatous plaque in humans, as well as hyperglycemia, hyperinsulinemia, hypercholesterolemia and non-insulin-dependent diabetes mellitus in response to a high fat diet.",
+            "identifier": "C14424",
+            "notation": "C57BL/6",
+            "pref_label": "C57BL/6 Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14424"
+        },
+        {
+            "alt_label": "California",
+            "definition": "One of the larger rabbit breeds, the Californian has a rounded, medium-length body with a short coat that is white with black on the nose, ears, feet, legs, and tail. This lagomorph also has pink eye color with genotype np.",
+            "identifier": "C76364",
+            "notation": "CALIFORNIAN",
+            "pref_label": "California Rabbit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76364"
+        },
+        {
+            "definition": "A CB17 SCID mouse with an additional mutation on the Lyst gene which results in defective natural killer cells.",
+            "identifier": "C123644",
+            "notation": "CB17 SCID BEIGE",
+            "pref_label": "Fox Chase SCID Beige Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C123644"
+        },
+        {
+            "alt_label": "Fox Chase SCID Mouse",
+            "definition": "Discovered by Bosma (1980) at Fox Chase Cancer Center, the CB17 SCID mouse has an autosomal recessive mutation in the Prkdc gene which causes a severe combined immunodeficiency affecting B and T lymphocytes.",
+            "identifier": "C15158",
+            "notation": "CB17 SCID",
+            "pref_label": "Fox Chase SCID Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C15158"
+        },
+        {
+            "alt_label": "CByB6F1-Tg(HRAS)2Jic",
+            "definition": "A transgenic mouse at F1 generation with background strain C57BL/6 crossed with BALB/cAn, containing three copies of the human c-Ha-Ras gene introduced in tandem. (NCI)",
+            "identifier": "C98711",
+            "notation": "CB6F1-TgN (RasH2)",
+            "pref_label": "CB6F1-TgN (RasH2)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C98711"
+        },
+        {
+            "definition": "The CBA mouse from Strong (1920) was disseminated to Jackson Laboratory and then onto Haldane and Gruneberg (1932) and finally onto Carter (1947). The CBA/Ca female mice have long life spans whilst males have short life spans. Both males and females have high ceruloplasmin levels.",
+            "identifier": "C37396",
+            "notation": "CBA/CA",
+            "pref_label": "CBA/Ca Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C37396"
+        },
+        {
+            "definition": "Developed by Strong (1920), the CBA/J mouse was disseminated to Andervont (1947) and then to Jackson Laboratory (1948). The CBA/J strain carries the gene for retinal degeneration (rd).",
+            "identifier": "C37399",
+            "notation": "CBA/J",
+            "pref_label": "CBA/J Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C37399"
+        },
+        {
+            "definition": "An inbred strain of athymic, nude mouse developed by transferring the Foxn1nu gene to a CD1 mouse. (NCI)",
+            "identifier": "C15152",
+            "notation": "CD1 NU",
+            "pref_label": "CD-1 Nude Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C15152"
+        },
+        {
+            "alt_label": "CD-1;CD1;CD1 (ICR) BR",
+            "definition": "Derived from Rockefeller Swiss mice that were disseminated to the Institute of Cancer Research in Philadelphia (1948).",
+            "identifier": "C76183",
+            "notation": "CD1(ICR)",
+            "pref_label": "ICR BR Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76183"
+        },
+        {
+            "alt_label": "CF-1",
+            "definition": "Thought to be wild albino in origin, this strain was obtained by Carworth farms from a Missouri laboratory. It was intensely inbred by N. Goto in 1978 from a single Carworth pair, the progeny of which is used today. The CF-1 mouse has an albino coat with genotype c.",
+            "identifier": "C77116",
+            "notation": "CF1",
+            "pref_label": "CF-1 Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77116"
+        },
+        {
+            "alt_label": "CHB Rabbit Strain;Chinchilla Bastard Rabbit",
+            "definition": "A grey-black rabbit with pigmented eyes derived from a cross between a chinchilla rabbit and New Zealand White rabbit.",
+            "identifier": "C163741",
+            "notation": "CHB",
+            "pref_label": "Chinchilla Bastard Rabbit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C163741"
+        },
+        {
+            "alt_label": "CHBB:HM Rabbit Strain;Himalayan Chinchilla Bastard Rabbit;Himalayan Rabbit",
+            "definition": "A medium sized rabbit that is mostly white with colored points on the feet, ears, tail and muzzle. It has a double copy of the ch gene.",
+            "identifier": "C163742",
+            "notation": "CHBB:HM",
+            "pref_label": "Himalayan Chinchilla Bastard Rabbit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C163742"
+        },
+        {
+            "definition": "A hamster derived from a cross between a Chinese hamster and Syrian hamster.",
+            "identifier": "C77092",
+            "notation": "CHINESE SYRIAN",
+            "pref_label": "Chinese Syrian Hamster",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77092"
+        },
+        {
+            "alt_label": "Chinese Hamster;Cricetulus barabensis griseus",
+            "definition": "Originating in the deserts of northern China and Mongolia and kept in captivity since 1919, these hamsters exhibit a whitish/grey/brown coat color with a black stripe down the spine.",
+            "identifier": "C77091",
+            "notation": "CHINESE",
+            "pref_label": "Chinese Hamster",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77091"
+        },
+        {
+            "definition": "Derived from a cross between the commercial Cornish chicken and a White Plymouth Rock chicken, this breed grows rapidly and reaches 4-6 pounds in 6 weeks. (NCI)",
+            "identifier": "C117981",
+            "notation": "CORNISH CROSS",
+            "pref_label": "Cornish Cross Chicken",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C117981"
+        },
+        {
+            "definition": "The rat of the genus Sigmodon.",
+            "identifier": "C77117",
+            "notation": "COTTON",
+            "pref_label": "Cotton Rat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77117"
+        },
+        {
+            "alt_label": "Cynomolgus Macaque;Macaca cynomolgus;Macaca irus",
+            "definition": "The macaque, Macaca fascicularis.",
+            "identifier": "C14232",
+            "notation": "CYNOMOLGUS",
+            "pref_label": "Cynomolgus Monkey",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14232"
+        },
+        {
+            "alt_label": "SS",
+            "definition": "Derived by Rapp from a colony of Sprague-Dawley rats that were initially derived by LK Dahl at Brookhaven National Laboratories. The SS rat strain has been selected for its acute salt sensitivity.",
+            "identifier": "C76186",
+            "notation": "DAHL-S",
+            "pref_label": "SS, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76186"
+        },
+        {
+            "definition": "The diabetic mutant mouse was derived from a spontaneous mutation in a C57BL/K progenitor mouse at the Jackson Laboratory in 1966. The db/db mouse is characterized by abnormal fat deposition at 3-4 weeks of age followed by hyperglycemia, glucosuria, polyuria and the development of lesions in the islets of Langerhans. (NCI)",
+            "identifier": "C122235",
+            "notation": "db/db",
+            "pref_label": "db/db Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C122235"
+        },
+        {
+            "definition": "Derived from crosses made by Little in 1929-1930 between DBA progenitors. The DBA/1 mouse has a q H2 haplotype and carries the Cdh23^ahl mutation that results in progressive hearing loss after 10 months of age. The DBA/1 and DBA/2 mice differ at loci Car2, Ce2, Hc, H2, If1, Lsh, Tla, and Qa3. The strain is commonly used as a model for rheumatoid arthritis as it mimics hallmarks of the human disease when immunized with type II collagen. (NCI)",
+            "identifier": "C14606",
+            "notation": "DBA/1",
+            "pref_label": "DBA/1 Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14606"
+        },
+        {
+            "definition": "Derived from crosses made by Little in 1929-1930 between DBA progenitors. The DBA/2 mouse has a d H2 haplotype and carries the Cdh23ahl mutation that results in a progressive hearing loss beginning at 3-4 weeks of age and severe hearing loss after 3 months of age. Alleles GpnmbR150X and Tyrp1isa contribute to an eye phenotype that closely resembles human hereditary glaucoma. The DBA/2 mouse strain shows severe intolerance to alcohol and morphine and is naturally CD94 deficient. (NCI)",
+            "identifier": "C14604",
+            "notation": "DBA/2",
+            "pref_label": "DBA/2 Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14604"
+        },
+        {
+            "alt_label": "DSH",
+            "definition": "A cat that is not purebred and has fur length that is characterized as short.",
+            "identifier": "C77124",
+            "notation": "DOMESTIC SHORT HAIR",
+            "pref_label": "Domestic Short Hair Cat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77124"
+        },
+        {
+            "definition": "The name for a domesticated animal that does not have a pedigree nor belong to a specific breed. (NCI)",
+            "identifier": "C117982",
+            "notation": "DOMESTIC",
+            "pref_label": "Domestic Animal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C117982"
+        },
+        {
+            "definition": "Albino outbred guinea pig belonging to the English (short-haired) breed. The Dunkin Hartley guinea pig has a white coat color (acromelanic albino) and red eyes and requires a nutritional source of vitamin C to sustain normal function.",
+            "identifier": "C77088",
+            "notation": "DUNKIN-HARTLEY",
+            "pref_label": "Dunkin Hartley Guinea Pig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77088"
+        },
+        {
+            "definition": "An older breed of American domestic pig, the Duroc breed is of medium length with a muscular, large-framed body. This pig breed is red-colored with partially drooping ears and is one of the most aggressive breeds of swine.",
+            "identifier": "C77101",
+            "notation": "DUROC-CROSS",
+            "pref_label": "Duroc Pig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77101"
+        },
+        {
+            "definition": "A smaller sized lagomorph, the Dutch belted rabbit has a characteristic belted appearance to the fur wherein the saddle, feet, and the front of the face are white while the rest of the body is colored. The Dutch belted rabbit is commonly utilized in biomedical research for toxicology studies, ophthalmological research, and developmental toxicity studies. This lagomorphs' small size lends itself to studies in which the study drug is available in smaller quantities or if housing space is a consideration.",
+            "identifier": "C76365",
+            "notation": "DUTCH BELTED",
+            "pref_label": "Dutch Belted Rabbit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76365"
+        },
+        {
+            "alt_label": "F344",
+            "definition": "Derived by Curtiss and Dunning (1920) at Columbia University and disseminated to Heston (1949) and then to the NIH (1951). The Fischer 344 rat has an albino coat and genotype c.",
+            "identifier": "C14401",
+            "notation": "FISCHER 344",
+            "pref_label": "F344, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14401"
+        },
+        {
+            "definition": "NIH general purpose Swiss mice were selected for resistance or sensitivity to histamine challenge following pertussis vaccination. The sensitive strain, HFSF/N, was subsequently found to have the Fv1b allele, which sensitizes the mice to B strain Friend Leukemia virus. The FVB/N strain has an albino coat with genotype A,B,c,D,P, and has a vigorous reproductive performance.",
+            "identifier": "C14474",
+            "notation": "FVB/N",
+            "pref_label": "FVB/N Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14474"
+        },
+        {
+            "definition": "A transgenic mouse with background strain FVB/N containing a mouse Hba-x promoter coupled to an Hras1 coding sequence with activating mutations at G12 (G12R) and A59 (A59T) followed by a SV40 polyadenylation signal. (NCI)",
+            "identifier": "C98733",
+            "notation": "FVB/NTac-Tg(Hba-x-v-Ha-ras)TG.ACLed",
+            "pref_label": "FVB/NTac-Tg(Hba-x-v-Ha-ras)TG.ACLed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C98733"
+        },
+        {
+            "definition": "The smallest of the common miniature breeds, this breed is 10-14kg at sexual maturity with a shortened snout and rounded appearance. The Gottingen pig has white skin and hair. It is used in a variety of applications in biomedical research including cardiovascular studies, and its small size makes it an ideal animal model due to its relative ease of handling and smaller housing requirements. (NCI)",
+            "identifier": "C77102",
+            "notation": "GOTTINGEN",
+            "pref_label": "Gottingen Pig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77102"
+        },
+        {
+            "definition": "One of the oldest original early American pig strains, the Hampshire pig originated from the Old English breed and was imported to North American in the mid-1800s. The Hampshire pig has black skin and hair covering most of its body with a white portion of skin covering its front limbs and back. The Hampshire pig is one of the larger pig breeds used in biomedical research. (NCI)",
+            "identifier": "C77103",
+            "notation": "HAMPSHIRE",
+            "pref_label": "Hampshire Pig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77103"
+        },
+        {
+            "definition": "The largest of the miniature breeds, it reaches 25-40kg at sexual maturity. The Hanford pig is white with an elongated snout and has the largest heart and blood vessels of all pig breeds. It is used in biomedical research, among other things, in the testing of implantable devices in human cardiovascular research. (NCI)",
+            "identifier": "C77104",
+            "notation": "HANFORD",
+            "pref_label": "Hanford Pig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77104"
+        },
+        {
+            "alt_label": "Hartley Albino Hairless",
+            "definition": "Derived from inbred Hartley stocks at the Eastman Kodak Company and Montreal's Institute Armand Frappier, having undergone spontaneous mutation that led to hairlessness and athymicity. The mutation that spawned the Hartley Hairless Guinea Pig was then re-derived at Charles River to restore thymus function while maintaining hairlessness.",
+            "identifier": "C77089",
+            "notation": "HARTLEY HAIRLESS",
+            "pref_label": "Hartley Albino Hairless Guinea Pig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77089"
+        },
+        {
+            "definition": "Albino outbred guinea pig belonging to the English (short-haired) breed. The Hartley guinea pig was imported from the Medical Research Council, Millhill, England, to Charles River in 1968 for propagation. The Hartley Guinea Pig has a white coat color (acromelanic albino) and red eyes and requires a nutritional source of vitamin C to sustain normal function.",
+            "identifier": "C77090",
+            "notation": "HARTLEY",
+            "pref_label": "Hartley Guinea Pig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77090"
+        },
+        {
+            "definition": "A white colored rabbit characterized by efficient superovulation and spontaneous formation of lymphoma. It is used as an animal model for Guillan-Barre syndrome in humans, toxicology, virology. (NCI)",
+            "identifier": "C76366",
+            "notation": "JAPANESE WHITE",
+            "pref_label": "Japanese White Rabbit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76366"
+        },
+        {
+            "definition": "Developed in Denmark by crossing native pigs with the Large White pig breed. The Landrace pig was imported into the UK in 1949 and disseminated worldwide beginning in the 1950s. This breed is characterized by white skin and the absence of black hair as well as lop ears and a long middle, light forequarter. The Landrace breed is susceptible to Porcine stress syndrome and malignant hyperthermia under anesthetic. This is one of the largest breeds in use in biomedical research. (NCI)",
+            "identifier": "C77105",
+            "notation": "LANDRACE-CROSS",
+            "pref_label": "Landrace Pig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77105"
+        },
+        {
+            "definition": "A small, commonly white-colored breed of poultry that is renowned for its ability to produce up to 300 chalk white eggs per year. The fully-grown leghorn chicken averages 3-6 pounds in weight and is characterized by being noisy, flighty, and easily excited. The leghorn has a lifespan of 5-11 years in the wild. In pre-clinical research, the leghorn is a consistent provider of eggs for embryonic, angiogenic, and vasculogenic research. (NCI)",
+            "identifier": "C77098",
+            "notation": "LEGHORNS",
+            "pref_label": "Leghorn Chicken",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77098"
+        },
+        {
+            "alt_label": "LEW",
+            "definition": "Derived from Wistar stock by the laboratory of Dr. Lewis at the Wistar Institute in the 1940s and 1950s, the Lewis is a white albino rat with genotype a, TyrC. The Lewis rat has a MHC haplotype of RT1A'. (NCI)",
+            "identifier": "C106538",
+            "notation": "LEWIS",
+            "pref_label": "Lewis, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C106538"
+        },
+        {
+            "definition": "This rat comes from Lister stock at the Lister Institute in the 1920s, but the derivation origin is unknown. It has a white body coat color and black coat color over the head.",
+            "identifier": "C114342",
+            "notation": "LISTER HOODED",
+            "pref_label": "LIS, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C114342"
+        },
+        {
+            "alt_label": "LE",
+            "definition": "Derived by Long and Evans (1915) by crossing female Wistar rats with a wild gray male, the Long-Evans rat was disseminated to Charles River from Canadian Breeding Farm and Laboratories (1978). This outbred rat breed is white with a black or brown hood.",
+            "identifier": "C76188",
+            "notation": "LONG EVANS",
+            "pref_label": "LE, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76188"
+        },
+        {
+            "alt_label": "Callithrix jacchus jacchus;White-Ear-Tufted Marmoset",
+            "definition": "The common marmoset, Callithrix jacchus.",
+            "identifier": "C77115",
+            "notation": "MARMOSET",
+            "pref_label": "Callithrix jacchus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77115"
+        },
+        {
+            "alt_label": "Yucatan Micropig",
+            "definition": "A strain of Yucatan pig that weighs less than 55 kg when full grown. It was developed at Colorado State University in 1978 and is used extensively in biomedical research.",
+            "identifier": "C91817",
+            "notation": "MICRO YUCATAN MINIATURE SWINE",
+            "pref_label": "Yucatan Micropig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C91817"
+        },
+        {
+            "definition": "A Yucatan or other pig breed that is bred specifically for its small size. The micropig weighs between 14-20kg at sexual maturity. (NCI)",
+            "identifier": "C77106",
+            "notation": "MICROPIG",
+            "pref_label": "Micropig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77106"
+        },
+        {
+            "definition": "A Yucatan, Gottingen, or other pig breed that is bred specifically for its small size. The Minipig weighs between 20-30kg at sexual maturity. (NCI)",
+            "identifier": "C77107",
+            "notation": "MINIPIG",
+            "pref_label": "Minipig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77107"
+        },
+        {
+            "definition": "A rodent belonging to subfamily Gerbillinae, Meriones unguiculatus.",
+            "identifier": "C77100",
+            "notation": "MONGOLIAN",
+            "pref_label": "Mongolian Gerbil",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77100"
+        },
+        {
+            "definition": "A dog that is not purebred.",
+            "identifier": "C53951",
+            "notation": "MONGREL",
+            "pref_label": "Mixed Breed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C53951"
+        },
+        {
+            "definition": "One of the larger rabbit breeds, the New Zealand was derived by Don Johnson in 1916 by crossing unknown breeds. This rabbit weighs between 9-12 lbs. fully grown and may come in a variety of coat colors.",
+            "identifier": "C114344",
+            "notation": "NEW ZEALAND",
+            "pref_label": "New Zealand Rabbit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C114344"
+        },
+        {
+            "alt_label": "NIH Minipig",
+            "definition": "An inbred strain of miniature swine developed by Sachs et al at the NIH in 1976 from a cross between a Hormel pig and a Vita Vet miniature pig. (NCI)",
+            "identifier": "C106549",
+            "notation": "NIH SLA MINIATURE SWINE",
+            "pref_label": "NIH Minipig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C106549"
+        },
+        {
+            "definition": "Derived from a Swiss type mouse that C. Lynch passed onto Poiley at NIH in 1937. This strain, then known as NIH/PI, was maintained as an inbred strain and was passed onto the Naval Medical Research Institute at F51. The NMRI mouse has a white coat color (albino) with genotype A/a, TyrC.",
+            "identifier": "C37416",
+            "notation": "NMRI",
+            "pref_label": "NMRI Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C37416"
+        },
+        {
+            "alt_label": "NOD.SCID",
+            "definition": "Originally derived by Prochazka et al (1992) at Jackson Laboratories, by crossing a C.B-17 congenic background mouse with the scid mutation to a diabetes-susceptible non-obese diabetic (NOD) mouse. This mouse is albino in color with coat genotype Tyrc.",
+            "identifier": "C15167",
+            "notation": "NOD SCID",
+            "pref_label": "NOD.CB17-Prkdc-scid/J Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C15167"
+        },
+        {
+            "definition": "A hairless mutant mouse with thymic hypoplasia, lacking T-cells. They are unable to reject transplants. (NCI)",
+            "identifier": "C14239",
+            "notation": "NU",
+            "pref_label": "Nude Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14239"
+        },
+        {
+            "definition": "The obese mutant mouse was derived from a spontaneous mutation in a V/Le progenitor mouse at the Jackson Laboratory in 1949. (NCI)",
+            "identifier": "C122236",
+            "notation": "ob/ob",
+            "pref_label": "ob/ob Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C122236"
+        },
+        {
+            "definition": "A hairless Sprague-Dawley rat from the Charles River affiliate IFFA Credo (Labresle, France). (NCI)",
+            "identifier": "C76187",
+            "notation": "OFA(SD)",
+            "pref_label": "OFA SD, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76187"
+        },
+        {
+            "alt_label": "Rhesus Macaque",
+            "definition": "A pale brown macaque, Macaca mulatta.",
+            "identifier": "C14233",
+            "notation": "RHESUS",
+            "pref_label": "Rhesus Monkey",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14233"
+        },
+        {
+            "definition": "An athymic, nude, outbred rat strain derived from crosses of 8 inbred rat strains at the laboratories of the NIH animal genetic resource in 1979-1980.",
+            "identifier": "C122237",
+            "notation": "RNU",
+            "pref_label": "RNU, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C122237"
+        },
+        {
+            "definition": "A small white-colored broiler breed that averages 4-5.5 pounds when fully grown, with females averaging 120 eggs laid per year. Two substrains exist of Ross chickens; the Ross 308 and the Ross 708. The Ross 308 weighs between 3.8-5.5 pounds and is slightly smaller than the Ross 708 which can grow to be larger than 5.5 pounds. The Ross 708 is bred specifically for high meat yield and ease in deboning. (NCI)",
+            "identifier": "C77099",
+            "notation": "ROSS",
+            "pref_label": "Ross Chicken",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77099"
+        },
+        {
+            "definition": "The spontaneous hypertensive rat was derived by Okamoto at the Kyoto school of medicine (1963) from a cross between an outbred Wistar Kyoto male with a significant elevation of blood pressure and a female Wistar Kyoto with elevated blood pressure. SHR rats develop hypertension spontaneously without exception at the age of 7-15 weeks with a systolic blood pressure plateau of about 200 mmHg. The genetic basis is polygenic, with at least three major genes involved (Tanase and Suzuki 1971, Yen et al 1974).",
+            "identifier": "C14412",
+            "notation": "SHR",
+            "pref_label": "SHR, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14412"
+        },
+        {
+            "alt_label": "Sinclair Miniature Swine;Sinclair S-1 Minipig",
+            "definition": "A strain of pig developed by the Hormel Institute at the University of Minnesota in 1949, acquired by the University of Missouri in 1965 and now exclusively bred at the Sinclair Research Center. This strain of pig grows to be no larger than 70 kg and exhibits multiple coat colors and patterns. The Sinclair minipig is used in biomedical research for a variety of applications.",
+            "identifier": "C91819",
+            "notation": "SINCLAIR MINIATURE SWINE",
+            "pref_label": "Sinclair Minipig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C91819"
+        },
+        {
+            "alt_label": "SKH1",
+            "definition": "An uncharacterized and non-pedigreed hairless albino mouse strain that is immunocompetent and euthymic. (NCI)",
+            "identifier": "C98782",
+            "notation": "SKH1-Hr hr",
+            "pref_label": "SKH1-Hr hr",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C98782"
+        },
+        {
+            "alt_label": "SD",
+            "definition": "Derived from Wistar rats at Sprague-Dawley farms, this rat strain is characterized by a calm temperament which lends itself to ease of handling. This rat strain has the following anatomical features: absent gallbladder, a one-lobed left lung and a four-lobed right lung, the inability to vomit, and the production of dark colored eye secretions during periods of stress.",
+            "identifier": "C76189",
+            "notation": "SPRAGUE-DAWLEY",
+            "pref_label": "SD, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76189"
+        },
+        {
+            "alt_label": "Squirrel Monkey",
+            "definition": "A small diurnal primate with nails instead of claws belonging to the genus Saimiri.",
+            "identifier": "C160934",
+            "notation": "SQUIRREL",
+            "pref_label": "Saimiri",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C160934"
+        },
+        {
+            "definition": "A strain of sheep originally derived in England in the 1880s from a cross between a Southdown ram and a Norfolk Horned ewe. The Suffolk sheep has a white-colored body, black face and legs, and has a wool type of medium. (NCI)",
+            "identifier": "C106572",
+            "notation": "SUFFOLK",
+            "pref_label": "Suffolk Sheep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C106572"
+        },
+        {
+            "alt_label": "SW;SWR",
+            "definition": "Derived from inbreeding of Swiss mice at the Rockefeller Institute in 1926 by Dr. Leslie Webster, the Swiss Webster is a white albino mouse with genotype TyrC. The superior nurturing ability of the Swiss Webster makes it ideal for embryo transfers. (NCI)",
+            "identifier": "C106573",
+            "notation": "SWISS WEBSTER",
+            "pref_label": "Swiss Webster Mouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C106573"
+        },
+        {
+            "alt_label": "Golden Hamster;MESOCRICETUS AURATUS;Syrian Hamster",
+            "definition": "A captive hamster strain derived from a mother and eight pups that were captured in the wild in Aleppo, Syria by Dr. Israel Aharoni in 1930.",
+            "identifier": "C77095",
+            "notation": "SYRIAN",
+            "pref_label": "Syrian Hamster",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77095"
+        },
+        {
+            "alt_label": "WF",
+            "definition": "A Wistar substrain derived by Furth (1945), this inbred rat strain is a white albino with pink eyes, genotype c. The Wistar Furth rat carries a heteropyenotic Y chromosome that is used as a cellular marker.",
+            "identifier": "C14390",
+            "notation": "WISTAR FURTH",
+            "pref_label": "WF, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C14390"
+        },
+        {
+            "alt_label": "WH",
+            "definition": "A Wistar substrain established in Hanover, Germany (1964), this rat breed is a white albino with pink eyes, genotype c.",
+            "identifier": "C76191",
+            "notation": "WISTAR HAN",
+            "pref_label": "WH, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76191"
+        },
+        {
+            "alt_label": "WKY",
+            "definition": "An outbred Wistar substrain derived at Kyoto school of medicine and disseminated to the NIH in 1971 and finally to Charles River in 1974. The Wistar Kyoto is a white albino with pink eyes, genotype c.",
+            "identifier": "C76192",
+            "notation": "WISTAR KYOTO",
+            "pref_label": "WKY, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76192"
+        },
+        {
+            "alt_label": "WI(WU)",
+            "definition": "A Wistar substrain that was disseminated to Glaxo Laboratory (UK) from the Wistar Institute in Philadelphia in 1933, then to the Dutch Institution for Nutrition (Amsterdam, The Netherlands) and maintained by Unilever Company (Vlaardingen, The Netherlands) from 1941. This strain is now disseminated by Harland Nederland. The Wistar Unilever rat is an albino, genotype c and pink eyes.",
+            "identifier": "C76193",
+            "notation": "WISTAR WU",
+            "pref_label": "Wistar Unilever, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76193"
+        },
+        {
+            "alt_label": "WIST",
+            "definition": "An outbred strain of albino brown rat, this strain was developed at the Wistar Institute by Donaldson, Greenman, and King (1906). The Wistar rat has a wide head, long ears, and its tail length is always less than its body length. A wide variety of rat inbred strains have been derived from the Wistar.",
+            "identifier": "C76190",
+            "notation": "WISTAR",
+            "pref_label": "WIST, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76190"
+        },
+        {
+            "alt_label": "Yucatan Minipig",
+            "definition": "A strain of Yucatan pig that is found in the wild in Costa Rica and Mexico. It is a hairless, black or grey colored swine and weighs less than 70 kilograms at adulthood. It is used extensively in biomedical research.",
+            "identifier": "C91818",
+            "notation": "YUCATAN MINIATURE SWINE",
+            "pref_label": "Yucatan Minipig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C91818"
+        },
+        {
+            "definition": "Originating from Mexico and Central America, this breed has a straight back and no potbelly, short snout, sparse hair coat and medium size ears. The Yucatan pig is slate gray to black in color. Its uses in biomedical research are varied and include diabetes research, cardiovascular research, angiogenesis, and ophthalmological research among others. (NCI)",
+            "identifier": "C77108",
+            "notation": "YUCATAN",
+            "pref_label": "Yucatan Pig",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C77108"
+        },
+        {
+            "alt_label": "ZUC-leprfa",
+            "definition": "Derived from a spontaneous mutation in the leptin receptor that appeared in a 13M rat colony bred at the Zucker Laboratory of Comparative Pathology (Stow, MA), genotype leprfa.",
+            "identifier": "C76194",
+            "notation": "ZUCKER",
+            "pref_label": "Z, Rat Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C77530-C76194"
+        }
+    ]
+}

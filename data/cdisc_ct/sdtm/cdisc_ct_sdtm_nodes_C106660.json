@@ -1,0 +1,484 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CSS04-Aborted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Description of aborted attempt.",
+            "identifier": "C106749",
+            "notation": "CSS04-Aborted Attempt, Describe",
+            "pref_label": "C-SSRS Baseline/Screening Version - Description of Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106749"
+        },
+        {
+            "alt_label": "CSS04-Aborted Attempt-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything? (Lifetime).",
+            "identifier": "C106745",
+            "notation": "CSS04-Aborted Attempt-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Aborted Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106745"
+        },
+        {
+            "alt_label": "CSS04-Aborted Attempt-P_Y",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything? (Past _ Years).",
+            "identifier": "C106746",
+            "notation": "CSS04-Aborted Attempt-P_Y",
+            "pref_label": "C-SSRS Baseline/Screening Version - Aborted Suicide Attempt (Past X Years)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106746"
+        },
+        {
+            "alt_label": "CSS04-Actual Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Description of actual attempt.",
+            "identifier": "C106737",
+            "notation": "CSS04-Actual Attempt, Describe",
+            "pref_label": "C-SSRS Baseline/Screening Version - Description of Actual Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106737"
+        },
+        {
+            "alt_label": "CSS04-Actual Attempt-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died? (Lifetime).",
+            "identifier": "C106733",
+            "notation": "CSS04-Actual Attempt-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Actual Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106733"
+        },
+        {
+            "alt_label": "CSS04-Actual Attempt-P_Y",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died? (Past _ Years).",
+            "identifier": "C106734",
+            "notation": "CSS04-Actual Attempt-P_Y",
+            "pref_label": "C-SSRS Baseline/Screening Version - Actual Suicide Attempt (Past X Years)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106734"
+        },
+        {
+            "alt_label": "CSS04-First Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Initial/first attempt actual lethality/medical damage.",
+            "identifier": "C106762",
+            "notation": "CSS04-First Attempt Damage",
+            "pref_label": "C-SSRS Baseline/Screening Version - First Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106762"
+        },
+        {
+            "alt_label": "CSS04-First Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Initial/first attempt date.",
+            "identifier": "C106761",
+            "notation": "CSS04-First Attempt Date",
+            "pref_label": "C-SSRS Baseline/Screening Version - First Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106761"
+        },
+        {
+            "alt_label": "CSS04-First Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Initial/first attempt potential lethality.",
+            "identifier": "C106763",
+            "notation": "CSS04-First Attempt Potential",
+            "pref_label": "C-SSRS Baseline/Screening Version - First Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106763"
+        },
+        {
+            "alt_label": "CSS04-Idea, Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Description of active suicidal ideation with some intent to act, without specific plan.",
+            "identifier": "C107019",
+            "notation": "CSS04-Idea, Intent, No Plan, Describe",
+            "pref_label": "C-SSRS Baseline/Screening Version - Description of Active Suicidal Ideation with Some Intent to Act, without Specific Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C107019"
+        },
+        {
+            "alt_label": "CSS04-Idea, Intent, No Plan-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you had these thoughts and had some intention of acting on them? (Lifetime).",
+            "identifier": "C107017",
+            "notation": "CSS04-Idea, Intent, No Plan-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C107017"
+        },
+        {
+            "alt_label": "CSS04-Idea, Intent, No Plan-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you had these thoughts and had some intention of acting on them? (Past _ Months).",
+            "identifier": "C107018",
+            "notation": "CSS04-Idea, Intent, No Plan-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C107018"
+        },
+        {
+            "alt_label": "CSS04-Idea, No Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Description of active suicidal ideation with any methods (not plan) without intent to act.",
+            "identifier": "C106715",
+            "notation": "CSS04-Idea, No Intent, No Plan, Describe",
+            "pref_label": "C-SSRS Baseline/Screening Version - Description of Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106715"
+        },
+        {
+            "alt_label": "CSS04-Idea, No Intent, No Plan-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you been thinking about how you might do this? (Lifetime).",
+            "identifier": "C106713",
+            "notation": "CSS04-Idea, No Intent, No Plan-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106713"
+        },
+        {
+            "alt_label": "CSS04-Idea, No Intent, No Plan-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you been thinking about how you might do this? (Past _ Months).",
+            "identifier": "C106714",
+            "notation": "CSS04-Idea, No Intent, No Plan-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106714"
+        },
+        {
+            "alt_label": "CSS04-Idea, Plan, Intent, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Description of active suicidal ideation with specific plan and intent.",
+            "identifier": "C106718",
+            "notation": "CSS04-Idea, Plan, Intent, Describe",
+            "pref_label": "C-SSRS Baseline/Screening Version - Description of Active Suicidal Ideation with Specific Plan and Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106718"
+        },
+        {
+            "alt_label": "CSS04-Idea, Plan, Intent-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Lifetime).",
+            "identifier": "C106716",
+            "notation": "CSS04-Idea, Plan, Intent-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Active Suicidal Ideation with Specific Plan and Intent (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106716"
+        },
+        {
+            "alt_label": "CSS04-Idea, Plan, Intent-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Past _ Months).",
+            "identifier": "C106717",
+            "notation": "CSS04-Idea, Plan, Intent-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Active Suicidal Ideation with Specific Plan and Intent (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106717"
+        },
+        {
+            "alt_label": "CSS04-Interrupted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Description of interrupted attempt.",
+            "identifier": "C106744",
+            "notation": "CSS04-Interrupted Attempt, Describe",
+            "pref_label": "C-SSRS Baseline/Screening Version - Description of Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106744"
+        },
+        {
+            "alt_label": "CSS04-Interrupted Attempt-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Has there been a time when you started to do something to try to end your life but someone or something stopped you before you actually did anything? (Lifetime).",
+            "identifier": "C106740",
+            "notation": "CSS04-Interrupted Attempt-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Interrupted Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106740"
+        },
+        {
+            "alt_label": "CSS04-Interrupted Attempt-P_Y",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Has there been a time when you started to do something to try to end your life but someone or something stopped you before you actually did anything? (Past _ Years).",
+            "identifier": "C106741",
+            "notation": "CSS04-Interrupted Attempt-P_Y",
+            "pref_label": "C-SSRS Baseline/Screening Version - Interrupted Suicide Attempt (Past X Years)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106741"
+        },
+        {
+            "alt_label": "CSS04-Most Lethal Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Most lethal attempt actual lethality/medical damage.",
+            "identifier": "C106759",
+            "notation": "CSS04-Most Lethal Attempt Damage",
+            "pref_label": "C-SSRS Baseline/Screening Version - Most Lethal Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106759"
+        },
+        {
+            "alt_label": "CSS04-Most Lethal Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Most lethal attempt date.",
+            "identifier": "C106758",
+            "notation": "CSS04-Most Lethal Attempt Date",
+            "pref_label": "C-SSRS Baseline/Screening Version - Most Lethal Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106758"
+        },
+        {
+            "alt_label": "CSS04-Most Lethal Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Most lethal attempt potential lethality.",
+            "identifier": "C106760",
+            "notation": "CSS04-Most Lethal Attempt Potential",
+            "pref_label": "C-SSRS Baseline/Screening Version - Most Lethal Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106760"
+        },
+        {
+            "alt_label": "CSS04-Most Recent Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Most recent attempt actual lethality/medical damage.",
+            "identifier": "C106756",
+            "notation": "CSS04-Most Recent Attempt Damage",
+            "pref_label": "C-SSRS Baseline/Screening Version - Most Recent Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106756"
+        },
+        {
+            "alt_label": "CSS04-Most Recent Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Most recent attempt date.",
+            "identifier": "C106755",
+            "notation": "CSS04-Most Recent Attempt Date",
+            "pref_label": "C-SSRS Baseline/Screening Version - Most Recent Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106755"
+        },
+        {
+            "alt_label": "CSS04-Most Recent Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Most recent attempt potential lethality.",
+            "identifier": "C106757",
+            "notation": "CSS04-Most Recent Attempt Potential",
+            "pref_label": "C-SSRS Baseline/Screening Version - Most Recent Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106757"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Control-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Lifetime).",
+            "identifier": "C106727",
+            "notation": "CSS04-Most Severe Idea, Control-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Controllability of Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106727"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Control-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Past _ Months).",
+            "identifier": "C106728",
+            "notation": "CSS04-Most Severe Idea, Control-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Controllability of Most Severe Ideation (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106728"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Desc-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Description of most severe ideation. (Lifetime).",
+            "identifier": "C106720",
+            "notation": "CSS04-Most Severe Idea, Desc-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Describe Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106720"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Desc-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Description of most severe ideation. (Past _ Months).",
+            "identifier": "C106722",
+            "notation": "CSS04-Most Severe Idea, Desc-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Describe Most Severe Ideation (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106722"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Deterrents-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Are there things-anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Lifetime).",
+            "identifier": "C106729",
+            "notation": "CSS04-Most Severe Idea, Deterrents-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Deterrents to Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106729"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Deterrents-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Are there things-anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Past _ Months).",
+            "identifier": "C106730",
+            "notation": "CSS04-Most Severe Idea, Deterrents-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Deterrents to Most Severe Ideation (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106730"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Duration-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - When you have the thoughts how long do they last? (Lifetime).",
+            "identifier": "C106725",
+            "notation": "CSS04-Most Severe Idea, Duration-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Duration of Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106725"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Duration-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - When you have the thoughts how long do they last? (Past _ Months).",
+            "identifier": "C106726",
+            "notation": "CSS04-Most Severe Idea, Duration-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Duration of Most Severe Ideation (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106726"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Frequency-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - How many times have you had these thoughts? (Lifetime).",
+            "identifier": "C106723",
+            "notation": "CSS04-Most Severe Idea, Frequency-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Frequency of Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106723"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Frequency-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - How many times have you had these thoughts? (Past _ Months).",
+            "identifier": "C106724",
+            "notation": "CSS04-Most Severe Idea, Frequency-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Frequency of Most Severe Ideation (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106724"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Reasons-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Lifetime).",
+            "identifier": "C106731",
+            "notation": "CSS04-Most Severe Idea, Reasons-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Reasons for Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106731"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea, Reasons-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Past _ Months).",
+            "identifier": "C106732",
+            "notation": "CSS04-Most Severe Idea, Reasons-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Reasons for Most Severe Ideation (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106732"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Most severe ideation. (Lifetime).",
+            "identifier": "C106719",
+            "notation": "CSS04-Most Severe Idea-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106719"
+        },
+        {
+            "alt_label": "CSS04-Most Severe Idea-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Most severe ideation. (Past _ Months).",
+            "identifier": "C106721",
+            "notation": "CSS04-Most Severe Idea-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Most Severe Ideation (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106721"
+        },
+        {
+            "alt_label": "CSS04-Non-Spec Suicid Thought, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Description of non-specific active suicidal thoughts.",
+            "identifier": "C106712",
+            "notation": "CSS04-Non-Spec Suicid Thought, Describe",
+            "pref_label": "C-SSRS Baseline/Screening Version - Description of Non-Specific Active Suicidal Thoughts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106712"
+        },
+        {
+            "alt_label": "CSS04-Non-Spec Suicid Thought-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you actually had any thoughts of killing yourself? (Lifetime).",
+            "identifier": "C106710",
+            "notation": "CSS04-Non-Spec Suicid Thought-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Non-Specific Active Suicidal Thoughts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106710"
+        },
+        {
+            "alt_label": "CSS04-Non-Spec Suicid Thought-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you actually had any thoughts of killing yourself? (Past _ Months).",
+            "identifier": "C106711",
+            "notation": "CSS04-Non-Spec Suicid Thought-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Non-Specific Active Suicidal Thoughts (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106711"
+        },
+        {
+            "alt_label": "CSS04-Non-suicidal Self-injur Behav-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Has the subject engaged in non-suicidal self-injurious behavior. (Lifetime).",
+            "identifier": "C106738",
+            "notation": "CSS04-Non-suicidal Self-injur Behav-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Non-suicidal Self-injurious Behavior (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106738"
+        },
+        {
+            "alt_label": "CSS04-Non-suicidal Self-injur Behav-P_Y",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Has the subject engaged in non-suicidal self-injurious behavior. (Past _ Years).",
+            "identifier": "C106739",
+            "notation": "CSS04-Non-suicidal Self-injur Behav-P_Y",
+            "pref_label": "C-SSRS Baseline/Screening Version - Non-suicidal Self-injurious Behavior (Past X Years)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106739"
+        },
+        {
+            "alt_label": "CSS04-Number of Aborted Attempts-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Total number of aborted attempts. (Lifetime).",
+            "identifier": "C106747",
+            "notation": "CSS04-Number of Aborted Attempts-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Number of Aborted Suicide Attempts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106747"
+        },
+        {
+            "alt_label": "CSS04-Number of Aborted Attempts-P_Y",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Total number of aborted attempts. (Past _ Years).",
+            "identifier": "C106748",
+            "notation": "CSS04-Number of Aborted Attempts-P_Y",
+            "pref_label": "C-SSRS Baseline/Screening Version - Number of Aborted Suicide Attempts (Past X Years)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106748"
+        },
+        {
+            "alt_label": "CSS04-Number of Actual Attempts-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Total number of actual attempts. (Lifetime).",
+            "identifier": "C106735",
+            "notation": "CSS04-Number of Actual Attempts-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Number of Actual Suicide Attempts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106735"
+        },
+        {
+            "alt_label": "CSS04-Number of Actual Attempts-P_Y",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Total number of actual attempts. (Past _ Years).",
+            "identifier": "C106736",
+            "notation": "CSS04-Number of Actual Attempts-P_Y",
+            "pref_label": "C-SSRS Baseline/Screening Version - Number of Actual Suicide Attempts (Past X Years)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106736"
+        },
+        {
+            "alt_label": "CSS04-Number of Interrupt Attempts-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Total number of interrupted attempts. (Lifetime).",
+            "identifier": "C106742",
+            "notation": "CSS04-Number of Interrupt Attempts-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Number of Interrupted Suicide Attempts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106742"
+        },
+        {
+            "alt_label": "CSS04-Number of Interrupt Attempts-P_Y",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Total number of interrupted attempts. (Past _ Years).",
+            "identifier": "C106743",
+            "notation": "CSS04-Number of Interrupt Attempts-P_Y",
+            "pref_label": "C-SSRS Baseline/Screening Version - Number of Interrupted Suicide Attempts (Past X Years)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106743"
+        },
+        {
+            "alt_label": "CSS04-Preparatory Acts/Behav, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Description of preparatory acts or behavior.",
+            "identifier": "C106752",
+            "notation": "CSS04-Preparatory Acts/Behav, Descr",
+            "pref_label": "C-SSRS Baseline/Screening Version - Description of Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106752"
+        },
+        {
+            "alt_label": "CSS04-Preparatory Acts/Behavior-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)? (Lifetime).",
+            "identifier": "C106750",
+            "notation": "CSS04-Preparatory Acts/Behavior-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Preparatory Acts or Behaviors Toward Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106750"
+        },
+        {
+            "alt_label": "CSS04-Preparatory Acts/Behavior-P_Y",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)? (Past _ Years).",
+            "identifier": "C106751",
+            "notation": "CSS04-Preparatory Acts/Behavior-P_Y",
+            "pref_label": "C-SSRS Baseline/Screening Version - Preparatory Acts or Behaviors Toward Suicide Attempt (Past X Years)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106751"
+        },
+        {
+            "alt_label": "CSS04-Suicidal Behavior-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Suicidal behavior was present during the assessment period? (Lifetime).",
+            "identifier": "C106753",
+            "notation": "CSS04-Suicidal Behavior-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Suicidal Behavior (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106753"
+        },
+        {
+            "alt_label": "CSS04-Suicidal Behavior-P_Y",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Suicidal behavior was present during the assessment period? (Past _ Years).",
+            "identifier": "C106754",
+            "notation": "CSS04-Suicidal Behavior-P_Y",
+            "pref_label": "C-SSRS Baseline/Screening Version - Suicidal Behavior (Past X Years)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106754"
+        },
+        {
+            "alt_label": "CSS04-Wish to be Dead, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Description of wishing to be dead.",
+            "identifier": "C106709",
+            "notation": "CSS04-Wish to be Dead, Describe",
+            "pref_label": "C-SSRS Baseline/Screening Version - Description of Wish to be Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106709"
+        },
+        {
+            "alt_label": "CSS04-Wish to be Dead-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you wished you were dead or wished you could go to sleep and not wake up? (Lifetime).",
+            "identifier": "C106707",
+            "notation": "CSS04-Wish to be Dead-Life",
+            "pref_label": "C-SSRS Baseline/Screening Version - Wish to be Dead (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106707"
+        },
+        {
+            "alt_label": "CSS04-Wish to be Dead-P_M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version - Have you wished you were dead or wished you could go to sleep and not wake up? (Past _ Months).",
+            "identifier": "C106708",
+            "notation": "CSS04-Wish to be Dead-P_M",
+            "pref_label": "C-SSRS Baseline/Screening Version - Wish to be Dead (Past X Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106660-C106708"
+        }
+    ]
+}

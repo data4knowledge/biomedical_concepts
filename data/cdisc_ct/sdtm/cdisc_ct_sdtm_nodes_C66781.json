@@ -1,0 +1,43 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A unit of measurement of time equal to 24 hours.",
+            "identifier": "C25301",
+            "notation": "DAYS",
+            "pref_label": "Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66781-C25301"
+        },
+        {
+            "alt_label": "h;Hours;hr",
+            "definition": "A unit of measurement of time equal to 60 minutes.",
+            "identifier": "C25529",
+            "notation": "HOURS",
+            "pref_label": "Hour",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66781-C25529"
+        },
+        {
+            "alt_label": "Month",
+            "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks. (NCI)",
+            "identifier": "C29846",
+            "notation": "MONTHS",
+            "pref_label": "Month",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66781-C29846"
+        },
+        {
+            "alt_label": "Week",
+            "definition": "Any period of seven consecutive days. (NCI)",
+            "identifier": "C29844",
+            "notation": "WEEKS",
+            "pref_label": "Week",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66781-C29844"
+        },
+        {
+            "alt_label": "Year",
+            "definition": "The period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period. (NCI)",
+            "identifier": "C29848",
+            "notation": "YEARS",
+            "pref_label": "Year",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66781-C29848"
+        }
+    ]
+}

@@ -1,0 +1,2329 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A benign tumor of the pancreas with morphologic characteristics of endocrine, acinar and ductal cells. (INHAND)",
+            "identifier": "C116215",
+            "notation": "ACINAR-ISLET CELL TUMOR, BENIGN",
+            "pref_label": "Experimental Organism Benign Acinar-islet Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C116215"
+        },
+        {
+            "definition": "A malignant pancreatic neoplasm characterized by the presence of a mixture of acinar and islet cell elements.",
+            "identifier": "C6878",
+            "notation": "ACINAR-ISLET CELL TUMOR, MALIGNANT",
+            "pref_label": "Pancreatic Mixed Acinar-Neuroendocrine Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C6878"
+        },
+        {
+            "alt_label": "Adamantinoma",
+            "definition": "A low-grade malignant neoplasm composed of epithelial cells and a spindle cell osteo-fibrous proliferation.",
+            "identifier": "C7644",
+            "notation": "ADAMANTINOMA, MALIGNANT",
+            "pref_label": "Adamantinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7644"
+        },
+        {
+            "alt_label": "Adenoacanthoma",
+            "definition": "A malignant neoplasm arising from glandular cells that includes focal or extensive areas of squamous metaplasia.",
+            "identifier": "C4200",
+            "notation": "ADENOACANTHOMA, MALIGNANT",
+            "pref_label": "Adenocarcinoma with Squamous Metaplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4200"
+        },
+        {
+            "definition": "A malignant adenocarcinoma that arises from a pre-existing benign fibroadenoma.",
+            "identifier": "C154892",
+            "notation": "ADENOCARCINOMA ARISING IN FIBROADENOMA, MALIGNANT",
+            "pref_label": "Experimental Organism Adenocarcinoma Arising in Fibroadenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C154892"
+        },
+        {
+            "alt_label": "Clear Cell Carcinoma;Mesonephroid Clear Cell Adenocarcinoma;Mesonephroid Clear Cell Carcinoma",
+            "definition": "A malignant neoplasm comprising glandular epithelial clear cells.",
+            "identifier": "C3766",
+            "notation": "ADENOCARCINOMA, CLEAR CELL, MALIGNANT",
+            "pref_label": "Clear Cell Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3766"
+        },
+        {
+            "definition": "A malignant adenocarcinoma characterized by duct-like structures accompanied by dense, fibrous stroma. (INHAND)",
+            "identifier": "C156609",
+            "notation": "ADENOCARCINOMA, DUCTAL CELL, MALIGNANT",
+            "pref_label": "Experimental Organism Ductal Cell Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C156609"
+        },
+        {
+            "alt_label": "Adenocarcinoma of Endometrium;Adenocarcinoma of the Endometrium",
+            "definition": "A malignant glandular neoplasm of the uterine lining.",
+            "identifier": "C7359",
+            "notation": "ADENOCARCINOMA, ENDOMETRIAL, MALIGNANT",
+            "pref_label": "Endometrial Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7359"
+        },
+        {
+            "definition": "A malignant neoplasm arising from glandular cells.",
+            "identifier": "C2852",
+            "notation": "ADENOCARCINOMA, MALIGNANT",
+            "pref_label": "Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2852"
+        },
+        {
+            "alt_label": "Colloid Adenocarcinoma;Colloid Carcinoma;Gelatinous Adenocarcinoma;Gelatinous Carcinoma;Mucinous Carcinoma;Mucoid Adenocarcinoma;Mucoid Carcinoma;Mucous Adenocarcinoma;Mucous Carcinoma",
+            "definition": "An adenocarcinoma comprising neoplastic glandular cells containing intracytoplasmic mucin.",
+            "identifier": "C26712",
+            "notation": "ADENOCARCINOMA, MUCINOUS, MALIGNANT",
+            "pref_label": "Mucinous Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C26712"
+        },
+        {
+            "definition": "An adenocarcinoma with papillary growth pattern.",
+            "identifier": "C2853",
+            "notation": "ADENOCARCINOMA, PAPILLARY, MALIGNANT",
+            "pref_label": "Papillary Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2853"
+        },
+        {
+            "alt_label": "Carcinoma of Sebaceous Gland;Carcinoma of the Sebaceous Gland;Carcinoma, Sebaceous Cell;Sebaceous Gland Carcinoma",
+            "definition": "A malignant adenocarcinoma with sebaceous differentiation.",
+            "identifier": "C40310",
+            "notation": "ADENOCARCINOMA, SEBACEOUS, MALIGNANT",
+            "pref_label": "Sebaceous Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C40310"
+        },
+        {
+            "alt_label": "Benign Mixed Muellerian Tumor",
+            "definition": "Benign mixed neoplasm comprised of epithelial/glandular and mesenchymal structures.",
+            "identifier": "C8984",
+            "notation": "ADENOFIBROMA, BENIGN",
+            "pref_label": "Female Reproductive System Adenofibroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8984"
+        },
+        {
+            "definition": "Benign mixed neoplasm comprised of epithelial/glandular and lipomatous structures.",
+            "identifier": "C4159",
+            "notation": "ADENOLIPOMA, BENIGN",
+            "pref_label": "Lipoadenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4159"
+        },
+        {
+            "alt_label": "Acinar Adenoma;Acinic Cell Adenoma",
+            "definition": "A benign glandular epithelial neoplasm comprising secretory cells forming acinar patterns.",
+            "identifier": "C4196",
+            "notation": "ADENOMA, ACINAR CELL, BENIGN",
+            "pref_label": "Acinar Cell Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4196"
+        },
+        {
+            "alt_label": "Adenoma of Adnexa;Adenoma of Skin Appendage;Adnexal Adenoma",
+            "definition": "A benign epithelial neoplasm arising from the sebaceous or sweat glands.",
+            "identifier": "C7580",
+            "notation": "ADENOMA, ADNEXAL, BENIGN",
+            "pref_label": "Skin Appendage Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7580"
+        },
+        {
+            "alt_label": "Adenoma of Adrenal Cortex;Adenoma of Adrenal Gland;Adenoma of the Adrenal Cortex;Adenoma of the Adrenal Gland;Adrenal Adenoma;Adrenal Cortical Adenoma;Adrenal Gland Adenoma;Adrenocortical Adenoma;Benign Adenoma of Adrenal Gland;Benign Adenoma of the Adrenal Gland;Benign Adrenal Adenoma;Benign Adrenal Gland Adenoma;Cortical Cell Adenoma",
+            "definition": "A benign neoplasm arising from any of the adrenal cortical layers.",
+            "identifier": "C9003",
+            "notation": "ADENOMA, ADRENOCORTICAL, BENIGN",
+            "pref_label": "Adrenal Cortex Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C9003"
+        },
+        {
+            "definition": "A benign neoplasm of the renal tubules, composed of distinct lobules of large, round to polyhedral cells with vacuolated amphophilic to eosinophilic cytoplasm and prominent nucleoli. (Crabbs TA, Frame SR, Laast VA, Patrick DJ, Thomas J, Zimmerman B, Hardisty JF (2013) Occurrence of spontaneous amphophilic-vacuolar renal tubule tumors in Sprague-Dawley rats from subchronic toxicity studies. Toxicol Pathol 41:866-87)",
+            "identifier": "C176394",
+            "notation": "ADENOMA, AMPHOPHILIC VACUOLAR, BENIGN",
+            "pref_label": "Experimental Organism Amphophilic Vacuolar Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C176394"
+        },
+        {
+            "alt_label": "Adenoma of Pituitary;Adenoma of Pituitary Gland;Adenoma of the Pituitary;Adenoma of the Pituitary Gland;Pituitary Adenoma",
+            "definition": "A benign neoplasm of the anterior lobe of the pituitary gland.",
+            "identifier": "C3329",
+            "notation": "ADENOMA, ANTERIOR LOBE PITUITARY GLAND, BENIGN",
+            "pref_label": "Pituitary Gland Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3329"
+        },
+        {
+            "definition": "A benign neoplasm arising from epithelium.",
+            "identifier": "C2855",
+            "notation": "ADENOMA, BENIGN",
+            "pref_label": "Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2855"
+        },
+        {
+            "definition": "A benign neoplasia of the lung, arising from bronchial epithelium.",
+            "identifier": "C3494",
+            "notation": "ADENOMA, BRONCHIAL, BENIGN",
+            "pref_label": "Lung Papillary Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3494"
+        },
+        {
+            "alt_label": "Adenoma of Alveoli;Adenoma of the Alveoli",
+            "definition": "A benign lung neoplasm arising from the alveolar/bronchiolar epithelium.",
+            "identifier": "C4140",
+            "notation": "ADENOMA, BRONCHIOLOALVEOLAR, BENIGN",
+            "pref_label": "Alveolar Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4140"
+        },
+        {
+            "alt_label": "Parafollicular Cell Adenoma",
+            "definition": "A benign neoplasm arising from C-cells of the thyroid gland.",
+            "identifier": "C46101",
+            "notation": "ADENOMA, C-CELL, BENIGN",
+            "pref_label": "Neoplastic C-Cell Hyperplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C46101"
+        },
+        {
+            "alt_label": "Ceruminoma;Ceruminous Adenoma;Ceruminous Adenoma of External Auditory Canal;Ceruminous Adenoma of the External Auditory Canal",
+            "definition": "A benign epithelial neoplasm derived from ceruminous glands in the external auditory canal.",
+            "identifier": "C6088",
+            "notation": "ADENOMA, CERUMINOUS GLAND, BENIGN",
+            "pref_label": "Ceruminous Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C6088"
+        },
+        {
+            "definition": "A benign neoplasm comprising glands containing epithelial clear cells.",
+            "identifier": "C4151",
+            "notation": "ADENOMA, CLEAR CELL, BENIGN",
+            "pref_label": "Clear Cell Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4151"
+        },
+        {
+            "definition": "A benign adenoma characterized by a complex of ductular structures lined by a high cuboidal epithelium resembling that of normal ductules. (INHAND)",
+            "identifier": "C156610",
+            "notation": "ADENOMA, DUCTAL CELL, BENIGN",
+            "pref_label": "Experimental Organism Ductal Cell Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C156610"
+        },
+        {
+            "definition": "A benign epithelial neoplasm arising from the endometrium.",
+            "identifier": "C127811",
+            "notation": "ADENOMA, ENDOMETRIAL, BENIGN",
+            "pref_label": "Experimental Organism Benign Endometrial Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C127811"
+        },
+        {
+            "alt_label": "Adenoma of the Thyroid;Adenoma of the Thyroid Gland;Adenoma of Thyroid;Adenoma of Thyroid Gland;Follicular Adenoma;Follicular Adenoma of the Thyroid;Follicular Adenoma of the Thyroid Gland;Follicular Adenoma of Thyroid;Follicular Adenoma of Thyroid Gland;Thyroid Adenoma;Thyroid Follicular Adenoma;Thyroid Gland Adenoma",
+            "definition": "A benign neoplasm arising from follicular cells of the thyroid gland.",
+            "identifier": "C3502",
+            "notation": "ADENOMA, FOLLICULAR CELL, BENIGN",
+            "pref_label": "Thyroid Gland Follicular Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3502"
+        },
+        {
+            "alt_label": "Adenoma of Liver Cells;Adenoma of the Liver Cells;HCA;Liver Cell Adenoma",
+            "definition": "A benign epithelial neoplasm arising from hepatocytes.",
+            "identifier": "C3758",
+            "notation": "ADENOMA, HEPATOCELLULAR, BENIGN",
+            "pref_label": "Hepatocellular Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3758"
+        },
+        {
+            "definition": "A benign neoplasm arising from the intrahepatic bile duct.",
+            "identifier": "C7126",
+            "notation": "ADENOMA, HEPATOCHOLANGIOCELLULAR, BENIGN",
+            "pref_label": "Intrahepatic Bile Duct Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7126"
+        },
+        {
+            "alt_label": "Islet Cell Adenoma",
+            "definition": "A benign neoplasm arising from the islet cells of the pancreas.",
+            "identifier": "C114108",
+            "notation": "ADENOMA, ISLET CELL, BENIGN",
+            "pref_label": "Experimental Organism Islet Cell Adenoma Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C114108"
+        },
+        {
+            "definition": "A benign epithelial neoplasm of the thyroid gland comprising follicular cells with cytoplasmic clearing.",
+            "identifier": "C46119",
+            "notation": "ADENOMA, LIGHT CELL, BENIGN",
+            "pref_label": "Thyroid Gland Clear Cell Follicular Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C46119"
+        },
+        {
+            "alt_label": "Mucinous Adenoma;Mucinous Cystoma;Pseudomucinous Cystadenoma",
+            "definition": "A benign, cystic epithelial neoplasm comprising cells containing intracytoplasmic mucin.",
+            "identifier": "C2973",
+            "notation": "ADENOMA, MUCINOUS, BENIGN",
+            "pref_label": "Mucinous Cystadenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2973"
+        },
+        {
+            "definition": "A benign epithelial neoplasm characterized by the presence of papillary epithelial patterns.",
+            "identifier": "C79951",
+            "notation": "ADENOMA, PAPILLARY, BENIGN",
+            "pref_label": "Papillary Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C79951"
+        },
+        {
+            "definition": "A benign neoplasm arising from the Chief cells of the parathyroid gland.",
+            "identifier": "C156757",
+            "notation": "ADENOMA, PARATHYROID GLAND, BENIGN",
+            "pref_label": "Benign Parathyroid Gland Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C156757"
+        },
+        {
+            "alt_label": "Rat Pars Distalis Adenoma",
+            "definition": "A benign epithelial neoplasm arising from the pars distalis of the anterior pituitary gland.",
+            "identifier": "C60490",
+            "notation": "ADENOMA, PARS DISTALIS, BENIGN",
+            "pref_label": "Rat Pars Distalis Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C60490"
+        },
+        {
+            "alt_label": "Rat Pars Intermedia Adenoma",
+            "definition": "A benign epithelial neoplasm arising from the pars intermedia of the anterior pituitary gland.",
+            "identifier": "C60493",
+            "notation": "ADENOMA, PARS INTERMEDIA, BENIGN",
+            "pref_label": "Rat Pars Intermedia Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C60493"
+        },
+        {
+            "definition": "A benign neoplasm of the pituitary gland.",
+            "identifier": "C98723",
+            "notation": "ADENOMA, PITUITARY GLAND, BENIGN",
+            "pref_label": "Experimental Organism Pituitary Gland Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C98723"
+        },
+        {
+            "alt_label": "Renal Tubule Adenoma",
+            "definition": "A benign neoplasm arising from the renal cortex.",
+            "identifier": "C8383",
+            "notation": "ADENOMA, RENAL CELL, BENIGN",
+            "pref_label": "Kidney Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8383"
+        },
+        {
+            "definition": "A benign adenoma arising from the rete ovarii, generally composed of intratubular mass(es) that distend the tubule.",
+            "identifier": "C40018",
+            "notation": "ADENOMA, RETE OVARII, BENIGN",
+            "pref_label": "Rete Ovarii Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C40018"
+        },
+        {
+            "definition": "A benign epithelial neoplasm arising from the rete testis.",
+            "identifier": "C39956",
+            "notation": "ADENOMA, RETE TESTIS, BENIGN",
+            "pref_label": "Rete Testis Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C39956"
+        },
+        {
+            "alt_label": "Adenoma of Sebaceous Gland;Adenoma of the Sebaceous Gland;Adenoma, Sebaceous Cell;Sebaceous Gland Adenoma;Skin Appendage Sebaceous Adenoma",
+            "definition": "A benign adenoma neoplasm with sebaceous differentiation.",
+            "identifier": "C4174",
+            "notation": "ADENOMA, SEBACEOUS, BENIGN",
+            "pref_label": "Sebaceous Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4174"
+        },
+        {
+            "alt_label": "Adenoma of Sweat Gland;Adenoma of the Sweat Gland",
+            "definition": "A benign epithelias neoplasm arising from sweat glands.",
+            "identifier": "C7560",
+            "notation": "ADENOMA, SWEAT GLAND, BENIGN",
+            "pref_label": "Sweat Gland Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7560"
+        },
+        {
+            "definition": "A benign neoplasm arising from glandular epithelium, characterized by a tubular architectural pattern.",
+            "identifier": "C4133",
+            "notation": "ADENOMA, TUBULAR CELL, BENIGN",
+            "pref_label": "Tubular Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4133"
+        },
+        {
+            "definition": "A benign ovarian epithelial neoplasm characterized by the presence of tubular structures and interstitial stroma.",
+            "identifier": "C79953",
+            "notation": "ADENOMA, TUBULOSTROMAL, BENIGN",
+            "pref_label": "Tubulostromal Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C79953"
+        },
+        {
+            "definition": "A benign neoplasm of the rodent Zymbal's gland with sebaceous and/or squamous differentiation.",
+            "identifier": "C98800",
+            "notation": "ADENOMA, ZYMBAL'S GLAND, BENIGN",
+            "pref_label": "Zymbal's Gland Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C98800"
+        },
+        {
+            "definition": "A benign neoplasm characterized by the proliferation of myoepithelial cells and glandular epithelial cells.",
+            "identifier": "C124607",
+            "notation": "ADENOMYOEPITHELIOMA, BENIGN",
+            "pref_label": "Experimental Organism Benign Adenomyoepithelioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C124607"
+        },
+        {
+            "definition": "A benign neoplasm characterized by the presence of a glandular and a mesenchymal component.",
+            "identifier": "C3726",
+            "notation": "ADENOMYOMA, BENIGN",
+            "pref_label": "Adenomyoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3726"
+        },
+        {
+            "alt_label": "Subcapsular Single Cell Adenoma, Adrenal",
+            "definition": "A benign neoplasm located beneath the adrenal capsule.",
+            "identifier": "C83488",
+            "notation": "ADRENAL TUMOR, SUBCAPSULAR, BENIGN",
+            "pref_label": "Benign Subcapsular Adrenal Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C83488"
+        },
+        {
+            "alt_label": "Subcapsular Single Cell Carcinoma, Adrenal",
+            "definition": "A malignant neoplasm located beneath the adrenal capsule.",
+            "identifier": "C83489",
+            "notation": "ADRENAL TUMOR, SUBCAPSULAR, MALIGNANT",
+            "pref_label": "Malignant Subcapsular Adrenal Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C83489"
+        },
+        {
+            "definition": "A benign odontogenic neoplasm arising from the epithelial component of the embryonic tooth.",
+            "identifier": "C7111",
+            "notation": "AMELOBLASTOMA, BENIGN",
+            "pref_label": "Benign Ameloblastoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7111"
+        },
+        {
+            "alt_label": "Malignant Ameloblastoma",
+            "definition": "A malignant odontogenic neoplasm arising from the epithelial component of the embryonic tooth.",
+            "identifier": "C54297",
+            "notation": "AMELOBLASTOMA, MALIGNANT",
+            "pref_label": "Metastasizing Ameloblastoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C54297"
+        },
+        {
+            "alt_label": "Angiofibromatous Hyperplasia;Fibroangioma, Benign;Fibrous Papule;Telangiectatic Fibroma",
+            "definition": "A benign, morphologic variant of fibroma characterized by the presence of numerous dilated vascular channels.",
+            "identifier": "C3799",
+            "notation": "ANGIOFIBROMA, BENIGN",
+            "pref_label": "Angiofibroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3799"
+        },
+        {
+            "alt_label": "Angiolipoma",
+            "definition": "A lipoma characterized by prominent vascularization.",
+            "identifier": "C3733",
+            "notation": "ANGIOLIPOMA, BENIGN",
+            "pref_label": "Angiolipoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3733"
+        },
+        {
+            "alt_label": "Astrocytoma, Diffuse",
+            "definition": "A malignant astrocytic neoplasm characterized by a high degree of cellular differentiation, slow growth, and diffuse infiltration of neighboring brain structures.",
+            "identifier": "C7173",
+            "notation": "ASTROCYTOMA, DIFFUSE, MALIGNANT",
+            "pref_label": "Diffuse Astrocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7173"
+        },
+        {
+            "definition": "A malignant neoplasm of the brain or spinal cord originating from astrocytes.",
+            "identifier": "C119574",
+            "notation": "ASTROCYTOMA, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Astrocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C119574"
+        },
+        {
+            "alt_label": "Adenoma, Basal Cell, Benign",
+            "definition": "A benign epithelial neoplasm with a uniform, monomorphic appearance that is dominated by basal cells.",
+            "identifier": "C111198",
+            "notation": "BASAL CELL TUMOR, BENIGN",
+            "pref_label": "Experimental Organism Basal Cell Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C111198"
+        },
+        {
+            "alt_label": "Basalioma",
+            "definition": "A benign epithelial neoplasm arising from primary epithelial germ cells of the piliary complex.",
+            "identifier": "C103391",
+            "notation": "BASALIOMA, BENIGN",
+            "pref_label": "Experimental Organism Benign Basalioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C103391"
+        },
+        {
+            "alt_label": "Cutaneous Papilloma;Papilloma of Skin;Papilloma of the Skin",
+            "definition": "A benign papillary neoplasm of the skin.",
+            "identifier": "C4614",
+            "notation": "BASOSQUAMOUS TUMOR, BENIGN",
+            "pref_label": "Skin Papilloma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4614"
+        },
+        {
+            "alt_label": "Basosquamous Carcinoma;Basosquamous Cell Carcinoma;Skin Mixed Basal and Squamous Cell Carcinoma",
+            "definition": "A basal cell carcinoma (skin neoplasm) which displays squamous differentiation.",
+            "identifier": "C2922",
+            "notation": "BASOSQUAMOUS TUMOR, MALIGNANT",
+            "pref_label": "Skin Basosquamous Cell Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2922"
+        },
+        {
+            "alt_label": "Acidophil Adenocarcinoma;Acidophil Carcinoma;Eosinophil Adenocarcinoma;Eosinophil Carcinoma",
+            "definition": "A malignant epithelial neoplasm of the anterior pituitary gland in which the neoplastic cells stain positive with acidic dyes.",
+            "identifier": "C114109",
+            "notation": "CARCINOMA, ACIDOPHIL, MALIGNANT",
+            "pref_label": "Experimental Organism Acidophil Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C114109"
+        },
+        {
+            "alt_label": "Acinar Adenocarcinoma;Acinar Carcinoma;Acinar Cell Adenocarcinoma;Acinic Cell Adenocarcinoma;Acinic Cell Carcinoma",
+            "definition": "A malignant glandular epithelial neoplasm comprising secretory cells forming acinar patterns.",
+            "identifier": "C3768",
+            "notation": "CARCINOMA, ACINAR CELL, MALIGNANT",
+            "pref_label": "Acinar Cell Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3768"
+        },
+        {
+            "alt_label": "Mixed Adenocarcinoma and Epidermoid Carcinoma;Mixed Adenocarcinoma and Epidermoid Cell Carcinoma;Mixed Adenocarcinoma and Squamous Carcinoma;Mixed Adenocarcinoma and Squamous Cell Carcinoma",
+            "definition": "An epithelial neoplasm composed of malignant glandular and malignant squamous cells.",
+            "identifier": "C3727",
+            "notation": "CARCINOMA, ADENOSQUAMOUS, MALIGNANT",
+            "pref_label": "Adenosquamous Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3727"
+        },
+        {
+            "alt_label": "Carcinoma of Adnexa;Carcinoma of Skin Appendage;Skin Appendage Carcinoma",
+            "definition": "A malignant epithelial neoplasm arising from sebaceous or sweat glands or from hair follicles.",
+            "identifier": "C3775",
+            "notation": "CARCINOMA, ADNEXAL, MALIGNANT",
+            "pref_label": "Adnexal Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3775"
+        },
+        {
+            "alt_label": "Adenocarcinoma, Adrenocortical, Malignant;Adrenal Cortex Adenocarcinoma;Adrenal Cortex Cancer;Adrenal Cortical Adenocarcinoma;Adrenal Cortical Carcinoma;Adrenocortical Carcinoma;Cortical Cell Carcinoma",
+            "definition": "A malignant epithelial neoplasm arising from adrenal cortical cells.",
+            "identifier": "C9325",
+            "notation": "CARCINOMA, ADRENOCORTICAL, MALIGNANT",
+            "pref_label": "Adrenal Cortex Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C9325"
+        },
+        {
+            "definition": "A malignant neoplasm of the renal tubules, composed of distinct lobules of large, round to polyhedral cells with vacuolated amphophilic to eosinophilic cytoplasm and prominent nucleoli. (Crabbs TA, Frame SR, Laast VA, Patrick DJ, Thomas J, Zimmerman B, Hardisty JF (2013) Occurrence of spontaneous amphophilic-vacuolar renal tubule tumors in Sprague-Dawley rats from subchronic toxicity studies. Toxicol Pathol 41:866-87)",
+            "identifier": "C176393",
+            "notation": "CARCINOMA, AMPHOPHILIC VACUOLAR, MALIGNANT",
+            "pref_label": "Experimental Organism Amphophilic Vacuolar Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C176393"
+        },
+        {
+            "alt_label": "Basal Cell Cancer;Basal Cell Carcinoma;Basal Cell Epithelioma;Basal Cell Skin Carcinoma;BCC",
+            "definition": "A malignant epithelial neoplasm arising from basal cells.",
+            "identifier": "C111199",
+            "notation": "CARCINOMA, BASAL CELL, MALIGNANT",
+            "pref_label": "Experimental Organism Basal Cell Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C111199"
+        },
+        {
+            "definition": "A malignant neoplasia of the lung, arising from bronchial epithelium.",
+            "identifier": "C35875",
+            "notation": "CARCINOMA, BRONCHIAL, MALIGNANT",
+            "pref_label": "Bronchogenic Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C35875"
+        },
+        {
+            "alt_label": "BAC;Bronchioalveolar Adenocarcinoma of Lung;Bronchioalveolar Adenocarcinoma of the Lung;Bronchioalveolar Lung Carcinoma;Bronchiolo-Alveolar Carcinoma of Lung;Bronchiolo-Alveolar Carcinoma of the Lung;Bronchiolo-Alveolar Lung Carcinoma;Bronchioloalveolar Adenocarcinoma of Lung;Bronchioloalveolar Adenocarcinoma of the Lung;Bronchioloalveolar Lung Adenocarcinoma",
+            "definition": "A malignant lung neoplasm originating from the alveolar/bronchiolar epithelium.",
+            "identifier": "C2923",
+            "notation": "CARCINOMA, BRONCHIOLOALVEOLAR, MALIGNANT",
+            "pref_label": "Minimally Invasive Lung Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2923"
+        },
+        {
+            "definition": "A malignant epithelial neoplasm arising from the cells of the Brunner's gland. (INHAND)",
+            "identifier": "C156611",
+            "notation": "CARCINOMA, BRUNNER'S GLAND, MALIGNANT",
+            "pref_label": "Experimental Organism Brunner's Gland Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C156611"
+        },
+        {
+            "alt_label": "C Cell Carcinoma;Medullary Carcinoma;Medullary Carcinoma of the Thyroid;Medullary Carcinoma of the Thyroid Gland;Medullary Carcinoma of Thyroid;Medullary Carcinoma of Thyroid Gland;Medullary Thyroid Cancer;Medullary Thyroid Carcinoma;Medullary Thyroid Gland Carcinoma;MTC;Parafollicular Cell Carcinoma;Thyroid Gland Neuroendocrine Carcinoma;Thyroid Medullary Carcinoma",
+            "definition": "A neuroendocrine malignant epithelial neoplasm arising from C-cells of the thyroid gland.",
+            "identifier": "C3879",
+            "notation": "CARCINOMA, C-CELL, MALIGNANT",
+            "pref_label": "Thyroid Gland Medullary Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3879"
+        },
+        {
+            "definition": "A malignant neoplasm derived from ceruminous glands in the external auditory canal.",
+            "identifier": "C4176",
+            "notation": "CARCINOMA, CERUMINOUS GLAND, MALIGNANT",
+            "pref_label": "Ceruminous Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4176"
+        },
+        {
+            "alt_label": "Anaplastic Choroid Plexus Papilloma;Cancer of Choroid Plexus;Cancer of the Choroid Plexus;Carcinoma of Choroid Plexus;Carcinoma of the Choroid Plexus;Choroid Plexus Cancer",
+            "definition": "A malignant neoplasm arising from the choroid plexus of the brain.",
+            "identifier": "C4715",
+            "notation": "CARCINOMA, CHOROID PLEXUS, MALIGNANT",
+            "pref_label": "Choroid Plexus Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4715"
+        },
+        {
+            "definition": "A malignant carcinoma with eccrine differentiation arising from the sweat glands.",
+            "identifier": "C27255",
+            "notation": "CARCINOMA, ECCRINE GLAND, MALIGNANT",
+            "pref_label": "Eccrine Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C27255"
+        },
+        {
+            "alt_label": "Carcinoma, Embryonal, Malignant",
+            "definition": "A non-seminomatous malignant germ cell neoplasm of the testis or ovary.",
+            "identifier": "C3752",
+            "notation": "CARCINOMA, EMBRYONAL, MALIGNANT",
+            "pref_label": "Embryonal Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3752"
+        },
+        {
+            "alt_label": "Carcinoma of Endometrium;Carcinoma of the Endometrium",
+            "definition": "A malignant epithelial neoplasm arising from the lining of the uterine body cavity.",
+            "identifier": "C7558",
+            "notation": "CARCINOMA, ENDOMETRIAL, MALIGNANT",
+            "pref_label": "Endometrial Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7558"
+        },
+        {
+            "alt_label": "Follicular Adenocarcinoma;Follicular Cancer of the Thyroid;Follicular Cancer of the Thyroid Gland;Follicular Cancer of Thyroid;Follicular Cancer of Thyroid Gland;Follicular Carcinoma;Follicular Carcinoma of the Thyroid;Follicular Carcinoma of the Thyroid Gland;Follicular Carcinoma of Thyroid;Follicular Carcinoma of Thyroid Gland;Follicular Thyroid Cancer;Follicular Thyroid Carcinoma;Follicular Thyroid Gland Carcinoma;Thyroid Follicular Carcinoma;Well-differentiated Follicular Adenocarcinoma;Well-differentiated Follicular Carcinoma",
+            "definition": "A malignant neoplasia arising from follicular cells of the thyroid gland.",
+            "identifier": "C8054",
+            "notation": "CARCINOMA, FOLLICULAR CELL, MALIGNANT",
+            "pref_label": "Thyroid Gland Follicular Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8054"
+        },
+        {
+            "alt_label": "Carcinoma of Liver Cells;Carcinoma of the Liver Cells;HCC;Hepatoma;Liver Cell Carcinoma;Primary Carcinoma of Liver Cells;Primary Carcinoma of the Liver Cells",
+            "definition": "A malignant neoplasm arising from hepatocytes.",
+            "identifier": "C3099",
+            "notation": "CARCINOMA, HEPATOCELLULAR, MALIGNANT",
+            "pref_label": "Hepatocellular Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3099"
+        },
+        {
+            "alt_label": "Hepatocholangiocellular Carcinoma",
+            "definition": "A malignant mixed neoplasm of the liver comprising neoplastic hepatocytes and bile duct epithelial cells; both elements displaying evidence of malignancy.",
+            "identifier": "C103393",
+            "notation": "CARCINOMA, HEPATOCHOLANGIOCELLULAR, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Hepatocholangiocellular Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C103393"
+        },
+        {
+            "alt_label": "CIS;Epithelial Tumor, In situ, Malignant;Intraepithelial Carcinoma;Non-invasive Carcinoma",
+            "definition": "A malignant epithelial neoplasm confined to the epithelial layer and without evidence of further tissue invasion.",
+            "identifier": "C2917",
+            "notation": "CARCINOMA, IN SITU, MALIGNANT",
+            "pref_label": "Carcinoma In Situ",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2917"
+        },
+        {
+            "alt_label": "Islet Cell Cancer;Islet Cell Carcinoma;Malignant Islet Cell Tumor;Malignant Pancreatic Endocrine Tumor;Pancreatic Neuroendocrine Carcinoma",
+            "definition": "A malignant endocrine neoplasm arising from islets of Langerhans of the pancreas.",
+            "identifier": "C3770",
+            "notation": "CARCINOMA, ISLET CELL, MALIGNANT",
+            "pref_label": "Pancreatic Neuroendocrine Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3770"
+        },
+        {
+            "alt_label": "Epithelial Carcinoma;Epithelioma Malignant;Malignant Epithelial Neoplasm;Malignant Epithelial Tumor;Malignant Epithelioma",
+            "definition": "A malignant epithelial neoplasm.",
+            "identifier": "C2916",
+            "notation": "CARCINOMA, MALIGNANT",
+            "pref_label": "Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2916"
+        },
+        {
+            "definition": "A malignant carcinoma that arises from the olfactory epithelium, from either sensory and/or sustentacular cells.",
+            "identifier": "C124608",
+            "notation": "CARCINOMA, NEUROEPITHELIAL, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Neuroepithelial Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C124608"
+        },
+        {
+            "definition": "A malignant neoplasm arising from the Chief cells of the parathyroid gland.",
+            "identifier": "C4906",
+            "notation": "CARCINOMA, PARATHYROID GLAND, MALIGNANT",
+            "pref_label": "Parathyroid Gland Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4906"
+        },
+        {
+            "alt_label": "Rat Pars Distalis Carcinoma",
+            "definition": "A malignant epithelial neoplasm arising from the pars distalis of the pituitary gland.",
+            "identifier": "C60491",
+            "notation": "CARCINOMA, PARS DISTALIS, MALIGNANT",
+            "pref_label": "Rat Pars Distalis Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C60491"
+        },
+        {
+            "alt_label": "Rat Pars Intermedia Carcinoma",
+            "definition": "A malignant epithelial neoplasm arising from the pars intermedia of the pituitary gland.",
+            "identifier": "C92183",
+            "notation": "CARCINOMA, PARS INTERMEDIA, MALIGNANT",
+            "pref_label": "Rat Pars Intermedia Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C92183"
+        },
+        {
+            "alt_label": "Adenocarcinoma of Kidney;Adenocarcinoma of the Kidney;Kidney Adenocarcinoma;RCC;Renal Cell Adenocarcinoma;Renal Cell Cancer;Renal Cell Carcinoma, Stage Unspecified",
+            "definition": "A malignant neoplasm arising from renal parenchyma.",
+            "identifier": "C9385",
+            "notation": "CARCINOMA, RENAL CELL, MALIGNANT",
+            "pref_label": "Renal Cell Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C9385"
+        },
+        {
+            "definition": "A malignant carcinoma that arises from the rete testis.",
+            "identifier": "C8955",
+            "notation": "CARCINOMA, RETE TESTIS, MALIGNANT",
+            "pref_label": "Rete Testis Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8955"
+        },
+        {
+            "alt_label": "Pseudosarcomatous Carcinoma;Spindle Cell Carcinoma",
+            "definition": "A malignant epithelial neoplasm characterized by the presence of spindle cells.",
+            "identifier": "C27004",
+            "notation": "CARCINOMA, SPINDLE CELL, MALIGNANT",
+            "pref_label": "Sarcomatoid Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C27004"
+        },
+        {
+            "alt_label": "Epidermoid Carcinoma In situ;Epidermoid Cell Carcinoma In situ;Grade 3 Squamous Intraepithelial Neoplasia;Grade III Squamous Intraepithelial Neoplasia;Intraepithelial Squamous Cell Carcinoma;Squamous Carcinoma In situ;Squamous Cell Carcinoma In situ",
+            "definition": "A malignant epithelial neoplasm confined to the squamous epithelium, without invasion of underlying tissues.",
+            "identifier": "C27093",
+            "notation": "CARCINOMA, SQUAMOUS CELL, IN SITU, MALIGNANT",
+            "pref_label": "Stage 0 Squamous Cell Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C27093"
+        },
+        {
+            "alt_label": "Epidermoid Carcinoma;Epidermoid Cell Cancer;Malignant Epidermoid Cell Neoplasm;Malignant Epidermoid Cell Tumor;Malignant Squamous Cell Neoplasm;Malignant Squamous Cell Tumor;Squamous Carcinoma;Squamous Cell Cancer;Squamous Cell Epithelioma",
+            "definition": "A malignant neoplasm arising from squamous epithelial cells.",
+            "identifier": "C2929",
+            "notation": "CARCINOMA, SQUAMOUS CELL, MALIGNANT",
+            "pref_label": "Squamous Cell Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2929"
+        },
+        {
+            "alt_label": "Carcinoma of Sweat Gland;Carcinoma of the Sweat Gland",
+            "definition": "A malignant neoplasm arising from sweat glands.",
+            "identifier": "C6938",
+            "notation": "CARCINOMA, SWEAT GLAND, MALIGNANT",
+            "pref_label": "Sweat Gland Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C6938"
+        },
+        {
+            "definition": "A malignant glandular neoplasm exhibiting tubular structures.",
+            "identifier": "C65192",
+            "notation": "CARCINOMA, TUBULAR CELL, MALIGNANT",
+            "pref_label": "Tubular Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C65192"
+        },
+        {
+            "definition": "A malignant epithelial neoplasm of the ovary with tubular and stromal neoplastic components.",
+            "identifier": "C80356",
+            "notation": "CARCINOMA, TUBULOSTROMAL, MALIGNANT",
+            "pref_label": "Tubulostromal Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C80356"
+        },
+        {
+            "alt_label": "Anaplastic Carcinoma;Carcinoma, Undifferentiated",
+            "definition": "A malignant epithelial neoplasm exhibiting poor differentiation (anaplasia).",
+            "identifier": "C3692",
+            "notation": "CARCINOMA, UNDIFFERENTIATED, MALIGNANT",
+            "pref_label": "Undifferentiated Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3692"
+        },
+        {
+            "alt_label": "Transitional Cell Carcinoma",
+            "definition": "A malignant neoplasm arising from transitional epithelium, usually affecting the urinary bladder, ureter, or renal pelvis.",
+            "identifier": "C2930",
+            "notation": "CARCINOMA, UROTHELIAL, MALIGNANT",
+            "pref_label": "Transitional Cell Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2930"
+        },
+        {
+            "definition": "A malignant neoplasm of the rodent Zymbal's gland with sebaceous and/or squamous differentiation.",
+            "identifier": "C98801",
+            "notation": "CARCINOMA, ZYMBAL'S GLAND, MALIGNANT",
+            "pref_label": "Zymbal's Gland Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C98801"
+        },
+        {
+            "definition": "A malignant neoplasm comprising a mixture of carcinomatous and sarcomatous elements.",
+            "identifier": "C34448",
+            "notation": "CARCINOSARCOMA, MALIGNANT",
+            "pref_label": "Carcinosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C34448"
+        },
+        {
+            "alt_label": "Schwannoma, Endocardial, Benign",
+            "definition": "A benign peripheral nervous system neoplasm that is composed of well-differentiated Schwann cells and affects the heart.",
+            "identifier": "C5358",
+            "notation": "CARDIAC SCHWANNOMA, BENIGN",
+            "pref_label": "Cardiac Schwannoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C5358"
+        },
+        {
+            "definition": "A malignant peripheral nerve sheath tumor that arises in cardiac tissue.",
+            "identifier": "C5367",
+            "notation": "CARDIAC SCHWANNOMA, MALIGNANT",
+            "pref_label": "Cardiac Malignant Peripheral Nerve Sheath Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C5367"
+        },
+        {
+            "alt_label": "Benign Chemodectoma",
+            "definition": "A benign neoplasm of the chemoreceptor system (e.g. carotid body, glomus jugulare, glomus vagale).",
+            "identifier": "C79950",
+            "notation": "CHEMODECTOMA, BENIGN",
+            "pref_label": "Benign Carotid Body Paraganglioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C79950"
+        },
+        {
+            "alt_label": "Malignant Carotid Body Neoplasm;Malignant Carotid Body Tumor;Malignant Neoplasm of Carotid Body;Malignant Neoplasm of the Carotid Body;Malignant Tumor of Carotid Body;Malignant Tumor of the Carotid Body",
+            "definition": "A malignant neoplasm of the chemoreceptor system (e.g. carotid body, glomus jugulare, glomus vagale).",
+            "identifier": "C3574",
+            "notation": "CHEMODECTOMA, MALIGNANT",
+            "pref_label": "Malignant Carotid Body Paraganglioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3574"
+        },
+        {
+            "alt_label": "Intrahepatic Bile Duct Carcinoma;Intrahepatic Carcinoma of Bile Duct;Intrahepatic Carcinoma of the Bile Duct",
+            "definition": "A malignant neoplasm of the liver arising from/comprising cells resembling those of bile ducts.",
+            "identifier": "C35417",
+            "notation": "CHOLANGIOCARCINOMA, INTRAHEPATIC, MALIGNANT",
+            "pref_label": "Intrahepatic Cholangiocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C35417"
+        },
+        {
+            "alt_label": "Cholangiocellular Carcinoma",
+            "definition": "A malignant neoplasm arising from/comprising cells resembling those of bile ducts.",
+            "identifier": "C4436",
+            "notation": "CHOLANGIOCARCINOMA, MALIGNANT",
+            "pref_label": "Cholangiocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4436"
+        },
+        {
+            "alt_label": "Adenoma of Bile Duct;Adenoma of the Bile Duct;Cholangioadenoma;Cholangioma;Hepatocholangiocellular Adenoma;Hepatocholangioma",
+            "definition": "A benign neoplasm arising from/comprising cells resembling those of bile ducts.",
+            "identifier": "C2942",
+            "notation": "CHOLANGIOMA, BENIGN",
+            "pref_label": "Bile Duct Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2942"
+        },
+        {
+            "definition": "A benign, well circumscribed neoplasm arising from the hyaline cartilage in soft tissue or bone. It is characterized by the presence of chondrocytes.",
+            "identifier": "C53459",
+            "notation": "CHONDROMA, BENIGN",
+            "pref_label": "Chondroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C53459"
+        },
+        {
+            "definition": "A malignant mesenchymal neoplasm arising from cartilage-forming tissues.",
+            "identifier": "C2946",
+            "notation": "CHONDROSARCOMA, MALIGNANT",
+            "pref_label": "Chondrosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2946"
+        },
+        {
+            "definition": "A benign bone neoplasm arising from the remnants of the fetal notochord.",
+            "identifier": "C60334",
+            "notation": "CHORDOMA, BENIGN",
+            "pref_label": "Rat Benign Chordoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C60334"
+        },
+        {
+            "definition": "A malignant bone neoplasm arising from the remnants of the fetal notochord.",
+            "identifier": "C2947",
+            "notation": "CHORDOMA, MALIGNANT",
+            "pref_label": "Chordoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2947"
+        },
+        {
+            "alt_label": "Chorioepithelioma",
+            "definition": "A malignant neoplasm arising from placental trophoblast cells. They generally arise in the uterus.",
+            "identifier": "C2948",
+            "notation": "CHORIOCARCINOMA, MALIGNANT",
+            "pref_label": "Choriocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2948"
+        },
+        {
+            "alt_label": "Benign Connective and Soft Tissue Neoplasm;Benign Connective and Soft Tissue Tumor;Benign Mesenchymal Cell Neoplasm;Benign Neoplasm of the Soft Tissue and Bone;Benign Tumor of the Soft Tissue and Bone",
+            "definition": "A benign neoplasm arising from connective and soft tissues that does not invade adjacent tissues or metastasize to other anatomic sites.",
+            "identifier": "C53684",
+            "notation": "CONNECTIVE AND SOFT TISSUE NEOPLASM, BENIGN",
+            "pref_label": "Benign Connective and Soft Tissue Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C53684"
+        },
+        {
+            "alt_label": "Cystoma;Neoplasm of Rathke's Pouch;Rathke Pouch Neoplasm;Rathke Pouch Tumor;Rathke's Pouch Neoplasm;Rathke's Pouch Tumor;Tumor of Rathke's Pouch",
+            "definition": "A benign epithelial neoplasm of the sellar region, presumably derived from Rathke pouch epithelium.",
+            "identifier": "C2964",
+            "notation": "CRANIOPHARYNGIOMA, BENIGN",
+            "pref_label": "Craniopharyngioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2964"
+        },
+        {
+            "alt_label": "Carcinoma Arising From Craniopharyngioma",
+            "definition": "A malignant epithelial neoplasm of the sellar region, presumably derived from Rathke pouch epithelium.",
+            "identifier": "C79949",
+            "notation": "CRANIOPHARYNGIOMA, MALIGNANT",
+            "pref_label": "Carcinoma Arising from Craniopharyngioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C79949"
+        },
+        {
+            "definition": "A malignant cystic epithelial neoplasm arising from glandular epithelium.",
+            "identifier": "C2971",
+            "notation": "CYSTADENOCARCINOMA, MALIGNANT",
+            "pref_label": "Cystadenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2971"
+        },
+        {
+            "definition": "A malignant cystic epithelial neoplasm arising from glandular epithelium exhibiting papillary structures.",
+            "identifier": "C3777",
+            "notation": "CYSTADENOCARCINOMA, PAPILLARY, MALIGNANT",
+            "pref_label": "Papillary Cystadenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3777"
+        },
+        {
+            "alt_label": "Cystoma",
+            "definition": "A benign cystic epithelial neoplasm arising from glandular epithelium.",
+            "identifier": "C2972",
+            "notation": "CYSTADENOMA, BENIGN",
+            "pref_label": "Cystadenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2972"
+        },
+        {
+            "definition": "A benign cystic epithelial neoplasm arising from glandular epithelium exhibiting papillary structures.",
+            "identifier": "C2974",
+            "notation": "CYSTADENOMA, PAPILLARY, BENIGN",
+            "pref_label": "Papillary Cystadenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2974"
+        },
+        {
+            "alt_label": "Malignant Neoplasm of Placenta;Malignant Neoplasm of the Placenta;Malignant Placental Neoplasm;Malignant Placental Tumor;Malignant Tumor of Placenta;Malignant Tumor of the Placenta",
+            "definition": "A malignant neoplasm arising from decidua (placental) cells.",
+            "identifier": "C3555",
+            "notation": "DECIDUOMA, MALIGNANT",
+            "pref_label": "Malignant Placental Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3555"
+        },
+        {
+            "alt_label": "Benign Cystic Teratoma;Dermoid;Mature Cystic Teratoma",
+            "definition": "A benign neoplasm comprised of a cyst, lined by mature epidermis-like tissue with dermal appendages.",
+            "identifier": "C9011",
+            "notation": "DERMOID CYST, BENIGN",
+            "pref_label": "Dermoid Cyst",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C9011"
+        },
+        {
+            "definition": "A malignant germ cell neoplasm characterized by the presence of a monotonous primitive germ cell population, primarily in the ovary.",
+            "identifier": "C8106",
+            "notation": "DYSGERMINOMA, MALIGNANT",
+            "pref_label": "Ovarian Dysgerminoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8106"
+        },
+        {
+            "definition": "A benign neoplasm of ependymal origin.",
+            "identifier": "C3697",
+            "notation": "EPENDYMOMA, BENIGN",
+            "pref_label": "Myxopapillary Ependymoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3697"
+        },
+        {
+            "definition": "A malignant neoplasm of ependymal origin.",
+            "identifier": "C119575",
+            "notation": "EPENDYMOMA, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Ependymoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C119575"
+        },
+        {
+            "definition": "A benign neoplasm that arises from the mesenchymal and epithelial components and contains two or more cell types.",
+            "identifier": "C124609",
+            "notation": "EPITHELIAL-STROMAL TUMOR, BENIGN",
+            "pref_label": "Experimental Organism Benign Epithelial Stromal Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C124609"
+        },
+        {
+            "alt_label": "Benign Epithelial Tumor;Benign Epithelioma;Benign Neoplasm of Epithelium;Benign Neoplasm of the Epithelium;Benign Tumor of Epithelium;Benign Tumor of the Epithelium",
+            "definition": "A benign neoplasm arising from epithelial cells of the skin.",
+            "identifier": "C4092",
+            "notation": "EPITHELIOMA, BENIGN",
+            "pref_label": "Benign Epithelial Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4092"
+        },
+        {
+            "definition": "A benign cystic epithelial neoplasm featuring a central keratin mass surrounded by squamous epithelium.",
+            "identifier": "C80349",
+            "notation": "EPITHELIOMA, CYSTIC KERATINIZING, BENIGN",
+            "pref_label": "Cystic Keratinizing Epithelioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C80349"
+        },
+        {
+            "definition": "A benign cystic epithelial neoplasm characterized by the absence of keratin production.",
+            "identifier": "C84356",
+            "notation": "EPITHELIOMA, NON-KERATINIZING, BENIGN",
+            "pref_label": "Non-Keratinizing Epithelioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C84356"
+        },
+        {
+            "alt_label": "Adenocarcinoma With Productive Fibrosis;Fibrocarcinoma;Scirrhous Carcinoma",
+            "definition": "A malignant neoplasm originating from glandular cells with a fibrous or fibroblastic component.",
+            "identifier": "C2928",
+            "notation": "FIBROADENOCARCINOMA, MALIGNANT",
+            "pref_label": "Scirrhous Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C2928"
+        },
+        {
+            "alt_label": "Breast Fibroadenoma;Fibroadenoma of Breast;Fibroadenoma of the Breast",
+            "definition": "A benign neoplasm originating from glandular cells with a fibrous or fibroblastic component.",
+            "identifier": "C3744",
+            "notation": "FIBROADENOMA, BENIGN",
+            "pref_label": "Breast Fibroadenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3744"
+        },
+        {
+            "definition": "A benign neoplasm comprising mature adipocytes, characterized by areas of abundant fibrous tissue.",
+            "identifier": "C4249",
+            "notation": "FIBROLIPOMA, BENIGN",
+            "pref_label": "Fibrolipoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4249"
+        },
+        {
+            "definition": "A benign neoplasm arising from fibrous tissue.",
+            "identifier": "C3041",
+            "notation": "FIBROMA, BENIGN",
+            "pref_label": "Fibroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3041"
+        },
+        {
+            "alt_label": "Cementifying Fibroma;Cemento-Ossifying Fibroma;Fibroma, Cementifying/Ossifying",
+            "definition": "A benign fibrous neoplasm characterized by a mineralized component (woven bone, lamellar bone, or cementum-like material).",
+            "identifier": "C8422",
+            "notation": "FIBROMA, CEMENTO-OSSIFYING, BENIGN",
+            "pref_label": "Cemento-Ossifying Fibroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8422"
+        },
+        {
+            "alt_label": "Central Odontogenic Fibroma",
+            "definition": "A benign intraosseous neoplasm arising from tooth-forming tissues in the mandible and maxilla, characterized by the presence of islands of odontogenic epithelium.",
+            "identifier": "C4314",
+            "notation": "FIBROMA, ODONTOGENIC, BENIGN",
+            "pref_label": "Odontogenic Fibroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4314"
+        },
+        {
+            "alt_label": "Fibromyxoma",
+            "definition": "A benign soft-tissue neoplasm of uncertain lineage, characterized by the presence of neoplastic spindle-shaped to round cells and a fibromyxoid stroma.",
+            "identifier": "C66760",
+            "notation": "FIBROMYXOMA, BENIGN",
+            "pref_label": "Fibromyxoid Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C66760"
+        },
+        {
+            "definition": "A benign polypoid tumor comprising fibrous tissue and epithelium.",
+            "identifier": "C3337",
+            "notation": "FIBROPAPILLOMA, BENIGN",
+            "pref_label": "Fibroepithelial Polyp",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3337"
+        },
+        {
+            "definition": "A malignant mesenchymal neoplasm of the soft tissue and bone.",
+            "identifier": "C3043",
+            "notation": "FIBROSARCOMA, MALIGNANT",
+            "pref_label": "Fibrosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3043"
+        },
+        {
+            "alt_label": "Osteogenic Fibrosarcoma",
+            "definition": "A malignant fibrosarcoma characterized by pleomorphic cells intermixed with variable amounts of collagenous matrix.",
+            "identifier": "C4020",
+            "notation": "FIBROSARCOMA, OSTEOGENIC, MALIGNANT",
+            "pref_label": "Fibroblastic Osteosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4020"
+        },
+        {
+            "alt_label": "Fibroxanthosarcoma;Histiocytoma, Fibrous, Malignant;Malignant Fibrous Histiocytoma of Soft Tissue and Bone;Malignant Fibrous Histiocytoma of the Soft Tissue and Bone;Malignant Fibroxanthoma;MFH",
+            "definition": "A malignant neoplasm composed of a fibroblastic and a histiocytic component.",
+            "identifier": "C4247",
+            "notation": "FIBROSARCOMA, PLEOMORPHIC, MALIGNANT",
+            "pref_label": "Undifferentiated Pleomorphic Sarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4247"
+        },
+        {
+            "definition": "A benign neoplasm comprised of ganglion and glial cells.",
+            "identifier": "C119576",
+            "notation": "GANGLIOGLIOMA, BENIGN",
+            "pref_label": "Experimental Organism Benign Ganglioglioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C119576"
+        },
+        {
+            "definition": "A malignant neoplasm characterized by the presence of neuroblastic and ganglion cells and a stroma with Schwannian differentiation.",
+            "identifier": "C3790",
+            "notation": "GANGLIONEUROBLASTOMA, MALIGNANT",
+            "pref_label": "Ganglioneuroblastoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3790"
+        },
+        {
+            "alt_label": "Neural Crest Tumor, Benign",
+            "definition": "A benign neoplasm characterized by the presence of ganglion cells and spindle cell proliferation, located primarily in the brain, ganglia, or adrenal medulla.",
+            "identifier": "C3049",
+            "notation": "GANGLIONEUROMA, BENIGN",
+            "pref_label": "Ganglioneuroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3049"
+        },
+        {
+            "alt_label": "GIST, Benign",
+            "definition": "A benign neoplasm arising from specialized smooth muscle cells (i.e., interstitial cells of Cajal) in the tunica muscularis or myenteric plexus. (INHAND)",
+            "identifier": "C53998",
+            "notation": "GASTROINTESTINAL STROMAL TUMOR, BENIGN",
+            "pref_label": "Benign Gastrointestinal Stromal Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C53998"
+        },
+        {
+            "alt_label": "GIST, Malignant",
+            "definition": "A malignant neoplasm arising from specialized smooth muscle cells (i.e., interstitial cells of Cajal) in the tunica muscularis or myenteric plexus. (INHAND)",
+            "identifier": "C53999",
+            "notation": "GASTROINTESTINAL STROMAL TUMOR, MALIGNANT",
+            "pref_label": "Malignant Gastrointestinal Stromal Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C53999"
+        },
+        {
+            "alt_label": "Benign Bone Giant Cell Tumor;Osteoclastoma, Benign",
+            "definition": "A benign neoplasm of bone comprised of giant cells (osteoclast-like) and mononuclear cells.",
+            "identifier": "C121932",
+            "notation": "GIANT CELL TUMOR, BENIGN",
+            "pref_label": "Giant Cell Tumor of Bone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C121932"
+        },
+        {
+            "alt_label": "Malignant Giant Cell Tumor",
+            "definition": "A malignant neoplasm of bone comprised of giant cells (osteoclast-like) and mononuclear cells.",
+            "identifier": "C4090",
+            "notation": "GIANT CELL TUMOR, MALIGNANT",
+            "pref_label": "Malignant Giant Cell Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4090"
+        },
+        {
+            "alt_label": "Malignant Glial Neoplasm;Malignant Glial Tumor;Malignant Neuroglial Neoplasm;Malignant Neuroglial Tumor",
+            "definition": "A malignant neuroglial neoplasm. The term can apply to several primary neoplasm of the brain and spinal cord, including astrocytoma and oligodendroglioma in addition to others.",
+            "identifier": "C4822",
+            "notation": "GLIOMA, MALIGNANT",
+            "pref_label": "Malignant Glioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4822"
+        },
+        {
+            "definition": "A benign neoplasm of the central nervous system with an astrocytic and oligodendrocytic component.",
+            "identifier": "C4050",
+            "notation": "GLIOMA, MIXED, BENIGN",
+            "pref_label": "Oligoastrocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4050"
+        },
+        {
+            "alt_label": "Glioma, Mixed;Mixed Glial Neoplasm;Mixed Glial Tumor;Mixed Neuroglial Neoplasm;Mixed Neuroglial Tumor",
+            "definition": "A malignant neoplasm comprising two or more glial cell types (e.g., astrocytes, ependymal cells, oligodendrocytes).",
+            "identifier": "C3903",
+            "notation": "GLIOMA, MIXED, MALIGNANT",
+            "pref_label": "Mixed Glioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3903"
+        },
+        {
+            "alt_label": "Benign Granular Cell Myoblastoma;Benign Granular Cell Neoplasm;Benign Granular Cell Tumor;Myoblastoma",
+            "definition": "A benign neoplasm, comprised of large cells with cytoplasmatic granules, occurring in various organs/tissues.",
+            "identifier": "C3252",
+            "notation": "GRANULAR CELL TUMOR, BENIGN",
+            "pref_label": "Benign Granular Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3252"
+        },
+        {
+            "alt_label": "Malignant Granular Cell Myoblastoma;Malignant Granular Cell Neoplasm;Myoblastoma, Malignant",
+            "definition": "A malignant neoplasm, comprised of large cells with cytoplasmatic granules, occurring in various organs/tissues.",
+            "identifier": "C4336",
+            "notation": "GRANULAR CELL TUMOR, MALIGNANT",
+            "pref_label": "Malignant Granular Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4336"
+        },
+        {
+            "definition": "A benign neoplasm of the ovary, originating from granulosa cells.",
+            "identifier": "C60340",
+            "notation": "GRANULOSA CELL TUMOR, BENIGN",
+            "pref_label": "Rat Benign Granulosa Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C60340"
+        },
+        {
+            "alt_label": "Malignant Granulosa Cell Tumor",
+            "definition": "A malignant neoplasm of the ovary, originating from granulosa cells.",
+            "identifier": "C4205",
+            "notation": "GRANULOSA CELL TUMOR, MALIGNANT",
+            "pref_label": "Malignant Granulosa Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4205"
+        },
+        {
+            "alt_label": "Benign Follicular Neoplasm;Benign Follicular Tumor;Benign Hair Follicle Tumor",
+            "definition": "A benign neoplasm that arises from the hair follicle.",
+            "identifier": "C27520",
+            "notation": "HAIR FOLLICLE NEOPLASM, BENIGN",
+            "pref_label": "Benign Hair Follicle Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C27520"
+        },
+        {
+            "alt_label": "Malignant Hair Follicle Tumor",
+            "definition": "A malignant neoplasm that arises from the hair follicle.",
+            "identifier": "C43310",
+            "notation": "HAIR FOLLICLE NEOPLASM, MALIGNANT",
+            "pref_label": "Malignant Hair Follicle Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C43310"
+        },
+        {
+            "alt_label": "Angioma;Benign Angioma;Benign Hemangioma",
+            "definition": "A benign vascular neoplasm characterized by the formation of capillary-sized or cavernous vascular channels.",
+            "identifier": "C3085",
+            "notation": "HEMANGIOMA, BENIGN",
+            "pref_label": "Hemangioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3085"
+        },
+        {
+            "definition": "A benign neoplasm originating from vascular pericytes (cells in the periphery of vessels).",
+            "identifier": "C4300",
+            "notation": "HEMANGIOPERICYTOMA, BENIGN",
+            "pref_label": "Benign Hemangiopericytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4300"
+        },
+        {
+            "alt_label": "Malignant Hemangiopericytoma NOS",
+            "definition": "A malignant neoplasm originating from vascular pericytes (cells in the periphery of vessels).",
+            "identifier": "C4301",
+            "notation": "HEMANGIOPERICYTOMA, MALIGNANT",
+            "pref_label": "Malignant Hemangiopericytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4301"
+        },
+        {
+            "alt_label": "Hemangiosarcoma",
+            "definition": "A malignant vascular neoplasm arising from endothelial cells.",
+            "identifier": "C3088",
+            "notation": "HEMANGIOSARCOMA, MALIGNANT",
+            "pref_label": "Angiosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3088"
+        },
+        {
+            "definition": "A malignant neoplasm composed of hemolymphoreticular cells.",
+            "identifier": "C27134",
+            "notation": "HEMOLYMPHORETICULAR TUMOR, MALIGNANT",
+            "pref_label": "Hematopoietic and Lymphoid Cell Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C27134"
+        },
+        {
+            "alt_label": "HBL;Pediatric Embryonal Hepatoma;Pediatric Hepatoblastoma",
+            "definition": "A malignant liver neoplasm composed of immature hepatocytic elements.",
+            "identifier": "C3728",
+            "notation": "HEPATOBLASTOMA, MALIGNANT",
+            "pref_label": "Hepatoblastoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3728"
+        },
+        {
+            "alt_label": "Brown Fat Neoplasm;Brown Fat Tumor;Fetal Fat Cell Lipoma",
+            "definition": "A benign neoplasm of the brown adipose tissue.",
+            "identifier": "C3702",
+            "notation": "HIBERNOMA, BENIGN",
+            "pref_label": "Hibernoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3702"
+        },
+        {
+            "alt_label": "Malignant Hibernoma",
+            "definition": "A malignant neoplasm arising from the brown adipose tissue in animals, usually in the subcutis and the thoracic cavity.",
+            "identifier": "C103394",
+            "notation": "HIBERNOMA, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Hibernoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C103394"
+        },
+        {
+            "definition": "A benign dermal neoplasm comprising of round cells, resembling histiocytes. The tumor commonly occurs in young dogs and may regress spontaneously.",
+            "identifier": "C98708",
+            "notation": "HISTIOCYTOMA, BENIGN",
+            "pref_label": "Benign Histiocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C98708"
+        },
+        {
+            "alt_label": "Fibrous Histiocytoma",
+            "definition": "A benign neoplasm composed of a fibroblastic and a histiocytic component.",
+            "identifier": "C3739",
+            "notation": "HISTIOCYTOMA, FIBROUS, BENIGN",
+            "pref_label": "Fibrous Histiocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3739"
+        },
+        {
+            "alt_label": "Benign Spongiotic Pericytoma",
+            "definition": "A benign neoplasm of the liver composed of hepatic stellate cells (Ito cells).",
+            "identifier": "C80351",
+            "notation": "ITO CELL TUMOR, BENIGN",
+            "pref_label": "Benign Ito Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C80351"
+        },
+        {
+            "alt_label": "Malignant Spongiotic Pericytoma",
+            "definition": "A malignant neoplasm of the liver composed of hepatic stellate cells (Ito cells).",
+            "identifier": "C80352",
+            "notation": "ITO CELL TUMOR, MALIGNANT",
+            "pref_label": "Malignant Ito Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C80352"
+        },
+        {
+            "definition": "A benign neoplasm in the superficial dermis with direct association to the epidermis, composed of well differentiated squamous epithelium and a central cavity filled with concentric layers of keratin; a pore (opening in the epidermis) may be present.",
+            "identifier": "C117977",
+            "notation": "KERATOACANTHOMA, BENIGN",
+            "pref_label": "Experimental Organism Benign Keratoacanthoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C117977"
+        },
+        {
+            "alt_label": "Fibroid;Fibroid Neoplasm;Fibroid Tumor;Leiomyomatous Neoplasm;Leiomyomatous Tumor",
+            "definition": "A benign neoplasm, originating from smooth muscle cells.",
+            "identifier": "C3157",
+            "notation": "LEIOMYOMA, BENIGN",
+            "pref_label": "Leiomyoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3157"
+        },
+        {
+            "definition": "A benign neoplasm of the smooth muscle that arises from the mesovarium.",
+            "identifier": "C176392",
+            "notation": "LEIOMYOMA, MESOVARIAL, BENIGN",
+            "pref_label": "Experimental Organism Benign Mesovarial Leiomyoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C176392"
+        },
+        {
+            "alt_label": "Leiomyosarcomas",
+            "definition": "A malignant neoplasm, originating from smooth muscle cells.",
+            "identifier": "C3158",
+            "notation": "LEIOMYOSARCOMA, MALIGNANT",
+            "pref_label": "Leiomyosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3158"
+        },
+        {
+            "alt_label": "Acute Erythroblastic Leukemia;Erythroblastic Leukemia;Fab M6;M6 Acute Myeloid Leukemia",
+            "definition": "A progressive, proliferative disease of blood cells, originating from immature erythroid cells.",
+            "identifier": "C8923",
+            "notation": "LEUKEMIA, ERYTHROID, MALIGNANT",
+            "pref_label": "Acute Erythroid Leukemia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8923"
+        },
+        {
+            "alt_label": "Leukemia Granulocytic;Leukemia Myeloid;Myelocytic Leukemia;Myelogenous Leukemia;Non-lymphoblastic Leukemia;Non-lymphocytic Leukemia",
+            "definition": "A progressive, proliferative disease of blood cells, originating from immature granulocytes.",
+            "identifier": "C3172",
+            "notation": "LEUKEMIA, GRANULOCYTIC, MALIGNANT",
+            "pref_label": "Myeloid Leukemia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3172"
+        },
+        {
+            "alt_label": "Large Cell Granular Lymphogenous Leukemia;Large Cell Granular Lymphoid Leukemia;Large Granular Lymphocytic Leukemia;Large Granular Lymphocytosis;LGLL;T Gamma Lymphoproliferative Disorder;T-Cell Large Granular Lymphocytic Leukemia;T-Gamma Lymphoproliferative Disorder;Tgamma Large Granular Lymphocyte Leukemia",
+            "definition": "A progressive, proliferative disease of blood cells which are large and granular, originating from lymphoid cells.",
+            "identifier": "C4664",
+            "notation": "LEUKEMIA, LARGE GRANULAR LYMPHOCYTIC, MALIGNANT",
+            "pref_label": "T-Cell Large Granular Lymphocyte Leukemia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4664"
+        },
+        {
+            "alt_label": "Acute Lymphocytic Leukaemia;Acute Lymphocytic Leukemias;Acute Lymphogenous Leukemia;Acute Lymphoid Leukemia;ALL;ALL - Acute Lymphocytic Leukemia;Lymphoblastic Leukemia;Precursor Cell Lymphoblastic Leukemia;Precursor Lymphoblasic Leukemia",
+            "definition": "A progressive, proliferative disease of blood cells, originating from immature lymphoid cells.",
+            "identifier": "C3167",
+            "notation": "LEUKEMIA, LYMPHOBLASTIC, MALIGNANT",
+            "pref_label": "Acute Lymphoblastic Leukemia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3167"
+        },
+        {
+            "alt_label": "Lymphocytic Leukemia;Lymphogenous Leukemia",
+            "definition": "A progressive, proliferative disease of blood cells, originating from lymphoid cells.",
+            "identifier": "C7539",
+            "notation": "LEUKEMIA, LYMPHOCYTIC, MALIGNANT",
+            "pref_label": "Lymphoid Leukemia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7539"
+        },
+        {
+            "alt_label": "Blood (Leukemia);Leukemia NOS;Leukemias;Leukemias, General",
+            "definition": "A progressive, proliferative disease of blood cells, originating from myeloid or lymphoid stem cells.",
+            "identifier": "C3161",
+            "notation": "LEUKEMIA, MALIGNANT",
+            "pref_label": "Leukemia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3161"
+        },
+        {
+            "definition": "A progressive, proliferative disease of blood cells, originating from mast cells.",
+            "identifier": "C3169",
+            "notation": "LEUKEMIA, MAST CELL, MALIGNANT",
+            "pref_label": "Mast Cell Leukemia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3169"
+        },
+        {
+            "alt_label": "Acute M7 Myeloid Leukemia;Acute Megakaryoblastic Leukemia (Fab Type M7);Acute Megakaryocytic Leukemia;Fab M7",
+            "definition": "A progressive, proliferative disease of blood cells, originating from immature megakaryocytes.",
+            "identifier": "C3170",
+            "notation": "LEUKEMIA, MEGAKARYOCYTIC, MALIGNANT",
+            "pref_label": "Acute Megakaryoblastic Leukemia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3170"
+        },
+        {
+            "alt_label": "Acute Monocytic Leukemia (Fab M5B);Monocytic Leukemia",
+            "definition": "A progressive, proliferative disease of blood cells, originating from immature monocytes.",
+            "identifier": "C4861",
+            "notation": "LEUKEMIA, MONOCYTIC, MALIGNANT",
+            "pref_label": "Acute Monocytic Leukemia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4861"
+        },
+        {
+            "alt_label": "Adenoma, Interstitial;Adenoma, Leydig Cell;Benign Interstitial Cell Neoplasm;Benign Interstitial Cell Tumor;Benign Leydig Cell Neoplasm",
+            "definition": "A benign neoplasm of the testis originating from interstitial (Leydig) cells.",
+            "identifier": "C4212",
+            "notation": "LEYDIG CELL TUMOR, BENIGN",
+            "pref_label": "Benign Leydig Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4212"
+        },
+        {
+            "alt_label": "Carcinoma, Leydig Cell;Malignant Interstitial Cell Neoplasm;Malignant Interstitial Cell Tumor;Malignant Leydig Cell Neoplasm",
+            "definition": "A malignant neoplasm of the testis originating from interstitial (Leydig) cells.",
+            "identifier": "C4213",
+            "notation": "LEYDIG CELL TUMOR, MALIGNANT",
+            "pref_label": "Malignant Leydig Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4213"
+        },
+        {
+            "definition": "A benign neoplasm composed of adipose tissue.",
+            "identifier": "C3192",
+            "notation": "LIPOMA, BENIGN",
+            "pref_label": "Lipoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3192"
+        },
+        {
+            "definition": "A malignant neoplasm composed of adipose tissue.",
+            "identifier": "C3194",
+            "notation": "LIPOSARCOMA, MALIGNANT",
+            "pref_label": "Liposarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3194"
+        },
+        {
+            "alt_label": "Luteal Cell Neoplasm;Luteal Cell Tumor;Luteinoma;Luteoma;Ovarian Stroma Luteoma",
+            "definition": "A benign neoplasm of the ovary, composed of leuteinized granulosa-theca cells.",
+            "identifier": "C3202",
+            "notation": "LUTEOMA, BENIGN",
+            "pref_label": "Ovarian Stromal Luteoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3202"
+        },
+        {
+            "definition": "A benign neoplasm arising from the lymphatics.",
+            "identifier": "C8965",
+            "notation": "LYMPHANGIOMA, BENIGN",
+            "pref_label": "Lymphangioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8965"
+        },
+        {
+            "alt_label": "Lymphangioendothelial Sarcoma;Malignant Lymphangioendothelioma",
+            "definition": "A malignant neoplasm arising from the endothelial cells of the lymphatic vessels.",
+            "identifier": "C3205",
+            "notation": "LYMPHANGIOSARCOMA, MALIGNANT",
+            "pref_label": "Lymphangiosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3205"
+        },
+        {
+            "alt_label": "Follicle Center Lymphoma;Follicular Centre Cell Lymphoma;Follicular Non-Hodgkin Lymphoma;Follicular Non-Hodgkin's Lymphoma;Lymphoma, Follicular Centre Cell",
+            "definition": "A neoplasm of lymphoid cells which has at least a partial follicular pattern.",
+            "identifier": "C3209",
+            "notation": "LYMPHOMA, FOLLICULAR, MALIGNANT",
+            "pref_label": "Follicular Lymphoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3209"
+        },
+        {
+            "alt_label": "Lymphoma, Large Cell, Malignant",
+            "definition": "A malignant neoplasm of large lymphocytes, which resemble histiocytes.",
+            "identifier": "C114110",
+            "notation": "LYMPHOMA, HISTIOCYTIC, MALIGNANT",
+            "pref_label": "Experimental Organism Histiocytic Lymphoma Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C114110"
+        },
+        {
+            "definition": "A malignant neoplasm composed of immunoblasts (large B cells).",
+            "identifier": "C3461",
+            "notation": "LYMPHOMA, IMMUNOBLASTIC, MALIGNANT",
+            "pref_label": "Immunoblastic Lymphoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3461"
+        },
+        {
+            "alt_label": "Precursor Cell Lymphoblastic Lymphoma;Precursor Lymphoblastic Lymphoma",
+            "definition": "A malignant neoplasm composed of lymphoblasts (lymphoid precursor cells).",
+            "identifier": "C9360",
+            "notation": "LYMPHOMA, LYMPHOBLASTIC, MALIGNANT",
+            "pref_label": "Lymphoblastic Lymphoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C9360"
+        },
+        {
+            "alt_label": "Immunocytoma, Lymphoplasmacytic Type;Lymphoma, Plasmacytic;Lymphoplasmacytoid Lymphoma",
+            "definition": "A malignant neoplasm composed of lymphocytes (B-cells), lymphoplasmacytoid cells, and plasma cells.",
+            "identifier": "C3212",
+            "notation": "LYMPHOMA, LYMPHOPLASMACYTIC, MALIGNANT",
+            "pref_label": "Lymphoplasmacytic Lymphoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3212"
+        },
+        {
+            "alt_label": "Lymphoma (Hodgkin and Non-Hodgkin);Lymphoma (Hodgkin's and Non-Hodgkin's);Malignant Lymphoma",
+            "definition": "A malignant neoplasm composed of lymphocytes of B- or T/NK-cell phenotype.",
+            "identifier": "C3208",
+            "notation": "LYMPHOMA, MALIGNANT",
+            "pref_label": "Lymphoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3208"
+        },
+        {
+            "definition": "A malignant neoplasm composed of a mixed lymphocyte population.",
+            "identifier": "C114111",
+            "notation": "LYMPHOMA, MIXED, MALIGNANT",
+            "pref_label": "Experimental Organism Mixed Lymphoma Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C114111"
+        },
+        {
+            "alt_label": "B-Cell Small Lymphocytic Lymphoma;Lymphoma, Lymphocytic, Malignant;SLL;Small B-Cell Lymphocytic Lymphoma",
+            "definition": "A malignant neoplasm composed of small lymphocytes.",
+            "identifier": "C7540",
+            "notation": "LYMPHOMA, SMALL LYMPHOCYTIC, MALIGNANT",
+            "pref_label": "Small Lymphocytic Lymphoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7540"
+        },
+        {
+            "definition": "An antiquated term referring to a malignant lymphoma that is diffused and composed of small and large lymphocytes.",
+            "identifier": "C114112",
+            "notation": "LYMPHOSARCOMA, MALIGNANT",
+            "pref_label": "Experimental Organism Lymphosarcoma Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C114112"
+        },
+        {
+            "definition": "A benign neoplasm composed of mast cells.",
+            "identifier": "C3217",
+            "notation": "MAST CELL TUMOR, BENIGN",
+            "pref_label": "Benign Mastocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3217"
+        },
+        {
+            "definition": "A malignant neoplasm composed of mast cells.",
+            "identifier": "C8991",
+            "notation": "MAST CELL TUMOR, MALIGNANT",
+            "pref_label": "Malignant Mastocytosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8991"
+        },
+        {
+            "alt_label": "Medulloblastomas",
+            "definition": "A malignant, invasive embryonal neoplasm arising from the cerebellum.",
+            "identifier": "C3222",
+            "notation": "MEDULLOBLASTOMA, MALIGNANT",
+            "pref_label": "Medulloblastoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3222"
+        },
+        {
+            "definition": "A malignant neoplasm composed of melanocytes, which lack melanin.",
+            "identifier": "C3802",
+            "notation": "MELANOMA, AMELANOTIC, MALIGNANT",
+            "pref_label": "Amelanotic Melanoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3802"
+        },
+        {
+            "alt_label": "Benign Melanocytoma;Melanocytoma, Benign",
+            "definition": "A benign neoplasm or hamartoma composed of melanocytes.",
+            "identifier": "C98709",
+            "notation": "MELANOMA, BENIGN",
+            "pref_label": "Experimental Organism Benign Melanocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C98709"
+        },
+        {
+            "alt_label": "Malignant Melanoma",
+            "definition": "A malignant neoplasm composed of melanocytes.",
+            "identifier": "C3224",
+            "notation": "MELANOMA, MALIGNANT",
+            "pref_label": "Melanoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3224"
+        },
+        {
+            "alt_label": "Intraocular Melanoma;Melanoma of the Uvea;Melanoma of Uvea",
+            "definition": "A malignant neoplasm of the uvea composed of melanocytes.",
+            "identifier": "C7712",
+            "notation": "MELANOMA, UVEAL, MALIGNANT",
+            "pref_label": "Uveal Melanoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7712"
+        },
+        {
+            "alt_label": "Meningioma, Benign",
+            "definition": "A benign neoplasm of the meninges.",
+            "identifier": "C4055",
+            "notation": "MENINGIOMA, BENIGN",
+            "pref_label": "Benign Meningioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4055"
+        },
+        {
+            "alt_label": "Grade 3 Meningioma;Grade III Meningioma;Who Grade III Meningioma",
+            "definition": "A malignant neoplasm of the meninges.",
+            "identifier": "C38938",
+            "notation": "MENINGIOMA, MALIGNANT",
+            "pref_label": "Grade III Meningioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C38938"
+        },
+        {
+            "definition": "A benign soft-tissue neoplasm comprising two or more non-fibroblastic mesenchymal lines of differentiation.",
+            "identifier": "C4267",
+            "notation": "MESENCHYMAL TUMOR, BENIGN",
+            "pref_label": "Benign Mesenchymoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4267"
+        },
+        {
+            "definition": "A malignant soft tissue neoplasm which consists of two or more mesenchymal lines of differentiation, excluding a fibroblastic line of differentiation.",
+            "identifier": "C4268",
+            "notation": "MESENCHYMOMA, MALIGNANT",
+            "pref_label": "Malignant Mesenchymoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4268"
+        },
+        {
+            "definition": "A congenital benign neoplasm of the kidney characterized by the presence of interlacing bundles of homogenous spindle cells as well as a loose, myxomatous stroma.",
+            "identifier": "C142368",
+            "notation": "MESOBLASTIC NEPHROMA, BENIGN",
+            "pref_label": "Experimental Organism Benign Mesoblastic Nephroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C142368"
+        },
+        {
+            "definition": "A malignant neoplasm located at the junction of the right atrium and the vena cava originating from mesothelial-like cells which form tubular and alveolar structures in a fibrous stroma.",
+            "identifier": "C6043",
+            "notation": "MESOTHELIOMA, ATRIOCAVAL, MALIGNANT",
+            "pref_label": "Thyroid Gland Angiosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C6043"
+        },
+        {
+            "alt_label": "Adenomatoid Tumor, Benign;Benign Localized Epithelial Mesothelioma;Benign Mesothelial Neoplasm;Benign Mesothelial Tumor;Benign Mesothelioma;Benign Neoplasm of Mesothelium;Benign Neoplasm of the Mesothelium;Benign Tumor of Mesothelium;Benign Tumor of the Mesothelium;Mesothelioma, Benign",
+            "definition": "A benign neoplasm arising from mesothelial cells.",
+            "identifier": "C3762",
+            "notation": "MESOTHELIOMA, BENIGN",
+            "pref_label": "Adenomatoid Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3762"
+        },
+        {
+            "alt_label": "Malignant Mesothelial Neoplasm;Malignant Mesothelial Tumor;Malignant Neoplasm of Mesothelium;Malignant Neoplasm of the Mesothelium;Malignant Tumor of Mesothelium;Malignant Tumor of the Mesothelium",
+            "definition": "A malignant neoplasm originating from mesothelial cells of the pleura or peritoneum.",
+            "identifier": "C4456",
+            "notation": "MESOTHELIOMA, MALIGNANT",
+            "pref_label": "Malignant Mesothelioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4456"
+        },
+        {
+            "definition": "A benign neoplasm of the female reproductive tract arising from pluripotent mesodermal cells of the Mullerian ducts. (INHAND)",
+            "identifier": "C126085",
+            "notation": "MULLERIAN TUMOR, MIXED, BENIGN",
+            "pref_label": "Experimental Organism Benign Mixed Mullerian Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C126085"
+        },
+        {
+            "alt_label": "Malignant Mixed Mesodermal Tumor;MMMT",
+            "definition": "A malignant neoplasm of the female reproductive tract (mostly uterus and ovaries) originating from the Mullerian ducts and composed of carcinomatous and sarcomatous elements.",
+            "identifier": "C8975",
+            "notation": "MULLERIAN TUMOR, MIXED, MALIGNANT",
+            "pref_label": "Malignant Mixed Mesodermal (Mullerian) Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8975"
+        },
+        {
+            "alt_label": "Myelolipoma",
+            "definition": "A benign tumor of the adrenal gland composed of adipocytes and hematopoietic/lymphoid cells.",
+            "identifier": "C3736",
+            "notation": "MYELOLIPOMA, BENIGN",
+            "pref_label": "Adrenal Gland Myelolipoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3736"
+        },
+        {
+            "alt_label": "Multiple Myeloma;Myeloma",
+            "definition": "A malignant neoplasm of the bone marrow composed of plasma cells.",
+            "identifier": "C3242",
+            "notation": "MYELOMA, PLASMA CELL, MALIGNANT",
+            "pref_label": "Plasma Cell Myeloma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3242"
+        },
+        {
+            "definition": "A benign neoplasm composed of myoepithelial cells.",
+            "identifier": "C7442",
+            "notation": "MYOEPITHELIOMA, BENIGN",
+            "pref_label": "Benign Myoepithelioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7442"
+        },
+        {
+            "alt_label": "Malignant Myoepithelioma;Myoepithelial Carcinoma",
+            "definition": "A malignant neoplasm composed of myoepithelial cells.",
+            "identifier": "C7596",
+            "notation": "MYOEPITHELIOMA, MALIGNANT",
+            "pref_label": "Malignant Myoepithelioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7596"
+        },
+        {
+            "definition": "A benign soft tissue neoplasm with a myxoid stroma formation.",
+            "identifier": "C6577",
+            "notation": "MYXOMA, BENIGN",
+            "pref_label": "Myxoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C6577"
+        },
+        {
+            "definition": "A malignant soft tissue neoplasm with a myxoid stroma formation.",
+            "identifier": "C3255",
+            "notation": "MYXOSARCOMA, MALIGNANT",
+            "pref_label": "Myxosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3255"
+        },
+        {
+            "alt_label": "Benign Tumor;Benign Unclassifiable Tumor",
+            "definition": "A general term used to describe autonomous growth of tissue where the originating cell type has not been characterized. The term benign indicates the absence of morphologic features associated with malignancy (for instance severe atypia, nuclear pleomorphism, tumor cell necrosis, and abnormal mitoses).",
+            "identifier": "C3677",
+            "notation": "NEOPLASM, BENIGN",
+            "pref_label": "Benign Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3677"
+        },
+        {
+            "alt_label": "CA;Cancer;Malignancy;Malignant Tumor",
+            "definition": "A general term for autonomous tissue growth exhibiting morphologic features of malignancy (e.g. severe atypia, nuclear pleomorphism, tumor cell necrosis, abnormal mitoses, tissue invasiveness) and for which the transformed cell type has not been specifically identified.",
+            "identifier": "C9305",
+            "notation": "NEOPLASM, MALIGNANT",
+            "pref_label": "Malignant Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C9305"
+        },
+        {
+            "definition": "A benign embryonal neoplasm of the kidney.",
+            "identifier": "C114235",
+            "notation": "NEPHROBLASTOMA, BENIGN",
+            "pref_label": "Experimental Organism Benign Nephroblastoma Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C114235"
+        },
+        {
+            "alt_label": "Embryonal Nephroma;Nephroblastoma;Renal Wilms' Tumor;Wilms Tumor of the Kidney;Wilms' Tumor of the Kidney",
+            "definition": "A malignant embryonal neoplasm of the kidney.",
+            "identifier": "C40407",
+            "notation": "NEPHROBLASTOMA, MALIGNANT",
+            "pref_label": "Kidney Wilms Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C40407"
+        },
+        {
+            "alt_label": "Neural Crest Tumor, Malignant;Neuroblastoma (Schwannian Stroma-poor)",
+            "definition": "A malignant neoplasm composed of neuroblastic cells.",
+            "identifier": "C3270",
+            "notation": "NEUROBLASTOMA, MALIGNANT",
+            "pref_label": "Neuroblastoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3270"
+        },
+        {
+            "definition": "A benign neoplasm arising from neuroendocrine cells.",
+            "identifier": "C126086",
+            "notation": "NEUROENDOCRINE CELL TUMOR, BENIGN",
+            "pref_label": "Experimental Organism Benign Neuroendocrine Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C126086"
+        },
+        {
+            "definition": "A malignant neoplasm arising from neuroendocrine cells.",
+            "identifier": "C126087",
+            "notation": "NEUROENDOCRINE CELL TUMOR, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Neuroendocrine Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C126087"
+        },
+        {
+            "definition": "An intraneural or extraneural neoplasm arising from nerve tissues and neural sheaths, composed of perineurial-like fibroblasts and Schwann cells.",
+            "identifier": "C3272",
+            "notation": "NEUROFIBROMA, BENIGN",
+            "pref_label": "Neurofibroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3272"
+        },
+        {
+            "definition": "A malignant tumor that arises in the brain stem or adjacent cranial nerves, consisting of variable populations of cells with neuronal and myoblast differentiation. (INHAND)",
+            "identifier": "C116214",
+            "notation": "NEUROMYOBLASTOMA, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Neuromyoblastoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C116214"
+        },
+        {
+            "alt_label": "Benign Odontogenic Tumor",
+            "definition": "A benign neoplasm arising from tooth-forming tissues.",
+            "identifier": "C4306",
+            "notation": "ODONTOGENIC TUMOR, BENIGN",
+            "pref_label": "Benign Odontogenic Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4306"
+        },
+        {
+            "alt_label": "Ameloblastic Fibroodontoma;Fibroameloblastic Odontoma",
+            "definition": "A benign neoplasm arising from tooth-forming tissues with-enamel organ differentiation (but without enamel formation).",
+            "identifier": "C3710",
+            "notation": "ODONTOMA, AMELOBLASTIC, BENIGN",
+            "pref_label": "Ameloblastic Fibro-Odontoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3710"
+        },
+        {
+            "definition": "A malignant neoplasm arising from tooth-forming tissues with-enamel organ differentiation (but without enamel formation).",
+            "identifier": "C7492",
+            "notation": "ODONTOMA, AMELOBLASTIC, MALIGNANT",
+            "pref_label": "Ameloblastic Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7492"
+        },
+        {
+            "alt_label": "Fibro-Odontoma;Fibroodontoma",
+            "definition": "A benign neoplasm of tooth origin.",
+            "identifier": "C3287",
+            "notation": "ODONTOMA, BENIGN",
+            "pref_label": "Odontoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3287"
+        },
+        {
+            "alt_label": "Malignant Odontogenic Tumor",
+            "definition": "A malignant neoplasm of tooth origin.",
+            "identifier": "C4812",
+            "notation": "ODONTOMA, MALIGNANT",
+            "pref_label": "Malignant Odontogenic Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4812"
+        },
+        {
+            "definition": "A malignant neoplasm of the brain or spinal cord originating from oligodendrocytes.",
+            "identifier": "C119577",
+            "notation": "OLIGODENDROGLIOMA, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Oligodendroglioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C119577"
+        },
+        {
+            "alt_label": "Oncocytic Tumor;Oncocytoma",
+            "definition": "A benign neoplasm composed of large cells with abundant eosinophilic granular cytoplasm (oncocytes).",
+            "identifier": "C7072",
+            "notation": "ONCOCYTOMA, BENIGN",
+            "pref_label": "Oncocytic Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7072"
+        },
+        {
+            "alt_label": "Hurthle Cell Adenocarcinoma;Hurthle Cell Carcinoma;Oncocytic Adenocarcinoma;Oncocytic Carcinoma",
+            "definition": "A malignant neoplasm composed of large epithelial cells with abundant granular eosinophilic cytoplasm (oncocytes).",
+            "identifier": "C3679",
+            "notation": "ONCOCYTOMA, MALIGNANT",
+            "pref_label": "Oncocytic Adenocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3679"
+        },
+        {
+            "alt_label": "Giant Osteoid Osteoma;Ossifying Giant Cell Tumor",
+            "definition": "A benign neoplasm of bone, characterized by the formation of osteoid tissue and large osteoblast-like cells.",
+            "identifier": "C3294",
+            "notation": "OSTEOBLASTOMA, BENIGN",
+            "pref_label": "Osteoblastoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3294"
+        },
+        {
+            "definition": "A benign cartiliginous neoplasm arising from the metaphysis of bone.",
+            "identifier": "C3295",
+            "notation": "OSTEOCHONDROMA, BENIGN",
+            "pref_label": "Osteochondroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3295"
+        },
+        {
+            "alt_label": "Primary Bone Chondrosarcoma;Primary Chondrosarcoma;Primary Chondrosarcoma of Bone;Primary Chondrosarcoma of the Bone",
+            "definition": "A malignant cartiliginous neoplasm of bone.",
+            "identifier": "C7155",
+            "notation": "OSTEOCHONDROSARCOMA, MALIGNANT",
+            "pref_label": "Primary Central Chondrosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7155"
+        },
+        {
+            "alt_label": "Dedifferentiated Giant Cell Tumor;Giant Cell Bone Sarcoma;Giant Cell Sarcoma of Bone;Giant Cell Sarcoma of the Bone",
+            "definition": "A malignant neoplasm of bone comprised of osteoclast-like giant cells and mononuclear cells.",
+            "identifier": "C4304",
+            "notation": "OSTEOCLASTOMA, MALIGNANT",
+            "pref_label": "Malignancy in Giant Cell Tumor of Bone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4304"
+        },
+        {
+            "alt_label": "Desmoid Tumor of Bone;Desmoplastic Fibroma;Desmoplastic Fibroma of Bone;Desmoplastic Fibroma of the Bone;Osseous Desmoplastic Fibroma",
+            "definition": "A benign neoplasm characterized by osteolysis and the presence of a rich collagenous stroma and spindle cells.",
+            "identifier": "C3740",
+            "notation": "OSTEOFIBROMA, BENIGN",
+            "pref_label": "Desmoplastic Fibroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3740"
+        },
+        {
+            "definition": "A benign well-differentiated neoplasm of bone.",
+            "identifier": "C3296",
+            "notation": "OSTEOMA, BENIGN",
+            "pref_label": "Osteoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3296"
+        },
+        {
+            "alt_label": "Extraosseous Osteosarcoma;Extraskeletal Osteogenic Sarcoma;Soft Tissue Osteosarcoma",
+            "definition": "A malignant bone-forming neoplasm, arising in tissue other than bone.",
+            "identifier": "C8810",
+            "notation": "OSTEOSARCOMA, EXTRASKELETAL, MALIGNANT",
+            "pref_label": "Extraskeletal Osteosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8810"
+        },
+        {
+            "alt_label": "Osteogenic Sarcoma",
+            "definition": "A malignant neoplasm usually arising from bone.",
+            "identifier": "C9145",
+            "notation": "OSTEOSARCOMA, MALIGNANT",
+            "pref_label": "Osteosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C9145"
+        },
+        {
+            "definition": "A benign epithelial neoplasm that projects above the surrounding epithelial surface.",
+            "identifier": "C7440",
+            "notation": "PAPILLOMA, BENIGN",
+            "pref_label": "Papilloma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7440"
+        },
+        {
+            "alt_label": "Papilloma of Choroid Plexus;Papilloma of the Choroid Plexus",
+            "definition": "A benign neoplasm of the choroid plexus of the central nervous system.",
+            "identifier": "C3698",
+            "notation": "PAPILLOMA, CHOROID PLEXUS, BENIGN",
+            "pref_label": "Choroid Plexus Papilloma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3698"
+        },
+        {
+            "alt_label": "Epidermoid Cell Papilloma;Epidermoid Papilloma;Keratotic Papilloma;Squamous Cell Papilloma",
+            "definition": "A benign epithelial neoplasm characterized by a papillary growth pattern and a proliferation of neoplastic squamous cells.",
+            "identifier": "C3712",
+            "notation": "PAPILLOMA, SQUAMOUS CELL, BENIGN",
+            "pref_label": "Squamous Cell Papilloma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3712"
+        },
+        {
+            "alt_label": "Transitional Papilloma",
+            "definition": "A benign papillary neoplasm composed of transitional cells.",
+            "identifier": "C4115",
+            "notation": "PAPILLOMA, TRANSITIONAL CELL, BENIGN",
+            "pref_label": "Transitional Cell Papilloma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4115"
+        },
+        {
+            "alt_label": "Benign Neuroendocrine Cell Tumor;Benign Paraganglionic Neoplasm",
+            "definition": "A benign neoplasm arising from paraganglia located along nerves composed of neoplastic neuroectodermal chromaffin cells.",
+            "identifier": "C48314",
+            "notation": "PARAGANGLIOMA, BENIGN",
+            "pref_label": "Benign Paraganglioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C48314"
+        },
+        {
+            "alt_label": "Malignant Neoplasm of Paraganglion;Malignant Paraganglion Tumor",
+            "definition": "A malignant neoplasm arising from paraganglia located along nerves composed of neoplastic neuroectodermal chromaffin cells.",
+            "identifier": "C8559",
+            "notation": "PARAGANGLIOMA, MALIGNANT",
+            "pref_label": "Malignant Paraganglioma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8559"
+        },
+        {
+            "alt_label": "Peripheral Cholangiocarcinoma",
+            "definition": "A malignant intrahepatic neoplasm arising from the small interlobular bile ducts.",
+            "identifier": "C96805",
+            "notation": "PERIPHERAL CHOLANGIOCARCINOMA, MALIGNANT",
+            "pref_label": "Small Duct Intrahepatic Cholangiocarcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C96805"
+        },
+        {
+            "definition": "A benign neoplasm of the adrenal gland medulla.",
+            "identifier": "C48305",
+            "notation": "PHEOCHROMOCYTOMA, BENIGN",
+            "pref_label": "Benign Adrenal Gland Pheochromocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C48305"
+        },
+        {
+            "definition": "A benign neoplasm of the adrenal gland medulla, composed of medullary and neuroectodermal components.",
+            "identifier": "C92181",
+            "notation": "PHEOCHROMOCYTOMA, COMPLEX, BENIGN",
+            "pref_label": "Benign Adrenal Gland Composite Pheochromocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C92181"
+        },
+        {
+            "definition": "A malignant neoplasm of the adrenal gland medulla, composed of medullary and neuroectodermal components.",
+            "identifier": "C92184",
+            "notation": "PHEOCHROMOCYTOMA, COMPLEX, MALIGNANT",
+            "pref_label": "Malignant Adrenal Gland Composite Pheochromocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C92184"
+        },
+        {
+            "alt_label": "Malignant Adrenal Gland Chromaffin Neoplasm;Malignant Adrenal Gland Chromaffin Paraganglioma;Malignant Adrenal Gland Chromaffin Tumor;Malignant Adrenal Gland Chromaffinoma;Malignant Adrenal Gland Paraganglioma;Malignant Adrenal Medullary Paraganglioma;Malignant Adrenal Medullary Pheochromocytoma;Malignant Adrenal Pheochromocytoma;Malignant Pheochromocytoma;Pheochromoblastoma",
+            "definition": "A malignant neoplasm of the adrenal gland medulla.",
+            "identifier": "C4220",
+            "notation": "PHEOCHROMOCYTOMA, MALIGNANT",
+            "pref_label": "Malignant Adrenal Gland Pheochromocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4220"
+        },
+        {
+            "alt_label": "Benign Hair Follicle Neoplasm;Benign Pilomatricoma;Benign Pilomatrixoma;Calcifying Epitherlioma of Malherbe;Pilomatrixoma",
+            "definition": "A benign hair follicle neoplasm in the outer hair sheath and infundibulum, characterized by abrupt keratinization and central lumen with ghost cells.",
+            "identifier": "C7368",
+            "notation": "PILOMATRIXOMA, BENIGN",
+            "pref_label": "Pilomatricoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7368"
+        },
+        {
+            "alt_label": "Pineal Gland PNET;Pineal Gland Primitive Neuroectodermal Neoplasm;Pineal Gland Primitive Neuroectodermal Tumor;Pineal PNET;Pineal Primitive Neuroectodermal Neoplasm;Pineal Primitive Neuroectodermal Tumor;PNET of Pineal Gland;PNET of the Pineal Gland;Primitive Neuroectodermal Neoplasm of Pineal Gland;Primitive Neuroectodermal Neoplasm of the Pineal Gland;Primitive Neuroectodermal Tumor of Pineal Gland;Primitive Neuroectodermal Tumor of the Pineal Gland",
+            "definition": "A poorly differentiated malignant embryonal neoplasm arising from the pineal region of the brain.",
+            "identifier": "C9344",
+            "notation": "PINEOBLASTOMA, MALIGNANT",
+            "pref_label": "Pineoblastoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C9344"
+        },
+        {
+            "alt_label": "Benign Pinealoma",
+            "definition": "A benign neoplasm of the brain arising from the pineal gland.",
+            "identifier": "C6966",
+            "notation": "PINEOCYTOMA, BENIGN",
+            "pref_label": "Pineocytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C6966"
+        },
+        {
+            "definition": "A benign neoplasm arising from the posterior lobe of the pituitary gland.",
+            "identifier": "C94524",
+            "notation": "PITUICYTOMA, BENIGN",
+            "pref_label": "Pituicytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C94524"
+        },
+        {
+            "definition": "A malignant neoplasm arising from the posterior lobe of the pituitary gland.",
+            "identifier": "C176395",
+            "notation": "PITUICYTOMA, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Pituicytoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C176395"
+        },
+        {
+            "definition": "A benign neoplasm composed of plasma cells.",
+            "identifier": "C130197",
+            "notation": "PLASMA CELL TUMOR, BENIGN",
+            "pref_label": "Experimental Organism Benign Plasma Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C130197"
+        },
+        {
+            "alt_label": "Plasma Cell Dyscrasia;Plasma Cell Tumor;Plasmacytic Neoplasm;Plasmacytic Tumor",
+            "definition": "A malignant neoplasm composed of plasma cells.",
+            "identifier": "C4665",
+            "notation": "PLASMA CELL TUMOR, MALIGNANT",
+            "pref_label": "Plasma Cell Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4665"
+        },
+        {
+            "definition": "A benign polypoid neoplasm of an epithelial lining projecting into a lumen or cavity.",
+            "identifier": "C112275",
+            "notation": "POLYP, BENIGN",
+            "pref_label": "Experimental Organism Benign Polyp",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C112275"
+        },
+        {
+            "definition": "A benign polypoid neoplasm of the endometrium projecting into the endometrial cavity.",
+            "identifier": "C6433",
+            "notation": "POLYP, ENDOMETRIAL STROMAL, BENIGN",
+            "pref_label": "Endometrial Polyp",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C6433"
+        },
+        {
+            "definition": "A benign polyp with prominent, hyperplastic glandular structures.",
+            "identifier": "C124612",
+            "notation": "POLYP, GLANDULAR, BENIGN",
+            "pref_label": "Experimental Organism Glandular Polyp",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C124612"
+        },
+        {
+            "alt_label": "Polyp of the Vagina;Polyp of Vagina",
+            "definition": "A benign polypoid growth arising from the vaginal wall.",
+            "identifier": "C3664",
+            "notation": "POLYP, VAGINAL, BENIGN",
+            "pref_label": "Vaginal Polyp",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3664"
+        },
+        {
+            "definition": "A malignant neoplasm arising from foci of atypical fibroblast-like cells in the interstitium of the outer stripe of the outer medulla of the kidney. (INHAND)",
+            "identifier": "C126088",
+            "notation": "RENAL MESENCHYMAL TUMOR, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Renal Mesenchymal Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C126088"
+        },
+        {
+            "alt_label": "Angiocentric T-Cell Lymphoma",
+            "definition": "A malignant lymphoid neoplasm composed of EBV-positive NK/T cells arranged in an angiocentric pattern.",
+            "identifier": "C4684",
+            "notation": "RETICULOSIS, MALIGNANT",
+            "pref_label": "Nasal Type Extranodal NK/T-Cell Lymphoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4684"
+        },
+        {
+            "alt_label": "RB",
+            "definition": "A malignant neoplasm originating in the nuclear layer of the retina.",
+            "identifier": "C7541",
+            "notation": "RETINOBLASTOMA, MALIGNANT",
+            "pref_label": "Retinoblastoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7541"
+        },
+        {
+            "definition": "A benign neoplasm arising from skeletal or cardiac muscle, characterized by the presence of rhabdomyoblasts.",
+            "identifier": "C3358",
+            "notation": "RHABDOMYOMA, BENIGN",
+            "pref_label": "Rhabdomyoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3358"
+        },
+        {
+            "definition": "A malignant mesenchymal neoplasm arising from skeletal muscle.",
+            "identifier": "C3359",
+            "notation": "RHABDOMYOSARCOMA, MALIGNANT",
+            "pref_label": "Rhabdomyosarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3359"
+        },
+        {
+            "definition": "A malignant mesenchymal neoplasm that arises from a pre-existing benign fibroadenoma.",
+            "identifier": "C124613",
+            "notation": "SARCOMA ARISING IN FIBROADENOMA, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Sarcoma Arising From Fibroadenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C124613"
+        },
+        {
+            "definition": "A malignant neoplasm composed of myeloblasts, neutrophils and neutrophil precursors.",
+            "identifier": "C35815",
+            "notation": "SARCOMA, GRANULOCYTIC, MALIGNANT",
+            "pref_label": "Granulocytic Sarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C35815"
+        },
+        {
+            "definition": "A malignant neoplasm composed of cells resembling histiocytes.",
+            "identifier": "C27349",
+            "notation": "SARCOMA, HISTIOCYTIC, MALIGNANT",
+            "pref_label": "Histiocytic Sarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C27349"
+        },
+        {
+            "alt_label": "Sarcoma of Leptomeninges;Sarcoma of the Leptomeninges;Sarcoma, Meningeal",
+            "definition": "A malignant mesenchymal neoplasm arising from the leptomeninges.",
+            "identifier": "C8312",
+            "notation": "SARCOMA, LEPTOMENINGEAL, MALIGNANT",
+            "pref_label": "Leptomeningeal Sarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8312"
+        },
+        {
+            "alt_label": "Mesenchymal Tumor, Malignant;Sarcoma;Sarcoma of Soft Tissue and Bone;Sarcoma of the Soft Tissue and Bone",
+            "definition": "A malignant mesenchymal neoplasm. A general term for which the transformed cell type has not been specified.",
+            "identifier": "C9118",
+            "notation": "SARCOMA, MALIGNANT",
+            "pref_label": "Sarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C9118"
+        },
+        {
+            "alt_label": "Chloroma;Extramedullary Myeloid Tumor",
+            "definition": "A malignant neoplasm composed of myeloblasts or immature myeloid cells. It occurs in extramedullary sites or the bone.",
+            "identifier": "C3520",
+            "notation": "SARCOMA, MYELOID, MALIGNANT",
+            "pref_label": "Myeloid Sarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3520"
+        },
+        {
+            "alt_label": "SS",
+            "definition": "A malignant neoplasm that usually arises in the synovial membranes of the joints and the synovial cells of the tendons and bursae.",
+            "identifier": "C3400",
+            "notation": "SARCOMA, SYNOVIAL, MALIGNANT",
+            "pref_label": "Synovial Sarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3400"
+        },
+        {
+            "alt_label": "Neurilemmoma;Neurinoma;Schwannoma;Schwannoma (Who Grade I)",
+            "definition": "A benign neoplasm of the peripheral nervous system composed of well-differentiated Schwann cells.",
+            "identifier": "C3269",
+            "notation": "SCHWANNOMA, BENIGN",
+            "pref_label": "Schwannoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3269"
+        },
+        {
+            "definition": "A malignant schwannoma of the heart arising from subendocardial Schwann cells that appear as an expansile spindle cell mass, which may infiltrate the myocardium and protrude into the ventricular lumen. (INHAND)",
+            "identifier": "C156607",
+            "notation": "SCHWANNOMA, ENDOCARDIAL, MALIGNANT",
+            "pref_label": "Experimental Organism Endocardial Schwannoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C156607"
+        },
+        {
+            "definition": "A malignant schwannoma of the heart arising from intramural Schwann cells that appears as a poorly circumscribed spindle cell mass within the ventricular myocardium which tends to exhibit infiltrative rather than expansile margins. (INHAND)",
+            "identifier": "C156608",
+            "notation": "SCHWANNOMA, INTRAMURAL, MALIGNANT",
+            "pref_label": "Experimental Organism Intramural Schwannoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C156608"
+        },
+        {
+            "alt_label": "Malignant Neurilemmoma;Malignant Peripheral Nerve Sheath Tumour;Neurofibrosarcoma, Malignant",
+            "definition": "A malignant neoplasm, originating from the sheaths of the peripheral nerve.",
+            "identifier": "C3798",
+            "notation": "SCHWANNOMA, MALIGNANT",
+            "pref_label": "Malignant Peripheral Nerve Sheath Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3798"
+        },
+        {
+            "definition": "A benign germ cell neoplasm of the testis.",
+            "identifier": "C112276",
+            "notation": "SEMINOMA, BENIGN",
+            "pref_label": "Experimental Organism Benign Seminoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C112276"
+        },
+        {
+            "alt_label": "Seminoma;Seminoma, Pure",
+            "definition": "A malignant germ cell neoplasm of the testis.",
+            "identifier": "C9309",
+            "notation": "SEMINOMA, MALIGNANT",
+            "pref_label": "Seminoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C9309"
+        },
+        {
+            "alt_label": "Benign Androblastoma",
+            "definition": "A benign neoplasm of the testis or ovary, originating from Sertoli cells.",
+            "identifier": "C67012",
+            "notation": "SERTOLI CELL TUMOR, BENIGN",
+            "pref_label": "Benign Sertoli Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C67012"
+        },
+        {
+            "alt_label": "Malignant Androblastoma",
+            "definition": "A malignant neoplasm of the testis or ovary, originating from Sertoli cells.",
+            "identifier": "C67006",
+            "notation": "SERTOLI CELL TUMOR, MALIGNANT",
+            "pref_label": "Malignant Sertoli Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C67006"
+        },
+        {
+            "definition": "A benign neoplasm composed of Sertoli cells arranged in tubules intermixed with pleomorphic Leydig cells.",
+            "identifier": "C126084",
+            "notation": "SERTOLI-LEYDIG CELL TUMOR, MIXED, BENIGN",
+            "pref_label": "Experimental Organism Benign Mixed Sertoli-Leydig Cell Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C126084"
+        },
+        {
+            "definition": "A benign sex cord-stromal neoplasm that arises from the testis or ovary and is composed of a mix of cell types.",
+            "identifier": "C124614",
+            "notation": "SEX CORD STROMAL TUMOR, MIXED, BENIGN",
+            "pref_label": "Experimental Organism Benign Mixed Sex Cord Stromal Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C124614"
+        },
+        {
+            "definition": "A malignant sex cord-stromal neoplasm that arises from the testis or ovary and is composed of a mix of cell types.",
+            "identifier": "C124615",
+            "notation": "SEX CORD STROMAL TUMOR, MIXED, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Mixed Sex Cord Stromal Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C124615"
+        },
+        {
+            "alt_label": "CMN",
+            "definition": "A congenital malignant neoplasm of the kidney characterized by the presence of fibroblastic cells.",
+            "identifier": "C6569",
+            "notation": "STROMAL NEPHROMA, MALIGNANT",
+            "pref_label": "Congenital Mesoblastic Nephroma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C6569"
+        },
+        {
+            "alt_label": "ESS;Sarcoma, Endometrial Stromal",
+            "definition": "A malignant, mesenchymal tumor of the uterine stroma.",
+            "identifier": "C8973",
+            "notation": "STROMAL SARCOMA, ENDOMETRIAL, MALIGNANT",
+            "pref_label": "Endometrioid Stromal Sarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8973"
+        },
+        {
+            "alt_label": "Stromal Tumor, Malignant",
+            "definition": "A malignant neoplasm characterized by the presence of atypical mesenchymal-stromal cells.",
+            "identifier": "C6926",
+            "notation": "STROMAL SARCOMA, MALIGNANT",
+            "pref_label": "Stromal Sarcoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C6926"
+        },
+        {
+            "definition": "A benign neoplasm composed of mesenchymal stromal cells.",
+            "identifier": "C114113",
+            "notation": "STROMAL TUMOR, BENIGN",
+            "pref_label": "Experimental Organism Benign Stromal Tumor Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C114113"
+        },
+        {
+            "alt_label": "Sex Cord Stromal Tumor, Malignant",
+            "definition": "A malignant neoplasm originating from the gonadal sex cord stroma.",
+            "identifier": "C67561",
+            "notation": "STROMAL TUMOR, GONADAL, MALIGNANT",
+            "pref_label": "Malignant Sex Cord-Stromal Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C67561"
+        },
+        {
+            "alt_label": "Subependymal Glioma;Who Grade I Ependymal Neoplasm;Who Grade I Ependymal Tumor",
+            "definition": "A benign neoplasm of the brain localized in the vicinity of a ventricular wall and is composed of glial tumor cell clusters embedded in an abundant fibrillary matrix with frequent microcystic changes.",
+            "identifier": "C3795",
+            "notation": "SUBEPENDYMOMA, BENIGN",
+            "pref_label": "Subependymoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3795"
+        },
+        {
+            "alt_label": "Benign Neoplasm of Synovium;Benign Neoplasm of the Synovium;Benign Synovial Tumor;Benign Synovioma;Benign Tumor of Synovium;Benign Tumor of the Synovium",
+            "definition": "A benign neoplasm arising from the synovial membrane.",
+            "identifier": "C3829",
+            "notation": "SYNOVIOMA, BENIGN",
+            "pref_label": "Benign Synovial Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3829"
+        },
+        {
+            "definition": "A benign germ-cell neoplasm derived from pluripotent cells and consisting of components from one or more of the three germ-cell layers.",
+            "identifier": "C114114",
+            "notation": "TERATOMA, BENIGN",
+            "pref_label": "Experimental Organism Benign Teratoma Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C114114"
+        },
+        {
+            "definition": "A malignant germ-cell neoplasm derived from pluripotent cells and consisting of components from one or more of the three germ-cell layers.",
+            "identifier": "C4287",
+            "notation": "TERATOMA, MALIGNANT",
+            "pref_label": "Malignant Teratoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4287"
+        },
+        {
+            "alt_label": "Benign Ovarian Thecal Cell Neoplasm;Benign Ovarian Thecal Cell Tumor;Benign Thecal Cell Neoplasm of Ovary;Benign Thecal Cell Neoplasm of the Ovary;Benign Thecal Cell Tumor of Ovary;Benign Thecal Cell Tumor of the Ovary;Benign Thecoma of Ovary;Benign Thecoma of the Ovary;Thecal Cell Tumor, Benign",
+            "definition": "A benign sex-cord neoplasm of the ovary, originating from theca cells.",
+            "identifier": "C5219",
+            "notation": "THECOMA, BENIGN",
+            "pref_label": "Benign Ovarian Thecoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C5219"
+        },
+        {
+            "definition": "A malignant neoplasm arising from sex cord/stromal cells of thecal differentiation.",
+            "identifier": "C156613",
+            "notation": "THECOMA, MALIGNANT",
+            "pref_label": "Experimental Organism Malignant Thecoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C156613"
+        },
+        {
+            "alt_label": "Malignant Ovarian Thecal Cell Neoplasm;Malignant Ovarian Thecal Cell Tumor;Malignant Thecal Cell Neoplasm of Ovary;Malignant Thecal Cell Neoplasm of the Ovary;Malignant Thecal Cell Tumor of Ovary;Malignant Thecal Cell Tumor of the Ovary;Malignant Thecoma of Ovary;Malignant Thecoma of the Ovary;Thecoma, Malignant",
+            "definition": "A malignant sex-cord neoplasm of the ovary, originating from theca cells.",
+            "identifier": "C6929",
+            "notation": "THECOMA, OVARIAN, MALIGNANT",
+            "pref_label": "Malignant Ovarian Thecoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C6929"
+        },
+        {
+            "definition": "A benign neoplasm of the thymus, originating from epithelial thymus cells.",
+            "identifier": "C114115",
+            "notation": "THYMOMA, BENIGN",
+            "pref_label": "Experimental Organism Benign Thymoma Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C114115"
+        },
+        {
+            "definition": "A malignant neoplasm of the thymus, originating from epithelial thymus cells.",
+            "identifier": "C7612",
+            "notation": "THYMOMA, MALIGNANT",
+            "pref_label": "Malignant Thymoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C7612"
+        },
+        {
+            "alt_label": "Brooke's Tumor;Trichoepithelioma;Trichogenic Adnexal Tumor;Trichogenic Trichoblastoma",
+            "definition": "A benign hair follicle neoplasm with trichoblastic differentiation.",
+            "identifier": "C27132",
+            "notation": "TRICHOEPITHELIOMA, BENIGN",
+            "pref_label": "Trichoblastoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C27132"
+        },
+        {
+            "definition": "A benign hair follicle neoplasm in the outer hair sheath and infundibulum, characterized by central cells showing highly eosinophilic amorphous keratin.",
+            "identifier": "C4113",
+            "notation": "TRICHOLEMMOMA, BENIGN",
+            "pref_label": "Trichilemmoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C4113"
+        },
+        {
+            "definition": "A benign neoplasm composed of epithelial and/or myoepithelial cells and a mesenchymal component.",
+            "identifier": "C8602",
+            "notation": "TUMOR, MIXED, BENIGN",
+            "pref_label": "Pleomorphic Adenoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C8602"
+        },
+        {
+            "alt_label": "Malignant Mixed Tumor",
+            "definition": "A malignant neoplasm composed of epithelial and/or myoepithelial cells and a mesenchymal component. A general term for which the transformed cell types have not been specified.",
+            "identifier": "C3729",
+            "notation": "TUMOR, MIXED, MALIGNANT",
+            "pref_label": "Malignant Mixed Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3729"
+        },
+        {
+            "alt_label": "Carcinoma, Yolk Sac;Endodermal Sinus Neoplasm;Endodermal Sinus Tumor;Yolk Sac Neoplasm;Yolk Sac Tumor Site Unspecified",
+            "definition": "A non-seminomatous malignant germ cell tumor composed of primitive germ cells and which produce an eosinophilic substance (alpha-fetoprotein).",
+            "identifier": "C3011",
+            "notation": "YOLK SAC TUMOR, MALIGNANT",
+            "pref_label": "Yolk Sac Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C88025-C3011"
+        }
+    ]
+}

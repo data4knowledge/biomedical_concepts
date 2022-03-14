@@ -1,0 +1,148 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Diameter of the Kill Zone;Diameter of the Zone of Inhibition",
+            "definition": "A measurement of the diameter of the circular region of bacteria growth inhibition that surrounds an antibiotic source on the surface of a cultured plate.",
+            "identifier": "C147471",
+            "notation": "DIAZOINH",
+            "pref_label": "Antibiotic Susceptibility Zone Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C147471"
+        },
+        {
+            "alt_label": "Flagged Mutations Present Indicator",
+            "definition": "An indication as to whether the pre-specified mutations of interest are present in the subject.",
+            "identifier": "C158255",
+            "notation": "FLMUTIND",
+            "pref_label": "Flagged Mutations Present Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C158255"
+        },
+        {
+            "alt_label": "Inhibitory Concentration Net Assessment",
+            "definition": "An indication of reduced or increased susceptibility of a microbial organism, or activity of a biological/biochemical reaction in response to the inhibitory concentration (IC50 and/or IC95) of a specific drug.",
+            "identifier": "C116255",
+            "notation": "ICNETAS",
+            "pref_label": "Inhibitory Concentration Net Assessment Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C116255"
+        },
+        {
+            "alt_label": "Microbial EC50 Fold Change from Baseline",
+            "definition": "A fold change based on the concentration of a specific drug expected to produce 50 percent inhibition of population growth or replication of a microbial organism. (NCI)",
+            "identifier": "C139114",
+            "notation": "MEC50FCB",
+            "pref_label": "Microbial EC50 Fold Change from Baseline",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139114"
+        },
+        {
+            "alt_label": "Microbial EC50 Fold Change from Ref;Microbial EC50 Fold Change from Reference",
+            "definition": "A fold change based on the concentration of a specific drug expected to produce 50 percent inhibition of the population growth or replication of a microbial organism. It is a ratio calculated by the EC50 Subject Result divided by the EC50 Reference Control Result. (NCI)",
+            "identifier": "C139115",
+            "notation": "MEC50FCR",
+            "pref_label": "Microbial EC50 Fold Change from Reference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139115"
+        },
+        {
+            "alt_label": "Microbial EC50 Reference Control Result",
+            "definition": "A reference control sample response based on the concentration of a specific drug expected to produce 50 percent inhibition of the population growth or replication of a microbial organism. (NCI)",
+            "identifier": "C139116",
+            "notation": "MEC50R",
+            "pref_label": "Microbial EC50 Reference Control Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139116"
+        },
+        {
+            "alt_label": "Microbial EC50 Subject Result",
+            "definition": "A measurement of titer of a microbial organism that has been exposed to the concentration of a specific drug expected to produce 50 percent inhibition of the population growth or replication of a microbial organism. (NCI)",
+            "identifier": "C139117",
+            "notation": "MEC50S",
+            "pref_label": "Microbial EC50 Subject Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139117"
+        },
+        {
+            "alt_label": "Minimum Inhibitory Concentration",
+            "definition": "A measurement that specifies the minimum concentration of the agent at which organism growth was inhibited.",
+            "identifier": "C128985",
+            "notation": "MIC",
+            "pref_label": "Minimum Inhibitory Concentration Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C128985"
+        },
+        {
+            "alt_label": "Microbial IC50 Fold Change from Baseline",
+            "definition": "A fold change based on the concentration of a specific drug expected to produce 50 percent inhibition on the enzymatic activity of a microbial organism. It is a ratio calculated by the current IC50 Subject Result divided by the IC50 Subject Result from the baseline visit.",
+            "identifier": "C139118",
+            "notation": "MIC50FCB",
+            "pref_label": "Microbial IC50 Fold Change from Baseline",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139118"
+        },
+        {
+            "alt_label": "Microbial IC50 Fold Change from Ref;Microbial IC50 Fold Change from Reference",
+            "definition": "A fold change based on the concentration of a specific drug expected to produce 50 percent inhibition on the enzymatic activity of a microbial organism. It is a ratio calculated by the IC50 Subject Result divided by the IC50 Reference Control Result.",
+            "identifier": "C139119",
+            "notation": "MIC50FCR",
+            "pref_label": "Microbial IC50 Fold Change from Reference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139119"
+        },
+        {
+            "alt_label": "Microbial IC50 Reference Control Result",
+            "definition": "A reference control sample response based on the concentration of a specific drug expected to produce 50 percent inhibition on the enzymatic activity of a microbial organism.",
+            "identifier": "C139120",
+            "notation": "MIC50R",
+            "pref_label": "Microbial IC50 Reference Control Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139120"
+        },
+        {
+            "alt_label": "Microbial IC50 Subject Result",
+            "definition": "A measurement of biological/biochemical reaction of a microbial organism that has been exposed to the concentration of a specific drug expected to produce 50 percent inhibition on the enzymatic activity of a microbial organism.",
+            "identifier": "C139121",
+            "notation": "MIC50S",
+            "pref_label": "Microbial IC50 Subject Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139121"
+        },
+        {
+            "alt_label": "IC95 Fold Change from Baseline;Microbial IC95 Fold Change from Baseline",
+            "definition": "A fold change based on the concentration of a specific drug expected to produce 95 percent inhibition on the enzymatic activity of a microbial organism. It is a ratio calculated by the current IC95 Subject Result divided by the IC95 Subject Result from the baseline visit.",
+            "identifier": "C139122",
+            "notation": "MIC95FCB",
+            "pref_label": "Microbial IC95 Fold Change from Baseline",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139122"
+        },
+        {
+            "alt_label": "IC95 Fold Change from Reference;Microbial IC95 Fold Change from Ref",
+            "definition": "A fold change based on the concentration of a specific drug expected to produce 95 percent inhibition on the enzymatic activity of a microbial organism. It is a ratio calculated by the IC95 Subject Result divided by the IC95 Reference Control Result.",
+            "identifier": "C139123",
+            "notation": "MIC95FCR",
+            "pref_label": "Microbial IC95 Fold Change from Ref",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139123"
+        },
+        {
+            "alt_label": "IC95 Reference Control Result;Microbial IC95 Reference Control Result",
+            "definition": "A reference control sample response based on the concentration of a specific drug expected to produce 95 percent inhibition on the enzymatic activity of a microbial organism.",
+            "identifier": "C139124",
+            "notation": "MIC95R",
+            "pref_label": "Microbial IC95 Reference Control Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139124"
+        },
+        {
+            "alt_label": "IC95 Subject Result;Microbial IC95 Subject Result",
+            "definition": "A measurement of biological/biochemical reaction of a microbial organism that has been exposed to the concentration of a specific drug expected to produce 95 percent inhibition on the enzymatic activity of a microbial organism.",
+            "identifier": "C139125",
+            "notation": "MIC95S",
+            "pref_label": "Microbial IC95 Subject Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C139125"
+        },
+        {
+            "alt_label": "Microbial Susceptibility",
+            "definition": "A phenotypic or genotypic assessment of the response of the microbial organism to an antimicrobial agent.",
+            "identifier": "C85540",
+            "notation": "MICROSUS",
+            "pref_label": "Microbial Susceptibility Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C85540"
+        },
+        {
+            "alt_label": "Susceptibility Score Mutations Indicator",
+            "definition": "An indication as to whether one or more scored mutations of interest that may confer susceptibility in the microorganism is present.",
+            "identifier": "C156550",
+            "notation": "SUSMUIND",
+            "pref_label": "Susceptibility Score Mutations Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128688-C156550"
+        }
+    ]
+}

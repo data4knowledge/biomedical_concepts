@@ -1,0 +1,740 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "ADL03-Find Personal Belongings",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} usually manage to find his/her personal belongings at home?",
+            "identifier": "C106891",
+            "notation": "ADL0301",
+            "pref_label": "ADCS-ADL MCI - Find Personal Belongings",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106891"
+        },
+        {
+            "alt_label": "ADL03-Find Belongings Usual Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes how he /she usually performed.",
+            "identifier": "C106892",
+            "notation": "ADL0301A",
+            "pref_label": "ADCS-ADL MCI - Description of Usual Performance of Finding Belongings",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106892"
+        },
+        {
+            "alt_label": "ADL03-Select First Clothes for the Day",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} select his/her first set of clothes for the day?",
+            "identifier": "C106893",
+            "notation": "ADL0302",
+            "pref_label": "ADCS-ADL MCI - Select First Clothes for the Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106893"
+        },
+        {
+            "alt_label": "ADL03-Usual Dressing Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes his/her usual performance.",
+            "identifier": "C106894",
+            "notation": "ADL0302A",
+            "pref_label": "ADCS-ADL MCI - Description of Usual Performance of Selecting First Clothes for the Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106894"
+        },
+        {
+            "alt_label": "ADL03-Usual Physically Dressing Perform",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Regarding physically getting dressed, which best describes his/her usual performance in the past 4 weeks.",
+            "identifier": "C106895",
+            "notation": "ADL0303",
+            "pref_label": "ADCS-ADL MCI - Description of Usual Performance of Physically Getting Dressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106895"
+        },
+        {
+            "alt_label": "ADL03-Clean Room",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} clean a living-, sitting-, or family room?",
+            "identifier": "C106896",
+            "notation": "ADL0304",
+            "pref_label": "ADCS-ADL MCI - Clean Room",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106896"
+        },
+        {
+            "alt_label": "ADL03-Clean Room Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes how he/she usually performed.",
+            "identifier": "C106897",
+            "notation": "ADL0304A",
+            "pref_label": "ADCS-ADL MCI - Description of Usual Performance of Cleaning Room",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106897"
+        },
+        {
+            "alt_label": "ADL03-Balance Checkbook",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} balance his/her checkbook or credit card statement?",
+            "identifier": "C106898",
+            "notation": "ADL0305",
+            "pref_label": "ADCS-ADL MCI - Balance Checkbook",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106898"
+        },
+        {
+            "alt_label": "ADL03-Balance Checkbook Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes how he/she usually performed.",
+            "identifier": "C106899",
+            "notation": "ADL0305A",
+            "pref_label": "ADCS-ADL MCI - Description of Usual Performance of Balancing Checkbook",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106899"
+        },
+        {
+            "alt_label": "ADL03-Write Things Down",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} ever write things down?",
+            "identifier": "C106900",
+            "notation": "ADL0306",
+            "pref_label": "ADCS-ADL MCI - Write Things Down",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106900"
+        },
+        {
+            "alt_label": "ADL03-Most Complicated Writings",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes the most complicated things that he/she wrote.",
+            "identifier": "C106901",
+            "notation": "ADL0306A",
+            "pref_label": "ADCS-ADL MCI - Description of Usual Performance of Most Complicated Things Written",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106901"
+        },
+        {
+            "alt_label": "ADL03-Clean Laundry",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} clean a load of laundry?",
+            "identifier": "C106902",
+            "notation": "ADL0307",
+            "pref_label": "ADCS-ADL MCI - Clean Laundry",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106902"
+        },
+        {
+            "alt_label": "ADL03-Laundry Cleaning Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes how he/she usually performed.",
+            "identifier": "C106903",
+            "notation": "ADL0307A",
+            "pref_label": "ADCS-ADL MCI - Description of Usual Performance of Clean Laundry",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106903"
+        },
+        {
+            "alt_label": "ADL03-Keep Appointments",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} keep appointments or meetings with other people, such as relatives, a doctor, the hairdresser, etc.?",
+            "identifier": "C106904",
+            "notation": "ADL0308",
+            "pref_label": "ADCS-ADL MCI - Keep Appointments",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106904"
+        },
+        {
+            "alt_label": "ADL03-Aware of Appointment Ahead of Time",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes his/her awareness of the meeting ahead of time.",
+            "identifier": "C106905",
+            "notation": "ADL0308A",
+            "pref_label": "ADCS-ADL MCI - Description of Awareness of the Meeting Ahead of Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106905"
+        },
+        {
+            "alt_label": "ADL03-Use a Telephone",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} use a telephone?",
+            "identifier": "C106906",
+            "notation": "ADL0309",
+            "pref_label": "ADCS-ADL MCI - Use a Telephone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106906"
+        },
+        {
+            "alt_label": "ADL03-Highest Telephone Use Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes his/her highest level of performance.",
+            "identifier": "C106907",
+            "notation": "ADL0309A",
+            "pref_label": "ADCS-ADL MCI - Description of Highest Level of Performance of Telephone Use",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106907"
+        },
+        {
+            "alt_label": "ADL03-Make a Meal",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} make him/herself a meal or snack at home?",
+            "identifier": "C106908",
+            "notation": "ADL0310",
+            "pref_label": "ADCS-ADL MCI - Make a Meal or Snack",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106908"
+        },
+        {
+            "alt_label": "ADL03-Highest Level of Food Preparation",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes his/her highest level of food preparation.",
+            "identifier": "C106909",
+            "notation": "ADL0310A",
+            "pref_label": "ADCS-ADL MCI - Description of Highest Level of Food Preparation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106909"
+        },
+        {
+            "alt_label": "ADL03-Get Around Outside Home",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} get around (or travel) outside of his/her home?",
+            "identifier": "C106910",
+            "notation": "ADL0311",
+            "pref_label": "ADCS-ADL MCI - Travel Outside Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106910"
+        },
+        {
+            "alt_label": "ADL03-Get Around Optimal Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes his/her optimal performance.",
+            "identifier": "C106911",
+            "notation": "ADL0311A",
+            "pref_label": "ADCS-ADL MCI - Description of Optimal Performance of Travelling Outside Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106911"
+        },
+        {
+            "alt_label": "ADL03-Talk About Current Events",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} talk about current events?",
+            "identifier": "C106912",
+            "notation": "ADL0312",
+            "pref_label": "ADCS-ADL MCI - Talk About Current Events",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106912"
+        },
+        {
+            "alt_label": "ADL03-Regional, National, International",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, did {S} talk about regional, national or international events?",
+            "identifier": "C106913",
+            "notation": "ADL0312A",
+            "pref_label": "ADCS-ADL MCI - Talk About Regional, National or International Events",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106913"
+        },
+        {
+            "alt_label": "ADL03-Talk About Outside Events",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} talk about events outside home involving family, friends, or neighbors?",
+            "identifier": "C106914",
+            "notation": "ADL0312B",
+            "pref_label": "ADCS-ADL MCI - Talk About Outside Home Events",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106914"
+        },
+        {
+            "alt_label": "ADL03-Talk About at Home Events",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} talk about events that occurred at home that he/she took part in or watched?",
+            "identifier": "C106915",
+            "notation": "ADL0312C",
+            "pref_label": "ADCS-ADL MCI - Talk About at Home Events",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106915"
+        },
+        {
+            "alt_label": "ADL03-Talk Without Repeating",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} converse without repeating him/herself, or asking the same questions repeatedly?",
+            "identifier": "C106916",
+            "notation": "ADL0312D",
+            "pref_label": "ADCS-ADL MCI - Converse Without Repeating",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106916"
+        },
+        {
+            "alt_label": "ADL03-Read More Than 5 Minutes",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} read a magazine, newspaper or book for more than 5 minutes at a time?",
+            "identifier": "C106917",
+            "notation": "ADL0313",
+            "pref_label": "ADCS-ADL MCI - Read More Than 5 Minutes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106917"
+        },
+        {
+            "alt_label": "ADL03-Select/Ask for Something to Read",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} usually select or ask for something to read?",
+            "identifier": "C106918",
+            "notation": "ADL0313A",
+            "pref_label": "ADCS-ADL MCI - Select or Ask for Something to Read",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106918"
+        },
+        {
+            "alt_label": "ADL03-Talk Within 1 Hour After Reading",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} usually talk about what he/she read while or shortly after reading (less than 1 hour)?",
+            "identifier": "C106919",
+            "notation": "ADL0313B",
+            "pref_label": "ADCS-ADL MCI - Talk Within 1 Hour After Reading",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106919"
+        },
+        {
+            "alt_label": "ADL03-Talk Within 1 Day After Reading",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} usually talk about what he/she read 1-24 hours after reading?",
+            "identifier": "C106920",
+            "notation": "ADL0313C",
+            "pref_label": "ADCS-ADL MCI - Talk Within 24 Hours After Reading",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106920"
+        },
+        {
+            "alt_label": "ADL03-Watch Television",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} watch television?",
+            "identifier": "C106921",
+            "notation": "ADL0314",
+            "pref_label": "ADCS-ADL MCI - Watch Television",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106921"
+        },
+        {
+            "alt_label": "ADL03-Select Television Program",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} usually select or ask for different programs or his/her favorite show?",
+            "identifier": "C106922",
+            "notation": "ADL0314A",
+            "pref_label": "ADCS-ADL MCI - Select or Ask for Programs or Show",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106922"
+        },
+        {
+            "alt_label": "ADL03-Talk About TV Content While Watch",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} usually talk about the content of a program while watching it?",
+            "identifier": "C106923",
+            "notation": "ADL0314B",
+            "pref_label": "ADCS-ADL MCI - Talk About Content of Program While Watching",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106923"
+        },
+        {
+            "alt_label": "ADL03-Talk About TV Content Within a Day",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} talk about the content of a program within a day (24 hours) after watching it?",
+            "identifier": "C106924",
+            "notation": "ADL0314C",
+            "pref_label": "ADCS-ADL MCI - Talk About Content of Program After Watching Within a Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106924"
+        },
+        {
+            "alt_label": "ADL03-Go Shopping",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} ever go shopping at a store?",
+            "identifier": "C106925",
+            "notation": "ADL0315",
+            "pref_label": "ADCS-ADL MCI - Go Shopping At a Store",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106925"
+        },
+        {
+            "alt_label": "ADL03-Select Items Without Help",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} usually select correct items without supervision or help?",
+            "identifier": "C106926",
+            "notation": "ADL0315A",
+            "pref_label": "ADCS-ADL MCI - Select Correct Items Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106926"
+        },
+        {
+            "alt_label": "ADL03-Pay Items On His/Her Own",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} usually pay for items on his/her own?",
+            "identifier": "C106927",
+            "notation": "ADL0315B",
+            "pref_label": "ADCS-ADL MCI - Pay for Items on His or Her Own",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106927"
+        },
+        {
+            "alt_label": "ADL03-Left On His/Her Own",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, was {S} ever left on his/her own?",
+            "identifier": "C106928",
+            "notation": "ADL0316",
+            "pref_label": "ADCS-ADL MCI - Left on His or Her Own",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106928"
+        },
+        {
+            "alt_label": "ADL03-Left Away From Home",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Was {S} left away from home, for 15 minutes or longer, during the day?",
+            "identifier": "C106929",
+            "notation": "ADL0316A",
+            "pref_label": "ADCS-ADL MCI - Left Away From Home Longer Than 15 Minutes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106929"
+        },
+        {
+            "alt_label": "ADL03-Left at Home for 1 Hour or Longer",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Was {S} left at home, for an hour or longer, during the day?",
+            "identifier": "C106930",
+            "notation": "ADL0316B",
+            "pref_label": "ADCS-ADL MCI - Left at Home Longer Than an Hour",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106930"
+        },
+        {
+            "alt_label": "ADL03-Left at Home for Less Than 1 Hour",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Was {S} left at home, for less than 1 hour, during the day?",
+            "identifier": "C106931",
+            "notation": "ADL0316C",
+            "pref_label": "ADCS-ADL MCI - Left at Home Less Than an Hour",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106931"
+        },
+        {
+            "alt_label": "ADL03-Use Household Appliance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} use a household appliance to do chores?",
+            "identifier": "C106932",
+            "notation": "ADL0317",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106932"
+        },
+        {
+            "alt_label": "ADL03-Appliance: Washer",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Check all that were used: washer.",
+            "identifier": "C107089",
+            "notation": "ADL0317A",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance: Washer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C107089"
+        },
+        {
+            "alt_label": "ADL03-Appliance: Dryer",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Check all that were used: dryer.",
+            "identifier": "C107090",
+            "notation": "ADL0317B",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance: Dryer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C107090"
+        },
+        {
+            "alt_label": "ADL03-Appliance: Vacuum",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Check all that were used: vacuum.",
+            "identifier": "C107091",
+            "notation": "ADL0317C",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance: Vacuum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C107091"
+        },
+        {
+            "alt_label": "ADL03-Appliance: Dishwasher",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Check all that were used: dishwasher.",
+            "identifier": "C106933",
+            "notation": "ADL0317D",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance: Dishwasher",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106933"
+        },
+        {
+            "alt_label": "ADL03-Appliance: Power Tools",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Check all that were used: power tool (s).",
+            "identifier": "C106934",
+            "notation": "ADL0317E",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance: Power Tools",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106934"
+        },
+        {
+            "alt_label": "ADL03-Appliance: Toaster Oven",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Check all that were used: toaster oven.",
+            "identifier": "C106935",
+            "notation": "ADL0317F",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance: Toaster Oven",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106935"
+        },
+        {
+            "alt_label": "ADL03-Appliance: Range",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Check all that were used: range.",
+            "identifier": "C106936",
+            "notation": "ADL0317G",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance: Range",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106936"
+        },
+        {
+            "alt_label": "ADL03-Appliance: Microwave",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Check all that were used: microwave.",
+            "identifier": "C106937",
+            "notation": "ADL0317H",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance: Microwave",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106937"
+        },
+        {
+            "alt_label": "ADL03-Appliance: Food Processor",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Check all that were used: food processor.",
+            "identifier": "C106938",
+            "notation": "ADL0317I",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance: Food Processor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106938"
+        },
+        {
+            "alt_label": "ADL03-Appliance: Other",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Check all that were used: other.",
+            "identifier": "C106939",
+            "notation": "ADL0317J",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance: Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106939"
+        },
+        {
+            "alt_label": "ADL03-Appliance: Other Specify",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Check all that were used: other specify.",
+            "identifier": "C106940",
+            "notation": "ADL0317K",
+            "pref_label": "ADCS-ADL MCI - Use Household Appliance: Other Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106940"
+        },
+        {
+            "alt_label": "ADL03-Use Common Used Appliances (q17a)",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - For the 1 or 2 most commonly used appliances, which best describes how {S} usually used them.",
+            "identifier": "C106941",
+            "notation": "ADL0317L",
+            "pref_label": "ADCS-ADL MCI - Description of Usual Use of Commonly Used Appliances",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106941"
+        },
+        {
+            "alt_label": "ADL03-Perform Pastime",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} perform a pastime, hobby or game?",
+            "identifier": "C106942",
+            "notation": "ADL0318",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106942"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Card or Board Games",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: card or board games.",
+            "identifier": "C106943",
+            "notation": "ADL0318A",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Card or Board Games",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106943"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Bingo",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: bingo.",
+            "identifier": "C106944",
+            "notation": "ADL0318B",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Bingo",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106944"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Crosswords",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: crosswords.",
+            "identifier": "C106945",
+            "notation": "ADL0318C",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Crosswords",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106945"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Art",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: art.",
+            "identifier": "C106946",
+            "notation": "ADL0318D",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Art",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106946"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Musical Instrument",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: musical instrument.",
+            "identifier": "C106947",
+            "notation": "ADL0318E",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Musical Instrument",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106947"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Knitting",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: knitting.",
+            "identifier": "C106948",
+            "notation": "ADL0318F",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Knitting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106948"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Sewing",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: sewing.",
+            "identifier": "C106949",
+            "notation": "ADL0318G",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Sewing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106949"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Reading",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: reading.",
+            "identifier": "C106950",
+            "notation": "ADL0318H",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Reading",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106950"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Gardening",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: gardening.",
+            "identifier": "C106951",
+            "notation": "ADL0318I",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Gardening",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106951"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Golf",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: golf.",
+            "identifier": "C106952",
+            "notation": "ADL0318J",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Golf",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106952"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Tennis",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: tennis.",
+            "identifier": "C106953",
+            "notation": "ADL0318K",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Tennis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106953"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Workshop",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: workshop.",
+            "identifier": "C106954",
+            "notation": "ADL0318L",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Workshop",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106954"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Fishing",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: fishing.",
+            "identifier": "C106955",
+            "notation": "ADL0318M",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Fishing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106955"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Other",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: other.",
+            "identifier": "C106956",
+            "notation": "ADL0318N",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106956"
+        },
+        {
+            "alt_label": "ADL03-Pastime: Other Specify",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Which pastimes did he/she perform: other specify.",
+            "identifier": "C106957",
+            "notation": "ADL0318O",
+            "pref_label": "ADCS-ADL MCI - Perform Pastime, Hobby or Game: Other Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106957"
+        },
+        {
+            "alt_label": "ADL03-Hobbies Needed Help (Q18a)",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Did {S} require supervision, or help, to perform any of these hobbies?",
+            "identifier": "C106958",
+            "notation": "ADL0318P",
+            "pref_label": "ADCS-ADL MCI - Require Help to Perform Hobbies",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106958"
+        },
+        {
+            "alt_label": "ADL03-Hobbies Unable to Perform (Q18b)",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - List any hobby (ies) that the subject has lost the ability to perform.",
+            "identifier": "C106959",
+            "notation": "ADL0318Q",
+            "pref_label": "ADCS-ADL MCI - List Hobbies Lost Ability to Perform",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106959"
+        },
+        {
+            "alt_label": "ADL03-Drive Car",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - In the past 4 weeks, did {S} drive a car?",
+            "identifier": "C106960",
+            "notation": "ADL0319",
+            "pref_label": "ADCS-ADL MCI - Drive a Car",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106960"
+        },
+        {
+            "alt_label": "ADL03-Drive Car Optimal Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes his/her optimal performance.",
+            "identifier": "C106961",
+            "notation": "ADL0319A",
+            "pref_label": "ADCS-ADL MCI - Description of Optimal Performance of Driving Car",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106961"
+        },
+        {
+            "alt_label": "ADL03-Take Medications Regularly",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - During the past 4 weeks, did {S} take his/her medications regularly?",
+            "identifier": "C106962",
+            "notation": "ADL0320",
+            "pref_label": "ADCS-ADL MCI - Take Medications Regularly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106962"
+        },
+        {
+            "alt_label": "ADL03-Take Medications Performance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, was this.",
+            "identifier": "C106963",
+            "notation": "ADL0320A",
+            "pref_label": "ADCS-ADL MCI - Description of Taking Medications Regularly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106963"
+        },
+        {
+            "alt_label": "ADL03-Complete Complex Activities",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - During the past 4 weeks, did {S} usually carry through complex or time-consuming activities to completion?",
+            "identifier": "C106964",
+            "notation": "ADL0321",
+            "pref_label": "ADCS-ADL MCI - Carry Through Complex Activities to Completion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106964"
+        },
+        {
+            "alt_label": "ADL03-Extent Needed Reminders",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, which best describes extent to which he/she needed reminders.",
+            "identifier": "C106965",
+            "notation": "ADL0321A",
+            "pref_label": "ADCS-ADL MCI - Description of Extent Needing Reminder",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106965"
+        },
+        {
+            "alt_label": "ADL03-Initiate Complex Activities",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - During the past 4 weeks, to what extent did {S} initiate complex daily activities or projects (e.g., hobbies, travel)?",
+            "identifier": "C106966",
+            "notation": "ADL0322",
+            "pref_label": "ADCS-ADL MCI - Initiate Complex Daily Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106966"
+        },
+        {
+            "alt_label": "ADL03-Time to Complete Complex Tasks",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - During the past 4 weeks, how long did it usually take {S} to complete complex or time-consuming tasks or activities?",
+            "identifier": "C106967",
+            "notation": "ADL0323",
+            "pref_label": "ADCS-ADL MCI - Time Taken to Complete Complex Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106967"
+        },
+        {
+            "alt_label": "ADL03-Extenuating Circumstances",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Has an extenuating circumstance (such as a physical health problem, change in residence, change in support network, death of a family member, etc.) contributed to a recent alteration in the subject's activities of daily living?",
+            "identifier": "C106968",
+            "notation": "ADL0324",
+            "pref_label": "ADCS-ADL MCI - Extenuating Circumstance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106968"
+        },
+        {
+            "alt_label": "ADL03-Explain Circumstance",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - If yes, explain.",
+            "identifier": "C106969",
+            "notation": "ADL0324A",
+            "pref_label": "ADCS-ADL MCI - Explain Extenuating Circumstance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106969"
+        },
+        {
+            "alt_label": "ADL03-Total Points for 'Don't Know'",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Were any questions (1-18) answered 'Don't Know'? If yes, calculate total points for 'Don't Know'.",
+            "identifier": "C107092",
+            "notation": "ADL0325",
+            "pref_label": "ADCS-ADL MCI - Points for Questions (1-18) Answered 'Don't Know'",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C107092"
+        },
+        {
+            "alt_label": "ADL03-Subscore for Items 1 to 3",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Subscore for Page 1.",
+            "identifier": "C106970",
+            "notation": "ADL0326",
+            "pref_label": "ADCS-ADL MCI - Subscore for Items 1 to 3",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106970"
+        },
+        {
+            "alt_label": "ADL03-Subscore for Items 4 to 7",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Subscore for Page 2.",
+            "identifier": "C106971",
+            "notation": "ADL0327",
+            "pref_label": "ADCS-ADL MCI - Subscore for Items 4 to 7",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106971"
+        },
+        {
+            "alt_label": "ADL03-Subscore for Items 8 to 10",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Subscore for Page 3.",
+            "identifier": "C106972",
+            "notation": "ADL0328",
+            "pref_label": "ADCS-ADL MCI - Subscore for Items 8 to 10",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106972"
+        },
+        {
+            "alt_label": "ADL03-Subscore for Items 11 to 12d",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Subscore for Page 4.",
+            "identifier": "C106973",
+            "notation": "ADL0329",
+            "pref_label": "ADCS-ADL MCI - Subscore for Items 11 to 12",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106973"
+        },
+        {
+            "alt_label": "ADL03-Subscore for Items 13 to 14c",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Subscore for Page 5.",
+            "identifier": "C106974",
+            "notation": "ADL0330",
+            "pref_label": "ADCS-ADL MCI - Subscore for Items 13 to 14",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106974"
+        },
+        {
+            "alt_label": "ADL03-Subscore for Items 15 to 16c",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Subscore for Page 6.",
+            "identifier": "C106975",
+            "notation": "ADL0331",
+            "pref_label": "ADCS-ADL MCI - Subscore for Items 15 to 16",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106975"
+        },
+        {
+            "alt_label": "ADL03-Subscore for Item 17",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Subscore for Page 7.",
+            "identifier": "C106976",
+            "notation": "ADL0332",
+            "pref_label": "ADCS-ADL MCI - Subscore for Item 17",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106976"
+        },
+        {
+            "alt_label": "ADL03-Subscore for Item 18",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Subscore for Page 8.",
+            "identifier": "C106977",
+            "notation": "ADL0333",
+            "pref_label": "ADCS-ADL MCI - Subscore for Item 18",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106977"
+        },
+        {
+            "alt_label": "ADL03-Total ADCS-ADL Score",
+            "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, MCI Version - Total Score.",
+            "identifier": "C106978",
+            "notation": "ADL0334",
+            "pref_label": "ADCS-ADL MCI - ADL Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106651-C106978"
+        }
+    ]
+}

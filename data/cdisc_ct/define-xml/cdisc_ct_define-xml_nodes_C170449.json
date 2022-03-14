@@ -1,0 +1,54 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A value that is derived through designation, such as values from a look up table or a label on a CRF.",
+            "identifier": "C170547",
+            "notation": "Assigned",
+            "pref_label": "Assigned Value",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C170547"
+        },
+        {
+            "definition": "A value that is actually observed and recorded by a person or obtained by an instrument.",
+            "identifier": "C170548",
+            "notation": "Collected",
+            "pref_label": "Collected Value",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C170548"
+        },
+        {
+            "definition": "A value that is calculated by an algorithm or reproducible rule, and which is dependent upon other data values.",
+            "identifier": "C170549",
+            "notation": "Derived",
+            "pref_label": "Derived Value",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C170549"
+        },
+        {
+            "definition": "A value that is not discoverable or accessible.",
+            "identifier": "C126101",
+            "notation": "Not Available",
+            "pref_label": "Not Available",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C126101"
+        },
+        {
+            "alt_label": "Other",
+            "definition": "Different than the one(s) previously specified or mentioned. (NCI)",
+            "identifier": "C17649",
+            "notation": "Other",
+            "pref_label": "Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C17649"
+        },
+        {
+            "definition": "A value that is copied from a variable in another dataset.",
+            "identifier": "C170550",
+            "notation": "Predecessor",
+            "pref_label": "Copied Value",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C170550"
+        },
+        {
+            "definition": "A value that is included as part of the study protocol.",
+            "identifier": "C170551",
+            "notation": "Protocol",
+            "pref_label": "Protocol Value",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C170551"
+        }
+    ]
+}

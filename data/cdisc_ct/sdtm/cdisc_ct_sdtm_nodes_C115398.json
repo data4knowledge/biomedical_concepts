@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "T25FW1-Time to Complete 25-Foot Walk",
+            "definition": "Timed 25-Foot Walk - Time in seconds to complete 25-foot walk.",
+            "identifier": "C115817",
+            "notation": "T25FW101",
+            "pref_label": "T25FW - Time to Complete 25-Foot Walk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115398-C115817"
+        },
+        {
+            "alt_label": "T25FW1-More Than Two Attempts",
+            "definition": "Timed 25-Foot Walk - Did it take more than two attempts to get two successful trials?",
+            "identifier": "C115818",
+            "notation": "T25FW102",
+            "pref_label": "T25FW - More Than Two Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115398-C115818"
+        },
+        {
+            "alt_label": "T25FW1-Did Patient Wear AFO",
+            "definition": "Timed 25-Foot Walk - Did patient wear an AFO?",
+            "identifier": "C151074",
+            "notation": "T25FW103",
+            "pref_label": "T25FW - Did Patient Wear AFO",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115398-C151074"
+        },
+        {
+            "alt_label": "T25FW1-Was Assistive Device Used",
+            "definition": "Timed 25-Foot Walk - Was assistive device used?",
+            "identifier": "C151075",
+            "notation": "T25FW104",
+            "pref_label": "T25FW - Was Assistive Device Used",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115398-C151075"
+        }
+    ]
+}

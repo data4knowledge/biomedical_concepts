@@ -1,0 +1,300 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CSS06-Wish to be Dead",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Have you thought about being dead or what it would be like to be dead? Have you wished you were dead or wished you could go to sleep and never wake up? Do you ever wish you weren't alive anymore?",
+            "identifier": "C111527",
+            "notation": "CSS0601",
+            "pref_label": "C-SSRS Children's Baseline - Wish to be Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111527"
+        },
+        {
+            "alt_label": "CSS06-Wish to be Dead, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Description of wishing to be dead.",
+            "identifier": "C111528",
+            "notation": "CSS0601A",
+            "pref_label": "C-SSRS Children's Baseline - Description of Wish to be Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111528"
+        },
+        {
+            "alt_label": "CSS06-Non-Specific Suicidal Thought",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Have you thought about doing something to make yourself not alive anymore? Have you had any thoughts about killing yourself?",
+            "identifier": "C111529",
+            "notation": "CSS0602",
+            "pref_label": "C-SSRS Children's Baseline - Non-Specific Active Suicidal Thoughts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111529"
+        },
+        {
+            "alt_label": "CSS06-Non-Specific Suicid Thought, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Description of non-specific active suicidal thoughts.",
+            "identifier": "C111530",
+            "notation": "CSS0602A",
+            "pref_label": "C-SSRS Children's Baseline - Description of Non-Specific Active Suicidal Thoughts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111530"
+        },
+        {
+            "alt_label": "CSS06-Idea, No Intent, No Plan",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Have you thought about how you would do that or how you would make yourself not alive anymore (kill yourself)? What did you think about?",
+            "identifier": "C111531",
+            "notation": "CSS0603",
+            "pref_label": "C-SSRS Children's Baseline - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111531"
+        },
+        {
+            "alt_label": "CSS06-Idea, No Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Description of active suicidal ideation with any methods (not plan) without intent to act.",
+            "identifier": "C111532",
+            "notation": "CSS0603A",
+            "pref_label": "C-SSRS Children's Baseline - Description of Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111532"
+        },
+        {
+            "alt_label": "CSS06-Ideation With Intent, No Plan",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - When you thought about making yourself not alive anymore (or killing yourself), did you think that this was something you might actually do? This is different from (as opposed to) having the thoughts but knowing you wouldn't do anything about it.",
+            "identifier": "C111533",
+            "notation": "CSS0604",
+            "pref_label": "C-SSRS Children's Baseline - Active Suicidal Ideation with Some Intent to Act, without Specific Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111533"
+        },
+        {
+            "alt_label": "CSS06-Ideation With Intent No Plan Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Description of active suicidal ideation with some intent to act, without specific plan.",
+            "identifier": "C111534",
+            "notation": "CSS0604A",
+            "pref_label": "C-SSRS Children's Baseline - Description of Active Suicidal Ideation with Some Intent to Act, without Specific Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111534"
+        },
+        {
+            "alt_label": "CSS06-Ideation With Plan/Intent",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Have you ever decided how or when you would make yourself not alive anymore/kill yourself? Have you ever planned out (worked out the details of) how you would do it? What was your plan? When you made this plan (or worked out these details), was any part of you thinking about actually doing it?",
+            "identifier": "C111535",
+            "notation": "CSS0605",
+            "pref_label": "C-SSRS Children's Baseline - Active Suicidal Ideation with Specific Plan and Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111535"
+        },
+        {
+            "alt_label": "CSS06-Ideation With Plan/Intent, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Description of active suicidal ideation with specific plan and intent.",
+            "identifier": "C111536",
+            "notation": "CSS0605A",
+            "pref_label": "C-SSRS Children's Baseline - Description of Active Suicidal Ideation with Specific Plan and Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111536"
+        },
+        {
+            "alt_label": "CSS06-Most Severe Ideation",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Most severe ideation.",
+            "identifier": "C111537",
+            "notation": "CSS0606",
+            "pref_label": "C-SSRS Children's Baseline - Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111537"
+        },
+        {
+            "alt_label": "CSS06-Most Severe Ideation, Description",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Description of most severe ideation.",
+            "identifier": "C111538",
+            "notation": "CSS0606A",
+            "pref_label": "C-SSRS Children's Baseline - Describe Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111538"
+        },
+        {
+            "alt_label": "CSS06-Most Severe Ideation, Frequency",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - How many times have you had these thoughts?",
+            "identifier": "C111539",
+            "notation": "CSS0607",
+            "pref_label": "C-SSRS Children's Baseline - Frequency of Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111539"
+        },
+        {
+            "alt_label": "CSS06-Frequency, Write Response",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Frequency, write response.",
+            "identifier": "C111540",
+            "notation": "CSS0607A",
+            "pref_label": "C-SSRS Children's Baseline - Frequency, Write Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111540"
+        },
+        {
+            "alt_label": "CSS06-Actual Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Did you ever do anything to try to kill yourself or make yourself not alive anymore? What did you do? Did you ever hurt yourself on purpose? Why did you do that?",
+            "identifier": "C111541",
+            "notation": "CSS0608",
+            "pref_label": "C-SSRS Children's Baseline - Actual Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111541"
+        },
+        {
+            "alt_label": "CSS06-Number of Actual Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Total number of actual attempts.",
+            "identifier": "C111542",
+            "notation": "CSS0609",
+            "pref_label": "C-SSRS Children's Baseline - Number of Actual Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111542"
+        },
+        {
+            "alt_label": "CSS06-Actual Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Description of actual attempt.",
+            "identifier": "C111543",
+            "notation": "CSS0609A",
+            "pref_label": "C-SSRS Children's Baseline - Description of Actual Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111543"
+        },
+        {
+            "alt_label": "CSS06-Non-suicidal Self-injurious Behav",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Has subject engaged in non-suicidal self-injurious behavior?",
+            "identifier": "C111544",
+            "notation": "CSS0610",
+            "pref_label": "C-SSRS Children's Baseline - Non-suicidal Self-injurious Behavior",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111544"
+        },
+        {
+            "alt_label": "CSS06-Self-injur Behav, Intent Unknown",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Has subject engaged in self-injurious behavior, intent unknown?",
+            "identifier": "C111545",
+            "notation": "CSS0611",
+            "pref_label": "C-SSRS Children's Baseline - Self-injurious Behavior, Intent Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111545"
+        },
+        {
+            "alt_label": "CSS06-Interrupted Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but someone or something stopped you before you actually did anything? What did you do?",
+            "identifier": "C111546",
+            "notation": "CSS0612",
+            "pref_label": "C-SSRS Children's Baseline - Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111546"
+        },
+        {
+            "alt_label": "CSS06-Number of Interrupt Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Total number of interrupted attempts.",
+            "identifier": "C111547",
+            "notation": "CSS0613",
+            "pref_label": "C-SSRS Children's Baseline - Number of Interrupted Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111547"
+        },
+        {
+            "alt_label": "CSS06-Interrupted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Description of interrupted attempt.",
+            "identifier": "C111548",
+            "notation": "CSS0613A",
+            "pref_label": "C-SSRS Children's Baseline - Description of Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111548"
+        },
+        {
+            "alt_label": "CSS06-Aborted Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but you changed your mind (stopped yourself) before you actually did anything? What did you do?",
+            "identifier": "C111549",
+            "notation": "CSS0614",
+            "pref_label": "C-SSRS Children's Baseline - Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111549"
+        },
+        {
+            "alt_label": "CSS06-Number of Aborted Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Total number of aborted attempts.",
+            "identifier": "C111550",
+            "notation": "CSS0615",
+            "pref_label": "C-SSRS Children's Baseline - Number of Aborted Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111550"
+        },
+        {
+            "alt_label": "CSS06-Aborted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Description of aborted attempt.",
+            "identifier": "C111551",
+            "notation": "CSS0615A",
+            "pref_label": "C-SSRS Children's Baseline - Description of Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111551"
+        },
+        {
+            "alt_label": "CSS06-Preparatory Acts/Behavior",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Have you done anything to get ready to make yourself not alive anymore (to end your life or kill yourself) - like giving things away, writing a goodbye note, getting things you need to kill yourself?",
+            "identifier": "C111552",
+            "notation": "CSS0616",
+            "pref_label": "C-SSRS Children's Baseline - Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111552"
+        },
+        {
+            "alt_label": "CSS06-Preparatory Acts/Behavior, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Description of preparatory acts or behavior.",
+            "identifier": "C111553",
+            "notation": "CSS0616A",
+            "pref_label": "C-SSRS Children's Baseline - Description of Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111553"
+        },
+        {
+            "alt_label": "CSS06-Suicidal Behavior",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Suicidal behavior was present during the assessment period?",
+            "identifier": "C111554",
+            "notation": "CSS0617",
+            "pref_label": "C-SSRS Children's Baseline - Suicidal Behavior",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111554"
+        },
+        {
+            "alt_label": "CSS06-Most Recent Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Most recent attempt date.",
+            "identifier": "C111555",
+            "notation": "CSS0618A",
+            "pref_label": "C-SSRS Children's Baseline - Most Recent Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111555"
+        },
+        {
+            "alt_label": "CSS06-Most Recent Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Most recent attempt actual lethality/medical damage.",
+            "identifier": "C111556",
+            "notation": "CSS0618B",
+            "pref_label": "C-SSRS Children's Baseline - Most Recent Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111556"
+        },
+        {
+            "alt_label": "CSS06-Most Recent Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Most recent attempt potential lethality.",
+            "identifier": "C111557",
+            "notation": "CSS0618C",
+            "pref_label": "C-SSRS Children's Baseline - Most Recent Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111557"
+        },
+        {
+            "alt_label": "CSS06-Most Lethal Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Most lethal attempt date.",
+            "identifier": "C111558",
+            "notation": "CSS0619A",
+            "pref_label": "C-SSRS Children's Baseline - Most Lethal Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111558"
+        },
+        {
+            "alt_label": "CSS06-Most Lethal Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Most lethal attempt actual lethality/medical damage.",
+            "identifier": "C111559",
+            "notation": "CSS0619B",
+            "pref_label": "C-SSRS Children's Baseline - Most Lethal Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111559"
+        },
+        {
+            "alt_label": "CSS06-Most Lethal Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Most lethal attempt potential lethality.",
+            "identifier": "C111560",
+            "notation": "CSS0619C",
+            "pref_label": "C-SSRS Children's Baseline - Most Lethal Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111560"
+        },
+        {
+            "alt_label": "CSS06-First Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Initial/first attempt date.",
+            "identifier": "C111561",
+            "notation": "CSS0620A",
+            "pref_label": "C-SSRS Children's Baseline - First Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111561"
+        },
+        {
+            "alt_label": "CSS06-First Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Initial/first attempt actual lethality/medical damage.",
+            "identifier": "C111562",
+            "notation": "CSS0620B",
+            "pref_label": "C-SSRS Children's Baseline - First Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111562"
+        },
+        {
+            "alt_label": "CSS06-First Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline - Initial/first attempt potential lethality.",
+            "identifier": "C111563",
+            "notation": "CSS0620C",
+            "pref_label": "C-SSRS Children's Baseline - First Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111336-C111563"
+        }
+    ]
+}

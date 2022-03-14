@@ -1,0 +1,992 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "3D CRT",
+            "definition": "A process by which a dose of radiation is automatically shaped to closely conform to the entire volume of the tumor, so that surrounding normal tissue is spared and treatment toxicity is decreased. (NCI)",
+            "identifier": "C16035",
+            "notation": "3D CONFORMAL RADIATION THERAPY",
+            "pref_label": "3-Dimensional Conformal Radiation Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C16035"
+        },
+        {
+            "definition": "Removal, separation, detachment, extirpation or eradication of a body part, pathway or function by surgery, chemical destruction, morbid process, or noxious substance. (NCI)",
+            "identifier": "C20985",
+            "notation": "ABLATION",
+            "pref_label": "Ablation Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C20985"
+        },
+        {
+            "definition": "An invasive therapeutic procedure to destroy tissue in an accessory pathways in the atrioventricular conduction system that contributes to arrhythmia.",
+            "identifier": "C99907",
+            "notation": "ABLATION, ACCESSORY PATHWAYS",
+            "pref_label": "Ablation of Cardiac Accessory Pathway",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99907"
+        },
+        {
+            "definition": "An invasive therapeutic procedure to destroy tissue in the cardiac atria that is the source of an arrhythmia.",
+            "identifier": "C80432",
+            "notation": "ABLATION, ATRIAL",
+            "pref_label": "Atrial Ablation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C80432"
+        },
+        {
+            "definition": "An invasive therapeutic procedure to destroy tissue in the AV-node that contributes to arrhythmia.",
+            "identifier": "C99908",
+            "notation": "ABLATION, AV NODE",
+            "pref_label": "Ablation of Cardiac Atrioventricular Node",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99908"
+        },
+        {
+            "definition": "Removal, separation, detachment, extirpation or eradication of a body part, pathway or function by chemical means. (NCI)",
+            "identifier": "C111157",
+            "notation": "ABLATION, CHEMICAL",
+            "pref_label": "Chemical Ablation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C111157"
+        },
+        {
+            "definition": "Removal, separation, detachment, extirpation or eradication of a body part, pathway or function by light amplification by stimulated emission of radiation. (NCI)",
+            "identifier": "C111241",
+            "notation": "ABLATION, LASER",
+            "pref_label": "Laser Ablation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C111241"
+        },
+        {
+            "definition": "An invasive therapeutic procedure to destroy tissue in the cardiac ventricles that is the source of an arrhythmia.",
+            "identifier": "C80433",
+            "notation": "ABLATION, VENTRICULAR",
+            "pref_label": "Ventricular Ablation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C80433"
+        },
+        {
+            "definition": "Dilation of the valve between the left ventricle of the heart and the aorta by inflating a balloon.",
+            "identifier": "C99916",
+            "notation": "AORTIC BALLOON VALVOTOMY",
+            "pref_label": "Aortic Balloon Valvotomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99916"
+        },
+        {
+            "definition": "Surgery performed with the purpose of replacing a degenerated, calcified, malformed, dysfunctional, etc. aortic valve with a bioprosthetic, homograft, or autograft valve.",
+            "identifier": "C50815",
+            "notation": "AORTIC VALVE REPLACEMENT",
+            "pref_label": "Aortic Valve Replacement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C50815"
+        },
+        {
+            "alt_label": "Total Artificial Heart Implantation",
+            "definition": "Implantation of a prosthetic device into the body to replace the function of both cardiac ventricles and all four cardiac valves, typically as a bridge to transplantation.",
+            "identifier": "C172590",
+            "notation": "ARTIFICIAL HEART IMPLANTATION",
+            "pref_label": "Total Artificial Heart Implantation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C172590"
+        },
+        {
+            "definition": "Repair of atrial septum.",
+            "identifier": "C99939",
+            "notation": "ATRIAL SEPTAL CLOSURE",
+            "pref_label": "Closure of Cardiac Atrial Septum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99939"
+        },
+        {
+            "alt_label": "BPAP Ventilation",
+            "definition": "A type of non-invasive mechanical ventilation procedure that that uses bilevel positive airway pressure to support spontaneous breathing activity.",
+            "identifier": "C171500",
+            "notation": "BILEVEL POSITIVE AIRWAY PRESSURE VENTILATION",
+            "pref_label": "Bilevel Positive Airway Pressure Ventilation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C171500"
+        },
+        {
+            "alt_label": "Right Lung Bilobectomy",
+            "definition": "Surgical removal of two lobes of the right lung.",
+            "identifier": "C91828",
+            "notation": "BILOBECTOMY",
+            "pref_label": "Bilobectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C91828"
+        },
+        {
+            "definition": "The removal of tissue specimens or fluid from the living body for microscopic examination, performed to establish a diagnosis.",
+            "identifier": "C15189",
+            "notation": "BIOPSY",
+            "pref_label": "Biopsy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15189"
+        },
+        {
+            "alt_label": "CNB;Core Needle Biopsy;Needle Biopsy",
+            "definition": "A type of biopsy in which a tissue sample is removed using a needle with a relatively large diameter.",
+            "identifier": "C15680",
+            "notation": "BIOPSY, CORE",
+            "pref_label": "Core Biopsy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15680"
+        },
+        {
+            "definition": "A type of biopsy in which an entire lesion is removed for microscopic examination.",
+            "identifier": "C15385",
+            "notation": "BIOPSY, EXCISIONAL",
+            "pref_label": "Excisional Biopsy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15385"
+        },
+        {
+            "definition": "A type of biopsy in which part of a lesion is removed for microscopic examination.",
+            "identifier": "C15386",
+            "notation": "BIOPSY, INCISIONAL",
+            "pref_label": "Incisional Biopsy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15386"
+        },
+        {
+            "definition": "A type of biopsy in which a disk of tissue is removed using a punch device.",
+            "identifier": "C28743",
+            "notation": "BIOPSY, PUNCH",
+            "pref_label": "Punch Biopsy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C28743"
+        },
+        {
+            "alt_label": "CRT-D Implantation",
+            "definition": "A surgical procedure in which a cardiac pacing device with a built-in cardioverter defibrillator is placed under the skin, with leads positioned in the right atrium and both ventricles.",
+            "identifier": "C172595",
+            "notation": "BIVENTRICULAR DEFIBRILLATING CARDIAC PACEMAKER IMPLANTATION",
+            "pref_label": "Cardiac Resynchronization Therapy Defibrillator Implantation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C172595"
+        },
+        {
+            "definition": "A mechanical fluid removal technique that involves the pressure-driven movement of plasma water and solutes from whole blood across a semipermeable membrane.",
+            "identifier": "C172593",
+            "notation": "BLOOD ULTRAFILTRATION",
+            "pref_label": "Blood Ultrafiltration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C172593"
+        },
+        {
+            "alt_label": "BMT",
+            "definition": "A therapeutic procedure to replace diseased or pathologic bone marrow with transplanted, healthy bone marrow cells.",
+            "identifier": "C15194",
+            "notation": "BONE MARROW TRANSPLANT",
+            "pref_label": "Bone Marrow Transplantation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15194"
+        },
+        {
+            "definition": "A type of radiation therapy in which radioactive material is placed inside the body, into a tumor or body cavity.",
+            "identifier": "C15195",
+            "notation": "BRACHYTHERAPY",
+            "pref_label": "Brachytherapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15195"
+        },
+        {
+            "definition": "A type of brachytherapy in which radioactive material sealed in needles, seeds, wires, or catheters is placed directly into a tumor or body tissue.",
+            "identifier": "C66891",
+            "notation": "BRACHYTHERAPY, INTERSTITIAL",
+            "pref_label": "Interstitial Radiation Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C66891"
+        },
+        {
+            "definition": "A type of brachytherapy in which radioactive material sealed in needles, seeds, wires, or catheters is placed directly into a body cavity such as the chest cavity or the vagina.",
+            "identifier": "C28049",
+            "notation": "BRACHYTHERAPY, INTRACAVITARY",
+            "pref_label": "Intracavitary Radiation Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C28049"
+        },
+        {
+            "definition": "Any of a number of implantable cardiac devices meant to aid the heart in carrying out its functions.",
+            "identifier": "C170616",
+            "notation": "CARDIAC ASSIST DEVICE",
+            "pref_label": "Cardiac Assist Device",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C170616"
+        },
+        {
+            "definition": "A procedure in which a thin plastic tube (catheter) is inserted into an artery or vein in the arm or leg and then advanced into the chambers of the heart or into the coronary arteries.",
+            "identifier": "C38044",
+            "notation": "CARDIAC CATHETERIZATION",
+            "pref_label": "Cardiac Catheterization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C38044"
+        },
+        {
+            "alt_label": "Biventricular Cardiac Pacemaker Procedure;CRT",
+            "definition": "An invasive procedure that includes an electronic device that stimulates both right and left cardiac ventricles to improve coordination of ventricular contraction.",
+            "identifier": "C80436",
+            "notation": "CARDIAC RESYNCHRONIZATION THERAPY",
+            "pref_label": "Cardiac Resynchronization Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C80436"
+        },
+        {
+            "definition": "A procedure performed during a percutaneous coronary intervention in which a device is deployed into the lumen of a coronary artery to expand and support the vessel wall such that the vessel remains patent and blood flow is uninhibited.",
+            "identifier": "C100080",
+            "notation": "CARDIAC STENT PLACEMENT",
+            "pref_label": "Cardiac Stent Placement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C100080"
+        },
+        {
+            "alt_label": "Heart Transplant",
+            "definition": "A surgical procedure in which a damaged heart is removed and replaced by another heart from a suitable donor.",
+            "identifier": "C15246",
+            "notation": "CARDIAC TRANSPLANT",
+            "pref_label": "Heart Transplantation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15246"
+        },
+        {
+            "alt_label": "CHEMICAL CARDIOVERSION",
+            "definition": "The administration of pharmacologic agents to correct abnormal heart rhythm.",
+            "identifier": "C99937",
+            "notation": "CARDIOVERSION, CHEMICAL",
+            "pref_label": "Chemical Cardioversion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99937"
+        },
+        {
+            "alt_label": "ELECTRICAL CARDIOVERSION",
+            "definition": "The administration of electric current to correct abnormal heart rhythm.",
+            "identifier": "C99948",
+            "notation": "CARDIOVERSION, ELECTRICAL",
+            "pref_label": "Electric Cardioversion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99948"
+        },
+        {
+            "definition": "A surgical procedure to remove the clouded lens from the eye, and oftentimes replace it with an artificial lens.",
+            "identifier": "C157809",
+            "notation": "CATARACT SURGERY",
+            "pref_label": "Cataract Surgery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C157809"
+        },
+        {
+            "definition": "The use of synthetic or naturally-occurring chemicals for the treatment of diseases.",
+            "identifier": "C15632",
+            "notation": "CHEMOTHERAPY",
+            "pref_label": "Chemotherapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15632"
+        },
+        {
+            "definition": "Surgical removal of the gallbladder.",
+            "identifier": "C51676",
+            "notation": "CHOLECYSTECTOMY",
+            "pref_label": "Cholecystectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C51676"
+        },
+        {
+            "definition": "Endoscopic examination of the luminal surface of the colon.",
+            "identifier": "C16450",
+            "notation": "COLONOSCOPY",
+            "pref_label": "Colonoscopy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C16450"
+        },
+        {
+            "alt_label": "CPAP Ventilation",
+            "definition": "A type of non-invasive mechanical ventilation procedure that uses continuous positive airway pressure to support spontaneous breathing activity.",
+            "identifier": "C124040",
+            "notation": "CONTINUOUS POSITIVE AIRWAY PRESSURE VENTILATION",
+            "pref_label": "Continuous Positive Airway Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C124040"
+        },
+        {
+            "definition": "A type of ECG gated MRI in which the images are enhanced by the addition of contrast agents into the body.",
+            "identifier": "C174358",
+            "notation": "CONTRAST ENHANCED ECG GATED MRI",
+            "pref_label": "Contrast Enhanced ECG Gated MRI",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C174358"
+        },
+        {
+            "alt_label": "Aortocoronary Bypass;CAB;CABG;Coronary Artery Bypass;Coronary Artery Bypass Graft;Coronary Artery Bypass Graft Surgery;Coronary Artery Bypass Grafting;Heart Bypass",
+            "definition": "A procedure performed to bypass partially or completely occluded coronary arteries with veins and/or arteries harvested from elsewhere in the body, thereby improving the blood supply to the coronary circulation supplying the myocardium (heart muscle).",
+            "identifier": "C51998",
+            "notation": "CORONARY ARTERY BYPASS GRAFT",
+            "pref_label": "Coronary Artery Bypass Surgery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C51998"
+        },
+        {
+            "definition": "Removal, separation, detachment, extirpation or eradication of a body part, pathway or function by freezing. (NCI)",
+            "identifier": "C15215",
+            "notation": "CRYOABLATION",
+            "pref_label": "Cryosurgery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15215"
+        },
+        {
+            "definition": "The therapeutic use of cold or refrigeration.",
+            "identifier": "C40030",
+            "notation": "CRYOTHERAPY",
+            "pref_label": "Cryotherapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C40030"
+        },
+        {
+            "alt_label": "Computed Tomography;CT",
+            "definition": "An imaging technique for examining structures within the body by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis.",
+            "identifier": "C17204",
+            "notation": "CT SCAN",
+            "pref_label": "Computed Tomography",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C17204"
+        },
+        {
+            "definition": "The removal of tissue with a curette (a spoon-shaped instrument with a sharp edge).",
+            "identifier": "C15216",
+            "notation": "CURETTAGE",
+            "pref_label": "Curettage Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15216"
+        },
+        {
+            "definition": "A type of digital fundus photography that makes use of a significantly wider viewing angle than traditional fundus photography.",
+            "identifier": "C166089",
+            "notation": "DIGITAL WIDE FIELD FUNDUS PHOTOGRAPHY",
+            "pref_label": "Digital Wide Field Fundus Photography",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C166089"
+        },
+        {
+            "definition": "A type of ECG gated MRI in which the images are not enhanced by the addition of contrast agents into the body.",
+            "identifier": "C174359",
+            "notation": "ECG GATED MRI WITHOUT CONTRAST",
+            "pref_label": "ECG Gated MRI Without Contrast",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C174359"
+        },
+        {
+            "definition": "A type of magnetic resonance imaging in which data is acquired during a specified portion of the cardiac cycle, allowing for the collection of stop motion imaging of the heart.",
+            "identifier": "C174231",
+            "notation": "ECG GATED MRI",
+            "pref_label": "ECG Gated MRI",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C174231"
+        },
+        {
+            "definition": "A procedure for destroying tissue using an electrical current.",
+            "identifier": "C111192",
+            "notation": "ELECTROCAUTERIZATION",
+            "pref_label": "Electrocauterization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C111192"
+        },
+        {
+            "definition": "Excision of an atheromatous plaque. (NCI)",
+            "identifier": "C52002",
+            "notation": "ENDARTERECTOMY",
+            "pref_label": "Endarterectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C52002"
+        },
+        {
+            "definition": "The act of cutting out; the surgical removal of part or all of a structure or organ. (NCI)",
+            "identifier": "C15232",
+            "notation": "EXCISION",
+            "pref_label": "Excision",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15232"
+        },
+        {
+            "alt_label": "Celiotomy",
+            "definition": "Creation of a surgical opening into the abdominal cavity for examination of the contents of the abdominal cavity as a means of diagnosis.",
+            "identifier": "C51779",
+            "notation": "EXPLORATORY LAPAROTOMY",
+            "pref_label": "Exploratory Laparotomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C51779"
+        },
+        {
+            "definition": "A type of radiation therapy in which high-energy beams are delivered to the tumor from outside of the body.",
+            "identifier": "C15751",
+            "notation": "EXTERNAL BEAM RADIATION THERAPY",
+            "pref_label": "External Beam Radiation Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15751"
+        },
+        {
+            "alt_label": "ECMO",
+            "definition": "A technique that utilizes a device to pump a patient's blood outside of the body, oxygenate it, and return it to the body.",
+            "identifier": "C171507",
+            "notation": "EXTRACORPOREAL MEMBRANE OXYGENATION",
+            "pref_label": "Extracorporeal Membrane Oxygenation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C171507"
+        },
+        {
+            "definition": "A therapeutic procedure involving the extracorporeal removal of harmful waste and fluids from the blood using a dialysis machine. Following dialysis, the blood is returned to the body.",
+            "identifier": "C15248",
+            "notation": "HEMODIALYSIS",
+            "pref_label": "Hemodialysis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15248"
+        },
+        {
+            "definition": "A mechanical fluid removal technique that involves the pressure-driven movement of plasma water and solutes from whole blood through a system of extracorporeal filters, with simultaneous reinfusion of replacement fluid into the body to keep volume homeostasis.",
+            "identifier": "C172594",
+            "notation": "HEMOFILTRATION",
+            "pref_label": "Hemofiltration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C172594"
+        },
+        {
+            "definition": "A type of brachytherapy that targets a cancerous tissue with high doses of radiation through the use of inserted temporary implants.",
+            "identifier": "C15651",
+            "notation": "HIGH-DOSE RATE BRACHYTHERAPY",
+            "pref_label": "High-Dose Rate Brachytherapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15651"
+        },
+        {
+            "alt_label": "HFNC Oxygen Therapy",
+            "definition": "The delivery of heated, humidified, oxygen-enriched gas via nasal cannula at flow rates greater than those typically delivered by standard-flow oxygen devices.",
+            "identifier": "C171510",
+            "notation": "HIGH-FLOW NASAL CANNULA OXYGEN THERAPY",
+            "pref_label": "High-Flow Nasal Cannula Oxygen Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C171510"
+        },
+        {
+            "definition": "An electrocardiographic method for collecting continuous ECG waveforms with a variable number of discrete leads with duration longer than the standard 10 second ECG. Holter recording may be performed in patients who are ambulatory, and may collect data for 24 hours or longer.",
+            "identifier": "C38064",
+            "notation": "HOLTER CONTINUOUS ECG RECORDING",
+            "pref_label": "Holter Monitoring",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C38064"
+        },
+        {
+            "definition": "A therapy designed to induce changes in a patient's immune status.",
+            "identifier": "C15262",
+            "notation": "IMMUNOTHERAPY",
+            "pref_label": "Immunotherapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15262"
+        },
+        {
+            "alt_label": "Implantable Cardioverter Defibrillator Procedure",
+            "definition": "A procedure involving an electronic device implanted in the body that delivers electrical stimulation to the heart to treat tachycardia. It may also have the capability to treat bradycardia.",
+            "identifier": "C80435",
+            "notation": "IMPLANTABLE CARDIOVERTER DEFIBRILLATOR",
+            "pref_label": "Implantable Cardioverter-Defibrillator Placement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C80435"
+        },
+        {
+            "alt_label": "Infrared Coagulation",
+            "definition": "The use of an intense beam of light, such as a laser, to seal off blood vessels or destroy tissue. (NCI)",
+            "identifier": "C62730",
+            "notation": "INFRARED PHOTO COAGULATION",
+            "pref_label": "Infrared Photocoagulation Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C62730"
+        },
+        {
+            "definition": "An advanced form of 3-Dimensional Conformal Radiation Therapy (3D CRT) that involves the use of varying intensities of small radiation beams to produce dosage distributions that are more precise than those possible with 3D CRT. (NCI)",
+            "identifier": "C16135",
+            "notation": "INTENSITY-MODULATED RADIATION THERAPY",
+            "pref_label": "Intensity-Modulated Radiation Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C16135"
+        },
+        {
+            "definition": "A type of mechanical circulatory support procedure in which a balloon catheter inserted into the proximal descending aorta is inflated immediately after aortic valve closure in diastole and deflated just before aortic valve opening in systole, with the augmentation of coronary blood flow during diastole increasing coronary blood flow and systemic perfusion.",
+            "identifier": "C172591",
+            "notation": "INTRA-AORTIC BALLOON PUMP THERAPY",
+            "pref_label": "Intra-aortic Balloon Pump Counterpulsation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C172591"
+        },
+        {
+            "alt_label": "Lead Procedure",
+            "definition": "A procedure involving one or more wires used for pacemaker or implantable defibrillator devices.",
+            "identifier": "C99934",
+            "notation": "LEAD",
+            "pref_label": "Cardiac Lead Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99934"
+        },
+        {
+            "definition": "The therapeutic blockage of the muscular pouch in the left atrium.",
+            "identifier": "C99965",
+            "notation": "LEFT ATRIAL APPENDAGE OCCLUSION",
+            "pref_label": "Intentional Left Cardiac Atrial Appendage Occlusion Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99965"
+        },
+        {
+            "definition": "Surgical removal of the left portion of the colon.",
+            "identifier": "C51624",
+            "notation": "LEFT COLECTOMY",
+            "pref_label": "Left Colectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C51624"
+        },
+        {
+            "alt_label": "LVAD Implantation;LVAD Insertion",
+            "definition": "A procedure involving the implantation of a mechanical cardiac pump which receives blood from the left ventricle and delivers it to the aorta. (NCI)",
+            "identifier": "C172327",
+            "notation": "LEFT VENTRICULAR ASSIST DEVICE IMPLANTATION",
+            "pref_label": "Left Ventricular Assist Device Insertion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C172327"
+        },
+        {
+            "definition": "An examination and assessment of the inability of the left ventricle to effectively pump blood to the body.",
+            "identifier": "C99975",
+            "notation": "LEFT VENTRICULAR SYSTOLIC DYSFUNCTION EVALUATION",
+            "pref_label": "Left Cardiac Ventricular Systolic Dysfunction Evaluation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99975"
+        },
+        {
+            "definition": "Surgical removal of a lobe of an organ.",
+            "identifier": "C15272",
+            "notation": "LOBECTOMY",
+            "pref_label": "Lobectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15272"
+        },
+        {
+            "definition": "Any immunotherapy that targets, or is restricted to, a specific anatomical location.",
+            "identifier": "C156582",
+            "notation": "LOCAL IMMUNOTHERAPY",
+            "pref_label": "Local Immunotherapy Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C156582"
+        },
+        {
+            "alt_label": "LAR;Lower Anterior Rectal Resection",
+            "definition": "Resection of the rectum through an incision in the lower abdomen.",
+            "identifier": "C113716",
+            "notation": "LOW ANTERIOR RESECTION",
+            "pref_label": "Low Anterior Resection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C113716"
+        },
+        {
+            "definition": "A type of brachytherapy that targets a cancerous tissue with low doses of radiation through the use of inserted temporary or permanent implants.",
+            "identifier": "C85254",
+            "notation": "LOW-DOSE RATE BRACHYTHERAPY",
+            "pref_label": "Low-Dose Rate Brachytherapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C85254"
+        },
+        {
+            "definition": "Surgical removal of a discrete mass.",
+            "identifier": "C15755",
+            "notation": "LUMPECTOMY",
+            "pref_label": "Lumpectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15755"
+        },
+        {
+            "alt_label": "Lymph Node Dissection;Lymph Node Excision",
+            "definition": "Surgical removal of the lymph node(s).",
+            "identifier": "C15275",
+            "notation": "LYMPHADENECTOMY",
+            "pref_label": "Lymphadenectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15275"
+        },
+        {
+            "definition": "A procedure that mechanically assists or replaces spontaneous breathing in patients by use of a powered device that forces oxygenated air into the lungs.",
+            "identifier": "C70909",
+            "notation": "MECHANICAL VENTILATION",
+            "pref_label": "Mechanical Ventilation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C70909"
+        },
+        {
+            "definition": "Surgical removal of metastases.",
+            "identifier": "C94461",
+            "notation": "METASTASECTOMY",
+            "pref_label": "Metastasectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C94461"
+        },
+        {
+            "definition": "Dilation of the valve between the left atrium and the left ventricle of the heart by inflating a balloon.",
+            "identifier": "C99987",
+            "notation": "MITRAL BALLOON VALVOTOMY",
+            "pref_label": "Mitral Balloon Valvotomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99987"
+        },
+        {
+            "definition": "Dilation of the valve between the left atrium and the left ventricle of the heart by use of a surgeon's finger or rigid instrument.",
+            "identifier": "C99988",
+            "notation": "MITRAL COMMISSUROTOMY",
+            "pref_label": "Mitral Commissurotomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99988"
+        },
+        {
+            "definition": "Surgery performed for the purpose of reducing regurgitation of the mitral valve.",
+            "identifier": "C80449",
+            "notation": "MITRAL VALVE REPAIR",
+            "pref_label": "Mitral Valve Repair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C80449"
+        },
+        {
+            "definition": "Surgery performed with the purpose of replacing a degenerated, calcified, malformed, dysfunctional, etc. mitral valve with bioprosthetic, homograft or autograft valve.",
+            "identifier": "C50825",
+            "notation": "MITRAL VALVE REPLACEMENT",
+            "pref_label": "Mitral Valve Replacement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C50825"
+        },
+        {
+            "definition": "Surgical removal of one or both breasts, including the areola, nipple, and the majority of the axillary lymph nodes, but sparing the pectoralis major muscle.",
+            "identifier": "C15278",
+            "notation": "MODIFIED RADICAL MASTECTOMY",
+            "pref_label": "Modified Radical Mastectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15278"
+        },
+        {
+            "definition": "A dermatologic procedure used to treat certain forms of skin cancer in which tissue is removed and immediately tested via frozen section; tissue continues to be removed until clear margins are achieved.",
+            "identifier": "C28208",
+            "notation": "MOHS SURGERY",
+            "pref_label": "Mohs Surgery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C28208"
+        },
+        {
+            "alt_label": "Magnetic Resonance Imaging",
+            "definition": "Imaging that uses radiofrequency waves and a strong magnetic field rather than x-rays to provide amazingly clear and detailed pictures of internal organs and tissues. The technique is valuable for the diagnosis of many pathologic conditions, including cancer, heart and vascular disease, stroke, and joint and musculoskeletal disorders.",
+            "identifier": "C16809",
+            "notation": "MRI",
+            "pref_label": "Magnetic Resonance Imaging",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C16809"
+        },
+        {
+            "alt_label": "Radionuclide Ventriculogram Scan",
+            "definition": "A multi-gated acquisition (MUGA) scan and a form of radionuclide imaging that provides a comprehensive look at blood flow and the function of the lower chambers of the heart ventricles. (NCI)",
+            "identifier": "C38073",
+            "notation": "MUGA",
+            "pref_label": "Radionuclide Ventriculogram Scan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C38073"
+        },
+        {
+            "definition": "An operative procedure that does not involve the heart or the blood vessels.",
+            "identifier": "C99995",
+            "notation": "NON-CARDIOVASCULAR SURGERY",
+            "pref_label": "Non-Cardiovascular Surgery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99995"
+        },
+        {
+            "alt_label": "NIV;Non-Invasive Ventilation",
+            "definition": "A type of mechanical ventilation procedure that uses a non-invasive means, such as a face mask or nasal mask, to deliver oxygenated air into the lungs.",
+            "identifier": "C171457",
+            "notation": "NON-INVASIVE MECHANICAL VENTILATION",
+            "pref_label": "Non-Invasive Mechanical Ventilation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C171457"
+        },
+        {
+            "alt_label": "Pacemaker Procedure",
+            "definition": "A procedure involving an electronic device that delivers electrical stimulation to the heart to treat bradycardia.",
+            "identifier": "C99998",
+            "notation": "PACEMAKER",
+            "pref_label": "Pacemaker Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99998"
+        },
+        {
+            "definition": "Placement of a stent within the pancreas.",
+            "identifier": "C179785",
+            "notation": "PANCREATIC STENT PLACEMENT",
+            "pref_label": "Pancreatic Stent Placement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C179785"
+        },
+        {
+            "alt_label": "Kausch-Whipple Procedure;Pancreatoduodenectomy;Whipple Procedure",
+            "definition": "Surgical removal of the head of the pancreas, the first part of the small intestine (duodenum), the gallbladder and the bile duct. (Mayo Clinic)",
+            "identifier": "C15356",
+            "notation": "PANCREATICODUODENECTOMY",
+            "pref_label": "Whipple Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15356"
+        },
+        {
+            "definition": "A biospecimen collection and staining procedure in which secretions and superficial cells of the cervix are collected and stained with the Papanicolaou stain followed by microscopic examination to identify the presence of abnormal cells.",
+            "identifier": "C17348",
+            "notation": "PAP SMEAR",
+            "pref_label": "Pap Smear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C17348"
+        },
+        {
+            "definition": "Surgical removal of part of the pancreas.",
+            "identifier": "C51666",
+            "notation": "PARTIAL PANCREATECTOMY",
+            "pref_label": "Partial Pancreatectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C51666"
+        },
+        {
+            "alt_label": "PCI",
+            "definition": "A percutaneous coronary intervention (PCI) is the placement of an angioplasty guide wire, balloon, or other device (e.g. stent, atherectomy, brachytherapy, or thrombectomy catheter) into a native coronary artery or coronary artery bypass graft for the purpose of mechanical coronary revascularization. Examples of things not considered to be PCI procedures include intravascular ultrasound, measurements of coronary flow reserve, or measurements of fractional flow reserve.",
+            "identifier": "C99521",
+            "notation": "PERCUTANEOUS CORONARY INTERVENTION",
+            "pref_label": "Percutaneous Coronary Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99521"
+        },
+        {
+            "definition": "Invasive procedure through a puncture in the skin, performed for the purpose of reducing regurgitation of the mitral valve.",
+            "identifier": "C100003",
+            "notation": "PERCUTANEOUS MITRAL REPAIR",
+            "pref_label": "Percutaneous Mitral Valve Repair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C100003"
+        },
+        {
+            "alt_label": "PVAD Insertion;PVAD Placement",
+            "definition": "A minimally invasive procedure in which a catheter is inserted into the femoral artery or vein in order to temporarily connect a mechanical circulatory support device that is worn outside the body to the circulatory system.",
+            "identifier": "C172592",
+            "notation": "PERCUTANEOUS VENTRICULAR ASSIST DEVICE PLACEMENT",
+            "pref_label": "Percutaneous Ventricular Assist Device Placement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C172592"
+        },
+        {
+            "definition": "Removal or resection of the pericardium.",
+            "identifier": "C100004",
+            "notation": "PERICARDIAL STRIPPING",
+            "pref_label": "Pericardial Stripping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C100004"
+        },
+        {
+            "definition": "A procedure in which an opening is made in the pericardium.",
+            "identifier": "C51618",
+            "notation": "PERICARDIAL WINDOW",
+            "pref_label": "Pericardial Window Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C51618"
+        },
+        {
+            "definition": "The aspiration of excess fluid between the pericardium and the heart.",
+            "identifier": "C52010",
+            "notation": "PERICARDIOCENTESIS",
+            "pref_label": "Pericardiocentesis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C52010"
+        },
+        {
+            "definition": "A therapeutic procedure that involves the transplantation of stem cells harvested from the circulating blood of a patient or donor.",
+            "identifier": "C15430",
+            "notation": "PERIPHERAL BLOOD STEM CELL TRANSPLANT",
+            "pref_label": "Peripheral Blood Stem Cell Transplantation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15430"
+        },
+        {
+            "alt_label": "PVI",
+            "definition": "A peripheral vascular intervention is a catheter-based or open surgical procedure designed to improve arterial or venous blood flow or otherwise modify or revise vascular conduits. In general, the intention to perform percutaneous vascular intervention is denoted by the insertion of a guide wire into an artery or vein. For the sake of simplicity, this definition applies to the extracranial carotid artery and other non-cardiac arteries and veins, while it excludes the lymphatics and intracranial vessels.",
+            "identifier": "C116150",
+            "notation": "PERIPHERAL VASCULAR INTERVENTION",
+            "pref_label": "Peripheral Vascular Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C116150"
+        },
+        {
+            "alt_label": "PDT",
+            "definition": "Use of light and photosensitizing agents to treat cancer and other conditions.",
+            "identifier": "C15300",
+            "notation": "PHOTODYNAMIC THERAPY",
+            "pref_label": "Photodynamic Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15300"
+        },
+        {
+            "definition": "The treatment of a disorder by exposure to light, including ultraviolet and infrared radiation. (Bartleby.com)",
+            "identifier": "C15301",
+            "notation": "PHOTOTHERAPY",
+            "pref_label": "Phototherapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15301"
+        },
+        {
+            "definition": "The surgical removal of all or part of the pleura. (NCI)",
+            "identifier": "C51651",
+            "notation": "PLEURECTOMY",
+            "pref_label": "Pleurectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C51651"
+        },
+        {
+            "definition": "A therapeutic surgical procedure in which the pleural space is surgically eliminated by the adherence of the visceral and parietal pleurae. (NCI)",
+            "identifier": "C66899",
+            "notation": "PLEURODESIS",
+            "pref_label": "Pleurodesis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C66899"
+        },
+        {
+            "definition": "Surgical removal of a polypoid lesion from the mucosal surface.",
+            "identifier": "C25349",
+            "notation": "POLYPECTOMY",
+            "pref_label": "Polypectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C25349"
+        },
+        {
+            "definition": "Surgery performed with the purpose of replacing a degenerated, calcified, malformed, dysfunctional, etc. pulmonary valve with bioprosthetic, homograft or autograft valve.",
+            "identifier": "C50817",
+            "notation": "PULMONARY VALVE REPLACEMENT",
+            "pref_label": "Pulmonary Valve Replacement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C50817"
+        },
+        {
+            "definition": "Dilation of the valve between the right ventricle and the pulmonary artery of the heart by inflating a balloon.",
+            "identifier": "C100044",
+            "notation": "PULMONIC VALVULOPLASTY",
+            "pref_label": "Pulmonic Valvuloplasty",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C100044"
+        },
+        {
+            "definition": "Surgical removal of one or both breasts, including the areola, nipple, axillary lymph nodes, and pectoral muscles.",
+            "identifier": "C15279",
+            "notation": "RADICAL MASTECTOMY",
+            "pref_label": "Radical Mastectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15279"
+        },
+        {
+            "alt_label": "Radiation Therapy;Radiotherapy",
+            "definition": "Use of targeted or whole body radiation to treat a disease.",
+            "identifier": "C15313",
+            "notation": "RADIOTHERAPY",
+            "pref_label": "Radiation Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15313"
+        },
+        {
+            "definition": "Surgical removal of a structure or organ, which was not completely removed in an earlier attempt.",
+            "identifier": "C48600",
+            "notation": "RE-EXCISION",
+            "pref_label": "Re-Excision",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C48600"
+        },
+        {
+            "definition": "Surgical restoration of form and/or function of a body part.",
+            "identifier": "C25351",
+            "notation": "RECONSTRUCTIVE SURGERY",
+            "pref_label": "Reconstructive Surgery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C25351"
+        },
+        {
+            "alt_label": "RRT",
+            "definition": "Any of the procedures used to supplement or substitute for the blood-filtering function of the kidneys.",
+            "identifier": "C126400",
+            "notation": "RENAL REPLACEMENT THERAPY",
+            "pref_label": "Renal Replacement Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C126400"
+        },
+        {
+            "definition": "Surgical removal of the right portion of the colon.",
+            "identifier": "C51623",
+            "notation": "RIGHT COLECTOMY",
+            "pref_label": "Right Colectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C51623"
+        },
+        {
+            "alt_label": "RVAD Implantation;RVAD Insertion",
+            "definition": "A procedure involving the implantation of a mechanical pump which receives blood from the right ventricle and delivers it to the pulmonary artery.",
+            "identifier": "C172927",
+            "notation": "RIGHT VENTRICULAR ASSIST DEVICE IMPLANTATION",
+            "pref_label": "Right Ventricular Assist Device Insertion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C172927"
+        },
+        {
+            "alt_label": "Segmental Resection",
+            "definition": "Surgical removal of a segment of an organ or partial resection of a gland.",
+            "identifier": "C91061",
+            "notation": "SEGMENTECTOMY",
+            "pref_label": "Segmentectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C91061"
+        },
+        {
+            "definition": "Surgical removal and examination of the lymph node which is first in receiving the lymphatic drainage of a specified anatomic location.",
+            "identifier": "C15667",
+            "notation": "SENTINEL LYMPH NODE BIOPSY",
+            "pref_label": "Sentinel Lymph Node Biopsy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15667"
+        },
+        {
+            "definition": "A cardiac catheterization procedure to relieve symptoms in patients with severe obstructive hypertrophic cardiomyopathy. A catheter is used to inject alcohol into a septal artery supplying the heart muscle responsible for the obstruction, destroying the muscle tissue and relieving the obstruction.",
+            "identifier": "C80439",
+            "notation": "SEPTAL ABLATION",
+            "pref_label": "Septal Ablation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C80439"
+        },
+        {
+            "definition": "Surgical removal of thin slices of tissue from a structure or organ, done with a razor blade or scalpel.",
+            "identifier": "C51885",
+            "notation": "SHAVE EXCISION",
+            "pref_label": "Shave Excision",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C51885"
+        },
+        {
+            "definition": "Surgical removal of the sigmoid colon.",
+            "identifier": "C91838",
+            "notation": "SIGMOIDECTOMY",
+            "pref_label": "Sigmoidectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C91838"
+        },
+        {
+            "definition": "A dual-modality imaging technique that merges data from single-photon emission computed tomography (SPECT) and computed tomography (CT) to provide structural and functional information.",
+            "identifier": "C154791",
+            "notation": "SPECT/CT SCAN",
+            "pref_label": "Single Photon Tomography and Computed Tomography Scan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C154791"
+        },
+        {
+            "alt_label": "Suction Blistering",
+            "definition": "The creation of an artificially induced skin blister by the application of mechanical pressure to an area of skin, causing in vivo separation of the epidermis and dermis.",
+            "identifier": "C179786",
+            "notation": "SUCTION BLISTER TECHNIQUE",
+            "pref_label": "Suction Blister Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C179786"
+        },
+        {
+            "alt_label": "Cox Maze",
+            "definition": "A cardiac procedure intended to inhibit atrial fibrillation, in which a series of incisions are made in the atria to block abnormal electrical circuits that contribute to atrial fibrillation.",
+            "identifier": "C100017",
+            "notation": "SURGICAL MAZE",
+            "pref_label": "Surgical Maze Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C100017"
+        },
+        {
+            "definition": "The removal of excess fluid via needle puncture from the thoracic cavity.",
+            "identifier": "C15392",
+            "notation": "THORACENTESIS",
+            "pref_label": "Thoracentesis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15392"
+        },
+        {
+            "alt_label": "TWR",
+            "definition": "A minimally invasive surgical procedure in which video-assisted thoracoscopy is used to remove of a portion of the lung.",
+            "identifier": "C154873",
+            "notation": "THORACOSCOPIC WEDGE RESECTION",
+            "pref_label": "Thorascopic Wedge Resection of the Lung",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C154873"
+        },
+        {
+            "definition": "Surgical removal of the entire colon.",
+            "identifier": "C51924",
+            "notation": "TOTAL COLECTOMY",
+            "pref_label": "Total Colectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C51924"
+        },
+        {
+            "definition": "Surgical removal of the entire pancreas.",
+            "identifier": "C15340",
+            "notation": "TOTAL PANCREATECTOMY",
+            "pref_label": "Total Pancreatectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15340"
+        },
+        {
+            "alt_label": "Tracheotomy",
+            "definition": "Creation of a surgical opening into the trachea.",
+            "identifier": "C15341",
+            "notation": "TRACHEOSTOMY",
+            "pref_label": "Tracheotomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15341"
+        },
+        {
+            "definition": "Use of a thin tube to deliver an artificial valve apparatus between the left ventricle of the heart and the aorta.",
+            "identifier": "C100022",
+            "notation": "TRANSCATHETER AORTIC VALVE IMPLANT",
+            "pref_label": "Transcatheter Aortic Valve Implantation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C100022"
+        },
+        {
+            "alt_label": "TTE",
+            "definition": "A non-invasive cardiac ultrasound performed by placing the transducer on the chest.",
+            "identifier": "C80404",
+            "notation": "TRANSTHORACIC ECHOCARDIOGRAPHY",
+            "pref_label": "Transthoracic Echocardiography",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C80404"
+        },
+        {
+            "alt_label": "TURBT",
+            "definition": "A surgical procedure in which a resectoscope is passed through the urethra into the bladder to diagnose and remove all or part of a bladder tumor.",
+            "identifier": "C116651",
+            "notation": "TRANSURETHRAL RESECTION OF BLADDER TUMOR",
+            "pref_label": "Transurethral Resection of Bladder Tumor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C116651"
+        },
+        {
+            "definition": "Surgical removal of the transverse colon.",
+            "identifier": "C51612",
+            "notation": "TRANSVERSE COLECTOMY",
+            "pref_label": "Transverse Colectomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C51612"
+        },
+        {
+            "definition": "Surgery performed for the purpose of reducing regurgitation of the cardiac valve between the right atrium and right ventricle.",
+            "identifier": "C99935",
+            "notation": "TRICUSPID VALVE REPAIR",
+            "pref_label": "Cardiac Tricuspid Valve Repair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99935"
+        },
+        {
+            "definition": "Surgery performed with the purpose of replacing a degenerated, calcified, malformed, dysfunctional, etc. tricuspid valve with bioprosthetic, homograft or autograft valve.",
+            "identifier": "C50816",
+            "notation": "TRICUSPID VALVE REPLACEMENT",
+            "pref_label": "Tricuspid Valve Replacement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C50816"
+        },
+        {
+            "definition": "A therapeutic procedure that involves the transplantation of hematopoietic stem cells collected from the umbilical cord or placenta.",
+            "identifier": "C15640",
+            "notation": "UMBILICAL CORD BLOOD TRANSPLANT",
+            "pref_label": "Umbilical Cord Blood Transplantation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C15640"
+        },
+        {
+            "definition": "Cardiac surgical procedure performed for the removal of an aneurysm from the ventricular wall.",
+            "identifier": "C80451",
+            "notation": "VENTRICULAR ANEURYSM RESECTION",
+            "pref_label": "Ventricular Aneurysm Resection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C80451"
+        },
+        {
+            "definition": "Repair of ventricular septum.",
+            "identifier": "C99940",
+            "notation": "VENTRICULAR SEPTAL CLOSURE",
+            "pref_label": "Closure of Cardiac Ventricle Septum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C99940"
+        },
+        {
+            "alt_label": "Static X-Ray",
+            "definition": "A radiographic procedure using the emission of x-rays, a type of penetrating energy wave.",
+            "identifier": "C38101",
+            "notation": "X-RAY",
+            "pref_label": "X-Ray Imaging",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101858-C38101"
+        }
+    ]
+}

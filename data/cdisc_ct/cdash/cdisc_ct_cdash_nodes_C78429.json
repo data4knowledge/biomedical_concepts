@@ -1,0 +1,43 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A unit of flow rate equal to one milliliter per minute.",
+            "identifier": "C64777",
+            "notation": "mL/min",
+            "pref_label": "Milliliter per Minute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78429-C64777"
+        },
+        {
+            "alt_label": "mmol/24h",
+            "definition": "A unit of substance flow rate equal to one millimole per day.",
+            "identifier": "C67420",
+            "notation": "mmol/day",
+            "pref_label": "Millimole per 24 Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78429-C67420"
+        },
+        {
+            "alt_label": "mcg/day",
+            "definition": "A unit of mass flow rate equal to one microgram per day.",
+            "identifier": "C71205",
+            "notation": "ug/day",
+            "pref_label": "Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78429-C71205"
+        },
+        {
+            "alt_label": "mcg/min",
+            "definition": "A unit of mass flow rate equal to one microgram per minute.",
+            "identifier": "C71211",
+            "notation": "ug/min",
+            "pref_label": "Microgram per Minute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78429-C71211"
+        },
+        {
+            "alt_label": "mcmol/day",
+            "definition": "A unit of substance flow rate equal to one micromole per day.",
+            "identifier": "C67406",
+            "notation": "umol/day",
+            "pref_label": "Micromole per 24 Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78429-C67406"
+        }
+    ]
+}

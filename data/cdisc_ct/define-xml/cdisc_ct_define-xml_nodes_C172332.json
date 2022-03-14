@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A preliminary version of a CDISC standard that has not yet completed the CDISC standards development process. (NCI)",
+            "identifier": "C172453",
+            "notation": "DRAFT",
+            "pref_label": "CDISC Draft Standard",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C172332-C172453"
+        },
+        {
+            "definition": "A final version of a CDISC standard that has completed the CDISC standards development process. (NCI)",
+            "identifier": "C172455",
+            "notation": "FINAL",
+            "pref_label": "CDISC Final Standard",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C172332-C172455"
+        },
+        {
+            "definition": "A version of a CDISC standard whose conclusiveness is dependent upon the fulfillment of some contingency or final alteration. (NCI)",
+            "identifier": "C172454",
+            "notation": "PROVISIONAL",
+            "pref_label": "CDISC Provisional Standard",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C172332-C172454"
+        }
+    ]
+}

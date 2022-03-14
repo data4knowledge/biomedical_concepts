@@ -1,0 +1,60 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "HDCAB1-Paced Tapping",
+            "definition": "Huntington's Disease Cognitive Assessment Battery - Paced Tapping key variable for composite score: 1/SD of the inter-tap interval for the self-paced taps.",
+            "identifier": "C166331",
+            "notation": "HDCAB101",
+            "pref_label": "HD-CAB - Paced Tapping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C166188-C166331"
+        },
+        {
+            "alt_label": "HDCAB1-Emotion Recognition",
+            "definition": "Huntington's Disease Cognitive Assessment Battery - Emotion Recognition key variable for composite score: Number of correct responses to the negative expressions (anger, fear, sadness, disgust) out of 24 possible.",
+            "identifier": "C166332",
+            "notation": "HDCAB102",
+            "pref_label": "HD-CAB - Emotion Recognition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C166188-C166332"
+        },
+        {
+            "alt_label": "HDCAB1-One Touch Stockings of Cambridge",
+            "definition": "Huntington's Disease Cognitive Assessment Battery - One Touch Stockings of Cambridge key variable for composite score: Mean time to correct response (sec) averaged across all 10 trials (reverse scored).",
+            "identifier": "C166333",
+            "notation": "HDCAB103",
+            "pref_label": "HD-CAB - One Touch Stockings of Cambridge",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C166188-C166333"
+        },
+        {
+            "alt_label": "HDCAB1-Symbol Digit Modalities Test",
+            "definition": "Huntington's Disease Cognitive Assessment Battery - Symbol Digit Modalities Test key variable for composite score: Number of correct responses in 90 seconds out of 110 possible responses.",
+            "identifier": "C166334",
+            "notation": "HDCAB104",
+            "pref_label": "HD-CAB - Symbol Digit Modalities Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C166188-C166334"
+        },
+        {
+            "alt_label": "HDCAB1-Hopkins Verbal Learning Test Rev",
+            "definition": "Huntington's Disease Cognitive Assessment Battery - Hopkins Verbal Learning Test - Revised key variable for composite score: Total number of words correctly recalled over Trials 1-4 out of 48 possible.",
+            "identifier": "C166335",
+            "notation": "HDCAB105",
+            "pref_label": "HD-CAB - Hopkins Verbal Learning Test Revised",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C166188-C166335"
+        },
+        {
+            "alt_label": "HDCAB1-Trail Making Test-B",
+            "definition": "Huntington's Disease Cognitive Assessment Battery - Trail Making Test-B key variable for composite score: Time to completion (sec) of TMT Part B with upper time limit of 240 seconds (reverse scored).",
+            "identifier": "C166336",
+            "notation": "HDCAB106",
+            "pref_label": "HD-CAB - Trail Making Test-B",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C166188-C166336"
+        },
+        {
+            "alt_label": "HDCAB1-HD-CAB Total Score",
+            "definition": "Huntington's Disease Cognitive Assessment Battery - HD-CAB total score.",
+            "identifier": "C166337",
+            "notation": "HDCAB107",
+            "pref_label": "HD-CAB - HD-CAB Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C166188-C166337"
+        }
+    ]
+}

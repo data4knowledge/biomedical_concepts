@@ -1,0 +1,90 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A description of the strategy, methods, responsibilities, and requirements for monitoring the study. (ICH E6(R2))",
+            "identifier": "C115753",
+            "notation": "Clinical Monitoring Plan",
+            "pref_label": "Clinical Trial Monitoring Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C115753"
+        },
+        {
+            "alt_label": "Data Safety Monitoring Plan;DSMP;Safety Data Monitoring Plan",
+            "definition": "A written plan that prospectively identifies and documents monitoring activities intended to protect the safety of the participants, the validity of the data and the integrity of the research study. The DSMP may also identify when to terminate a participant's participation (i.e. individual stopping rules) and/or the appropriate termination of a study (i.e. study stopping rules). (Mayo Clinic)",
+            "identifier": "C163406",
+            "notation": "Data and Safety Monitoring Plan",
+            "pref_label": "Data and Safety Monitoring Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C163406"
+        },
+        {
+            "definition": "Review of study data for completeness, consistency, and accuracy for the duration of the study lifecycle.",
+            "identifier": "C142488",
+            "notation": "Data Monitoring",
+            "pref_label": "Data Monitoring",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C142488"
+        },
+        {
+            "alt_label": "Good Clinical Practice Adherence Statement",
+            "definition": "A written message that asserts, affirms, or declares that the study is conducted in accordance with Good Clinical Practice (GCP).",
+            "identifier": "C163407",
+            "notation": "GCP Adherence Statement",
+            "pref_label": "GCP Adherence Statement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C163407"
+        },
+        {
+            "definition": "A systematic, prioritized approach that involves identifying, assessing, monitoring and mitigating the risks that could affect the quality of the study or safety of the study participants.",
+            "identifier": "C142674",
+            "notation": "Risk Monitoring",
+            "pref_label": "Risk Based Monitoring",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C142674"
+        },
+        {
+            "definition": "Review of cumulative safety data to identify possible safety concerns.",
+            "identifier": "C163408",
+            "notation": "Safety Data Monitoring",
+            "pref_label": "Safety Data Monitoring",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C163408"
+        },
+        {
+            "definition": "Review of safety data to ensure safety of the individuals who are participating in the study, or to identify potential safety concerns for the duration of the study lifecycle.",
+            "identifier": "C163409",
+            "notation": "Safety Monitoring",
+            "pref_label": "Safety Monitoring",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C163409"
+        },
+        {
+            "definition": "A written message within the study protocol that describes the auditing activities that are to occur within a study and the intent to address findings from an audit report.",
+            "identifier": "C184395",
+            "notation": "Study Audit Statement",
+            "pref_label": "Study Audit Statement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C184395"
+        },
+        {
+            "definition": "A systematic and independent examination of study-related activities and documents to determine whether the evaluated trial-related activities were conducted and the data were recorded, analyzed, and accurately reported according to the protocol, sponsor's standard operating procedures (SOPs), good clinical practice (GCP), and the applicable regulatory requirement(s). (ICH E6 Glossary)",
+            "identifier": "C184396",
+            "notation": "Study Audit",
+            "pref_label": "Study Audit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C184396"
+        },
+        {
+            "definition": "A written message that asserts, affirms, or declares that the study will be monitored in adherence to a clinical monitoring plan and in accordance with Good Clinical Practice (GCP).",
+            "identifier": "C163410",
+            "notation": "Study Monitoring Statement",
+            "pref_label": "Study Monitoring Statement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C163410"
+        },
+        {
+            "definition": "A systematic approach to identify and assess the risks of participant suicidal ideation and/or suicide.",
+            "identifier": "C163411",
+            "notation": "Suicidal Risk Monitoring",
+            "pref_label": "Suicidal Risk Monitoring",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C163411"
+        },
+        {
+            "definition": "The act of overseeing the progress of a clinical trial and of ensuring that it is conducted, recorded, and reported in accordance with the protocol, standard operating procedures (SOPs), good clinical practice (GCP), and the applicable regulatory requirement(s). [ICH E6 Glossary]",
+            "identifier": "C15789",
+            "notation": "Trial Monitoring",
+            "pref_label": "Clinical Trials, Monitoring",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026-C15789"
+        }
+    ]
+}

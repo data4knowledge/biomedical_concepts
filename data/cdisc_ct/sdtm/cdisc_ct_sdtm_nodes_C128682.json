@@ -1,0 +1,76 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Bowel Obstruction Indicator",
+            "definition": "An indication as to whether bowel obstruction has occurred.",
+            "identifier": "C156503",
+            "notation": "BWOBIND",
+            "pref_label": "Bowel Obstruction Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128682-C156503"
+        },
+        {
+            "alt_label": "Bowel Perforation Indicator",
+            "definition": "An indication as to whether bowel perforation has occurred.",
+            "identifier": "C156504",
+            "notation": "BWPFIND",
+            "pref_label": "Bowel Perforation Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128682-C156504"
+        },
+        {
+            "alt_label": "Diameter",
+            "definition": "The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference. (NCI)",
+            "identifier": "C25285",
+            "notation": "DIAMETER",
+            "pref_label": "Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128682-C25285"
+        },
+        {
+            "alt_label": "Elasticity",
+            "definition": "A quantitative measurement of an organ's ability to deform in response to physiological force and return to its normal shape by passive elastic recoil.",
+            "identifier": "C119332",
+            "notation": "ELASTIC",
+            "pref_label": "Organ Elasticity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128682-C119332"
+        },
+        {
+            "alt_label": "Lymphovascular Invasion Indicator",
+            "definition": "An indication as to whether lymphovascular invasion by tumor cells has occurred.",
+            "identifier": "C156505",
+            "notation": "LVINVIND",
+            "pref_label": "Lymphovascular Invasion Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128682-C156505"
+        },
+        {
+            "alt_label": "Percent Area Covered By Ulcers",
+            "definition": "A measurement of the percentage of area examined that is covered by ulcerations.",
+            "identifier": "C176291",
+            "notation": "PAREAULC",
+            "pref_label": "Percent Ulcer Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128682-C176291"
+        },
+        {
+            "alt_label": "Rectal Tumor to Anal Verge Distance",
+            "definition": "A measurement of the distance between the rectal tumor and the anal margin.",
+            "identifier": "C139184",
+            "notation": "RTAVDIST",
+            "pref_label": "Rectal Tumor to Anal Verge Distance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128682-C139184"
+        },
+        {
+            "alt_label": "Number of Strictures",
+            "definition": "The number of anatomical strictures observed.",
+            "identifier": "C174274",
+            "notation": "STRCTNUM",
+            "pref_label": "Number of Strictures",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128682-C174274"
+        },
+        {
+            "alt_label": "Thickness",
+            "definition": "The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.",
+            "identifier": "C41145",
+            "notation": "THICK",
+            "pref_label": "Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128682-C41145"
+        }
+    ]
+}

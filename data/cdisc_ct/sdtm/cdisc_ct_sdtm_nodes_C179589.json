@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Any test methodology that is able to detect or quantify a finding at a high sensitivity level, as compared to the sensitivities of other concurrently available methods.",
+            "identifier": "C179820",
+            "notation": "HIGH SENSITIVITY",
+            "pref_label": "High Sensitivity Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179589-C179820"
+        },
+        {
+            "definition": "Any test methodology that is able to detect or quantify a finding at a low sensitivity level, as compared to the sensitivities of other concurrently available methods.",
+            "identifier": "C179821",
+            "notation": "LOW SENSITIVITY",
+            "pref_label": "Low Sensitivity Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179589-C179821"
+        },
+        {
+            "definition": "Any test methodology that is able to detect or quantify a finding at an ultra-high sensitivity level, as compared to the sensitivities of other concurrently available methods.",
+            "identifier": "C179822",
+            "notation": "ULTRA-HIGH SENSITIVITY",
+            "pref_label": "Ultra-High Sensitivity Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179589-C179822"
+        }
+    ]
+}

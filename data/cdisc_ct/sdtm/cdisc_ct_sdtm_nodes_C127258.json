@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An indication that no biospecimen samples were retained.",
+            "identifier": "C127776",
+            "notation": "SAMPLES NOT RETAINED",
+            "pref_label": "Biospecimens Not Retained",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127258-C127776"
+        },
+        {
+            "definition": "An indication that the retained biospecimens contain DNA.",
+            "identifier": "C127777",
+            "notation": "SAMPLES WITH DNA RETAINED",
+            "pref_label": "Retained Specimens Contain DNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127258-C127777"
+        },
+        {
+            "definition": "An indication that the retained biospecimens do not contain DNA.",
+            "identifier": "C127778",
+            "notation": "SAMPLES WITHOUT DNA RETAINED",
+            "pref_label": "Retained Specimens Do Not Contain DNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127258-C127778"
+        }
+    ]
+}

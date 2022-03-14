@@ -1,0 +1,139 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Not existing in a specified place at a specified time. (NCI)",
+            "identifier": "C48190",
+            "notation": "ABSENT",
+            "pref_label": "Absent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C48190"
+        },
+        {
+            "alt_label": "Reduced",
+            "definition": "Made less in size, amount, degree, or extent.",
+            "identifier": "C25640",
+            "notation": "DECREASED",
+            "pref_label": "Reduced",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C25640"
+        },
+        {
+            "definition": "An indication that the increase is homogenously dispersed.",
+            "identifier": "C147486",
+            "notation": "DIFFUSELY INCREASED",
+            "pref_label": "Diffusely Increased",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C147486"
+        },
+        {
+            "definition": "An increase in size, volume, or quantity in comparison to nadir.",
+            "identifier": "C156593",
+            "notation": "ENLARGEMENT FROM NADIR",
+            "pref_label": "Enlargement from Nadir",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C156593"
+        },
+        {
+            "definition": "An increase in size, volume, quantity or scope in comparison to normal or previous state.",
+            "identifier": "C73432",
+            "notation": "ENLARGEMENT",
+            "pref_label": "Enlargement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C73432"
+        },
+        {
+            "definition": "Open to question.",
+            "identifier": "C86071",
+            "notation": "EQUIVOCAL",
+            "pref_label": "Equivocal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C86071"
+        },
+        {
+            "definition": "An indication that the increase is concentrated in a specific area(s).",
+            "identifier": "C147487",
+            "notation": "FOCALLY INCREASED",
+            "pref_label": "Focally Increased",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C147487"
+        },
+        {
+            "definition": "An increase in size, volume, or quantity in comparison to a previous state that was enlarged from nadir.",
+            "identifier": "C156594",
+            "notation": "FURTHER ENLARGEMENT FROM NADIR",
+            "pref_label": "Further Enlargement from Nadir",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C156594"
+        },
+        {
+            "definition": "An increase in size, volume, quantity or scope in comparison to a previous enlarged state.",
+            "identifier": "C142367",
+            "notation": "FURTHER ENLARGEMENT",
+            "pref_label": "Further Enlargement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C142367"
+        },
+        {
+            "definition": "A process of becoming larger, more intense, more extensive, more numerous, more important, or more likely.",
+            "identifier": "C25533",
+            "notation": "INCREASED",
+            "pref_label": "Increase",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C25533"
+        },
+        {
+            "definition": "The absence of disease or pathology. (NCI)",
+            "identifier": "C126054",
+            "notation": "NON-PATHOLOGICAL",
+            "pref_label": "Non-Pathological",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C126054"
+        },
+        {
+            "definition": "Incapable of being handled, touched or felt through palpation. (NCI)",
+            "identifier": "C124445",
+            "notation": "NONPALPABLE",
+            "pref_label": "Non-Palpable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C124445"
+        },
+        {
+            "definition": "Being approximately average or within certain limits; conforming with or constituting a norm or standard or level or type or social norm. (NCI)",
+            "identifier": "C14165",
+            "notation": "NORMAL",
+            "pref_label": "Normal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C14165"
+        },
+        {
+            "definition": "Capable of being handled, touched or felt through palpation. (NCI)",
+            "identifier": "C25606",
+            "notation": "PALPABLE",
+            "pref_label": "Palpable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C25606"
+        },
+        {
+            "definition": "Manifesting disease or pathology.",
+            "identifier": "C25610",
+            "notation": "PATHOLOGICAL",
+            "pref_label": "Pathologic",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C25610"
+        },
+        {
+            "definition": "Being or existing in a specified place or at the specified time. (NCI)",
+            "identifier": "C25626",
+            "notation": "PRESENT",
+            "pref_label": "Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C25626"
+        },
+        {
+            "alt_label": "Tumor Merged",
+            "definition": "An indication that multiple tumors have coalesced into one tumor.",
+            "identifier": "C94525",
+            "notation": "TUMOR MERGED",
+            "pref_label": "Matted Tumor Mass Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C94525"
+        },
+        {
+            "definition": "In an unchanged or similar condition.",
+            "identifier": "C71687",
+            "notation": "UNCHANGED",
+            "pref_label": "About The Same",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C71687"
+        },
+        {
+            "definition": "Leaving no doubt; not open to question. (NCI)",
+            "identifier": "C123645",
+            "notation": "UNEQUIVOCAL",
+            "pref_label": "Unequivocal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124309-C123645"
+        }
+    ]
+}

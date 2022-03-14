@@ -1,0 +1,812 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "QLES1-Free of Aches, Pains, Discomfort",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Been completely free of aches, pains, or discomfort?",
+            "identifier": "C130604",
+            "notation": "QLES101",
+            "pref_label": "Q-LES-Q - Free of Aches, Pains, Discomfort",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130604"
+        },
+        {
+            "alt_label": "QLES1-Felt Rested",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Felt rested?",
+            "identifier": "C130605",
+            "notation": "QLES102",
+            "pref_label": "Q-LES-Q - Felt Rested",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130605"
+        },
+        {
+            "alt_label": "QLES1-Felt Energetic",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Felt energetic?",
+            "identifier": "C130606",
+            "notation": "QLES103",
+            "pref_label": "Q-LES-Q - Felt Energetic",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130606"
+        },
+        {
+            "alt_label": "QLES1-Felt in Excellent Physical Health",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Felt in excellent physical health?",
+            "identifier": "C130607",
+            "notation": "QLES104",
+            "pref_label": "Q-LES-Q - Felt in Excellent Physical Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130607"
+        },
+        {
+            "alt_label": "QLES1-At Least Very Good Physical Health",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Felt in at least very good physical health?",
+            "identifier": "C130608",
+            "notation": "QLES105",
+            "pref_label": "Q-LES-Q - At Least Very Good Physical Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130608"
+        },
+        {
+            "alt_label": "QLES1-Free of Worry of Physical Health",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Been free of worry about your physical health?",
+            "identifier": "C130609",
+            "notation": "QLES106",
+            "pref_label": "Q-LES-Q - Free of Worry of Physical Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130609"
+        },
+        {
+            "alt_label": "QLES1-Felt You Got Enough Sleep",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Felt you got enough sleep?",
+            "identifier": "C130610",
+            "notation": "QLES107",
+            "pref_label": "Q-LES-Q - Felt You Got Enough Sleep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130610"
+        },
+        {
+            "alt_label": "QLES1-Be as Physically Active as Needed",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Felt able to be as physically active as needed?",
+            "identifier": "C130611",
+            "notation": "QLES108",
+            "pref_label": "Q-LES-Q - Be as Physically Active as Needed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130611"
+        },
+        {
+            "alt_label": "QLES1-Felt Well Coordinated",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Felt well coordinated?",
+            "identifier": "C130612",
+            "notation": "QLES109",
+            "pref_label": "Q-LES-Q - Felt Well Coordinated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130612"
+        },
+        {
+            "alt_label": "QLES1-Felt Memory Was Functioning Well",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Felt your memory was functioning well?",
+            "identifier": "C130613",
+            "notation": "QLES110",
+            "pref_label": "Q-LES-Q - Felt Memory Was Functioning Well",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130613"
+        },
+        {
+            "alt_label": "QLES1-Felt Good Physically",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Felt good physically?",
+            "identifier": "C130614",
+            "notation": "QLES111",
+            "pref_label": "Q-LES-Q - Felt Good Physically",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130614"
+        },
+        {
+            "alt_label": "QLES1-Felt Full of Pep and Vitality",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Felt full of pep and vitality?",
+            "identifier": "C130615",
+            "notation": "QLES112",
+            "pref_label": "Q-LES-Q - Felt Full of Pep and Vitality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130615"
+        },
+        {
+            "alt_label": "QLES1-Free of Visual Problems",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - With regard to your physical health, during the past week how much of the time have you: Been free of visual problems?",
+            "identifier": "C130616",
+            "notation": "QLES113",
+            "pref_label": "Q-LES-Q - Free of Visual Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130616"
+        },
+        {
+            "alt_label": "QLES1-Felt Clearheaded",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt clearheaded?",
+            "identifier": "C130617",
+            "notation": "QLES114",
+            "pref_label": "Q-LES-Q - Felt Clearheaded",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130617"
+        },
+        {
+            "alt_label": "QLES1-Felt Satisfied With Your Life",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt satisfied with your life?",
+            "identifier": "C130618",
+            "notation": "QLES115",
+            "pref_label": "Q-LES-Q - Felt Satisfied With Your Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130618"
+        },
+        {
+            "alt_label": "QLES1-Felt Good About Your Appearance",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt good about your appearance?",
+            "identifier": "C130619",
+            "notation": "QLES116",
+            "pref_label": "Q-LES-Q - Felt Good About Your Appearance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130619"
+        },
+        {
+            "alt_label": "QLES1-Felt Happy or Cheerful",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt happy or cheerful?",
+            "identifier": "C130620",
+            "notation": "QLES117",
+            "pref_label": "Q-LES-Q - Felt Happy or Cheerful",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130620"
+        },
+        {
+            "alt_label": "QLES1-Felt Independent",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt independent?",
+            "identifier": "C130621",
+            "notation": "QLES118",
+            "pref_label": "Q-LES-Q - Felt Independent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130621"
+        },
+        {
+            "alt_label": "QLES1-Felt Content",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt content?",
+            "identifier": "C130622",
+            "notation": "QLES119",
+            "pref_label": "Q-LES-Q - Felt Content",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130622"
+        },
+        {
+            "alt_label": "QLES1-Able to Communicate With Others",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt able to communicate with others?",
+            "identifier": "C130623",
+            "notation": "QLES120",
+            "pref_label": "Q-LES-Q - Able to Communicate With Others",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130623"
+        },
+        {
+            "alt_label": "QLES1-Taking Care of Your Appearance",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt interested in taking care of your appearance (hair, clothing) and personal hygiene (bathing, dressing)?",
+            "identifier": "C130624",
+            "notation": "QLES121",
+            "pref_label": "Q-LES-Q - Taking Care of Your Appearance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130624"
+        },
+        {
+            "alt_label": "QLES1-Felt Able to Make Decisions",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt able to make decisions?",
+            "identifier": "C130625",
+            "notation": "QLES122",
+            "pref_label": "Q-LES-Q - Felt Able to Make Decisions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130625"
+        },
+        {
+            "alt_label": "QLES1-Felt Relaxed",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt relaxed?",
+            "identifier": "C130626",
+            "notation": "QLES123",
+            "pref_label": "Q-LES-Q - Felt Relaxed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130626"
+        },
+        {
+            "alt_label": "QLES1-Felt Good About Your Life",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt good about your life?",
+            "identifier": "C130627",
+            "notation": "QLES124",
+            "pref_label": "Q-LES-Q - Felt Good About Your Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130627"
+        },
+        {
+            "alt_label": "QLES1-Able to Travel About When Needed",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt able to travel about to get things done when needed (walk, use car, bus, train, or whatever is available as needed)?",
+            "identifier": "C130628",
+            "notation": "QLES125",
+            "pref_label": "Q-LES-Q - Able to Travel About to Get Things Done When Needed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130628"
+        },
+        {
+            "alt_label": "QLES1-Able to Deal With Life's Problems",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt able to deal with life's problems?",
+            "identifier": "C130629",
+            "notation": "QLES126",
+            "pref_label": "Q-LES-Q - Able to Deal With Life's Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130629"
+        },
+        {
+            "alt_label": "QLES1-Able to Take Care of Yourself",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt able to take care of yourself?",
+            "identifier": "C130630",
+            "notation": "QLES127",
+            "pref_label": "Q-LES-Q - Able to Take Care of Yourself",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130630"
+        },
+        {
+            "alt_label": "QLES1-Have a Job",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Do you have a job?",
+            "identifier": "C130631",
+            "notation": "QLES128A",
+            "pref_label": "Q-LES-Q - Have a Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130631"
+        },
+        {
+            "alt_label": "QLES1-Work for Yourself",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Do you work for yourself?",
+            "identifier": "C130632",
+            "notation": "QLES128B",
+            "pref_label": "Q-LES-Q - Work for Yourself",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130632"
+        },
+        {
+            "alt_label": "QLES1-Do Volunteer Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Do you do volunteer work?",
+            "identifier": "C130633",
+            "notation": "QLES128C",
+            "pref_label": "Q-LES-Q - Do Volunteer Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130633"
+        },
+        {
+            "alt_label": "QLES1-Reason for Not Working",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Reason not having a job, working for yourself, and not doing volunteer work?",
+            "identifier": "C130634",
+            "notation": "QLES128D",
+            "pref_label": "Q-LES-Q - Reason for Not Working",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130634"
+        },
+        {
+            "alt_label": "QLES1-Enjoyed Your Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Enjoyed your work?",
+            "identifier": "C130635",
+            "notation": "QLES129",
+            "pref_label": "Q-LES-Q - Enjoyed Your Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130635"
+        },
+        {
+            "alt_label": "QLES1-Solved Work Problem Without Stress",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Solved work problems or dealt with them without undue stress?",
+            "identifier": "C130636",
+            "notation": "QLES130",
+            "pref_label": "Q-LES-Q - Solved Work Problem Without Stress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130636"
+        },
+        {
+            "alt_label": "QLES1-Thought Clearly About Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Thought clearly about work?",
+            "identifier": "C130637",
+            "notation": "QLES131",
+            "pref_label": "Q-LES-Q - Thought Clearly About Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130637"
+        },
+        {
+            "alt_label": "QLES1-Decisive About Work/Made Decisions",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Been decisive about work, or made decisions when needed?",
+            "identifier": "C130638",
+            "notation": "QLES132",
+            "pref_label": "Q-LES-Q - Decisive About Work or Made Decisions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130638"
+        },
+        {
+            "alt_label": "QLES1-Accomplished What You Wanted to Do",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Accomplished what you wanted to do?",
+            "identifier": "C130639",
+            "notation": "QLES133",
+            "pref_label": "Q-LES-Q - Accomplished What You Wanted to Do",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130639"
+        },
+        {
+            "alt_label": "QLES1-Pleased With Work Accomplishments",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Been pleased with your work accomplishments?",
+            "identifier": "C130640",
+            "notation": "QLES134",
+            "pref_label": "Q-LES-Q - Pleased With Work Accomplishments",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130640"
+        },
+        {
+            "alt_label": "QLES1-Worked Well",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Worked well?",
+            "identifier": "C130641",
+            "notation": "QLES135",
+            "pref_label": "Q-LES-Q - Worked Well",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130641"
+        },
+        {
+            "alt_label": "QLES1-Been Interested in Your Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Been interested in your work?",
+            "identifier": "C130642",
+            "notation": "QLES136",
+            "pref_label": "Q-LES-Q - Been Interested in Your Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130642"
+        },
+        {
+            "alt_label": "QLES1-Concentrated on Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Concentrated on work?",
+            "identifier": "C130643",
+            "notation": "QLES137",
+            "pref_label": "Q-LES-Q - Concentrated on Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130643"
+        },
+        {
+            "alt_label": "QLES1-Worked Carefully",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Worked carefully?",
+            "identifier": "C130644",
+            "notation": "QLES138",
+            "pref_label": "Q-LES-Q - Worked Carefully",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130644"
+        },
+        {
+            "alt_label": "QLES1-Kept Up With Expected Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Kept up with expected work?",
+            "identifier": "C130645",
+            "notation": "QLES139",
+            "pref_label": "Q-LES-Q - Kept Up With Expected Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130645"
+        },
+        {
+            "alt_label": "QLES1-Taken Care of Work by Yourself",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Taken care of work by yourself when it was necessary?",
+            "identifier": "C130646",
+            "notation": "QLES140",
+            "pref_label": "Q-LES-Q - Taken Care of Work by Yourself",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130646"
+        },
+        {
+            "alt_label": "QLES1-Communicated/Interacted With Ease",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Communicated and interacted with ease with others while working?",
+            "identifier": "C130647",
+            "notation": "QLES141",
+            "pref_label": "Q-LES-Q - Communicated and Interacted With Ease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130647"
+        },
+        {
+            "alt_label": "QLES1-Responsible for Household",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Are you responsible for any household duties/housework/homemaker activities (e.g., cleaning, shopping, doing dishes, food shopping or preparation) for your-self or for other people?",
+            "identifier": "C130648",
+            "notation": "QLES142",
+            "pref_label": "Q-LES-Q - Responsible for Household",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130648"
+        },
+        {
+            "alt_label": "QLES1-Reason for No Household Activities",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Reason for no household duties/housework/homemaker activities (e.g., cleaning, shopping doing dishes, food shopping or preparation) for your-self or for other people?",
+            "identifier": "C130649",
+            "notation": "QLES142A",
+            "pref_label": "Q-LES-Q - Reason for No Household Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130649"
+        },
+        {
+            "alt_label": "QLES1-Kept Room Clean to Satisfaction",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Kept your room/apartment/house cleaned to your satisfaction?",
+            "identifier": "C130650",
+            "notation": "QLES143",
+            "pref_label": "Q-LES-Q - Kept Room Clean to Satisfaction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130650"
+        },
+        {
+            "alt_label": "QLES1-Paid Bills, Done Banking",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Paid the bills, done the banking to your satisfaction?",
+            "identifier": "C130651",
+            "notation": "QLES144",
+            "pref_label": "Q-LES-Q - Paid Bills, Done Banking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130651"
+        },
+        {
+            "alt_label": "QLES1-Shopped for Food/Household Items",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Shopped for food or other household items to your satisfaction?",
+            "identifier": "C130652",
+            "notation": "QLES145",
+            "pref_label": "Q-LES-Q - Shopped for Food or Household Items",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130652"
+        },
+        {
+            "alt_label": "QLES1-Prepared Food or Obtained Food",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Prepared food or obtained food to your satisfaction?",
+            "identifier": "C130653",
+            "notation": "QLES146",
+            "pref_label": "Q-LES-Q - Prepared Food or Obtained Food",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130653"
+        },
+        {
+            "alt_label": "QLES1-Taken Care of Laundry/Cleaning",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Taken care of the laundry/cleaning to your satisfaction?",
+            "identifier": "C130654",
+            "notation": "QLES147",
+            "pref_label": "Q-LES-Q - Taken Care of Laundry or Cleaning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130654"
+        },
+        {
+            "alt_label": "QLES1-Accomplish Household Activities",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Had a feeling of accomplishment with regard to household activities?",
+            "identifier": "C130655",
+            "notation": "QLES148",
+            "pref_label": "Q-LES-Q - Accomplish Household Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130655"
+        },
+        {
+            "alt_label": "QLES1-Thought Clearly Household Activ",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Concentrated and thought clearly about what household activities needed to be done?",
+            "identifier": "C130656",
+            "notation": "QLES149",
+            "pref_label": "Q-LES-Q - Thought Clearly Household Activities to be Done",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130656"
+        },
+        {
+            "alt_label": "QLES1-Solved House Problems w/o Stress",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Solved household problems or dealt with them without undue stress?",
+            "identifier": "C130657",
+            "notation": "QLES150",
+            "pref_label": "Q-LES-Q - Solved House Problems Without Stress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130657"
+        },
+        {
+            "alt_label": "QLES1-Decisive Household Activities",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Been decisive or made decisions when needed with regard to household activities?",
+            "identifier": "C130658",
+            "notation": "QLES151",
+            "pref_label": "Q-LES-Q - Decisive With Regard to Household Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130658"
+        },
+        {
+            "alt_label": "QLES1-Made Repairs Household Maintenance",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week, how often have you: Made repairs or taken care of household maintenance as needed?",
+            "identifier": "C130659",
+            "notation": "QLES152",
+            "pref_label": "Q-LES-Q - Made Repairs or Household Maintenance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130659"
+        },
+        {
+            "alt_label": "QLES1-Taken Courses/Going to Class",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Have you been taking any courses, going to class, or been involved in any type of course work, school or college studies during the past week?",
+            "identifier": "C130660",
+            "notation": "QLES153",
+            "pref_label": "Q-LES-Q - Taken Courses or Going to Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130660"
+        },
+        {
+            "alt_label": "QLES1-Reason for No Courses",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Reason not taking any courses, going to class, or been involved in any type of course work, school or college studies during the past week.",
+            "identifier": "C130661",
+            "notation": "QLES153A",
+            "pref_label": "Q-LES-Q - Reason for No Courses",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130661"
+        },
+        {
+            "alt_label": "QLES1-Enjoyed Course/Class Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Enjoyed the course/class work?",
+            "identifier": "C130662",
+            "notation": "QLES154",
+            "pref_label": "Q-LES-Q - Enjoyed Course or Class Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130662"
+        },
+        {
+            "alt_label": "QLES1-Looked Forward to Course Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Looked forward to getting to work on the course/class work?",
+            "identifier": "C130663",
+            "notation": "QLES155",
+            "pref_label": "Q-LES-Q - Looked Forward to Course Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130663"
+        },
+        {
+            "alt_label": "QLES1-Course/Class Work Without Stress",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Dealt with the course/class work without undue stress?",
+            "identifier": "C130664",
+            "notation": "QLES156",
+            "pref_label": "Q-LES-Q - Dealt With Course or Class Work Without Stress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130664"
+        },
+        {
+            "alt_label": "QLES1-Thought Clearly About Course Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Thought clearly about the course/class work?",
+            "identifier": "C130665",
+            "notation": "QLES157",
+            "pref_label": "Q-LES-Q - Thought Clearly About Course Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130665"
+        },
+        {
+            "alt_label": "QLES1-Decisive About Course Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Been decisive about the course/class work when needed?",
+            "identifier": "C130666",
+            "notation": "QLES158",
+            "pref_label": "Q-LES-Q - Decisive About Course Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130666"
+        },
+        {
+            "alt_label": "QLES1-Pleased With Course Accomplishment",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Been pleased with your course/class work accomplishments?",
+            "identifier": "C130667",
+            "notation": "QLES159",
+            "pref_label": "Q-LES-Q - Pleased With Course Accomplishment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130667"
+        },
+        {
+            "alt_label": "QLES1-Interested in Your Course Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Been interested in your course/class work?",
+            "identifier": "C130668",
+            "notation": "QLES160",
+            "pref_label": "Q-LES-Q - Interested in Your Course Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130668"
+        },
+        {
+            "alt_label": "QLES1-Concentrated on Course Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Concentrated on the course/class work?",
+            "identifier": "C130669",
+            "notation": "QLES161",
+            "pref_label": "Q-LES-Q - Concentrated on Course Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130669"
+        },
+        {
+            "alt_label": "QLES1-Felt Good Doing Course Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Felt good while doing your course/class work?",
+            "identifier": "C130670",
+            "notation": "QLES162",
+            "pref_label": "Q-LES-Q - Felt Good Doing Course Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130670"
+        },
+        {
+            "alt_label": "QLES1-Communicated With Ease at Course",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how much of the time have you: Communicated and interacted with ease with others at your course/class?",
+            "identifier": "C130671",
+            "notation": "QLES163",
+            "pref_label": "Q-LES-Q - Communicated With Ease at Course",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130671"
+        },
+        {
+            "alt_label": "QLES1-Use Time for a Leisure Activity",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - When you had time, how often did you use that time for a leisure time activity?",
+            "identifier": "C130672",
+            "notation": "QLES164",
+            "pref_label": "Q-LES-Q - Use Time for a Leisure Activity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130672"
+        },
+        {
+            "alt_label": "QLES1-Enjoy the Leisure Activities",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - How often did you enjoy the leisure activities?",
+            "identifier": "C130673",
+            "notation": "QLES165",
+            "pref_label": "Q-LES-Q - Enjoy the Leisure Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130673"
+        },
+        {
+            "alt_label": "QLES1-Look Forward to Leisure Activities",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - How often did you look forward to the leisure activities before spending time at them?",
+            "identifier": "C130674",
+            "notation": "QLES166",
+            "pref_label": "Q-LES-Q - Look Forward to Leisure Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130674"
+        },
+        {
+            "alt_label": "QLES1-Concentrate on Leisure Activities",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - How often did you concentrate on the leisure activities and pay attention to them?",
+            "identifier": "C130675",
+            "notation": "QLES167",
+            "pref_label": "Q-LES-Q - Concentrate on Leisure Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130675"
+        },
+        {
+            "alt_label": "QLES1-Solve or Deal Without Undue Stress",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - If a problem arose in your leisure activities, how often did you solve it or deal with it without undue stress?",
+            "identifier": "C130676",
+            "notation": "QLES168",
+            "pref_label": "Q-LES-Q - Solve or Deal Without Undue Stress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130676"
+        },
+        {
+            "alt_label": "QLES1-Leisure Activity Sustain Interest",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - How often did the leisure activities sustain your interest?",
+            "identifier": "C130677",
+            "notation": "QLES169",
+            "pref_label": "Q-LES-Q - Leisure Activity Sustain Interest",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130677"
+        },
+        {
+            "alt_label": "QLES1-Enjoyed Being With Friends",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how often have you: Enjoyed talking with or being with friends or relatives?",
+            "identifier": "C130678",
+            "notation": "QLES170",
+            "pref_label": "Q-LES-Q - Enjoyed Being With Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130678"
+        },
+        {
+            "alt_label": "QLES1-Getting Together With Friends",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how often have you: Looked forward to getting together with friends or relatives?",
+            "identifier": "C130679",
+            "notation": "QLES171",
+            "pref_label": "Q-LES-Q - Getting Together With Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130679"
+        },
+        {
+            "alt_label": "QLES1-Made Social Plans With Friends",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how often have you: Made social plans with friends or relatives for future activities?",
+            "identifier": "C130680",
+            "notation": "QLES172",
+            "pref_label": "Q-LES-Q - Made Social Plans With Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130680"
+        },
+        {
+            "alt_label": "QLES1-Enjoyed Talking With Co-workers",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how often have you: Enjoyed talking with co-workers or neighbors?",
+            "identifier": "C130681",
+            "notation": "QLES173",
+            "pref_label": "Q-LES-Q - Enjoyed Talking With Co-workers",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130681"
+        },
+        {
+            "alt_label": "QLES1-Patient With Others",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how often have you: Been patient with others when others were irritating in their actions or words?",
+            "identifier": "C130682",
+            "notation": "QLES174",
+            "pref_label": "Q-LES-Q - Patient With Others",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130682"
+        },
+        {
+            "alt_label": "QLES1-Interested in Problems of People",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how often have you: Been interested in the problems of other people?",
+            "identifier": "C130683",
+            "notation": "QLES175",
+            "pref_label": "Q-LES-Q - Interested in Problems of People",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130683"
+        },
+        {
+            "alt_label": "QLES1-Felt Affection Toward People",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how often have you: Felt affection toward one or more people?",
+            "identifier": "C130684",
+            "notation": "QLES176",
+            "pref_label": "Q-LES-Q - Felt Affection Toward People",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130684"
+        },
+        {
+            "alt_label": "QLES1-Gotten Along Well With People",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how often have you: Gotten along well with other people?",
+            "identifier": "C130685",
+            "notation": "QLES177",
+            "pref_label": "Q-LES-Q - Gotten Along Well With People",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130685"
+        },
+        {
+            "alt_label": "QLES1-Joked or Laughed With Other People",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how often have you: Joked or laughed with other people?",
+            "identifier": "C130686",
+            "notation": "QLES178",
+            "pref_label": "Q-LES-Q - Joked or Laughed With Other People",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130686"
+        },
+        {
+            "alt_label": "QLES1-Met Needs of Friends or Relatives",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how often have you: Felt you met the needs of friends or relatives?",
+            "identifier": "C130687",
+            "notation": "QLES179",
+            "pref_label": "Q-LES-Q - Met Needs of Friends or Relatives",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130687"
+        },
+        {
+            "alt_label": "QLES1-Relationships Without Problems",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - During the past week how often have you: Felt your relationships with your friends or relatives were without major problems or conflicts?",
+            "identifier": "C130688",
+            "notation": "QLES180",
+            "pref_label": "Q-LES-Q - Relationships Without Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130688"
+        },
+        {
+            "alt_label": "QLES1-Physical Health",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Physical health?",
+            "identifier": "C130689",
+            "notation": "QLES181",
+            "pref_label": "Q-LES-Q - Physical Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130689"
+        },
+        {
+            "alt_label": "QLES1-Mood",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Mood?",
+            "identifier": "C130690",
+            "notation": "QLES182",
+            "pref_label": "Q-LES-Q - Mood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130690"
+        },
+        {
+            "alt_label": "QLES1-Work",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Work?",
+            "identifier": "C130691",
+            "notation": "QLES183",
+            "pref_label": "Q-LES-Q - Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130691"
+        },
+        {
+            "alt_label": "QLES1-Household Activities",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Household activities?",
+            "identifier": "C130692",
+            "notation": "QLES184",
+            "pref_label": "Q-LES-Q - Household Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130692"
+        },
+        {
+            "alt_label": "QLES1-Social Relationships",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Social relationships?",
+            "identifier": "C130693",
+            "notation": "QLES185",
+            "pref_label": "Q-LES-Q - Social Relationships",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130693"
+        },
+        {
+            "alt_label": "QLES1-Family Relationships",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Family relationships?",
+            "identifier": "C130694",
+            "notation": "QLES186",
+            "pref_label": "Q-LES-Q - Family Relationships",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130694"
+        },
+        {
+            "alt_label": "QLES1-Leisure Time Activities",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Leisure time activities?",
+            "identifier": "C130695",
+            "notation": "QLES187",
+            "pref_label": "Q-LES-Q - Leisure Time Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130695"
+        },
+        {
+            "alt_label": "QLES1-Ability to Function in Daily Life",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Ability to function in daily life?",
+            "identifier": "C130696",
+            "notation": "QLES188",
+            "pref_label": "Q-LES-Q - Ability to Function in Daily Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130696"
+        },
+        {
+            "alt_label": "QLES1-Sex Drive, Interest, Performance",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Sexual drive, interest and/or performance?",
+            "identifier": "C130697",
+            "notation": "QLES189",
+            "pref_label": "Q-LES-Q - Sex Drive, Interest, Performance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130697"
+        },
+        {
+            "alt_label": "QLES1-Economic Status",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Economic status?",
+            "identifier": "C130698",
+            "notation": "QLES190",
+            "pref_label": "Q-LES-Q - Economic Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130698"
+        },
+        {
+            "alt_label": "QLES1-Living/Housing Situation",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Living/housing situation?",
+            "identifier": "C130699",
+            "notation": "QLES191",
+            "pref_label": "Q-LES-Q - Living or Housing Situation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130699"
+        },
+        {
+            "alt_label": "QLES1-Ability to Get Around Physically",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Ability to get around physically without feeling dizzy or unsteady or falling?",
+            "identifier": "C130700",
+            "notation": "QLES192",
+            "pref_label": "Q-LES-Q - Ability to Get Around Physically",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130700"
+        },
+        {
+            "alt_label": "QLES1-Vision Ability to Do Work/Hobbies",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: your vision in terms of ability to do work or hobbies?",
+            "identifier": "C130701",
+            "notation": "QLES193",
+            "pref_label": "Q-LES-Q - Vision Ability to Do Work or Hobbies",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130701"
+        },
+        {
+            "alt_label": "QLES1-Overall Sense of Well Being",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Overall sense of well being?",
+            "identifier": "C130702",
+            "notation": "QLES194",
+            "pref_label": "Q-LES-Q - Overall Sense of Well Being",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130702"
+        },
+        {
+            "alt_label": "QLES1-Medication",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - Taking everything into consideration, during the past week how satisfied have you been with your: Medication?",
+            "identifier": "C130703",
+            "notation": "QLES195",
+            "pref_label": "Q-LES-Q - Medication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130703"
+        },
+        {
+            "alt_label": "QLES1-Rate Overall Life Satisfaction",
+            "definition": "Quality Of Life Enjoyment And Satisfaction Questionnaire - How would you rate your overall life satisfaction and contentment during the past week?",
+            "identifier": "C130704",
+            "notation": "QLES196",
+            "pref_label": "Q-LES-Q - Rate Overall Life Satisfaction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130265-C130704"
+        }
+    ]
+}

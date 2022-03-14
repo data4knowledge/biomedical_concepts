@@ -1,0 +1,75 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Marriage contract has been declared null and to not have existed. (HL7)",
+            "identifier": "C76240",
+            "notation": "ANNULLED",
+            "pref_label": "Annulled",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C76240"
+        },
+        {
+            "definition": "Marriage contract has been declared dissolved and inactive. (HL7)",
+            "identifier": "C51776",
+            "notation": "DIVORCED",
+            "pref_label": "Divorced",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C51776"
+        },
+        {
+            "alt_label": "Domestic Partner",
+            "definition": "Person declares that a domestic partnership relationship exists. (HL7)",
+            "identifier": "C53262",
+            "notation": "DOMESTIC PARTNER",
+            "pref_label": "Domestic Partnership",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C53262"
+        },
+        {
+            "definition": "Temporary order issued during the course of litigation. (HL7)",
+            "identifier": "C76241",
+            "notation": "INTERLOCUTORY",
+            "pref_label": "Interlocutory Marital Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C76241"
+        },
+        {
+            "definition": "A person living apart from his/her spouse by legal arrangement. (HL7)",
+            "identifier": "C51777",
+            "notation": "LEGALLY SEPARATED",
+            "pref_label": "Legally Separated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C51777"
+        },
+        {
+            "definition": "A current marriage contract is active. (HL7)",
+            "identifier": "C51773",
+            "notation": "MARRIED",
+            "pref_label": "Married",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C51773"
+        },
+        {
+            "definition": "No marriage contract has ever been entered. (HL7)",
+            "identifier": "C51774",
+            "notation": "NEVER MARRIED",
+            "pref_label": "Never Married",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C51774"
+        },
+        {
+            "definition": "More than 1 current spouse. (HL7)",
+            "identifier": "C76242",
+            "notation": "POLYGAMOUS",
+            "pref_label": "Polygamous",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C76242"
+        },
+        {
+            "definition": "A person who is separated from their spouse, whether or not there is a legal arrangement.",
+            "identifier": "C156541",
+            "notation": "SEPARATED",
+            "pref_label": "Separated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C156541"
+        },
+        {
+            "definition": "The spouse has died. (HL7)",
+            "identifier": "C51775",
+            "notation": "WIDOWED",
+            "pref_label": "Widowed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C51775"
+        }
+    ]
+}

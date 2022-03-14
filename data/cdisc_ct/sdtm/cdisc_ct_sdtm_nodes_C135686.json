@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CGI02-Severity",
+            "definition": "Clinical Global Impression - Considering your total clinical experience with this particular population, how severe is the subject's condition at this time?",
+            "identifier": "C135814",
+            "notation": "CGI0201",
+            "pref_label": "CGI Generic Modification Version - Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135686-C135814"
+        },
+        {
+            "alt_label": "CGI02-Change",
+            "definition": "Clinical Global Impression - Rate total change whether or not, in your judgement, it is due entirely to drug treatment. Compared to the subject's condition <at previously assessed protocol specified time point>, how much has the subject changed?",
+            "identifier": "C135815",
+            "notation": "CGI0202",
+            "pref_label": "CGI Generic Modification Version - Change",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135686-C135815"
+        },
+        {
+            "alt_label": "CGI02-Improvement",
+            "definition": "Clinical Global Impression - Rate total improvement whether or not, in your judgement, it is due entirely to drug treatment. Compared to the subject's condition <at previously assessed protocol specified time point>, how much has the subject improved?",
+            "identifier": "C135816",
+            "notation": "CGI0203",
+            "pref_label": "CGI Generic Modification Version - Improvement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135686-C135816"
+        }
+    ]
+}

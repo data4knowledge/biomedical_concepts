@@ -1,0 +1,548 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "EMO1-Anger Responded as Anger",
+            "definition": "Emotion Recognition - Number of anger stimuli responded to as anger.",
+            "identifier": "C150939",
+            "notation": "EMO1-Anger Responded as Anger",
+            "pref_label": "ERT - Anger Responded as Anger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150939"
+        },
+        {
+            "alt_label": "EMO1-Anger Responded as Disgust",
+            "definition": "Emotion Recognition - Number of anger stimuli responded to as disgust.",
+            "identifier": "C150940",
+            "notation": "EMO1-Anger Responded as Disgust",
+            "pref_label": "ERT - Anger Responded as Disgust",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150940"
+        },
+        {
+            "alt_label": "EMO1-Anger Responded as Fear",
+            "definition": "Emotion Recognition - Number of anger stimuli responded to as fear.",
+            "identifier": "C150941",
+            "notation": "EMO1-Anger Responded as Fear",
+            "pref_label": "ERT - Anger Responded as Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150941"
+        },
+        {
+            "alt_label": "EMO1-Anger Responded as Happiness",
+            "definition": "Emotion Recognition - Number of anger stimuli responded to as happiness.",
+            "identifier": "C150942",
+            "notation": "EMO1-Anger Responded as Happiness",
+            "pref_label": "ERT - Anger Responded as Happiness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150942"
+        },
+        {
+            "alt_label": "EMO1-Anger Responded as Neutral",
+            "definition": "Emotion Recognition - Number of anger stimuli responded to as neutral.",
+            "identifier": "C150943",
+            "notation": "EMO1-Anger Responded as Neutral",
+            "pref_label": "ERT - Anger Responded as Neutral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150943"
+        },
+        {
+            "alt_label": "EMO1-Anger Responded as Sadness",
+            "definition": "Emotion Recognition - Number of anger stimuli responded to as sadness.",
+            "identifier": "C150944",
+            "notation": "EMO1-Anger Responded as Sadness",
+            "pref_label": "ERT - Anger Responded as Sadness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150944"
+        },
+        {
+            "alt_label": "EMO1-Anger Responded as Surprise",
+            "definition": "Emotion Recognition - Number of anger stimuli responded to as surprise.",
+            "identifier": "C150945",
+            "notation": "EMO1-Anger Responded as Surprise",
+            "pref_label": "ERT - Anger Responded as Surprise",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150945"
+        },
+        {
+            "alt_label": "EMO1-Disgust Responded as Anger",
+            "definition": "Emotion Recognition - Number of disgust stimuli responded to as anger.",
+            "identifier": "C150947",
+            "notation": "EMO1-Disgust Responded as Anger",
+            "pref_label": "ERT - Disgust Responded as Anger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150947"
+        },
+        {
+            "alt_label": "EMO1-Disgust Responded as Disgust",
+            "definition": "Emotion Recognition - Number of disgust stimuli responded to as disgust.",
+            "identifier": "C150948",
+            "notation": "EMO1-Disgust Responded as Disgust",
+            "pref_label": "ERT - Disgust Responded as Disgust",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150948"
+        },
+        {
+            "alt_label": "EMO1-Disgust Responded as Fear",
+            "definition": "Emotion Recognition - Number of disgust stimuli responded to as fear.",
+            "identifier": "C150949",
+            "notation": "EMO1-Disgust Responded as Fear",
+            "pref_label": "ERT - Disgust Responded as Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150949"
+        },
+        {
+            "alt_label": "EMO1-Disgust Responded as Happiness",
+            "definition": "Emotion Recognition - Number of disgust stimuli responded to as happiness.",
+            "identifier": "C150950",
+            "notation": "EMO1-Disgust Responded as Happiness",
+            "pref_label": "ERT - Disgust Responded as Happiness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150950"
+        },
+        {
+            "alt_label": "EMO1-Disgust Responded as Neutral",
+            "definition": "Emotion Recognition - Number of disgust stimuli responded to as neutral.",
+            "identifier": "C150951",
+            "notation": "EMO1-Disgust Responded as Neutral",
+            "pref_label": "ERT - Disgust Responded as Neutral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150951"
+        },
+        {
+            "alt_label": "EMO1-Disgust Responded as Sadness",
+            "definition": "Emotion Recognition - Number of disgust stimuli responded to as sadness.",
+            "identifier": "C150952",
+            "notation": "EMO1-Disgust Responded as Sadness",
+            "pref_label": "ERT - Disgust Responded as Sadness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150952"
+        },
+        {
+            "alt_label": "EMO1-Disgust Responded as Surprise",
+            "definition": "Emotion Recognition - Number of disgust stimuli responded to as surprise.",
+            "identifier": "C150953",
+            "notation": "EMO1-Disgust Responded as Surprise",
+            "pref_label": "ERT - Disgust Responded as Surprise",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150953"
+        },
+        {
+            "alt_label": "EMO1-Fear Responded as Anger",
+            "definition": "Emotion Recognition - Number of fear stimuli responded to as anger.",
+            "identifier": "C150955",
+            "notation": "EMO1-Fear Responded as Anger",
+            "pref_label": "ERT - Fear Responded as Anger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150955"
+        },
+        {
+            "alt_label": "EMO1-Fear Responded as Disgust",
+            "definition": "Emotion Recognition - Number of fear stimuli responded to as disgust.",
+            "identifier": "C150956",
+            "notation": "EMO1-Fear Responded as Disgust",
+            "pref_label": "ERT - Fear Responded as Disgust",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150956"
+        },
+        {
+            "alt_label": "EMO1-Fear Responded as Fear",
+            "definition": "Emotion Recognition - Number of fear stimuli responded to as fear.",
+            "identifier": "C150957",
+            "notation": "EMO1-Fear Responded as Fear",
+            "pref_label": "ERT - Fear Responded as Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150957"
+        },
+        {
+            "alt_label": "EMO1-Fear Responded as Happiness",
+            "definition": "Emotion Recognition - Number of fear stimuli responded to as happiness.",
+            "identifier": "C150958",
+            "notation": "EMO1-Fear Responded as Happiness",
+            "pref_label": "ERT - Fear Responded as Happiness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150958"
+        },
+        {
+            "alt_label": "EMO1-Fear Responded as Neutral",
+            "definition": "Emotion Recognition - Number of fear stimuli responded to as neutral.",
+            "identifier": "C150959",
+            "notation": "EMO1-Fear Responded as Neutral",
+            "pref_label": "ERT - Fear Responded as Neutral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150959"
+        },
+        {
+            "alt_label": "EMO1-Fear Responded as Sadness",
+            "definition": "Emotion Recognition - Number of fear stimuli responded to as sadness.",
+            "identifier": "C150960",
+            "notation": "EMO1-Fear Responded as Sadness",
+            "pref_label": "ERT - Fear Responded as Sadness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150960"
+        },
+        {
+            "alt_label": "EMO1-Fear Responded as Surprise",
+            "definition": "Emotion Recognition - Number of fear stimuli responded to as surprise.",
+            "identifier": "C150961",
+            "notation": "EMO1-Fear Responded as Surprise",
+            "pref_label": "ERT - Fear Responded as Surprise",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150961"
+        },
+        {
+            "alt_label": "EMO1-Happiness Responded as Anger",
+            "definition": "Emotion Recognition - Number of happiness stimuli responded to as anger.",
+            "identifier": "C150963",
+            "notation": "EMO1-Happiness Responded as Anger",
+            "pref_label": "ERT - Happiness Responded as Anger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150963"
+        },
+        {
+            "alt_label": "EMO1-Happiness Responded as Disgust",
+            "definition": "Emotion Recognition - Number of happiness stimuli responded to as disgust.",
+            "identifier": "C150964",
+            "notation": "EMO1-Happiness Responded as Disgust",
+            "pref_label": "ERT - Happiness Responded as Disgust",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150964"
+        },
+        {
+            "alt_label": "EMO1-Happiness Responded as Fear",
+            "definition": "Emotion Recognition - Number of happiness stimuli responded to as fear.",
+            "identifier": "C150965",
+            "notation": "EMO1-Happiness Responded as Fear",
+            "pref_label": "ERT - Happiness Responded as Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150965"
+        },
+        {
+            "alt_label": "EMO1-Happiness Responded as Happiness",
+            "definition": "Emotion Recognition - Number of happiness stimuli responded to as happiness.",
+            "identifier": "C150966",
+            "notation": "EMO1-Happiness Responded as Happiness",
+            "pref_label": "ERT - Happiness Responded as Happiness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150966"
+        },
+        {
+            "alt_label": "EMO1-Happiness Responded as Neutral",
+            "definition": "Emotion Recognition - Number of happiness stimuli responded to as neutral.",
+            "identifier": "C150967",
+            "notation": "EMO1-Happiness Responded as Neutral",
+            "pref_label": "ERT - Happiness Responded as Neutral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150967"
+        },
+        {
+            "alt_label": "EMO1-Happiness Responded as Sadness",
+            "definition": "Emotion Recognition - Number of happiness stimuli responded to as sadness.",
+            "identifier": "C150968",
+            "notation": "EMO1-Happiness Responded as Sadness",
+            "pref_label": "ERT - Happiness Responded as Sadness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150968"
+        },
+        {
+            "alt_label": "EMO1-Happiness Responded as Surprise",
+            "definition": "Emotion Recognition - Number of happiness stimuli responded to as surprise.",
+            "identifier": "C150969",
+            "notation": "EMO1-Happiness Responded as Surprise",
+            "pref_label": "ERT - Happiness Responded as Surprise",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150969"
+        },
+        {
+            "alt_label": "EMO1-Neutral Responded as Anger",
+            "definition": "Emotion Recognition - Number of neutral stimuli responded to as anger.",
+            "identifier": "C150971",
+            "notation": "EMO1-Neutral Responded as Anger",
+            "pref_label": "ERT - Neutral Responded as Anger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150971"
+        },
+        {
+            "alt_label": "EMO1-Neutral Responded as Disgust",
+            "definition": "Emotion Recognition - Number of neutral stimuli responded to as disgust.",
+            "identifier": "C150972",
+            "notation": "EMO1-Neutral Responded as Disgust",
+            "pref_label": "ERT - Neutral Responded as Disgust",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150972"
+        },
+        {
+            "alt_label": "EMO1-Neutral Responded as Fear",
+            "definition": "Emotion Recognition - Number of neutral stimuli responded to as fear.",
+            "identifier": "C150973",
+            "notation": "EMO1-Neutral Responded as Fear",
+            "pref_label": "ERT - Neutral Responded as Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150973"
+        },
+        {
+            "alt_label": "EMO1-Neutral Responded as Happiness",
+            "definition": "Emotion Recognition - Number of neutral stimuli responded to as happiness.",
+            "identifier": "C150974",
+            "notation": "EMO1-Neutral Responded as Happiness",
+            "pref_label": "ERT - Neutral Responded as Happiness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150974"
+        },
+        {
+            "alt_label": "EMO1-Neutral Responded as Neutral",
+            "definition": "Emotion Recognition - Number of neutral stimuli responded to as neutral.",
+            "identifier": "C150975",
+            "notation": "EMO1-Neutral Responded as Neutral",
+            "pref_label": "ERT - Neutral Responded as Neutral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150975"
+        },
+        {
+            "alt_label": "EMO1-Neutral Responded as Sadness",
+            "definition": "Emotion Recognition - Number of neutral stimuli responded to as sadness.",
+            "identifier": "C150976",
+            "notation": "EMO1-Neutral Responded as Sadness",
+            "pref_label": "ERT - Neutral Responded as Sadness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150976"
+        },
+        {
+            "alt_label": "EMO1-Neutral Responded as Surprise",
+            "definition": "Emotion Recognition - Number of neutral stimuli responded to as surprise.",
+            "identifier": "C150977",
+            "notation": "EMO1-Neutral Responded as Surprise",
+            "pref_label": "ERT - Neutral Responded as Surprise",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150977"
+        },
+        {
+            "alt_label": "EMO1-Number Stimuli Portraying Anger",
+            "definition": "Emotion Recognition - Number of stimuli defined as portraying anger.",
+            "identifier": "C150938",
+            "notation": "EMO1-Number Stimuli Portraying Anger",
+            "pref_label": "ERT - Number Stimuli Portraying Anger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150938"
+        },
+        {
+            "alt_label": "EMO1-Number Stimuli Portraying Disgust",
+            "definition": "Emotion Recognition - Number of stimuli defined as portraying disgust.",
+            "identifier": "C150946",
+            "notation": "EMO1-Number Stimuli Portraying Disgust",
+            "pref_label": "ERT - Number Stimuli Portraying Disgust",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150946"
+        },
+        {
+            "alt_label": "EMO1-Number Stimuli Portraying Fear",
+            "definition": "Emotion Recognition - Number of stimuli defined as portraying fear.",
+            "identifier": "C150954",
+            "notation": "EMO1-Number Stimuli Portraying Fear",
+            "pref_label": "ERT - Number Stimuli Portraying Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150954"
+        },
+        {
+            "alt_label": "EMO1-Number Stimuli Portraying Happiness",
+            "definition": "Emotion Recognition - Number of stimuli defined as portraying happiness.",
+            "identifier": "C150962",
+            "notation": "EMO1-Number Stimuli Portraying Happiness",
+            "pref_label": "ERT - Number Stimuli Portraying Happiness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150962"
+        },
+        {
+            "alt_label": "EMO1-Number Stimuli Portraying Neutral",
+            "definition": "Emotion Recognition - Number of stimuli defined as portraying a neutral expression.",
+            "identifier": "C150970",
+            "notation": "EMO1-Number Stimuli Portraying Neutral",
+            "pref_label": "ERT - Number Stimuli Portraying Neutral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150970"
+        },
+        {
+            "alt_label": "EMO1-Number Stimuli Portraying Sadness",
+            "definition": "Emotion Recognition - Number of stimuli defined as portraying sadness.",
+            "identifier": "C150978",
+            "notation": "EMO1-Number Stimuli Portraying Sadness",
+            "pref_label": "ERT - Number Stimuli Portraying Sadness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150978"
+        },
+        {
+            "alt_label": "EMO1-Number Stimuli Portraying Surprise",
+            "definition": "Emotion Recognition - Number of stimuli defined as portraying surprise.",
+            "identifier": "C150986",
+            "notation": "EMO1-Number Stimuli Portraying Surprise",
+            "pref_label": "ERT - Number Stimuli Portraying Surprise",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150986"
+        },
+        {
+            "alt_label": "EMO1-Sadness Responded as Anger",
+            "definition": "Emotion Recognition - Number of sadness stimuli responded to as anger.",
+            "identifier": "C150979",
+            "notation": "EMO1-Sadness Responded as Anger",
+            "pref_label": "ERT - Sadness Responded as Anger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150979"
+        },
+        {
+            "alt_label": "EMO1-Sadness Responded as Disgust",
+            "definition": "Emotion Recognition - Number of sadness stimuli responded to as disgust.",
+            "identifier": "C150980",
+            "notation": "EMO1-Sadness Responded as Disgust",
+            "pref_label": "ERT - Sadness Responded as Disgust",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150980"
+        },
+        {
+            "alt_label": "EMO1-Sadness Responded as Fear",
+            "definition": "Emotion Recognition - Number of sadness stimuli responded to as fear.",
+            "identifier": "C150981",
+            "notation": "EMO1-Sadness Responded as Fear",
+            "pref_label": "ERT - Sadness Responded as Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150981"
+        },
+        {
+            "alt_label": "EMO1-Sadness Responded as Happiness",
+            "definition": "Emotion Recognition - Number of sadness stimuli responded to as happiness.",
+            "identifier": "C150982",
+            "notation": "EMO1-Sadness Responded as Happiness",
+            "pref_label": "ERT - Sadness Responded as Happiness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150982"
+        },
+        {
+            "alt_label": "EMO1-Sadness Responded as Neutral",
+            "definition": "Emotion Recognition - Number of sadness stimuli responded to as neutral.",
+            "identifier": "C150983",
+            "notation": "EMO1-Sadness Responded as Neutral",
+            "pref_label": "ERT - Sadness Responded as Neutral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150983"
+        },
+        {
+            "alt_label": "EMO1-Sadness Responded as Sadness",
+            "definition": "Emotion Recognition - Number of sadness stimuli responded to as sadness.",
+            "identifier": "C150984",
+            "notation": "EMO1-Sadness Responded as Sadness",
+            "pref_label": "ERT - Sadness Responded as Sadness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150984"
+        },
+        {
+            "alt_label": "EMO1-Sadness Responded as Surprise",
+            "definition": "Emotion Recognition - Number of sadness stimuli responded to as surprise.",
+            "identifier": "C150985",
+            "notation": "EMO1-Sadness Responded as Surprise",
+            "pref_label": "ERT - Sadness Responded as Surprise",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150985"
+        },
+        {
+            "alt_label": "EMO1-Surprise Responded as Anger",
+            "definition": "Emotion Recognition - Number of surprise stimuli responded to as anger.",
+            "identifier": "C150987",
+            "notation": "EMO1-Surprise Responded as Anger",
+            "pref_label": "ERT - Surprise Responded as Anger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150987"
+        },
+        {
+            "alt_label": "EMO1-Surprise Responded as Disgust",
+            "definition": "Emotion Recognition - Number of surprise stimuli responded to as disgust.",
+            "identifier": "C150988",
+            "notation": "EMO1-Surprise Responded as Disgust",
+            "pref_label": "ERT - Surprise Responded as Disgust",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150988"
+        },
+        {
+            "alt_label": "EMO1-Surprise Responded as Fear",
+            "definition": "Emotion Recognition - Number of surprise stimuli responded to as fear.",
+            "identifier": "C150989",
+            "notation": "EMO1-Surprise Responded as Fear",
+            "pref_label": "ERT - Surprise Responded as Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150989"
+        },
+        {
+            "alt_label": "EMO1-Surprise Responded as Happiness",
+            "definition": "Emotion Recognition - Number of surprise stimuli responded to as happiness.",
+            "identifier": "C150990",
+            "notation": "EMO1-Surprise Responded as Happiness",
+            "pref_label": "ERT - Surprise Responded as Happiness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150990"
+        },
+        {
+            "alt_label": "EMO1-Surprise Responded as Neutral",
+            "definition": "Emotion Recognition - Number of surprise stimuli responded to as neutral.",
+            "identifier": "C150991",
+            "notation": "EMO1-Surprise Responded as Neutral",
+            "pref_label": "ERT - Surprise Responded as Neutral",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150991"
+        },
+        {
+            "alt_label": "EMO1-Surprise Responded as Sadness",
+            "definition": "Emotion Recognition - Number of surprise stimuli responded to as sadness.",
+            "identifier": "C150992",
+            "notation": "EMO1-Surprise Responded as Sadness",
+            "pref_label": "ERT - Surprise Responded as Sadness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150992"
+        },
+        {
+            "alt_label": "EMO1-Surprise Responded as Surprise",
+            "definition": "Emotion Recognition - Number of surprise stimuli responded to as surprise.",
+            "identifier": "C150993",
+            "notation": "EMO1-Surprise Responded as Surprise",
+            "pref_label": "ERT - Surprise Responded as Surprise",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150993"
+        },
+        {
+            "alt_label": "EMO1-Total Negative Stimuli Administered",
+            "definition": "Emotion Recognition - Total number of negative emotion stimuli (face images) actually administered in the task.",
+            "identifier": "C150933",
+            "notation": "EMO1-Total Negative Stimuli Administered",
+            "pref_label": "ERT - Total Negative Stimuli Administered",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150933"
+        },
+        {
+            "alt_label": "EMO1-Total Negative Stimuli Completed",
+            "definition": "Emotion Recognition - Total number of negative emotion stimuli (face images) actually completed in the task.",
+            "identifier": "C150934",
+            "notation": "EMO1-Total Negative Stimuli Completed",
+            "pref_label": "ERT - Total Negative Stimuli Completed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150934"
+        },
+        {
+            "alt_label": "EMO1-Total Negative Stimuli Correct",
+            "definition": "Emotion Recognition - Total number of negative emotion stimuli (face images) for which the participant's response was correct.",
+            "identifier": "C150935",
+            "notation": "EMO1-Total Negative Stimuli Correct",
+            "pref_label": "ERT - Total Negative Stimuli Correct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150935"
+        },
+        {
+            "alt_label": "EMO1-Total Negative Stimuli Expected",
+            "definition": "Emotion Recognition - Total number of negative emotion stimuli (face images) expected to be administered in the task.",
+            "identifier": "C150932",
+            "notation": "EMO1-Total Negative Stimuli Expected",
+            "pref_label": "ERT - Total Negative Stimuli Expected",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150932"
+        },
+        {
+            "alt_label": "EMO1-Total Negative Stimuli Incorrect",
+            "definition": "Emotion Recognition - Total number of negative emotion stimuli (face images) for which the participant's response was incorrect.",
+            "identifier": "C150936",
+            "notation": "EMO1-Total Negative Stimuli Incorrect",
+            "pref_label": "ERT - Total Negative Stimuli Incorrect",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150936"
+        },
+        {
+            "alt_label": "EMO1-Total Negative Stimuli Not Respond",
+            "definition": "Emotion Recognition - Total number of negative emotion stimuli (face images) for which the participant has not responded.",
+            "identifier": "C150937",
+            "notation": "EMO1-Total Negative Stimuli Not Respond",
+            "pref_label": "ERT - Total Negative Stimuli Not Respond",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150937"
+        },
+        {
+            "alt_label": "EMO1-Total Stimuli Administered",
+            "definition": "Emotion Recognition - Total number of stimuli (face images) actually administered in the task.",
+            "identifier": "C150927",
+            "notation": "EMO1-Total Stimuli Administered",
+            "pref_label": "ERT - Total Stimuli Administered",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150927"
+        },
+        {
+            "alt_label": "EMO1-Total Stimuli Completed",
+            "definition": "Emotion Recognition - Total number of stimuli (face images) actually completed in the task.",
+            "identifier": "C150928",
+            "notation": "EMO1-Total Stimuli Completed",
+            "pref_label": "ERT - Total Stimuli Completed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150928"
+        },
+        {
+            "alt_label": "EMO1-Total Stimuli Expected",
+            "definition": "Emotion Recognition - Total number of stimuli (face images) expected to be administered in the task.",
+            "identifier": "C150926",
+            "notation": "EMO1-Total Stimuli Expected",
+            "pref_label": "ERT - Total Stimuli Expected",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150926"
+        },
+        {
+            "alt_label": "EMO1-Total Stimuli Not Responded",
+            "definition": "Emotion Recognition - Total number of stimuli (face images) for which the participant has not responded.",
+            "identifier": "C150931",
+            "notation": "EMO1-Total Stimuli Not Responded",
+            "pref_label": "ERT - Total Stimuli Not Responded",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150931"
+        },
+        {
+            "alt_label": "EMO1-Total Stimuli Response Correct",
+            "definition": "Emotion Recognition - Total number of stimuli (face images) for which the participant's response was correct.",
+            "identifier": "C150929",
+            "notation": "EMO1-Total Stimuli Response Correct",
+            "pref_label": "ERT - Total Stimuli Response Correct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150929"
+        },
+        {
+            "alt_label": "EMO1-Total Stimuli Response Incorrect",
+            "definition": "Emotion Recognition - Total number of stimuli (face images) for which the participant's response was incorrect.",
+            "identifier": "C150930",
+            "notation": "EMO1-Total Stimuli Response Incorrect",
+            "pref_label": "ERT - Total Stimuli Response Incorrect",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150767-C150930"
+        }
+    ]
+}

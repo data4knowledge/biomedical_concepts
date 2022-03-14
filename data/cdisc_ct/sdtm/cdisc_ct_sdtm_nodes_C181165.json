@@ -1,0 +1,47 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The delivery of a breech-presenting fetus, which is manually pulled through the birth canal.",
+            "identifier": "C114136",
+            "notation": "BREECH EXTRACTION",
+            "pref_label": "Breech Extraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181165-C114136"
+        },
+        {
+            "definition": "Surgical delivery of one or more intrauterine fetuses though an abdominal incision.",
+            "identifier": "C46088",
+            "notation": "CESAREAN SECTION",
+            "pref_label": "Cesarean Section",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181165-C46088"
+        },
+        {
+            "definition": "Extraction of a fetus through the cervix using destructive surgical techniques.",
+            "identifier": "C114143",
+            "notation": "DELIVERY BY DESTRUCTIVE OPERATION",
+            "pref_label": "Delivery by Destructive Operation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181165-C114143"
+        },
+        {
+            "alt_label": "Operative Vaginal Delivery",
+            "definition": "Birth of the fetus through the vagina with the application of vacuum or forceps or any other instrument.",
+            "identifier": "C81301",
+            "notation": "VAGINAL ASSISTED DELIVERY",
+            "pref_label": "Vaginal Assisted Delivery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181165-C81301"
+        },
+        {
+            "definition": "A vaginal birth in a woman with one or more previous cesarean births. (reVITALize)",
+            "identifier": "C81302",
+            "notation": "VAGINAL BIRTH AFTER CESAREAN DELIVERY",
+            "pref_label": "Vaginal Birth after Cesarean Delivery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181165-C81302"
+        },
+        {
+            "definition": "Birth of the fetus through the vagina.",
+            "identifier": "C81303",
+            "notation": "VAGINAL DELIVERY",
+            "pref_label": "Vaginal Delivery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181165-C81303"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Alternate Subject Identifier",
+            "definition": "A secondary sequence of characters used to identify a subject.",
+            "identifier": "C173665",
+            "notation": "ALTSID",
+            "pref_label": "Alternate Subject Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C173665"
+        },
+        {
+            "alt_label": "Feeding Regimen",
+            "definition": "A plan that specifies a diet, amount and schedule of nutritional intake.",
+            "identifier": "C90383",
+            "notation": "FEEDREG",
+            "pref_label": "Feeding Regimen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C90383"
+        },
+        {
+            "alt_label": "Hair Coat Color",
+            "definition": "The hue of a subject's hair or fur. (NCI)",
+            "identifier": "C90392",
+            "notation": "HAIRCOLR",
+            "pref_label": "Hair Coat Color",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C90392"
+        },
+        {
+            "alt_label": "Major Histocompatibility Complex Tested Indicator;MHC Tested Indicator",
+            "definition": "An indication as to whether the study subject has had its major histocompatibility complex characterized.",
+            "identifier": "C158347",
+            "notation": "MHCIND",
+            "pref_label": "Major Histocompatibility Complex Tested Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C158347"
+        },
+        {
+            "alt_label": "Neutered Indicator",
+            "definition": "An indication as to whether the animal(s) have been neutered.",
+            "identifier": "C158349",
+            "notation": "NEUTIND",
+            "pref_label": "Neutered Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C158349"
+        },
+        {
+            "alt_label": "Physical Marking",
+            "definition": "A distinctive observable characteristic of an object. (NCI)",
+            "identifier": "C90435",
+            "notation": "PHYMARK",
+            "pref_label": "Physical Marking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C90435"
+        },
+        {
+            "alt_label": "Previous Research Experience Indicator",
+            "definition": "An indication as to whether the study subject has been in a previous study.",
+            "identifier": "C158348",
+            "notation": "PRVRSIND",
+            "pref_label": "Previous Research Experience Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C158348"
+        },
+        {
+            "alt_label": "Sexual Maturity Status",
+            "definition": "The capacity of an organism to reproduce via sexual reproduction.",
+            "identifier": "C158148",
+            "notation": "SEXMATS",
+            "pref_label": "Sexual Maturity Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C158148"
+        },
+        {
+            "alt_label": "Sexual Maturity Status at Neutering",
+            "definition": "A description of the subject's sexual maturity at the time the subject was neutered.",
+            "identifier": "C158346",
+            "notation": "SEXMATSN",
+            "pref_label": "Sexual Maturity Status at Neutering",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C158346"
+        },
+        {
+            "alt_label": "Test Subject Supplier Site",
+            "definition": "The geographic location of the organization that supplied the test subjects.",
+            "identifier": "C90474",
+            "notation": "SPLRLOC",
+            "pref_label": "Test Subject Supplier Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C90474"
+        },
+        {
+            "alt_label": "Test Subject Supplier;Test Subject Supplier Name",
+            "definition": "The name of the organization that supplied the test subjects. (NCI)",
+            "identifier": "C90473",
+            "notation": "SPLRNAM",
+            "pref_label": "Test Subject Supplier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C90473"
+        },
+        {
+            "alt_label": "Telemetered Indicator;Telemeterized Indicator",
+            "definition": "An indication as to whether the subject(s) were telemetered during the study.",
+            "identifier": "C158350",
+            "notation": "TELMIND",
+            "pref_label": "Telemeterized Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C158350"
+        },
+        {
+            "alt_label": "USDA Number",
+            "definition": "Numeric ID assignment by United States Department of Agriculture for test facilities.",
+            "identifier": "C68551",
+            "notation": "USDANUM",
+            "pref_label": "USDA_ID",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89981-C68551"
+        }
+    ]
+}

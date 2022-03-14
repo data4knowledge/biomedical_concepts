@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Hours Imputed: Entire time (hours, minutes and seconds) is imputed.",
+            "identifier": "C81213",
+            "notation": "H",
+            "pref_label": "Hours Minutes Seconds Imputed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81226-C81213"
+        },
+        {
+            "definition": "Minutes Imputed: Minutes and seconds are imputed.",
+            "identifier": "C81214",
+            "notation": "M",
+            "pref_label": "Minutes Seconds Imputed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81226-C81214"
+        },
+        {
+            "definition": "Seconds Imputed: Seconds are imputed.",
+            "identifier": "C81215",
+            "notation": "S",
+            "pref_label": "Seconds Imputed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81226-C81215"
+        }
+    ]
+}

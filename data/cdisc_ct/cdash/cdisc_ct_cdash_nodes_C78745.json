@@ -1,0 +1,68 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "BD;Twice per day",
+            "definition": "Two times per day, at unspecified times. (NCI)",
+            "identifier": "C64496",
+            "notation": "BID",
+            "pref_label": "Twice Daily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78745-C64496"
+        },
+        {
+            "alt_label": "As needed",
+            "definition": "As needed. (NCI)",
+            "identifier": "C64499",
+            "notation": "PRN",
+            "pref_label": "As Needed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78745-C64499"
+        },
+        {
+            "alt_label": "/day;Daily;Per Day",
+            "definition": "A rate of occurrences within a period of time equal to one day.",
+            "identifier": "C25473",
+            "notation": "QD",
+            "pref_label": "Daily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78745-C25473"
+        },
+        {
+            "alt_label": "4 times per day",
+            "definition": "Four times per day. (NCI)",
+            "identifier": "C64530",
+            "notation": "QID",
+            "pref_label": "Four Times Daily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78745-C64530"
+        },
+        {
+            "alt_label": "Every Month;Per Month",
+            "definition": "Every month. (NCI)",
+            "identifier": "C64498",
+            "notation": "QM",
+            "pref_label": "Monthly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78745-C64498"
+        },
+        {
+            "alt_label": "Every other day;Every Second Day;Every Two Days;Q2D",
+            "definition": "Every other day. (NCI)",
+            "identifier": "C64525",
+            "notation": "QOD",
+            "pref_label": "Every Other Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78745-C64525"
+        },
+        {
+            "alt_label": "3 times per day",
+            "definition": "Three times per day. (NCI)",
+            "identifier": "C64527",
+            "notation": "TID",
+            "pref_label": "Three Times Daily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78745-C64527"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78745-C17998"
+        }
+    ]
+}

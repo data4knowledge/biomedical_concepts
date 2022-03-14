@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Studies in which observations or measurements made at a single point in time, usually at subject enrollment. (clinicaltrials.gov)",
+            "identifier": "C53310",
+            "notation": "CROSS SECTIONAL",
+            "pref_label": "Cross-Sectional Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127261-C53310"
+        },
+        {
+            "definition": "Studies that look forward using periodic observations collected predominantly following subject enrollment. (clinicaltrials.gov)",
+            "identifier": "C15273",
+            "notation": "PROSPECTIVE",
+            "pref_label": "Longitudinal Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127261-C15273"
+        },
+        {
+            "definition": "Studies that look back using observations collected predominantly prior to subject selection and enrollment. (clinicaltrials.gov)",
+            "identifier": "C53312",
+            "notation": "RETROSPECTIVE",
+            "pref_label": "Retrospective Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127261-C53312"
+        }
+    ]
+}

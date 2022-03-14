@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The right coronary artery supplies the posterior descending artery and the circumflex supplies the posterolateral branches.",
+            "identifier": "C99941",
+            "notation": "CO-DOMINANT",
+            "pref_label": "Co-Dominant Artery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101860-C99941"
+        },
+        {
+            "definition": "The left circumflex artery supplies the posterior descending artery and the posterolateral branches.",
+            "identifier": "C99971",
+            "notation": "LEFT DOMINANT",
+            "pref_label": "Left Cardiac Artery Dominance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101860-C99971"
+        },
+        {
+            "definition": "The right coronary artery supplies the posterior descending artery and the posterolateral branches.",
+            "identifier": "C99942",
+            "notation": "RIGHT DOMINANT",
+            "pref_label": "Coronary Artery Right Dominance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101860-C99942"
+        }
+    ]
+}

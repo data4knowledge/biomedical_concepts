@@ -1,0 +1,179 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "circRNA",
+            "definition": "A sequence of single-stranded RNA that forms a covalently closed continuous loop.",
+            "identifier": "C181535",
+            "notation": "CIRCULAR RNA",
+            "pref_label": "Circular RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C181535"
+        },
+        {
+            "definition": "Integrated retroviral elements that are transmitted through the germline. (HGNC)",
+            "identifier": "C14334",
+            "notation": "ENDOGENOUS RETROVIRUS",
+            "pref_label": "Endogenous Retrovirus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C14334"
+        },
+        {
+            "definition": "A heritable locus on a chromosome that is prone to DNA breakage. (HGNC)",
+            "identifier": "C13375",
+            "notation": "FRAGILE SITE",
+            "pref_label": "Chromosome Fragile Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C13375"
+        },
+        {
+            "definition": "A protein-coding gene (the protein may be predicted or of unknown function). (HGNC)",
+            "identifier": "C181531",
+            "notation": "GENE WITH PROTEIN PRODUCT",
+            "pref_label": "Protein-Encoding Gene",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C181531"
+        },
+        {
+            "alt_label": "lncRNA",
+            "definition": "A non-coding transcript typically greater than 200bp in length. (Ensembl)",
+            "identifier": "C88924",
+            "notation": "LONG NON-CODING RNA",
+            "pref_label": "LincRNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C88924"
+        },
+        {
+            "alt_label": "MicroRNA;miRNA",
+            "definition": "A sequence of single-stranded RNA which is typically 20-25 nucleotides in length and may regulate the expression of other genes. miRNAs are transcribed from DNA, but are not translated into proteins.",
+            "identifier": "C25966",
+            "notation": "MICRO RNA",
+            "pref_label": "MicroRNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C25966"
+        },
+        {
+            "definition": "A transcript with a premature stop codon considered likely to be subjected to targeted degradation. (Ensembl)",
+            "identifier": "C148643",
+            "notation": "NONSENSE MEDIATED DECAY",
+            "pref_label": "Non-Sense Mediated Decay Mutation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C148643"
+        },
+        {
+            "alt_label": "piRNA;Piwi-Interacting RNA",
+            "definition": "Single-stranded RNA molecules that are expressed in animal cells and form complexes with Piwi proteins. They are involved in transcriptional gene silencing.",
+            "identifier": "C95953",
+            "notation": "PIWI-INTERACTING RNA",
+            "pref_label": "Piwi-Interacting RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C95953"
+        },
+        {
+            "definition": "A transcript that doesn't contain an open reading frame (ORF). (Ensembl)",
+            "identifier": "C181532",
+            "notation": "PROCESSED TRANSCRIPT",
+            "pref_label": "Processed Transcript",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C181532"
+        },
+        {
+            "definition": "Genomic DNA sequences that are similar to protein-coding genes but do not encode a functional protein. (HGNC)",
+            "identifier": "C40415",
+            "notation": "PSEUDOGENE",
+            "pref_label": "Pseudogene",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C40415"
+        },
+        {
+            "definition": "A naturally occurring transcript containing coding sequences from two or more genes that can also be transcribed individually. (HGNC)",
+            "identifier": "C181194",
+            "notation": "READTHROUGH TRANSCRIPT",
+            "pref_label": "Readthrough Transcript",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C181194"
+        },
+        {
+            "definition": "An alternatively spliced transcript believed to contain intronic sequence relative to other, coding, transcripts of the same gene. (Ensembl)",
+            "identifier": "C181533",
+            "notation": "RETAINED INTRON",
+            "pref_label": "Retained Intron",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C181533"
+        },
+        {
+            "alt_label": "Ribosomal RNA;rRNA",
+            "definition": "An RNA molecule that associates with multiple proteins to form ribosomes.",
+            "identifier": "C814",
+            "notation": "RIBOSOMAL RNA",
+            "pref_label": "Ribosomal RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C814"
+        },
+        {
+            "alt_label": "scRNA",
+            "definition": "Non-protein coding genes that encode small cytoplasmic RNAs (scRNAs). (HGNC)",
+            "identifier": "C181538",
+            "notation": "SMALL CYTOPLASMIC RNA",
+            "pref_label": "Small Cytoplasmic RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C181538"
+        },
+        {
+            "alt_label": "siRNA;Small Interfering RNA",
+            "definition": "A 20 to 25-nucleotide double-stranded RNA which is involved in a sequence-specific messenger RNA degradation process known as RNA interference.",
+            "identifier": "C2191",
+            "notation": "SMALL INTERFERING RNA",
+            "pref_label": "Small Interfering RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C2191"
+        },
+        {
+            "alt_label": "Small ncRNA",
+            "definition": "A non-coding transcript typically less than 200bp in length.",
+            "identifier": "C181534",
+            "notation": "SMALL NON-CODING RNA",
+            "pref_label": "Small Non-Coding RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C181534"
+        },
+        {
+            "alt_label": "Small Nuclear Ribonucleic Acid;Small Nuclear RNA;snRNA;U-RNA",
+            "definition": "A small RNA molecule (100-300 nucleotides) located in the cell nucleus that is involved in RNA splicing, transcriptional regulation, telomere maintenance and rRNA modification.",
+            "identifier": "C815",
+            "notation": "SMALL NUCLEAR RNA",
+            "pref_label": "Small Nuclear RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C815"
+        },
+        {
+            "alt_label": "Small Nucleolar RNA;snoRNA",
+            "definition": "A small RNA molecule located in the cell nucleolus that associates with proteins to form small nucleolar ribonucleoprotein particles that are involved in modification of other RNAs.",
+            "identifier": "C111316",
+            "notation": "SMALL NUCLEOLAR RNA",
+            "pref_label": "Small Nucleolar RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C111316"
+        },
+        {
+            "definition": "A transcript containing a stop codon that is translated, and termination occurs instead at a canonical stop codon further downstream. (Ensembl)",
+            "identifier": "C181537",
+            "notation": "STOP CODON READTHROUGH TRANSCRIPT",
+            "pref_label": "Stop Codon Readthrough Transcript",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C181537"
+        },
+        {
+            "alt_label": "Transfer RNA;Triplet Codon-Amino Acid Adaptor;tRNA",
+            "definition": "A class of short adaptor RNAs that transfers a specific amino acid to a growing polypeptide chain at the ribosomal site of protein synthesis during translation.",
+            "identifier": "C816",
+            "notation": "TRANSFER RNA",
+            "pref_label": "Transfer RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C816"
+        },
+        {
+            "alt_label": "Jumping Gene;Jumping Genes;Transposable Element",
+            "definition": "A class of mobile genetic elements that can move from one genomic position to another.",
+            "identifier": "C95942",
+            "notation": "TRANSPOSABLE ELEMENT",
+            "pref_label": "Transposon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C95942"
+        },
+        {
+            "alt_label": "vaultRNA;vtRNA",
+            "definition": "Small, untranslated RNAs associated with vault complexes.",
+            "identifier": "C181536",
+            "notation": "VAULT RNA",
+            "pref_label": "Vault RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C181536"
+        },
+        {
+            "alt_label": "Viral Integration Site Sequence;VIS",
+            "definition": "Target sequence for the integration of viral DNA into the genome. (HGNC)",
+            "identifier": "C181539",
+            "notation": "VIRUS INTEGRATION SITE",
+            "pref_label": "Virus Integration Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181176-C181539"
+        }
+    ]
+}

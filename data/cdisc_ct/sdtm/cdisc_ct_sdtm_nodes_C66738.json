@@ -1,0 +1,980 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Actual Number of Subjects",
+            "definition": "Actual number of subjects enrolled; may include subjects who were not randomized.",
+            "identifier": "C98703",
+            "notation": "ACTSUB",
+            "pref_label": "Actual Subject Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98703"
+        },
+        {
+            "alt_label": "Adaptive Design",
+            "definition": "Indicate if the study includes a prospectively planned opportunity for modification of one or more specified aspects of the study design and hypotheses based on analysis of data (usually interim data) from subjects in the study.",
+            "identifier": "C146995",
+            "notation": "ADAPT",
+            "pref_label": "Adaptive Study Design Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C146995"
+        },
+        {
+            "alt_label": "Added on to Existing Treatments",
+            "definition": "The addition of a therapeutic product to the existing regimen in a clinical trial, where both entities remain as discrete products.",
+            "identifier": "C49703",
+            "notation": "ADDON",
+            "pref_label": "Test Product Added to Existing Treatment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49703"
+        },
+        {
+            "alt_label": "Planned Maximum Age of Subjects",
+            "definition": "The anticipated maximum age of the subjects to be entered in a clinical trial. (NCI)",
+            "identifier": "C49694",
+            "notation": "AGEMAX",
+            "pref_label": "Planned Maximum Age of Subjects",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49694"
+        },
+        {
+            "alt_label": "Planned Minimum Age of Subjects",
+            "definition": "The anticipated minimum age of the subjects to be entered in a clinical trial. (NCI)",
+            "identifier": "C49693",
+            "notation": "AGEMIN",
+            "pref_label": "Planned Minimum Age of Subjects",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49693"
+        },
+        {
+            "alt_label": "Biospecimen Retention Contains DNA",
+            "definition": "A textual description as to whether a biospecimen is retained and/or contains DNA.",
+            "identifier": "C126058",
+            "notation": "BIOSPRET",
+            "pref_label": "Biospecimen Retained and/or Contains DNA Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126058"
+        },
+        {
+            "alt_label": "Citation Used in Study",
+            "definition": "A bibliographical reference related to a particular study.",
+            "identifier": "C127788",
+            "notation": "CITNSTDY",
+            "pref_label": "Clinical Study Citation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127788"
+        },
+        {
+            "alt_label": "Commercial Sponsor Status",
+            "definition": "The state or condition of the sponsor as pertains to whether the sponsor is considered a commercial entity.",
+            "identifier": "C127789",
+            "notation": "CMSPSTAT",
+            "pref_label": "Sponsor Commercial Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127789"
+        },
+        {
+            "alt_label": "Comparative Treatment Name",
+            "definition": "A therapeutically active agent that is intended to provide reference measurements for the experimental protocol of a clinical trial.",
+            "identifier": "C68612",
+            "notation": "COMPTRT",
+            "pref_label": "Active Comparator Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C68612"
+        },
+        {
+            "alt_label": "Contact E-Mail Address",
+            "definition": "E-mail address of study contact.",
+            "identifier": "C176375",
+            "notation": "CONEMAIL",
+            "pref_label": "Study Contact E-mail Address",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C176375"
+        },
+        {
+            "alt_label": "Contact Mailing Address",
+            "definition": "Mailing address of study contact.",
+            "identifier": "C176376",
+            "notation": "CONMAIL",
+            "pref_label": "Study Contact Postal Address",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C176376"
+        },
+        {
+            "alt_label": "Contact Name",
+            "definition": "Name of study contact.",
+            "identifier": "C176373",
+            "notation": "CONNAME",
+            "pref_label": "Study Contact Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C176373"
+        },
+        {
+            "alt_label": "Contact Phone Number",
+            "definition": "Phone number of study contact.",
+            "identifier": "C176374",
+            "notation": "CONPHONE",
+            "pref_label": "Study Contact Telephone Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C176374"
+        },
+        {
+            "alt_label": "Contact Role",
+            "definition": "Role of study contact.",
+            "identifier": "C176372",
+            "notation": "CONROLE",
+            "pref_label": "Study Contact Role",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C176372"
+        },
+        {
+            "alt_label": "Confirmed Response Minimum Duration",
+            "definition": "The protocol specified minimum amount of time needed to meet the definition of a confirmed response to treatment.",
+            "identifier": "C98715",
+            "notation": "CRMDUR",
+            "pref_label": "Confirmed Response Minimum Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98715"
+        },
+        {
+            "alt_label": "Clinical Study Report Archive Date",
+            "definition": "The date when the clinical study report was archived.",
+            "identifier": "C139273",
+            "notation": "CSRARDTC",
+            "pref_label": "Clinical Study Report Archive Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C139273"
+        },
+        {
+            "alt_label": "CDISC Therapeutic Area User Guide",
+            "definition": "The name and version of the CDISC therapeutic area user guide that is being used in the study submission.",
+            "identifier": "C156602",
+            "notation": "CTAUG",
+            "pref_label": "CDISC Therapeutic Area User Guide Name and Version",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C156602"
+        },
+        {
+            "alt_label": "Current Therapy or Treatment",
+            "definition": "The literal identifier of the therapy or medication that is currently being given per protocol.",
+            "identifier": "C85582",
+            "notation": "CURTRT",
+            "pref_label": "Current Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C85582"
+        },
+        {
+            "alt_label": "Data Cutoff Description",
+            "definition": "Text that describes the cutoff date.",
+            "identifier": "C98718",
+            "notation": "DCUTDESC",
+            "pref_label": "Data Cutoff Date Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98718"
+        },
+        {
+            "alt_label": "Data Cutoff Date",
+            "definition": "A date which indicates any data collected by this date will be used for analysis.",
+            "identifier": "C98717",
+            "notation": "DCUTDTC",
+            "pref_label": "Data Cutoff Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98717"
+        },
+        {
+            "alt_label": "Delayed Graft Function Diagnostic Criteria;Delayed Graft Function Dx Criteria",
+            "definition": "A standard by which the determination of delayed graft function (DGF) is established.",
+            "identifier": "C135514",
+            "notation": "DGFCRIT",
+            "pref_label": "Delayed Graft Function Diagnostic Criteria Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C135514"
+        },
+        {
+            "alt_label": "Data Monitoring Committee Indicator",
+            "definition": "An indication as to whether the clinical trial has an appointed data monitoring committee.",
+            "identifier": "C127790",
+            "notation": "DMCIND",
+            "pref_label": "Data Monitoring Committee Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127790"
+        },
+        {
+            "alt_label": "Dose Level;Dose per Administration",
+            "definition": "The amount of study drug (or placebo) administered to a patient or test subject to be taken at one time or at stated intervals.",
+            "identifier": "C25488",
+            "notation": "DOSE",
+            "pref_label": "Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C25488"
+        },
+        {
+            "alt_label": "Dose Form",
+            "definition": "The physical form in which active and/or inert ingredient(s) are presented.",
+            "identifier": "C42636",
+            "notation": "DOSFRM",
+            "pref_label": "Pharmaceutical Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C42636"
+        },
+        {
+            "alt_label": "Dosing Frequency",
+            "definition": "The number of doses administered per a specific interval.",
+            "identifier": "C89081",
+            "notation": "DOSFRQ",
+            "pref_label": "Dose Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C89081"
+        },
+        {
+            "alt_label": "Dose Regimen",
+            "definition": "The planned schedule for the administration of an agent (such as a drug, substance or radiation).",
+            "identifier": "C71137",
+            "notation": "DOSRGM",
+            "pref_label": "Dose Regimen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C71137"
+        },
+        {
+            "alt_label": "Dose Units",
+            "definition": "The unit of measure for the dosage form.",
+            "identifier": "C73558",
+            "notation": "DOSU",
+            "pref_label": "Dosage Form Unit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C73558"
+        },
+        {
+            "alt_label": "Diagnostic Criteria",
+            "definition": "A standard from which a judgment concerning a medical diagnosis can be established.",
+            "identifier": "C117960",
+            "notation": "DXCRIT",
+            "pref_label": "Diagnostic Criteria",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C117960"
+        },
+        {
+            "alt_label": "ECG Reading Blinded",
+            "definition": "Indicates whether assessors of ECGs for this study were blinded to subject identity, timing and treatment.",
+            "identifier": "C119560",
+            "notation": "EGBLIND",
+            "pref_label": "ECG Evaluator Blinding Parameters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C119560"
+        },
+        {
+            "alt_label": "ECG Continuous Monitoring",
+            "definition": "Indicates whether the 10-second ECGs for this study were extracted from a continuous recording.",
+            "identifier": "C119561",
+            "notation": "EGCTMON",
+            "pref_label": "ECG Continuous Monitoring Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C119561"
+        },
+        {
+            "alt_label": "ECG Planned Primary Lead",
+            "definition": "The ECG lead which was planned to be used for ECG interval measurements for this study.",
+            "identifier": "C119562",
+            "notation": "EGLEADPR",
+            "pref_label": "ECG Planned Primary Lead for Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C119562"
+        },
+        {
+            "alt_label": "ECG Used Same Lead",
+            "definition": "Indicates whether all ECG interval measurements for the study were based on the same lead.",
+            "identifier": "C119563",
+            "notation": "EGLEADSM",
+            "pref_label": "ECG Used Same Lead Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C119563"
+        },
+        {
+            "alt_label": "ECG Read Method",
+            "definition": "The degree of automation involved in assessing the ECGs for this study.",
+            "identifier": "C119564",
+            "notation": "EGRDMETH",
+            "pref_label": "ECG Read Method Degree of Automation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C119564"
+        },
+        {
+            "alt_label": "ECG Replicates at Baseline",
+            "definition": "Indicates whether this study includes replicate ECGs for time points during the baseline portion of the study.",
+            "identifier": "C119565",
+            "notation": "EGREPLBL",
+            "pref_label": "ECG Replicates at Baseline Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C119565"
+        },
+        {
+            "alt_label": "ECG Replicates On-Treatment",
+            "definition": "Indicates whether this study includes replicate ECGs for time points during the on-treatment portion of the study.",
+            "identifier": "C119566",
+            "notation": "EGREPLTR",
+            "pref_label": "ECG Replicates On-Treatment Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C119566"
+        },
+        {
+            "alt_label": "ECG Twave Algorithm",
+            "definition": "The algorithm used to identify the end of the T wave for ECGs for this study.",
+            "identifier": "C119582",
+            "notation": "EGTWVALG",
+            "pref_label": "ECG T Wave Algorithm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C119582"
+        },
+        {
+            "alt_label": "Email Address for XML File",
+            "definition": "The Email address to which copies of the XML format of the EudraCT application should be sent.",
+            "identifier": "C127791",
+            "notation": "EMAILXML",
+            "pref_label": "E-mail Address for XML File Feedback",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127791"
+        },
+        {
+            "alt_label": "EMA Decision Number for PIP",
+            "definition": "An alphanumeric code assigned by the European Medicines Agency (EMA) to an EMA regulatory decision for a pediatric investigation plan (PIP).",
+            "identifier": "C126059",
+            "notation": "EMPIPDCN",
+            "pref_label": "EMA Decision Number for Pediatric Investigation Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126059"
+        },
+        {
+            "alt_label": "Epi/Pandemic Related Disruption Ind;Epidemic Related Disruption Indicator",
+            "definition": "An indication as to whether the study disruption was caused by the epidemic or pandemic.",
+            "identifier": "C171505",
+            "notation": "EPDISIND",
+            "pref_label": "Epidemic or Pandemic Related Disruption Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C171505"
+        },
+        {
+            "alt_label": "Name of Epi/Pandemic;Name of Epidemic and/or Pandemic",
+            "definition": "The literal identifier of the epidemic and/or pandemic.",
+            "identifier": "C171506",
+            "notation": "EPIDEMIC",
+            "pref_label": "Name of Epidemic or Pandemic",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C171506"
+        },
+        {
+            "alt_label": "EudraCT Resubmission Indicator",
+            "definition": "An indication as to whether the trial being submitted to the EudraCT is a trial that has been previously submitted to the EudraCT system.",
+            "identifier": "C126060",
+            "notation": "EURSBIND",
+            "pref_label": "EudraCT Resubmission Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126060"
+        },
+        {
+            "alt_label": "EudraVigilance Sender ID",
+            "definition": "A unique identifier assigned to the organization that is transmitting an adverse drug reaction report to the EudraVigilance system.",
+            "identifier": "C126061",
+            "notation": "EVSNDID",
+            "pref_label": "EudraVigilance Sender Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126061"
+        },
+        {
+            "alt_label": "EudraVigilance Sender Organization",
+            "definition": "The name of the group or institution that is transmitting an adverse drug reaction report to the EudraVigilance system.",
+            "identifier": "C126090",
+            "notation": "EVSNDORG",
+            "pref_label": "EudraVigilance Sender Organization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126090"
+        },
+        {
+            "alt_label": "Expanded Access Record NCT Number",
+            "definition": "The unique alphanumeric identifier for the study with associated expanded access record, as assigned by the clinicaltrials.gov protocol registration and results system (PRS).",
+            "identifier": "C127792",
+            "notation": "EXPARECN",
+            "pref_label": "Clinicaltrials.gov NCT Number for the Expanded Access Record",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127792"
+        },
+        {
+            "alt_label": "Expanded Access Status",
+            "definition": "Status indicating availability of an experimental drug or device outside any clinical trial protocol. (clinicaltrials.gov)",
+            "identifier": "C127793",
+            "notation": "EXPASTAT",
+            "pref_label": "Trial Expanded Access Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127793"
+        },
+        {
+            "alt_label": "Extension Trial Indicator",
+            "definition": "An indication as to whether the clinical trial is an extension trial.",
+            "identifier": "C139274",
+            "notation": "EXTTIND",
+            "pref_label": "Extension Trial Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C139274"
+        },
+        {
+            "alt_label": "Planned Country of Investigational Sites",
+            "definition": "The country name of planned study facility which has received IRB approval.",
+            "identifier": "C98770",
+            "notation": "FCNTRY",
+            "pref_label": "Planned Country of Investigational Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98770"
+        },
+        {
+            "alt_label": "FDA-Regulated Device Study Indicator",
+            "definition": "An indication as to whether the study involves an FDA-regulated device.",
+            "identifier": "C123629",
+            "notation": "FDADEIND",
+            "pref_label": "FDA-Regulated Device Study Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C123629"
+        },
+        {
+            "alt_label": "FDA-Regulated Drug Study Indicator",
+            "definition": "An indication as to whether the study involves an FDA-regulated drug.",
+            "identifier": "C123630",
+            "notation": "FDADRIND",
+            "pref_label": "FDA-Regulated Drug Study Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C123630"
+        },
+        {
+            "alt_label": "FDA Technical Specification",
+            "definition": "The name and version of the FDA technical specification that is being used in the study submission.",
+            "identifier": "C156603",
+            "notation": "FDATCHSP",
+            "pref_label": "FDA Technical Specification Name and Version",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C156603"
+        },
+        {
+            "alt_label": "Healthy Subject Indicator",
+            "definition": "Indicate if persons who have not had the condition(s) being studied or otherwise related conditions or symptoms, as specified in the eligibility requirements, may participate in the study.",
+            "identifier": "C98737",
+            "notation": "HLTSUBJI",
+            "pref_label": "Healthy Subject Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98737"
+        },
+        {
+            "alt_label": "Trial Disease/Condition Indication",
+            "definition": "The condition, disease or disorder that the clinical trial is intended to investigate or address.",
+            "identifier": "C112038",
+            "notation": "INDIC",
+            "pref_label": "Trial Indication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C112038"
+        },
+        {
+            "alt_label": "Intervention Model",
+            "definition": "The general design of the strategy for assigning interventions to participants in a clinical study. (clinicaltrials.gov)",
+            "identifier": "C98746",
+            "notation": "INTMODEL",
+            "pref_label": "Intervention Model",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98746"
+        },
+        {
+            "alt_label": "Intervention Type",
+            "definition": "The kind of product or procedure studied in a trial.",
+            "identifier": "C98747",
+            "notation": "INTTYPE",
+            "pref_label": "Intervention Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98747"
+        },
+        {
+            "alt_label": "Protocol Keyword",
+            "definition": "A word or small set of words designed to convey the focus of the protocol.",
+            "identifier": "C126062",
+            "notation": "KEYWORD",
+            "pref_label": "Protocol Keyword",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126062"
+        },
+        {
+            "alt_label": "Trial Length",
+            "definition": "Planned length of observation for a single subject.",
+            "identifier": "C49697",
+            "notation": "LENGTH",
+            "pref_label": "Trial Length",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49697"
+        },
+        {
+            "alt_label": "Country of Manufacture",
+            "definition": "The name of the country within which the final product under study is produced.",
+            "identifier": "C124455",
+            "notation": "MNFCNTRY",
+            "pref_label": "Country of Manufacture",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C124455"
+        },
+        {
+            "alt_label": "Multiple Site EU State Trial Indicator",
+            "definition": "An indication as to whether the clinical study is being conducted at multiple sites within the European Union member state concerned by the application.",
+            "identifier": "C127794",
+            "notation": "MSEUTIND",
+            "pref_label": "Multiple Site European Union State Trial Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127794"
+        },
+        {
+            "alt_label": "Planned Number of Arms",
+            "definition": "The planned number of intervention groups.",
+            "identifier": "C98771",
+            "notation": "NARMS",
+            "pref_label": "Planned Number of Arms",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98771"
+        },
+        {
+            "alt_label": "Number of Groups/Cohorts",
+            "definition": "The number of groups or cohorts that are part of the study.",
+            "identifier": "C126063",
+            "notation": "NCOHORT",
+            "pref_label": "Number of Groups or Cohorts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126063"
+        },
+        {
+            "alt_label": "Number of Trial Sites EU State",
+            "definition": "The total number of trial sites within the European Union member state concerned by the application.",
+            "identifier": "C127795",
+            "notation": "NUMSEUST",
+            "pref_label": "Number of Trial Sites within European Union State",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127795"
+        },
+        {
+            "alt_label": "Trial Exploratory Objective",
+            "definition": "The exploratory purpose of the trial.",
+            "identifier": "C163559",
+            "notation": "OBJEXP",
+            "pref_label": "Trial Exploratory Objective",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C163559"
+        },
+        {
+            "alt_label": "Trial Primary Objective",
+            "definition": "The principal purpose of the trial.",
+            "identifier": "C85826",
+            "notation": "OBJPRIM",
+            "pref_label": "Trial Primary Objective",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C85826"
+        },
+        {
+            "alt_label": "Trial Secondary Objective",
+            "definition": "The auxiliary purpose of the trial.",
+            "identifier": "C85827",
+            "notation": "OBJSEC",
+            "pref_label": "Trial Secondary Objective",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C85827"
+        },
+        {
+            "alt_label": "Observational Model",
+            "definition": "The trial design developed to compare biomedical and/or health outcomes in pre-defined and non-assigned groups of individuals.",
+            "identifier": "C126064",
+            "notation": "OBSMODEL",
+            "pref_label": "Observational Model",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126064"
+        },
+        {
+            "alt_label": "Observational Time Perspective",
+            "definition": "The temporal relationship between the observation period and time of subject enrollment. (ClinicalTrials.gov)",
+            "identifier": "C126065",
+            "notation": "OBSTIMP",
+            "pref_label": "Observational Time Perspective of Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126065"
+        },
+        {
+            "alt_label": "Obs Study Population Description",
+            "definition": "A description of the population from which the groups or cohorts will be selected within an observational study.",
+            "identifier": "C126066",
+            "notation": "OBSTPOPD",
+            "pref_label": "Observational Study Population Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126066"
+        },
+        {
+            "alt_label": "Observational Study Sampling Method",
+            "definition": "The sampling method used to assign study participants into groups or cohorts within an observational study.",
+            "identifier": "C126067",
+            "notation": "OBSTSMM",
+            "pref_label": "Observational Study Sampling Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126067"
+        },
+        {
+            "alt_label": "Obs Study Sampling Method Description",
+            "definition": "A textual description of the sampling method used to assign study participants into groups or cohorts within an observational study.",
+            "identifier": "C126068",
+            "notation": "OBSTSMMD",
+            "pref_label": "Observational Study Sampling Method Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126068"
+        },
+        {
+            "alt_label": "Additional Outcome Measure",
+            "definition": "Additional key measures that will be used to evaluate the intervention(s) or, for observational studies, that are a focus of the study. These are the outcome measures not used to assess primary or secondary objectives.",
+            "identifier": "C156601",
+            "notation": "OUTMSADD",
+            "pref_label": "Additional Outcome Measure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C156601"
+        },
+        {
+            "alt_label": "Exploratory Outcome Measure",
+            "definition": "The outcome measure(s) that is part of a pre-specified analysis plan used to evaluate the exploratory endpoint(s) associated with exploratory study objective(s) and/or any other measures, excluding post-hoc measures, that are a focus of the study. (After clinicaltrials.gov)",
+            "identifier": "C98724",
+            "notation": "OUTMSEXP",
+            "pref_label": "Exploratory Outcome Measure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98724"
+        },
+        {
+            "alt_label": "Primary Outcome Measure",
+            "definition": "The outcome measure(s) of greatest importance specified in the protocol, usually the one(s) used in the power calculation, to evaluate the primary endpoint(s) associated with the primary study objective(s). (After Clinicaltrials.gov)",
+            "identifier": "C98772",
+            "notation": "OUTMSPRI",
+            "pref_label": "Primary Outcome Measure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98772"
+        },
+        {
+            "alt_label": "Secondary Outcome Measure",
+            "definition": "The outcome measure(s) that is part of a pre-specified analysis plan used to evaluate the secondary endpoint(s) associated with secondary study objective(s) and/or used to evaluate any measure(s) ancillary to the primary or secondary endpoint(s). (After Clinicaltrials.gov).",
+            "identifier": "C98781",
+            "notation": "OUTMSSEC",
+            "pref_label": "Secondary Outcome Measure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98781"
+        },
+        {
+            "alt_label": "Post Authorization Safety Study Ind",
+            "definition": "An indication as to whether the clinical study is a post authorization safety study.",
+            "identifier": "C139275",
+            "notation": "PASSIND",
+            "pref_label": "Post Authorization Safety Study Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C139275"
+        },
+        {
+            "alt_label": "Pharmacologic Class",
+            "definition": "The pharmacological class of the investigational product.",
+            "identifier": "C98768",
+            "notation": "PCLAS",
+            "pref_label": "Pharmacological Class of Investigational Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98768"
+        },
+        {
+            "alt_label": "Pediatric Postmarket Study Indicator",
+            "definition": "An indication as to whether the study is a pediatric postmarket study.",
+            "identifier": "C123631",
+            "notation": "PDPSTIND",
+            "pref_label": "Pediatric Postmarket Study Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C123631"
+        },
+        {
+            "alt_label": "Pediatric Study Indicator",
+            "definition": "An indication as to whether the study is a pediatric study.",
+            "identifier": "C123632",
+            "notation": "PDSTIND",
+            "pref_label": "Pediatric Study Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C123632"
+        },
+        {
+            "alt_label": "Pediatric Investigation Plan Indicator",
+            "definition": "An indication as to whether the trial is part of a pediatric investigation plan (PIP).",
+            "identifier": "C126069",
+            "notation": "PIPIND",
+            "pref_label": "Pediatric Investigation Plan Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126069"
+        },
+        {
+            "alt_label": "Anticipated Enrollment;Planned Enrollment;Planned Number of Subjects;Target Enrollment",
+            "definition": "The planned number of subjects to be entered in a clinical trial. (NCI)",
+            "identifier": "C49692",
+            "notation": "PLANSUB",
+            "pref_label": "Planned Subject Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49692"
+        },
+        {
+            "alt_label": "Planned Trial Duration",
+            "definition": "The approximate period of time over which the clinical trial is expected to occur.",
+            "identifier": "C127796",
+            "notation": "PLNTRDUR",
+            "pref_label": "Planned Trial Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127796"
+        },
+        {
+            "alt_label": "Protocol Risk Assessment",
+            "definition": "The potential future harm that may arise from a protocol-related activity.",
+            "identifier": "C139277",
+            "notation": "PROTRSK",
+            "pref_label": "Protocol Risk Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C139277"
+        },
+        {
+            "alt_label": "Planned Treatment Duration",
+            "definition": "The period of time during which the treatment is intended to be given.",
+            "identifier": "C139276",
+            "notation": "PTRTDUR",
+            "pref_label": "Planned Treatment Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C139276"
+        },
+        {
+            "alt_label": "PubMed ID for Citation Used in Study",
+            "definition": "A globally unique identifier for a biomedical article, as assigned by PubMed.",
+            "identifier": "C127797",
+            "notation": "PUBMEDID",
+            "pref_label": "PubMed Identifier for Citation Used in Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127797"
+        },
+        {
+            "alt_label": "Trial is Randomized",
+            "definition": "The process of assigning trial subjects to treatment or control groups using an element of chance to determine the assignments in order to reduce bias. NOTE: Unequal randomization is used to allocate subjects into groups at a differential rate; for example, three subjects may be assigned to a treatment group for every one assigned to the control group. [ICH E6 1.48] See also balanced study. (CDISC glossary)",
+            "identifier": "C25196",
+            "notation": "RANDOM",
+            "pref_label": "Randomization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C25196"
+        },
+        {
+            "alt_label": "Randomization Quotient",
+            "definition": "The randomization quotient is the number of planned subjects to be exposed to investigational therapy, independent of dose or other factors, divided by the total number of planned subjects.",
+            "identifier": "C98775",
+            "notation": "RANDQT",
+            "pref_label": "Randomization Quotient",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98775"
+        },
+        {
+            "alt_label": "Rare Disease Indicator",
+            "definition": "An indication as to whether the condition under study is considered a rare disease.",
+            "identifier": "C126070",
+            "notation": "RDIND",
+            "pref_label": "Rare Disease Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126070"
+        },
+        {
+            "alt_label": "Registry Identifier",
+            "definition": "Identification numbers assigned to the protocol by clinicaltrials.gov, EudraCT, or other registries.",
+            "identifier": "C98714",
+            "notation": "REGID",
+            "pref_label": "Clinical Trial Registry Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98714"
+        },
+        {
+            "alt_label": "Resubmission Letter",
+            "definition": "An alphabetic character that describes the incremental order of trial resubmissions.",
+            "identifier": "C126071",
+            "notation": "RESUBLTR",
+            "pref_label": "Resubmission Letter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126071"
+        },
+        {
+            "alt_label": "Relapse Criteria",
+            "definition": "A standard from which a judgment concerning a disease relapse can be established.",
+            "identifier": "C117961",
+            "notation": "RLPSCRIT",
+            "pref_label": "Relapse Criteria",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C117961"
+        },
+        {
+            "alt_label": "Route of Administration",
+            "definition": "The pathway by which a substance is administered in order to reach the site of action in the body.",
+            "identifier": "C38114",
+            "notation": "ROUTE",
+            "pref_label": "Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C38114"
+        },
+        {
+            "alt_label": "Retained Biospecimen Description",
+            "definition": "A textual description of the specimen types that are retained as reserve samples.",
+            "identifier": "C126072",
+            "notation": "RTSPCDES",
+            "pref_label": "Retained Biospecimen Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126072"
+        },
+        {
+            "alt_label": "Request for XML Copy of Study Indicator",
+            "definition": "An indication as to whether the registrant would like to receive an XML copy of their study as saved on EudraCT.",
+            "identifier": "C127798",
+            "notation": "RXMLCIND",
+            "pref_label": "Study Saved as XML Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127798"
+        },
+        {
+            "alt_label": "Stable Disease Minimum Duration",
+            "definition": "The protocol specified minimum amount of time needed to meet the definition of stable disease.",
+            "identifier": "C98783",
+            "notation": "SDMDUR",
+            "pref_label": "Stable Disease Minimum Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C98783"
+        },
+        {
+            "alt_label": "SDTM IG Version;SDTM Implementation Guide Version",
+            "definition": "The version of the CDISC Study Data Tabulation Model implementation guide that is being used in the study submission.",
+            "identifier": "C156604",
+            "notation": "SDTIGVER",
+            "pref_label": "Study Data Tabulation Model Implementation Guide Version",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C156604"
+        },
+        {
+            "alt_label": "SDTM Version",
+            "definition": "The version of the CDISC Study Data Tabulation Model that is being used in the study submission.",
+            "identifier": "C156605",
+            "notation": "SDTMVER",
+            "pref_label": "Study Data Tabulation Model Version",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C156605"
+        },
+        {
+            "alt_label": "Secure Delivery XML Required Indicator",
+            "definition": "An indication as to whether the XML copy of the EudraCT application requires secure E-mail delivery.",
+            "identifier": "C127799",
+            "notation": "SDXMLIND",
+            "pref_label": "Requires Secure Email Delivery of XML Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127799"
+        },
+        {
+            "alt_label": "Study End Date",
+            "definition": "The date on which the final data item for a clinical study was collected from the last study participant (that is, last subject, last visit, or as otherwise defined in the study protocol). (CDISC Glossary)",
+            "identifier": "C90462",
+            "notation": "SENDTC",
+            "pref_label": "Clinical Study End Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C90462"
+        },
+        {
+            "alt_label": "Severity Criteria",
+            "definition": "A standard from which a judgment concerning the severity of an event, disease or condition can be established.",
+            "identifier": "C117962",
+            "notation": "SEVCRIT",
+            "pref_label": "Severity Criteria",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C117962"
+        },
+        {
+            "alt_label": "Sex of Participants",
+            "definition": "The specific sex, either male, female, or mixed of the subject group being studied. (NCI)",
+            "identifier": "C49696",
+            "notation": "SEXPOP",
+            "pref_label": "Sex of Study Group",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49696"
+        },
+        {
+            "alt_label": "Clinical Study Sponsor;Sponsor;Study Sponsor",
+            "definition": "An entity that is responsible for the initiation, management, and/or financing of a clinical study.",
+            "identifier": "C70793",
+            "notation": "SPONSOR",
+            "pref_label": "Clinical Study Sponsor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C70793"
+        },
+        {
+            "alt_label": "Sponsor's Study Reference ID",
+            "definition": "The reference identifier by which the study is known to the sponsor. This may be different from the STUDYID if the data were collected under a different identifier (e.g., used in a situation where a contract facility performs the study and provides a final report).",
+            "identifier": "C135009",
+            "notation": "SPREFID",
+            "pref_label": "Sponsor Study Reference Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C135009"
+        },
+        {
+            "alt_label": "SUSAR Reporting to EVCTM Indicator",
+            "definition": "An indication as to whether suspected unexpected serious adverse reactions (SUSAR) will be reported to a EudraVigiliance clinical trial module (EVCTM).",
+            "identifier": "C126073",
+            "notation": "SREVIND",
+            "pref_label": "SUSAR Reporting to EudraVigiliance Clinical Trial Module Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126073"
+        },
+        {
+            "alt_label": "SUSAR Reporting to NCA Indicator",
+            "definition": "An indication as to whether suspected unexpected serious adverse reactions (SUSAR) will be reported to national competent authorities (NCA).",
+            "identifier": "C126074",
+            "notation": "SRNCAIND",
+            "pref_label": "SUSAR Reporting to National Competent Authority Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126074"
+        },
+        {
+            "alt_label": "Single Site EU State Trial Indicator",
+            "definition": "An indication as to whether the clinical study is being conducted at only one site within the European Union member state concerned by the application.",
+            "identifier": "C127800",
+            "notation": "SSEUTIND",
+            "pref_label": "Single Site European Union State Trial Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127800"
+        },
+        {
+            "alt_label": "Study Start Date",
+            "definition": "The earliest date of informed consent among any subject (Date/Time of Informed Consent, RFICDTC) that enrolled in the study. For studies conducted without informed consent (ie. emergency use) use the date of treatment. Dates for subjects who were screen failures are not included.",
+            "identifier": "C69208",
+            "notation": "SSTDTC",
+            "pref_label": "Study Start Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C69208"
+        },
+        {
+            "alt_label": "Substudy Details",
+            "definition": "A textual description of the substudy.",
+            "identifier": "C126075",
+            "notation": "SSTDYDTL",
+            "pref_label": "Substudy Details",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126075"
+        },
+        {
+            "alt_label": "Substudy Planned Indicator",
+            "definition": "An indication as to whether a study performed on a subgroup of subjects included in the original trial (substudy) is planned for the current study.",
+            "identifier": "C126076",
+            "notation": "SSTDYIND",
+            "pref_label": "Substudy Planned Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126076"
+        },
+        {
+            "alt_label": "Study Stop Rules",
+            "definition": "The rule, regulation and/or condition that determines the point in time when a clinical trial will be terminated. (NCI)",
+            "identifier": "C49698",
+            "notation": "STOPRULE",
+            "pref_label": "Study Stop Rule",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49698"
+        },
+        {
+            "alt_label": "Stratification Factor",
+            "definition": "Selected factors that are used during randomization to ensure there is balance of these factors across all subjects within each arm of a study. The subject level values of these factors may be used as fixed effects in statistical models and for sensitivity analyses.",
+            "identifier": "C16153",
+            "notation": "STRATFCT",
+            "pref_label": "Stratification Factors",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C16153"
+        },
+        {
+            "alt_label": "Study Type",
+            "definition": "The nature of the investigation for which study information is being collected. (After clinicaltrials.gov)",
+            "identifier": "C142175",
+            "notation": "STYPE",
+            "pref_label": "Study Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C142175"
+        },
+        {
+            "alt_label": "Trial Blinding Schema",
+            "definition": "The type of experimental design used to describe the level of awareness of the clinical trial subjects and/or investigators of the intervention(s) that they are receiving and/or administering.",
+            "identifier": "C49658",
+            "notation": "TBLIND",
+            "pref_label": "Trial Blinding Schema",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49658"
+        },
+        {
+            "alt_label": "Control Type",
+            "definition": "Comparator against which the study treatment is evaluated.",
+            "identifier": "C49647",
+            "notation": "TCNTRL",
+            "pref_label": "Control Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49647"
+        },
+        {
+            "alt_label": "Diagnosis Group",
+            "definition": "A grouping of individuals on the basis of a shared procedure or disease, or lack thereof.",
+            "identifier": "C49650",
+            "notation": "TDIGRP",
+            "pref_label": "Diagnosis Group",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49650"
+        },
+        {
+            "alt_label": "Therapeutic Area",
+            "definition": "A knowledge field that focuses on research and development of specific treatments for diseases and pathologic findings, as well as prevention of conditions that negatively impact the health of an individual. (NCI)",
+            "identifier": "C101302",
+            "notation": "THERAREA",
+            "pref_label": "Therapeutic Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C101302"
+        },
+        {
+            "alt_label": "Trial Intent Type",
+            "definition": "The planned purpose of the therapy, device, or agent under study in the clinical trial.",
+            "identifier": "C49652",
+            "notation": "TINDTP",
+            "pref_label": "Clinical Study by Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49652"
+        },
+        {
+            "alt_label": "Trial Title",
+            "definition": "The name of a clinical trial. (NCI)",
+            "identifier": "C49802",
+            "notation": "TITLE",
+            "pref_label": "Trial Title",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49802"
+        },
+        {
+            "alt_label": "Trial Phase Classification",
+            "definition": "Any defined stage in the lifecycle of a clinical trial.",
+            "identifier": "C48281",
+            "notation": "TPHASE",
+            "pref_label": "Trial Phase",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C48281"
+        },
+        {
+            "alt_label": "Target Follow-Up Duration",
+            "definition": "The anticipated time period over which each study participant is to be followed. (ClinicalTrials.gov)",
+            "identifier": "C126077",
+            "notation": "TRGFUDUR",
+            "pref_label": "Planned Follow-Up Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C126077"
+        },
+        {
+            "alt_label": "Investigational Therapy or Treatment",
+            "definition": "The investigational product under study.",
+            "identifier": "C41161",
+            "notation": "TRT",
+            "pref_label": "Protocol Agent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C41161"
+        },
+        {
+            "alt_label": "Trial Scope;Trial Type",
+            "definition": "The nature of the interventional study for which information is being collected.",
+            "identifier": "C49660",
+            "notation": "TTYPE",
+            "pref_label": "Trial Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C49660"
+        },
+        {
+            "alt_label": "URL Related to Study",
+            "definition": "The uniform resource locator (URL) related to a particular study.",
+            "identifier": "C127801",
+            "notation": "URLSTDY",
+            "pref_label": "Study Protocol Uniform Resource Locator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127801"
+        },
+        {
+            "alt_label": "URL Related to Study Description",
+            "definition": "A textual description of the uniform resource locator (URL) related to a particular study.",
+            "identifier": "C127802",
+            "notation": "URLSTDYD",
+            "pref_label": "Study Protocol Uniform Resource Locator Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66738-C127802"
+        }
+    ]
+}

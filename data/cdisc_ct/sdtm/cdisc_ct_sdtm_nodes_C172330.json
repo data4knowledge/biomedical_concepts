@@ -1,0 +1,34 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Linear-Logarithmic Trapezoidal Method",
+            "definition": "An AUC calculation method that utilizes the linear trapezoidal interpolation rule up to the maximum concentration (Cmax) and Logarithmic trapezoidal interpolation for the remainder of the concentration curve.",
+            "identifier": "C172579",
+            "notation": "LIN-LOG TRAPEZOIDAL METHOD",
+            "pref_label": "Linear-Logarithmic Trapezoidal Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C172330-C172579"
+        },
+        {
+            "alt_label": "Linear Trapezoidal - Logarithmic Interpolation Method",
+            "definition": "An AUC calculation method that utilizes the linear trapezoidal interpolation rule for the entire concentration curve, except when partial areas are selected with no measured endpoint, then logarithmic interpolation is used to calculate the missing data.",
+            "identifier": "C172582",
+            "notation": "LINEAR TRAPEZOIDAL - LOG INTERPOLATION METHOD",
+            "pref_label": "Linear Trapezoidal - Log Interpolation Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C172330-C172582"
+        },
+        {
+            "definition": "An AUC calculation method that utilizes the linear trapezoidal interpolation rule for the entire concentration curve.",
+            "identifier": "C172580",
+            "notation": "LINEAR TRAPEZOIDAL METHOD",
+            "pref_label": "Linear Trapezoidal Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C172330-C172580"
+        },
+        {
+            "definition": "An AUC calculation method that utilizes linear trapezoidal interpolation between two points any time the measured concentration increases and logarithmic trapezoidal interpolation between two points any time the concentration decreases over the entire concentration curve.",
+            "identifier": "C172581",
+            "notation": "LINEAR UP LOG DOWN METHOD",
+            "pref_label": "Linear Up Log Down Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C172330-C172581"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Thrombolysis in Myocardial Infarction Flow - 0",
+            "definition": "No perfusion. There is no antegrade flow beyond the point of occlusion. (Chesebro JH, Knatterud GL, Roberts R, et al, Thrombolysis in Myocardial Infarction (TIMI) Trial, Phase I: a comparison between intravenous tissue plasminogen activator and intravenous streptokinase: Clinical findings through hospital discharge, Circulation 76, No. 1, 142-154, 1987)",
+            "identifier": "C100040",
+            "notation": "TIMI GRADE 0",
+            "pref_label": "Thrombolysis in Myocardial Infarction Flow-0",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101841-C100040"
+        },
+        {
+            "alt_label": "Thrombolysis in Myocardial Infarction Flow - 1",
+            "definition": "Penetration without perfusion. Contrast material passes beyond the area of obstruction but \"hangs up\" and fails to opacify the entire coronary bed distal to the obstruction for the duration of the cineangiographic filming sequence. (Chesebro JH, Knatterud GL, Roberts R, et al, Thrombolysis in Myocardial Infarction (TIMI) Trial, Phase I: a comparison between intravenous tissue plasminogen activator and intravenous streptokinase: Clinical findings through hospital discharge, Circulation 76, No. 1, 142-154, 1987)",
+            "identifier": "C100041",
+            "notation": "TIMI GRADE 1",
+            "pref_label": "Thrombolysis in Myocardial Infarction Flow-1",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101841-C100041"
+        },
+        {
+            "alt_label": "Thrombolysis in Myocardial Infarction Flow - 2",
+            "definition": "Partial perfusion. The contrast material passes across the obstruction and opacifies the coronary bed distal to the obstruction. However, the rate of entry of contrast material into the vessel distal to the obstruction or its rate of clearance from the distal bed (or both) is perceptibly slower than its entry into or clearance from comparable areas not perfused by the previously occluded vessel (e.g., the opposite coronary artery or the coronary bed proximal to the obstruction). (Chesebro JH, Knatterud GL, Roberts R, et al, Thrombolysis in Myocardial Infarction (TIMI) Trial, Phase I: a comparison between intravenous tissue plasminogen activator and intravenous streptokinase: Clinical findings through hospital discharge, Circulation 76, No. 1, 142-154, 1987)",
+            "identifier": "C100042",
+            "notation": "TIMI GRADE 2",
+            "pref_label": "Thrombolysis in Myocardial Infarction Flow-2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101841-C100042"
+        },
+        {
+            "alt_label": "Thrombolysis in Myocardial Infarction Flow - 3",
+            "definition": "Complete perfusion. Antegrade flow into the bed distal to the obstruction occurs as promptly as into the bed from the involved bed and is as rapid as clearance from an uninvolved bed in the same vessel or the opposite artery. (Chesebro JH, Knatterud GL, Roberts R, et al, Thrombolysis in Myocardial Infarction (TIMI) Trial, Phase I: a comparison between intravenous tissue plasminogen activator and intravenous streptokinase: Clinical findings through hospital discharge, Circulation 76, No. 1, 142-154, 1987)",
+            "identifier": "C100043",
+            "notation": "TIMI GRADE 3",
+            "pref_label": "Thrombolysis in Myocardial Infarction Flow-3",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101841-C100043"
+        }
+    ]
+}

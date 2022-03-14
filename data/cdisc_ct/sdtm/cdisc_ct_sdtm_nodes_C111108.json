@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Employment involving the standard or customary working time.",
+            "identifier": "C52658",
+            "notation": "FULL-TIME",
+            "pref_label": "Full Time Employment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111108-C52658"
+        },
+        {
+            "definition": "The state of not having a job.",
+            "identifier": "C75563",
+            "notation": "NOT EMPLOYED",
+            "pref_label": "Unemployed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111108-C75563"
+        },
+        {
+            "definition": "Employment involving less than the standard or customary working time.",
+            "identifier": "C75562",
+            "notation": "PART-TIME",
+            "pref_label": "Part Time Employment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111108-C75562"
+        }
+    ]
+}

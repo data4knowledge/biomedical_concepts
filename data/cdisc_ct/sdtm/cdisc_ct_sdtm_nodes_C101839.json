@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "New York Heart Association Class I",
+            "definition": "Without limitations of physical activity. Ordinary physical activity does not cause undue fatigue, palpitations, or dyspnea.",
+            "identifier": "C66904",
+            "notation": "NYHA CLASS I",
+            "pref_label": "New York Heart Association Class I",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101839-C66904"
+        },
+        {
+            "alt_label": "New York Heart Association Class II",
+            "definition": "Slight limitation of physical activity. The patient is comfortable at rest. Ordinary physical activity results in fatigue, palpitations, or dyspnea.",
+            "identifier": "C66905",
+            "notation": "NYHA CLASS II",
+            "pref_label": "New York Heart Association Class II",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101839-C66905"
+        },
+        {
+            "alt_label": "New York Heart Association Class III",
+            "definition": "Marked limitation of physical activity. The patient is comfortable at rest. Less than ordinary activity causes fatigue, palpitations, or dyspnea.",
+            "identifier": "C66907",
+            "notation": "NYHA CLASS III",
+            "pref_label": "New York Heart Association Class III",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101839-C66907"
+        },
+        {
+            "alt_label": "New York Heart Association Class IV",
+            "definition": "Inability to carry on any physical activity without discomfort. Heart failure symptoms are present even at rest or with minimal exertion.",
+            "identifier": "C66908",
+            "notation": "NYHA CLASS IV",
+            "pref_label": "New York Heart Association Class IV",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101839-C66908"
+        }
+    ]
+}

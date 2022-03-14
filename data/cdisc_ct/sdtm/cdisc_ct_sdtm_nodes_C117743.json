@@ -1,0 +1,372 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Astigmatism Axis",
+            "definition": "A measurement of the location, in degrees, of the flatter principal meridian on a 180-degree scale, where 90 degrees designates the vertical meridian and 180 degrees designates the horizontal meridian.",
+            "identifier": "C117889",
+            "notation": "ASTAXIS",
+            "pref_label": "Astigmatism Axis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C117889"
+        },
+        {
+            "alt_label": "Cell Density",
+            "definition": "A measurement of the number of cells contained in a unit of volume or area.",
+            "identifier": "C120538",
+            "notation": "CELLDENS",
+            "pref_label": "Cell Density",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120538"
+        },
+        {
+            "alt_label": "Cell Density, Maximum",
+            "definition": "The maximum number in a group of values that represent the cell density.",
+            "identifier": "C120710",
+            "notation": "CELLDMAX",
+            "pref_label": "Maximum Cell Density",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120710"
+        },
+        {
+            "alt_label": "Cell Density, Minimum",
+            "definition": "The minimum number in a group of values that represent the cell density.",
+            "identifier": "C120711",
+            "notation": "CELLDMIN",
+            "pref_label": "Minimum Cell Density",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120711"
+        },
+        {
+            "alt_label": "Cell Density, Mean",
+            "definition": "The mean number in a group of values that represent the cell density.",
+            "identifier": "C120712",
+            "notation": "CELLDMN",
+            "pref_label": "Mean Cell Density",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120712"
+        },
+        {
+            "alt_label": "Cell Density, Standard Deviation",
+            "definition": "The standard deviation in a group of values that represent the cell density.",
+            "identifier": "C120713",
+            "notation": "CELLDSD",
+            "pref_label": "Standard Deviation of Cell Density",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120713"
+        },
+        {
+            "alt_label": "Corrective Lens for Distance Indicator",
+            "definition": "An indication as to whether an eye lens(es) is worn by the subject to correct for distance.",
+            "identifier": "C181511",
+            "notation": "CLDISIND",
+            "pref_label": "Corrective Lens for Distance Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C181511"
+        },
+        {
+            "alt_label": "Corrective Lens Type for Distance",
+            "definition": "A description of the type of eye lens(es) worn by the subject to correct for distance.",
+            "identifier": "C181512",
+            "notation": "CLDISTYP",
+            "pref_label": "Corrective Lens Type for Distance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C181512"
+        },
+        {
+            "alt_label": "Color",
+            "definition": "The appearance of objects (or light sources) described in terms of a person's perception of their hue and lightness (or brightness) and saturation. (NCI)",
+            "identifier": "C37927",
+            "notation": "COLOR",
+            "pref_label": "Color",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C37927"
+        },
+        {
+            "alt_label": "Cup to Disc Ratio",
+            "definition": "The ratio of the diameter of the optic cup compared to the diameter of the optic disc. (NCI)",
+            "identifier": "C120714",
+            "notation": "CUPDISC",
+            "pref_label": "Optic Cup to Disc Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120714"
+        },
+        {
+            "alt_label": "Diameter",
+            "definition": "The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference. (NCI)",
+            "identifier": "C25285",
+            "notation": "DIAMETER",
+            "pref_label": "Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C25285"
+        },
+        {
+            "alt_label": "Diameter, Minimum",
+            "definition": "The minimum number in a group of values that represent the diameter of an object.",
+            "identifier": "C120715",
+            "notation": "DIAMMIN",
+            "pref_label": "Minimum Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120715"
+        },
+        {
+            "alt_label": "Diameter, Mean",
+            "definition": "The mean number in a group of values that represent the diameter of an object.",
+            "identifier": "C120716",
+            "notation": "DIAMMN",
+            "pref_label": "Mean Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120716"
+        },
+        {
+            "alt_label": "Diameter, Standard Deviation",
+            "definition": "The standard deviation in a group of values that represent the diameter of an object.",
+            "identifier": "C120717",
+            "notation": "DIAMSD",
+            "pref_label": "Standard Deviation of Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120717"
+        },
+        {
+            "alt_label": "Edema",
+            "definition": "An evaluation of edema (an excessive amount of watery fluid) in a biological specimen or location.",
+            "identifier": "C178049",
+            "notation": "EDEMA",
+            "pref_label": "Edema Evaluation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C178049"
+        },
+        {
+            "alt_label": "Eye Drop Comfort Grade",
+            "definition": "The position on a scale to assess the degree of comfort associated with the administration of an eye drop.",
+            "identifier": "C147474",
+            "notation": "EYDCOMGR",
+            "pref_label": "Eye Drop Comfort Grade",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C147474"
+        },
+        {
+            "alt_label": "Hyperemia Grade",
+            "definition": "The position on a scale to assess hyperemia.",
+            "identifier": "C132432",
+            "notation": "HYPERGR",
+            "pref_label": "Hyperemia Grade",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C132432"
+        },
+        {
+            "alt_label": "Hyperemia",
+            "definition": "An evaluation of hyperemia (an increased amount of blood) in a biological specimen or location.",
+            "identifier": "C178048",
+            "notation": "HYPERMIA",
+            "pref_label": "Hyperemia Evaluation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C178048"
+        },
+        {
+            "alt_label": "Interpretation",
+            "definition": "An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.",
+            "identifier": "C41255",
+            "notation": "INTP",
+            "pref_label": "Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C41255"
+        },
+        {
+            "alt_label": "Intraocular Pressure",
+            "definition": "The fluid pressure within the eye.",
+            "identifier": "C87143",
+            "notation": "IOP",
+            "pref_label": "Intraocular Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C87143"
+        },
+        {
+            "alt_label": "Longest Diameter",
+            "definition": "The longest possible length of a straight line passing through the center of a circular or spheroid object that connects two points on the circumference.",
+            "identifier": "C96684",
+            "notation": "LDIAM",
+            "pref_label": "Longest Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C96684"
+        },
+        {
+            "alt_label": "Lens Status",
+            "definition": "The condition or state of the lens of the eye. (NCI)",
+            "identifier": "C120718",
+            "notation": "LENSSTAT",
+            "pref_label": "Lens Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120718"
+        },
+        {
+            "alt_label": "Log Score",
+            "definition": "A number or range of numeric values on the log scale that measures performance, function, quality, or ability.",
+            "identifier": "C117890",
+            "notation": "LOGSCORE",
+            "pref_label": "Log Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C117890"
+        },
+        {
+            "alt_label": "Minimum Angle of Resolution",
+            "definition": "The smallest angle of separation that allows an image-forming device, including the retina, to distinguish two objects as distinct entities.",
+            "identifier": "C142233",
+            "notation": "MNARS",
+            "pref_label": "Minimum Angle of Resolution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C142233"
+        },
+        {
+            "alt_label": "Minimum Angle of Resolution, Log10",
+            "definition": "The base-10 logarithm of the minimum angle of resolution achieved by an individual during testing.",
+            "identifier": "C142351",
+            "notation": "MNARSLOG",
+            "pref_label": "Log10 Minimum Angle of Resolution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C142351"
+        },
+        {
+            "alt_label": "Near-Point Accommodation",
+            "definition": "The minimum distance from the retina that an object remains in clear focus.",
+            "identifier": "C142352",
+            "notation": "NRPNTACC",
+            "pref_label": "Near-Point Accommodation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C142352"
+        },
+        {
+            "alt_label": "Number of Characters Read",
+            "definition": "The integer that describes the number of characters read by the subject during an eye chart assessment.",
+            "identifier": "C142353",
+            "notation": "NUMCHRRD",
+            "pref_label": "Number of Characters Read",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C142353"
+        },
+        {
+            "alt_label": "Number of Characters Unread",
+            "definition": "The integer that describes the number of characters not able to be read by the subject during an eye chart assessment.",
+            "identifier": "C142354",
+            "notation": "NUMCHRUR",
+            "pref_label": "Number of Characters Unread",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C142354"
+        },
+        {
+            "alt_label": "Number of Letters Correct",
+            "definition": "The integer that describes the number of letters correctly identified by the subject during an eye chart assessment.",
+            "identifier": "C117891",
+            "notation": "NUMLCOR",
+            "pref_label": "Number of Correct Eye Chart Letters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C117891"
+        },
+        {
+            "alt_label": "Number of Lines Read",
+            "definition": "The integer that describes the number of lines read by the subject during an eye chart assessment.",
+            "identifier": "C139242",
+            "notation": "NUMLINRD",
+            "pref_label": "Number of Eye Chart Lines Read",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C139242"
+        },
+        {
+            "alt_label": "Number of Lines Unread",
+            "definition": "The integer that describes the number of lines not able to be read by the subject during an eye chart assessment.",
+            "identifier": "C142355",
+            "notation": "NUMLINUR",
+            "pref_label": "Number of Lines Unread",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C142355"
+        },
+        {
+            "alt_label": "Ophthalmic Examination",
+            "definition": "An observation, assessment or examination of the eye.",
+            "identifier": "C38060",
+            "notation": "OEEXAM",
+            "pref_label": "Eye Examination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C38060"
+        },
+        {
+            "alt_label": "Reactivity",
+            "definition": "A description of the action in response to some kind of stimulus.",
+            "identifier": "C25637",
+            "notation": "REACTIV",
+            "pref_label": "Reaction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C25637"
+        },
+        {
+            "alt_label": "Cylindrical Refraction Error",
+            "definition": "A measurement of the extent of defect in vision caused by a mismatch of optical power between the cylindrical and horizontal meridians, resulting in sub-optimal reflection of light onto the retina. (NCI)",
+            "identifier": "C117892",
+            "notation": "RECYLDR",
+            "pref_label": "Cylindrical Refractive Error",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C117892"
+        },
+        {
+            "alt_label": "Spherical Refractive Error",
+            "definition": "A measurement of the extent of defect in vision caused by a mismatch of optimal power between the cornea and/or lens and the length of the eyeball, resulting in sub-optimal reflection of light onto the retina. (NCI)",
+            "identifier": "C117893",
+            "notation": "RESPHERE",
+            "pref_label": "Spherical Refractive Error",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C117893"
+        },
+        {
+            "alt_label": "Shape",
+            "definition": "The spatial arrangement of something as distinct from its substance. (NCI)",
+            "identifier": "C25677",
+            "notation": "SHAPE",
+            "pref_label": "Shape",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C25677"
+        },
+        {
+            "alt_label": "Subject to Eye Chart Actual Distance",
+            "definition": "The actual distance between the subject and the eye chart during an eye assessment.",
+            "identifier": "C147475",
+            "notation": "SUBECADT",
+            "pref_label": "Actual Subject to Eye Chart Distance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C147475"
+        },
+        {
+            "alt_label": "Subject to Eye Chart Planned Distance",
+            "definition": "The planned distance between the subject and the eye chart during an eye assessment.",
+            "identifier": "C147476",
+            "notation": "SUBECPDT",
+            "pref_label": "Planned Subject to Eye Chart Distance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C147476"
+        },
+        {
+            "alt_label": "Tear Secretion",
+            "definition": "A measurement of the amount of tear production in a subject.",
+            "identifier": "C172574",
+            "notation": "TEARSCR",
+            "pref_label": "Tear Secretion Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C172574"
+        },
+        {
+            "alt_label": "Tear Secretion Rate",
+            "definition": "A measurement of the amount of tears being secreted over a defined amount of time (e.g. 5 minutes).",
+            "identifier": "C172575",
+            "notation": "TEARSCRR",
+            "pref_label": "Tear Secretion Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C172575"
+        },
+        {
+            "alt_label": "Thickness",
+            "definition": "The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.",
+            "identifier": "C41145",
+            "notation": "THICK",
+            "pref_label": "Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C41145"
+        },
+        {
+            "alt_label": "Thickness, Maximum",
+            "definition": "The maximum number in a group of values that represent the thickness of an object.",
+            "identifier": "C120719",
+            "notation": "THICKMAX",
+            "pref_label": "Maximum Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120719"
+        },
+        {
+            "alt_label": "Thickness, Minimum",
+            "definition": "The minimum number in a group of values that represent the thickness of an object.",
+            "identifier": "C120720",
+            "notation": "THICKMIN",
+            "pref_label": "Minimum Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120720"
+        },
+        {
+            "alt_label": "Thickness, Mean",
+            "definition": "The mean number in a group of values that represent the thickness of an object.",
+            "identifier": "C120721",
+            "notation": "THICKMN",
+            "pref_label": "Mean Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120721"
+        },
+        {
+            "alt_label": "Thickness, Standard Deviation",
+            "definition": "The standard deviation in a group of values that represent the thickness of an object.",
+            "identifier": "C120722",
+            "notation": "THICKSD",
+            "pref_label": "Standard Deviation of Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C120722"
+        },
+        {
+            "alt_label": "Visual Acuity Card Grating Frequency",
+            "definition": "A measurement of the number of horizontal or vertical lines within a pre-determined unit of length on a visual acuity card.",
+            "identifier": "C147477",
+            "notation": "VACGRFRQ",
+            "pref_label": "Acuity Card Grating Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C117743-C147477"
+        }
+    ]
+}

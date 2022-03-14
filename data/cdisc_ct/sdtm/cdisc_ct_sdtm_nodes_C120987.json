@@ -1,0 +1,44 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "BODE01-Body-mass Index",
+            "definition": "Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index - Body-mass index.",
+            "identifier": "C121063",
+            "notation": "BODE0101",
+            "pref_label": "BODE Index - Body-mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120987-C121063"
+        },
+        {
+            "alt_label": "BODE01-FEV1 % Predicted",
+            "definition": "Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index - FEV1 (% of predicted).",
+            "identifier": "C121064",
+            "notation": "BODE0102",
+            "pref_label": "BODE Index - FEV1 Percent Predicted",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120987-C121064"
+        },
+        {
+            "alt_label": "BODE01-MMRC Dyspnea Scale",
+            "definition": "Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index - MMRC dyspnea scale.",
+            "identifier": "C121065",
+            "notation": "BODE0103",
+            "pref_label": "BODE Index - MMRC Dyspnea Scale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120987-C121065"
+        },
+        {
+            "alt_label": "BODE01-Distance Walked in 6 Minutes",
+            "definition": "Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index - Distance walked in 6 min (in meter).",
+            "identifier": "C121066",
+            "notation": "BODE0104",
+            "pref_label": "BODE Index - Distance Walked in 6 Minutes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120987-C121066"
+        },
+        {
+            "alt_label": "BODE01-BODE Score",
+            "definition": "Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index - BODE score.",
+            "identifier": "C121067",
+            "notation": "BODE0105",
+            "pref_label": "BODE Index - Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120987-C121067"
+        }
+    ]
+}

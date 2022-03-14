@@ -1,0 +1,50 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Living; showing characteristics of life.",
+            "identifier": "C37987",
+            "notation": "ALIVE",
+            "pref_label": "Alive",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124317-C37987"
+        },
+        {
+            "alt_label": "Died",
+            "definition": "The absence of life or state of being dead. (NCI)",
+            "identifier": "C28554",
+            "notation": "DEAD",
+            "pref_label": "Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124317-C28554"
+        },
+        {
+            "alt_label": "Early IUD",
+            "definition": "Death of a conceptus that occurred inside the uterus during the embryonic phase of development, with no recognizable tissue structure.",
+            "identifier": "C124600",
+            "notation": "EARLY INTRAUTERINE DEATH",
+            "pref_label": "Early Intrauterine Death",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124317-C124600"
+        },
+        {
+            "definition": "An implantation site that contains no discernable embryonic or placental tissue but may contain remnants of the implantation.",
+            "identifier": "C124601",
+            "notation": "EMPTY IMPLANTATION SITE",
+            "pref_label": "Empty Implantation Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124317-C124601"
+        },
+        {
+            "alt_label": "IUD",
+            "definition": "Death of a conceptus that occurred inside the uterus.",
+            "identifier": "C50620",
+            "notation": "INTRAUTERINE DEATH",
+            "pref_label": "Intrauterine Fetal Death",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124317-C50620"
+        },
+        {
+            "alt_label": "Late IUD",
+            "definition": "Death of a conceptus that occurred inside the uterus during the fetal phase of development, with recognizable tissue structure.",
+            "identifier": "C124643",
+            "notation": "LATE INTRAUTERINE DEATH",
+            "pref_label": "Late Intrauterine Death",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124317-C124643"
+        }
+    ]
+}

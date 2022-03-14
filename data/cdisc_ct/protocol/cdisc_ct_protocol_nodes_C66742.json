@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "No",
+            "definition": "The non-affirmative response to a question. (NCI)",
+            "identifier": "C49487",
+            "notation": "N",
+            "pref_label": "No",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66742-C49487"
+        },
+        {
+            "alt_label": "NA;Not Applicable",
+            "definition": "Determination of a value is not relevant in the current context. (NCI)",
+            "identifier": "C48660",
+            "notation": "NA",
+            "pref_label": "Not Applicable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66742-C48660"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "U",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66742-C17998"
+        },
+        {
+            "alt_label": "Yes",
+            "definition": "The affirmative response to a question. (NCI)",
+            "identifier": "C49488",
+            "notation": "Y",
+            "pref_label": "Yes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66742-C49488"
+        }
+    ]
+}

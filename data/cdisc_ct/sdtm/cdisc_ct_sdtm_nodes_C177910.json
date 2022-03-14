@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Nar",
+            "definition": "A textual description of the particulars of an act, occurrence, or course of events.",
+            "identifier": "C80446",
+            "notation": "NARRATIVE",
+            "pref_label": "Narrative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177910-C80446"
+        },
+        {
+            "alt_label": "Nom",
+            "definition": "A scale or classification with no inherent order to the values, which uses named categories or labels.",
+            "identifier": "C47798",
+            "notation": "NOMINAL",
+            "pref_label": "Nominal Scale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177910-C47798"
+        },
+        {
+            "alt_label": "Ord",
+            "definition": "A scale that uses an ordered set of values where the difference between successive designations may not be constant.",
+            "identifier": "C47797",
+            "notation": "ORDINAL",
+            "pref_label": "Ordinal Scale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177910-C47797"
+        },
+        {
+            "alt_label": "Qn",
+            "definition": "A numeric measure of a physical attribute of an entity or substance.",
+            "identifier": "C70766",
+            "notation": "QUANTITATIVE",
+            "pref_label": "Quantitative Concept",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177910-C70766"
+        }
+    ]
+}

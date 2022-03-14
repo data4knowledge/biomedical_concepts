@@ -1,0 +1,44 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Conscious State",
+            "definition": "A level of awareness that can be described as being alert. (NCI)",
+            "identifier": "C88434",
+            "notation": "CONSCIOUS",
+            "pref_label": "Conscious State",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90018-C88434"
+        },
+        {
+            "alt_label": "Depressed Level of Consciousness",
+            "definition": "A neurologic state characterized by decreased ability to perceive and respond. (NCI)",
+            "identifier": "C78253",
+            "notation": "DEPRESSED",
+            "pref_label": "Depressed Level Of Consciousness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90018-C78253"
+        },
+        {
+            "alt_label": "Semi-conscious State",
+            "definition": "A level of awareness that can be described as varied and intermittent periods of consciousness and unconsciousness.",
+            "identifier": "C88440",
+            "notation": "SEMI-CONSCIOUS",
+            "pref_label": "Semi-conscious",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90018-C88440"
+        },
+        {
+            "alt_label": "Loss of Consciousness;Unconscious State",
+            "definition": "The neurologic status characterized by the occurrence of a loss of the ability to perceive and respond.",
+            "identifier": "C50635",
+            "notation": "UNCONSCIOUS",
+            "pref_label": "Loss of Consciousness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90018-C50635"
+        },
+        {
+            "alt_label": "Unspecified State of Consciousness",
+            "definition": "The state of consciousness is not controlled. The possibility exists for having multiple conscious states over a period of time. (NCI)",
+            "identifier": "C90482",
+            "notation": "UNSPECIFIED",
+            "pref_label": "Unspecified State of Consciousness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90018-C90482"
+        }
+    ]
+}

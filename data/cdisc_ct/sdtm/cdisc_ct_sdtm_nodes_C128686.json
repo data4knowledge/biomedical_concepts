@@ -1,0 +1,1003 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Liters per day (flow rate), divided by micrograms per day (daily dose).",
+            "identifier": "C120733",
+            "notation": "(L/day)/(ug/day)",
+            "pref_label": "Liter per Day per Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120733"
+        },
+        {
+            "definition": "Liters per day (flow rate), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C120734",
+            "notation": "(L/day)/(ug/kg)",
+            "pref_label": "Liter per Day per Microgram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120734"
+        },
+        {
+            "definition": "Liters per day (flow rate), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C120735",
+            "notation": "(L/day)/(ug/kg/day)",
+            "pref_label": "Liter per Day per Microgram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120735"
+        },
+        {
+            "definition": "Liters per day (flow rate), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C120736",
+            "notation": "(L/day)/(ug/m2)",
+            "pref_label": "Liter per Day per Microgram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120736"
+        },
+        {
+            "definition": "Liters per day (flow rate), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C120737",
+            "notation": "(L/day)/(ug/m2/day)",
+            "pref_label": "Liter per Day per Microgram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120737"
+        },
+        {
+            "definition": "Liters per day (flow rate), divided by micrograms (dose).",
+            "identifier": "C85665",
+            "notation": "(L/day)/ug",
+            "pref_label": "Liter per Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C85665"
+        },
+        {
+            "definition": "Liters per hour (flow rate), divided by micrograms per day (daily dose).",
+            "identifier": "C120745",
+            "notation": "(L/h)/(ug/day)",
+            "pref_label": "Liter per Hour per Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120745"
+        },
+        {
+            "definition": "Liters per hour (flow rate), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C120746",
+            "notation": "(L/h)/(ug/kg)",
+            "pref_label": "Liter per Hour per Microgram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120746"
+        },
+        {
+            "definition": "Liters per hour (flow rate), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C120747",
+            "notation": "(L/h)/(ug/kg/day)",
+            "pref_label": "Liter per Hour per Microgram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120747"
+        },
+        {
+            "definition": "Liters per hour (flow rate), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C120748",
+            "notation": "(L/h)/(ug/m2)",
+            "pref_label": "Liter per Hour per Microgram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120748"
+        },
+        {
+            "definition": "Liters per hour (flow rate), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C120749",
+            "notation": "(L/h)/(ug/m2/day)",
+            "pref_label": "Liter per Hour per Microgram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120749"
+        },
+        {
+            "definition": "Liters per hour (flow rate), divided by micrograms (dose).",
+            "identifier": "C85662",
+            "notation": "(L/h)/ug",
+            "pref_label": "Liter per Microgram per Hour",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C85662"
+        },
+        {
+            "definition": "Liters per minute (flow rate), divided by micrograms per day (daily dose).",
+            "identifier": "C120756",
+            "notation": "(L/min)/(ug/day)",
+            "pref_label": "Liter per Minute per Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120756"
+        },
+        {
+            "definition": "Liters per minute (flow rate), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C120757",
+            "notation": "(L/min)/(ug/kg)",
+            "pref_label": "Liter per Minute per Microgram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120757"
+        },
+        {
+            "definition": "Liters per minute (flow rate), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C120758",
+            "notation": "(L/min)/(ug/kg/day)",
+            "pref_label": "Liter per Minute per Microgram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120758"
+        },
+        {
+            "definition": "Liters per minute (flow rate), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C120759",
+            "notation": "(L/min)/(ug/m2)",
+            "pref_label": "Liter per Minute per Microgram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120759"
+        },
+        {
+            "definition": "Liters per minute (flow rate), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C120760",
+            "notation": "(L/min)/(ug/m2/day)",
+            "pref_label": "Liter per Minute per Microgram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120760"
+        },
+        {
+            "definition": "Liters per minute (flow rate), divided by micrograms (dose).",
+            "identifier": "C85666",
+            "notation": "(L/min)/ug",
+            "pref_label": "Liter per Microgram per Minute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C85666"
+        },
+        {
+            "alt_label": "(L/day)/(mg/day);(mL/day)/(ug/day)",
+            "definition": "Liters per day (flow rate), divided by milligrams per day (daily dose) or milliliters per day (flow rate), divided by micrograms per day (daily dose).",
+            "identifier": "C120728",
+            "notation": "(mL/day)/(ug/day)",
+            "pref_label": "Liter per Day per Milligram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120728"
+        },
+        {
+            "alt_label": "(L/day)/(mg/kg);(mL/day)/(ug/kg)",
+            "definition": "Liters per day (flow rate), divided by milligrams per kilogram (dose normalized by body weight) or milliliters per day (flow rate), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C120729",
+            "notation": "(mL/day)/(ug/kg)",
+            "pref_label": "Liter per Day per Milligram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120729"
+        },
+        {
+            "alt_label": "(L/day)/(mg/kg/day);(mL/day)/(ug/kg/day)",
+            "definition": "Liters per day (flow rate), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milliliters per day (flow rate), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C120730",
+            "notation": "(mL/day)/(ug/kg/day)",
+            "pref_label": "Liter per Day per Milligram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120730"
+        },
+        {
+            "alt_label": "(L/day)/(mg/m2);(mL/day)/(ug/m2)",
+            "definition": "Liters per day (flow rate), divided by milligrams per meter squared (dose normalized by surface area) or milliliters per day (flow rate), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C120731",
+            "notation": "(mL/day)/(ug/m2)",
+            "pref_label": "Liter per Day per Milligram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120731"
+        },
+        {
+            "alt_label": "(L/day)/(mg/m2/day);(mL/day)/(ug/m2/day)",
+            "definition": "Liters per day (flow rate), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milliliters per day (flow rate), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C120732",
+            "notation": "(mL/day)/(ug/m2/day)",
+            "pref_label": "Liter per Day per Milligram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120732"
+        },
+        {
+            "alt_label": "(L/day)/mg;(mL/day)/ug",
+            "definition": "Liters per day (flow rate), divided by milligrams (dose) or milliliters per day (flow rate), divided by micrograms (dose).",
+            "identifier": "C85672",
+            "notation": "(mL/day)/ug",
+            "pref_label": "Liter per Milligram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C85672"
+        },
+        {
+            "alt_label": "(L/h)/(mg/day);(mL/h)/(ug/day)",
+            "definition": "Liters per hour (flow rate), divided by milligrams per day (daily dose) or milliliters per hour (flow rate), divided by micrograms per day (daily dose).",
+            "identifier": "C120740",
+            "notation": "(mL/h)/(ug/day)",
+            "pref_label": "Liter per Hour per Milligram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120740"
+        },
+        {
+            "alt_label": "(L/h)/(mg/kg);(mL/h)/(ug/kg)",
+            "definition": "Liters per hour (flow rate), divided by milligrams per kilogram (dose normalized by body weight) or milliliters per hour (flow rate), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C120741",
+            "notation": "(mL/h)/(ug/kg)",
+            "pref_label": "Liter per Hour per Milligram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120741"
+        },
+        {
+            "alt_label": "(L/h)/(mg/kg/day);(mL/h)/(ug/kg/day)",
+            "definition": "Liters per hour (flow rate), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milliliters per hour (flow rate), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C120742",
+            "notation": "(mL/h)/(ug/kg/day)",
+            "pref_label": "Liter per Hour per Milligram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120742"
+        },
+        {
+            "alt_label": "(L/h)/(mg/m2);(mL/h)/(ug/m2)",
+            "definition": "Liters per hour (flow rate), divided by milligrams per meter squared (dose normalized by surface area) or milliliters per hour (flow rate), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C120743",
+            "notation": "(mL/h)/(ug/m2)",
+            "pref_label": "Liter per Hour per Milligram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120743"
+        },
+        {
+            "alt_label": "(L/h)/(mg/m2/day);(mL/h)/(ug/m2/day)",
+            "definition": "Liters per hour (flow rate), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milliliters per hour (flow rate), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C120744",
+            "notation": "(mL/h)/(ug/m2/day)",
+            "pref_label": "Liter per Hour per Milligram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120744"
+        },
+        {
+            "alt_label": "(L/h)/mg;(mL/h)/ug",
+            "definition": "Liters per hour (flow rate), divided by milligrams (dose) or milliliters per hour (flow rate), divided by micrograms (dose).",
+            "identifier": "C85673",
+            "notation": "(mL/h)/ug",
+            "pref_label": "Liter per Milligram per Hour",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C85673"
+        },
+        {
+            "alt_label": "(L/min)/(mg/day);(mL/min)/(ug/day)",
+            "definition": "Liters per minute (flow rate), divided by milligrams per day (daily dose) or milliliters per minute (flow rate), divided by micrograms per day (daily dose).",
+            "identifier": "C120751",
+            "notation": "(mL/min)/(ug/day)",
+            "pref_label": "Liter per Minute per Milligram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120751"
+        },
+        {
+            "alt_label": "(L/min)/(mg/kg);(mL/min)/(ug/kg)",
+            "definition": "Liters per minute (flow rate), divided by milligrams per kilogram (dose normalized by body weight) or milliliters per minute (flow rate), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C120752",
+            "notation": "(mL/min)/(ug/kg)",
+            "pref_label": "Liter per Minute per Milligram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120752"
+        },
+        {
+            "alt_label": "(L/min)/(mg/kg/day);(mL/min)/(ug/kg/day)",
+            "definition": "Liters per minute (flow rate), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milliliters per minute (flow rate), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C120753",
+            "notation": "(mL/min)/(ug/kg/day)",
+            "pref_label": "Liter per Minute per Milligram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120753"
+        },
+        {
+            "alt_label": "(L/min)/(mg/m2);(mL/min)/(ug/m2)",
+            "definition": "Liters per minute (flow rate), divided by milligrams per meter squared (dose normalized by surface area) or milliliters per minute (flow rate), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C120754",
+            "notation": "(mL/min)/(ug/m2)",
+            "pref_label": "Liter per Minute per Milligram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120754"
+        },
+        {
+            "alt_label": "(L/min)/(mg/m2/day);(mL/min)/(ug/m2/day)",
+            "definition": "Liters per minute (flow rate), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milliliters per minute (flow rate), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C120755",
+            "notation": "(mL/min)/(ug/m2/day)",
+            "pref_label": "Liter per Minute per Milligram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120755"
+        },
+        {
+            "alt_label": "(L/min)/mg;(mL/min)/ug",
+            "definition": "Liters per minute (flow rate), divided by milligrams (dose) or milliliters per minute (flow rate), divided by micrograms (dose).",
+            "identifier": "C85674",
+            "notation": "(mL/min)/ug",
+            "pref_label": "Liter per Milligram per Minute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C85674"
+        },
+        {
+            "alt_label": "day*g/mL/kg;day*mg/mL/g;day*ng/mL/ug;day*ug/mL/mg",
+            "definition": "Days times grams per milliliter (area under the curve), divided by kilograms (weight); or days times milligrams per milliliter (area under the curve), divided by grams (weight); or days times micrograms per milliliter (area under the curve), divided by milligrams (dose); or days times nanograms per milliliter (area under the curve), divided by micrograms (dose).",
+            "identifier": "C112247",
+            "notation": "day*ng/mL/ug",
+            "pref_label": "Day Times Gram Per Milliliter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C112247"
+        },
+        {
+            "alt_label": "fg/mL/(ug/day);pg/mL/(mg/day)",
+            "definition": "Picograms per milliliter (concentration), divided by milligrams per day (daily dose) or femtograms per milliliter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119342",
+            "notation": "fg/mL/(ug/day)",
+            "pref_label": "Femtogram per Milliliter per Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119342"
+        },
+        {
+            "alt_label": "fg/mL/(ug/kg);pg/mL/(mg/kg)",
+            "definition": "Picograms per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or femtograms per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C105479",
+            "notation": "fg/mL/(ug/kg)",
+            "pref_label": "Picogram Per Milliliter Per Milligram Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C105479"
+        },
+        {
+            "alt_label": "fg/mL/(ug/kg/day);pg/mL/(mg/kg/day)",
+            "definition": "Picograms per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or femtograms per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C105480",
+            "notation": "fg/mL/(ug/kg/day)",
+            "pref_label": "Picogram Per Milliliter Per Milligram Per Kilogram Per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C105480"
+        },
+        {
+            "alt_label": "fg/mL/(ug/m2);pg/mL/(mg/m2)",
+            "definition": "Picograms per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or femtograms per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119345",
+            "notation": "fg/mL/(ug/m2)",
+            "pref_label": "Femtogram per Milliliter per Microgram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119345"
+        },
+        {
+            "alt_label": "fg/mL/(ug/m2/day);pg/mL/(mg/m2/day)",
+            "definition": "Picograms per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or femtograms per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119346",
+            "notation": "fg/mL/(ug/m2/day)",
+            "pref_label": "Femtogram per Milliliter per Microgram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119346"
+        },
+        {
+            "alt_label": "fg/mL/ug;ng/mL/g;pg/mL/mg;ug/mL/kg",
+            "definition": "Micrograms per milliliter (concentration), divided by kilograms (weight) or nanograms per milliliter (concentration), divided by grams (weight) or picograms per milliliter (concentration), divided by milligrams (dose) or femtograms per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C119351",
+            "notation": "fg/mL/ug",
+            "pref_label": "Femtogram per Milliliter per Microgram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119351"
+        },
+        {
+            "definition": "Grams per milliliter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119356",
+            "notation": "g/mL/(ug/day)",
+            "pref_label": "Gram per Milliliter per Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119356"
+        },
+        {
+            "definition": "Grams per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C119357",
+            "notation": "g/mL/(ug/kg)",
+            "pref_label": "Gram per Milliliter per Microgram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119357"
+        },
+        {
+            "definition": "Grams per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C119358",
+            "notation": "g/mL/(ug/kg/day)",
+            "pref_label": "Gram per Milliliter per Microgram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119358"
+        },
+        {
+            "definition": "Grams per milliliter (concentration), divided by micrograms per meter squared (dose normalized by body weight).",
+            "identifier": "C119359",
+            "notation": "g/mL/(ug/m2)",
+            "pref_label": "Gram per Milliliter per Microgram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119359"
+        },
+        {
+            "definition": "Grams per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119360",
+            "notation": "g/mL/(ug/m2/day)",
+            "pref_label": "Gram per Milliliter per Microgram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119360"
+        },
+        {
+            "definition": "Grams per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C119365",
+            "notation": "g/mL/ug",
+            "pref_label": "Gram per Milliliter per Microgram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119365"
+        },
+        {
+            "alt_label": "h*mmol/L/kg;h*nmol/L/mg;h*pmol/L/ug;h*umol/L/g",
+            "definition": "Hours times millimoles per liter (area under the curve), divided by kilograms (weight); or hours times micromoles per liter (area under the curve), divided by grams (weight); or hours times nanomoles per liter (area under the curve), divided by milligrams (dose); or hours times picomoles per liter (area under the curve), divided by micrograms (dose).",
+            "identifier": "C112307",
+            "notation": "h*pmol/L/ug",
+            "pref_label": "Hour Times Millimole Per Liter Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C112307"
+        },
+        {
+            "alt_label": "h*mmol/L/mg;h*mol/L/g;h*umol/L/ug",
+            "definition": "Hours times millimoles per liter (area under the curve), divided by kilograms (weight); or hours times micromoles per liter (area under the curve), divided by grams (weight); or hours times nanomoles per liter (area under the curve), divided by milligrams (dose); or hours times picomoles per liter (area under the curve), divided by micrograms (dose).",
+            "identifier": "C106531",
+            "notation": "h*umol/L/ug",
+            "pref_label": "Hour times Mole Per Liter Per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C106531"
+        },
+        {
+            "definition": "International units per milliliter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119372",
+            "notation": "IU/mL/(ug/day)",
+            "pref_label": "International Unit per Milliliter per Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119372"
+        },
+        {
+            "definition": "International units per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C119373",
+            "notation": "IU/mL/(ug/kg)",
+            "pref_label": "International Unit per Milliliter per Microgram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119373"
+        },
+        {
+            "definition": "International units per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C119374",
+            "notation": "IU/mL/(ug/kg/day)",
+            "pref_label": "International Unit per Milliliter per Microgram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119374"
+        },
+        {
+            "definition": "International units per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119375",
+            "notation": "IU/mL/(ug/m2)",
+            "pref_label": "International Unit per Milliliter per Microgram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119375"
+        },
+        {
+            "definition": "International units per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119376",
+            "notation": "IU/mL/(ug/m2/day)",
+            "pref_label": "International Unit per Milliliter per Microgram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119376"
+        },
+        {
+            "definition": "International units per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C119381",
+            "notation": "IU/mL/ug",
+            "pref_label": "International Unit per Milliliter per Microgram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119381"
+        },
+        {
+            "definition": "Liters (volume), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C120810",
+            "notation": "L/(ug/kg)",
+            "pref_label": "Liter per Microgram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120810"
+        },
+        {
+            "definition": "Liters (volume), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C120811",
+            "notation": "L/(ug/kg/day)",
+            "pref_label": "Liter per Microgram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120811"
+        },
+        {
+            "definition": "Liters (volume), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C120812",
+            "notation": "L/(ug/m2)",
+            "pref_label": "Liter per Microgram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120812"
+        },
+        {
+            "definition": "Liters (volume), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C120813",
+            "notation": "L/(ug/m2/day)",
+            "pref_label": "Liter per Microgram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120813"
+        },
+        {
+            "definition": "Liters (volume), divided by micrograms (dose).",
+            "identifier": "C120815",
+            "notation": "L/ug",
+            "pref_label": "Liter per Microgram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120815"
+        },
+        {
+            "alt_label": "g/mL/(mg/day);mg/mL/(ug/day)",
+            "definition": "Grams per milliliter (concentration), divided by milligrams per day (daily dose) or milligrams per milliliter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119353",
+            "notation": "mg/mL/(ug/day)",
+            "pref_label": "Gram per Milliliter per Milligram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119353"
+        },
+        {
+            "alt_label": "g/mL/(mg/kg);mg/mL/(ug/kg)",
+            "definition": "Grams per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or milligrams per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C105462",
+            "notation": "mg/mL/(ug/kg)",
+            "pref_label": "Gram Per Milliliter Per Milligram Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C105462"
+        },
+        {
+            "alt_label": "g/mL/(mg/kg/day);mg/mL/(ug/kg/day)",
+            "definition": "Grams per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milligrams per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C105463",
+            "notation": "mg/mL/(ug/kg/day)",
+            "pref_label": "Gram Per Milliliter Per Milligram Per Kilogram Per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C105463"
+        },
+        {
+            "alt_label": "g/mL/(mg/m2);mg/mL/(ug/m2)",
+            "definition": "Grams per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or milligrams per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119354",
+            "notation": "mg/mL/(ug/m2)",
+            "pref_label": "Gram per Milliliter per Milligram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119354"
+        },
+        {
+            "alt_label": "g/mL/(mg/m2/day);mg/mL/(ug/m2/day)",
+            "definition": "Grams per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milligrams per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119355",
+            "notation": "mg/mL/(ug/m2/day)",
+            "pref_label": "Gram per Milliliter per Milligram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119355"
+        },
+        {
+            "alt_label": "g/mL/mg;mg/mL/ug",
+            "definition": "Grams per milliliter (concentration), divided by milligrams (dose) or milligrams per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C119364",
+            "notation": "mg/mL/ug",
+            "pref_label": "Gram per Milliliter per Milligram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119364"
+        },
+        {
+            "alt_label": "IU/mL/(mg/day);mIU/mL/(ug/day)",
+            "definition": "International units per milliliter (concentration), divided by milligrams per day (daily dose) or milli-international units per milliliter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119367",
+            "notation": "mIU/mL/(ug/day)",
+            "pref_label": "International Unit per Milliliter per Milligram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119367"
+        },
+        {
+            "alt_label": "IU/mL/(mg/kg);mIU/mL/(ug/kg)",
+            "definition": "International units per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or milli-international units per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C119368",
+            "notation": "mIU/mL/(ug/kg)",
+            "pref_label": "International Unit per Milliliter per Milligram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119368"
+        },
+        {
+            "alt_label": "IU/mL/(mg/kg/day);mIU/mL/(ug/kg/day)",
+            "definition": "International units per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milli-international units per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C119369",
+            "notation": "mIU/mL/(ug/kg/day)",
+            "pref_label": "International Unit per Milliliter per Milligram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119369"
+        },
+        {
+            "alt_label": "IU/mL/(mg/m2);mIU/mL/(ug/m2)",
+            "definition": "International units per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or milli-international units per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119370",
+            "notation": "mIU/mL/(ug/m2)",
+            "pref_label": "International Unit per Milliliter per Milligram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119370"
+        },
+        {
+            "alt_label": "IU/mL/(mg/m2/day);mIU/mL/(ug/m2/day)",
+            "definition": "International units per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milli-international units per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119371",
+            "notation": "mIU/mL/(ug/m2/day)",
+            "pref_label": "International Unit per Milliliter per Milligram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119371"
+        },
+        {
+            "alt_label": "IU/mL/mg;mIU/mL/ug",
+            "definition": "International units per milliliter (concentration), divided by milligrams (dose) or milli-international units per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C119380",
+            "notation": "mIU/mL/ug",
+            "pref_label": "International Unit per Milliliter per Milligram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119380"
+        },
+        {
+            "alt_label": "L/(mg/kg/day);mL/(ug/kg/day)",
+            "definition": "Liters (volume), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milliliters (volume), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C120808",
+            "notation": "mL/(ug/kg/day)",
+            "pref_label": "Liter per Milligram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120808"
+        },
+        {
+            "alt_label": "L/(mg/m2/day);mL/(ug/m2/day)",
+            "definition": "Liters (volume), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milliliters (volume), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C120809",
+            "notation": "mL/(ug/m2/day)",
+            "pref_label": "Liter per Milligram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C120809"
+        },
+        {
+            "alt_label": "mmol/L/(ug/day);mol/L/(mg/day)",
+            "definition": "Moles per liter (concentration), divided by milligrams per day (daily dose) or millimoles per liter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119418",
+            "notation": "mmol/L/(ug/day)",
+            "pref_label": "Millimole per Liter per Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119418"
+        },
+        {
+            "alt_label": "mmol/L/(ug/kg);mol/L/(mg/kg)",
+            "definition": "Moles per liter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or millimoles per liter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C119419",
+            "notation": "mmol/L/(ug/kg)",
+            "pref_label": "Millimole per Liter per Microgram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119419"
+        },
+        {
+            "alt_label": "mmol/L/(ug/kg/day);mol/L/(mg/kg/day)",
+            "definition": "Moles per liter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or millimoles per liter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C119420",
+            "notation": "mmol/L/(ug/kg/day)",
+            "pref_label": "Millimole per Liter per Microgram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119420"
+        },
+        {
+            "alt_label": "mmol/L/(ug/m2);mol/L/(mg/m2)",
+            "definition": "Moles per liter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or millimoles per liter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119421",
+            "notation": "mmol/L/(ug/m2)",
+            "pref_label": "Millimole per Liter per Microgram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119421"
+        },
+        {
+            "alt_label": "mmol/L/(ug/m2/day);mol/L/(mg/m2/day)",
+            "definition": "Moles per liter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or millimoles per liter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119422",
+            "notation": "mmol/L/(ug/m2/day)",
+            "pref_label": "Millimole per Liter per Microgram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119422"
+        },
+        {
+            "alt_label": "mmol/L/ug;mol/L/mg",
+            "definition": "Moles per liter (concentration), divided by milligrams (dose) or millimoles per liter (concentration), divided by micrograms (dose).",
+            "identifier": "C119427",
+            "notation": "mmol/L/ug",
+            "pref_label": "Millimole per Liter per Microgram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119427"
+        },
+        {
+            "definition": "Moles per liter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119434",
+            "notation": "mol/L/(ug/day)",
+            "pref_label": "Mole per Liter per Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119434"
+        },
+        {
+            "definition": "Moles per liter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C119435",
+            "notation": "mol/L/(ug/kg)",
+            "pref_label": "Mole per Liter per Microgram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119435"
+        },
+        {
+            "definition": "Moles per liter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C119436",
+            "notation": "mol/L/(ug/kg/day)",
+            "pref_label": "Mole per Liter per Microgram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119436"
+        },
+        {
+            "definition": "Moles per liter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119437",
+            "notation": "mol/L/(ug/m2)",
+            "pref_label": "Mole per Liter per Microgram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119437"
+        },
+        {
+            "definition": "Moles per liter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119438",
+            "notation": "mol/L/(ug/m2/day)",
+            "pref_label": "Mole per Liter per Microgram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119438"
+        },
+        {
+            "definition": "Moles per liter (concentration), divided by micrograms (dose).",
+            "identifier": "C119443",
+            "notation": "mol/L/ug",
+            "pref_label": "Mole per Liter per Microgram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119443"
+        },
+        {
+            "alt_label": "ng/mL/(ug/day);ug/mL/(mg/day)",
+            "definition": "Micrograms per milliliter (concentration), divided by milligrams per day (daily dose) or nanograms per milliliter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119448",
+            "notation": "ng/mL/(ug/day)",
+            "pref_label": "Nanogram per Milliliter per Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119448"
+        },
+        {
+            "alt_label": "ng/mL/(ug/kg);ug/mL/(mg/kg)",
+            "definition": "Micrograms per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or nanograms per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C105473",
+            "notation": "ng/mL/(ug/kg)",
+            "pref_label": "Microgram Per Milliliter Per Milligram Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C105473"
+        },
+        {
+            "alt_label": "ng/mL/(ug/kg/day);ug/mL/(mg/kg/day)",
+            "definition": "Micrograms per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or nanograms per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C105474",
+            "notation": "ng/mL/(ug/kg/day)",
+            "pref_label": "Microgram Per Milliliter Per Milligram Per Kilogram Per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C105474"
+        },
+        {
+            "alt_label": "ng/mL/(ug/m2);ug/mL/(mg/m2)",
+            "definition": "Micrograms per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or nanograms per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119451",
+            "notation": "ng/mL/(ug/m2)",
+            "pref_label": "Nanogram per Milliliter per Microgram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119451"
+        },
+        {
+            "alt_label": "ng/mL/(ug/m2/day);ug/mL/(mg/m2/day)",
+            "definition": "Micrograms per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or nanograms per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119452",
+            "notation": "ng/mL/(ug/m2/day)",
+            "pref_label": "Nanogram per Milliliter per Microgram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119452"
+        },
+        {
+            "alt_label": "g/mL/kg;mg/mL/g;ng/mL/ug;ug/mL/mg",
+            "definition": "Grams per milliliter (concentration), divided by kilograms (weight) or milligrams per milliliter (concentration), divided by grams (weight) or micrograms per milliliter (concentration), divided by milligrams (dose) or nanograms per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C85710",
+            "notation": "ng/mL/ug",
+            "pref_label": "Milligram per Liter per Milligram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C85710"
+        },
+        {
+            "alt_label": "nmol/L/(ug/day);umol/L/(mg/day)",
+            "definition": "Micromoles per liter (concentration), divided by milligrams per day (daily dose) or nanomoles per liter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119462",
+            "notation": "nmol/L/(ug/day)",
+            "pref_label": "Nanomole per Liter per Microgram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119462"
+        },
+        {
+            "alt_label": "nmol/L/(ug/kg);umol/L/(mg/kg)",
+            "definition": "Micromoles per liter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or nanomoles per liter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C119463",
+            "notation": "nmol/L/(ug/kg)",
+            "pref_label": "Nanomole per Liter per Microgram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119463"
+        },
+        {
+            "alt_label": "nmol/L/(ug/kg/day);umol/L/(mg/kg/day)",
+            "definition": "Micromoles per liter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or nanomoles per liter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C119464",
+            "notation": "nmol/L/(ug/kg/day)",
+            "pref_label": "Nanomole per Liter per Microgram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119464"
+        },
+        {
+            "alt_label": "nmol/L/(ug/m2);umol/L/(mg/m2)",
+            "definition": "Micromoles per liter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or nanomoles per liter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119465",
+            "notation": "nmol/L/(ug/m2)",
+            "pref_label": "Nanomole per Liter per Microgram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119465"
+        },
+        {
+            "alt_label": "nmol/L/(ug/m2/day);umol/L/(mg/m2/day)",
+            "definition": "Micromoles per liter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or nanomoles per liter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119466",
+            "notation": "nmol/L/(ug/m2/day)",
+            "pref_label": "Nanomole per Liter per Microgram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119466"
+        },
+        {
+            "alt_label": "mmol/L/g;mol/L/kg;nmol/L/ug;umol/L/mg",
+            "definition": "Moles per liter (concentration), divided by kilograms (weight) or millimoles per liter (concentration), divided by grams (weight) or micromoles per liter (concentration), divided by milligrams (dose) or nanomoles per liter (concentration), divided by micrograms (dose).",
+            "identifier": "C119423",
+            "notation": "nmol/L/ug",
+            "pref_label": "Millimole per Liter per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119423"
+        },
+        {
+            "alt_label": "ng/mL/(mg/day);pg/mL/(ug/day)",
+            "definition": "Nanograms per milliliter (concentration), divided by milligrams per day (daily dose) or picograms per milliliter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119445",
+            "notation": "pg/mL/(ug/day)",
+            "pref_label": "Nanogram per Milliliter per Milligram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119445"
+        },
+        {
+            "alt_label": "ng/mL/(mg/kg);pg/mL/(ug/kg)",
+            "definition": "Nanograms per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or picograms per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C105477",
+            "notation": "pg/mL/(ug/kg)",
+            "pref_label": "Nanogram Per Milliliter Per Milligram Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C105477"
+        },
+        {
+            "alt_label": "ng/mL/(mg/kg/day);pg/mL/(ug/kg/day)",
+            "definition": "Nanograms per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or picograms per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C105478",
+            "notation": "pg/mL/(ug/kg/day)",
+            "pref_label": "Nanogram Per Milliliter Per Milligram Per Kilogram Per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C105478"
+        },
+        {
+            "alt_label": "ng/mL/(mg/m2);pg/mL/(ug/m2)",
+            "definition": "Nanograms per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or picograms per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119446",
+            "notation": "pg/mL/(ug/m2)",
+            "pref_label": "Nanogram per Milliliter per Milligram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119446"
+        },
+        {
+            "alt_label": "ng/mL/(mg/m2/day);pg/mL/(ug/m2/day)",
+            "definition": "Nanograms per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or picograms per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119447",
+            "notation": "pg/mL/(ug/m2/day)",
+            "pref_label": "Nanogram per Milliliter per Milligram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119447"
+        },
+        {
+            "alt_label": "mg/mL/kg;ng/mL/mg;pg/mL/ug;ug/mL/g",
+            "definition": "Milligrams per milliliter (concentration), divided by kilograms (weight) or micrograms per milliliter (concentration), divided by grams (weight) or nanograms per milliliter (concentration), divided by milligrams (dose) or picograms per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C85747",
+            "notation": "pg/mL/ug",
+            "pref_label": "Nanogram per Milliliter per Milligram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C85747"
+        },
+        {
+            "alt_label": "nmol/L/(mg/day);pmol/L/(ug/day)",
+            "definition": "Nanomoles per liter (concentration), divided by milligrams per day (daily dose) or picomoles per liter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119457",
+            "notation": "pmol/L/(ug/day)",
+            "pref_label": "Nanomole per Liter per Milligram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119457"
+        },
+        {
+            "alt_label": "nmol/L/(mg/kg);pmol/L/(ug/kg)",
+            "definition": "Nanomoles per liter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or picomoles per liter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C119458",
+            "notation": "pmol/L/(ug/kg)",
+            "pref_label": "Nanomole per Liter per Milligram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119458"
+        },
+        {
+            "alt_label": "nmol/L/(mg/kg/day);pmol/L/(ug/kg/day)",
+            "definition": "Nanomoles per liter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or picomoles per liter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C119459",
+            "notation": "pmol/L/(ug/kg/day)",
+            "pref_label": "Nanomole per Liter per Milligram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119459"
+        },
+        {
+            "alt_label": "nmol/L/(mg/m2);pmol/L/(ug/m2)",
+            "definition": "Nanomoles per liter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or picomoles per liter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119460",
+            "notation": "pmol/L/(ug/m2)",
+            "pref_label": "Nanomole per Liter per Milligram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119460"
+        },
+        {
+            "alt_label": "nmol/L/(mg/m2/day);pmol/L/(ug/m2/day)",
+            "definition": "Nanomoles per liter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or picomoles per liter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119461",
+            "notation": "pmol/L/(ug/m2/day)",
+            "pref_label": "Nanomole per Liter per Milligram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119461"
+        },
+        {
+            "alt_label": "mmol/L/kg;nmol/L/mg;pmol/L/ug;umol/L/g",
+            "definition": "Millimoles per liter (concentration), divided by kilograms (weight) or micromoles per liter (concentration), divided by grams (weight) or nanomoles per liter (concentration), divided by milligrams (dose) or picomoles per liter (concentration), divided by micrograms (dose).",
+            "identifier": "C85784",
+            "notation": "pmol/L/ug",
+            "pref_label": "Picomole per Liter per Microgram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C85784"
+        },
+        {
+            "alt_label": "mg/mL/(mg/day);ug/mL/(ug/day)",
+            "definition": "Milligrams per milliliter (concentration), divided by milligrams per day (daily dose) or micrograms per milliliter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119383",
+            "notation": "ug/mL/(ug/day)",
+            "pref_label": "Milligram per Milliliter per Milligram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119383"
+        },
+        {
+            "alt_label": "mg/mL/(mg/kg);ug/mL/(ug/kg)",
+            "definition": "Milligrams per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or micrograms per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C105475",
+            "notation": "ug/mL/(ug/kg)",
+            "pref_label": "Milligram Per Milliliter Per Milligram Per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C105475"
+        },
+        {
+            "alt_label": "mg/mL/(mg/kg/day);ug/mL/(ug/kg/day)",
+            "definition": "Milligrams per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or micrograms per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C105476",
+            "notation": "ug/mL/(ug/kg/day)",
+            "pref_label": "Milligram Per Milliliter Per Milligram Per Kilogram Per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C105476"
+        },
+        {
+            "alt_label": "mg/mL/(mg/m2);ug/mL/(ug/m2)",
+            "definition": "Milligrams per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or micrograms per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119384",
+            "notation": "ug/mL/(ug/m2)",
+            "pref_label": "Milligram per Milliliter per Milligram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119384"
+        },
+        {
+            "alt_label": "mg/mL/(mg/m2/day);ug/mL/(ug/m2/day)",
+            "definition": "Milligrams per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or micrograms per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119385",
+            "notation": "ug/mL/(ug/m2/day)",
+            "pref_label": "Milligram per Milliliter per Milligram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119385"
+        },
+        {
+            "alt_label": "g/mL/g;mg/mL/mg;ug/mL/ug",
+            "definition": "Grams per milliliter (concentration), divided by grams (weight) or milligrams per milliliter (concentration), divided by milligrams (dose) or micrograms per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C119361",
+            "notation": "ug/mL/ug",
+            "pref_label": "Gram per Milliliter per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119361"
+        },
+        {
+            "alt_label": "mIU/mL/(mg/day);uIU/mL/(ug/day)",
+            "definition": "Milli-international units per milliliter (concentration), divided by milligrams per day (daily dose) or micro-international units per milliliter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119397",
+            "notation": "uIU/mL/(ug/day)",
+            "pref_label": "Milli-International Unit per Milliliter per Milligram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119397"
+        },
+        {
+            "alt_label": "mIU/mL/(mg/kg);uIU/mL/(ug/kg)",
+            "definition": "Milli-international units per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or micro-international units per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C119398",
+            "notation": "uIU/mL/(ug/kg)",
+            "pref_label": "Milli-International Unit per Milliliter per Milligram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119398"
+        },
+        {
+            "alt_label": "mIU/mL/(mg/kg/day);uIU/mL/(ug/kg/day)",
+            "definition": "Milli-international units per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or micro-international units per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C119399",
+            "notation": "uIU/mL/(ug/kg/day)",
+            "pref_label": "Milli-International Unit per Milliliter per Milligram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119399"
+        },
+        {
+            "alt_label": "mIU/mL/(mg/m2);uIU/mL/(ug/m2)",
+            "definition": "Milli-international units per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or micro-international units per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119400",
+            "notation": "uIU/mL/(ug/m2)",
+            "pref_label": "Milli-International Unit per Milliliter per Milligram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119400"
+        },
+        {
+            "alt_label": "mIU/mL/(mg/m2/day);uIU/mL/(ug/m2/day)",
+            "definition": "Milli-international units per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or micro-international units per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119401",
+            "notation": "uIU/mL/(ug/m2/day)",
+            "pref_label": "Milli-International Unit per Milliliter per Milligram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119401"
+        },
+        {
+            "alt_label": "IU/mL/g;mIU/mL/mg;uIU/mL/ug",
+            "definition": "International units per milliliter (concentration), divided by grams (weight) or milli-international units per milliliter (concentration), divided by milligrams (dose) or micro-international units per milliliter (concentration), divided by micrograms (dose).",
+            "identifier": "C119377",
+            "notation": "uIU/mL/ug",
+            "pref_label": "International Unit per Milliliter per Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119377"
+        },
+        {
+            "alt_label": "mmol/L/(mg/day);umol/L/(ug/day)",
+            "definition": "Millimoles per liter (concentration), divided by milligrams per day (daily dose) or micromoles per liter (concentration), divided by micrograms per day (daily dose).",
+            "identifier": "C119413",
+            "notation": "umol/L/(ug/day)",
+            "pref_label": "Millimole per Liter per Milligram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119413"
+        },
+        {
+            "alt_label": "mmol/L/(mg/kg);umol/L/(ug/kg)",
+            "definition": "Millimoles per liter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or micromoles per liter (concentration), divided by micrograms per kilogram (dose normalized by body weight).",
+            "identifier": "C119414",
+            "notation": "umol/L/(ug/kg)",
+            "pref_label": "Millimole per Liter per Milligram per Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119414"
+        },
+        {
+            "alt_label": "mmol/L/(mg/kg/day);umol/L/(ug/kg/day)",
+            "definition": "Millimoles per liter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or micromoles per liter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).",
+            "identifier": "C119415",
+            "notation": "umol/L/(ug/kg/day)",
+            "pref_label": "Millimole per Liter per Milligram per Kilogram per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119415"
+        },
+        {
+            "alt_label": "mmol/L/(mg/m2);umol/L/(ug/m2)",
+            "definition": "Millimoles per liter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or micromoles per liter (concentration), divided by micrograms per meter squared (dose normalized by surface area).",
+            "identifier": "C119416",
+            "notation": "umol/L/(ug/m2)",
+            "pref_label": "Millimole per Liter per Milligram per Meter Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119416"
+        },
+        {
+            "alt_label": "mmol/L/(mg/m2/day);umol/L/(ug/m2/day)",
+            "definition": "Millimoles per liter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or micromoles per liter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).",
+            "identifier": "C119417",
+            "notation": "umol/L/(ug/m2/day)",
+            "pref_label": "Millimole per Liter per Milligram per Meter Squared per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119417"
+        },
+        {
+            "alt_label": "mmol/L/mg;mol/L/g;umol/L/ug",
+            "definition": "Moles per liter (concentration), divided by grams (weight) or millimoles per liter (concentration), divided by milligrams (dose) or micromoles per liter (concentration), divided by micrograms (dose).",
+            "identifier": "C119426",
+            "notation": "umol/L/ug",
+            "pref_label": "Millimole per Liter per Milligram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C128686-C119426"
+        }
+    ]
+}

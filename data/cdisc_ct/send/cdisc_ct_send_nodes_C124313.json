@@ -1,0 +1,32 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A permanent structural change that is likely to adversely affect the form, survival or health of the species under study. (Gupta, R. C. ed. (2011) Reproductive and Developmental Toxicology. London, UK: Elsevier, Inc.)",
+            "identifier": "C36287",
+            "notation": "MALFORMATION",
+            "pref_label": "Congenital or Acquired Anatomic Abnormality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124313-C36287"
+        },
+        {
+            "definition": "A finding related to the change from the expected ossification state in an otherwise normal structure or bone.",
+            "identifier": "C124594",
+            "notation": "OSSIFICATION",
+            "pref_label": "Ossification Abnormality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124313-C124594"
+        },
+        {
+            "definition": "A non-specified anomaly; an anomaly that is not included in a specified grouping of anomalies.",
+            "identifier": "C124595",
+            "notation": "UNCLASSIFIED",
+            "pref_label": "Unclassified Abnormality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124313-C124595"
+        },
+        {
+            "definition": "A structural or developmental change that is commonly observed within the population under study and is unlikely to adversely affect survival or health. (Gupta, R. C. ed. (2011 )Reproductive and Developmental Toxicology. London, UK: Elsevier, Inc.)",
+            "identifier": "C25713",
+            "notation": "VARIATION",
+            "pref_label": "Variation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124313-C25713"
+        }
+    ]
+}

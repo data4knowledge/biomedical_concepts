@@ -1,0 +1,46 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Minor radiolucencies within the lumen during contrast injection with no persistence after dye clearance. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)",
+            "identifier": "C119588",
+            "notation": "CORONARY DISSECTION NHLBI GRADE A",
+            "pref_label": "NHLBI Coronary Artery Dissection Type A",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119018-C119588"
+        },
+        {
+            "definition": "Parallel tracts or double lumen separated by a radiolucent area during contrast injection with no persistence after dye clearance. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)",
+            "identifier": "C119589",
+            "notation": "CORONARY DISSECTION NHLBI GRADE B",
+            "pref_label": "NHLBI Coronary Artery Dissection Type B",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119018-C119589"
+        },
+        {
+            "definition": "Extraluminal cap with persistence of contrast after dye clearance from the lumen. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)",
+            "identifier": "C119590",
+            "notation": "CORONARY DISSECTION NHLBI GRADE C",
+            "pref_label": "NHLBI Coronary Artery Dissection Type C",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119018-C119590"
+        },
+        {
+            "definition": "Spiral luminal filling defect with delayed but complete distal flow. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)",
+            "identifier": "C119591",
+            "notation": "CORONARY DISSECTION NHLBI GRADE D",
+            "pref_label": "NHLBI Coronary Artery Dissection Type D",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119018-C119591"
+        },
+        {
+            "definition": "New persistent filling defect with delayed antegrade flow. May represent thrombus. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)",
+            "identifier": "C119592",
+            "notation": "CORONARY DISSECTION NHLBI GRADE E",
+            "pref_label": "NHLBI Coronary Artery Dissection Type E",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119018-C119592"
+        },
+        {
+            "definition": "Non-A-E types with total coronary occlusion and no distal antegrade flow. May represent thrombus. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)",
+            "identifier": "C119593",
+            "notation": "CORONARY DISSECTION NHLBI GRADE F",
+            "pref_label": "NHLBI Coronary Artery Dissection Type F",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119018-C119593"
+        }
+    ]
+}

@@ -1,0 +1,988 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Air Trapping",
+            "definition": "A measurement of the gas retention in a specified intrapulmonary space at the end of exhalation.",
+            "identifier": "C170620",
+            "notation": "Air Trapping",
+            "pref_label": "Air Trapping Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C170620"
+        },
+        {
+            "alt_label": "Airway Conductance",
+            "definition": "The instantaneous rate of air flow in the airway, expressed as the pressure difference between any given part of the airway and the alveoli; it is the reciprocal of airway resistance (Raw).",
+            "identifier": "C124422",
+            "notation": "Airway Conductance",
+            "pref_label": "Airway Conductance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C124422"
+        },
+        {
+            "alt_label": "Airway Resistance",
+            "definition": "A measurement of respiratory tract resistance to airflow during inspiration and expiration.",
+            "identifier": "C120927",
+            "notation": "Airway Resistance",
+            "pref_label": "Airway Resistance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C120927"
+        },
+        {
+            "alt_label": "Airway Volume",
+            "definition": "The total volume of gas in a specified airway or set of airways at a specified point in time in the respiratory cycle.",
+            "identifier": "C170457",
+            "notation": "Airway Volume",
+            "pref_label": "Airway Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C170457"
+        },
+        {
+            "alt_label": "Airway Wall Volume",
+            "definition": "The volume of the entirety of the airway tissue in a specified intrapulmonary region.",
+            "identifier": "C170619",
+            "notation": "Airway Wall Volume",
+            "pref_label": "Airway Wall Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C170619"
+        },
+        {
+            "alt_label": "Alveolar Volume;VA",
+            "definition": "The quantity of gas that enters the alveoli during inspiration.",
+            "identifier": "C156584",
+            "notation": "Alveolar Volume",
+            "pref_label": "Alveolar Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C156584"
+        },
+        {
+            "alt_label": "Blood Flow Rate",
+            "definition": "The volume of blood per unit time passing through a specified location, such as a point in a blood vessel or an entire organ.",
+            "identifier": "C94866",
+            "notation": "Blood Flow Rate",
+            "pref_label": "Blood Flow Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C94866"
+        },
+        {
+            "alt_label": "Diffusion Capacity of Lung for CO;TLCO;Transfer Factor of Lung for CO",
+            "definition": "The volume of the carbon monoxide that is transferred from inspired air into the pulmonary capillary blood.",
+            "identifier": "C38083",
+            "notation": "Diffusion Capacity of Lung for CO",
+            "pref_label": "Carbon Monoxide Diffusing Capability Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C38083"
+        },
+        {
+            "alt_label": "DLCO/VA",
+            "definition": "The diffusing capacity of the lungs for carbon monoxide expressed as a proportion of the alveolar volume.",
+            "identifier": "C120830",
+            "notation": "DLCO/VA",
+            "pref_label": "Diffusion Capacity of the Lung for Carbon Monoxide/Alveolar Volume Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C120830"
+        },
+        {
+            "alt_label": "Effusion Indicator",
+            "definition": "An indication as to whether effusion is present.",
+            "identifier": "C161422",
+            "notation": "Effusion Indicator",
+            "pref_label": "Effusion Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C161422"
+        },
+        {
+            "alt_label": "Effusion Volume",
+            "definition": "The amount of three dimensional space occupied by the effusion fluid.",
+            "identifier": "C161424",
+            "notation": "Effusion Volume",
+            "pref_label": "Effusion Volume Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C161424"
+        },
+        {
+            "alt_label": "Elastance",
+            "definition": "A measure of the resistance of a system to expand, i.e. the pressure change that is required to elicit a unit volume change in the lungs. Elastance is the reciprocal of compliance.",
+            "identifier": "C135493",
+            "notation": "Elastance",
+            "pref_label": "Elastance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C135493"
+        },
+        {
+            "alt_label": "Expiration Relaxation Time",
+            "definition": "The time required to exhale 63.2% of the total expiratory volume, as measured from the start of exhalation.",
+            "identifier": "C120931",
+            "notation": "Expiration Relaxation Time",
+            "pref_label": "Expiration Relaxation Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C120931"
+        },
+        {
+            "alt_label": "Expiratory Reserve Volume",
+            "definition": "The maximum volume of air a subject can exhale from the lungs after a tidal exhalation.",
+            "identifier": "C111200",
+            "notation": "Expiratory Reserve Volume",
+            "pref_label": "Expiratory Reserve Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C111200"
+        },
+        {
+            "alt_label": "Expiratory Vital Capacity",
+            "definition": "The maximum volume of air an individual can exhale from the point of maximal inhalation.",
+            "identifier": "C147484",
+            "notation": "Expiratory Vital Capacity",
+            "pref_label": "Expiratory Vital Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C147484"
+        },
+        {
+            "alt_label": "FEV at PEF;Forced Expiratory Volume at Peak Expiratory Flow",
+            "definition": "The volume of gas that is forcibly exhaled at the peak of expiratory flow.",
+            "identifier": "C139249",
+            "notation": "FEV at PEF",
+            "pref_label": "Forced Expiratory Volume at Peak Expiratory Flow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139249"
+        },
+        {
+            "alt_label": "FEV1 Reversibility",
+            "definition": "The change in FEV1 following administration of a bronchodilator relative to the pre-treatment FEV1 value.",
+            "identifier": "C112285",
+            "notation": "FEV1 Reversibility",
+            "pref_label": "Forced Expiratory Volume in 1 Second Reversibility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112285"
+        },
+        {
+            "alt_label": "FEV1/FVC",
+            "definition": "A relative measurement (ratio or percentage) of the forced expiratory volume during the first second of exhalation to the largest observed expired volume during a forced vital capacity maneuver.",
+            "identifier": "C111359",
+            "notation": "FEV1/FVC",
+            "pref_label": "Forced Expiratory Volume in 1 Second to Forced Vital Capacity Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C111359"
+        },
+        {
+            "alt_label": "FEV1/FVC6",
+            "definition": "A relative measurement (ratio or percentage) of the forced expiratory volume during the first second of exhalation to the observed expired volume during the first six seconds of a forced vital capacity maneuver.",
+            "identifier": "C123565",
+            "notation": "FEV1/FVC6",
+            "pref_label": "Forced Expiratory Volume in 1 Second to Forced Vital Capacity in 6 Seconds",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C123565"
+        },
+        {
+            "alt_label": "FEV1/SVC",
+            "definition": "A relative measurement (ratio or percentage) of the forced expiratory volume during the first second of exhalation to the largest observed expired volume during a slow vital capacity maneuver.",
+            "identifier": "C170626",
+            "notation": "FEV1/SVC",
+            "pref_label": "Forced Expiratory Volume in 1 Second to Slow Vital Capacity Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C170626"
+        },
+        {
+            "alt_label": "FEV3/FVC",
+            "definition": "A relative measurement (ratio or percentage) of the forced expiratory volume during the first three seconds of exhalation to the largest observed expired volume during a forced vital capacity maneuver.",
+            "identifier": "C170625",
+            "notation": "FEV3/FVC",
+            "pref_label": "Forced Expiratory Volume in 3 Seconds to Forced Vital Capacity Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C170625"
+        },
+        {
+            "alt_label": "Forced Expiratory Flow 25-75%",
+            "definition": "The mean forced expiratory flow rate at 25-75% of the forced vital capacity. (NCI)",
+            "identifier": "C119545",
+            "notation": "Forced Expiratory Flow 25-75%",
+            "pref_label": "Forced Expiratory Flow at 25-75 Percent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C119545"
+        },
+        {
+            "alt_label": "Forced Expiratory Flow 50%",
+            "definition": "The mean forced expiratory flow rate at 50% of the forced vital capacity. (NCI)",
+            "identifier": "C139253",
+            "notation": "Forced Expiratory Flow 50%",
+            "pref_label": "Forced Expiratory Flow at 50 Percent Forced Vital Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139253"
+        },
+        {
+            "alt_label": "Forced Expiratory Flow in 0.05 Second",
+            "definition": "The forced expiratory flow rate during the first 0.05 second of a forced exhalation.",
+            "identifier": "C139250",
+            "notation": "Forced Expiratory Flow in 0.05 Second",
+            "pref_label": "Forced Expiratory Flow in 0.05 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139250"
+        },
+        {
+            "alt_label": "Forced Expiratory Flow in 0.1 Second",
+            "definition": "The forced expiratory flow rate during the first 0.1 second of a forced exhalation.",
+            "identifier": "C139251",
+            "notation": "Forced Expiratory Flow in 0.1 Second",
+            "pref_label": "Forced Expiratory Flow in 0.1 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139251"
+        },
+        {
+            "alt_label": "Forced Expiratory Flow in 0.2 Second",
+            "definition": "The forced expiratory flow rate during the first 0.2 second of a forced exhalation.",
+            "identifier": "C139252",
+            "notation": "Forced Expiratory Flow in 0.2 Second",
+            "pref_label": "Forced Expiratory Flow in 0.2 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139252"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume in 0.05 S/FVC;Forced Expiratory Volume in 0.05 Seconds over FVC",
+            "definition": "The ratio of the volume of gas that is forcibly exhaled during the first 0.05 seconds following maximal inhalation to that of the forced vital capacity.",
+            "identifier": "C139243",
+            "notation": "Forced Expiratory Volume in 0.05 S/FVC",
+            "pref_label": "Forced Expiratory Volume in 0.05 Second to FVC Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139243"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume in 0.05 Second",
+            "definition": "The volume of air that can be forcibly exhaled during the first 0.05 second following maximal inhalation.",
+            "identifier": "C139246",
+            "notation": "Forced Expiratory Volume in 0.05 Second",
+            "pref_label": "Forced Expiratory Volume in 0.05 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139246"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume in 0.1 S/FVC;Forced Expiratory Volume in 0.1 Seconds over FVC",
+            "definition": "The ratio of the volume of gas that is forcibly exhaled during the first 0.1 seconds following maximal inhalation to that of the forced vital capacity.",
+            "identifier": "C139244",
+            "notation": "Forced Expiratory Volume in 0.1 S/FVC",
+            "pref_label": "Forced Expiratory Volume in 0.1 Second to FVC Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139244"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume in 0.1 Second",
+            "definition": "The volume of air that can be forcibly exhaled during the first 0.1 second following maximal inhalation.",
+            "identifier": "C139247",
+            "notation": "Forced Expiratory Volume in 0.1 Second",
+            "pref_label": "Forced Expiratory Volume in 0.1 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139247"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume in 0.2 S/FVC;Forced Expiratory Volume in 0.2 Seconds over FVC",
+            "definition": "The ratio of the volume of gas that is forcibly exhaled during the first 0.2 seconds following maximal inhalation to that of the forced vital capacity.",
+            "identifier": "C139245",
+            "notation": "Forced Expiratory Volume in 0.2 S/FVC",
+            "pref_label": "Forced Expiratory Volume in 0.2 Second to FVC Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139245"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume in 0.2 Second",
+            "definition": "The volume of air that can be forcibly exhaled during the first 0.2 second following maximal inhalation.",
+            "identifier": "C139248",
+            "notation": "Forced Expiratory Volume in 0.2 Second",
+            "pref_label": "Forced Expiratory Volume in 0.2 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139248"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume in 0.5 Second",
+            "definition": "The volume of air that can be forcibly exhaled during the first half second following maximal inhalation.",
+            "identifier": "C139262",
+            "notation": "Forced Expiratory Volume in 0.5 Second",
+            "pref_label": "Forced Expiratory Volume in 0.5 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139262"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume in 0.75 Second",
+            "definition": "The volume of air that can be forcibly exhaled during the first 0.75 second following maximal inhalation.",
+            "identifier": "C174362",
+            "notation": "Forced Expiratory Volume in 0.75 Second",
+            "pref_label": "Forced Expiratory Volume in 0.75 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C174362"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume in 1 Second",
+            "definition": "The volume of air that can be forcibly exhaled during the first second following maximal inhalation.",
+            "identifier": "C38084",
+            "notation": "Forced Expiratory Volume in 1 Second",
+            "pref_label": "Forced Expiratory Volume in 1 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C38084"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume in 3 Seconds",
+            "definition": "The volume of air that can be forcibly exhaled during the first three seconds following maximal inhalation.",
+            "identifier": "C132453",
+            "notation": "Forced Expiratory Volume in 3 Seconds",
+            "pref_label": "Forced Expiratory Volume in 3 Seconds",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C132453"
+        },
+        {
+            "alt_label": "Forced Expiratory Volume in 6 Seconds",
+            "definition": "The volume of air that can be forcibly exhaled during the first six seconds following maximal inhalation.",
+            "identifier": "C47843",
+            "notation": "Forced Expiratory Volume in 6 Seconds",
+            "pref_label": "Forced Expiratory Volume in 6 Seconds",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C47843"
+        },
+        {
+            "alt_label": "Forced Inspiratory Flow at 25%",
+            "definition": "The forced inspiratory flow rate at the point on the inspiratory flow-volume curve where 25 percent of the total volume of air has been inhaled.",
+            "identifier": "C124418",
+            "notation": "Forced Inspiratory Flow at 25%",
+            "pref_label": "Forced Inspiratory Flow at 25%",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C124418"
+        },
+        {
+            "alt_label": "Forced Inspiratory Flow at 50%",
+            "definition": "The forced inspiratory flow rate at the point on the inspiratory flow-volume curve where 50 percent of the total volume of air has been inhaled.",
+            "identifier": "C124419",
+            "notation": "Forced Inspiratory Flow at 50%",
+            "pref_label": "Forced Inspiratory Flow at 50%",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C124419"
+        },
+        {
+            "alt_label": "Forced Inspiratory Flow at 75%",
+            "definition": "The forced inspiratory flow rate at the point on the inspiratory flow-volume curve where 75 percent of the total volume of air has been inhaled.",
+            "identifier": "C124420",
+            "notation": "Forced Inspiratory Flow at 75%",
+            "pref_label": "Forced Inspiratory Flow at 75%",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C124420"
+        },
+        {
+            "alt_label": "Forced Inspiratory Vital Capacity",
+            "definition": "The difference in lung volume between maximal expiration to residual volume followed immediately by full inspiration to total lung capacity during forceful inhalation.",
+            "identifier": "C139263",
+            "notation": "Forced Inspiratory Vital Capacity",
+            "pref_label": "Forced Inspiratory Vital Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139263"
+        },
+        {
+            "alt_label": "Forced Inspiratory Volume in 1 Second",
+            "definition": "The volume of air that a subject can breathe in during the first second of inhalation after maximum exhalation.",
+            "identifier": "C111360",
+            "notation": "Forced Inspiratory Volume in 1 Second",
+            "pref_label": "Forced Inspiratory Volume in 1 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C111360"
+        },
+        {
+            "alt_label": "Forced Vital Capacity in 6 Seconds",
+            "definition": "The volume of air that can be forcibly exhaled during the first six seconds following maximal inhalation.",
+            "identifier": "C124421",
+            "notation": "Forced Vital Capacity in 6 Seconds",
+            "pref_label": "Forced Vital Capacity in 6 Seconds",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C124421"
+        },
+        {
+            "alt_label": "Forced Vital Capacity",
+            "definition": "The volume of air that can be forcibly exhaled following maximal inhalation.",
+            "identifier": "C111361",
+            "notation": "Forced Vital Capacity",
+            "pref_label": "Forced Vital Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C111361"
+        },
+        {
+            "alt_label": "Fraction of Inspired Oxygen",
+            "definition": "A measurement of the volumetric fraction of oxygen in the inhaled gas.",
+            "identifier": "C38082",
+            "notation": "Fraction of Inspired Oxygen",
+            "pref_label": "Fraction of Inspired Oxygen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C38082"
+        },
+        {
+            "alt_label": "Functional Residual Capacity",
+            "definition": "The volume of air remaining in the lungs after a normal exhalation. (NCI)",
+            "identifier": "C89800",
+            "notation": "Functional Residual Capacity",
+            "pref_label": "Functional Residual Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C89800"
+        },
+        {
+            "alt_label": "HGB Corrected DLCO",
+            "definition": "The diffusing capacity of the lungs for carbon monoxide adjusted for hemoglobin concentration.",
+            "identifier": "C120825",
+            "notation": "HGB Corrected DLCO",
+            "pref_label": "Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C120825"
+        },
+        {
+            "alt_label": "HGB Corrected DLCO/VA",
+            "definition": "The diffusing capacity of the lungs for carbon monoxide expressed as a proportion of the alveolar volume, adjusted for hemoglobin concentration.",
+            "identifier": "C120827",
+            "notation": "HGB Corrected DLCO/VA",
+            "pref_label": "Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide/Alveolar Volume Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C120827"
+        },
+        {
+            "alt_label": "IC Reversibility",
+            "definition": "The change in IC following administration of a bronchodilator relative to the pre-treatment IC value.",
+            "identifier": "C112321",
+            "notation": "IC Reversibility",
+            "pref_label": "Inspiratory Capacity Reversibility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112321"
+        },
+        {
+            "alt_label": "Inertance",
+            "definition": "The measure of the force of the column of air in the conducting airways.",
+            "identifier": "C139254",
+            "notation": "Inertance",
+            "pref_label": "Pulmonary Inertance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139254"
+        },
+        {
+            "alt_label": "Infiltrates Indicator",
+            "definition": "An indication as to whether infiltrates have occurred.",
+            "identifier": "C171512",
+            "notation": "Infiltrates Indicator",
+            "pref_label": "Infiltrates Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C171512"
+        },
+        {
+            "alt_label": "Inspiratory Capacity",
+            "definition": "The maximum volume of air a subject can inhale into the lungs after a tidal exhalation (IRV plus TV).",
+            "identifier": "C111362",
+            "notation": "Inspiratory Capacity",
+            "pref_label": "Inspiratory Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C111362"
+        },
+        {
+            "alt_label": "Inspiratory Reserve Volume",
+            "definition": "The maximum volume of air a subject can inhale into the lungs after a tidal inhalation.",
+            "identifier": "C111237",
+            "notation": "Inspiratory Reserve Volume",
+            "pref_label": "Inspiratory Reserve Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C111237"
+        },
+        {
+            "alt_label": "Inspiratory Vital Capacity",
+            "definition": "The maximum volume of air an individual can inhale from the point of maximal exhalation.",
+            "identifier": "C124423",
+            "notation": "Inspiratory Vital Capacity",
+            "pref_label": "Inspiratory Vital Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C124423"
+        },
+        {
+            "alt_label": "Interpretation",
+            "definition": "An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.",
+            "identifier": "C41255",
+            "notation": "Interpretation",
+            "pref_label": "Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C41255"
+        },
+        {
+            "alt_label": "Lobar Volume",
+            "definition": "The total volume of gas in a lobe of the lung at a specified point in time during the respiratory cycle.",
+            "identifier": "C174232",
+            "notation": "Lobar Volume",
+            "pref_label": "Lobar Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C174232"
+        },
+        {
+            "alt_label": "Lung Clearance Index",
+            "definition": "A representative measurement of the number of times the volume of air in the lung at the start of the washout (the Functional Residual Capacity) must be recycled to eliminate the tracer to the pre-defined endpoint.",
+            "identifier": "C124425",
+            "notation": "Lung Clearance Index",
+            "pref_label": "Lung Clearance Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C124425"
+        },
+        {
+            "alt_label": "Malignancy Evidence Description",
+            "definition": "The basis for the determination that a malignancy is present.",
+            "identifier": "C161312",
+            "notation": "Malignancy Evidence Description",
+            "pref_label": "Evidence of Malignant Disease Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C161312"
+        },
+        {
+            "alt_label": "Malignancy Indicator",
+            "definition": "An indication as to whether a malignancy is present.",
+            "identifier": "C161423",
+            "notation": "Malignancy Indicator",
+            "pref_label": "Malignant Disease Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C161423"
+        },
+        {
+            "alt_label": "Maximal Expiratory Pressure",
+            "definition": "The greatest amount of pressure that can be generated by exhaling against a mouthpiece, which is a measure of the strength of respiratory muscles. (NCI)",
+            "identifier": "C135494",
+            "notation": "Maximal Expiratory Pressure",
+            "pref_label": "Maximal Expiratory Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C135494"
+        },
+        {
+            "alt_label": "Maximal Inspiratory Pressure;Negative Inspiratory Force;NIF",
+            "definition": "The greatest amount of pressure that can be generated during inhalation against a fully occluded airway, which is used to measure the strength of respiratory muscles. (NCI)",
+            "identifier": "C135496",
+            "notation": "Maximal Inspiratory Pressure",
+            "pref_label": "Maximal Inspiratory Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C135496"
+        },
+        {
+            "alt_label": "Maximal Oxygen Consumption",
+            "definition": "The maximum rate of oxygen utilization at which oxygen uptake no longer increases and beyond which no level of effort can raise it.",
+            "identifier": "C178242",
+            "notation": "Maximal Oxygen Consumption",
+            "pref_label": "Maximal Oxygen Uptake",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C178242"
+        },
+        {
+            "alt_label": "Estimated Maximal Aerobic Capacity;Maximal Oxygen Consumption, Estimated",
+            "definition": "The predicted maximum rate of oxygen uptake that is derived from physiological responses to submaximal exercise performance and is used as a measure of cardiorespiratory fitness.",
+            "identifier": "C174363",
+            "notation": "Maximal Oxygen Consumption, Estimated",
+            "pref_label": "Maximal Oxygen Consumption, Estimated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C174363"
+        },
+        {
+            "alt_label": "Maximum Forced Inspiratory Flow",
+            "definition": "The fastest rate of inspired air achieved during a forced inspiration maneuver.",
+            "identifier": "C112333",
+            "notation": "Maximum Forced Inspiratory Flow",
+            "pref_label": "Maximum Forced Inspiratory Flow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112333"
+        },
+        {
+            "alt_label": "Mean Diffusion Capacity of Lung for CO",
+            "definition": "The mean volume of the carbon monoxide that is transferred from inspired air into the pulmonary capillary blood.",
+            "identifier": "C123564",
+            "notation": "Mean Diffusion Capacity of Lung for CO",
+            "pref_label": "Mean Carbon Monoxide Diffusing Capability Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C123564"
+        },
+        {
+            "alt_label": "Oxygen Consumption",
+            "definition": "The rate at which oxygen is absorbed and utilized by any given tissue in the body.",
+            "identifier": "C123570",
+            "notation": "Oxygen Consumption",
+            "pref_label": "Oxygen Consumption",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C123570"
+        },
+        {
+            "alt_label": "Oxygen Pulse",
+            "definition": "The volume of oxygen per heartbeat consumed by the body while at rest.",
+            "identifier": "C123566",
+            "notation": "Oxygen Pulse",
+            "pref_label": "Oxygen Pulse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C123566"
+        },
+        {
+            "alt_label": "Oxygen Saturation/Fraction Inspired O2",
+            "definition": "A relative measurement (ratio or percentage) of the oxygen-hemoglobin saturation of a volume of blood to the volumetric fraction of oxygen in the inhaled gas.",
+            "identifier": "C174311",
+            "notation": "Oxygen Saturation/Fraction Inspired O2",
+            "pref_label": "Oxygen Saturation/Fraction Inspired O2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C174311"
+        },
+        {
+            "alt_label": "Peak Cough Flow",
+            "definition": "The maximum rate of air flow expelled through the mouth, endotracheal, or tracheostomy tube during a cough. (NCI)",
+            "identifier": "C135498",
+            "notation": "Peak Cough Flow",
+            "pref_label": "Peak Cough Flow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C135498"
+        },
+        {
+            "alt_label": "Peak Expiratory Flow Time",
+            "definition": "The time from the start of the test until the subject reaches his maximum expiratory gas flow rate.",
+            "identifier": "C139259",
+            "notation": "Peak Expiratory Flow Time",
+            "pref_label": "Peak Expiratory Flow Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139259"
+        },
+        {
+            "alt_label": "Peak Expiratory Flow",
+            "definition": "The maximum rate of exhalation.",
+            "identifier": "C41372",
+            "notation": "Peak Expiratory Flow",
+            "pref_label": "Peak Expiratory Flow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C41372"
+        },
+        {
+            "alt_label": "Peak Inspiratory Flow",
+            "definition": "The maximum rate of inhalation.",
+            "identifier": "C120939",
+            "notation": "Peak Inspiratory Flow",
+            "pref_label": "Peak Inspiratory Flow Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C120939"
+        },
+        {
+            "alt_label": "Peak Nasal Inspiratory Flow",
+            "definition": "The maximal flow achieved during the maximally forced inspiration through the nose initiated at maximum exhalation. (NCI)",
+            "identifier": "C119547",
+            "notation": "Peak Nasal Inspiratory Flow",
+            "pref_label": "Peak Nasal Inspiratory Flow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C119547"
+        },
+        {
+            "alt_label": "PEF Reversibility",
+            "definition": "The change in PEF following administration of a bronchodilator relative to the pre-treatment PEF value.",
+            "identifier": "C112368",
+            "notation": "PEF Reversibility",
+            "pref_label": "Peak Expiratory Flow Reversibility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112368"
+        },
+        {
+            "alt_label": "Percent Predicted Airway Resistance",
+            "definition": "A measurement of respiratory tract resistance to airflow during inspiration and expiration, as a proportion of the predicted normal value.",
+            "identifier": "C170623",
+            "notation": "Percent Predicted Airway Resistance",
+            "pref_label": "Percent Predicted Airway Resistance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C170623"
+        },
+        {
+            "alt_label": "Percent Predicted Airway Volume",
+            "definition": "The total volume of gas in a specified airway or set of airways at a specified point in time in the respiratory cycle, expressed as a proportion of the predicted normal value.",
+            "identifier": "C170621",
+            "notation": "Percent Predicted Airway Volume",
+            "pref_label": "Percent Predicted Airway Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C170621"
+        },
+        {
+            "alt_label": "Percent Predicted DLCO",
+            "definition": "The diffusing capacity of the lungs for carbon monoxide expressed as a proportion of the predicted normal value.",
+            "identifier": "C120829",
+            "notation": "Percent Predicted DLCO",
+            "pref_label": "Percent Predicted Diffusion Capacity of the Lung for Carbon Monoxide",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C120829"
+        },
+        {
+            "alt_label": "Percent Predicted DLCO/VA",
+            "definition": "The proportion of the diffusing capacity of the lungs for carbon monoxide to alveolar volume, expressed as a proportion of the predicted normal value.",
+            "identifier": "C120831",
+            "notation": "Percent Predicted DLCO/VA",
+            "pref_label": "Percent Predicted Diffusion Capacity of the Lung for Carbon Monoxide/Alveolar Volume Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C120831"
+        },
+        {
+            "alt_label": "Percent Predicted ERV",
+            "definition": "The maximum volume of air a subject can exhale from the lungs after a tidal exhalation as a proportion of the predicted normal value.",
+            "identifier": "C112375",
+            "notation": "Percent Predicted ERV",
+            "pref_label": "Percent Predicted Expiratory Reserve Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112375"
+        },
+        {
+            "alt_label": "Percent Predicted FEF25-75",
+            "definition": "The mean forced expiratory flow rate at 25-75% of the forced vital capacity as a proportion of the predicted normal value. (NCI)",
+            "identifier": "C119546",
+            "notation": "Percent Predicted FEF25-75",
+            "pref_label": "Percent Predicted Forced Expiratory Flow at 25-75 Percent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C119546"
+        },
+        {
+            "alt_label": "Percent Predicted FEV1",
+            "definition": "Forced expiratory volume in one second as a proportion of the predicted normal value.",
+            "identifier": "C112376",
+            "notation": "Percent Predicted FEV1",
+            "pref_label": "Percent Predicted Forced Expiratory Volume in 1 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112376"
+        },
+        {
+            "alt_label": "Percent Predicted FEV1/FVC",
+            "definition": "The proportion of total forced vital capacity that is expelled during the first second of a forced exhalation as a proportion of the predicted normal value.",
+            "identifier": "C112377",
+            "notation": "Percent Predicted FEV1/FVC",
+            "pref_label": "Percent Predicted Forced Expiratory Volume in 1 Second Divided by Forced Vital Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112377"
+        },
+        {
+            "alt_label": "Percent Predicted FEV3",
+            "definition": "Forced expiratory volume in three seconds as a proportion of the predicted normal value.",
+            "identifier": "C170627",
+            "notation": "Percent Predicted FEV3",
+            "pref_label": "Percent Predicted Forced Expiratory Volume in 3 Seconds",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C170627"
+        },
+        {
+            "alt_label": "Percent Predicted FEV6",
+            "definition": "Forced expiratory volume in six seconds as a proportion of the predicted normal value.",
+            "identifier": "C112378",
+            "notation": "Percent Predicted FEV6",
+            "pref_label": "Percent Predicted Forced Expiratory Volume in 6 Seconds",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112378"
+        },
+        {
+            "alt_label": "Percent Predicted FIFmax",
+            "definition": "The fastest rate of inspired air achieved during a forced inspiration maneuver expressed as a percentage of the expected result value for healthy individuals with similar characteristics.",
+            "identifier": "C112379",
+            "notation": "Percent Predicted FIFmax",
+            "pref_label": "Percent Predicted Forced Inspiratory Flow Maximum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112379"
+        },
+        {
+            "alt_label": "Percent Predicted FIV1",
+            "definition": "The volume of air that a subject can breathe in during the first second of inhalation after maximum exhalation as a proportion of the predicted normal value.",
+            "identifier": "C112380",
+            "notation": "Percent Predicted FIV1",
+            "pref_label": "Percent Predicted Forced Inspiratory Volume in 1 Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112380"
+        },
+        {
+            "alt_label": "Percent Predicted Forced Vital Capacity",
+            "definition": "Forced vital capacity as a proportion of the predicted normal value.",
+            "identifier": "C112381",
+            "notation": "Percent Predicted Forced Vital Capacity",
+            "pref_label": "Percent Predicted Forced Vital Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112381"
+        },
+        {
+            "alt_label": "Percent Predicted FRC",
+            "definition": "The functional residual capacity as a proportion of the predicted normal value.",
+            "identifier": "C126052",
+            "notation": "Percent Predicted FRC",
+            "pref_label": "Percent Predicted Functional Residual Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C126052"
+        },
+        {
+            "alt_label": "Percent Predicted HGB Corrected DLCO",
+            "definition": "The diffusing capacity of the lungs for carbon monoxide expressed as a proportion of the predicted normal value, adjusted for hemoglobin concentration.",
+            "identifier": "C120826",
+            "notation": "Percent Predicted HGB Corrected DLCO",
+            "pref_label": "Percent Predicted Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C120826"
+        },
+        {
+            "alt_label": "Percent Predicted HGB Corrected DLCO/VA",
+            "definition": "The proportion of diffusing capacity of the lungs for carbon monoxide to the alveolar volume expressed as a proportion of the predicted normal value, adjusted for hemoglobin concentration.",
+            "identifier": "C120828",
+            "notation": "Percent Predicted HGB Corrected DLCO/VA",
+            "pref_label": "Percent Predicted Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide/Alveolar Volume Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C120828"
+        },
+        {
+            "alt_label": "Percent Predicted Inspiratory Capacity",
+            "definition": "The maximum volume of air a subject can inhale into the lungs after a tidal exhalation (IRV plus TV) as a proportion of the predicted normal value.",
+            "identifier": "C112382",
+            "notation": "Percent Predicted Inspiratory Capacity",
+            "pref_label": "Percent Predicted Inspiratory Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112382"
+        },
+        {
+            "alt_label": "Percent Predicted IRV",
+            "definition": "The maximum volume of air a subject can inhale into the lungs after a tidal inhalation as a proportion of the predicted normal value.",
+            "identifier": "C112383",
+            "notation": "Percent Predicted IRV",
+            "pref_label": "Percent Predicted Inspiratory Reserve Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112383"
+        },
+        {
+            "alt_label": "Percent Predicted IVC",
+            "definition": "The maximum volume of air an individual can inhale from the point of maximal exhalation as a percentage of the predicted normal value.",
+            "identifier": "C124424",
+            "notation": "Percent Predicted IVC",
+            "pref_label": "Percent Predicted Inspiratory Vital Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C124424"
+        },
+        {
+            "alt_label": "Percent Predicted Lobar Volume",
+            "definition": "The total volume of gas in a lobe of the lung at a specified point in time during the respiratory cycle, as a proportion of the predicted normal value.",
+            "identifier": "C174361",
+            "notation": "Percent Predicted Lobar Volume",
+            "pref_label": "Percent Predicted Lobar Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C174361"
+        },
+        {
+            "alt_label": "Percent Predicted MEP",
+            "definition": "The greatest amount of pressure that can be generated by exhaling against a mouthpiece, which is a measure of the strength of respiratory muscles expressed as a proportion of the predicted normal value. (NCI)",
+            "identifier": "C135495",
+            "notation": "Percent Predicted MEP",
+            "pref_label": "Percent Predicted Maximal Expiratory Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C135495"
+        },
+        {
+            "alt_label": "Percent Predicted MIP",
+            "definition": "The greatest amount of pressure that can be generated during inhalation against a fully occluded airway, which is used to measure the strength of respiratory muscles expressed as a proportion of the predicted normal value. (NCI)",
+            "identifier": "C135497",
+            "notation": "Percent Predicted MIP",
+            "pref_label": "Percent Predicted Maximal Inspiratory Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C135497"
+        },
+        {
+            "alt_label": "Percent Predicted Peak Expiratory Flow",
+            "definition": "The maximal flow achieved during the maximally forced expiration initiated at maximum inhalation as a proportion of the predicted normal value.",
+            "identifier": "C112384",
+            "notation": "Percent Predicted Peak Expiratory Flow",
+            "pref_label": "Percent Predicted Peak Expiratory Flow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112384"
+        },
+        {
+            "alt_label": "Percent Predicted Residual Volume",
+            "definition": "The volume of air remaining in the lungs after maximum exhalation as a proportion of the predicted normal value.",
+            "identifier": "C112385",
+            "notation": "Percent Predicted Residual Volume",
+            "pref_label": "Percent Predicted Residual Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112385"
+        },
+        {
+            "alt_label": "Percent Predicted Slow Vital Capacity",
+            "definition": "The maximum volume of air that can be exhaled after slow maximum inhalation as a proportion of the predicted normal value.",
+            "identifier": "C112386",
+            "notation": "Percent Predicted Slow Vital Capacity",
+            "pref_label": "Percent Predicted Slow Vital Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112386"
+        },
+        {
+            "alt_label": "Percent Predicted Sp Airway Resistance;Percent Predicted Specific Airway Resistance",
+            "definition": "A measurement used to describe airway behavior irrespective of lung volume; it is calculated as airway resistance (Raw) multiplied by functional residual capacity (FRC), as a proportion of the predicted normal value.",
+            "identifier": "C170624",
+            "notation": "Percent Predicted Sp Airway Resistance",
+            "pref_label": "Percent Predicted Specific Airway Resistance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C170624"
+        },
+        {
+            "alt_label": "Percent Predicted Specific Airway Volume",
+            "definition": "A parameter used in functional respiratory imaging, derived by dividing the airway volume of a specified intrapulmonary region by the total volume of the same specified intrapulmonary region, expressed as a proportion of the predicted normal value.",
+            "identifier": "C170622",
+            "notation": "Percent Predicted Specific Airway Volume",
+            "pref_label": "Percent Predicted Specific Airway Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C170622"
+        },
+        {
+            "alt_label": "Percent Predicted Tidal Volume",
+            "definition": "The volume of air moved into and out of the lungs during breathing at rest as a proportion of the predicted normal value.",
+            "identifier": "C112387",
+            "notation": "Percent Predicted Tidal Volume",
+            "pref_label": "Percent Predicted Tidal Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112387"
+        },
+        {
+            "alt_label": "Percent Predicted Total Lung Capacity",
+            "definition": "The total volume of air in the lungs after maximum inhalation as a proportion of the predicted normal value.",
+            "identifier": "C112388",
+            "notation": "Percent Predicted Total Lung Capacity",
+            "pref_label": "Percent Predicted Total Lung Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C112388"
+        },
+        {
+            "alt_label": "Pneumonia Indicator",
+            "definition": "An indication as to whether pneumonia has occurred.",
+            "identifier": "C171521",
+            "notation": "Pneumonia Indicator",
+            "pref_label": "Pneumonia Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C171521"
+        },
+        {
+            "alt_label": "PAO2/FIO2;PP Arterial O2/Fraction Inspired O2",
+            "definition": "A relative measurement (ratio or percentage) of the force per unit area (pressure) of oxygen dissolved in arterial blood to the percentage oxygen of an inhaled mixture of gasses.",
+            "identifier": "C119293",
+            "notation": "PP Arterial O2/Fraction Inspired O2",
+            "pref_label": "Partial Pressure Arterial Oxygen to Fraction Inspired Oxygen Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C119293"
+        },
+        {
+            "alt_label": "Pulmonary Reactance",
+            "definition": "A measurement of the ability of the lung to store energy, which is required for passive expiration.",
+            "identifier": "C123567",
+            "notation": "Pulmonary Reactance",
+            "pref_label": "Pulmonary Reactance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C123567"
+        },
+        {
+            "alt_label": "Quasi-Static Compliance",
+            "definition": "The static elastic recoil pressure of the lungs at a given lung volume.",
+            "identifier": "C139255",
+            "notation": "Quasi-Static Compliance",
+            "pref_label": "Quasi-Static Compliance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139255"
+        },
+        {
+            "alt_label": "Relative Size Change",
+            "definition": "An assessment of the size difference in comparison to a baseline or previous value.",
+            "identifier": "C163556",
+            "notation": "Relative Size Change",
+            "pref_label": "Relative Size Change",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C163556"
+        },
+        {
+            "alt_label": "Residual Volume",
+            "definition": "The volume of air remaining in the lungs after maximum exhalation.",
+            "identifier": "C89836",
+            "notation": "Residual Volume",
+            "pref_label": "Residual Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C89836"
+        },
+        {
+            "alt_label": "Respiratory Exchange Ratio",
+            "definition": "The ratio between the amount of carbon dioxide produced and oxygen consumed in one breath.",
+            "identifier": "C123568",
+            "notation": "Respiratory Exchange Ratio",
+            "pref_label": "Respiratory Exchange Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C123568"
+        },
+        {
+            "alt_label": "Salazar-Knowles Equation Parameter A",
+            "definition": "A representation of the exponential function described by the Salazar-Knowles equation, and an estimation of a subject's inspiratory capacity.",
+            "identifier": "C139256",
+            "notation": "Salazar-Knowles Equation Parameter A",
+            "pref_label": "Salazar-Knowles Equation Parameter A",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139256"
+        },
+        {
+            "alt_label": "Salazar-Knowles Equation Parameter B",
+            "definition": "The difference between the volume at total lung capacity and the hypothesized volume at a transpulmonary pressure of zero.",
+            "identifier": "C139257",
+            "notation": "Salazar-Knowles Equation Parameter B",
+            "pref_label": "Salazar-Knowles Equation Parameter B",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139257"
+        },
+        {
+            "alt_label": "Salazar-Knowles Equation, K",
+            "definition": "The reflection of the curvature of the upper portion of the deflationary limb of the pressure-volume curve.",
+            "identifier": "C139258",
+            "notation": "Salazar-Knowles Equation, K",
+            "pref_label": "Salazar-Knowles Equation, K Parameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139258"
+        },
+        {
+            "alt_label": "Slow Vital Capacity",
+            "definition": "The maximum volume of air that can be exhaled after slow maximum inhalation.",
+            "identifier": "C111315",
+            "notation": "Slow Vital Capacity",
+            "pref_label": "Slow Vital Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C111315"
+        },
+        {
+            "alt_label": "Specific Airway Conductance",
+            "definition": "A measurement of the airway conductance relative to lung volume. (NCI)",
+            "identifier": "C122186",
+            "notation": "Specific Airway Conductance",
+            "pref_label": "Specific Airway Conductance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C122186"
+        },
+        {
+            "alt_label": "Specific Airway Resistance",
+            "definition": "A measurement used to describe airway behavior irrespective of lung volume; it is calculated as airway resistance (Raw) multiplied by functional residual capacity (FRC).",
+            "identifier": "C123569",
+            "notation": "Specific Airway Resistance",
+            "pref_label": "Specific Airway Resistance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C123569"
+        },
+        {
+            "alt_label": "Specific Airway Volume",
+            "definition": "A parameter used in functional respiratory imaging, derived by dividing the airway volume of a specified intrapulmonary region by the total volume of the same specified intrapulmonary region.",
+            "identifier": "C170618",
+            "notation": "Specific Airway Volume",
+            "pref_label": "Specific Airway Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C170618"
+        },
+        {
+            "alt_label": "Thoracic Gas Volume",
+            "definition": "The absolute volume of air contained in the thoracic cavity at any given point in time and at any level of alveolar pressure.",
+            "identifier": "C124426",
+            "notation": "Thoracic Gas Volume",
+            "pref_label": "Thoracic Gas Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C124426"
+        },
+        {
+            "alt_label": "Tidal Volume",
+            "definition": "The volume of air moved into and out of the lungs during breathing at rest.",
+            "identifier": "C111324",
+            "notation": "Tidal Volume",
+            "pref_label": "Tidal Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C111324"
+        },
+        {
+            "alt_label": "Tissue Elastance",
+            "definition": "A measurement of the reflection of energy conservation within a given tissue.",
+            "identifier": "C139260",
+            "notation": "Tissue Elastance",
+            "pref_label": "Tissue Elastance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139260"
+        },
+        {
+            "alt_label": "Tissue Hysteresivity",
+            "definition": "The energy dissipated relative to the elastic energy stored in the tissue in a P-V cycle. (Fredberg JJ, Stamenovic D. On the imperfect elasticity of lung tissue. J Appl Physiol (1985). 1989 Dec;67(6):2408-19).",
+            "identifier": "C139261",
+            "notation": "Tissue Hysteresivity",
+            "pref_label": "Tissue Hysteresivity Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C139261"
+        },
+        {
+            "alt_label": "Total Lung Capacity",
+            "definition": "The total volume of air in the lungs after maximum inhalation.",
+            "identifier": "C111325",
+            "notation": "Total Lung Capacity",
+            "pref_label": "Total Lung Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C111325"
+        },
+        {
+            "alt_label": "Total Respiratory System Resistance",
+            "definition": "A calculated value based on all factors that influence the flow of gas from the airway opening to the alveoli, including airway resistance, and tissue resistance of the lung and chest wall. (NCI)",
+            "identifier": "C122185",
+            "notation": "Total Respiratory System Resistance",
+            "pref_label": "Total Respiratory System Resistance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111107-C122185"
+        }
+    ]
+}

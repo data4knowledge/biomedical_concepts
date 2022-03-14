@@ -1,0 +1,332 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "SGRQC1-Describe Your Current Health",
+            "definition": "St. George's Respiratory Questionnaire - Please check one box to show how you describe your current health.",
+            "identifier": "C106853",
+            "notation": "SGRQC101",
+            "pref_label": "SGRQ-C - Description of Your Current Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106853"
+        },
+        {
+            "alt_label": "SGRQC1-I Cough",
+            "definition": "St. George's Respiratory Questionnaire - I cough.",
+            "identifier": "C106854",
+            "notation": "SGRQC102",
+            "pref_label": "SGRQ-C - Cough",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106854"
+        },
+        {
+            "alt_label": "SGRQC1-I Bring Up Phlegm",
+            "definition": "St. George's Respiratory Questionnaire - I bring up phlegm (sputum).",
+            "identifier": "C106855",
+            "notation": "SGRQC103",
+            "pref_label": "SGRQ-C - Bring Up Phlegm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106855"
+        },
+        {
+            "alt_label": "SGRQC1-I Have Shortness of Breath",
+            "definition": "St. George's Respiratory Questionnaire - I have shortness of breath.",
+            "identifier": "C106856",
+            "notation": "SGRQC104",
+            "pref_label": "SGRQ-C - Have Shortness of Breath",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106856"
+        },
+        {
+            "alt_label": "SGRQC1-I Have Attacks of Wheezing",
+            "definition": "St. George's Respiratory Questionnaire - I have attacks of wheezing.",
+            "identifier": "C106857",
+            "notation": "SGRQC105",
+            "pref_label": "SGRQ-C - Have Attacks of Wheezing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106857"
+        },
+        {
+            "alt_label": "SGRQC1-How Many Respiratory Attacks",
+            "definition": "St. George's Respiratory Questionnaire - How many respiratory attacks did you have during the last year?",
+            "identifier": "C106858",
+            "notation": "SGRQC106",
+            "pref_label": "SGRQ-C - Number of Respiratory Attacks Last Year",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106858"
+        },
+        {
+            "alt_label": "SGRQC1-How Often Do You Have Good Days",
+            "definition": "St. George's Respiratory Questionnaire - How often do you have good days (with few respiratory problems)?",
+            "identifier": "C106859",
+            "notation": "SGRQC107",
+            "pref_label": "SGRQ-C - Good Days with Few Respiratory Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106859"
+        },
+        {
+            "alt_label": "SGRQC1-Wheeze Worse in the Morning",
+            "definition": "St. George's Respiratory Questionnaire - If you wheeze, is it worse when you get up in the morning?",
+            "identifier": "C106860",
+            "notation": "SGRQC108",
+            "pref_label": "SGRQ-C - Wheezing Worse In the Morning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106860"
+        },
+        {
+            "alt_label": "SGRQC1-Describe Your Resp Problems",
+            "definition": "St. George's Respiratory Questionnaire - How would you describe your respiratory problems?",
+            "identifier": "C106861",
+            "notation": "SGRQC109",
+            "pref_label": "SGRQ-C - Description of Your Respiratory Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106861"
+        },
+        {
+            "alt_label": "SGRQC1-Washing or Dressing Yourself",
+            "definition": "St. George's Respiratory Questionnaire - Questions about what activities usually make you feel breathless: Washing or dressing yourself.",
+            "identifier": "C106862",
+            "notation": "SGRQC110",
+            "pref_label": "SGRQ-C - Feel Breathless Washing or Dressing Yourself",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106862"
+        },
+        {
+            "alt_label": "SGRQC1-Walking Around the House",
+            "definition": "St. George's Respiratory Questionnaire - Questions about what activities usually make you feel breathless: Walking around the house.",
+            "identifier": "C106863",
+            "notation": "SGRQC111",
+            "pref_label": "SGRQ-C - Feel Breathless Walking Around the House",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106863"
+        },
+        {
+            "alt_label": "SGRQC1-Walking Outside on Level Ground",
+            "definition": "St. George's Respiratory Questionnaire - Questions about what activities usually make you feel breathless: Walking outside on level ground.",
+            "identifier": "C106864",
+            "notation": "SGRQC112",
+            "pref_label": "SGRQ-C - Feel Breathless Walking Outside on Level Ground",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106864"
+        },
+        {
+            "alt_label": "SGRQC1-Walking Up a Flight of Stairs",
+            "definition": "St. George's Respiratory Questionnaire - Questions about what activities usually make you feel breathless: Walking up a flight of stairs.",
+            "identifier": "C106865",
+            "notation": "SGRQC113",
+            "pref_label": "SGRQ-C - Feel Breathless Walking Up a Flight of Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106865"
+        },
+        {
+            "alt_label": "SGRQC1-Walking Up Hills",
+            "definition": "St. George's Respiratory Questionnaire - Questions about what activities usually make you feel breathless: Walking up hills.",
+            "identifier": "C106866",
+            "notation": "SGRQC114",
+            "pref_label": "SGRQ-C - Feel Breathless Walking Up Hills",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106866"
+        },
+        {
+            "alt_label": "SGRQC1-Coughing Hurts",
+            "definition": "St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: Coughing hurts.",
+            "identifier": "C106867",
+            "notation": "SGRQC115",
+            "pref_label": "SGRQ-C - Coughing Hurts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106867"
+        },
+        {
+            "alt_label": "SGRQC1-Coughing Makes Me Tired",
+            "definition": "St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: Coughing makes me tired.",
+            "identifier": "C106868",
+            "notation": "SGRQC116",
+            "pref_label": "SGRQ-C - Coughing Makes Me Tired",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106868"
+        },
+        {
+            "alt_label": "SGRQC1-Short of Breath When Talk",
+            "definition": "St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: I am short of breath when I talk.",
+            "identifier": "C106869",
+            "notation": "SGRQC117",
+            "pref_label": "SGRQ-C - Short of Breath When Talk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106869"
+        },
+        {
+            "alt_label": "SGRQC1-Short of Breath When Bend Over",
+            "definition": "St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: I am short of breath when I bend over.",
+            "identifier": "C106870",
+            "notation": "SGRQC118",
+            "pref_label": "SGRQ-C - Short of Breath When Bend Over",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106870"
+        },
+        {
+            "alt_label": "SGRQC1-Coughing Disturbs My Sleep",
+            "definition": "St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: My coughing or breathing disturbs my sleep.",
+            "identifier": "C106871",
+            "notation": "SGRQC119",
+            "pref_label": "SGRQ-C - Coughing Disturbs My Sleep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106871"
+        },
+        {
+            "alt_label": "SGRQC1-Get Exhausted Easily",
+            "definition": "St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: I get exhausted easily.",
+            "identifier": "C106872",
+            "notation": "SGRQC120",
+            "pref_label": "SGRQ-C - Get Exhausted Easily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106872"
+        },
+        {
+            "alt_label": "SGRQC1-Cough Is Embarrassing in Public",
+            "definition": "St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: My cough or breathing is embarrassing in public.",
+            "identifier": "C106873",
+            "notation": "SGRQC121",
+            "pref_label": "SGRQ-C - Cough Is Embarrassing in Public",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106873"
+        },
+        {
+            "alt_label": "SGRQC1-Respiratory Problems a Nuisance",
+            "definition": "St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: My respiratory problems are a nuisance to my family, friends or neighbours.",
+            "identifier": "C107021",
+            "notation": "SGRQC122",
+            "pref_label": "SGRQ-C - Respiratory Problems a Nuisance to Family, Friends or Neighbours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C107021"
+        },
+        {
+            "alt_label": "SGRQC1-Afraid When Cannot Catch Breath",
+            "definition": "St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: I get afraid or panic when I cannot catch my breath.",
+            "identifier": "C106874",
+            "notation": "SGRQC123",
+            "pref_label": "SGRQ-C - Afraid or Panic When Cannot Catch Breath",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106874"
+        },
+        {
+            "alt_label": "SGRQC1-Not in Control of Resp Problems",
+            "definition": "St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: I feel that I am not in control of my respiratory problems.",
+            "identifier": "C106875",
+            "notation": "SGRQC124",
+            "pref_label": "SGRQ-C - Not in Control of Respiratory Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106875"
+        },
+        {
+            "alt_label": "SGRQC1-Frail Because of Resp Problems",
+            "definition": "St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: I have become frail or an invalid because of my respiratory problems.",
+            "identifier": "C106876",
+            "notation": "SGRQC125",
+            "pref_label": "SGRQ-C - Become Frail Because of Respiratory Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106876"
+        },
+        {
+            "alt_label": "SGRQC1-Exercise Is Not Safe for Me",
+            "definition": "St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: Exercise is not safe for me.",
+            "identifier": "C106877",
+            "notation": "SGRQC126",
+            "pref_label": "SGRQ-C - Exercise Is Not Safe for Me",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106877"
+        },
+        {
+            "alt_label": "SGRQC1-Everything Too Much Effort",
+            "definition": "St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: Everything seems too much of an effort.",
+            "identifier": "C106878",
+            "notation": "SGRQC127",
+            "pref_label": "SGRQ-C - Everything Seems Too Much Effort",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106878"
+        },
+        {
+            "alt_label": "SGRQC1-Take a Long Time to Get Washed",
+            "definition": "St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: I take a long time to get washed or dressed.",
+            "identifier": "C106879",
+            "notation": "SGRQC128",
+            "pref_label": "SGRQ-C - Take a Long Time to Get Washed or Dressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106879"
+        },
+        {
+            "alt_label": "SGRQC1-Cannot Take a Bath or Shower",
+            "definition": "St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: I cannot take a bath or shower, or I take a long time to do it.",
+            "identifier": "C106880",
+            "notation": "SGRQC129",
+            "pref_label": "SGRQ-C - Cannot Take a Bath or Shower",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106880"
+        },
+        {
+            "alt_label": "SGRQC1-Walk Slow Than Others My Age",
+            "definition": "St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: I walk slower than other people my age, or I stop to rest.",
+            "identifier": "C106881",
+            "notation": "SGRQC130",
+            "pref_label": "SGRQ-C - Walk Slower Than Other People My Age",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106881"
+        },
+        {
+            "alt_label": "SGRQC1-Jobs Take a Long Time",
+            "definition": "St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: Jobs such as household chores take a long time, or I have to stop to rest.",
+            "identifier": "C106882",
+            "notation": "SGRQC131",
+            "pref_label": "SGRQ-C - Jobs Take a Long Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106882"
+        },
+        {
+            "alt_label": "SGRQC1-Walk Up Flight of Stairs Slowly",
+            "definition": "St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: If I walk up one flight of stairs, I have to go slowly or stop.",
+            "identifier": "C106883",
+            "notation": "SGRQC132",
+            "pref_label": "SGRQ-C - Walk Up Flight of Stairs Slowly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106883"
+        },
+        {
+            "alt_label": "SGRQC1-If I Hurry, I Have to Stop",
+            "definition": "St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: If I hurry or walk fast, I have to stop or slow down.",
+            "identifier": "C106884",
+            "notation": "SGRQC133",
+            "pref_label": "SGRQ-C - If Walk Fast Have to Stop",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106884"
+        },
+        {
+            "alt_label": "SGRQC1-Difficult to Walk Up Hills",
+            "definition": "St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: My breathing makes it difficult to do things such as walk up hills, carry things up stairs, light gardening such as weeding, dance, bowl or play golf.",
+            "identifier": "C106885",
+            "notation": "SGRQC134",
+            "pref_label": "SGRQ-C - Difficult to Walk Up Hills",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106885"
+        },
+        {
+            "alt_label": "SGRQC1-Difficult to Carry Heavy Loads",
+            "definition": "St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: My breathing makes it difficult to do things such as carry heavy loads, dig in the garden or shovel snow, jog or walk briskly (5 miles per hour), play tennis or swim.",
+            "identifier": "C106886",
+            "notation": "SGRQC135",
+            "pref_label": "SGRQ-C - Difficult to Carry Heavy Loads",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106886"
+        },
+        {
+            "alt_label": "SGRQC1-Cannot Play Sports",
+            "definition": "St. George's Respiratory Questionnaire - We would like to know how your respiratory problems usually affect your daily life: I cannot play sports or do other physical activities.",
+            "identifier": "C107022",
+            "notation": "SGRQC136",
+            "pref_label": "SGRQ-C - Respiratory Problems Affect Daily Life: Cannot Play Sports",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C107022"
+        },
+        {
+            "alt_label": "SGRQC1-Cannot Go Out for Entertainment",
+            "definition": "St. George's Respiratory Questionnaire - We would like to know how your respiratory problems usually affect your daily life: I cannot go out for entertainment or recreation.",
+            "identifier": "C107023",
+            "notation": "SGRQC137",
+            "pref_label": "SGRQ-C - Respiratory Problems Affect Daily Life: Cannot Go Out for Entertainment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C107023"
+        },
+        {
+            "alt_label": "SGRQC1-Cannot Go Out to Do Shopping",
+            "definition": "St. George's Respiratory Questionnaire - We would like to know how your respiratory problems usually affect your daily life: I cannot go out of the house to do the shopping.",
+            "identifier": "C107024",
+            "notation": "SGRQC138",
+            "pref_label": "SGRQ-C - Respiratory Problems Affect Daily Life: Cannot Go Out to Do Shopping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C107024"
+        },
+        {
+            "alt_label": "SGRQC1-Cannot Do Household Chores",
+            "definition": "St. George's Respiratory Questionnaire - We would like to know how your respiratory problems usually affect your daily life: I cannot do household chores.",
+            "identifier": "C107025",
+            "notation": "SGRQC139",
+            "pref_label": "SGRQ-C - Respiratory Problems Affect Daily Life: Cannot Do Household Chores",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C107025"
+        },
+        {
+            "alt_label": "SGRQC1-Cannot Move Far From My Bed",
+            "definition": "St. George's Respiratory Questionnaire - We would like to know how your respiratory problems usually affect your daily life: I cannot move far from my bed or chair.",
+            "identifier": "C107026",
+            "notation": "SGRQC140",
+            "pref_label": "SGRQ-C - Respiratory Problems Affect Daily Life: Cannot Move Far From Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C107026"
+        },
+        {
+            "alt_label": "SGRQC1-How Resp Problems Affect You",
+            "definition": "St. George's Respiratory Questionnaire - How do your respiratory problems affect you?",
+            "identifier": "C106887",
+            "notation": "SGRQC141",
+            "pref_label": "SGRQ-C - How Respiratory Problems Affect You",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106671-C106887"
+        }
+    ]
+}

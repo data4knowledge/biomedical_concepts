@@ -1,0 +1,180 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "EPIC2-Overall Problem Urinary Function",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - Overall, how much of a problem has your urinary function been for you?",
+            "identifier": "C127399",
+            "notation": "EPIC201",
+            "pref_label": "EPIC-CP - Overall Problem Urinary Function",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127399"
+        },
+        {
+            "alt_label": "EPIC2-Best Describes Urinary Control",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - Which of the following best describes your urinary control?",
+            "identifier": "C127400",
+            "notation": "EPIC202",
+            "pref_label": "EPIC-CP - Best Describes Urinary Control",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127400"
+        },
+        {
+            "alt_label": "EPIC2-Pads or Adult Diapers per Day",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How many pads or adult diapers per day have you been using for urinary leakage?",
+            "identifier": "C127401",
+            "notation": "EPIC203",
+            "pref_label": "EPIC-CP - Adult Diapers Used per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127401"
+        },
+        {
+            "alt_label": "EPIC2-Problem Urinary Dripping/Leakage",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has urinary dripping or leakage been for you?",
+            "identifier": "C127402",
+            "notation": "EPIC204",
+            "pref_label": "EPIC-CP - Problem Urinary Dripping/Leakage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127402"
+        },
+        {
+            "alt_label": "EPIC2-Problem Pain/Burning w/Urination",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Pain or burning with urination.",
+            "identifier": "C127403",
+            "notation": "EPIC205A",
+            "pref_label": "EPIC-CP - Pain or Burning With Urination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127403"
+        },
+        {
+            "alt_label": "EPIC2-Problem Weak Stream/Incompl Empty",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Weak urine stream/incomplete bladder emptying.",
+            "identifier": "C127404",
+            "notation": "EPIC205B",
+            "pref_label": "EPIC-CP - Weak Urine Stream or Incomplete Bladder Emptying",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127404"
+        },
+        {
+            "alt_label": "EPIC2-Problem Need to Urinate Frequently",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Need to urinate frequently.",
+            "identifier": "C127405",
+            "notation": "EPIC205C",
+            "pref_label": "EPIC-CP - Need to Urinate Frequently",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127405"
+        },
+        {
+            "alt_label": "EPIC2-Problem Rectal Pain/Urgent Bowel",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Rectal pain or urgency of bowel movements.",
+            "identifier": "C127406",
+            "notation": "EPIC206A",
+            "pref_label": "EPIC-CP - Rectal Pain or Urgency of Bowel Movements",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127406"
+        },
+        {
+            "alt_label": "EPIC2-Problem Increased Freq Bowel Move",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Increased frequency of your bowel movements.",
+            "identifier": "C127407",
+            "notation": "EPIC206B",
+            "pref_label": "EPIC-CP - Increased Frequency of Bowel Movements",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127407"
+        },
+        {
+            "alt_label": "EPIC2-Overall Problem Bowel Habits",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Overall problems with your bowel habits.",
+            "identifier": "C127408",
+            "notation": "EPIC206C",
+            "pref_label": "EPIC-CP - Overall Problems With Bowel Habits",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127408"
+        },
+        {
+            "alt_label": "EPIC2-Rate Ability to Reach Orgasm",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How would you rate your ability to reach orgasm (climax)?",
+            "identifier": "C127409",
+            "notation": "EPIC207",
+            "pref_label": "EPIC-CP - Rate Ability to Reach Orgasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127409"
+        },
+        {
+            "alt_label": "EPIC2-Quality of Your Erections",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How would you describe the usual quality of your erections?",
+            "identifier": "C127410",
+            "notation": "EPIC208",
+            "pref_label": "EPIC-CP - Quality of Erections",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127410"
+        },
+        {
+            "alt_label": "EPIC2-Overall Problem Sexual Function",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - Overall, how much of a problem has your sexual function or lack of sexual function been for you?",
+            "identifier": "C127411",
+            "notation": "EPIC209",
+            "pref_label": "EPIC-CP - Problem Lack of Sexual Function",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127411"
+        },
+        {
+            "alt_label": "EPIC2-Problem Hot Flash/Breast Tender",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Hot flashes or breast tenderness/enlargement.",
+            "identifier": "C127412",
+            "notation": "EPIC210A",
+            "pref_label": "EPIC-CP - Hot Flashes or Breast Tenderness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127412"
+        },
+        {
+            "alt_label": "EPIC2-Problem Feeling Depressed",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Feeling depressed.",
+            "identifier": "C127413",
+            "notation": "EPIC210B",
+            "pref_label": "EPIC-CP - Feeling Depressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127413"
+        },
+        {
+            "alt_label": "EPIC2-Problem Lack of Energy",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Lack of energy.",
+            "identifier": "C127414",
+            "notation": "EPIC210C",
+            "pref_label": "EPIC-CP - Lack of Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127414"
+        },
+        {
+            "alt_label": "EPIC2-Urinary Incontinence Symptom Score",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - Urinary incontinence symptom score.",
+            "identifier": "C127415",
+            "notation": "EPIC211",
+            "pref_label": "EPIC-CP - Urinary Incontinence Symptom Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127415"
+        },
+        {
+            "alt_label": "EPIC2-Urinary Irrit/Obstr Symptom Score",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - Urinary irritation/obstruction symptom score.",
+            "identifier": "C127416",
+            "notation": "EPIC212",
+            "pref_label": "EPIC-CP - Urinary Irritation/Obstruction Symptom Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127416"
+        },
+        {
+            "alt_label": "EPIC2-Bowel Symptom Score",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - Bowel symptom score.",
+            "identifier": "C127417",
+            "notation": "EPIC213",
+            "pref_label": "EPIC-CP - Bowel Symptom Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127417"
+        },
+        {
+            "alt_label": "EPIC2-Sexual Symptom Score",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - Sexual symptom score.",
+            "identifier": "C127418",
+            "notation": "EPIC214",
+            "pref_label": "EPIC-CP - Sexual Symptom Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127418"
+        },
+        {
+            "alt_label": "EPIC2-Vitality/Hormonal Symptom Score",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - Vitality/hormonal symptom score.",
+            "identifier": "C127419",
+            "notation": "EPIC215",
+            "pref_label": "EPIC-CP - Vitality/Hormonal Symptom Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127419"
+        },
+        {
+            "alt_label": "EPIC2-Overall Prostate Cancer QOL Score",
+            "definition": "Expanded Prostate Cancer Index Composite for Clinical Practice - Overall prostate cancer QOL score.",
+            "identifier": "C127420",
+            "notation": "EPIC216",
+            "pref_label": "EPIC-CP - Overall Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127352-C127420"
+        }
+    ]
+}

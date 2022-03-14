@@ -1,0 +1,77 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Basic Research",
+            "definition": "A type of study designed to examine the basic mechanism of action (e.g., physiology, biomechanics) of an intervention. (ClinicalTrials.gov)",
+            "identifier": "C15714",
+            "notation": "Basic Science",
+            "pref_label": "Basic Research",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147067-C15714"
+        },
+        {
+            "definition": "An intervention of a device product is being evaluated to determine the feasibility of the product or to test a prototype device and not health outcomes. Such studies are conducted to confirm the design and operating specifications of a device before beginning a full clinical trial. (ClinicalTrials.gov)",
+            "identifier": "C139174",
+            "notation": "Device Feasibility",
+            "pref_label": "Device Feasibility Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147067-C139174"
+        },
+        {
+            "alt_label": "Diagnostic",
+            "definition": "The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results or summary of such an investigation. (NCI)",
+            "identifier": "C15220",
+            "notation": "Diagnosis",
+            "pref_label": "Diagnosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147067-C15220"
+        },
+        {
+            "definition": "Any action or process to perform research on a hypothetical or theoretical idea in order to determine whether the phenomena is new (which may lead to additional studies) or can be explained by an existing and well-substantiated theory. (NCI)",
+            "identifier": "C147146",
+            "notation": "Exploratory Research",
+            "pref_label": "Exploratory Research",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147067-C147146"
+        },
+        {
+            "definition": "A type of study designed to evaluate the delivery, processes, management, organization or financing of health care. (ClinicalTrials.gov)",
+            "identifier": "C15245",
+            "notation": "Health Services Research",
+            "pref_label": "Health Services Research",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147067-C15245"
+        },
+        {
+            "definition": "Any action or process to create a tentative proposal to explain certain observations or facts, and which requires further investigation to be verified. (NCI)",
+            "identifier": "C147147",
+            "notation": "Hypothesis Generation",
+            "pref_label": "Hypothesis Generation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147067-C147147"
+        },
+        {
+            "alt_label": "Prophylaxis",
+            "definition": "Any action or response to modify or stop the development of a disease.",
+            "identifier": "C15843",
+            "notation": "Prevention",
+            "pref_label": "Preventive Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147067-C15843"
+        },
+        {
+            "definition": "Any action or process to identify a condition, or risk factors for a condition, in humans who are not yet known to have the condition or risk factor. (clinicaltrials.gov)",
+            "identifier": "C15419",
+            "notation": "Screening",
+            "pref_label": "Disease Screening",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147067-C15419"
+        },
+        {
+            "definition": "Any action or process to maximize comfort, minimize side effects, or mitigate against a decline in the participant's health or function. (clinicaltrials.gov)",
+            "identifier": "C15747",
+            "notation": "Supportive Care",
+            "pref_label": "Supportive Care",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147067-C15747"
+        },
+        {
+            "definition": "Any action or process to improve or remedy a syndrome, disease, or condition.",
+            "identifier": "C70742",
+            "notation": "Treatment",
+            "pref_label": "Treat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147067-C70742"
+        }
+    ]
+}

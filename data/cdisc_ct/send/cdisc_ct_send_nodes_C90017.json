@@ -1,0 +1,44 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Benign",
+            "definition": "For neoplasms, a non-infiltrating and non-metastasizing neoplastic process that is characterized by the absence of morphologic features associated with malignancy (e.g., severe atypia, nuclear pleomorphism, tumor cell necrosis, and abnormal mitoses). For other conditions, a process that is mild in nature and not dangerous to health. (NCI)",
+            "identifier": "C14172",
+            "notation": "BENIGN",
+            "pref_label": "Benign",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90017-C14172"
+        },
+        {
+            "alt_label": "Malignant",
+            "definition": "Refers to abnormal cell activity manifested by decreased control over growth and function, causing tumor growth or spread into surrounding tissue and adverse effects to the host. (NCI)",
+            "identifier": "C14143",
+            "notation": "MALIGNANT",
+            "pref_label": "Malignant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90017-C14143"
+        },
+        {
+            "alt_label": "Metastatic",
+            "definition": "A term referring to the pathologic observation of a tumor extension or migration from its original site of growth to another non-adjacent site.",
+            "identifier": "C14174",
+            "notation": "METASTATIC",
+            "pref_label": "Metastatic",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90017-C14174"
+        },
+        {
+            "alt_label": "Non-neoplastic Disorder",
+            "definition": "Any disorder other than abnormal tissue growth resulting from uncontrolled cell proliferation. (NCI)",
+            "identifier": "C53529",
+            "notation": "NON-NEOPLASTIC",
+            "pref_label": "Non-Neoplastic Disorder",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90017-C53529"
+        },
+        {
+            "alt_label": "Undetermined",
+            "definition": "A term referring to the lack of definitive clinical or pathologic criteria for a tumor to predict its clinical course or classify it as benign or malignant.",
+            "identifier": "C89084",
+            "notation": "UNDETERMINED",
+            "pref_label": "Undetermined",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90017-C89084"
+        }
+    ]
+}

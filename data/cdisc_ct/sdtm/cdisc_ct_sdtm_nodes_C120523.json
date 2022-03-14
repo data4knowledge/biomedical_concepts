@@ -1,0 +1,132 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Atrioventricular Conduction",
+            "definition": "An electrocardiographic assessment of cardiac atrioventricular conduction.",
+            "identifier": "C111131",
+            "notation": "AVCOND",
+            "pref_label": "Atrioventricular Conduction ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111131"
+        },
+        {
+            "alt_label": "Axis and Voltage",
+            "definition": "An electrocardiographic assessment of mean cardiac electrical vector and the ECG voltage.",
+            "identifier": "C111132",
+            "notation": "AXISVOLT",
+            "pref_label": "Axis and Voltage ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111132"
+        },
+        {
+            "alt_label": "Chamber Hypertrophy or Enlargement",
+            "definition": "An electrocardiographic assessment of chamber hypertrophy or enlargement.",
+            "identifier": "C111155",
+            "notation": "CHYPTENL",
+            "pref_label": "Chamber Hypertrophy or Enlargement ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111155"
+        },
+        {
+            "alt_label": "Comparison to a Prior ECG",
+            "definition": "A comparative interpretation of an ECG relative to a previous (comparator) ECG. The definition of the comparator ECG may be specified elsewhere. Common comparator result values include improved, no change, deteriorated.",
+            "identifier": "C117761",
+            "notation": "EGCOMP",
+            "pref_label": "Comparison to a Prior ECG",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C117761"
+        },
+        {
+            "alt_label": "Interpretation",
+            "definition": "An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.",
+            "identifier": "C41255",
+            "notation": "INTP",
+            "pref_label": "Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C41255"
+        },
+        {
+            "alt_label": "Intraventricular-Intraatrial Conduction",
+            "definition": "An electrocardiographic assessment of intraventricular and intra-atrial conduction.",
+            "identifier": "C111238",
+            "notation": "IVTIACD",
+            "pref_label": "Intraventricular and Intraatrial Conduction ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111238"
+        },
+        {
+            "alt_label": "Myocardial Infarction",
+            "definition": "An electrocardiographic assessment of findings suggestive of myocardial infarction.",
+            "identifier": "C111280",
+            "notation": "MI",
+            "pref_label": "Myocardial Infarction ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111280"
+        },
+        {
+            "alt_label": "Pacemaker",
+            "definition": "An electrocardiographic assessment of presence of artificial electronic pacing.",
+            "identifier": "C111285",
+            "notation": "PACEMAKR",
+            "pref_label": "Pacemaker ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111285"
+        },
+        {
+            "alt_label": "Rhythm Not Otherwise Specified",
+            "definition": "An electrocardiographic assessment of cardiac rhythm not otherwise specified.",
+            "identifier": "C111307",
+            "notation": "RHYNOS",
+            "pref_label": "Rhythm Not Otherwise Specified ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111307"
+        },
+        {
+            "alt_label": "Sinus Node Rhythms and Arrhythmias",
+            "definition": "An electrocardiographic assessment of sinus node rhythms and arrhythmias.",
+            "identifier": "C111312",
+            "notation": "SNRARRY",
+            "pref_label": "Sinus Node Rhythm and Arrhythmia ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111312"
+        },
+        {
+            "alt_label": "Supraventricular Arrhythmias",
+            "definition": "An electrocardiographic assessment of supraventricular arrhythmias excluding tachycardias.",
+            "identifier": "C111320",
+            "notation": "SPRARRY",
+            "pref_label": "Supraventricular Arrhythmia ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111320"
+        },
+        {
+            "alt_label": "Supraventricular Tachyarrhythmias",
+            "definition": "An electrocardiographic assessment of supraventricular tachyarrhythmias.",
+            "identifier": "C111321",
+            "notation": "SPRTARRY",
+            "pref_label": "Supraventricular Tachyarrhythmia ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111321"
+        },
+        {
+            "alt_label": "ST Segment, T wave, and U wave",
+            "definition": "An electrocardiographic assessment of the characteristics of the ST segment, T wave, and U wave.",
+            "identifier": "C111363",
+            "notation": "STSTWUW",
+            "pref_label": "ST Segment, T wave, and U wave ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111363"
+        },
+        {
+            "alt_label": "Technical Quality",
+            "definition": "A statement about an electrocardiographic recording describing technical issues or interference during the recording, processing, or transmission of the data. This does not represent an electrocardiographic diagnosis.",
+            "identifier": "C117807",
+            "notation": "TECHQUAL",
+            "pref_label": "ECG Technical Quality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C117807"
+        },
+        {
+            "alt_label": "Ventricular Arrhythmias",
+            "definition": "An electrocardiographic assessment of ventricular arrhythmias excluding tachycardias.",
+            "identifier": "C111330",
+            "notation": "VTARRY",
+            "pref_label": "Ventricular Arrhythmia ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111330"
+        },
+        {
+            "alt_label": "Ventricular Tachyarrhythmias",
+            "definition": "An electrocardiographic assessment of ventricular tachyarrhythmias.",
+            "identifier": "C111331",
+            "notation": "VTTARRY",
+            "pref_label": "Ventricular Tachyarrhythmia ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120523-C111331"
+        }
+    ]
+}

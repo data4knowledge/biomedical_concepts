@@ -1,0 +1,580 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "UPD2-Anxious Mood",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week have you felt nervous, worried or tense? If yes, was this feeling for longer than one day at a time? Did it make it difficult for you to follow your usual activities or to be with other people?",
+            "identifier": "C100476",
+            "notation": "UPD2-Anxious Mood",
+            "pref_label": "MDS-UPDRS - Anxious Mood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100476"
+        },
+        {
+            "alt_label": "UPD2-Apathy",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you felt indifferent to doing activities or being with people?",
+            "identifier": "C100477",
+            "notation": "UPD2-Apathy",
+            "pref_label": "MDS-UPDRS - Apathy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100477"
+        },
+        {
+            "alt_label": "UPD2-Arising from Chair",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Arising from Chair.",
+            "identifier": "C100519",
+            "notation": "UPD2-Arising from Chair",
+            "pref_label": "MDS-UPDRS - Arising from Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100519"
+        },
+        {
+            "alt_label": "UPD2-Body Bradykinesia",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Global Spontaneity of Movement (Body Bradykinesia).",
+            "identifier": "C100524",
+            "notation": "UPD2-Body Bradykinesia",
+            "pref_label": "MDS-UPDRS - Body Bradykinesia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100524"
+        },
+        {
+            "alt_label": "UPD2-Chewing and Swallowing",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had problems swallowing pills or eating meals?",
+            "identifier": "C100488",
+            "notation": "UPD2-Chewing and Swallowing",
+            "pref_label": "MDS-UPDRS - Chewing and Swallowing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100488"
+        },
+        {
+            "alt_label": "UPD2-Clinical State on Meds",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - If the patient is receiving medication for treating the symptoms of Parkinson's Disease, mark the patient's clinical state.",
+            "identifier": "C100499",
+            "notation": "UPD2-Clinical State on Meds",
+            "pref_label": "MDS-UPDRS - Clinical State on Medication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100499"
+        },
+        {
+            "alt_label": "UPD2-Cognitive Impairment",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week have you had problems remembering things, following conversations, paying attention, thinking clearly, or finding your way around the house or in town?",
+            "identifier": "C100473",
+            "notation": "UPD2-Cognitive Impairment",
+            "pref_label": "MDS-UPDRS - Cognitive Impairment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100473"
+        },
+        {
+            "alt_label": "UPD2-Complexity Motor Fluctuations",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Complexity of Motor Fluctuations.",
+            "identifier": "C100540",
+            "notation": "UPD2-Complexity Motor Fluctuations",
+            "pref_label": "MDS-UPDRS - Complexity of Motor Fluctuations",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100540"
+        },
+        {
+            "alt_label": "UPD2-Consistency of Rest Tremor",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Consistency of Rest Tremor.",
+            "identifier": "C100532",
+            "notation": "UPD2-Consistency of Rest Tremor",
+            "pref_label": "MDS-UPDRS - Consistency of Rest Tremor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100532"
+        },
+        {
+            "alt_label": "UPD2-Constipation Problems",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week have you had constipation troubles that cause you difficulty moving your bowels?",
+            "identifier": "C100483",
+            "notation": "UPD2-Constipation Problems",
+            "pref_label": "MDS-UPDRS - Constipation Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100483"
+        },
+        {
+            "alt_label": "UPD2-Daytime Sleepiness",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had trouble staying awake during the daytime?",
+            "identifier": "C100480",
+            "notation": "UPD2-Daytime Sleepiness",
+            "pref_label": "MDS-UPDRS - Daytime Sleepiness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100480"
+        },
+        {
+            "alt_label": "UPD2-Depressed Mood",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week have you felt low, sad, hopeless or unable to enjoy things? If yes, was this feeling for longer than one day at a time? Did it make it difficult for you carry out your usual activities or to be with people?",
+            "identifier": "C100475",
+            "notation": "UPD2-Depressed Mood",
+            "pref_label": "MDS-UPDRS - Depressed Mood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100475"
+        },
+        {
+            "alt_label": "UPD2-Doing Hobbies/Other Activities",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had trouble doing your hobbies or other things that you like to do?",
+            "identifier": "C100493",
+            "notation": "UPD2-Doing Hobbies/Other Activities",
+            "pref_label": "MDS-UPDRS - Doing Hobbies and Other Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100493"
+        },
+        {
+            "alt_label": "UPD2-Dressing",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had problems dressing?",
+            "identifier": "C100490",
+            "notation": "UPD2-Dressing",
+            "pref_label": "MDS-UPDRS - Dressing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100490"
+        },
+        {
+            "alt_label": "UPD2-Dyskinesias During Exam",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Were dyskinesias (chorea or dystonia) present during examination?",
+            "identifier": "C100533",
+            "notation": "UPD2-Dyskinesias During Exam",
+            "pref_label": "MDS-UPDRS - Dyskinesias During Exam",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100533"
+        },
+        {
+            "alt_label": "UPD2-Eating Tasks",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had troubles handling your food and using eating utensils?",
+            "identifier": "C100489",
+            "notation": "UPD2-Eating Tasks",
+            "pref_label": "MDS-UPDRS - Eating Tasks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100489"
+        },
+        {
+            "alt_label": "UPD2-Facial Expression",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Facial Expression.",
+            "identifier": "C100503",
+            "notation": "UPD2-Facial Expression",
+            "pref_label": "MDS-UPDRS - Facial Expression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100503"
+        },
+        {
+            "alt_label": "UPD2-Fatigue",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually felt fatigued?",
+            "identifier": "C100485",
+            "notation": "UPD2-Fatigue",
+            "pref_label": "MDS-UPDRS - Fatigue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100485"
+        },
+        {
+            "alt_label": "UPD2-Freezing of Gait",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Freezing of Gait.",
+            "identifier": "C100521",
+            "notation": "UPD2-Freezing of Gait",
+            "pref_label": "MDS-UPDRS - Freezing of Gait",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100521"
+        },
+        {
+            "alt_label": "UPD2-Freezing",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, on your usual day when walking, do you suddenly stop or freeze as if your feet are stuck to the floor?",
+            "identifier": "C100497",
+            "notation": "UPD2-Freezing",
+            "pref_label": "MDS-UPDRS - Freezing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100497"
+        },
+        {
+            "alt_label": "UPD2-Ftrs Dopa Dysregulation Synd",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had unusually strong urges that are hard to control? Do you feel driven to do or think about something and find it hard to stop?",
+            "identifier": "C100478",
+            "notation": "UPD2-Ftrs Dopa Dysregulation Synd",
+            "pref_label": "MDS-UPDRS - Features of Dopamine Dysregulation Syndrome",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100478"
+        },
+        {
+            "alt_label": "UPD2-Functional Impact Dyskinesias",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Functional Impact of Dyskinesias.",
+            "identifier": "C100537",
+            "notation": "UPD2-Functional Impact Dyskinesias",
+            "pref_label": "MDS-UPDRS - Functional Impact of Dyskinesias",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100537"
+        },
+        {
+            "alt_label": "UPD2-Functional Impact Fluctuations",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Functional Impact of Fluctuations.",
+            "identifier": "C100539",
+            "notation": "UPD2-Functional Impact Fluctuations",
+            "pref_label": "MDS-UPDRS - Functional Impact of Fluctuations",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100539"
+        },
+        {
+            "alt_label": "UPD2-Gait",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Gait.",
+            "identifier": "C100520",
+            "notation": "UPD2-Gait",
+            "pref_label": "MDS-UPDRS - Gait",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100520"
+        },
+        {
+            "alt_label": "UPD2-Get Out of Bed/Car/Deep Chair",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had trouble getting out of bed, a car seat, or a deep chair?",
+            "identifier": "C101018",
+            "notation": "UPD2-Get Out of Bed/Car/Deep Chair",
+            "pref_label": "MDS-UPDRS - Get Out of Bed, Car, or Deep Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C101018"
+        },
+        {
+            "alt_label": "UPD2-Hallucinations and Psychosis",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week have you seen, heard, smelled or felt things that were not really there?",
+            "identifier": "C100474",
+            "notation": "UPD2-Hallucinations and Psychosis",
+            "pref_label": "MDS-UPDRS - Hallucinations and Psychosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100474"
+        },
+        {
+            "alt_label": "UPD2-Handwriting",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have people usually had trouble reading your handwriting?",
+            "identifier": "C100492",
+            "notation": "UPD2-Handwriting",
+            "pref_label": "MDS-UPDRS - Handwriting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100492"
+        },
+        {
+            "alt_label": "UPD2-Hoehn and Yahr Stage",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Hoehn and Yahr Stage.",
+            "identifier": "C100535",
+            "notation": "UPD2-Hoehn and Yahr Stage",
+            "pref_label": "MDS-UPDRS - Hoehn and Yahr Stage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100535"
+        },
+        {
+            "alt_label": "UPD2-Hygiene",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually been slow or do you need help with washing, bathing, shaving, brushing teeth, combing your hair or with other personal hygiene?",
+            "identifier": "C100491",
+            "notation": "UPD2-Hygiene",
+            "pref_label": "MDS-UPDRS - Hygiene",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100491"
+        },
+        {
+            "alt_label": "UPD2-Kinetic Tremor of Left Hand",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Kinetic Tremor of the Left Hand.",
+            "identifier": "C100526",
+            "notation": "UPD2-Kinetic Tremor of Left Hand",
+            "pref_label": "MDS-UPDRS - Kinetic Tremor of Left Hand",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100526"
+        },
+        {
+            "alt_label": "UPD2-Kinetic Tremor of Right Hand",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Kinetic Tremor of the Right Hand.",
+            "identifier": "C113883",
+            "notation": "UPD2-Kinetic Tremor of Right Hand",
+            "pref_label": "MDS-UPDRS - Kinetic Tremor of Right Hand",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C113883"
+        },
+        {
+            "alt_label": "UPD2-Left Finger Tapping",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Left Finger Tapping.",
+            "identifier": "C100510",
+            "notation": "UPD2-Left Finger Tapping",
+            "pref_label": "MDS-UPDRS - Left Finger Tapping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100510"
+        },
+        {
+            "alt_label": "UPD2-Left Hand Movements",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Left Hand Movements.",
+            "identifier": "C100512",
+            "notation": "UPD2-Left Hand Movements",
+            "pref_label": "MDS-UPDRS - Left Hand Movements",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100512"
+        },
+        {
+            "alt_label": "UPD2-Left Leg Agility",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Left Leg Agility.",
+            "identifier": "C100518",
+            "notation": "UPD2-Left Leg Agility",
+            "pref_label": "MDS-UPDRS - Left Leg Agility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100518"
+        },
+        {
+            "alt_label": "UPD2-Left Toe Tapping",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Left Toe Tapping.",
+            "identifier": "C100516",
+            "notation": "UPD2-Left Toe Tapping",
+            "pref_label": "MDS-UPDRS - Left Toe Tapping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100516"
+        },
+        {
+            "alt_label": "UPD2-Lightheadedness on Standing",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you felt faint, dizzy or foggy when you stand up after sitting or lying down?",
+            "identifier": "C100484",
+            "notation": "UPD2-Lightheadedness on Standing",
+            "pref_label": "MDS-UPDRS - Lightheadedness on Standing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100484"
+        },
+        {
+            "alt_label": "UPD2-Medication for PD",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Is the patient on medication for treating the symptoms of Parkinson's Disease?",
+            "identifier": "C100498",
+            "notation": "UPD2-Medication for PD",
+            "pref_label": "MDS-UPDRS - Medication for Parkinson's Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100498"
+        },
+        {
+            "alt_label": "UPD2-Minutes Since Levodopa Dose",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Minutes since last Levodopa dose.",
+            "identifier": "C100501",
+            "notation": "UPD2-Minutes Since Levodopa Dose",
+            "pref_label": "MDS-UPDRS - Minutes Since Levodopa Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100501"
+        },
+        {
+            "alt_label": "UPD2-Movements Interfere Ratings",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - If yes, did these movements interfere with your ratings?",
+            "identifier": "C100534",
+            "notation": "UPD2-Movements Interfere Ratings",
+            "pref_label": "MDS-UPDRS - Movements Interfere with Ratings",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100534"
+        },
+        {
+            "alt_label": "UPD2-Pain and other Sensations",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had uncomfortable feelings in your body like pain, aches tingling or cramps?",
+            "identifier": "C100481",
+            "notation": "UPD2-Pain and other Sensations",
+            "pref_label": "MDS-UPDRS - Pain and Other Sensations",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100481"
+        },
+        {
+            "alt_label": "UPD2-Painful Off-state Dystonia",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Painful Off-state Dystonia.",
+            "identifier": "C100541",
+            "notation": "UPD2-Painful Off-state Dystonia",
+            "pref_label": "MDS-UPDRS - Painful Off-state Dystonia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100541"
+        },
+        {
+            "alt_label": "UPD2-Postural Stability",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Postural Stability.",
+            "identifier": "C100522",
+            "notation": "UPD2-Postural Stability",
+            "pref_label": "MDS-UPDRS - Postural Stability",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100522"
+        },
+        {
+            "alt_label": "UPD2-Postural Tremor of Left Hand",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Postural Tremor of the Left Hand.",
+            "identifier": "C113882",
+            "notation": "UPD2-Postural Tremor of Left Hand",
+            "pref_label": "MDS-UPDRS - Postural Tremor of Left Hand",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C113882"
+        },
+        {
+            "alt_label": "UPD2-Postural Tremor of Right Hand",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Postural Tremor of the Right Hand.",
+            "identifier": "C100525",
+            "notation": "UPD2-Postural Tremor of Right Hand",
+            "pref_label": "MDS-UPDRS - Postural Tremor of Right Hand",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100525"
+        },
+        {
+            "alt_label": "UPD2-Posture",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Posture.",
+            "identifier": "C100523",
+            "notation": "UPD2-Posture",
+            "pref_label": "MDS-UPDRS - Posture",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100523"
+        },
+        {
+            "alt_label": "UPD2-Pron/Sup Movement of Left Hand",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Pronation-Supination Movements of Left Hand.",
+            "identifier": "C100514",
+            "notation": "UPD2-Pron/Sup Movement of Left Hand",
+            "pref_label": "MDS-UPDRS - Pronanation-Supination Movement of Left Hand",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100514"
+        },
+        {
+            "alt_label": "UPD2-Pron/Sup Movement of RT Hand",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Pronation-Supination Movements of Right Hand.",
+            "identifier": "C100513",
+            "notation": "UPD2-Pron/Sup Movement of RT Hand",
+            "pref_label": "MDS-UPDRS - Pronanation-Supination Movement of Right Hand",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100513"
+        },
+        {
+            "alt_label": "UPD2-Rest Tremor Amplitude Lip/Jaw",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rest Tremor Amplitude Lip/Jaw.",
+            "identifier": "C100531",
+            "notation": "UPD2-Rest Tremor Amplitude Lip/Jaw",
+            "pref_label": "MDS-UPDRS - Rest Tremor Amplitude Lip or Jaw",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100531"
+        },
+        {
+            "alt_label": "UPD2-Rest Tremor Amplitude LLE",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rest Tremor Amplitude Left Lower Extremity.",
+            "identifier": "C100530",
+            "notation": "UPD2-Rest Tremor Amplitude LLE",
+            "pref_label": "MDS-UPDRS - Rest Tremor Amplitude Left Lower Extremity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100530"
+        },
+        {
+            "alt_label": "UPD2-Rest Tremor Amplitude LUE",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rest Tremor Amplitude Left Upper Extremity.",
+            "identifier": "C100528",
+            "notation": "UPD2-Rest Tremor Amplitude LUE",
+            "pref_label": "MDS-UPDRS - Rest Tremor Amplitude Left Upper Extremity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100528"
+        },
+        {
+            "alt_label": "UPD2-Rest Tremor Amplitude RLE",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rest Tremor Amplitude Right Lower Extremity.",
+            "identifier": "C100529",
+            "notation": "UPD2-Rest Tremor Amplitude RLE",
+            "pref_label": "MDS-UPDRS - Rest Tremor Amplitude Right Lower Extremity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100529"
+        },
+        {
+            "alt_label": "UPD2-Rest Tremor Amplitude RUE",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rest Tremor Amplitude Right Upper Extremity.",
+            "identifier": "C100527",
+            "notation": "UPD2-Rest Tremor Amplitude RUE",
+            "pref_label": "MDS-UPDRS - Rest Tremor Amplitude Right Upper Extremity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100527"
+        },
+        {
+            "alt_label": "UPD2-Right Finger Tapping",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Right Finger Tapping.",
+            "identifier": "C100509",
+            "notation": "UPD2-Right Finger Tapping",
+            "pref_label": "MDS-UPDRS - Right Finger Tapping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100509"
+        },
+        {
+            "alt_label": "UPD2-Right Hand Movements",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Right Hand Movements.",
+            "identifier": "C100511",
+            "notation": "UPD2-Right Hand Movements",
+            "pref_label": "MDS-UPDRS - Right Hand Movements",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100511"
+        },
+        {
+            "alt_label": "UPD2-Right Leg Agility",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Right Leg Agility.",
+            "identifier": "C100517",
+            "notation": "UPD2-Right Leg Agility",
+            "pref_label": "MDS-UPDRS - Right Leg Agility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100517"
+        },
+        {
+            "alt_label": "UPD2-Right Toe Tapping",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Right Toe Tapping.",
+            "identifier": "C100515",
+            "notation": "UPD2-Right Toe Tapping",
+            "pref_label": "MDS-UPDRS - Right Toe Tapping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100515"
+        },
+        {
+            "alt_label": "UPD2-Rigidity Left Lower Extremity",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rigidity Left Lower Extremity.",
+            "identifier": "C100508",
+            "notation": "UPD2-Rigidity Left Lower Extremity",
+            "pref_label": "MDS-UPDRS - Rigidity Left Lower Extremity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100508"
+        },
+        {
+            "alt_label": "UPD2-Rigidity Left Upper Extremity",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rigidity Left Upper Extremity.",
+            "identifier": "C100506",
+            "notation": "UPD2-Rigidity Left Upper Extremity",
+            "pref_label": "MDS-UPDRS - Rigidity Left Upper Extremity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100506"
+        },
+        {
+            "alt_label": "UPD2-Rigidity Neck",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rigidity Neck.",
+            "identifier": "C100504",
+            "notation": "UPD2-Rigidity Neck",
+            "pref_label": "MDS-UPDRS - Rigidity Neck",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100504"
+        },
+        {
+            "alt_label": "UPD2-Rigidity RT Lower Extremity",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rigidity Right Lower Extremity.",
+            "identifier": "C100507",
+            "notation": "UPD2-Rigidity RT Lower Extremity",
+            "pref_label": "MDS-UPDRS - Rigidity Right Lower Extremity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100507"
+        },
+        {
+            "alt_label": "UPD2-Rigidity RT Upper Extremity",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rigidity Right Upper Extremity.",
+            "identifier": "C100505",
+            "notation": "UPD2-Rigidity RT Upper Extremity",
+            "pref_label": "MDS-UPDRS - Rigidity Right Upper Extremity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100505"
+        },
+        {
+            "alt_label": "UPD2-Saliva and Drooling",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had too much saliva during when you are awake or when you sleep?",
+            "identifier": "C100487",
+            "notation": "UPD2-Saliva and Drooling",
+            "pref_label": "MDS-UPDRS - Saliva and Drooling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100487"
+        },
+        {
+            "alt_label": "UPD2-Sleep Problems",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had trouble going to sleep at night or staying asleep through the night?",
+            "identifier": "C100479",
+            "notation": "UPD2-Sleep Problems",
+            "pref_label": "MDS-UPDRS - Sleep Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100479"
+        },
+        {
+            "alt_label": "UPD2-Speech Problems",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Speech Problems.",
+            "identifier": "C100502",
+            "notation": "UPD2-Speech Problems",
+            "pref_label": "MDS-UPDRS - Speech Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100502"
+        },
+        {
+            "alt_label": "UPD2-Speech",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had problems with your speech?",
+            "identifier": "C100486",
+            "notation": "UPD2-Speech",
+            "pref_label": "MDS-UPDRS - Speech",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100486"
+        },
+        {
+            "alt_label": "UPD2-Taking Levodopa",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Is the patient on Levodopa?",
+            "identifier": "C100500",
+            "notation": "UPD2-Taking Levodopa",
+            "pref_label": "MDS-UPDRS - Taking Levodopa",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100500"
+        },
+        {
+            "alt_label": "UPD2-Time Spent in the Off State",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Time Spent in the Off State.",
+            "identifier": "C100538",
+            "notation": "UPD2-Time Spent in the Off State",
+            "pref_label": "MDS-UPDRS - Time Spent in the Off State",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100538"
+        },
+        {
+            "alt_label": "UPD2-Time Spent with Dyskinesias",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Time Spent with Dyskinesias.",
+            "identifier": "C100536",
+            "notation": "UPD2-Time Spent with Dyskinesias",
+            "pref_label": "MDS-UPDRS - Time Spent with Dyskinesias",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100536"
+        },
+        {
+            "alt_label": "UPD2-Tremor",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had shaking or tremor?",
+            "identifier": "C100495",
+            "notation": "UPD2-Tremor",
+            "pref_label": "MDS-UPDRS - Tremor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100495"
+        },
+        {
+            "alt_label": "UPD2-Turning in Bed",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, do you usually have trouble turning over in bed?",
+            "identifier": "C100494",
+            "notation": "UPD2-Turning in Bed",
+            "pref_label": "MDS-UPDRS - Turning in Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100494"
+        },
+        {
+            "alt_label": "UPD2-Urinary Problems",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had trouble with urine control?",
+            "identifier": "C100482",
+            "notation": "UPD2-Urinary Problems",
+            "pref_label": "MDS-UPDRS - Urinary Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100482"
+        },
+        {
+            "alt_label": "UPD2-Walking and Balance",
+            "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had problems with balance and walking?",
+            "identifier": "C100496",
+            "notation": "UPD2-Walking and Balance",
+            "pref_label": "MDS-UPDRS - Walking and Balance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100139-C100496"
+        }
+    ]
+}

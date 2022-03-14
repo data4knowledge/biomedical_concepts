@@ -1,0 +1,106 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Medical or health condition that is concomitant or concurrent with the primary condition or disease under study.",
+            "identifier": "C161320",
+            "notation": "Comorbid Condition",
+            "pref_label": "Comorbid Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161320"
+        },
+        {
+            "definition": "Primary disease(s) or condition(s) being studied in the trial, or the focus of the study. (clinicaltrials.gov)",
+            "identifier": "C161319",
+            "notation": "Condition or Disease under Study",
+            "pref_label": "Condition or Disease under Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161319"
+        },
+        {
+            "definition": "A study population that is defined for the purpose of comparison to the treatment group in a controlled trial. In an epidemiological study, a study population that does not have the outcome of interest.",
+            "identifier": "C28143",
+            "notation": "Control Group",
+            "pref_label": "Control Group",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C28143"
+        },
+        {
+            "definition": "A descriptive characterization of the study population (e.g., age, sex, race, education, etc.).",
+            "identifier": "C161324",
+            "notation": "Demographic Group",
+            "pref_label": "Demographic Group",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161324"
+        },
+        {
+            "definition": "A study population that receives the intervention that is the focus of the study.",
+            "identifier": "C161323",
+            "notation": "Experimental Group",
+            "pref_label": "Experimental Group",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161323"
+        },
+        {
+            "alt_label": "FOCBP;WOCBP;Women of Childbearing Potential",
+            "definition": "Female study subjects or patients who have the potential to become pregnant, i.e., those who have experienced menarche and who have not undergone surgical sterilization and are not postmenopausal.",
+            "identifier": "C161316",
+            "notation": "Females of Childbearing Potential",
+            "pref_label": "Female of Childbearing Potential",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161316"
+        },
+        {
+            "definition": "The state of a subject's mental or physical condition.",
+            "identifier": "C16669",
+            "notation": "General Health Status",
+            "pref_label": "Health Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C16669"
+        },
+        {
+            "alt_label": "Healthy Subject",
+            "definition": "An individual who is or becomes a participant in a research study and has no significant health-related issues. (NCI)",
+            "identifier": "C49651",
+            "notation": "Healthy Volunteer",
+            "pref_label": "Healthy Subject",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C49651"
+        },
+        {
+            "definition": "An explanation with defensible proof as to the reason why a special population of subjects is included in the clinical study.",
+            "identifier": "C161318",
+            "notation": "Justification of Special Population",
+            "pref_label": "Justification of Special Population",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161318"
+        },
+        {
+            "definition": "An explanation as to the logical reasons for why a specific population of subjects is being considered for inclusion in a clinical study.",
+            "identifier": "C161317",
+            "notation": "Population Rationale",
+            "pref_label": "Population Rationale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161317"
+        },
+        {
+            "alt_label": "Reference Group for Study Sample Population",
+            "definition": "The study population that is defined for the purpose of comparison to the population under investigation.",
+            "identifier": "C161321",
+            "notation": "Reference Group",
+            "pref_label": "Reference Group",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161321"
+        },
+        {
+            "alt_label": "Target Population",
+            "definition": "The population within the general population for which the study results can be generalized.",
+            "identifier": "C142728",
+            "notation": "Target Study Population",
+            "pref_label": "Target Study Population",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C142728"
+        },
+        {
+            "definition": "A study population that receives an intervention(s) within a trial. This could include the investigational product(s) or a comparator (e.g., placebo or an approved intervention).",
+            "identifier": "C161322",
+            "notation": "Treatment Group",
+            "pref_label": "Treatment Group",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161322"
+        },
+        {
+            "definition": "Individuals whose willingness to volunteer in a clinical trial may be unduly influenced by the expectation, whether justified or not, of benefits associated with participation, or of a retaliatory response from senior members of a hierarchy in case of refusal to participate. Examples include subordinate members of a group with a hierarchical structure, patients with incurable diseases, persons in nursing homes, unemployed or impoverished persons, patients in emergency situations, ethnic minority groups, homeless persons, nomads, refugees, minors, and those incapable of giving consent. (ICH)",
+            "identifier": "C142747",
+            "notation": "Vulnerable Population",
+            "pref_label": "Vulnerable Subjects",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C142747"
+        }
+    ]
+}

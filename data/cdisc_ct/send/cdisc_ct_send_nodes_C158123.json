@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Movement is restricted by both chemical and physical means.",
+            "identifier": "C158345",
+            "notation": "CHEMICAL AND PHYSICAL",
+            "pref_label": "Chemical and Physical Restraint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158123-C158345"
+        },
+        {
+            "definition": "Movement is restricted by chemical means.",
+            "identifier": "C158343",
+            "notation": "CHEMICAL",
+            "pref_label": "Chemical Restraint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158123-C158343"
+        },
+        {
+            "definition": "Movement is restricted by manual means or device.",
+            "identifier": "C158344",
+            "notation": "PHYSICAL",
+            "pref_label": "Physical Restraint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158123-C158344"
+        }
+    ]
+}

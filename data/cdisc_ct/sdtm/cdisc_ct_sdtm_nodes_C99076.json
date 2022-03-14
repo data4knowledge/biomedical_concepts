@@ -1,0 +1,39 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Participants receive one of two or more alternative intervention(s) during the initial epoch of the study and receive other intervention(s) during the subsequent epoch(s) of the study.",
+            "identifier": "C82637",
+            "notation": "CROSS-OVER",
+            "pref_label": "Crossover Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99076-C82637"
+        },
+        {
+            "definition": "Two or more interventions, each alone or in combination, are evaluated in parallel against a control group. This study design allows for the comparison of active drug to placebo, presence of drug-drug interactions, and comparison of active drugs against each other.",
+            "identifier": "C82638",
+            "notation": "FACTORIAL",
+            "pref_label": "Factorial Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99076-C82638"
+        },
+        {
+            "definition": "Participants are assigned to one of two or more treatment groups in parallel for the duration of the study.",
+            "identifier": "C82639",
+            "notation": "PARALLEL",
+            "pref_label": "Parallel Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99076-C82639"
+        },
+        {
+            "definition": "Groups of participants are assigned to receive interventions based on prior milestones being reached in the study. (clinicaltrials.gov)",
+            "identifier": "C142568",
+            "notation": "SEQUENTIAL",
+            "pref_label": "Group Sequential Design",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99076-C142568"
+        },
+        {
+            "definition": "All trial participants are assigned to a single treatment group for the duration of the study.",
+            "identifier": "C82640",
+            "notation": "SINGLE GROUP",
+            "pref_label": "Single Group Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99076-C82640"
+        }
+    ]
+}

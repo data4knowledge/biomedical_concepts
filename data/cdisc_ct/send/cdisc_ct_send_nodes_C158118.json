@@ -1,0 +1,42 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Information obtained from medical records, acquisition records, or other official documentation associated with the animal.",
+            "identifier": "C158324",
+            "notation": "ANIMAL RECORDS",
+            "pref_label": "Animal Record Information",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158118-C158324"
+        },
+        {
+            "definition": "A systematic evaluation of the mouth, face, and neck, which may include tooth counting, cleaning and visual assessment.",
+            "identifier": "C158323",
+            "notation": "DENTAL EXAM",
+            "pref_label": "Dental Examination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158118-C158323"
+        },
+        {
+            "alt_label": "Physical Exam",
+            "definition": "A systemic evaluation of the body and its functions using visual inspection, palpation, percussion and auscultation.",
+            "identifier": "C20989",
+            "notation": "PHYSICAL EXAMINATION",
+            "pref_label": "Physical Examination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158118-C20989"
+        },
+        {
+            "alt_label": "Radiographic Exam",
+            "definition": "A radiographic procedure using the emission of penetrating energy waves to form an image of the structure.",
+            "identifier": "C128940",
+            "notation": "RADIOGRAPHY",
+            "pref_label": "Radiographic Examination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158118-C128940"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158118-C17998"
+        }
+    ]
+}

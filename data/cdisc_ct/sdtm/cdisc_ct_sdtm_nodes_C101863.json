@@ -1,0 +1,152 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The patient died while in a medical center such as a hospital, skilled nursing facility (SNF), intermediate care facility (ICF), or a freestanding hospice center.",
+            "identifier": "C99944",
+            "notation": "EXPIRED IN A MEDICAL FACILITY",
+            "pref_label": "Died in a Medical Facility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99944"
+        },
+        {
+            "alt_label": "Died",
+            "definition": "The absence of life or state of being dead. (NCI)",
+            "identifier": "C28554",
+            "notation": "EXPIRED",
+            "pref_label": "Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C28554"
+        },
+        {
+            "definition": "The patient will be admitted to a medical center that is funded by the federal government (e.g. Veterans Affairs Hospital).",
+            "identifier": "C99909",
+            "notation": "FEDERAL HEALTH CARE FACILITY",
+            "pref_label": "Federal Health Care Facility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99909"
+        },
+        {
+            "definition": "The patient will return home but personal health maintenance will be administered and monitored by a member of a healthcare organization that is eligible to receive Medicare funding.",
+            "identifier": "C99959",
+            "notation": "HOME UNDER CARE OF ORGANIZED HOME HEALTH SERVICE ORGANIZATION IN ANTICIPATION OF COVERED SKILLED CARE",
+            "pref_label": "Home Under Care of Organized Home Health Service Organization in Anticipation of Covered Skilled Care",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99959"
+        },
+        {
+            "definition": "The patient will receive end-of-life care which will be administered in the patient's home.",
+            "identifier": "C99958",
+            "notation": "HOME, HOSPICE",
+            "pref_label": "Home Hospice",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99958"
+        },
+        {
+            "definition": "The patient will receive professional nursing care provided within the home of the patient.",
+            "identifier": "C20883",
+            "notation": "HOME, NURSING CARE",
+            "pref_label": "Home Health Nursing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C20883"
+        },
+        {
+            "definition": "A routine discharge where personal health maintenance will be administered and monitored by the patient from their home.",
+            "identifier": "C99957",
+            "notation": "HOME, SELF CARE",
+            "pref_label": "Home Care",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99957"
+        },
+        {
+            "definition": "The patient will receive end-of-life care which will be administered in a medical center.",
+            "identifier": "C99910",
+            "notation": "HOSPICE - MEDICAL FACILITY",
+            "pref_label": "Hospice Care at Medical Facility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99910"
+        },
+        {
+            "definition": "The patient will be admitted into a medical center and receive a type of hospital bed that will be paid for my Medicare.",
+            "identifier": "C99960",
+            "notation": "HOSPITAL-BASED MEDICARE-APPROVED SWING BED",
+            "pref_label": "Hospital with Medicare Approved Swing Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99960"
+        },
+        {
+            "definition": "The patient will be admitted full time into a free standing rehabilitation center or a rehabilitation center within a general medical facility.",
+            "identifier": "C99911",
+            "notation": "INPATIENT REHABILITATION FACILITY (IRF) INCLUDING REHABILITATION DISTINCT PART UNITS OF A HOSPITAL",
+            "pref_label": "Inpatient Rehabilitation Facility Including Rehabilitation distinct Part Units of a Hospital",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99911"
+        },
+        {
+            "definition": "The patient will be admitted into an alternative facility not listed.",
+            "identifier": "C102247",
+            "notation": "INSTITUTION NOT DEFINED",
+            "pref_label": "Institution Not Defined",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C102247"
+        },
+        {
+            "definition": "The patient will be admitted into a medical center that provides care 24 hours per day.",
+            "identifier": "C99912",
+            "notation": "INTERMEDIATE CARE FACILITY",
+            "pref_label": "Intermediate Care Facility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99912"
+        },
+        {
+            "definition": "The patient vacated the medical center or ceased medical care contrary to the recommendation of a trained healthcare provider.",
+            "identifier": "C99969",
+            "notation": "LEFT AGAINST MEDICAL ADVICE OR DISCONTINUED CARE",
+            "pref_label": "Left Against Medical Advice",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99969"
+        },
+        {
+            "definition": "The patient will be admitted into a hospital equipped and staffed to provide prolonged care to patients.",
+            "identifier": "C135382",
+            "notation": "LONG TERM CARE HOSPITAL",
+            "pref_label": "Long Term Care Hospital",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C135382"
+        },
+        {
+            "definition": "The patient will be admitted to a long-term nursing care facility.",
+            "identifier": "C20870",
+            "notation": "LONG TERM NURSING CARE FACILITY",
+            "pref_label": "Long-Term Care Nursing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C20870"
+        },
+        {
+            "definition": "The patient will be admitted into a Medicare funded medical center for a considerable length of time.",
+            "identifier": "C99984",
+            "notation": "MEDICARE-CERTIFIED LONG TERM CARE HOSPITAL (LTCH)",
+            "pref_label": "Medicare Certified Long Term Care Hospital",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99984"
+        },
+        {
+            "definition": "The patient will be admitted into a medical center which is eligible to receive funding from Medicaid but not Medicare.",
+            "identifier": "C99913",
+            "notation": "NURSING FACILITY CERTIFIED UNDER MEDICAID BUT NOT CERTIFIED UNDER MEDICARE",
+            "pref_label": "Nursing Facility Certified Under Medicaid but Not Certified Under Medicare",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99913"
+        },
+        {
+            "definition": "The patient will be admitted into a free standing medical facility or a unit within a general medical facility used for the treatment of mental health disorders.",
+            "identifier": "C53536",
+            "notation": "PSYCHIATRIC HOSPITAL OR A PSYCHIATRIC-DISTINCT PART UNIT OF A HOSPITAL",
+            "pref_label": "Psychiatric Facility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C53536"
+        },
+        {
+            "definition": "The patient will be admitted to a rehabilitation facility designed for improving, maintaining, or restoring physical strength, cognition, speech, or mobility.",
+            "identifier": "C53535",
+            "notation": "REHABILITATION FACILITY",
+            "pref_label": "Rehabilitation Center",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C53535"
+        },
+        {
+            "definition": "The patient will remain in a basic hospital environment for a brief time.",
+            "identifier": "C102248",
+            "notation": "SHORT TERM GENERAL HOSPITAL",
+            "pref_label": "Short Term General Hospital",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C102248"
+        },
+        {
+            "definition": "The patient will be admitted into a medical center equipped with a trained nursing staff that is eligible to receive Medicare funding.",
+            "identifier": "C99914",
+            "notation": "SKILLED NURSING FACILITY (SNF) WITH MEDICARE CERTIFICATION IN ANTICIPATION OF COVERED SKILLED CARE",
+            "pref_label": "Skilled Nursing Facility with Medicare Certification in Anticipation of Covered Skilled Care",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101863-C99914"
+        }
+    ]
+}

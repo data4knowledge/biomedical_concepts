@@ -1,0 +1,72 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An ultrasound imaging setting that uses a probe with two 2-dimensional (2D) planes set perpendicularly to each other, allowing for better detection and localization of objects/structures.",
+            "identifier": "C130058",
+            "notation": "2-DIMENSIONAL BIPLANE MODE",
+            "pref_label": "2-Dimensional Biplane Ultrasound Mode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130058"
+        },
+        {
+            "definition": "An ultrasound imaging setting that uses a linear pattern of beams to produce a standard, 2-dimensional (2-D) image.",
+            "identifier": "C130059",
+            "notation": "2-DIMENSIONAL SINGLE PLANE MODE",
+            "pref_label": "2-Dimensional Single Plane Ultrasound Mode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130059"
+        },
+        {
+            "definition": "An ultrasound imaging setting that reconstructs planar ultrasound data into three dimensional images of the structure being scanned.",
+            "identifier": "C130060",
+            "notation": "3-DIMENSIONAL MODE",
+            "pref_label": "3-Dimensional Ultrasound Mode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130060"
+        },
+        {
+            "alt_label": "Color Flow Tissue Doppler Mode",
+            "definition": "An ultrasound imaging setting that uses pulsed wave Doppler signals to depict tissue motion direction and velocity in color images that are superimposed over normal, 2-dimensional (2-D) images.",
+            "identifier": "C130061",
+            "notation": "COLOR TISSUE DOPPLER MODE",
+            "pref_label": "Color Tissue Doppler Ultrasound Mode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130061"
+        },
+        {
+            "alt_label": "Continuous Doppler Mode;CW Doppler",
+            "definition": "An ultrasound imaging setting that uses Doppler signals that are continuously sent and received along a single line to measure both direction and velocity of blood flow.",
+            "identifier": "C130062",
+            "notation": "CONTINUOUS-WAVE DOPPLER MODE",
+            "pref_label": "Continuous-Wave Doppler Ultrasound Mode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130062"
+        },
+        {
+            "alt_label": "Motion Mode",
+            "definition": "An ultrasound imaging setting that uses a single ultrasound beam to provide high temporal resolution of tissue motion.",
+            "identifier": "C130063",
+            "notation": "M-MODE",
+            "pref_label": "M-Mode Ultrasound Mode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130063"
+        },
+        {
+            "alt_label": "Pulsed Doppler Mode;PW Doppler",
+            "definition": "An ultrasound imaging setting that uses intermittent Doppler signals to measure both direction and velocity of blood flow.",
+            "identifier": "C130064",
+            "notation": "PULSED-WAVE DOPPLER MODE",
+            "pref_label": "Pulsed-Wave Doppler Ultrasound Mode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130064"
+        },
+        {
+            "alt_label": "Pulsed Tissue Doppler Mode",
+            "definition": "An ultrasound imaging setting that uses pulsed wave Doppler signals to measure velocity of tissue movement.",
+            "identifier": "C130065",
+            "notation": "PULSED-WAVE TISSUE DOPPLER MODE",
+            "pref_label": "Pulsed-Wave Tissue Doppler Ultrasound Mode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130065"
+        },
+        {
+            "definition": "An ultrasound imaging setting that uses intermittent Doppler signals to measure velocity of tissue movement.",
+            "identifier": "C130066",
+            "notation": "TISSUE DOPPLER MODE",
+            "pref_label": "Tissue Doppler Ultrasound Mode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130066"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Low Risk",
+            "definition": "Discrete (less than 10 mm length) and concentric and readily accessible and non-angulated segment less than 45 degrees and smooth contour and little or no calcification and less than totally occlusive and not ostial in location and no major branch involvement and absence of thrombus.",
+            "identifier": "C100037",
+            "notation": "ACC/AHA LESION COMPLEXITY SCORE A",
+            "pref_label": "American College of Cardiology/American Heart Association Lesion Complexity Score A",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101861-C100037"
+        },
+        {
+            "alt_label": "Medium Risk",
+            "definition": "Tubular (10-20 mm length) or eccentric or moderate tortuosity of proximal segment or moderately angulated segment, 45-90 degrees or irregular contour or moderate to heavy calcification or ostial in location or bifurcation lesions requiring double guidewires or some thrombus present or total occlusion less than3 months old.",
+            "identifier": "C100038",
+            "notation": "ACC/AHA LESION COMPLEXITY SCORE B",
+            "pref_label": "American College of Cardiology/American Heart Association Lesion Complexity Score B",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101861-C100038"
+        },
+        {
+            "alt_label": "High Risk",
+            "definition": "Diffuse (length greater than 2cm) or excessive tortuosity of proximal segment or extremely angulated segments greater than 90 degrees or total occlusions greater than 3 months old and/or bridging collaterals or inability to protect major side branches or degenerated vein grafts with friable lesions.",
+            "identifier": "C100039",
+            "notation": "ACC/AHA LESION COMPLEXITY SCORE C",
+            "pref_label": "American College of Cardiology/American Heart Association Lesion Complexity Score C",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101861-C100039"
+        }
+    ]
+}

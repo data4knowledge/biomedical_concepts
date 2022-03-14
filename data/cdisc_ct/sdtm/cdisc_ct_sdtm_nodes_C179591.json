@@ -1,0 +1,116 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Clade",
+            "definition": "A taxonomic parameter for the specification of clade of the organism.",
+            "identifier": "C179767",
+            "notation": "CLADE",
+            "pref_label": "Clade",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C179767"
+        },
+        {
+            "alt_label": "Genotype",
+            "definition": "A non-taxonomic parameter that can specify the genotype of the organism.",
+            "identifier": "C179768",
+            "notation": "GENOTYPE",
+            "pref_label": "Organism by Genotype",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C179768"
+        },
+        {
+            "alt_label": "Geographical Origin",
+            "definition": "A non-taxonomic parameter that can specify the geographic location where the organism was identified, collected or came from.",
+            "identifier": "C179769",
+            "notation": "GEOORIG",
+            "pref_label": "Organism by Geographic Origin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C179769"
+        },
+        {
+            "alt_label": "Group",
+            "definition": "A non-taxonomic parameter that can specify the group of the organism.",
+            "identifier": "C179770",
+            "notation": "GROUP",
+            "pref_label": "Organism by Group",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C179770"
+        },
+        {
+            "alt_label": "Isolate",
+            "definition": "A non-taxonomic parameter that can specify the isolate of the organism.",
+            "identifier": "C179771",
+            "notation": "ISOLATE",
+            "pref_label": "Organism Isolate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C179771"
+        },
+        {
+            "alt_label": "Lineage",
+            "definition": "A taxonomic parameter for the specification of lineage of the organism.",
+            "identifier": "C179772",
+            "notation": "LINEAGE",
+            "pref_label": "Organism Lineage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C179772"
+        },
+        {
+            "alt_label": "GenBank ID;NCBI GenBank ID",
+            "definition": "The accession number for a gene within the National Center for Biotechnology Information (NCBI) GenBank database.",
+            "identifier": "C43685",
+            "notation": "NCBIGBID",
+            "pref_label": "GenBank Accession Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C43685"
+        },
+        {
+            "alt_label": "NCBI Taxonomy ID",
+            "definition": "The taxonomy identifier for an organism within the National Center for Biotechnology Information (NCBI) Taxonomy database.",
+            "identifier": "C179773",
+            "notation": "NCBITXID",
+            "pref_label": "NCBI Taxonomy Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C179773"
+        },
+        {
+            "alt_label": "Pseudotype Viral Backbone",
+            "definition": "A non-taxonomic parameter that can specify the pseudotype viral backbone of the engineered virus.",
+            "identifier": "C179774",
+            "notation": "PSDOBACK",
+            "pref_label": "Organism Pseudotype Viral Backbone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C179774"
+        },
+        {
+            "alt_label": "Species",
+            "definition": "A taxonomic parameter for the specification of species of the organism.",
+            "identifier": "C45293",
+            "notation": "SPECIES",
+            "pref_label": "Species",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C45293"
+        },
+        {
+            "alt_label": "Strain;Strain Number",
+            "definition": "A non-taxonomic parameter that can specify the strain of the organism.",
+            "identifier": "C14419",
+            "notation": "STRAIN",
+            "pref_label": "Organism Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C14419"
+        },
+        {
+            "alt_label": "Subtype",
+            "definition": "A non-taxonomic parameter that can specify the subtype of the organism.",
+            "identifier": "C179775",
+            "notation": "SUBTYPE",
+            "pref_label": "Organism by Subtype",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C179775"
+        },
+        {
+            "alt_label": "Type",
+            "definition": "A non-taxonomic parameter that can specify the type of the organism.",
+            "identifier": "C179776",
+            "notation": "TYPE",
+            "pref_label": "Organism by Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C179776"
+        },
+        {
+            "alt_label": "Year of Collection",
+            "definition": "A non-taxonomic parameter that can specify the year when the organism was collected or isolated.",
+            "identifier": "C179777",
+            "notation": "YEARCOLL",
+            "pref_label": "Organism by Year Collected",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179591-C179777"
+        }
+    ]
+}

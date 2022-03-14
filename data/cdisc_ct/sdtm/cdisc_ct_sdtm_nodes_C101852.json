@@ -1,0 +1,50 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Ventricular arrhythmia associated with Brugada syndrome",
+            "definition": "Polymorphic ventricular tachycardia in the absence of structural heart disease, associated with a baseline ECG pattern during sinus rhythm showing right bundle branch block with ST segment elevation in leads V1 through V3. It can also be characterized by documentation of ECG patterns associated with Brugada Syndrome, some of which may be unmasked when provoked with drugs. The most common genetic mutations identified for Brugada syndrome are in the sodium channel gene SCN5A.",
+            "identifier": "C71059",
+            "notation": "BRUGADA SYNDROME",
+            "pref_label": "Brugada Syndrome Ventricular Arrhythmia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101852-C71059"
+        },
+        {
+            "definition": "Ventricular Tachycardia associated with syncope and/or cardiac arrest triggered by emotion or exercise in patients whose baseline ECG is normal.",
+            "identifier": "C99936",
+            "notation": "CATECHOLAMINERGIC POLYMORPHIC VENTRICULAR TACHYCARDIA",
+            "pref_label": "Catecholaminergic Polymorphic Ventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101852-C99936"
+        },
+        {
+            "definition": "Ventricular tachycardia or ventricular fibrillation whose cause is unknown.",
+            "identifier": "C100036",
+            "notation": "IDIOPATHIC PRIMARY VENTRICULAR TACHYCARDIA/VENTRICULAR FLUTTER",
+            "pref_label": "Idiopathic Primary Ventricular Tachycardia/Ventricular Flutter by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101852-C100036"
+        },
+        {
+            "alt_label": "Ventricular arrhythmia associated with long QT syndrome",
+            "definition": "Long QT Syndrome includes prolongation of the corrected QT interval beyond 440 ms for adult males, 460 ms for adult females and 50 ms in the presence of ventricular depolarization abnormalities (i.e., bundle branch blocks or IVCB more than 120 ms. A normal QT interval in a resting ECG with a failure to shorten with an increase in heart rate qualifies as Long QT Syndrome.",
+            "identifier": "C34786",
+            "notation": "LONG QT SYNDROME",
+            "pref_label": "Long QT Syndrome",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101852-C34786"
+        },
+        {
+            "alt_label": "Other",
+            "definition": "Different than the one(s) previously specified or mentioned. (NCI)",
+            "identifier": "C17649",
+            "notation": "OTHER",
+            "pref_label": "Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101852-C17649"
+        },
+        {
+            "alt_label": "Ventricular arrhythmia associated with short QT syndrome",
+            "definition": "Short QT Syndrome is characterized by a QT interval of less than or equal to 300 ms.",
+            "identifier": "C71060",
+            "notation": "SHORT QT SYNDROME",
+            "pref_label": "Short QT Syndrome",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101852-C71060"
+        }
+    ]
+}

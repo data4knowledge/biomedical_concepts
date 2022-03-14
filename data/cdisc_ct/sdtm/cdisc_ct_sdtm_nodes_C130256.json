@@ -1,0 +1,340 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "FAC018-Bothered by Lumps or Swelling",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I am bothered by lumps or swelling in certain parts of my body (e.g., neck, armpits, or groin).",
+            "identifier": "C130531",
+            "notation": "FAC018-Bothered by Lumps or Swelling",
+            "pref_label": "FACT-LYM Version 4 - Bothered by Lumps or Swelling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130531"
+        },
+        {
+            "alt_label": "FAC018-Bothered by Treatment Side Effect",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Physical Well-Being: I am bothered by side effects of treatment.",
+            "identifier": "C130507",
+            "notation": "FAC018-Bothered by Treatment Side Effect",
+            "pref_label": "FACT-LYM Version 4 - Bothered by Treatment Side Effect",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130507"
+        },
+        {
+            "alt_label": "FAC018-Certain Parts of Body Have Pain",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I have certain parts of my body where I experience pain.",
+            "identifier": "C130530",
+            "notation": "FAC018-Certain Parts of Body Have Pain",
+            "pref_label": "FACT-LYM Version 4 - Certain Parts of Body Have Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130530"
+        },
+        {
+            "alt_label": "FAC018-Content With Quality of My Life",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Functional Well-Being: I am content with the quality of my life right now.",
+            "identifier": "C130529",
+            "notation": "FAC018-Content With Quality of My Life",
+            "pref_label": "FACT-LYM Version 4 - Content With Quality of My Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130529"
+        },
+        {
+            "alt_label": "FAC018-Difficulty Planning for Future",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: Because of my illness, I have difficulty planning for the future.",
+            "identifier": "C130544",
+            "notation": "FAC018-Difficulty Planning for Future",
+            "pref_label": "FACT-LYM Version 4 - Difficulty Planning for Future",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130544"
+        },
+        {
+            "alt_label": "FAC018-Enjoy Things I Usually Do for Fun",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Functional Well-Being: I am enjoying the things I usually do for fun.",
+            "identifier": "C130528",
+            "notation": "FAC018-Enjoy Things I Usually Do for Fun",
+            "pref_label": "FACT-LYM Version 4 - Enjoy Things I Usually Do for Fun",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130528"
+        },
+        {
+            "alt_label": "FAC018-Feel Isolated Because of Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I feel isolated from others because of my illness or treatment.",
+            "identifier": "C130542",
+            "notation": "FAC018-Feel Isolated Because of Illness",
+            "pref_label": "FACT-LYM Version 4 - Feel Isolated Because of Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130542"
+        },
+        {
+            "alt_label": "FAC018-Get Emotional Support From Family",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Social/Family Well-Being: I get emotional support from my family.",
+            "identifier": "C130511",
+            "notation": "FAC018-Get Emotional Support From Family",
+            "pref_label": "FACT-LYM Version 4 - Get Emotional Support From Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130511"
+        },
+        {
+            "alt_label": "FAC018-I Am Able to Enjoy Life",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Functional Well-Being: I am able to enjoy life.",
+            "identifier": "C130525",
+            "notation": "FAC018-I Am Able to Enjoy Life",
+            "pref_label": "FACT-LYM Version 4 - I Am Able to Enjoy Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130525"
+        },
+        {
+            "alt_label": "FAC018-I Am Able to Work",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Functional Well-Being: I am able to work (include work at home).",
+            "identifier": "C130523",
+            "notation": "FAC018-I Am Able to Work",
+            "pref_label": "FACT-LYM Version 4 - I Am Able to Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130523"
+        },
+        {
+            "alt_label": "FAC018-I Am Bothered by Fevers",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I am bothered by fevers (episodes of high body temperature).",
+            "identifier": "C130532",
+            "notation": "FAC018-I Am Bothered by Fevers",
+            "pref_label": "FACT-LYM Version 4 - I Am Bothered by Fevers",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130532"
+        },
+        {
+            "alt_label": "FAC018-I Am Bothered by Itching",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I am bothered by itching.",
+            "identifier": "C130534",
+            "notation": "FAC018-I Am Bothered by Itching",
+            "pref_label": "FACT-LYM Version 4 - I Am Bothered by Itching",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130534"
+        },
+        {
+            "alt_label": "FAC018-I Am Forced to Spend Time in Bed",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Physical Well-Being: I am forced to spend time in bed.",
+            "identifier": "C130509",
+            "notation": "FAC018-I Am Forced to Spend Time in Bed",
+            "pref_label": "FACT-LYM Version 4 - I Am Forced to Spend Time in Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130509"
+        },
+        {
+            "alt_label": "FAC018-I Am Losing Weight",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I am losing weight.",
+            "identifier": "C130537",
+            "notation": "FAC018-I Am Losing Weight",
+            "pref_label": "FACT-LYM Version 4 - I Am Losing Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130537"
+        },
+        {
+            "alt_label": "FAC018-I Am Satisfied With My Sex Life",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Social/Family Well-Being: I am satisfied with my sex life.",
+            "identifier": "C130516",
+            "notation": "FAC018-I Am Satisfied With My Sex Life",
+            "pref_label": "FACT-LYM Version 4 - I Am Satisfied With My Sex Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130516"
+        },
+        {
+            "alt_label": "FAC018-I Am Sleeping Well",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Functional Well-Being: I am sleeping well.",
+            "identifier": "C130527",
+            "notation": "FAC018-I Am Sleeping Well",
+            "pref_label": "FACT-LYM Version 4 - I Am Sleeping Well",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130527"
+        },
+        {
+            "alt_label": "FAC018-I Feel Close to My Friends",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Social/Family Well-Being: I feel close to my friends.",
+            "identifier": "C130510",
+            "notation": "FAC018-I Feel Close to My Friends",
+            "pref_label": "FACT-LYM Version 4 - I Feel Close to My Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130510"
+        },
+        {
+            "alt_label": "FAC018-I Feel Close to My Partner",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Social/Family Well-Being: I feel close to my partner (or the person who is my main support).",
+            "identifier": "C130515",
+            "notation": "FAC018-I Feel Close to My Partner",
+            "pref_label": "FACT-LYM Version 4 - I Feel Close to My Partner",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130515"
+        },
+        {
+            "alt_label": "FAC018-I Feel Ill",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Physical Well-Being: I feel ill.",
+            "identifier": "C130508",
+            "notation": "FAC018-I Feel Ill",
+            "pref_label": "FACT-LYM Version 4 - I Feel Ill",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130508"
+        },
+        {
+            "alt_label": "FAC018-I Feel Nervous",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Emotional Well-Being: I feel nervous.",
+            "identifier": "C130520",
+            "notation": "FAC018-I Feel Nervous",
+            "pref_label": "FACT-LYM Version 4 - I Feel Nervous",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130520"
+        },
+        {
+            "alt_label": "FAC018-I Feel Sad",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Emotional Well-Being: I feel sad.",
+            "identifier": "C130517",
+            "notation": "FAC018-I Feel Sad",
+            "pref_label": "FACT-LYM Version 4 - I Feel Sad",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130517"
+        },
+        {
+            "alt_label": "FAC018-I Get Support From My Friends",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Social/Family Well-Being: I get support from my friends.",
+            "identifier": "C130512",
+            "notation": "FAC018-I Get Support From My Friends",
+            "pref_label": "FACT-LYM Version 4 - I Get Support From My Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130512"
+        },
+        {
+            "alt_label": "FAC018-I Get Tired Easily",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I get tired easily.",
+            "identifier": "C130536",
+            "notation": "FAC018-I Get Tired Easily",
+            "pref_label": "FACT-LYM Version 4 - I Get Tired Easily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130536"
+        },
+        {
+            "alt_label": "FAC018-I Have a Lack of Energy",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Physical Well-Being: I have a lack of energy.",
+            "identifier": "C130503",
+            "notation": "FAC018-I Have a Lack of Energy",
+            "pref_label": "FACT-LYM Version 4 - I Have a Lack of Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130503"
+        },
+        {
+            "alt_label": "FAC018-I Have a Loss of Appetite",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I have a loss of appetite.",
+            "identifier": "C130538",
+            "notation": "FAC018-I Have a Loss of Appetite",
+            "pref_label": "FACT-LYM Version 4 - I Have a Loss of Appetite",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130538"
+        },
+        {
+            "alt_label": "FAC018-I Have Accepted My Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Functional Well-Being: I have accepted my illness.",
+            "identifier": "C130526",
+            "notation": "FAC018-I Have Accepted My Illness",
+            "pref_label": "FACT-LYM Version 4 - I Have Accepted My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130526"
+        },
+        {
+            "alt_label": "FAC018-I Have Emotional Ups and Downs",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I have emotional ups and downs.",
+            "identifier": "C130543",
+            "notation": "FAC018-I Have Emotional Ups and Downs",
+            "pref_label": "FACT-LYM Version 4 - I Have Emotional Ups and Downs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130543"
+        },
+        {
+            "alt_label": "FAC018-I Have Nausea",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Physical Well-Being: I have nausea.",
+            "identifier": "C130504",
+            "notation": "FAC018-I Have Nausea",
+            "pref_label": "FACT-LYM Version 4 - I Have Nausea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130504"
+        },
+        {
+            "alt_label": "FAC018-I Have Night Sweats",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I have night sweats.",
+            "identifier": "C130533",
+            "notation": "FAC018-I Have Night Sweats",
+            "pref_label": "FACT-LYM Version 4 - I Have Night Sweats",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130533"
+        },
+        {
+            "alt_label": "FAC018-I Have Pain",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Physical Well-Being: I have pain.",
+            "identifier": "C130506",
+            "notation": "FAC018-I Have Pain",
+            "pref_label": "FACT-LYM Version 4 - I Have Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130506"
+        },
+        {
+            "alt_label": "FAC018-I Have Trouble Concentrating",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I have trouble concentrating.",
+            "identifier": "C130539",
+            "notation": "FAC018-I Have Trouble Concentrating",
+            "pref_label": "FACT-LYM Version 4 - I Have Trouble Concentrating",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130539"
+        },
+        {
+            "alt_label": "FAC018-I Have Trouble Sleeping at Night",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I have trouble sleeping at night.",
+            "identifier": "C130535",
+            "notation": "FAC018-I Have Trouble Sleeping at Night",
+            "pref_label": "FACT-LYM Version 4 - I Have Trouble Sleeping at Night",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130535"
+        },
+        {
+            "alt_label": "FAC018-I Worry About Dying",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Emotional Well-Being: I worry about dying.",
+            "identifier": "C130521",
+            "notation": "FAC018-I Worry About Dying",
+            "pref_label": "FACT-LYM Version 4 - I Worry About Dying",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130521"
+        },
+        {
+            "alt_label": "FAC018-I Worry About Getting Infections",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I worry about getting infections.",
+            "identifier": "C130540",
+            "notation": "FAC018-I Worry About Getting Infections",
+            "pref_label": "FACT-LYM Version 4 - I Worry About Getting Infections",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130540"
+        },
+        {
+            "alt_label": "FAC018-Losing Hope Against Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Emotional Well-Being: I am losing hope in the fight against my illness.",
+            "identifier": "C130519",
+            "notation": "FAC018-Losing Hope Against Illness",
+            "pref_label": "FACT-LYM Version 4 - Losing Hope Against Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130519"
+        },
+        {
+            "alt_label": "FAC018-My Family Has Accepted My Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Social/Family Well-Being: My family has accepted my illness.",
+            "identifier": "C130513",
+            "notation": "FAC018-My Family Has Accepted My Illness",
+            "pref_label": "FACT-LYM Version 4 - My Family Has Accepted My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130513"
+        },
+        {
+            "alt_label": "FAC018-My Work Is Fulfilling",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Functional Well-Being: My work (include work at home) is fulfilling.",
+            "identifier": "C130524",
+            "notation": "FAC018-My Work Is Fulfilling",
+            "pref_label": "FACT-LYM Version 4 - My Work Is Fulfilling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130524"
+        },
+        {
+            "alt_label": "FAC018-Satisfied Communication Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Social/Family Well-Being: I am satisfied with family communication about my illness.",
+            "identifier": "C130514",
+            "notation": "FAC018-Satisfied Communication Illness",
+            "pref_label": "FACT-LYM Version 4 - Satisfied With Communication About Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130514"
+        },
+        {
+            "alt_label": "FAC018-Satisfied With How I Am Coping",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Emotional Well-Being: I am satisfied with how I am coping with my illness.",
+            "identifier": "C130518",
+            "notation": "FAC018-Satisfied With How I Am Coping",
+            "pref_label": "FACT-LYM Version 4 - Satisfied With How I Am Coping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130518"
+        },
+        {
+            "alt_label": "FAC018-Trouble Meeting Needs of Family",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Physical Well-Being: Because of my physical condition, I have trouble meeting the needs of my family.",
+            "identifier": "C130505",
+            "notation": "FAC018-Trouble Meeting Needs of Family",
+            "pref_label": "FACT-LYM Version 4 - Trouble Meeting Needs of Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130505"
+        },
+        {
+            "alt_label": "FAC018-Worry I Might Get New Symptoms",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Additional Concerns: I worry that I might get new symptoms of my illness.",
+            "identifier": "C130541",
+            "notation": "FAC018-Worry I Might Get New Symptoms",
+            "pref_label": "FACT-LYM Version 4 - Worry I Might Get New Symptoms",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130541"
+        },
+        {
+            "alt_label": "FAC018-Worry My Condition Will Get Worse",
+            "definition": "Functional Assessment of Cancer Therapy-Lymphoma Version 4 - Emotional Well-Being: I worry that my condition will get worse.",
+            "identifier": "C130522",
+            "notation": "FAC018-Worry My Condition Will Get Worse",
+            "pref_label": "FACT-LYM Version 4 - Worry My Condition Will Get Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130256-C130522"
+        }
+    ]
+}

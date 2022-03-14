@@ -1,0 +1,127 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A person who is responsible for the statistical aspects of the clinical or pre-clinical study. (NCI)",
+            "identifier": "C154709",
+            "notation": "Biostatistician",
+            "pref_label": "Biostatistician",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C154709"
+        },
+        {
+            "alt_label": "Clinical Informatician",
+            "definition": "An individual that designs, implements, evaluates and/or analyzes information technology in a healthcare or research setting. (NCI)",
+            "identifier": "C154708",
+            "notation": "Clinical Informaticist",
+            "pref_label": "Clinical Informaticist",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C154708"
+        },
+        {
+            "alt_label": "CRC",
+            "definition": "A person to whom a clinical investigator delegates routine administrative requirements of a protocol. The duties and responsibilities of a clinical research coordinator may vary across different infrastructures. Generally, the coordinator manages the subject's clinical trial participation and provides a vital linkage between the subject, the investigator, and the sponsor. (NCI)",
+            "identifier": "C51811",
+            "notation": "Clinical Research Coordinator",
+            "pref_label": "Clinical Coordinator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C51811"
+        },
+        {
+            "definition": "The study contact person who is responsible for questions from the public.",
+            "identifier": "C127526",
+            "notation": "Contact for Public Queries",
+            "pref_label": "Public Queries Study Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C127526"
+        },
+        {
+            "definition": "An investigator assigned the responsibility for the coordination of investigators at different centers participating in a multi-center trial. While a single-center study would not include a coordinating investigator, the investigator at the site would fulfill the same responsibilities as a principal investigator. (after ICH E6)",
+            "identifier": "C51818",
+            "notation": "Coordinating Investigator",
+            "pref_label": "Coordinating Investigator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C51818"
+        },
+        {
+            "definition": "An individual who is responsible for the development and implementation of architectures, policies and procedures for the effective management of data across its business lifecycle.",
+            "identifier": "C51820",
+            "notation": "Data Manager",
+            "pref_label": "Data Manager",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C51820"
+        },
+        {
+            "definition": "A person responsible for the conduct of the clinical trial at a trial site. If a trial is conducted by a team of individuals at the trial site, the investigator is the responsible leader of the team and may be called the principal investigator.",
+            "identifier": "C25936",
+            "notation": "Investigator",
+            "pref_label": "Investigator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C25936"
+        },
+        {
+            "definition": "An individual with expertise in the law who provides legal counsel and representation for a study.",
+            "identifier": "C127532",
+            "notation": "Legal Representative for the Study",
+            "pref_label": "Legal Representative for the Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C127532"
+        },
+        {
+            "definition": "A sponsor representative who has medical authority for the evaluation of the safety aspects of a clinical trial. (CDISC Glossary)",
+            "identifier": "C51836",
+            "notation": "Medical Monitor",
+            "pref_label": "Medical Monitor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C51836"
+        },
+        {
+            "definition": "In the case of a multinational study, a person who has the responsibilities of the sponsor of the study in his/her country and will be responsible for the coordination of the principal investigators at different sites within that member state. (EMA)",
+            "identifier": "C154706",
+            "notation": "National Coordinating Investigator",
+            "pref_label": "National Coordinating Investigator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C154706"
+        },
+        {
+            "definition": "The individual, organization, group or other legal person taking responsibility for securing the arrangements to initiate and/or manage a study (including arrangements to ensure that the study design meets appropriate standards and to ensure appropriate conduct and reporting). In commercial trials, the primary sponsor is normally the main applicant for regulatory authorization to begin the study. It may or may not be the main funder. (NCI)",
+            "identifier": "C70794",
+            "notation": "Primary Sponsor",
+            "pref_label": "Primary Clinical Study Sponsor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C70794"
+        },
+        {
+            "definition": "A person who has the primary responsibility for the conduct of a clinical study and study-related personnel at a study site. While a single-center study would not include a coordinating investigator, the investigator at the site would fulfill the same responsibilities as a principal investigator.",
+            "identifier": "C19924",
+            "notation": "Principal Investigator",
+            "pref_label": "Principal Investigator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C19924"
+        },
+        {
+            "definition": "Additional individuals, organizations or other legal persons, if any, that have agreed with the primary sponsor to take on responsibilities of sponsorship. A secondary sponsor may have agreed to take on all the responsibilities of sponsorship jointly with the primary sponsor; or to form a group with the primary sponsor in which the responsibilities of sponsorship are allocated among the members of the group; or to act as the sponsor's legal representative in relation to some or all of the study sites; or to take responsibility for the accuracy of study registration information submitted.",
+            "identifier": "C70795",
+            "notation": "Secondary Sponsor",
+            "pref_label": "Secondary Clinical Study Sponsor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C70795"
+        },
+        {
+            "alt_label": "Clinical Study Sponsor;Sponsor;Study Sponsor",
+            "definition": "An entity that is responsible for the initiation, management, and/or financing of a clinical study.",
+            "identifier": "C70793",
+            "notation": "Sponsor",
+            "pref_label": "Clinical Study Sponsor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C70793"
+        },
+        {
+            "alt_label": "Study Director",
+            "definition": "A person who has overall responsibility for the technical conduct of a study, as well as for the interpretation, analysis, documentation and reporting of results, and represents the single point of study control. (FDA)",
+            "identifier": "C51878",
+            "notation": "Study Chair",
+            "pref_label": "Study Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C51878"
+        },
+        {
+            "definition": "Any member of the clinical trial team designated and supervised by the investigator at a trial site to perform critical trial-related procedures and/or to make important trial-related decisions (e.g., associates, residents, research fellows). (ICH)",
+            "identifier": "C54622",
+            "notation": "Subinvestigator",
+            "pref_label": "Subinvestigator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C54622"
+        },
+        {
+            "definition": "An individual who is responsible for the delivery of technical aspects of a project. (NCI)",
+            "identifier": "C154707",
+            "notation": "Technical Lead",
+            "pref_label": "Technical Lead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681-C154707"
+        }
+    ]
+}

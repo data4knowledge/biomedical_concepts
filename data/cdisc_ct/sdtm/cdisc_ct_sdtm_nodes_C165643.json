@@ -1,0 +1,33 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Slight or minor in degree, quality or extent.",
+            "identifier": "C70666",
+            "notation": "MILD",
+            "pref_label": "Mild",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C165643-C70666"
+        },
+        {
+            "definition": "Middling or intermediate in degree, quality or extent.",
+            "identifier": "C61376",
+            "notation": "MODERATE",
+            "pref_label": "Moderate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C165643-C61376"
+        },
+        {
+            "definition": "Intensely bad or major in degree, quality or extent.",
+            "identifier": "C70667",
+            "notation": "SEVERE",
+            "pref_label": "Severe",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C165643-C70667"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "U",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C165643-C17998"
+        }
+    ]
+}

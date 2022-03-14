@@ -1,0 +1,27 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Diagnostic",
+            "definition": "The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results or summary of such an investigation. (NCI)",
+            "identifier": "C15220",
+            "notation": "DIAGNOSIS",
+            "pref_label": "Diagnosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90012-C15220"
+        },
+        {
+            "alt_label": "Interpretation",
+            "definition": "An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.",
+            "identifier": "C41255",
+            "notation": "INTERPRETATION",
+            "pref_label": "Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90012-C41255"
+        },
+        {
+            "definition": "Annotation used to indicate the size or magnitude of something that was determined by comparison to a standard. (NCI)",
+            "identifier": "C25209",
+            "notation": "MEASUREMENT",
+            "pref_label": "Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90012-C25209"
+        }
+    ]
+}

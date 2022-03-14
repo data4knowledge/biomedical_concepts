@@ -1,0 +1,716 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "PODCI3-Ability Do Same Things Friends Do",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, how happy have you been with: Your ability to do the same things your friends do?",
+            "identifier": "C136138",
+            "notation": "PODCI3-Ability Do Same Things Friends Do",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Ability Do Same Things Friends Do",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136138"
+        },
+        {
+            "alt_label": "PODCI3-Able to Do Activities at Home",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - As a result of my treatment, I expect: To be able to do activities at home.",
+            "identifier": "C136203",
+            "notation": "PODCI3-Able to Do Activities at Home",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Able to Do Activities at Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136203"
+        },
+        {
+            "alt_label": "PODCI3-Able to Do More at School",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - As a result of my treatment, I expect: To be able to do more at school.",
+            "identifier": "C136204",
+            "notation": "PODCI3-Able to Do More at School",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Able to Do More at School",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136204"
+        },
+        {
+            "alt_label": "PODCI3-Able to Do More Play",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - As a result of my treatment, I expect: To be able to do more play or recreational activities.",
+            "identifier": "C136205",
+            "notation": "PODCI3-Able to Do More Play",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Able to Do More Play",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136205"
+        },
+        {
+            "alt_label": "PODCI3-Able to Do More Sports",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - As a result of my treatment, I expect: To be able to do more sports.",
+            "identifier": "C136206",
+            "notation": "PODCI3-Able to Do More Sports",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Able to Do More Sports",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136206"
+        },
+        {
+            "alt_label": "PODCI3-Bend Over and Pick Up Something",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Bend over from a standing position and pick up something off the floor?",
+            "identifier": "C136158",
+            "notation": "PODCI3-Bend Over and Pick Up Something",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Bend Over and Pick Up Something",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136158"
+        },
+        {
+            "alt_label": "PODCI3-Bicycle or Tricycle",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Bicycle or tricycle?",
+            "identifier": "C136144",
+            "notation": "PODCI3-Bicycle or Tricycle",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Bicycle or Tricycle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136144"
+        },
+        {
+            "alt_label": "PODCI3-Button Buttons",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, was it easy or hard for you to: Button buttons?",
+            "identifier": "C136131",
+            "notation": "PODCI3-Button Buttons",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Button Buttons",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136131"
+        },
+        {
+            "alt_label": "PODCI3-Climb One Flight of Stairs",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Climb one flight of stairs?",
+            "identifier": "C136146",
+            "notation": "PODCI3-Climb One Flight of Stairs",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Climb One Flight of Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136146"
+        },
+        {
+            "alt_label": "PODCI3-Climb Three Flights of Stairs",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Climb three flights of stairs?",
+            "identifier": "C136145",
+            "notation": "PODCI3-Climb Three Flights of Stairs",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Climb Three Flights of Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136145"
+        },
+        {
+            "alt_label": "PODCI3-Comb Your Hair",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, was it easy or hard for you to: Comb your hair?",
+            "identifier": "C136130",
+            "notation": "PODCI3-Comb Your Hair",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Comb Your Hair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136130"
+        },
+        {
+            "alt_label": "PODCI3-Comp Sports Limited by: Dislike",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 50 above, was your activity limited by: Dislike of pickup games or sports?",
+            "identifier": "C136180",
+            "notation": "PODCI3-Comp Sports Limited by: Dislike",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Competitive Sports Limited by: Dislike",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136180"
+        },
+        {
+            "alt_label": "PODCI3-Comp Sports Limited by: Fear",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 50 above, was your activity limited by: Fear the other kids won't like you?",
+            "identifier": "C136179",
+            "notation": "PODCI3-Comp Sports Limited by: Fear",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Competitive Sports Limited by: Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136179"
+        },
+        {
+            "alt_label": "PODCI3-Comp Sports Limited by: Health",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 50 above, was your activity limited by: General health?",
+            "identifier": "C136177",
+            "notation": "PODCI3-Comp Sports Limited by: Health",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Competitive Sports Limited by: Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136177"
+        },
+        {
+            "alt_label": "PODCI3-Comp Sports Limited by: Instruct",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 50 above, was your activity limited by: Doctor or parent instructions?",
+            "identifier": "C136178",
+            "notation": "PODCI3-Comp Sports Limited by: Instruct",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Competitive Sports Limited by: Instructions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136178"
+        },
+        {
+            "alt_label": "PODCI3-Comp Sports Limited by: Pain",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 50 above, was your activity limited by: Pain?",
+            "identifier": "C136176",
+            "notation": "PODCI3-Comp Sports Limited by: Pain",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Competitive Sports Limited by: Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136176"
+        },
+        {
+            "alt_label": "PODCI3-Comp Sports Limited by: Season",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 50 above, was your activity limited by: Activity not in season?",
+            "identifier": "C136181",
+            "notation": "PODCI3-Comp Sports Limited by: Season",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Competitive Sports Limited by: Season",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136181"
+        },
+        {
+            "alt_label": "PODCI3-Easy to Make Friends",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - Is it easy or hard for you to make friends with kids your own age?",
+            "identifier": "C136196",
+            "notation": "PODCI3-Easy to Make Friends",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Easy to Make Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136196"
+        },
+        {
+            "alt_label": "PODCI3-Feel Better",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - As a result of my treatment, I expect: To feel better about myself.",
+            "identifier": "C136201",
+            "notation": "PODCI3-Feel Better",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Feel Better",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136201"
+        },
+        {
+            "alt_label": "PODCI3-Feel Sick and Tired",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, how much of the time: Did you feel sick and tired?",
+            "identifier": "C136140",
+            "notation": "PODCI3-Feel Sick and Tired",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Feel Sick and Tired",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136140"
+        },
+        {
+            "alt_label": "PODCI3-Free From Pain as Adult",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - As a result of my treatment, I expect: To be free from pain or disability as an adult.",
+            "identifier": "C136207",
+            "notation": "PODCI3-Free From Pain as Adult",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Free From Pain as Adult",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136207"
+        },
+        {
+            "alt_label": "PODCI3-Friends Limited by: Fear",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 57 above, was your activity limited by: Fear the other kids won't like you?",
+            "identifier": "C136186",
+            "notation": "PODCI3-Friends Limited by: Fear",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Friends Limited by: Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136186"
+        },
+        {
+            "alt_label": "PODCI3-Friends Limited by: Health",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 57 above, was your activity limited by: General health?",
+            "identifier": "C136184",
+            "notation": "PODCI3-Friends Limited by: Health",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Friends Limited by: Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136184"
+        },
+        {
+            "alt_label": "PODCI3-Friends Limited by: Instructions",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 57 above, was your activity limited by: Doctor or parent instructions?",
+            "identifier": "C136185",
+            "notation": "PODCI3-Friends Limited by: Instructions",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Friends Limited by: Instructions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136185"
+        },
+        {
+            "alt_label": "PODCI3-Friends Limited by: Not Around",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 57 above, was your activity limited by: Friends not around?",
+            "identifier": "C136187",
+            "notation": "PODCI3-Friends Limited by: Not Around",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Friends Limited by: Not Around",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136187"
+        },
+        {
+            "alt_label": "PODCI3-Friends Limited by: Pain",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 57 above, was your activity limited by: Pain?",
+            "identifier": "C136183",
+            "notation": "PODCI3-Friends Limited by: Pain",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Friends Limited by: Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136183"
+        },
+        {
+            "alt_label": "PODCI3-Full of Pep and Energy",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, how much of the time: Were you full of pep and energy?",
+            "identifier": "C136141",
+            "notation": "PODCI3-Full of Pep and Energy",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Full of Pep and Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136141"
+        },
+        {
+            "alt_label": "PODCI3-Games Limited by: Dislike",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 43 above, was your activity limited by: Dislike of pickup games or sports?",
+            "identifier": "C136173",
+            "notation": "PODCI3-Games Limited by: Dislike",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Games Limited by: Dislike",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136173"
+        },
+        {
+            "alt_label": "PODCI3-Games Limited by: Fear",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 43 above, was your activity limited by: Fear the other kids won't like you?",
+            "identifier": "C136172",
+            "notation": "PODCI3-Games Limited by: Fear",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Games Limited by: Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136172"
+        },
+        {
+            "alt_label": "PODCI3-Games Limited by: Health",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 43 above, was your activity limited by: General health?",
+            "identifier": "C136170",
+            "notation": "PODCI3-Games Limited by: Health",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Games Limited by: Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136170"
+        },
+        {
+            "alt_label": "PODCI3-Games Limited by: Instructions",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 43 above, was your activity limited by: Doctor or parent instructions?",
+            "identifier": "C136171",
+            "notation": "PODCI3-Games Limited by: Instructions",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Games Limited by: Instructions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136171"
+        },
+        {
+            "alt_label": "PODCI3-Games Limited by: Pain",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 43 above, was your activity limited by: Pain?",
+            "identifier": "C136169",
+            "notation": "PODCI3-Games Limited by: Pain",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Games Limited by: Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136169"
+        },
+        {
+            "alt_label": "PODCI3-Games Limited by: Season",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 43 above, was your activity limited by: Activity not in season?",
+            "identifier": "C136174",
+            "notation": "PODCI3-Games Limited by: Season",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Games Limited by: Season",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136174"
+        },
+        {
+            "alt_label": "PODCI3-Get In and Out of Bed",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Get in and out of bed?",
+            "identifier": "C136156",
+            "notation": "PODCI3-Get In and Out of Bed",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Get In and Out of Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136156"
+        },
+        {
+            "alt_label": "PODCI3-Get On and Off a Bus",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Get on and off a bus?",
+            "identifier": "C136150",
+            "notation": "PODCI3-Get On and Off a Bus",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Get On and Off a Bus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136150"
+        },
+        {
+            "alt_label": "PODCI3-Get On and Off a Toilet or Chair",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Get on and off a toilet or chair?",
+            "identifier": "C136155",
+            "notation": "PODCI3-Get On and Off a Toilet or Chair",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Get On and Off a Toilet or Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136155"
+        },
+        {
+            "alt_label": "PODCI3-Get Together With Friends",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - How often in the last week did you get together and do things with friends?",
+            "identifier": "C136182",
+            "notation": "PODCI3-Get Together With Friends",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Get Together With Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136182"
+        },
+        {
+            "alt_label": "PODCI3-Global Functioning Scale",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - Global functioning scale.",
+            "identifier": "C136214",
+            "notation": "PODCI3-Global Functioning Scale",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Global Functioning Scale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136214"
+        },
+        {
+            "alt_label": "PODCI3-Gym Limited by: Dislike",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 63 above, was your activity limited by: Dislike of gym/recess?",
+            "identifier": "C136193",
+            "notation": "PODCI3-Gym Limited by: Dislike",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Gym Limited by: Dislike",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136193"
+        },
+        {
+            "alt_label": "PODCI3-Gym Limited by: Fear",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 63 above, was your activity limited by: Fear the other kids won't like you?",
+            "identifier": "C136192",
+            "notation": "PODCI3-Gym Limited by: Fear",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Gym Limited by: Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136192"
+        },
+        {
+            "alt_label": "PODCI3-Gym Limited by: Health",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 63 above, was your activity limited by: General health?",
+            "identifier": "C136190",
+            "notation": "PODCI3-Gym Limited by: Health",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Gym Limited by: Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136190"
+        },
+        {
+            "alt_label": "PODCI3-Gym Limited by: Instructions",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 63 above, was your activity limited by: Doctor or parent instructions?",
+            "identifier": "C136191",
+            "notation": "PODCI3-Gym Limited by: Instructions",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Gym Limited by: Instructions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136191"
+        },
+        {
+            "alt_label": "PODCI3-Gym Limited by: Not Attend School",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 63 above, was your activity limited by: I don't attend school?",
+            "identifier": "C136195",
+            "notation": "PODCI3-Gym Limited by: Not Attend School",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Gym Limited by: Not Attend School",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136195"
+        },
+        {
+            "alt_label": "PODCI3-Gym Limited by: Not in Session",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 63 above, was your activity limited by: School not in session?",
+            "identifier": "C136194",
+            "notation": "PODCI3-Gym Limited by: Not in Session",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Gym Limited by: Not in Session",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136194"
+        },
+        {
+            "alt_label": "PODCI3-Gym Limited by: Pain",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"sometimes\" or \"never or rarely\" to Question 63 above, was your activity limited by: Pain?",
+            "identifier": "C136189",
+            "notation": "PODCI3-Gym Limited by: Pain",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Gym Limited by: Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136189"
+        },
+        {
+            "alt_label": "PODCI3-Happiness Scale",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - Happiness core scale.",
+            "identifier": "C136213",
+            "notation": "PODCI3-Happiness Scale",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Happiness Scale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136213"
+        },
+        {
+            "alt_label": "PODCI3-Have Pain Relief",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - As a result of my treatment, I expect: To have pain relief.",
+            "identifier": "C136199",
+            "notation": "PODCI3-Have Pain Relief",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Have Pain Relief",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136199"
+        },
+        {
+            "alt_label": "PODCI3-How You Look",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, how happy have you been with: How you look?",
+            "identifier": "C136135",
+            "notation": "PODCI3-How You Look",
+            "pref_label": "PODCI Adolescent Self-Reported Version - How You Look",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136135"
+        },
+        {
+            "alt_label": "PODCI3-Lift Heavy Books",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, was it easy or hard for you to: Lift heavy books?",
+            "identifier": "C136126",
+            "notation": "PODCI3-Lift Heavy Books",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Lift Heavy Books",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136126"
+        },
+        {
+            "alt_label": "PODCI3-Look Better",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - As a result of my treatment, I expect: To look better.",
+            "identifier": "C136200",
+            "notation": "PODCI3-Look Better",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Look Better",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136200"
+        },
+        {
+            "alt_label": "PODCI3-Miss School Because of Health",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - On average, over the last 12 months, how often did you miss school (camp, etc.) because of your health?",
+            "identifier": "C136134",
+            "notation": "PODCI3-Miss School Because of Health",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Miss School Because of Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136134"
+        },
+        {
+            "alt_label": "PODCI3-Need Help Sitting and Standing",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - How often do you need help from another person for sitting and standing?",
+            "identifier": "C136159",
+            "notation": "PODCI3-Need Help Sitting and Standing",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Need Help Sitting and Standing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136159"
+        },
+        {
+            "alt_label": "PODCI3-Need Help Walking and Climbing",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - How often do you need help from another person for walking and climbing?",
+            "identifier": "C136151",
+            "notation": "PODCI3-Need Help Walking and Climbing",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Need Help Walking and Climbing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136151"
+        },
+        {
+            "alt_label": "PODCI3-Open a Jar Been Opened Before",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, was it easy or hard for you to: Open a jar that has been opened before?",
+            "identifier": "C136128",
+            "notation": "PODCI3-Open a Jar Been Opened Before",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Open a Jar Been Opened Before",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136128"
+        },
+        {
+            "alt_label": "PODCI3-Outdoor Limited by: Dislike",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 36 above, was your activity limited by: Dislike of recreational outdoor activities?",
+            "identifier": "C136166",
+            "notation": "PODCI3-Outdoor Limited by: Dislike",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Outdoor Limited by: Dislike",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136166"
+        },
+        {
+            "alt_label": "PODCI3-Outdoor Limited by: Fear",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 36 above, was your activity limited by: Fear the other kids won't like you?",
+            "identifier": "C136165",
+            "notation": "PODCI3-Outdoor Limited by: Fear",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Outdoor Limited by: Fear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136165"
+        },
+        {
+            "alt_label": "PODCI3-Outdoor Limited by: Health",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 36 above, was your activity limited by: General health?",
+            "identifier": "C136163",
+            "notation": "PODCI3-Outdoor Limited by: Health",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Outdoor Limited by: Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136163"
+        },
+        {
+            "alt_label": "PODCI3-Outdoor Limited by: Instructions",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 36 above, was your activity limited by: Doctor or parent instructions?",
+            "identifier": "C136164",
+            "notation": "PODCI3-Outdoor Limited by: Instructions",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Outdoor Limited by: Instructions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136164"
+        },
+        {
+            "alt_label": "PODCI3-Outdoor Limited by: Pain",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 36 above, was your activity limited by: Pain?",
+            "identifier": "C136162",
+            "notation": "PODCI3-Outdoor Limited by: Pain",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Outdoor Limited by: Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136162"
+        },
+        {
+            "alt_label": "PODCI3-Outdoor Limited by: Season",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you answered \"no\" to Question 36 above, was your activity limited by: Activity not in season?",
+            "identifier": "C136167",
+            "notation": "PODCI3-Outdoor Limited by: Season",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Outdoor Limited by: Season",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136167"
+        },
+        {
+            "alt_label": "PODCI3-Pain During the Last Week",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - How much pain have you had during the last week?",
+            "identifier": "C136197",
+            "notation": "PODCI3-Pain During the Last Week",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Pain During the Last Week",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136197"
+        },
+        {
+            "alt_label": "PODCI3-Pain Interfere With Activities",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, how much did pain interfere with your normal activities (including at home, outside of the home, and at school)?",
+            "identifier": "C136198",
+            "notation": "PODCI3-Pain Interfere With Activities",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Pain Interfere With Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136198"
+        },
+        {
+            "alt_label": "PODCI3-Pain/Comfort Scale",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - Pain/comfort core scale.",
+            "identifier": "C136212",
+            "notation": "PODCI3-Pain/Comfort Scale",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Pain or Comfort Scale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136212"
+        },
+        {
+            "alt_label": "PODCI3-Pain/Discom Inter With Activities",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, how much of the time: Did pain or discomfort interfere with your activities?",
+            "identifier": "C136142",
+            "notation": "PODCI3-Pain/Discom Inter With Activities",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Pain or Discomfort Interfere With Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136142"
+        },
+        {
+            "alt_label": "PODCI3-Participate in Competitive Sports",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - Can you participate in competitive level sports with other kids the same age (For example: hockey, basketball, soccer, football, baseball, swimming, running [track or cross country], gymnastics, or dance)?",
+            "identifier": "C136175",
+            "notation": "PODCI3-Participate in Competitive Sports",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Participate in Competitive Sports",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136175"
+        },
+        {
+            "alt_label": "PODCI3-Participate in Gym/Recess",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - How often in the last week did you participate in gym/recess?",
+            "identifier": "C136188",
+            "notation": "PODCI3-Participate in Gym/Recess",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Participate in Gym or Recess",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136188"
+        },
+        {
+            "alt_label": "PODCI3-Participate in Outdoor Activities",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - Can you participate in recreational outdoor activities with other kids the same age (For example: bicycling, skating, hiking, jogging)?",
+            "identifier": "C136161",
+            "notation": "PODCI3-Participate in Outdoor Activities",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Participate in Outdoor Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136161"
+        },
+        {
+            "alt_label": "PODCI3-Participate in Pickup Games",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - Can you participate in pickup games or sports with other kids the same age (For example: tag, dodge ball, basketball, softball, soccer, catch, jump rope, touch football, hop scotch)?",
+            "identifier": "C136168",
+            "notation": "PODCI3-Participate in Pickup Games",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Participate in Pickup Games",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136168"
+        },
+        {
+            "alt_label": "PODCI3-Pour a Half Gallon of Milk",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, was it easy or hard for you to: Pour a half gallon of milk?",
+            "identifier": "C136127",
+            "notation": "PODCI3-Pour a Half Gallon of Milk",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Pour a Half Gallon of Milk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136127"
+        },
+        {
+            "alt_label": "PODCI3-Put on Your Coat",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, was it easy or hard for you to: Put on your coat?",
+            "identifier": "C136132",
+            "notation": "PODCI3-Put on Your Coat",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Put on Your Coat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136132"
+        },
+        {
+            "alt_label": "PODCI3-Run Short Distances",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Run short distances?",
+            "identifier": "C136143",
+            "notation": "PODCI3-Run Short Distances",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Run Short Distances",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136143"
+        },
+        {
+            "alt_label": "PODCI3-Sit in Chair Without Holding On",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Sit in a regular chair without holding on?",
+            "identifier": "C136154",
+            "notation": "PODCI3-Sit in Chair Without Holding On",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Sit in Chair Without Holding On",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136154"
+        },
+        {
+            "alt_label": "PODCI3-Sleep More Comfortably",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - As a result of my treatment, I expect: To sleep more comfortably.",
+            "identifier": "C136202",
+            "notation": "PODCI3-Sleep More Comfortably",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Sleep More Comfortably",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136202"
+        },
+        {
+            "alt_label": "PODCI3-Spend Rest of Life With Condition",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - If you had to spend the rest of your life with your bone and muscle condition as it is right now, how would you feel about it?",
+            "identifier": "C136208",
+            "notation": "PODCI3-Spend Rest of Life With Condition",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Spend Rest of Life With Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136208"
+        },
+        {
+            "alt_label": "PODCI3-Sports/Phys Function Scale",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - Sports and physical functioning core scale.",
+            "identifier": "C136211",
+            "notation": "PODCI3-Sports/Phys Function Scale",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Sports and Physical Function Scale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136211"
+        },
+        {
+            "alt_label": "PODCI3-Stand Washing Hands at a Sink",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Stand while washing your hands and face at a sink?",
+            "identifier": "C136153",
+            "notation": "PODCI3-Stand Washing Hands at a Sink",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Stand Washing Hands at a Sink",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136153"
+        },
+        {
+            "alt_label": "PODCI3-Transfer/Basic Mobility Scale",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - Transfer and basic mobility core scale.",
+            "identifier": "C136210",
+            "notation": "PODCI3-Transfer/Basic Mobility Scale",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Transfer and Basic Mobility Scale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136210"
+        },
+        {
+            "alt_label": "PODCI3-Turn Door Knobs",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Turn door knobs?",
+            "identifier": "C136157",
+            "notation": "PODCI3-Turn Door Knobs",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Turn Door Knobs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136157"
+        },
+        {
+            "alt_label": "PODCI3-Up Extremity/Phys Function Scale",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - Upper extremity and physical function core scale.",
+            "identifier": "C136209",
+            "notation": "PODCI3-Up Extremity/Phys Function Scale",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Upper Extremity and Physical Function Scale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136209"
+        },
+        {
+            "alt_label": "PODCI3-Use a Fork and Spoon",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, was it easy or hard for you to: Use a fork and spoon?",
+            "identifier": "C136129",
+            "notation": "PODCI3-Use a Fork and Spoon",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Use a Fork and Spoon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136129"
+        },
+        {
+            "alt_label": "PODCI3-Use Assistive Devices for Sitting",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - How often do you use assistive devices (such as braces, crutches, or wheelchair) for sitting and standing?",
+            "identifier": "C136160",
+            "notation": "PODCI3-Use Assistive Devices for Sitting",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Use Assistive Devices for Sitting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136160"
+        },
+        {
+            "alt_label": "PODCI3-Use Assistive Devices for Walking",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - How often do you use assistive devices (such as braces, crutches, or wheelchair) for walking and climbing?",
+            "identifier": "C136152",
+            "notation": "PODCI3-Use Assistive Devices for Walking",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Use Assistive Devices for Walking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136152"
+        },
+        {
+            "alt_label": "PODCI3-Walk More Than a Mile",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Walk more than a mile?",
+            "identifier": "C136147",
+            "notation": "PODCI3-Walk More Than a Mile",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Walk More Than a Mile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136147"
+        },
+        {
+            "alt_label": "PODCI3-Walk One Block",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Walk one block?",
+            "identifier": "C136149",
+            "notation": "PODCI3-Walk One Block",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Walk One Block",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136149"
+        },
+        {
+            "alt_label": "PODCI3-Walk Three Blocks",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, has it been easy or hard for you to: Walk three blocks?",
+            "identifier": "C136148",
+            "notation": "PODCI3-Walk Three Blocks",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Walk Three Blocks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136148"
+        },
+        {
+            "alt_label": "PODCI3-What Clothes/Shoes You Can Wear",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, how happy have you been with: What clothes or shoes you can wear?",
+            "identifier": "C136137",
+            "notation": "PODCI3-What Clothes/Shoes You Can Wear",
+            "pref_label": "PODCI Adolescent Self-Reported Version - What Clothes or Shoes You Can Wear",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136137"
+        },
+        {
+            "alt_label": "PODCI3-Write With a Pencil",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, was it easy or hard for you to: Write with a pencil?",
+            "identifier": "C136133",
+            "notation": "PODCI3-Write With a Pencil",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Write With a Pencil",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136133"
+        },
+        {
+            "alt_label": "PODCI3-Your Body",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, how happy have you been with: Your body?",
+            "identifier": "C136136",
+            "notation": "PODCI3-Your Body",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Your Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136136"
+        },
+        {
+            "alt_label": "PODCI3-Your Health in General",
+            "definition": "Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported - During the last week, how happy have you been with: Your health in general?",
+            "identifier": "C136139",
+            "notation": "PODCI3-Your Health in General",
+            "pref_label": "PODCI Adolescent Self-Reported Version - Your Health in General",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135697-C136139"
+        }
+    ]
+}

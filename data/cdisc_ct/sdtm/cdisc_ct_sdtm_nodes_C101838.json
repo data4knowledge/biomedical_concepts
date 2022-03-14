@@ -1,0 +1,44 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Canadian CV Society Grading Scale",
+            "definition": "A finding associated with a patient based on the functional classification developed by the Canadian Cardiovascular Society (CCS), for categorizing patients with angina. The classification system comprises four classes, which are defined in terms of the level of physical activity associated with the subject's anginal symptoms.",
+            "identifier": "C66910",
+            "notation": "CCSGRDS",
+            "pref_label": "Canadian Cardiovascular Society Grading Scale Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101838-C66910"
+        },
+        {
+            "alt_label": "Killip Class",
+            "definition": "A finding associated with a patient based on the classification developed by Killip and Kimball, which classifies patients with myocardial infarction based on routine physical examination parameters, such as the presence or absence of rales, or a decreased systolic blood pressure.",
+            "identifier": "C66916",
+            "notation": "KILLIPCL",
+            "pref_label": "Killip Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101838-C66916"
+        },
+        {
+            "alt_label": "ACC/AHA Lesion Complexity Class",
+            "definition": "A classification system for coronary stenosis based upon characteristics that influence the difficulty of percutaneous coronary revascularization.",
+            "identifier": "C100032",
+            "notation": "LSNCPCLS",
+            "pref_label": "American College of Cardiology/American Heart Association Lesion Complexity Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101838-C100032"
+        },
+        {
+            "alt_label": "New York Heart Association Class",
+            "definition": "A finding associated with a patient based on the functional classification developed by the New York Heart Association (NYHA), for categorizing patients with defined or presumed cardiac disease. The classification system is based on the ability to engage in physical activity. The classification system comprises four classes, though NYHA Class III and Class IV are often aggregated for the purpose of outcomes analysis.",
+            "identifier": "C66909",
+            "notation": "NYHACLS",
+            "pref_label": "New York Heart Association Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101838-C66909"
+        },
+        {
+            "alt_label": "TIMI Flow",
+            "definition": "A grading system for coronary blood flow based on the classification developed by the Thrombolysis in Myocardial Infarction Group. It classifies coronary blood flow into four classes based upon the angiographic appearance of the blood vessels.",
+            "identifier": "C100021",
+            "notation": "TIMIFLOW",
+            "pref_label": "Thrombolysis in Myocardial Infarction Flow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101838-C100021"
+        }
+    ]
+}

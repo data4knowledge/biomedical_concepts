@@ -1,0 +1,188 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "A260/A230 Ratio",
+            "definition": "An assessment of nucleic acid purity that is measured by determining the ratio of light absorbance of the nucleic acid sample at 260nm and 230nm respectively.",
+            "identifier": "C139281",
+            "notation": "A260A230",
+            "pref_label": "A260 to A230 Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C139281"
+        },
+        {
+            "alt_label": "A260/A280 Ratio",
+            "definition": "An assessment of nucleic acid purity that is measured by determining the ratio of light absorbance of the nucleic acid sample at 260nm and 280nm respectively.",
+            "identifier": "C139280",
+            "notation": "A260A280",
+            "pref_label": "A260 to A280 Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C139280"
+        },
+        {
+            "alt_label": "Area",
+            "definition": "The extent of a 2-dimensional surface enclosed within a boundary. (NCI)",
+            "identifier": "C25244",
+            "notation": "AREA",
+            "pref_label": "Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C25244"
+        },
+        {
+            "alt_label": "Concentration",
+            "definition": "The quantity of a specified substance in a unit volume or weight of another substance.",
+            "identifier": "C41185",
+            "notation": "CONC",
+            "pref_label": "Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C41185"
+        },
+        {
+            "alt_label": "Fixative Name",
+            "definition": "The name of the substance or material that preserves tissues and cells for study.",
+            "identifier": "C128948",
+            "notation": "FIXNAM",
+            "pref_label": "Name of Fixative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C128948"
+        },
+        {
+            "alt_label": "Fluorescent Label",
+            "definition": "The type of fluorescent label or dye that is used in a fluorescence-based assay.",
+            "identifier": "C139282",
+            "notation": "FLUORLBL",
+            "pref_label": "Fluorescent Tag Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C139282"
+        },
+        {
+            "alt_label": "28S/18S",
+            "definition": "An assessment of ribonucleic acid integrity that is measured by determining the ratio of the nucleotide length of 28S rRNA and 18S rRNA, respectively, in a biological specimen.",
+            "identifier": "C177932",
+            "notation": "I28S18S",
+            "pref_label": "28S Ribosomal RNA to 18S Ribosomal RNA Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C177932"
+        },
+        {
+            "alt_label": "Length",
+            "definition": "The linear extent in space from one end of something to the other end, or the extent of something from beginning to end. (NCI)",
+            "identifier": "C25334",
+            "notation": "LENGTH",
+            "pref_label": "Length",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C25334"
+        },
+        {
+            "alt_label": "Mass",
+            "definition": "The amount of matter in an object.",
+            "identifier": "C43246",
+            "notation": "MASS",
+            "pref_label": "Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C43246"
+        },
+        {
+            "alt_label": "Quality",
+            "definition": "An assessment of excellence, worth, or fitness for use.",
+            "identifier": "C25283",
+            "notation": "QUALITY",
+            "pref_label": "Quality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C25283"
+        },
+        {
+            "alt_label": "RNA Integrity Number",
+            "definition": "A numerical assessment of the integrity of RNA based on the entire electrophoretic trace of the RNA sample, including the presence or absence of degradation products. (NCI)",
+            "identifier": "C63637",
+            "notation": "RIN",
+            "pref_label": "RNA Integrity Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C63637"
+        },
+        {
+            "alt_label": "Size",
+            "definition": "The physical magnitude of something. (NCI)",
+            "identifier": "C25681",
+            "notation": "SIZE",
+            "pref_label": "Size",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C25681"
+        },
+        {
+            "alt_label": "Dimension;Spatial Dimension",
+            "definition": "The three dimensional magnitude of an entity expressed as the three axes of length, width, and height (or thickness).",
+            "identifier": "C25483",
+            "notation": "SPDMSION",
+            "pref_label": "Dimension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C25483"
+        },
+        {
+            "alt_label": "Specimen Weight",
+            "definition": "A measurement of the weight of a biological specimen.",
+            "identifier": "C106569",
+            "notation": "SPWEIGHT",
+            "pref_label": "Specimen Weight Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C106569"
+        },
+        {
+            "alt_label": "Temperature",
+            "definition": "The property of a body or region of space that determines whether or not there will be a net flow of heat into it or out of it from a neighboring body or region and in which direction (if any) the heat will flow, perceptible by living organism as a somatic sensation of cold or heat. It is a measure of the average translational kinetic energy associated with the disordered microscopic motion of atoms and molecules. Temperature is measured in one of the three standard temperature scales: Celsius, Kelvin, and Fahrenheit. (NCI)",
+            "identifier": "C25206",
+            "notation": "TEMP",
+            "pref_label": "Temperature",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C25206"
+        },
+        {
+            "alt_label": "Thickness",
+            "definition": "The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.",
+            "identifier": "C41145",
+            "notation": "THICK",
+            "pref_label": "Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C41145"
+        },
+        {
+            "alt_label": "Number of Tissue Samples in Specimen",
+            "definition": "The total number of tissue samples within the specimen.",
+            "identifier": "C176276",
+            "notation": "TISSPNUM",
+            "pref_label": "Number of Tissue Samples in Specimen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C176276"
+        },
+        {
+            "alt_label": "Tumor Cells/Total Cells",
+            "definition": "A relative measurement (ratio or percentage) of the tumor cells to total cells in a biological specimen.",
+            "identifier": "C127771",
+            "notation": "TUMCECE",
+            "pref_label": "Tumor Cell to Total Cell Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C127771"
+        },
+        {
+            "alt_label": "Tumor Tissue Origin",
+            "definition": "A characterization of the tumor tissue sample based upon whether it was taken from a tumor that originated after the disease spread.",
+            "identifier": "C135371",
+            "notation": "TUMTORI",
+            "pref_label": "Tumor Tissue Origin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C135371"
+        },
+        {
+            "alt_label": "Sample Viability Indicator",
+            "definition": "An indication as to whether the sample contains viable (capable of life or normal growth and development) cells or tissues.",
+            "identifier": "C139279",
+            "notation": "VBLSIND",
+            "pref_label": "Sample Viability Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C139279"
+        },
+        {
+            "alt_label": "Sample Viability Percent",
+            "definition": "A measurement of the percent of a sample that is viable (capable of life or normal growth and development) for further processing or testing.",
+            "identifier": "C139278",
+            "notation": "VBLSPCT",
+            "pref_label": "Sample Viability Percent Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C139278"
+        },
+        {
+            "alt_label": "Volume",
+            "definition": "A measurement of the volume of a biological specimen.",
+            "identifier": "C74720",
+            "notation": "VOLUME",
+            "pref_label": "Volume Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C74720"
+        },
+        {
+            "alt_label": "Width",
+            "definition": "The extent or measurement of something from side to side. (NCI)",
+            "identifier": "C25345",
+            "notation": "WIDTH",
+            "pref_label": "Width",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124300-C25345"
+        }
+    ]
+}

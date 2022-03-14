@@ -1,0 +1,20 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Origin of Cancer Known Ind;Origin of Cancer Known Indicator",
+            "definition": "An indication as to whether the primary site of cancer is known.",
+            "identifier": "C154860",
+            "notation": "ORCANIND",
+            "pref_label": "Cancer Primary Site Known Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154687-C154860"
+        },
+        {
+            "alt_label": "Resected Tumor Ind;Resected Tumor Indicator",
+            "definition": "An indication as to whether the tumor has been resected.",
+            "identifier": "C154861",
+            "notation": "RESCTIND",
+            "pref_label": "Tumor Resected Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154687-C154861"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "RVR",
+            "definition": "A finding of aviremia at a specified timepoint, early during the treatment period.",
+            "identifier": "C120597",
+            "notation": "RAPID VIROLOGIC RESPONSE",
+            "pref_label": "Rapid Virologic Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120597"
+        },
+        {
+            "alt_label": "SVR",
+            "definition": "A finding of aviremia at a predetermined time point after the end of planned or actual treatment.",
+            "identifier": "C120598",
+            "notation": "SUSTAINED VIROLOGIC RESPONSE",
+            "pref_label": "Sustained Virologic Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120598"
+        },
+        {
+            "alt_label": "VBT",
+            "definition": "The subject becomes viremic during the treatment period after a period of treatment-induced aviremia or has an increase in viral load from nadir above a predetermined threshold during the treatment period.",
+            "identifier": "C120599",
+            "notation": "VIRAL BREAKTHROUGH",
+            "pref_label": "Viral Breakthrough",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120599"
+        },
+        {
+            "definition": "A recurrence of the same virus after a finding of aviremia at the end of planned or actual treatment.",
+            "identifier": "C120600",
+            "notation": "VIRAL RELAPSE",
+            "pref_label": "Viral Relapse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120600"
+        },
+        {
+            "definition": "A finding of aviremia at the end of the planned or actual end of treatment period.",
+            "identifier": "C120601",
+            "notation": "VIROLOGIC END OF TREATMENT RESPONSE",
+            "pref_label": "Virologic End Of Treatment Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120601"
+        },
+        {
+            "definition": "A finding of viremia at or after end of planned or actual treatment, excluding treatment discontinuations for non-virologic reasons.",
+            "identifier": "C120602",
+            "notation": "VIROLOGIC FAILURE",
+            "pref_label": "Virologic Failure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120602"
+        },
+        {
+            "definition": "The subject remains viremic during the treatment period.",
+            "identifier": "C120603",
+            "notation": "VIROLOGIC NON-RESPONSE",
+            "pref_label": "Virologic Non-Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120603"
+        },
+        {
+            "definition": "The subject remains viremic during the treatment period and the decrease in viral load from baseline at a specified timepoint is below or equal to a predetermined threshold.",
+            "identifier": "C120604",
+            "notation": "VIROLOGIC NULL-RESPONSE",
+            "pref_label": "Virologic Null-Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120604"
+        },
+        {
+            "definition": "The subject remains viremic during the treatment period and the decrease in viral load from baseline at a specified timepoint is above a predetermined threshold.",
+            "identifier": "C120605",
+            "notation": "VIROLOGIC PARTIAL RESPONSE",
+            "pref_label": "Virologic Partial Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120605"
+        }
+    ]
+}

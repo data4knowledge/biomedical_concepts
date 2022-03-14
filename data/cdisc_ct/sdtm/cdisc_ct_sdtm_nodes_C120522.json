@@ -1,0 +1,1811 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "1st degree AV block;PR Prolongation;Prolonged PR interval",
+            "definition": "An electrocardiographic finding of prolonged PR interval for a specific population. For adults one common threshold is a PR interval greater than 0.20 seconds. Note that other thresholds may be applicable.",
+            "identifier": "C111088",
+            "notation": "1ST DEGREE AV BLOCK",
+            "pref_label": "AV Block First Degree by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111088"
+        },
+        {
+            "alt_label": "2:1 AV block",
+            "definition": "An electrocardiographic finding of a supraventricular rhythm where the ratio of impulses generated above the atrioventricular node to the number of impulses conducted through to the ventricles is 2:1. This is manifest on the ECG as 2 P waves per QRS complex.",
+            "identifier": "C71044",
+            "notation": "2:1 AV BLOCK",
+            "pref_label": "2:1 Atrioventricular Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71044"
+        },
+        {
+            "alt_label": "Second Degree AV Block",
+            "definition": "An electrocardiographic finding of intermittent failure of atrial electrical impulse conduction to the ventricles. This is manifest on the ECG by regular P waves which intermittently are not followed by QRS complexes.",
+            "identifier": "C62016",
+            "notation": "2ND DEGREE AV BLOCK",
+            "pref_label": "AV Block Second Degree by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62016"
+        },
+        {
+            "alt_label": "3rd Degree Heart Block;AV block, complete (third-degree);Complete Heart Block",
+            "definition": "An electrocardiographic finding of complete failure of atrial electrical impulse conduction to the ventricles. This is manifest on the ECG by disassociation of atrial and ventricular rhythms. The atrial rate must be faster than the ventricular rate.",
+            "identifier": "C111091",
+            "notation": "3RD DEGREE AV BLOCK",
+            "pref_label": "AV Block Third Degree by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111091"
+        },
+        {
+            "alt_label": "50 Hz Artifact;50 Hz Noise",
+            "definition": "An electrocardiographic recording showing power line interference with the electrocardiographic signal. The artifact amplitude modulation has the same frequency as the AC power system present (50 Hz).",
+            "identifier": "C114165",
+            "notation": "50 Hz NOISE",
+            "pref_label": "50 Hertz Noise by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114165"
+        },
+        {
+            "alt_label": "60 Hz Artifact;60 Hz Noise",
+            "definition": "An electrocardiographic recording showing power line interference with the electrocardiographic signal. The artifact amplitude modulation has the same frequency as the AC power system present (60 Hz).",
+            "identifier": "C114164",
+            "notation": "60 Hz NOISE",
+            "pref_label": "60 Hertz Noise by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114164"
+        },
+        {
+            "alt_label": "Aberrantly Conducted Beats",
+            "definition": "An electrocardiographic finding of an abnormally wide QRS complex(es) of supraventricular origin with prolonged QRS duration due to aberrant AV conduction.",
+            "identifier": "C116132",
+            "notation": "ABERRANTLY CONDUCTED COMPLEXES",
+            "pref_label": "Aberrantly Conducted Complexes by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C116132"
+        },
+        {
+            "alt_label": "AC Noise",
+            "definition": "An electrocardiographic recording showing power line interference with the electrocardiographic signal. The artifact amplitude modulation has the same frequency as the AC power system present (usually 50 Hz or 60 Hz).",
+            "identifier": "C114149",
+            "notation": "AC NOISE",
+            "pref_label": "Alternating Current Noise by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114149"
+        },
+        {
+            "alt_label": "Accelerated idioventricular rhythm",
+            "definition": "An electrocardiographic finding of idioventricular rhythm with a rate greater than 50 beats per minute.",
+            "identifier": "C62266",
+            "notation": "ACCELERATED IDIOVENTRICULAR RHYTHM",
+            "pref_label": "Accelerated Idioventricular Rhythm by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62266"
+        },
+        {
+            "alt_label": "Acute Anterior MI;Acute Anterior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V3 and V4, which is suggestive of acute myocardial infarction of the anterior wall of the left ventricle.",
+            "identifier": "C71065",
+            "notation": "ACUTE ANTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Acute Anterior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71065"
+        },
+        {
+            "alt_label": "Acute Anterolateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V3 through V6, which is suggestive of acute myocardial infarction of the anterolateral wall of the left ventricle.",
+            "identifier": "C102591",
+            "notation": "ACUTE ANTEROLATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Acute Anterolateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102591"
+        },
+        {
+            "alt_label": "Acute anteroseptal MI;Acute Anteroseptal Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V1 through V4, which is suggestive of acute myocardial infarction of the anteroseptal wall of the left ventricle.",
+            "identifier": "C102592",
+            "notation": "ACUTE ANTEROSEPTAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Acute Anteroseptal Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102592"
+        },
+        {
+            "definition": "An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V1 to V6, I and aVL, which is suggestive of acute myocardial infarction involving the anterior and anterolateral walls of the left ventricle.",
+            "identifier": "C106496",
+            "notation": "ACUTE EXTENSIVE ANTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Acute Extensive Anterior Wall Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C106496"
+        },
+        {
+            "alt_label": "Acute High Lateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads I and aVL, which is suggestive of acute myocardial infarction of the high lateral wall of the left ventricle.",
+            "identifier": "C102593",
+            "notation": "ACUTE HIGH LATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Acute High Lateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102593"
+        },
+        {
+            "alt_label": "Acute Inferior MI;Acute Inferior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads III, aVF and often II, which is suggestive of acute myocardial infarction of the inferior wall of the left ventricle.",
+            "identifier": "C71066",
+            "notation": "ACUTE INFERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Acute Inferior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71066"
+        },
+        {
+            "alt_label": "Acute Lateral MI;Acute Lateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V5, V6, I and aVL, which is suggestive of acute myocardial infarction of the lateral wall of the left ventricle.",
+            "identifier": "C71067",
+            "notation": "ACUTE LATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Acute Lateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71067"
+        },
+        {
+            "alt_label": "Acute Myocardial Infarction",
+            "definition": "An electrocardiographic finding showing a current of injury with ST elevation. No specification is provided for localization.",
+            "identifier": "C101596",
+            "notation": "ACUTE MYOCARDIAL INFARCTION",
+            "pref_label": "Acute Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C101596"
+        },
+        {
+            "alt_label": "Acute Posterior MI;Acute Posterior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding in leads V1 or V2 of an initial R wave duration greater than or equal to 40 ms, R wave greater than S wave, upright T wave, with accompanying ST elevation, which is suggestive of acute myocardial infarction of the posterior wall of the left ventricle. Evidence of inferior or lateral myocardial infarction is usually also present.",
+            "identifier": "C71068",
+            "notation": "ACUTE POSTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Acute Posterior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71068"
+        },
+        {
+            "alt_label": "Acute Right ventricular MI;Acute Right Ventricular Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding in leads V1 or V2 of an initial R wave duration greater than or equal to 40 ms, R wave greater than S wave, upright T wave, with accompanying ST elevation, which is suggestive of acute myocardial infarction of the ventricular wall of the left ventricle. Evidence of inferior or lateral myocardial infarction is usually also present. Additional criteria include ST elevation > 100 microvolts in the right precordial leads V4R through V6R.",
+            "identifier": "C102594",
+            "notation": "ACUTE RIGHT VENTRICULAR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Acute Right Ventricular Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102594"
+        },
+        {
+            "alt_label": "Acute Septal Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V1, V2 and often V3, which is suggestive of acute myocardial infarction of the intraventricular septum.",
+            "identifier": "C102595",
+            "notation": "ACUTE SEPTAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Acute Septal Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102595"
+        },
+        {
+            "alt_label": "Advanced/High Grade AV Block",
+            "definition": "An electrocardiographic finding of intermittent failure of atrial electrical impulse conduction to the ventricles, characterized by two or more consecutive non-conducted P waves.",
+            "identifier": "C102642",
+            "notation": "ADVANCED/HIGH GRADE AV BLOCK",
+            "pref_label": "High Grade Atrioventricular Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102642"
+        },
+        {
+            "definition": "An electrocardiographic recording in which all precordial electrodes are disconnected resulting in missing waveforms (flat line) of all leads V1 - V6.",
+            "identifier": "C114159",
+            "notation": "ALL PRECORDIAL ELECTRODES DISCONNECTED",
+            "pref_label": "All Precordial Electrodes Are Disconnected by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114159"
+        },
+        {
+            "alt_label": "Anterior MI;Anterior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V3 and V4, which is suggestive of myocardial infarction of the anterior wall of the left ventricle.",
+            "identifier": "C71069",
+            "notation": "ANTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Anterior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71069"
+        },
+        {
+            "alt_label": "Anterolateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V3 through V6, which is suggestive of myocardial infarction of the anterolateral wall of the left ventricle.",
+            "identifier": "C35303",
+            "notation": "ANTEROLATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Anterolateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C35303"
+        },
+        {
+            "alt_label": "Anteroseptal MI;Anteroseptal Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V1 through V4, which is suggestive of myocardial infarction of the anteroseptal wall of the left ventricle.",
+            "identifier": "C35304",
+            "notation": "ANTEROSEPTAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Anteroseptal Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C35304"
+        },
+        {
+            "definition": "An electrocardiographic recording in which one or more leads display extraneous signals which do not represent cardiac electrical activity.",
+            "identifier": "C114162",
+            "notation": "ARTIFACT",
+            "pref_label": "Artifact Lead Signal by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114162"
+        },
+        {
+            "definition": "An electrocardiographic finding showing no cardiac electrical activity on the ECG for the entire duration of the recording.",
+            "identifier": "C116130",
+            "notation": "ASYSTOLE",
+            "pref_label": "Asystole by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C116130"
+        },
+        {
+            "definition": "An electrocardiographic finding of a sinus beat followed by a premature atrial complex for three or more consecutive cycles; a regularly irregular rhythm of normal and abnormal P waves in a 1-1 ratio.",
+            "identifier": "C102596",
+            "notation": "ATRIAL BIGEMINY",
+            "pref_label": "Atrial Bigeminy by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102596"
+        },
+        {
+            "alt_label": "Atrial Couplets",
+            "definition": "An electrocardiographic finding in which two premature atrial complexes occur sequentially; there may be one or more occurrences during an electrocardiographic recording.",
+            "identifier": "C102597",
+            "notation": "ATRIAL COUPLETS",
+            "pref_label": "Atrial Couplet by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102597"
+        },
+        {
+            "alt_label": "Atrial Enlargement",
+            "definition": "An electrocardiographic finding which comprises left, right or bilateral atrial enlargement. This is may be characterized by prolonged P wave duration, increased P wave amplitude, or multi-component P waves.",
+            "identifier": "C71039",
+            "notation": "ATRIAL ENLARGEMENT",
+            "pref_label": "Atrial Enlargement by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71039"
+        },
+        {
+            "alt_label": "Atrial fibrillation",
+            "definition": "An electrocardiographic finding of a supraventricular arrhythmia characterized by the replacement of consistent P waves by rapid oscillations or fibrillatory waves that vary in size, shape and timing and are accompanied by an irregularly irregular ventricular response.",
+            "identifier": "C111092",
+            "notation": "ATRIAL FIBRILLATION",
+            "pref_label": "Atrial Fibrillation by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111092"
+        },
+        {
+            "alt_label": "Atrial flutter",
+            "definition": "An electrocardiographic finding of an organized, regular atrial rhythm with atrial rate of 240-340 beats per minute. Multiple P waves typically appear in the inferior leads in a saw tooth like pattern between the QRS complexes.",
+            "identifier": "C111094",
+            "notation": "ATRIAL FLUTTER",
+            "pref_label": "Atrial Flutter by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111094"
+        },
+        {
+            "definition": "An electrocardiographic finding of an atrial tachycardia which does not display 1:1 AV conduction.",
+            "identifier": "C119249",
+            "notation": "ATRIAL TACHYCARDIA WITH AV BLOCK",
+            "pref_label": "Atrial Tachycardia With AV Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C119249"
+        },
+        {
+            "alt_label": "Atrial tachycardia",
+            "definition": "An electrocardiographic finding of an organized, regular atrial rhythm with atrial rate between 101 and 240 beats per minute. The P wave morphology must be distinct from the sinus P wave morphology.",
+            "identifier": "C111105",
+            "notation": "ATRIAL TACHYCARDIA",
+            "pref_label": "Atrial Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111105"
+        },
+        {
+            "alt_label": "Atrial Trigeminy",
+            "definition": "An electrocardiographic finding of two sinus beats followed by a premature atrial complex for 3 or more consecutive cycles; a regularly irregular rhythm of normal and abnormal P waves in a 2-1 ratio.",
+            "identifier": "C102598",
+            "notation": "ATRIAL TRIGEMINY",
+            "pref_label": "Atrial Trigeminy by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102598"
+        },
+        {
+            "alt_label": "Atrioventricular dissociation;AV Dissociation",
+            "definition": "An electrocardiographic finding in which the electrical activity of the atria and ventricles are independent of one another.",
+            "identifier": "C71045",
+            "notation": "ATRIOVENTRICULAR DISSOCIATION",
+            "pref_label": "Atrioventricular Dissociation by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71045"
+        },
+        {
+            "alt_label": "AV Mobitz I;Mobitz I Second Degree AV Block;Second degree AV block- Mobitz type I;Second-degree AV block, Mobitz type I (Wenckebach);Type 1 2nd degree AV Block;Wenckebach",
+            "definition": "An electrocardiographic finding of intermittent failure of atrial electrical impulse conduction to the ventricles, characterized by a progressively lengthening PR interval prior to the block of an atrial impulse.",
+            "identifier": "C111089",
+            "notation": "AV MOBITZ I",
+            "pref_label": "AV Block Second Degree Mobitz Type I by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111089"
+        },
+        {
+            "alt_label": "Mobitz II AV Block;Mobitz II Second Degree AV Block;Type 2 2nd degree AV Block",
+            "definition": "An electrocardiographic finding of intermittent failure of atrial electrical impulse conduction to the ventricles, characterized by a relatively constant PR interval prior to the block of an atrial impulse.",
+            "identifier": "C111090",
+            "notation": "AV MOBITZ II",
+            "pref_label": "AV Block Second Degree Mobitz Type II by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111090"
+        },
+        {
+            "alt_label": "AV Node Reentrant Supraventricular Tachycardia",
+            "definition": "An electrocardiographic finding of a regular supraventricular tachycardia due to reentry within the AV node. It is characterized by P waves which typically occurs nearly simultaneously with the QRS complex, resulting in a P wave which is obscured by the QRS, merged with the QRS or which may follow the QRS.",
+            "identifier": "C35058",
+            "notation": "AV NODE RE-ENTRY",
+            "pref_label": "Atrioventricular Nodal Reentry Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C35058"
+        },
+        {
+            "alt_label": "AV Reentrant Supraventricular Tachycardia",
+            "definition": "An electrocardiographic finding of a regular supraventricular tachycardia which utilizes an atrioventricular bypass tract as its retrograde limb (orthodromic tachycardia) or as its antegrade limb (antidromic tachycardia). QRS complexes during sinus rhythm may show preexcitation. During orthodromic tachycardia the preexcitation is not present and a retrograde P wave may appear after the QRS complex. During antidromic tachycardia the QRS complex is preexcited.",
+            "identifier": "C62261",
+            "notation": "AV RE-ENTRANT TACHYCARDIA",
+            "pref_label": "Atrioventricular Reentrant Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62261"
+        },
+        {
+            "definition": "An electrocardiographic recording in which the isoelectric line in one or more leads is vertically displaced resulting in low frequency upward and downward movements of the signal with varying amplitudes.",
+            "identifier": "C114147",
+            "notation": "BASELINE WANDER",
+            "pref_label": "Baseline Wander by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114147"
+        },
+        {
+            "alt_label": "Bifascicular block",
+            "definition": "An electrocardiographic finding comprising right bundle branch block and left anterior fascicular block, or right bundle branch block and left posterior fascicular block. Defects occurring in two of the three divisions of the conduction system of the heart are considered bifascicular blocks. Technically left bundle branch block may be considered a bifascicular block. (NCI)",
+            "identifier": "C71046",
+            "notation": "BIFASCICULAR BLOCK",
+            "pref_label": "Bifascicular Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71046"
+        },
+        {
+            "definition": "An electrocardiographic finding suggestive of enlargement or thickening of both ventricles, with a combination of findings which are related to LVH and RVH, such as voltage criteria for LVH in the presence of marked right axis deviation.",
+            "identifier": "C106502",
+            "notation": "BIVENTRICULAR HYPERTROPHY",
+            "pref_label": "Biventricular Hypertrophy by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C106502"
+        },
+        {
+            "alt_label": "Borderline QTcB",
+            "definition": "An electrocardiographic finding in which the QT interval corrected for heart rate using Bazett's formula is slightly prolonged. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C92228",
+            "notation": "BORDERLINE QTCB",
+            "pref_label": "Borderline QTcB",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C92228"
+        },
+        {
+            "alt_label": "Borderline QTcF",
+            "definition": "An electrocardiographic finding in which the QT interval corrected for heart rate using Fridericia's formula is slightly prolonged. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C92229",
+            "notation": "BORDERLINE QTCF",
+            "pref_label": "Borderline QTcF",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C92229"
+        },
+        {
+            "alt_label": "Bradycardia",
+            "definition": "An electrocardiographic finding of abnormally slow heart rate. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C111120",
+            "notation": "BRADYCARDIA",
+            "pref_label": "Bradycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111120"
+        },
+        {
+            "definition": "An electrocardiographic finding of complete or incomplete right bundle branch block accompanied by ST elevation in leads V1-V3. This may be noted at rest or can be provoked by medication challenge.",
+            "identifier": "C106503",
+            "notation": "BRUGADA SYNDROME PATTERN",
+            "pref_label": "Brugada Syndrome Pattern by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C106503"
+        },
+        {
+            "definition": "An electrocardiographic finding of an artifact generated by an external or internal cardioversion or defibrillation shock.",
+            "identifier": "C120609",
+            "notation": "DEFIBRILLATOR DISCHARGE",
+            "pref_label": "Defibrillator Discharge by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120609"
+        },
+        {
+            "alt_label": "Delta wave",
+            "definition": "An electrocardiographic finding of initial slurring (delta wave) of the QRS complex due to the presence of an accessory pathway. This characteristic ECG pattern is typically seen in Wolff-Parkinson-White syndrome.",
+            "identifier": "C62258",
+            "notation": "DELTA WAVE",
+            "pref_label": "Delta Wave by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62258"
+        },
+        {
+            "alt_label": "Dextrocardia",
+            "definition": "An electrocardiographic finding suggestive of dextrocardia with situs inversus, characterized by reversal of normal anterior R wave progression and the appearance of reversal of the right and left arm electrodes.",
+            "identifier": "C102623",
+            "notation": "DEXTROCARDIA",
+            "pref_label": "Dextrocardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102623"
+        },
+        {
+            "alt_label": "Early R Wave Progression;Early R Wave Transition",
+            "definition": "An electrocardiographic finding where the amplitude of the R wave becomes greater than the amplitude of the S wave in the QRS complex at an unusually early point in the precordial leads, usually in leads V1 or V2.",
+            "identifier": "C102628",
+            "notation": "EARLY R WAVE TRANSITION",
+            "pref_label": "Early R Wave Transition by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102628"
+        },
+        {
+            "alt_label": "Early Repolarization",
+            "definition": "An electrocardiographic finding of J point and ST segment elevation in the absence of other signs of acute ischemia or pericarditis.",
+            "identifier": "C102629",
+            "notation": "EARLY REPOLARIZATION",
+            "pref_label": "Early Repolarization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102629"
+        },
+        {
+            "definition": "An electrocardiographic recording in which the precordial electrodes have been placed over the right chest and record a right sided ECG.",
+            "identifier": "C114175",
+            "notation": "ECG ACQUIRED WITH PRECORDIAL ELECTRODES PLACED ON RIGHT CHEST",
+            "pref_label": "ECG Acquired with Precordial Electrodes Placed on the Right Chest",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114175"
+        },
+        {
+            "definition": "A digital electrocardiographic recording which is corrupted (i.e. ECG signal cannot be restored) such that measurements and/or interpretation cannot be performed.",
+            "identifier": "C114181",
+            "notation": "ECG EVALUATION NOT PERFORMED DUE TO CORRUPTED DIGITAL ECG FILE",
+            "pref_label": "ECG Evaluation Not Performed Due to Corrupted Digital ECG File",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114181"
+        },
+        {
+            "alt_label": "Ectopic Supraventricular Rhythm",
+            "definition": "An electrocardiographic finding of a regular atrial rhythm with atrial rate of less than 101 beats per minute which does not originate in the sinus node, and which is characterized by P waves whose morphology differs from the P wave morphology during sinus rhythm.",
+            "identifier": "C62245",
+            "notation": "ECTOPIC ATRIAL RHYTHM",
+            "pref_label": "Ectopic Atrial Rhythm by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62245"
+        },
+        {
+            "alt_label": "Ectopic ventricular rhythm",
+            "definition": "An electrocardiographic finding of three or more consecutive complexes of ventricular origin. The QRS complexes are wide and have an abnormal morphology.",
+            "identifier": "C71042",
+            "notation": "ECTOPIC VENTRICULAR RHYTHM",
+            "pref_label": "Ectopic Ventricular Rhythm by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71042"
+        },
+        {
+            "alt_label": "Electrical alternans",
+            "definition": "An electrocardiographic finding in which there is an alternating pattern of any of the waveform components. (NCI)",
+            "identifier": "C71035",
+            "notation": "ELECTRICAL ALTERNANS",
+            "pref_label": "Electrical Alternans by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71035"
+        },
+        {
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V1 to V6, I and aVL, which is suggestive of myocardial infarction involving the anterior and anterolateral walls of the left ventricle.",
+            "identifier": "C106520",
+            "notation": "EXTENSIVE ANTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Extensive Anterior Wall Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C106520"
+        },
+        {
+            "definition": "An electrocardiographic finding during a continuous recording in which the frequency of atrial premature complexes exceeds the normal threshold. Note that different thresholds may apply to different patient populations.",
+            "identifier": "C120610",
+            "notation": "FREQUENT PREMATURE ATRIAL COMPLEXES",
+            "pref_label": "Frequent Premature Atrial Complexes by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120610"
+        },
+        {
+            "definition": "An electrocardiographic finding during a continuous recording in which the frequency of ventricular premature complexes exceeds the normal threshold. Note that different thresholds may apply to different patient populations.",
+            "identifier": "C120611",
+            "notation": "FREQUENT PREMATURE VENTRICULAR COMPLEXES",
+            "pref_label": "Frequent Premature Ventricular Complexes by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120611"
+        },
+        {
+            "alt_label": "Fusion Beat;Fusion Complexes",
+            "definition": "An electrocardiographic finding that occurs when electrical activation of the atria or ventricles occurs from two separate sites. This results in a P wave or QRS complex  that displays merged characteristics of beats originating from the two different sites; there may be one or more occurrences during an electrocardiographic recording.",
+            "identifier": "C102639",
+            "notation": "FUSION COMPLEX",
+            "pref_label": "Fusion Complex",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102639"
+        },
+        {
+            "alt_label": "High Lateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads I and aVL, which is suggestive of myocardial infarction of the high lateral wall of the left ventricle.",
+            "identifier": "C102643",
+            "notation": "HIGH LATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "High Lateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102643"
+        },
+        {
+            "definition": "A continuous, ambulatory electrocardiographic recording during which one or more electrodes are disconnected, at least temporarily, resulting in one or more invalid ECG waveforms.",
+            "identifier": "C120612",
+            "notation": "HOLTER LEAD FAIL",
+            "pref_label": "Holter Lead Fail by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120612"
+        },
+        {
+            "alt_label": "Idioventricular Rhythm",
+            "definition": "An electrocardiographic finding of three or more consecutive complexes of ventricular origin with a rate less than a certain threshold (100 or 120 beats per minute are commonly used). The QRS complexes are wide and have an abnormal morphology.",
+            "identifier": "C50599",
+            "notation": "IDIOVENTRICULAR RHYTHM",
+            "pref_label": "Idioventricular Rhythm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C50599"
+        },
+        {
+            "alt_label": "Incomplete left bundle branch block",
+            "definition": "An electrocardiographic finding of a wide QRS complex with evidence of delayed conduction to the left ventricle, manifest as a widened initial portion of the QRS complex in leads V5, V6, I and aVL and with QRS duration less than 120 ms.",
+            "identifier": "C71047",
+            "notation": "INCOMPLETE LEFT BUNDLE BRANCH BLOCK",
+            "pref_label": "Incomplete Left Bundle Branch Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71047"
+        },
+        {
+            "alt_label": "Incomplete right bundle branch block;Incomplete right bundle-branch block",
+            "definition": "An electrocardiographic finding of a wide QRS complex with evidence of delayed conduction to the right ventricle, manifest by a widened initial portion of the QRS in V1 and V2, a widened S wave in V5, V6, I and aVL, and with QRS duration less than 120 ms.",
+            "identifier": "C71048",
+            "notation": "INCOMPLETE RIGHT BUNDLE BRANCH BLOCK",
+            "pref_label": "Incomplete Right Bundle Branch Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71048"
+        },
+        {
+            "alt_label": "Indeterminate Axis;Indeterminate QRS Axis;QRS Axis Indeterminate",
+            "definition": "An electrocardiographic finding in which the frontal plane QRS axis cannot be calculated.",
+            "identifier": "C102701",
+            "notation": "INDETERMINATE QRS AXIS",
+            "pref_label": "QRS Axis Indeterminate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102701"
+        },
+        {
+            "alt_label": "Inferior MI;Inferior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads III, aVF and often II, which is suggestive of myocardial infarction of the inferior wall of the left ventricle.",
+            "identifier": "C35398",
+            "notation": "INFERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Inferior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C35398"
+        },
+        {
+            "alt_label": "Intraatrial Conduction Delay",
+            "definition": "An electrocardiographic finding of a delay in impulse propagation through the atria. This is characterized by broad P waves which are often biphasic in V1.",
+            "identifier": "C71073",
+            "notation": "INTRAATRIAL CONDUCTION DELAY",
+            "pref_label": "Intra-Atrial Conduction Delay by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71073"
+        },
+        {
+            "alt_label": "Intraventricular Conduction Defect;Intraventricular conduction delay",
+            "definition": "An electrocardiographic finding of a widened QRS duration typically greater than 110 ms which does not meet the morphologic criteria for any of the standard bundle branch or fascicular block patterns.",
+            "identifier": "C62271",
+            "notation": "INTRAVENTRICULAR CONDUCTION DELAY, NONSPECIFIC",
+            "pref_label": "Nonspecific Intraventricular Conduction Delay by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62271"
+        },
+        {
+            "alt_label": "Isorhythmic dissociation",
+            "definition": "An electrocardiographic finding of a type of atrioventricular dissociation characterized by the atria (P waves) and ventricles (QRS complexes) beating at similar rates, although independently.",
+            "identifier": "C62248",
+            "notation": "ISORHYTHMIC DISSOCIATION",
+            "pref_label": "Isorhythmic Atrioventricular Dissociation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62248"
+        },
+        {
+            "alt_label": "J point elevation",
+            "definition": "An electrocardiographic finding of a significant elevation above the baseline of the J point.",
+            "identifier": "C71030",
+            "notation": "J POINT ELEVATION",
+            "pref_label": "J Point Elevation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71030"
+        },
+        {
+            "alt_label": "Junctional bradycardia",
+            "definition": "An electrocardiographic finding of a junctional rhythm with a heart rate which is abnormally low.",
+            "identifier": "C71074",
+            "notation": "JUNCTIONAL BRADYCARDIA",
+            "pref_label": "Junctional Bradycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71074"
+        },
+        {
+            "alt_label": "Junctional Escape Beat;Junctional Escape Complex",
+            "definition": "An electrocardiographic finding of an escape beat following a pause which originates in the AV junction. This is manifest as a QRS complex of supraventricular origin not preceded by a P wave; there may be one or more occurrences during an electrocardiographic recording.",
+            "identifier": "C116129",
+            "notation": "JUNCTIONAL ESCAPE COMPLEXES",
+            "pref_label": "Junctional Escape Complexes by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C116129"
+        },
+        {
+            "definition": "An electrocardiographic finding of a junctional rhythm that arises as a physiologic response to extreme slowing or arrest of sinus node activity. In this setting, a faster junctional rhythm may be a normal response to a very slow or absent sinus rate.",
+            "identifier": "C135393",
+            "notation": "JUNCTIONAL ESCAPE RHYTHM",
+            "pref_label": "Junctional Escape Rhythm by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C135393"
+        },
+        {
+            "alt_label": "Junctional Extra Beat;Junctional Premature Complexes",
+            "definition": "An electrocardiographic finding of an ectopic impulse originating in the AV junction presenting as a QRS complex of supraventricular origin which is not preceded by a P wave; there may be one or more occurrences during an electrocardiographic recording.",
+            "identifier": "C102652",
+            "notation": "JUNCTIONAL PREMATURE COMPLEX",
+            "pref_label": "Junctional Premature Complex by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102652"
+        },
+        {
+            "alt_label": "Junctional rhythm",
+            "definition": "An electrocardiographic finding of a rhythm which originates in the AV junction and results in a normal heart rate. It is characterized by retrograde P waves which may be obscured by or may follow the QRS complexes. The QRS complexes may be narrow or may demonstrate aberration.",
+            "identifier": "C71051",
+            "notation": "JUNCTIONAL RHYTHM",
+            "pref_label": "Junctional Rhythm by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71051"
+        },
+        {
+            "alt_label": "Junctional tachycardia",
+            "definition": "An electrocardiographic finding of a junctional rhythm with a heart rate which is abnormally elevated.",
+            "identifier": "C35059",
+            "notation": "JUNCTIONAL TACHYCARDIA",
+            "pref_label": "Junctional Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C35059"
+        },
+        {
+            "alt_label": "Late R Wave Transition",
+            "definition": "An electrocardiographic finding where the amplitude of the R wave does not become greater than the amplitude of the S wave until an unusually late point in the precordial leads, usually in leads V4 to V6.",
+            "identifier": "C102653",
+            "notation": "LATE R WAVE TRANSITION",
+            "pref_label": "Late R Wave Transition by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102653"
+        },
+        {
+            "alt_label": "Lateral MI;Lateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V5, V6, I and aVL, which is suggestive of myocardial infarction of the lateral wall of the left ventricle.",
+            "identifier": "C35586",
+            "notation": "LATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Lateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C35586"
+        },
+        {
+            "alt_label": "Left anterior fascicular block;Left Anterior Hemiblock",
+            "definition": "An electrocardiographic finding of a slightly widened QRS duration (typically less than 120 ms) with leftward frontal plane QRS axis and typically small Q waves in leads I and aVL.",
+            "identifier": "C62267",
+            "notation": "LEFT ANTERIOR FASCICULAR BLOCK",
+            "pref_label": "Left Anterior Fascicular Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62267"
+        },
+        {
+            "alt_label": "Left Atrial Enlargement;P-mitrale",
+            "definition": "An electrocardiographic finding suggesting underlying hypertrophy or dilatation of the left atrium. Electrocardiographic criteria used for the diagnosis of left atrial abnormality may include a bifid p wave, a biphasic p wave and/or a p wave duration of greater than 0.12 seconds. (NCI)",
+            "identifier": "C71040",
+            "notation": "LEFT ATRIAL ABNORMALITY",
+            "pref_label": "P-mitrale by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71040"
+        },
+        {
+            "alt_label": "Complete LBBB;Left bundle branch block;Left bundle-branch block",
+            "definition": "An electrocardiographic finding of a wide QRS complex with evidence of delayed conduction to the left ventricle, manifest as a widened initial portion of the QRS complex in leads V5, V6, I and aVL and with QRS duration greater than or equal to 120 ms.",
+            "identifier": "C62269",
+            "notation": "LEFT BUNDLE BRANCH BLOCK",
+            "pref_label": "Left Bundle Branch Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62269"
+        },
+        {
+            "alt_label": "Left posterior fascicular block;Left Posterior Hemiblock",
+            "definition": "An electrocardiographic finding of an S1Q3 pattern and QRS axis greater than or equal to 120 degrees. It is usually seen in association with other abnormalities (e.g. RBBB or RVH).",
+            "identifier": "C62268",
+            "notation": "LEFT POSTERIOR FASCICULAR BLOCK",
+            "pref_label": "Left Posterior Fascicular Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62268"
+        },
+        {
+            "alt_label": "Left Ventricular Conduction Delay",
+            "definition": "An electrocardiographic finding in which there is evidence that electrical transmission through the left ventricle is impaired.",
+            "identifier": "C92231",
+            "notation": "LEFT VENTRICULAR CONDUCTION DELAY",
+            "pref_label": "Left Ventricular Conduction Delay by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C92231"
+        },
+        {
+            "alt_label": "Left Ventricular Hypertrophy With Strain",
+            "definition": "An electrocardiographic finding suggestive of a hypertrophied left ventricle, characterized by large QRS amplitudes, ST depression and T wave inversion.",
+            "identifier": "C102655",
+            "notation": "LEFT VENTRICULAR HYPERTROPHY WITH STRAIN",
+            "pref_label": "Left Ventricular Hypertrophy with Strain by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102655"
+        },
+        {
+            "alt_label": "Left Ventricular Hypertrophy",
+            "definition": "An electrocardiographic finding suggestive of a hypertrophied left ventricle, characterized by large QRS amplitudes and secondary findings of left atrial enlargement, left axis deviation, or typical pattern of ST depression and T wave inversion.",
+            "identifier": "C71076",
+            "notation": "LEFT VENTRICULAR HYPERTROPHY",
+            "pref_label": "Left Ventricular Hypertrophy by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71076"
+        },
+        {
+            "definition": "An electrocardiographic recording in which one or more of the limb electrodes are disconnected resulting in missing waveforms (often flat lines) of the respective leads.",
+            "identifier": "C114151",
+            "notation": "LIMB ELECTRODE(S) DISCONNECTED",
+            "pref_label": "Disconnected Limb Electrodes by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114151"
+        },
+        {
+            "alt_label": "Limb Lead Reversal",
+            "definition": "An electrocardiographic recording in which two or more of the limb electrodes are switched resulting in improper representation of the affected leads.",
+            "identifier": "C114150",
+            "notation": "LIMB ELECTRODES INTERCHANGED",
+            "pref_label": "Interchanged Limb Electrodes by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114150"
+        },
+        {
+            "alt_label": "Low Amplitude QRS Complex",
+            "definition": "An electrocardiographic recording showing smaller than usual QRS complexes in one or more leads. This may represent a technical issue with the ECG acquisition or characteristics of the individual.",
+            "identifier": "C114166",
+            "notation": "LOW AMPLITUDE SIGNAL",
+            "pref_label": "Low Amplitude QRS Complex by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114166"
+        },
+        {
+            "alt_label": "Low QRS voltage",
+            "definition": "An electrocardiographic finding of a QRS amplitude less than or equal to 0.5 mV in the limb leads or QRS amplitude less than or equal to 1 mV in the precordial leads.",
+            "identifier": "C71078",
+            "notation": "LOW QRS VOLTAGE",
+            "pref_label": "Low QRS Voltage by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71078"
+        },
+        {
+            "definition": "An electrocardiographic finding of small QRS amplitudes (less than 500 microvolts) in all limb leads.",
+            "identifier": "C116133",
+            "notation": "LOW VOLTAGE - LIMB LEADS ONLY",
+            "pref_label": "Low Voltage in Limb Leads Only by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C116133"
+        },
+        {
+            "definition": "An electrocardiographic finding of sinus bradycardia with a heart rate below a threshold of clinical concern. Note that different thresholds (for rate and/or duration) may apply to different patient populations.",
+            "identifier": "C120613",
+            "notation": "MARKED SINUS BRADYCARDIA",
+            "pref_label": "Marked Sinus Bradycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120613"
+        },
+        {
+            "alt_label": "Multifocal atrial tachycardia",
+            "definition": "An electrocardiographic finding of a supraventricular arrhythmia characterized by 3 or more distinct P wave morphologies with an isoelectric baseline, variable PR intervals and no predominant atrial rhythm. The ventricular rate is typically 100-150 beats per minute.",
+            "identifier": "C71050",
+            "notation": "MULTIFOCAL ATRIAL TACHYCARDIA",
+            "pref_label": "Multifocal Atrial Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71050"
+        },
+        {
+            "definition": "An electrocardiographic recording with intermittent mid to high frequency artifact in one or more leads due to muscular tremor or movement rather than cardiac activity.",
+            "identifier": "C114148",
+            "notation": "MUSCLE TREMOR",
+            "pref_label": "Muscle Tremor Artifact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114148"
+        },
+        {
+            "alt_label": "Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves, which is suggestive of myocardial infarction of one or more regions of the heart. No specification is provided for localization.",
+            "identifier": "C101589",
+            "notation": "MYOCARDIAL INFARCTION",
+            "pref_label": "Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C101589"
+        },
+        {
+            "alt_label": "New Anterior MI;New Anterior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V3 and V4, which is suggestive of myocardial infarction of the anterior wall of the left ventricle and which is new compared to prior ECGs.",
+            "identifier": "C102732",
+            "notation": "NEW ANTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "New Anterior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102732"
+        },
+        {
+            "alt_label": "New Anterolateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V3 through V6, which is suggestive of myocardial infarction of the anterolateral wall of the left ventricle and which is new compared to prior ECGs.",
+            "identifier": "C102733",
+            "notation": "NEW ANTEROLATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "New Anterolateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102733"
+        },
+        {
+            "alt_label": "New Anteroseptal Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V1 through V4, which is suggestive of myocardial infarction of the anteroseptal wall of the left ventricle and which is new compared to prior ECGs.",
+            "identifier": "C102734",
+            "notation": "NEW ANTEROSEPTAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "New Anteroseptal Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102734"
+        },
+        {
+            "alt_label": "New Extensive Anterior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V1 to V6, I and aVL, which is suggestive of myocardial infarction involving the anterior and anterolateral walls of the left ventricle and which is new compared to prior ECGs.",
+            "identifier": "C102735",
+            "notation": "NEW EXTENSIVE ANTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "New Extensive Anterior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102735"
+        },
+        {
+            "alt_label": "New High Lateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads I and aVL, which is suggestive of myocardial infarction of the high lateral wall of the left ventricle and which is new compared to prior ECGs.",
+            "identifier": "C102736",
+            "notation": "NEW HIGH LATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "New High Lateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102736"
+        },
+        {
+            "alt_label": "New Inferior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads III, aVF and often II, which is suggestive of myocardial infarction of the inferior wall of the left ventricle and which is new compared to prior ECGs.",
+            "identifier": "C102737",
+            "notation": "NEW INFERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "New Inferior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102737"
+        },
+        {
+            "alt_label": "New Lateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V5, V6, I and aVL, which is suggestive of myocardial infarction of the lateral wall of the left ventricle and which is new compared to prior ECGs.",
+            "identifier": "C102738",
+            "notation": "NEW LATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "New Lateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102738"
+        },
+        {
+            "alt_label": "New Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves, which is suggestive of myocardial infarction of one or more regions of the heart and which is new compared to prior ECGs. No specification is provided for localization.",
+            "identifier": "C102731",
+            "notation": "NEW MYOCARDIAL INFARCTION",
+            "pref_label": "New Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102731"
+        },
+        {
+            "definition": "An electrocardiographic finding in leads V1 or V2 of an initial R wave duration greater than or equal to 40 ms, R wave greater than S wave, and upright T wave, which is suggestive of myocardial infarction of the posterior wall of the left ventricle, and which is new compared to prior ECGs. Evidence of inferior or lateral myocardial infarction is usually also present.",
+            "identifier": "C106548",
+            "notation": "NEW POSTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "New Posterior Wall Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C106548"
+        },
+        {
+            "alt_label": "New Septal Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V1, V2 and often V3, which is suggestive of myocardial infarction of the intraventricular septum and which is new compared to prior ECGs.",
+            "identifier": "C102739",
+            "notation": "NEW SEPTAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "New Septal Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102739"
+        },
+        {
+            "definition": "An electrocardiographic recording that displays flat lines (no waveforms are visible) in all leads present.",
+            "identifier": "C114163",
+            "notation": "NO ECG WAVEFORMS PRESENT",
+            "pref_label": "ECG Waveforms Not Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114163"
+        },
+        {
+            "alt_label": "Non Q Wave Myocardial Infarction",
+            "definition": "An electrocardiographic finding of ST and T wave abnormalities in the absence of pathologic Q waves, which is suggestive of myocardial infarction in one or more regions of the heart.",
+            "identifier": "C71080",
+            "notation": "NON Q WAVE MYOCARDIAL INFARCTION",
+            "pref_label": "Non Q Wave Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71080"
+        },
+        {
+            "definition": "An electrocardiographic finding of Q waves which are insufficient for the diagnosis of myocardial infarction. In such cases a myocardial infarction may be suspected, even though ECG criteria are not met.",
+            "identifier": "C116134",
+            "notation": "NON-DIAGNOSTIC Q WAVES",
+            "pref_label": "Non-Diagnostic Q Waves by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C116134"
+        },
+        {
+            "alt_label": "Non-specific ST-T changes",
+            "definition": "An electrocardiographic finding of changes in the ST segment and T wave that do not meet criteria for ischemia or infarction. (NCI)",
+            "identifier": "C71031",
+            "notation": "NON-SPECIFIC ST-T CHANGES",
+            "pref_label": "Non-Specific ST-T Changes by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71031"
+        },
+        {
+            "alt_label": "Non-Sustained Atrial Tachycardia",
+            "definition": "An electrocardiographic finding of an atrial tachycardia which terminates in less than 30 seconds.",
+            "identifier": "C102680",
+            "notation": "NON-SUSTAINED ATRIAL TACHYCARDIA",
+            "pref_label": "Non-Sustained Atrial Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102680"
+        },
+        {
+            "alt_label": "Non-sustained ventricular tachycardia;Ventricular tachycardia, unsustained",
+            "definition": "An electrocardiographic finding of ventricular tachycardia less than 30 seconds in duration. (NCI)",
+            "identifier": "C71053",
+            "notation": "NON-SUSTAINED VENTRICULAR TACHYCARDIA",
+            "pref_label": "Non-Sustained Ventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71053"
+        },
+        {
+            "definition": "An electrocardiographic finding of a P wave that does not conduct to the ventricle or result in ventricular activation.",
+            "identifier": "C135394",
+            "notation": "NONCONDUCTED P WAVE PHYSIOLOGY NOT DEFINED",
+            "pref_label": "Nonconducted P Wave Physiology Not Defined by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C135394"
+        },
+        {
+            "definition": "An electrocardiographic finding of a supraventricular tachycardia with duration shorter than 30 seconds (though other duration thresholds may be applied).",
+            "identifier": "C120614",
+            "notation": "NONSUSTAINED SUPRAVENTRICULAR TACHYCARDIA",
+            "pref_label": "Nonsustained Supraventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120614"
+        },
+        {
+            "alt_label": "Normal Sinus Rhythm",
+            "definition": "An electrocardiographic finding of an atrial rhythm which originates from the sinoatrial node that is considered normal for the population. There are no extra beats or conduction abnormalities.",
+            "identifier": "C102681",
+            "notation": "NORMAL SINUS RHYTHM",
+            "pref_label": "Normal Sinus Rhythm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102681"
+        },
+        {
+            "alt_label": "Northwest Axis;Right superior axis",
+            "definition": "An electrocardiographic finding of a frontal plane QRS axis from -90 to +180 degrees.",
+            "identifier": "C102634",
+            "notation": "NORTHWEST AXIS",
+            "pref_label": "Extreme Right Axis Deviation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102634"
+        },
+        {
+            "alt_label": "Notched T Waves",
+            "definition": "An electrocardiographic finding of an irregular, u or v shaped deflection within the contour of the T wave.",
+            "identifier": "C71032",
+            "notation": "NOTCHED T WAVES",
+            "pref_label": "T Wave Notched by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71032"
+        },
+        {
+            "alt_label": "Old Or Age Indeterminate Anterior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V3 and V4, which is suggestive of myocardial infarction of the anterior wall of the left ventricle, without evidence of current or ongoing acute infarction.",
+            "identifier": "C102684",
+            "notation": "OLD OR AGE INDETERMINATE ANTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Old or Age Indeterminate Anterior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102684"
+        },
+        {
+            "alt_label": "Old Or Age Indeterminate Anterolateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V3 through V6, which is suggestive of myocardial infarction of the anterolateral wall of the left ventricle, without evidence of current or ongoing acute infarction.",
+            "identifier": "C102685",
+            "notation": "OLD OR AGE INDETERMINATE ANTEROLATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Old or Age Indeterminate Anterolateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102685"
+        },
+        {
+            "alt_label": "Old Or Age Indeterminate Anteroseptal Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V1 through V4, which is suggestive of myocardial infarction of the anteroseptal wall of the left ventricle, without evidence of current or ongoing acute infarction.",
+            "identifier": "C102686",
+            "notation": "OLD OR AGE INDETERMINATE ANTEROSEPTAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Old or Age Indeterminate Anteroseptal Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102686"
+        },
+        {
+            "alt_label": "Old Or Age Indeterminate Extensive Anterior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V1 to V6, I and aVL, which is suggestive of myocardial infarction involving the anterior and anterolateral walls of the left ventricle, without evidence of current or ongoing acute infarction.",
+            "identifier": "C102687",
+            "notation": "OLD OR AGE INDETERMINATE EXTENSIVE ANTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Old or Age Indeterminate Extensive Anterior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102687"
+        },
+        {
+            "alt_label": "Old Or Age Indeterminate High Lateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads I and aVL, which is suggestive of myocardial infarction of the high lateral wall of the left ventricle, without evidence of current or ongoing acute infarction.",
+            "identifier": "C102688",
+            "notation": "OLD OR AGE INDETERMINATE HIGH LATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Old or Age Indeterminate High Lateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102688"
+        },
+        {
+            "alt_label": "Old Or Age Indeterminate Inferior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads III, aVF and often II, which is suggestive of myocardial infarction of the inferior wall of the left ventricle, without evidence of current or ongoing acute infarction.",
+            "identifier": "C102689",
+            "notation": "OLD OR AGE INDETERMINATE INFERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Old or Age Indeterminate Inferior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102689"
+        },
+        {
+            "alt_label": "Old Or Age Indeterminate Lateral Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V5, V6, I and aVL, which is suggestive of myocardial infarction of the lateral wall of the left ventricle, without evidence of current or ongoing acute infarction.",
+            "identifier": "C102690",
+            "notation": "OLD OR AGE INDETERMINATE LATERAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Old or Age Indeterminate Lateral Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102690"
+        },
+        {
+            "alt_label": "Old Or Age Indeterminate Posterior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding in leads V1 or V2 of an initial R wave duration greater than or equal to 40 ms, R wave greater than S wave, and upright T wave, which is suggestive of myocardial infarction of the posterior wall of the left ventricle, without evidence of current or ongoing acute infarction. Evidence of inferior or lateral myocardial infarction is usually also present.",
+            "identifier": "C102691",
+            "notation": "OLD OR AGE INDETERMINATE POSTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Old or Age Indeterminate Posterior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102691"
+        },
+        {
+            "alt_label": "Old Or Age Indeterminate Septal Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves in leads V1, V2 and often V3, which is suggestive of myocardial infarction of the intraventricular septum, without evidence of current or ongoing acute infarction.",
+            "identifier": "C102693",
+            "notation": "OLD OR AGE INDETERMINATE SEPTAL WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Old or Age Indeterminate Septal Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102693"
+        },
+        {
+            "alt_label": "Old Or Age Indeterminate Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding of pathologic Q waves, which is suggestive of myocardial infarction of one or more regions of the heart, without evidence of current or ongoing acute infarction. No specification is provided for localization.",
+            "identifier": "C101597",
+            "notation": "OLD OR AGE INDETERMINATE WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Old Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C101597"
+        },
+        {
+            "definition": "An electrocardiographic finding, in the presence of an old or age indeterminate inferior wall myocardial infarction, of Q waves greater than or equal to 40 ms in duration in the right ventricular leads V4R through V6R.",
+            "identifier": "C102692",
+            "notation": "OLD OR AGE UNDETERMINED RIGHT VENTRICULAR MYOCARDIAL INFARCTION",
+            "pref_label": "Old or Age Indeterminate Right Ventricular Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102692"
+        },
+        {
+            "definition": "An electrocardiographic recording in which one or more electrodes are incorrectly placed but further details are not provided.",
+            "identifier": "C114176",
+            "notation": "OTHER INCORRECT ELECTRODE PLACEMENT",
+            "pref_label": "Other Incorrect Electrode Placement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114176"
+        },
+        {
+            "alt_label": "P Wave Abnormality",
+            "definition": "An electrocardiographic finding for the P wave that is atypical either for the shape, duration, amplitude, axis or polarity. Abnormality of the P wave signifies aberrant propagation of the electrical impulse through the atria. (NCI)",
+            "identifier": "C90430",
+            "notation": "P WAVE ABNORMALITY",
+            "pref_label": "P Wave Abnormality by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C90430"
+        },
+        {
+            "alt_label": "P Wave Notched",
+            "definition": "An electrocardiographic finding of P waves with two peaks longer in duration than normal and amplitude greater than normal.",
+            "identifier": "C90431",
+            "notation": "P WAVE NOTCHED",
+            "pref_label": "P Wave Notched by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C90431"
+        },
+        {
+            "alt_label": "AV dual-paced complex(es) or rhythm;Paced Atrial And Ventricular Rhythm",
+            "definition": "An electrocardiographic finding in which both the atrial and ventricular rhythm are controlled by an electrical impulse from an artificial cardiac pacemaker.",
+            "identifier": "C92232",
+            "notation": "PACED ATRIAL AND VENTRICULAR RHYTHM",
+            "pref_label": "Paced Atrial And Ventricular Rhythm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C92232"
+        },
+        {
+            "alt_label": "Atrial-paced complex(es) or rhythm;Paced Atrial Rhythm",
+            "definition": "An electrocardiographic finding in which the atrial rhythm is controlled by an electrical impulse from an artificial cardiac pacemaker.",
+            "identifier": "C92233",
+            "notation": "PACED ATRIAL RHYTHM",
+            "pref_label": "Paced Atrial Rhythm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C92233"
+        },
+        {
+            "alt_label": "Atrial and/or Ventricular Paced Rhythm;Paced Rhythm",
+            "definition": "An electrocardiographic finding in which the cardiac rhythm is controlled by an electrical impulse from an artificial cardiac pacemaker.",
+            "identifier": "C88140",
+            "notation": "PACED RHYTHM",
+            "pref_label": "Paced Rhythm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C88140"
+        },
+        {
+            "alt_label": "Paced Ventricular Rhythm;Ventricular-paced complex(es) or rhythm",
+            "definition": "An electrocardiographic finding in which the ventricular rhythm is controlled by an electrical impulse from an artificial cardiac pacemaker.",
+            "identifier": "C92234",
+            "notation": "PACED VENTRICULAR RHYTHM",
+            "pref_label": "Paced Ventricular Rhythm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C92234"
+        },
+        {
+            "definition": "An electrocardiographic finding of atrial fibrillation which occurs intermittently during the recording. Other rhythms which may be present are sinus rhythm, junctional rhythm, or an atrial paced rhythm.",
+            "identifier": "C120615",
+            "notation": "PAROXYSMAL ATRIAL FIBRILLATION",
+            "pref_label": "Paroxysmal Atrial Fibrillation by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120615"
+        },
+        {
+            "alt_label": "Paroxysmal AV block",
+            "definition": "An electrocardiographic finding of the sudden onset of transient AV block, which is often associated with preexisting conduction disorders.",
+            "identifier": "C62250",
+            "notation": "PAROXYSMAL AV BLOCK",
+            "pref_label": "Paroxysmal Atrioventricular Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62250"
+        },
+        {
+            "alt_label": "Paroxysmal Ventricular Tachycardia",
+            "definition": "An episodic form of ventricular tachycardia, with abrupt onset and termination. (NCI)",
+            "identifier": "C34902",
+            "notation": "PAROXYSMAL VENTRICULAR TACHYCARDIA",
+            "pref_label": "Paroxysmal Ventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C34902"
+        },
+        {
+            "definition": "An electrocardiographic finding of an RR interval with duration greater than 3.0 seconds, regardless of the underlying rhythm.",
+            "identifier": "C119251",
+            "notation": "PAUSE GREATER THAN 3.0 SECONDS",
+            "pref_label": "Pause Greater Than Three Seconds by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C119251"
+        },
+        {
+            "definition": "An electrocardiographic finding of an RR interval which exceeds a predefined duration threshold, regardless of the underlying rhythm.",
+            "identifier": "C119250",
+            "notation": "PAUSE",
+            "pref_label": "Pause by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C119250"
+        },
+        {
+            "definition": "An electrocardiographic finding of atrial fibrillation which is present during the entire recording.",
+            "identifier": "C120616",
+            "notation": "PERSISTENT ATRIAL FIBRILLATION",
+            "pref_label": "Persistent Atrial Fibrillation by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120616"
+        },
+        {
+            "definition": "An electrocardiographic recording that does not show proper quality for reasons that are not otherwise described.",
+            "identifier": "C114172",
+            "notation": "POOR QUALITY ECG",
+            "pref_label": "Poor Quality ECG",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114172"
+        },
+        {
+            "alt_label": "Poor R Wave Progression",
+            "definition": "An electrocardiographic finding of a lack of progression of R wave height across precordial leads.",
+            "identifier": "C71033",
+            "notation": "POOR R WAVE PROGRESSION",
+            "pref_label": "Poor R Wave Progression by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71033"
+        },
+        {
+            "alt_label": "Posterior MI;Posterior Wall Myocardial Infarction",
+            "definition": "An electrocardiographic finding in leads V1 or V2 of an initial R wave duration greater than or equal to 40 ms, R wave greater than S wave, and upright T wave, which is suggestive of myocardial infarction of the posterior wall of the left ventricle. Evidence of inferior or lateral myocardial infarction is usually also present.",
+            "identifier": "C35399",
+            "notation": "POSTERIOR WALL MYOCARDIAL INFARCTION",
+            "pref_label": "Posterior Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C35399"
+        },
+        {
+            "alt_label": "PR Depression",
+            "definition": "An electrocardiographic finding of PR segment depression below the iso-electric line in multiple precordial and/or limb leads.",
+            "identifier": "C116135",
+            "notation": "PR SEGMENT DEPRESSION",
+            "pref_label": "PR Segment Depression by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C116135"
+        },
+        {
+            "alt_label": "Pre-excitation;Ventricular preexcitation",
+            "definition": "An electrocardiographic finding characterized by a premature activation of the whole or some part of the ventricle. The PR interval is usually shortened and delta waves are frequently present.",
+            "identifier": "C34940",
+            "notation": "PRE-EXCITATION",
+            "pref_label": "Pre-Excitation Syndrome",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C34940"
+        },
+        {
+            "definition": "An electrocardiographic recording in which the electrode for lead V1 is disconnected resulting in missing waveforms (flat line) for lead V1.",
+            "identifier": "C114153",
+            "notation": "PRECORDIAL ELECTRODE V1 DISCONNECTED",
+            "pref_label": "Disconnected Precordial Electrode V1 by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114153"
+        },
+        {
+            "definition": "An electrocardiographic recording in which the electrode for lead V2 is disconnected resulting in missing waveforms (flat line) for lead V2.",
+            "identifier": "C114154",
+            "notation": "PRECORDIAL ELECTRODE V2 DISCONNECTED",
+            "pref_label": "Disconnected Precordial Electrode V2 by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114154"
+        },
+        {
+            "definition": "An electrocardiographic recording in which the electrode for lead V3 is disconnected resulting in missing waveforms (flat line) for lead V3.",
+            "identifier": "C114155",
+            "notation": "PRECORDIAL ELECTRODE V3 DISCONNECTED",
+            "pref_label": "Disconnected Precordial Electrode V3 by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114155"
+        },
+        {
+            "definition": "An electrocardiographic recording in which the electrode for lead V4 is disconnected resulting in missing waveforms (flat line) for lead V4.",
+            "identifier": "C114156",
+            "notation": "PRECORDIAL ELECTRODE V4 DISCONNECTED",
+            "pref_label": "Disconnected Precordial Electrode V4 by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114156"
+        },
+        {
+            "definition": "An electrocardiographic recording in which the electrode for lead V5 is disconnected resulting in missing waveforms (flat line) for lead V5.",
+            "identifier": "C114157",
+            "notation": "PRECORDIAL ELECTRODE V5 DISCONNECTED",
+            "pref_label": "Disconnected Precordial Electrode V5 by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114157"
+        },
+        {
+            "definition": "An electrocardiographic recording in which the electrode for lead V6 is disconnected resulting in missing waveforms (flat line) for lead V6.",
+            "identifier": "C114158",
+            "notation": "PRECORDIAL ELECTRODE V6 DISCONNECTED",
+            "pref_label": "Disconnected Precordial Electrode V6 by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114158"
+        },
+        {
+            "definition": "An electrocardiographic recording in which one or more precordial electrodes are placed incorrectly with respect to the standard chest electrode positions resulting in improper representation of the affected leads.",
+            "identifier": "C114160",
+            "notation": "PRECORDIAL ELECTRODE(S) POSITIONED INCORRECTLY",
+            "pref_label": "Incorrectly Positioned Precordial Electrodes by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114160"
+        },
+        {
+            "alt_label": "Precordial Lead Reversal",
+            "definition": "An electrocardiographic recording in which two or more of the precordial electrodes are switched resulting in improper representation of the affected leads.",
+            "identifier": "C114152",
+            "notation": "PRECORDIAL ELECTRODES INTERCHANGED",
+            "pref_label": "Interchanged Precordial Electrodes by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114152"
+        },
+        {
+            "alt_label": "Atrial premature complexes, nonconducted;Non-conducted SVE;Premature Atrial Complex Blocked;Premature Atrial Complexes Non-conducted",
+            "definition": "An electrocardiographic finding of a premature atrial complexes that are is not conducted to the ventricles, and that are is not followed by a QRS complex; there may be one or more occurrences during an electrocardiographic recording.",
+            "identifier": "C102603",
+            "notation": "PREMATURE ATRIAL COMPLEXES BLOCKED",
+            "pref_label": "Blocked Atrial Premature Complex by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102603"
+        },
+        {
+            "alt_label": "Multifocal Supraventricular Extra Beats;Multifocal SVE;Premature Atrial Complex Multifocal;Premature Atrial Complexes Multiform",
+            "definition": "An electrocardiographic finding of premature atrial complexes which have 2 or more distinct morphologies, suggesting origin at more than one atrial site.",
+            "identifier": "C102672",
+            "notation": "PREMATURE ATRIAL COMPLEXES MULTIFOCAL",
+            "pref_label": "Multifocal Atrial Premature Complex by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102672"
+        },
+        {
+            "alt_label": "Premature Atrial Complex Unifocal",
+            "definition": "An electrocardiographic finding of premature atrial complexes which have a single distinct morphology, suggesting origin at one atrial site.",
+            "identifier": "C102724",
+            "notation": "PREMATURE ATRIAL COMPLEXES UNIFOCAL",
+            "pref_label": "Unifocal Atrial Premature Complex by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102724"
+        },
+        {
+            "alt_label": "APC;Atrial premature complex(es);PAC;Premature atrial complex;Supraventricular Extra Beat;Supraventricular Premature Beat;SVE",
+            "definition": "An electrocardiographic finding of an ectopic impulse originating in the atria and not specifically in the sinus node. The P wave morphology of these complexes is often different from a sinus P wave and the RR intervals preceding these complexes is also shorter than those of the regular beats; there may be one or more occurrences during an electrocardiographic recording.",
+            "identifier": "C62257",
+            "notation": "PREMATURE ATRIAL COMPLEXES",
+            "pref_label": "Atrial Premature Complex by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62257"
+        },
+        {
+            "alt_label": "Interpolated VE;Interpolated Ventricular Extra Beat;Interpolated VES;Interpolated VPC;Premature Ventricular Complexes Interpolated",
+            "definition": "An electrocardiographic finding of a premature ventricular complex which occurs between two normal QRS complexes which have normal timing; there may be one or more occurrences during an electrocardiographic recording.",
+            "identifier": "C107100",
+            "notation": "PREMATURE VENTRICULAR COMPLEX INTERPOLATED",
+            "pref_label": "Interpolated Premature Ventricular Complex by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C107100"
+        },
+        {
+            "alt_label": "Premature Ventricular Complexes;PVC;VE;Ventricular Extra Beat;Ventricular Premature Complexes;VES;VPC",
+            "definition": "An electrocardiographic finding of an ectopic impulse originating in the ventricles. The QRS morphology of these complexes is different from those of supraventricular origin. The QRS duration is often longer and the RR interval preceding the complexes is usually shorter than that of supraventricular beats; there may be one or more occurrences during an electrocardiographic recording.",
+            "identifier": "C62256",
+            "notation": "PREMATURE VENTRICULAR COMPLEX",
+            "pref_label": "Ventricular Premature Complex by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62256"
+        },
+        {
+            "alt_label": "Multifocal Ventricular Extra Beats;Multifocal VES;Multifocal VPCS;Premature Ventricular Complex Multifocal",
+            "definition": "An electrocardiographic finding of premature ventricular complexes which have two or more distinct morphologies, suggesting origin at more than one ventricular site.",
+            "identifier": "C102673",
+            "notation": "PREMATURE VENTRICULAR COMPLEXES MULTIFOCAL",
+            "pref_label": "Multifocal Ventricular Premature Complex by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102673"
+        },
+        {
+            "alt_label": "Premature Ventricular Complex Unifocal;Unifocal Ventricular Extra Beats;Unifocal VES;Unifocal VPCS",
+            "definition": "An electrocardiographic finding of premature ventricular complexes which have a single distinct morphology, suggesting origin at one ventricular site.",
+            "identifier": "C102725",
+            "notation": "PREMATURE VENTRICULAR COMPLEXES UNIFOCAL",
+            "pref_label": "Unifocal Ventricular Premature Complex by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102725"
+        },
+        {
+            "alt_label": "Prolonged QT;Prolonged QT interval",
+            "definition": "An electrocardiographic finding in which the QT interval not corrected for heart rate is prolonged. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C71034",
+            "notation": "PROLONGED QT",
+            "pref_label": "Prolonged QT Interval by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71034"
+        },
+        {
+            "definition": "An electrocardiographic finding of a prolonged ST segment, resulting in a long QT interval, without lengthening of the T wave duration.",
+            "identifier": "C116137",
+            "notation": "PROLONGED ST SEGMENT",
+            "pref_label": "Prolonged ST Segment by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C116137"
+        },
+        {
+            "alt_label": "Left-axis deviation;Q Axis, Left axis deviation;QRS axis, left axis deviation",
+            "definition": "An electrocardiographic finding of a frontal plane QRS axis from -30 to -90 degrees.",
+            "identifier": "C71094",
+            "notation": "Q AXIS, LEFT AXIS DEVIATION",
+            "pref_label": "Q Axis Left Axis Deviation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71094"
+        },
+        {
+            "alt_label": "Q Axis, Right axis deviation;QRS axis, right axis deviation;Right-axis deviation",
+            "definition": "An electrocardiographic finding of a frontal plane QRS axis from +90 to +180 degrees.",
+            "identifier": "C71095",
+            "notation": "Q AXIS, RIGHT AXIS DEVIATION",
+            "pref_label": "Q Axis Right Axis Deviation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71095"
+        },
+        {
+            "alt_label": "QRS Complex Abnormality",
+            "definition": "An electrocardiographic finding of a non-specific abnormality of the QRS complex, which is atypical in shape, duration, amplitude, axis or polarity.",
+            "identifier": "C90440",
+            "notation": "QRS COMPLEX ABNORMALITY",
+            "pref_label": "QRS Complex Abnormality by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C90440"
+        },
+        {
+            "alt_label": "QTc Prolongation",
+            "definition": "An electrocardiographic finding in which the QTc interval corrected for heart rate is prolonged. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C83817",
+            "notation": "QTC PROLONGATION",
+            "pref_label": "Corrected Prolonged QT Interval by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C83817"
+        },
+        {
+            "alt_label": "PROLONGED QTcB",
+            "definition": "An electrocardiographic finding in which the QT interval corrected for heart rate using Bazett's formula is prolonged. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C107098",
+            "notation": "QTCB PROLONGATION",
+            "pref_label": "QTcB Prolongation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C107098"
+        },
+        {
+            "alt_label": "PROLONGED QTcF",
+            "definition": "An electrocardiographic finding in which the QT interval corrected for heart rate using Fridericia's formula is prolonged. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C107099",
+            "notation": "QTCF PROLONGATION",
+            "pref_label": "QTcF Prolongation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C107099"
+        },
+        {
+            "alt_label": "Unknown Quality Problem",
+            "definition": "An electrocardiographic artifact or recording error with unknown origin or which is not described otherwise.",
+            "identifier": "C114161",
+            "notation": "QUALITY PROBLEM NOT OTHERWISE SPECIFIED",
+            "pref_label": "Quality Problem Not Otherwise Specified by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114161"
+        },
+        {
+            "alt_label": "R on T phenomenon",
+            "definition": "An electrocardiographic finding in which the R wave of a premature ventricular complex occurs on top of the T wave of the preceding beat.",
+            "identifier": "C61395",
+            "notation": "R ON T PHENOMENON",
+            "pref_label": "R On T Phenomenon by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C61395"
+        },
+        {
+            "alt_label": "R Wave Notched",
+            "definition": "An electrocardiographic finding of an R wave variant in which there is a small deflection of the R wave, with changing polarity, within the QRS complex. (NCI)",
+            "identifier": "C90444",
+            "notation": "R WAVE NOTCHED",
+            "pref_label": "R Wave Notched by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C90444"
+        },
+        {
+            "alt_label": "Repolarization Abnormality Secondary To Ventricular Hypertrophy;ST-T change due to ventricular hypertrophy",
+            "definition": "An electrocardiographic finding of ST depression and T wave inversion in the presence of increased QRS amplitude which are thought to be due to left ventricular hypertrophy.",
+            "identifier": "C102706",
+            "notation": "REPOLARIZATION ABNORMALITY SECONDARY TO VENTRICULAR HYPERTROPHY",
+            "pref_label": "Repolarization Abnormality Secondary To Ventricular Hypertrophy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102706"
+        },
+        {
+            "alt_label": "Repolarization Abnormality",
+            "definition": "An electrocardiographic finding of an abnormality of T wave duration or morphology or of early repolarization.",
+            "identifier": "C102574",
+            "notation": "REPOLARIZATION ABNORMALITY",
+            "pref_label": "Ventricular Repolarization Abnormality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102574"
+        },
+        {
+            "alt_label": "P-pulmonale;Right Atrial Enlargement",
+            "definition": "An electrocardiographic finding suggesting underlying hypertrophy or dilatation of the right atrium. Electrocardiographic criteria used for the diagnosis of right atrial abnormality may include a peaked p wave greater than 2.5 millimeters in amplitude in the inferior leads. (NCI)",
+            "identifier": "C71041",
+            "notation": "RIGHT ATRIAL ABNORMALITY",
+            "pref_label": "P-pulmonale by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71041"
+        },
+        {
+            "alt_label": "Complete RBBB;Right bundle branch block;Right bundle-branch block",
+            "definition": "An electrocardiographic finding of a wide QRS complex with evidence of delayed conduction to the right ventricle, manifest by a widened initial portion of the QRS in V1 and V2, a widened S wave in V5, V6, I and aVL, and with QRS duration greater than or equal to 120 ms. An RsR' complex is typically present in leads V1 and V2.",
+            "identifier": "C62270",
+            "notation": "RIGHT BUNDLE BRANCH BLOCK",
+            "pref_label": "Right Bundle Branch Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62270"
+        },
+        {
+            "alt_label": "Right Ventricular Conduction Delay;Right Ventricular Delay",
+            "definition": "An electrocardiographic finding in which there is evidence that electrical transmission through the right ventricle is impaired with a maximal QRS duration of 110 ms and which does not meet the criteria for Incomplete Right Bundle Branch Block.",
+            "identifier": "C92235",
+            "notation": "RIGHT VENTRICULAR CONDUCTION DELAY",
+            "pref_label": "Right Ventricular Conduction Delay by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C92235"
+        },
+        {
+            "alt_label": "Right ventricular Hypertrophy",
+            "definition": "An electrocardiographic finding suggestive of a hypertrophied right ventricle, characterized by large R wave amplitudes in the right precordial leads and secondary findings of right atrial enlargement, right axis deviation, and typical pattern of ST depression and T wave inversion in the right precordial leads.",
+            "identifier": "C71077",
+            "notation": "RIGHT VENTRICULAR HYPERTROPHY",
+            "pref_label": "Right Ventricular Hypertrophy by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71077"
+        },
+        {
+            "alt_label": "RSR'",
+            "definition": "An electrocardiographic finding in which there are two R waves, which are two deflections above the baseline resulting from a single ventricular depolarization. The first upward deflection in the complex is the R wave. The S is the first downward deflection. A second upward deflection is called the R-prime wave.",
+            "identifier": "C92227",
+            "notation": "RSR PRIME",
+            "pref_label": "RSR' by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C92227"
+        },
+        {
+            "alt_label": "Septal myocardial infarction",
+            "definition": "An electrocardiographic finding suggesting an infarction in the anatomic location of the cardiac septum. (NCI)",
+            "identifier": "C35519",
+            "notation": "SEPTAL MYOCARDIAL INFARCTION",
+            "pref_label": "Septal Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C35519"
+        },
+        {
+            "alt_label": "Short PR interval",
+            "definition": "An electrocardiographic finding of an abnormally short PR interval. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C62246",
+            "notation": "SHORT PR INTERVAL",
+            "pref_label": "Short PR Interval by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62246"
+        },
+        {
+            "alt_label": "Short QTc Interval",
+            "definition": "An electrocardiographic finding of a QT interval corrected for heart rate that is shorter than the lower limit of normal. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C102709",
+            "notation": "SHORT QTC INTERVAL",
+            "pref_label": "Short QTc Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102709"
+        },
+        {
+            "definition": "An electrocardiographic finding in which the QT interval corrected for heart rate using Bazett's formula is shortened. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C112402",
+            "notation": "SHORT QTCB",
+            "pref_label": "QTcB Shortened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C112402"
+        },
+        {
+            "definition": "An electrocardiographic finding in which the QT interval corrected for heart rate using Fridericia's formula is shortened. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C112403",
+            "notation": "SHORT QTCF",
+            "pref_label": "QTcF Shortened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C112403"
+        },
+        {
+            "definition": "An electrocardiographic finding of a short or absent ST segment, resulting in a short QT interval, without changes in T wave morphology.",
+            "identifier": "C116136",
+            "notation": "SHORT ST SEGMENT",
+            "pref_label": "Short ST Segment by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C116136"
+        },
+        {
+            "alt_label": "SA Block;Sinoatrial Block;Sinoatrial exit block",
+            "definition": "An electrocardiographic finding in which impaired conduction or automaticity within the sinus node results in the failure of impulse transmission from the sinoatrial node. This is manifest as dropped P waves during sinus rhythm.",
+            "identifier": "C50553",
+            "notation": "SINOATRIAL EXIT BLOCK",
+            "pref_label": "Exit Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C50553"
+        },
+        {
+            "alt_label": "Sinus arrest/pause;Sinus pause or arrest",
+            "definition": "An electrocardiographic finding in which a failure of impulse formation or conduction in the sinus node produces prolongation of the P-P interval or dropped P waves. The threshold for the prolongation of the P-P interval is not well defined.",
+            "identifier": "C62242",
+            "notation": "SINUS ARREST/PAUSE",
+            "pref_label": "Sinus Arrest by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62242"
+        },
+        {
+            "alt_label": "Respiratory Sinus Arrhythmia;Sinus arrhythmia",
+            "definition": "An electrocardiographic finding in which the sinus rate fluctuates with the respiratory cycle.",
+            "identifier": "C62239",
+            "notation": "SINUS ARRHYTHMIA",
+            "pref_label": "Sinus Arrhythmia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62239"
+        },
+        {
+            "alt_label": "Sinus bradycardia",
+            "definition": "An electrocardiographic finding of abnormally slow heart rate with its origin in the sinus node. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C111097",
+            "notation": "SINUS BRADYCARDIA",
+            "pref_label": "Sinus Bradycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111097"
+        },
+        {
+            "alt_label": "Sinus Rhythm",
+            "definition": "An electrocardiographic finding of an atrial rhythm which originates from the sinoatrial node that is considered normal for the population.",
+            "identifier": "C100076",
+            "notation": "SINUS RHYTHM",
+            "pref_label": "Sinus Rhythm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C100076"
+        },
+        {
+            "definition": "An electrocardiographic finding in which slowing of the sinus rate and AV block occur simultaneously.",
+            "identifier": "C120617",
+            "notation": "SINUS SLOWING WITH AV BLOCK",
+            "pref_label": "Sinus Slowing With AV Block by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120617"
+        },
+        {
+            "alt_label": "Sinus tachycardia",
+            "definition": "An electrocardiographic finding of abnormally rapid heart rate with its origin in the sinus node. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C111104",
+            "notation": "SINUS TACHYCARDIA",
+            "pref_label": "Sinus Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111104"
+        },
+        {
+            "alt_label": "ST depression",
+            "definition": "An electrocardiographic finding of ST segment depression below the baseline, often described as up sloping, down sloping or horizontal. (NCI)",
+            "identifier": "C41330",
+            "notation": "ST DEPRESSION",
+            "pref_label": "ST Segment Depression by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C41330"
+        },
+        {
+            "alt_label": "ST elevation pericarditis",
+            "definition": "An electrocardiographic finding of ST elevation which is concave upwards, and which is often accompanied by PR segment depression.",
+            "identifier": "C71029",
+            "notation": "ST ELEVATION PERICARDITIS",
+            "pref_label": "ST Elevation Pericarditis by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71029"
+        },
+        {
+            "alt_label": "ST elevation",
+            "definition": "An electrocardiographic finding of ST segment elevation above the baseline. (NCI)",
+            "identifier": "C50540",
+            "notation": "ST ELEVATION",
+            "pref_label": "ST Segment Elevation by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C50540"
+        },
+        {
+            "definition": "An electrocardiographic finding of a supraventricular QRS complex followed by a premature supraventricular complex for 3 or more consecutive cycles; a regularly irregular rhythm of normal and abnormal QRS complexes in a 1-1 ratio.",
+            "identifier": "C161046",
+            "notation": "SUPRAVENTRICULAR BIGEMINY",
+            "pref_label": "Supraventricular Bigeminy by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C161046"
+        },
+        {
+            "definition": "An electrocardiographic finding in which two premature atrial complexes occur sequentially.",
+            "identifier": "C119252",
+            "notation": "SUPRAVENTRICULAR COUPLET",
+            "pref_label": "Supraventricular Couplet by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C119252"
+        },
+        {
+            "alt_label": "Supraventricular Escape Complex;Supraventricular Escape Complexes",
+            "definition": "An electrocardiographic finding of a compensatory supraventricular complex that occurs following a prolonged RR interval.",
+            "identifier": "C135395",
+            "notation": "SUPRAVENTRICULAR ESCAPE BEAT",
+            "pref_label": "Supraventricular Escape Beat by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C135395"
+        },
+        {
+            "alt_label": "Supraventricular Premature Complexes, Origin Unknown",
+            "definition": "An electrocardiographic finding of an ectopic impulse originating from the atria or AV junction for which the site of origin cannot be determined from the surface electrocardiographic recording; there may be one or more occurrences during an electrocardiographic recording.",
+            "identifier": "C142246",
+            "notation": "SUPRAVENTRICULAR PREMATURE COMPLEX, ORIGIN UNKNOWN",
+            "pref_label": "Supraventricular Premature Complex With Unknown Origin by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C142246"
+        },
+        {
+            "definition": "An electrocardiographic finding of three or more consecutive beats of supraventricular origin without reference to rate.",
+            "identifier": "C120618",
+            "notation": "SUPRAVENTRICULAR RUN",
+            "pref_label": "Supraventricular Run by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120618"
+        },
+        {
+            "alt_label": "Supraventricular tachycardia",
+            "definition": "An electrocardiographic finding of a tachycardia which does not originate in the ventricles or His Purkinje system. There is an abnormally high heart rate and QRS complexes are typically narrow, but aberration or preexcitation may be present.",
+            "identifier": "C111100",
+            "notation": "SUPRAVENTRICULAR TACHYCARDIA",
+            "pref_label": "Supraventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111100"
+        },
+        {
+            "definition": "An electrocardiographic finding of two supraventricular QRS complexes followed by a premature supraventricular complex for 3 or more consecutive cycles; a regularly irregular rhythm of normal and abnormal QRS complexes in a 2-1 ratio.",
+            "identifier": "C161047",
+            "notation": "SUPRAVENTRICULAR TRIGEMINY",
+            "pref_label": "Supraventricular Trigeminy by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C161047"
+        },
+        {
+            "definition": "An electrocardiographic recording in which an interchange of one or more limb lead electrodes is suspected, but for which an interpretation is performed as though the lead placement is correct.",
+            "identifier": "C114173",
+            "notation": "SUSPECT LIMB ELECTRODES REVERSED, INTERPRETATION ASSUMES NO REVERSAL",
+            "pref_label": "Suspicion of Limb Electrodes Reversal But Interpretation Assumes No Reversal by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114173"
+        },
+        {
+            "definition": "An electrocardiographic recording in which an interchange of one or more limb lead electrodes is suspected, and for which an interpretation is performed as though the leads have in fact been interchanged.",
+            "identifier": "C114174",
+            "notation": "SUSPECT LIMB ELECTRODES REVERSED, INTERPRETATION ASSUMES REVERSAL",
+            "pref_label": "Suspicion of Limb Electrodes Reversal But Interpretation Assumes Reversal by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C114174"
+        },
+        {
+            "definition": "An electrocardiographic finding of a supraventricular tachycardia with duration greater than 30 seconds (though other duration thresholds may be applied).",
+            "identifier": "C120619",
+            "notation": "SUSTAINED SUPRAVENTRICULAR TACHYCARDIA",
+            "pref_label": "Sustained Supraventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120619"
+        },
+        {
+            "alt_label": "Sustained ventricular tachycardia",
+            "definition": "An electrocardiographic finding of ventricular tachycardia greater than 30 seconds in duration. (NCI)",
+            "identifier": "C71052",
+            "notation": "SUSTAINED VENTRICULAR TACHYCARDIA",
+            "pref_label": "Sustained Ventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71052"
+        },
+        {
+            "alt_label": "T Wave Alternans",
+            "definition": "An electrocardiographic finding in which there are variations in the shape, amplitude, or direction of the T wave from one beat to the next.",
+            "identifier": "C102718",
+            "notation": "T WAVE ALTERNANS",
+            "pref_label": "T Wave Alternans by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102718"
+        },
+        {
+            "alt_label": "T Wave Inversion",
+            "definition": "An electrocardiographic finding of an inversion of the T wave from the expected axis. (NCI)",
+            "identifier": "C71085",
+            "notation": "T WAVE INVERSION",
+            "pref_label": "T Wave Inversion by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71085"
+        },
+        {
+            "alt_label": "T wave peaked",
+            "definition": "An electrocardiographic finding in which the T wave appears increased in amplitude and cresting at a point. (NCI)",
+            "identifier": "C71086",
+            "notation": "T WAVE PEAKED",
+            "pref_label": "T Wave Peaked by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71086"
+        },
+        {
+            "alt_label": "T waves biphasic",
+            "definition": "An electrocardiographic finding of a T wave with both positive and negative components.",
+            "identifier": "C71087",
+            "notation": "T WAVES BIPHASIC",
+            "pref_label": "T Waves Biphasic by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71087"
+        },
+        {
+            "alt_label": "T waves flat",
+            "definition": "An electrocardiographic finding in which the T wave appears decreased in amplitude. (NCI)",
+            "identifier": "C71088",
+            "notation": "T WAVES FLAT",
+            "pref_label": "T Waves Flat by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71088"
+        },
+        {
+            "alt_label": "Tachycardia",
+            "definition": "An electrocardiographic finding of abnormally rapid heart rate. Thresholds for different age, gender, and patient populations exist.",
+            "identifier": "C111121",
+            "notation": "TACHYCARDIA",
+            "pref_label": "Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111121"
+        },
+        {
+            "alt_label": "Torsades de pointes;Ventricular tachycardia, torsades de pointes",
+            "definition": "An electrocardiographic finding of an atypical rapid polymorphic ventricular tachycardia with a characteristic rotation of the QRS complex around the isoelectric baseline, occurring in the setting of a prolonged QT interval. In addition, the QRS complex displays a periodic waxing and waning of amplitude on the electrogram.",
+            "identifier": "C50779",
+            "notation": "TORSADES DE POINTES",
+            "pref_label": "Torsades De Pointes by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C50779"
+        },
+        {
+            "alt_label": "Abnormal U Wave",
+            "definition": "An electrocardiographic finding of U waves which have increased amplitude, are inverted, or merged with the preceding T wave.",
+            "identifier": "C106579",
+            "notation": "U WAVE ABNORMALITY",
+            "pref_label": "U Wave Abnormality by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C106579"
+        },
+        {
+            "definition": "An electrocardiographic finding of a cardiac rhythm whose mechanism cannot be determined from the ECG.",
+            "identifier": "C116131",
+            "notation": "UNDETERMINED RHYTHM",
+            "pref_label": "Undetermined Rhythm by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C116131"
+        },
+        {
+            "definition": "An electrocardiographic finding of a rhythm which does not originate in the ventricles or His Purkinje system, but whose specific electrophysiologic mechanism cannot be determined from the ECG. The QRS complexes are typically narrow, but aberration or preexcitation may be present.",
+            "identifier": "C120607",
+            "notation": "UNDETERMINED SUPRAVENTRICULAR RHYTHM",
+            "pref_label": "Undetermined Supraventricular Rhythm by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120607"
+        },
+        {
+            "alt_label": "Bigeminy",
+            "definition": "An electrocardiographic finding of a normal QRS complex followed by a premature ventricular complex for 3 or more consecutive cycles; a regularly irregular rhythm of normal and abnormal QRS complexes in a 1-1 ratio.",
+            "identifier": "C71054",
+            "notation": "VENTRICULAR BIGEMINY",
+            "pref_label": "Ventricular Bigeminy by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71054"
+        },
+        {
+            "alt_label": "Ventricular Couplets;Ventricular Pair",
+            "definition": "An electrocardiographic finding in which two premature ventricular complexes occur sequentially; there may be one or more occurrences during an electrocardiographic recording.",
+            "identifier": "C62259",
+            "notation": "VENTRICULAR COUPLET",
+            "pref_label": "Ventricular Couplet by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62259"
+        },
+        {
+            "alt_label": "Ventricular Escape Beats;Ventricular Escape Complex;Ventricular Escape Complexes",
+            "definition": "An electrocardiographic finding of a compensatory ventricular complex that occurs following a prolonged RR interval; there may be one or more occurrences during an electrocardiographic recording.",
+            "identifier": "C90483",
+            "notation": "VENTRICULAR ESCAPE BEAT",
+            "pref_label": "Ventricular Escape Beat by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C90483"
+        },
+        {
+            "alt_label": "Ventricular fibrillation",
+            "definition": "An electrocardiographic finding of a rapid grossly irregular ventricular rhythm with marked variability in QRS cycle length, morphology, and amplitude. The rate is typically greater than 300 bpm.",
+            "identifier": "C111102",
+            "notation": "VENTRICULAR FIBRILLATION",
+            "pref_label": "Ventricular Fibrillation by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111102"
+        },
+        {
+            "alt_label": "Ventricular flutter",
+            "definition": "A ventricular tachyarrhythmia characterized by a high ventricular rate (180 to 250 beats per minute) with a regular rhythm. The electrocardiogram shows large oscillating sine wave-like complexes occurring as a result of QRS complexes and T waves being merged. The P wave is not visible. (NCI)",
+            "identifier": "C111115",
+            "notation": "VENTRICULAR FLUTTER",
+            "pref_label": "Ventricular Flutter by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111115"
+        },
+        {
+            "alt_label": "Parasystole;Ventricular Parasystole",
+            "definition": "An electrocardiographic finding of normal sinus rhythm coexisting with a regular ectopic ventricular rhythm.",
+            "identifier": "C102728",
+            "notation": "VENTRICULAR PARASYSTOLE",
+            "pref_label": "Ventricular Parasystole by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C102728"
+        },
+        {
+            "definition": "An electrocardiographic finding of three normal QRS complexes followed by a premature ventricular complex for three or more consecutive cycles; a regularly irregular rhythm of normal and abnormal QRS complexes in a 3-1 ratio.",
+            "identifier": "C120620",
+            "notation": "VENTRICULAR QUADRIGEMINY",
+            "pref_label": "Ventricular Quadrigeminy by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120620"
+        },
+        {
+            "definition": "An electrocardiographic finding of three or more consecutive beats of ventricular origin without reference to rate.",
+            "identifier": "C120621",
+            "notation": "VENTRICULAR RUN",
+            "pref_label": "Ventricular Run by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C120621"
+        },
+        {
+            "alt_label": "Ventricular tachycardia",
+            "definition": "An electrocardiographic finding of three or more consecutive complexes of ventricular organ with a rate greater than a certain threshold (100 or 120 beats per minute are commonly used). The QRS complexes are wide and have an abnormal morphology.",
+            "identifier": "C111103",
+            "notation": "VENTRICULAR TACHYCARDIA",
+            "pref_label": "Ventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C111103"
+        },
+        {
+            "alt_label": "Ventricular tachycardia, monomorphic",
+            "definition": "An electrocardiographic finding of a ventricular tachycardia in which the QRS complexes have a uniform morphology.",
+            "identifier": "C62234",
+            "notation": "VENTRICULAR TACHYCARDIA, MONOMORPHIC",
+            "pref_label": "Monomorphic Ventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62234"
+        },
+        {
+            "alt_label": "Ventricular tachycardia, polymorphic;Ventricular tachycardia, polymorphous",
+            "definition": "An electrocardiographic finding of a ventricular tachycardia in which the QRS complexes have a variable morphology and often rate.",
+            "identifier": "C62236",
+            "notation": "VENTRICULAR TACHYCARDIA, POLYMORPHIC",
+            "pref_label": "Polymorphic Ventricular Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62236"
+        },
+        {
+            "alt_label": "Trigeminy",
+            "definition": "An electrocardiographic finding of two normal QRS complexes followed by a premature ventricular complex for 3 or more consecutive cycles; a regularly irregular rhythm of normal and abnormal QRS complexes in a 2-1 ratio.",
+            "identifier": "C71055",
+            "notation": "VENTRICULAR TRIGEMINY",
+            "pref_label": "Ventricular Trigeminy by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71055"
+        },
+        {
+            "definition": "An electrocardiographic finding of large QRS amplitudes which may indicate left ventricular hypertrophy, but in the absence of any of the secondary findings which are typical of this diagnosis (left atrial enlargement, left axis deviation, or typical pattern of ST depression and T wave inversion).",
+            "identifier": "C130067",
+            "notation": "VOLTAGE CRITERIA SUGGESTING LEFT VENTRICULAR HYPERTROPHY, WITHOUT SECONDARY ECG FINDINGS",
+            "pref_label": "Voltage Criteria Suggesting Left Ventricular Hypertrophy, Without Secondary ECG Findings",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C130067"
+        },
+        {
+            "alt_label": "Wandering atrial pacemaker",
+            "definition": "An electrocardiographic finding of a supraventricular arrhythmia characterized by 3 or more distinct P wave morphologies with an isoelectric baseline, variable PR intervals and no predominant atrial rhythm. The ventricular rate is typically below 100 beats per minute.",
+            "identifier": "C62240",
+            "notation": "WANDERING ATRIAL PACEMAKER",
+            "pref_label": "Wandering Atrial Pacemaker by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C62240"
+        },
+        {
+            "alt_label": "Wide QRS tachycardia;Wide-QRS tachycardia",
+            "definition": "An electrocardiographic finding of three or more consecutive wide QRS complexes of uncertain origin with a rate greater than a certain threshold (100 or 120 beats per minute are commonly used).",
+            "identifier": "C71090",
+            "notation": "WIDE QRS TACHYCARDIA",
+            "pref_label": "Wide QRS Tachycardia by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C71090"
+        },
+        {
+            "alt_label": "Wolff-Parkinson-White syndrome;WPW",
+            "definition": "An electrocardiographic finding of ventricular pre-excitation. The syndrome is characterized by a short PR interval and a long QRS interval with a delta wave.",
+            "identifier": "C35132",
+            "notation": "WOLFF-PARKINSON-WHITE SYNDROME",
+            "pref_label": "Wolff-Parkinson-White Syndrome",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120522-C35132"
+        }
+    ]
+}

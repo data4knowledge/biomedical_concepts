@@ -1,0 +1,820 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "LEC01-Natural Disaster: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Happened to me.",
+            "identifier": "C135820",
+            "notation": "LEC0101A",
+            "pref_label": "LEC-5 Standard Version - Natural Disaster: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135820"
+        },
+        {
+            "alt_label": "LEC01-Natural Disaster: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Witnessed it.",
+            "identifier": "C135821",
+            "notation": "LEC0101B",
+            "pref_label": "LEC-5 Standard Version - Natural Disaster: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135821"
+        },
+        {
+            "alt_label": "LEC01-Natural Disaster: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Learned about it.",
+            "identifier": "C135822",
+            "notation": "LEC0101C",
+            "pref_label": "LEC-5 Standard Version - Natural Disaster: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135822"
+        },
+        {
+            "alt_label": "LEC01-Natural Disaster: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Part of my job.",
+            "identifier": "C135823",
+            "notation": "LEC0101D",
+            "pref_label": "LEC-5 Standard Version - Natural Disaster: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135823"
+        },
+        {
+            "alt_label": "LEC01-Natural Disaster: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Not sure.",
+            "identifier": "C135824",
+            "notation": "LEC0101E",
+            "pref_label": "LEC-5 Standard Version - Natural Disaster: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135824"
+        },
+        {
+            "alt_label": "LEC01-Natural Disaster: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Doesn't apply.",
+            "identifier": "C135825",
+            "notation": "LEC0101F",
+            "pref_label": "LEC-5 Standard Version - Natural Disaster: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135825"
+        },
+        {
+            "alt_label": "LEC01-Fire or Explosion: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Happened to me.",
+            "identifier": "C135826",
+            "notation": "LEC0102A",
+            "pref_label": "LEC-5 Standard Version - Fire or Explosion: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135826"
+        },
+        {
+            "alt_label": "LEC01-Fire or Explosion: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Witnessed it.",
+            "identifier": "C135827",
+            "notation": "LEC0102B",
+            "pref_label": "LEC-5 Standard Version - Fire or Explosion: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135827"
+        },
+        {
+            "alt_label": "LEC01-Fire or Explosion: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Learned about it.",
+            "identifier": "C135828",
+            "notation": "LEC0102C",
+            "pref_label": "LEC-5 Standard Version - Fire or Explosion: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135828"
+        },
+        {
+            "alt_label": "LEC01-Fire or Explosion: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Part of my job.",
+            "identifier": "C135829",
+            "notation": "LEC0102D",
+            "pref_label": "LEC-5 Standard Version - Fire or Explosion: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135829"
+        },
+        {
+            "alt_label": "LEC01-Fire or Explosion: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Not sure.",
+            "identifier": "C135830",
+            "notation": "LEC0102E",
+            "pref_label": "LEC-5 Standard Version - Fire or Explosion: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135830"
+        },
+        {
+            "alt_label": "LEC01-Fire or Explosion: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Doesn't apply.",
+            "identifier": "C135831",
+            "notation": "LEC0102F",
+            "pref_label": "LEC-5 Standard Version - Fire or Explosion: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135831"
+        },
+        {
+            "alt_label": "LEC01-Transportation Accident: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Happened to me.",
+            "identifier": "C135832",
+            "notation": "LEC0103A",
+            "pref_label": "LEC-5 Standard Version - Transportation Accident: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135832"
+        },
+        {
+            "alt_label": "LEC01-Transportation Accident: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Witnessed it.",
+            "identifier": "C135833",
+            "notation": "LEC0103B",
+            "pref_label": "LEC-5 Standard Version - Transportation Accident: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135833"
+        },
+        {
+            "alt_label": "LEC01-Transportation Accident: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Learned about it.",
+            "identifier": "C135834",
+            "notation": "LEC0103C",
+            "pref_label": "LEC-5 Standard Version - Transportation Accident: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135834"
+        },
+        {
+            "alt_label": "LEC01-Transportation Accident: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Part of my job.",
+            "identifier": "C135835",
+            "notation": "LEC0103D",
+            "pref_label": "LEC-5 Standard Version - Transportation Accident: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135835"
+        },
+        {
+            "alt_label": "LEC01-Transportation Accident: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Not sure.",
+            "identifier": "C135836",
+            "notation": "LEC0103E",
+            "pref_label": "LEC-5 Standard Version - Transportation Accident: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135836"
+        },
+        {
+            "alt_label": "LEC01-Transportation Accident: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Doesn't apply.",
+            "identifier": "C135837",
+            "notation": "LEC0103F",
+            "pref_label": "LEC-5 Standard Version - Transportation Accident: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135837"
+        },
+        {
+            "alt_label": "LEC01-Serious Accident: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Happened to me.",
+            "identifier": "C135838",
+            "notation": "LEC0104A",
+            "pref_label": "LEC-5 Standard Version - Serious Accident: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135838"
+        },
+        {
+            "alt_label": "LEC01-Serious Accident: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Witnessed it.",
+            "identifier": "C135839",
+            "notation": "LEC0104B",
+            "pref_label": "LEC-5 Standard Version - Serious Accident: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135839"
+        },
+        {
+            "alt_label": "LEC01-Serious Accident: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Learned about it.",
+            "identifier": "C135840",
+            "notation": "LEC0104C",
+            "pref_label": "LEC-5 Standard Version - Serious Accident: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135840"
+        },
+        {
+            "alt_label": "LEC01-Serious Accident: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Part of my job.",
+            "identifier": "C135841",
+            "notation": "LEC0104D",
+            "pref_label": "LEC-5 Standard Version - Serious Accident: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135841"
+        },
+        {
+            "alt_label": "LEC01-Serious Accident: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Not sure.",
+            "identifier": "C135842",
+            "notation": "LEC0104E",
+            "pref_label": "LEC-5 Standard Version - Serious Accident: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135842"
+        },
+        {
+            "alt_label": "LEC01-Serious Accident: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Doesn't apply.",
+            "identifier": "C135843",
+            "notation": "LEC0104F",
+            "pref_label": "LEC-5 Standard Version - Serious Accident: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135843"
+        },
+        {
+            "alt_label": "LEC01-Toxic Substance: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Happened to me.",
+            "identifier": "C135844",
+            "notation": "LEC0105A",
+            "pref_label": "LEC-5 Standard Version - Toxic Substance: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135844"
+        },
+        {
+            "alt_label": "LEC01-Toxic Substance: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Witnessed it.",
+            "identifier": "C135845",
+            "notation": "LEC0105B",
+            "pref_label": "LEC-5 Standard Version - Toxic Substance: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135845"
+        },
+        {
+            "alt_label": "LEC01-Toxic Substance: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Learned about it.",
+            "identifier": "C135846",
+            "notation": "LEC0105C",
+            "pref_label": "LEC-5 Standard Version - Toxic Substance: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135846"
+        },
+        {
+            "alt_label": "LEC01-Toxic Substance: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Part of my job.",
+            "identifier": "C135847",
+            "notation": "LEC0105D",
+            "pref_label": "LEC-5 Standard Version - Toxic Substance: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135847"
+        },
+        {
+            "alt_label": "LEC01-Toxic Substance: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Not sure.",
+            "identifier": "C135848",
+            "notation": "LEC0105E",
+            "pref_label": "LEC-5 Standard Version - Toxic Substance: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135848"
+        },
+        {
+            "alt_label": "LEC01-Toxic Substance: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Doesn't apply.",
+            "identifier": "C135849",
+            "notation": "LEC0105F",
+            "pref_label": "LEC-5 Standard Version - Toxic Substance: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135849"
+        },
+        {
+            "alt_label": "LEC01-Physical Assault: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Happened to me.",
+            "identifier": "C135850",
+            "notation": "LEC0106A",
+            "pref_label": "LEC-5 Standard Version - Physical Assault: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135850"
+        },
+        {
+            "alt_label": "LEC01-Physical Assault: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Witnessed it.",
+            "identifier": "C135851",
+            "notation": "LEC0106B",
+            "pref_label": "LEC-5 Standard Version - Physical Assault: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135851"
+        },
+        {
+            "alt_label": "LEC01-Physical Assault: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Learned about it.",
+            "identifier": "C135852",
+            "notation": "LEC0106C",
+            "pref_label": "LEC-5 Standard Version - Physical Assault: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135852"
+        },
+        {
+            "alt_label": "LEC01-Physical Assault: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Part of my job.",
+            "identifier": "C135853",
+            "notation": "LEC0106D",
+            "pref_label": "LEC-5 Standard Version - Physical Assault: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135853"
+        },
+        {
+            "alt_label": "LEC01-Physical Assault: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Not sure.",
+            "identifier": "C135854",
+            "notation": "LEC0106E",
+            "pref_label": "LEC-5 Standard Version - Physical Assault: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135854"
+        },
+        {
+            "alt_label": "LEC01-Physical Assault: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Doesn't apply.",
+            "identifier": "C135855",
+            "notation": "LEC0106F",
+            "pref_label": "LEC-5 Standard Version - Physical Assault: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135855"
+        },
+        {
+            "alt_label": "LEC01-Assault With a Weapon: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Happened to me.",
+            "identifier": "C135856",
+            "notation": "LEC0107A",
+            "pref_label": "LEC-5 Standard Version - Assault With a Weapon: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135856"
+        },
+        {
+            "alt_label": "LEC01-Assault With a Weapon: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Witnessed it.",
+            "identifier": "C135857",
+            "notation": "LEC0107B",
+            "pref_label": "LEC-5 Standard Version - Assault With a Weapon: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135857"
+        },
+        {
+            "alt_label": "LEC01-Assault With a Weapon: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Learned about it.",
+            "identifier": "C135858",
+            "notation": "LEC0107C",
+            "pref_label": "LEC-5 Standard Version - Assault With a Weapon: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135858"
+        },
+        {
+            "alt_label": "LEC01-Assault With a Weapon: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Part of my job.",
+            "identifier": "C135859",
+            "notation": "LEC0107D",
+            "pref_label": "LEC-5 Standard Version - Assault With a Weapon: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135859"
+        },
+        {
+            "alt_label": "LEC01-Assault With a Weapon: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Not sure.",
+            "identifier": "C135860",
+            "notation": "LEC0107E",
+            "pref_label": "LEC-5 Standard Version - Assault With a Weapon: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135860"
+        },
+        {
+            "alt_label": "LEC01-Assault With a Weapon: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Doesn't apply.",
+            "identifier": "C135861",
+            "notation": "LEC0107F",
+            "pref_label": "LEC-5 Standard Version - Assault With a Weapon: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135861"
+        },
+        {
+            "alt_label": "LEC01-Sexual Assault: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Happened to me.",
+            "identifier": "C135862",
+            "notation": "LEC0108A",
+            "pref_label": "LEC-5 Standard Version - Sexual Assault: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135862"
+        },
+        {
+            "alt_label": "LEC01-Sexual Assault: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Witnessed it.",
+            "identifier": "C135863",
+            "notation": "LEC0108B",
+            "pref_label": "LEC-5 Standard Version - Sexual Assault: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135863"
+        },
+        {
+            "alt_label": "LEC01-Sexual Assault: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Learned about it.",
+            "identifier": "C135864",
+            "notation": "LEC0108C",
+            "pref_label": "LEC-5 Standard Version - Sexual Assault: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135864"
+        },
+        {
+            "alt_label": "LEC01-Sexual Assault: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Part of my job.",
+            "identifier": "C135865",
+            "notation": "LEC0108D",
+            "pref_label": "LEC-5 Standard Version - Sexual Assault: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135865"
+        },
+        {
+            "alt_label": "LEC01-Sexual Assault: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Not sure.",
+            "identifier": "C135866",
+            "notation": "LEC0108E",
+            "pref_label": "LEC-5 Standard Version - Sexual Assault: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135866"
+        },
+        {
+            "alt_label": "LEC01-Sexual Assault: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Doesn't apply.",
+            "identifier": "C135867",
+            "notation": "LEC0108F",
+            "pref_label": "LEC-5 Standard Version - Sexual Assault: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135867"
+        },
+        {
+            "alt_label": "LEC01-Unwanted Sex Experience: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Happened to me.",
+            "identifier": "C135868",
+            "notation": "LEC0109A",
+            "pref_label": "LEC-5 Standard Version - Unwanted Sex Experience: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135868"
+        },
+        {
+            "alt_label": "LEC01-Unwanted Sex Experience: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Witnessed it.",
+            "identifier": "C135869",
+            "notation": "LEC0109B",
+            "pref_label": "LEC-5 Standard Version - Unwanted Sex Experience: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135869"
+        },
+        {
+            "alt_label": "LEC01-Unwanted Sex Experience: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Learned about it.",
+            "identifier": "C135870",
+            "notation": "LEC0109C",
+            "pref_label": "LEC-5 Standard Version - Unwanted Sex Experience: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135870"
+        },
+        {
+            "alt_label": "LEC01-Unwanted Sex Experience: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Part of my job.",
+            "identifier": "C135871",
+            "notation": "LEC0109D",
+            "pref_label": "LEC-5 Standard Version - Unwanted Sex Experience: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135871"
+        },
+        {
+            "alt_label": "LEC01-Unwanted Sex Experience: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Not sure.",
+            "identifier": "C135872",
+            "notation": "LEC0109E",
+            "pref_label": "LEC-5 Standard Version - Unwanted Sex Experience: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135872"
+        },
+        {
+            "alt_label": "LEC01-Unwanted Sex Experience: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Doesn't apply.",
+            "identifier": "C135873",
+            "notation": "LEC0109F",
+            "pref_label": "LEC-5 Standard Version - Unwanted Sex Experience: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135873"
+        },
+        {
+            "alt_label": "LEC01-Combat/Exp to War-Zone: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Happened to me.",
+            "identifier": "C135874",
+            "notation": "LEC0110A",
+            "pref_label": "LEC-5 Standard Version - Combat or Exposure to War-Zone: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135874"
+        },
+        {
+            "alt_label": "LEC01-Combat/Exp to War-Zone: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Witnessed it.",
+            "identifier": "C135875",
+            "notation": "LEC0110B",
+            "pref_label": "LEC-5 Standard Version - Combat or Exposure to War-Zone: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135875"
+        },
+        {
+            "alt_label": "LEC01-Combat/Exp to War-Zone: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Learned about it.",
+            "identifier": "C135876",
+            "notation": "LEC0110C",
+            "pref_label": "LEC-5 Standard Version - Combat or Exposure to War-Zone: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135876"
+        },
+        {
+            "alt_label": "LEC01-Combat/Exp to War-Zone: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Part of my job.",
+            "identifier": "C135877",
+            "notation": "LEC0110D",
+            "pref_label": "LEC-5 Standard Version - Combat or Exposure to War-Zone: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135877"
+        },
+        {
+            "alt_label": "LEC01-Combat/Exp to War-Zone: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Not sure.",
+            "identifier": "C135878",
+            "notation": "LEC0110E",
+            "pref_label": "LEC-5 Standard Version - Combat or Exposure to War-Zone: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135878"
+        },
+        {
+            "alt_label": "LEC01-Combat/Exp to War-Zone: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Doesn't apply.",
+            "identifier": "C135879",
+            "notation": "LEC0110F",
+            "pref_label": "LEC-5 Standard Version - Combat or Exposure to War-Zone: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135879"
+        },
+        {
+            "alt_label": "LEC01-Captivity: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Happened to me.",
+            "identifier": "C135880",
+            "notation": "LEC0111A",
+            "pref_label": "LEC-5 Standard Version - Captivity: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135880"
+        },
+        {
+            "alt_label": "LEC01-Captivity: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Witnessed it.",
+            "identifier": "C135881",
+            "notation": "LEC0111B",
+            "pref_label": "LEC-5 Standard Version - Captivity: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135881"
+        },
+        {
+            "alt_label": "LEC01-Captivity: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Learned about it.",
+            "identifier": "C135882",
+            "notation": "LEC0111C",
+            "pref_label": "LEC-5 Standard Version - Captivity: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135882"
+        },
+        {
+            "alt_label": "LEC01-Captivity: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Part of my job.",
+            "identifier": "C135883",
+            "notation": "LEC0111D",
+            "pref_label": "LEC-5 Standard Version - Captivity: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135883"
+        },
+        {
+            "alt_label": "LEC01-Captivity: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Not sure.",
+            "identifier": "C135884",
+            "notation": "LEC0111E",
+            "pref_label": "LEC-5 Standard Version - Captivity: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135884"
+        },
+        {
+            "alt_label": "LEC01-Captivity: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Doesn't apply.",
+            "identifier": "C135885",
+            "notation": "LEC0111F",
+            "pref_label": "LEC-5 Standard Version - Captivity: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135885"
+        },
+        {
+            "alt_label": "LEC01-Life-threatening Illness: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Happened to me.",
+            "identifier": "C135886",
+            "notation": "LEC0112A",
+            "pref_label": "LEC-5 Standard Version - Life-threatening Illness: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135886"
+        },
+        {
+            "alt_label": "LEC01-Life-threatening Illness: Witness",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Witnessed it.",
+            "identifier": "C135887",
+            "notation": "LEC0112B",
+            "pref_label": "LEC-5 Standard Version - Life-threatening Illness: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135887"
+        },
+        {
+            "alt_label": "LEC01-Life-threatening Illness: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Learned about it.",
+            "identifier": "C135888",
+            "notation": "LEC0112C",
+            "pref_label": "LEC-5 Standard Version - Life-threatening Illness: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135888"
+        },
+        {
+            "alt_label": "LEC01-Life-threatening Illness: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Part of my job.",
+            "identifier": "C135889",
+            "notation": "LEC0112D",
+            "pref_label": "LEC-5 Standard Version - Life-threatening Illness: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135889"
+        },
+        {
+            "alt_label": "LEC01-Life-threatening Illness: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Not sure.",
+            "identifier": "C135890",
+            "notation": "LEC0112E",
+            "pref_label": "LEC-5 Standard Version - Life-threatening Illness: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135890"
+        },
+        {
+            "alt_label": "LEC01-Life-threatening Illness: No Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Doesn't apply.",
+            "identifier": "C135891",
+            "notation": "LEC0112F",
+            "pref_label": "LEC-5 Standard Version - Life-threatening Illness: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135891"
+        },
+        {
+            "alt_label": "LEC01-Severe Human Suffering: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Happened to me.",
+            "identifier": "C135892",
+            "notation": "LEC0113A",
+            "pref_label": "LEC-5 Standard Version - Severe Human Suffering: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135892"
+        },
+        {
+            "alt_label": "LEC01-Severe Human Suffering: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Witnessed it.",
+            "identifier": "C135893",
+            "notation": "LEC0113B",
+            "pref_label": "LEC-5 Standard Version - Severe Human Suffering: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135893"
+        },
+        {
+            "alt_label": "LEC01-Severe Human Suffering: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Learned about it.",
+            "identifier": "C135894",
+            "notation": "LEC0113C",
+            "pref_label": "LEC-5 Standard Version - Severe Human Suffering: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135894"
+        },
+        {
+            "alt_label": "LEC01-Severe Human Suffering: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Part of my job.",
+            "identifier": "C135895",
+            "notation": "LEC0113D",
+            "pref_label": "LEC-5 Standard Version - Severe Human Suffering: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135895"
+        },
+        {
+            "alt_label": "LEC01-Severe Human Suffering: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Not sure.",
+            "identifier": "C135896",
+            "notation": "LEC0113E",
+            "pref_label": "LEC-5 Standard Version - Severe Human Suffering: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135896"
+        },
+        {
+            "alt_label": "LEC01-Severe Human Suffering: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Doesn't apply.",
+            "identifier": "C135897",
+            "notation": "LEC0113F",
+            "pref_label": "LEC-5 Standard Version - Severe Human Suffering: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135897"
+        },
+        {
+            "alt_label": "LEC01-Sudden Violent Death: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Happened to me.",
+            "identifier": "C135898",
+            "notation": "LEC0114A",
+            "pref_label": "LEC-5 Standard Version - Sudden Violent Death: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135898"
+        },
+        {
+            "alt_label": "LEC01-Sudden Violent Death: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Witnessed it.",
+            "identifier": "C135899",
+            "notation": "LEC0114B",
+            "pref_label": "LEC-5 Standard Version - Sudden Violent Death: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135899"
+        },
+        {
+            "alt_label": "LEC01-Sudden Violent Death: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Learned about it.",
+            "identifier": "C135900",
+            "notation": "LEC0114C",
+            "pref_label": "LEC-5 Standard Version - Sudden Violent Death: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135900"
+        },
+        {
+            "alt_label": "LEC01-Sudden Violent Death: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Part of my job.",
+            "identifier": "C135901",
+            "notation": "LEC0114D",
+            "pref_label": "LEC-5 Standard Version - Sudden Violent Death: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135901"
+        },
+        {
+            "alt_label": "LEC01-Sudden Violent Death: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Not sure.",
+            "identifier": "C135902",
+            "notation": "LEC0114E",
+            "pref_label": "LEC-5 Standard Version - Sudden Violent Death: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135902"
+        },
+        {
+            "alt_label": "LEC01-Sudden Violent Death: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Doesn't apply.",
+            "identifier": "C135903",
+            "notation": "LEC0114F",
+            "pref_label": "LEC-5 Standard Version - Sudden Violent Death: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135903"
+        },
+        {
+            "alt_label": "LEC01-Sudden Accidental Death: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Happened to me.",
+            "identifier": "C135904",
+            "notation": "LEC0115A",
+            "pref_label": "LEC-5 Standard Version - Sudden Accidental Death: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135904"
+        },
+        {
+            "alt_label": "LEC01-Sudden Accidental Death: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Witnessed it.",
+            "identifier": "C135905",
+            "notation": "LEC0115B",
+            "pref_label": "LEC-5 Standard Version - Sudden Accidental Death: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135905"
+        },
+        {
+            "alt_label": "LEC01-Sudden Accidental Death: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Learned about it.",
+            "identifier": "C135906",
+            "notation": "LEC0115C",
+            "pref_label": "LEC-5 Standard Version - Sudden Accidental Death: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135906"
+        },
+        {
+            "alt_label": "LEC01-Sudden Accidental Death: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Part of my job.",
+            "identifier": "C135907",
+            "notation": "LEC0115D",
+            "pref_label": "LEC-5 Standard Version - Sudden Accidental Death: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135907"
+        },
+        {
+            "alt_label": "LEC01-Sudden Accidental Death: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Not sure.",
+            "identifier": "C135908",
+            "notation": "LEC0115E",
+            "pref_label": "LEC-5 Standard Version - Sudden Accidental Death: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135908"
+        },
+        {
+            "alt_label": "LEC01-Sudden Accidental Death: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Doesn't apply.",
+            "identifier": "C135909",
+            "notation": "LEC0115F",
+            "pref_label": "LEC-5 Standard Version - Sudden Accidental Death: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135909"
+        },
+        {
+            "alt_label": "LEC01-Serious Injury Caused: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Happened to me.",
+            "identifier": "C135910",
+            "notation": "LEC0116A",
+            "pref_label": "LEC-5 Standard Version - Serious Injury Caused: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135910"
+        },
+        {
+            "alt_label": "LEC01-Serious Injury Caused: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Witnessed it.",
+            "identifier": "C135911",
+            "notation": "LEC0116B",
+            "pref_label": "LEC-5 Standard Version - Serious Injury Caused: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135911"
+        },
+        {
+            "alt_label": "LEC01-Serious Injury Caused: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Learned about it.",
+            "identifier": "C135912",
+            "notation": "LEC0116C",
+            "pref_label": "LEC-5 Standard Version - Serious Injury Caused: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135912"
+        },
+        {
+            "alt_label": "LEC01-Serious Injury Caused: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Part of my job.",
+            "identifier": "C135913",
+            "notation": "LEC0116D",
+            "pref_label": "LEC-5 Standard Version - Serious Injury Caused: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135913"
+        },
+        {
+            "alt_label": "LEC01-Serious Injury Caused: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Not sure.",
+            "identifier": "C135914",
+            "notation": "LEC0116E",
+            "pref_label": "LEC-5 Standard Version - Serious Injury Caused: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135914"
+        },
+        {
+            "alt_label": "LEC01-Serious Injury Caused: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Doesn't apply.",
+            "identifier": "C135915",
+            "notation": "LEC0116F",
+            "pref_label": "LEC-5 Standard Version - Serious Injury Caused: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135915"
+        },
+        {
+            "alt_label": "LEC01-Other Stressful Event: Happened",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Happened to me.",
+            "identifier": "C135916",
+            "notation": "LEC0117A",
+            "pref_label": "LEC-5 Standard Version - Other Stressful Event: Happened",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135916"
+        },
+        {
+            "alt_label": "LEC01-Other Stressful Event: Witnessed",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Witnessed it.",
+            "identifier": "C135917",
+            "notation": "LEC0117B",
+            "pref_label": "LEC-5 Standard Version - Other Stressful Event: Witnessed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135917"
+        },
+        {
+            "alt_label": "LEC01-Other Stressful Event: Learned",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Learned about it.",
+            "identifier": "C135918",
+            "notation": "LEC0117C",
+            "pref_label": "LEC-5 Standard Version - Other Stressful Event: Learned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135918"
+        },
+        {
+            "alt_label": "LEC01-Other Stressful Event: Job",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Part of my job.",
+            "identifier": "C135919",
+            "notation": "LEC0117D",
+            "pref_label": "LEC-5 Standard Version - Other Stressful Event: Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135919"
+        },
+        {
+            "alt_label": "LEC01-Other Stressful Event: Not Sure",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Not sure.",
+            "identifier": "C135920",
+            "notation": "LEC0117E",
+            "pref_label": "LEC-5 Standard Version - Other Stressful Event: Not Sure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135920"
+        },
+        {
+            "alt_label": "LEC01-Other Stressful Event: Not Apply",
+            "definition": "Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Doesn't apply.",
+            "identifier": "C135921",
+            "notation": "LEC0117F",
+            "pref_label": "LEC-5 Standard Version - Other Stressful Event: Not Apply",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135690-C135921"
+        }
+    ]
+}

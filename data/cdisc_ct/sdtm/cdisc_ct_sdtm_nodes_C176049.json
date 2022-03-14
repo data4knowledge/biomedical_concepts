@@ -1,0 +1,188 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CDAI01-Weight",
+            "definition": "Crohn's Disease Activity Index Version 1 - Weight.",
+            "identifier": "C176067",
+            "notation": "CDAI0101",
+            "pref_label": "CDAI Version 1 - Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176067"
+        },
+        {
+            "alt_label": "CDAI01-Standard Body Weight",
+            "definition": "Crohn's Disease Activity Index Version 1 - Standard body weight.",
+            "identifier": "C176068",
+            "notation": "CDAI0102",
+            "pref_label": "CDAI Version 1 - Standard Body Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176068"
+        },
+        {
+            "alt_label": "CDAI01-Daily Number of Stools",
+            "definition": "Crohn's Disease Activity Index Version 1 - Daily number of very soft/liquid stools in the last 7 days.",
+            "identifier": "C176069",
+            "notation": "CDAI0103",
+            "pref_label": "CDAI Version 1 - Daily Number of Stools",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176069"
+        },
+        {
+            "alt_label": "CDAI01-Daily Average Abdominal Pain",
+            "definition": "Crohn's Disease Activity Index Version 1 - Daily average abdominal pain (average daily rating for each of the past 7 days).",
+            "identifier": "C176070",
+            "notation": "CDAI0104",
+            "pref_label": "CDAI Version 1 - Daily Average Abdominal Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176070"
+        },
+        {
+            "alt_label": "CDAI01-Daily Average General Well-being",
+            "definition": "Crohn's Disease Activity Index Version 1 - Daily average general well-being (average daily rating for each of the past 7 days).",
+            "identifier": "C176071",
+            "notation": "CDAI0105",
+            "pref_label": "CDAI Version 1 - Daily Average General Well-being",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176071"
+        },
+        {
+            "alt_label": "CDAI01-Anti-diarrhea/Opiate Use",
+            "definition": "Crohn's Disease Activity Index Version 1 - Anti-diarrhea/opiate use during past 7 days.",
+            "identifier": "C176072",
+            "notation": "CDAI0106",
+            "pref_label": "CDAI Version 1 - Anti-diarrhea/Opiate Use",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176072"
+        },
+        {
+            "alt_label": "CDAI01-Abdominal Mass",
+            "definition": "Crohn's Disease Activity Index Version 1 - Abdominal mass.",
+            "identifier": "C176073",
+            "notation": "CDAI0107",
+            "pref_label": "CDAI Version 1 - Abdominal Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176073"
+        },
+        {
+            "alt_label": "CDAI01-Hematocrit",
+            "definition": "Crohn's Disease Activity Index Version 1 - Hematocrit.",
+            "identifier": "C176074",
+            "notation": "CDAI0108",
+            "pref_label": "CDAI Version 1 - Hematocrit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176074"
+        },
+        {
+            "alt_label": "CDAI01-Arthritis/Arthralgia",
+            "definition": "Crohn's Disease Activity Index Version 1 - Arthritis/arthralgia.",
+            "identifier": "C176075",
+            "notation": "CDAI0109",
+            "pref_label": "CDAI Version 1 - Arthritis/Arthralgia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176075"
+        },
+        {
+            "alt_label": "CDAI01-Iritis/Uveitis",
+            "definition": "Crohn's Disease Activity Index Version 1 - Iritis/uveitis.",
+            "identifier": "C176076",
+            "notation": "CDAI0110",
+            "pref_label": "CDAI Version 1 - Iritis/Uveitis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176076"
+        },
+        {
+            "alt_label": "CDAI01-Erythema Nodosum",
+            "definition": "Crohn's Disease Activity Index Version 1 - Erythema nodosum, pyoderma gangrenosum, or aphthous stomatitis.",
+            "identifier": "C176077",
+            "notation": "CDAI0111",
+            "pref_label": "CDAI Version 1 - Erythema Nodosum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176077"
+        },
+        {
+            "alt_label": "CDAI01-Anal Fissure/Fistula/Abscess",
+            "definition": "Crohn's Disease Activity Index Version 1 - Anal fissure, fistula, or abscess.",
+            "identifier": "C176078",
+            "notation": "CDAI0112",
+            "pref_label": "CDAI Version 1 - Anal Fissure, Fistula or Abscess",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176078"
+        },
+        {
+            "alt_label": "CDAI01-Other Fistula",
+            "definition": "Crohn's Disease Activity Index Version 1 - Other fistula.",
+            "identifier": "C176079",
+            "notation": "CDAI0113",
+            "pref_label": "CDAI Version 1 - Other Fistula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176079"
+        },
+        {
+            "alt_label": "CDAI01-Fever",
+            "definition": "Crohn's Disease Activity Index Version 1 - Fever/temperature > 100F/37.8C during the past 7 days.",
+            "identifier": "C176080",
+            "notation": "CDAI0114",
+            "pref_label": "CDAI Version 1 - Fever",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176080"
+        },
+        {
+            "alt_label": "CDAI01-Weight Subscore",
+            "definition": "Crohn's Disease Activity Index Version 1 - Weight subscore.",
+            "identifier": "C176081",
+            "notation": "CDAI0115",
+            "pref_label": "CDAI Version 1 - Weight Subscore",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176081"
+        },
+        {
+            "alt_label": "CDAI01-Total Number Stools Subscore",
+            "definition": "Crohn's Disease Activity Index Version 1 - Total number of very soft/liquid stools in the last 7 days: Subscore.",
+            "identifier": "C176082",
+            "notation": "CDAI0116",
+            "pref_label": "CDAI Version 1 - Total Number Stools Subscore",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176082"
+        },
+        {
+            "alt_label": "CDAI01-Abdominal Pain Subscore",
+            "definition": "Crohn's Disease Activity Index Version 1 - Abdominal pain (daily rating for the past 7 days): Subscore.",
+            "identifier": "C176083",
+            "notation": "CDAI0117",
+            "pref_label": "CDAI Version 1 - Abdominal Pain Subscore",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176083"
+        },
+        {
+            "alt_label": "CDAI01-General Well-being Subscore",
+            "definition": "Crohn's Disease Activity Index Version 1 - General well-being (daily rating for the past 7 days): Subscore.",
+            "identifier": "C176084",
+            "notation": "CDAI0118",
+            "pref_label": "CDAI Version 1 - General Well-being Subscore",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176084"
+        },
+        {
+            "alt_label": "CDAI01-Anti-diarrhea/Opiate Use Subscore",
+            "definition": "Crohn's Disease Activity Index Version 1 - Anti-diarrhea/opiate use subscore.",
+            "identifier": "C176085",
+            "notation": "CDAI0119",
+            "pref_label": "CDAI Version 1 - Anti-diarrhea/Opiate Use Subscore",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176085"
+        },
+        {
+            "alt_label": "CDAI01-Abdominal Mass Subscore",
+            "definition": "Crohn's Disease Activity Index Version 1 - Abdominal mass subscore.",
+            "identifier": "C176086",
+            "notation": "CDAI0120",
+            "pref_label": "CDAI Version 1 - Abdominal Mass Subscore",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176086"
+        },
+        {
+            "alt_label": "CDAI01-Hematocrit Subscore",
+            "definition": "Crohn's Disease Activity Index Version 1 - Hematocrit subscore.",
+            "identifier": "C176087",
+            "notation": "CDAI0121",
+            "pref_label": "CDAI Version 1 - Hematocrit Subscore",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176087"
+        },
+        {
+            "alt_label": "CDAI01-Symptoms Manifested Subscore",
+            "definition": "Crohn's Disease Activity Index Version 1 - Arthritis/arthralgia; iritis/uveitis; erythema nodosum, pyoderma gangrenosum, or aphthous stomatitis; anal fissure, fistula, or abscess; other fistula; fever subscore.",
+            "identifier": "C176088",
+            "notation": "CDAI0122",
+            "pref_label": "CDAI Version 1 - Symptoms Manifested Subscore",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176088"
+        },
+        {
+            "alt_label": "CDAI01-CDAI Total Score",
+            "definition": "Crohn's Disease Activity Index Version 1 - CDAI total score.",
+            "identifier": "C176089",
+            "notation": "CDAI0123",
+            "pref_label": "CDAI Version 1 - CDAI Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C176049-C176089"
+        }
+    ]
+}

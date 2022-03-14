@@ -1,0 +1,500 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CSS05-Wish to be Dead-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you wished you were dead or wished you could go to sleep and not wake up? (Prior to Study Entry).",
+            "identifier": "C107027",
+            "notation": "CSS0501A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Wish to Be Dead (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107027"
+        },
+        {
+            "alt_label": "CSS05-Wish to be Dead-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you wished you were dead or wished you could go to sleep and not wake up? (Since Study Start).",
+            "identifier": "C107028",
+            "notation": "CSS0501B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Wish to Be Dead (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107028"
+        },
+        {
+            "alt_label": "CSS05-Wish to be Dead, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Description of wishing to be dead.",
+            "identifier": "C107029",
+            "notation": "CSS0501C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Description of Wish to Be Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107029"
+        },
+        {
+            "alt_label": "CSS05-Non-Spec Suicid Thought-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you actually had any thoughts of killing yourself? (Prior to Study Entry).",
+            "identifier": "C107030",
+            "notation": "CSS0502A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Non-Specific Active Suicidal Thoughts (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107030"
+        },
+        {
+            "alt_label": "CSS05-Non-Spec Suicid Thought-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you actually had any thoughts of killing yourself? (Since Study Start).",
+            "identifier": "C107031",
+            "notation": "CSS0502B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Non-Specific Active Suicidal Thoughts (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107031"
+        },
+        {
+            "alt_label": "CSS05-Non-Spec Suicid Thought, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Description of non-specific active suicidal thoughts.",
+            "identifier": "C107032",
+            "notation": "CSS0502C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Description of Non-Specific Active Suicidal Thoughts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107032"
+        },
+        {
+            "alt_label": "CSS05-Idea, No Intent, No Plan-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you been thinking about how you might do this? (Prior to Study Entry).",
+            "identifier": "C107033",
+            "notation": "CSS0503A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Active Suicidal Ideation With Any Methods (Not Plan) Without Intent to Act (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107033"
+        },
+        {
+            "alt_label": "CSS05-Idea, No Intent, No Plan-Since",
+            "definition": "Columbia-Suicide Suicide Rating Scale Already Enrolled Subjects - Have you been thinking about how you might do this? (Since Study Start).",
+            "identifier": "C107034",
+            "notation": "CSS0503B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Active Suicidal Ideation With Any Methods (Not Plan) Without Intent to Act (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107034"
+        },
+        {
+            "alt_label": "CSS05-Idea, No Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Description of active suicidal ideation with any methods (not plan) without intent to act.",
+            "identifier": "C107035",
+            "notation": "CSS0503C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Description of Active Suicidal Ideation With Any Methods (Not Plan) Without Intent to Act",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107035"
+        },
+        {
+            "alt_label": "CSS05-Idea, Intent, No Plan-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you had these thoughts and had some intention of acting on them? (Prior to Study Entry).",
+            "identifier": "C107036",
+            "notation": "CSS0504A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Active Suicidal Ideation With Some Intent to Act, Without Specific Plan (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107036"
+        },
+        {
+            "alt_label": "CSS05-Idea, Intent, No Plan-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you had these thoughts and had some intention of acting on them? (Since Study Start).",
+            "identifier": "C107037",
+            "notation": "CSS0504B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Active Suicidal Ideation With Some Intent to Act, Without Specific Plan (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107037"
+        },
+        {
+            "alt_label": "CSS05-Idea, Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Description of active suicidal ideation with some intent to act, without specific plan.",
+            "identifier": "C107038",
+            "notation": "CSS0504C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Description of Active Suicidal Ideation With Some Intent to Act, Without Specific Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107038"
+        },
+        {
+            "alt_label": "CSS05-Idea, Plan, Intent-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Prior to Study Entry).",
+            "identifier": "C107039",
+            "notation": "CSS0505A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Active Suicidal Ideation With Specific Plan and Intent (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107039"
+        },
+        {
+            "alt_label": "CSS05-Idea, Plan, Intent-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Since Study Start).",
+            "identifier": "C107040",
+            "notation": "CSS0505B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Active Suicidal Ideation With Specific Plan and Intent (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107040"
+        },
+        {
+            "alt_label": "CSS05-Idea, Plan, Intent, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Description of active suicidal ideation with specific plan and intent.",
+            "identifier": "C107041",
+            "notation": "CSS0505C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Description of Active Suicidal Ideation With Specific Plan and Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107041"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Most severe ideation. (Prior to Study Entry).",
+            "identifier": "C107042",
+            "notation": "CSS0506A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Most Severe Ideation (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107042"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Desc-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Description of most severe ideation. (Prior to Study Entry).",
+            "identifier": "C107043",
+            "notation": "CSS0506B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Describe Most Severe Ideation (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107043"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Most severe ideation. (Since Study Start).",
+            "identifier": "C107044",
+            "notation": "CSS0506C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Most Severe Ideation (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107044"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Desc-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Description of most severe ideation. (Since Study Start).",
+            "identifier": "C107045",
+            "notation": "CSS0506D",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Describe Most Severe Ideation (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107045"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Frequency-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - How many times have you had these thoughts? (Prior to Study Entry).",
+            "identifier": "C107046",
+            "notation": "CSS0507A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Frequency of Most Severe Ideation (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107046"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Frequency-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - How many times have you had these thoughts? (Since Study Start).",
+            "identifier": "C107047",
+            "notation": "CSS0507B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Frequency of Most Severe Ideation (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107047"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Duration-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - When you have the thoughts how long do they last? (Prior to Study Entry).",
+            "identifier": "C107048",
+            "notation": "CSS0508A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Duration of Most Severe Ideation (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107048"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Duration-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - When you have the thoughts how long do they last? (Since Study Start).",
+            "identifier": "C107049",
+            "notation": "CSS0508B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Duration of Most Severe Ideation (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107049"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Control-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Prior to Study Entry).",
+            "identifier": "C107050",
+            "notation": "CSS0509A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Controllability of Most Severe Ideation (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107050"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Control-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Since Study Start).",
+            "identifier": "C107051",
+            "notation": "CSS0509B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Controllability of Most Severe Ideation (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107051"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Deterrents-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Are there things-anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Prior to Study Entry).",
+            "identifier": "C107052",
+            "notation": "CSS0510A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Deterrents to Most Severe Ideation (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107052"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Deterrents-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Are there things-anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Since Study Start).",
+            "identifier": "C107053",
+            "notation": "CSS0510B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Deterrents to Most Severe Ideation (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107053"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Reasons-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Prior to Study Entry).",
+            "identifier": "C107054",
+            "notation": "CSS0511A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Reasons For Most Severe Ideation (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107054"
+        },
+        {
+            "alt_label": "CSS05-Most Severe Idea, Reasons-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Since Study Start).",
+            "identifier": "C107055",
+            "notation": "CSS0511B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Reasons For Most Severe Ideation (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107055"
+        },
+        {
+            "alt_label": "CSS05-Actual Attempt-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died? (Prior to Study Entry).",
+            "identifier": "C107056",
+            "notation": "CSS0512A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Actual Suicide Attempt (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107056"
+        },
+        {
+            "alt_label": "CSS05-Actual Attempt-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died? (Since Study Start).",
+            "identifier": "C107057",
+            "notation": "CSS0512B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Actual Suicide Attempt (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107057"
+        },
+        {
+            "alt_label": "CSS05-Number of Actual Attempts-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Total number of actual attempts. (Prior to Study Entry).",
+            "identifier": "C107058",
+            "notation": "CSS0513A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Number of Actual Suicide Attempts (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107058"
+        },
+        {
+            "alt_label": "CSS05-Number of Actual Attempts-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Total number of actual attempts. (Since Study Start).",
+            "identifier": "C107059",
+            "notation": "CSS0513B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Number of Actual Suicide Attempts (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107059"
+        },
+        {
+            "alt_label": "CSS05-Actual Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Description of actual attempt.",
+            "identifier": "C107060",
+            "notation": "CSS0513C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Description of Actual Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107060"
+        },
+        {
+            "alt_label": "CSS05-Non-suicid Self-injur Behav-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Has the subject engaged in non-suicidal self-injurious behavior? (Prior to Study Entry).",
+            "identifier": "C107061",
+            "notation": "CSS0514A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Non-suicidal Self-injurious Behavior (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107061"
+        },
+        {
+            "alt_label": "CSS05-Non-suicid Self-injur Behav-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Has the subject engaged in non-suicidal self-injurious behavior? (Since Study Start).",
+            "identifier": "C107062",
+            "notation": "CSS0514B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Non-suicidal Self-injurious Behavior (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107062"
+        },
+        {
+            "alt_label": "CSS05-Interrupted Attempt-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Has there been a time when you started to do something to try to end your life but someone or something stopped you before you actually did anything? (Prior to Study Entry).",
+            "identifier": "C107063",
+            "notation": "CSS0515A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Interrupted Suicide Attempt (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107063"
+        },
+        {
+            "alt_label": "CSS05-Interrupted Attempt-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Has there been a time when you started to do something to try to end your life but someone or something stopped you before you actually did anything? (Since Study Start).",
+            "identifier": "C107064",
+            "notation": "CSS0515B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Interrupted Suicide Attempt (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107064"
+        },
+        {
+            "alt_label": "CSS05-Num of Interrupted Attempts-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Total number of interrupted attempts. (Prior to Study Entry).",
+            "identifier": "C107065",
+            "notation": "CSS0516A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Number of Interrupted Suicide Attempts (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107065"
+        },
+        {
+            "alt_label": "CSS05-Num of Interrupted Attempts-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Total number of interrupted attempts. (Since Study Start).",
+            "identifier": "C107066",
+            "notation": "CSS0516B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Number of Interrupted Suicide Attempts (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107066"
+        },
+        {
+            "alt_label": "CSS05-Interrupted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Description of interrupted attempt.",
+            "identifier": "C107067",
+            "notation": "CSS0516C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Description of Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107067"
+        },
+        {
+            "alt_label": "CSS05-Aborted Attempt-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything? (Prior to Study Entry).",
+            "identifier": "C107068",
+            "notation": "CSS0517A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Aborted Suicide Attempt (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107068"
+        },
+        {
+            "alt_label": "CSS05-Aborted Attempt-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything? (Since Study Start).",
+            "identifier": "C107069",
+            "notation": "CSS0517B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Aborted Suicide Attempt (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107069"
+        },
+        {
+            "alt_label": "CSS05-Number of Aborted Attempts-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Total number of aborted attempts. (Prior to Study Entry).",
+            "identifier": "C107070",
+            "notation": "CSS0518A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Number of Aborted Suicide Attempts (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107070"
+        },
+        {
+            "alt_label": "CSS05-Number of Aborted Attempts-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Total number of aborted attempts. (Since Study Start).",
+            "identifier": "C107071",
+            "notation": "CSS0518B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Number of Aborted Suicide Attempts (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107071"
+        },
+        {
+            "alt_label": "CSS05-Aborted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Description of aborted attempt.",
+            "identifier": "C107072",
+            "notation": "CSS0518C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Description of Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107072"
+        },
+        {
+            "alt_label": "CSS05-Preparatory Acts/Behavior-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)? (Prior to Study Entry).",
+            "identifier": "C107073",
+            "notation": "CSS0519A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Preparatory Acts or Behaviors Toward Suicide Attempt (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107073"
+        },
+        {
+            "alt_label": "CSS05-Preparatory Acts/Behavior-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)? (Since Study Start).",
+            "identifier": "C107074",
+            "notation": "CSS0519B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Preparatory Acts or Behaviors Toward Suicide Attempt (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107074"
+        },
+        {
+            "alt_label": "CSS05-Preparatory Acts/Behavior, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Description of preparatory acts or behavior.",
+            "identifier": "C107075",
+            "notation": "CSS0519C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Description of Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107075"
+        },
+        {
+            "alt_label": "CSS05-Suicidal Behavior-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Suicidal behavior was present during the assessment period? (Prior to Study Entry).",
+            "identifier": "C107076",
+            "notation": "CSS0520A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Suicidal Behavior (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107076"
+        },
+        {
+            "alt_label": "CSS05-Suicidal Behavior-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Suicidal behavior was present during the assessment period? (Since Study Start).",
+            "identifier": "C107077",
+            "notation": "CSS0520B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Suicidal Behavior (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107077"
+        },
+        {
+            "alt_label": "CSS05-Completed Suicide-Prior",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Completed suicide? (Prior to Study Entry).",
+            "identifier": "C107078",
+            "notation": "CSS0521A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Completed Suicide (Prior to Study Entry)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107078"
+        },
+        {
+            "alt_label": "CSS05-Completed Suicide-Since",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Completed suicide? (Since Study Start).",
+            "identifier": "C107079",
+            "notation": "CSS0521B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Completed Suicide (Since Study Start)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107079"
+        },
+        {
+            "alt_label": "CSS05-Most Recent Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Most recent attempt date.",
+            "identifier": "C107080",
+            "notation": "CSS0522A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Most Recent Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107080"
+        },
+        {
+            "alt_label": "CSS05-Most Recent Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Most recent attempt actual lethality/medical damage.",
+            "identifier": "C107081",
+            "notation": "CSS0522B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Most Recent Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107081"
+        },
+        {
+            "alt_label": "CSS05-Most Recent Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Most recent attempt potential lethality.",
+            "identifier": "C107082",
+            "notation": "CSS0522C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Most Recent Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107082"
+        },
+        {
+            "alt_label": "CSS05-Most Lethal Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Most lethal attempt date.",
+            "identifier": "C107083",
+            "notation": "CSS0523A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Most Lethal Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107083"
+        },
+        {
+            "alt_label": "CSS05-Most Lethal Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Most lethal attempt actual lethality/medical damage.",
+            "identifier": "C107084",
+            "notation": "CSS0523B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Most Lethal Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107084"
+        },
+        {
+            "alt_label": "CSS05-Most Lethal Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Most lethal attempt potential lethality.",
+            "identifier": "C107085",
+            "notation": "CSS0523C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - Most Lethal Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107085"
+        },
+        {
+            "alt_label": "CSS05-First Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Initial/first attempt date.",
+            "identifier": "C107086",
+            "notation": "CSS0524A",
+            "pref_label": "C-SSRS Already Enrolled Subjects - First Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107086"
+        },
+        {
+            "alt_label": "CSS05-First Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Initial/first attempt actual lethality/medical damage.",
+            "identifier": "C107087",
+            "notation": "CSS0524B",
+            "pref_label": "C-SSRS Already Enrolled Subjects - First Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107087"
+        },
+        {
+            "alt_label": "CSS05-First Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects - Initial/first attempt potential lethality.",
+            "identifier": "C107088",
+            "notation": "CSS0524C",
+            "pref_label": "C-SSRS Already Enrolled Subjects - First Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106659-C107088"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Includes acute ischemic symptoms at rest, acute post ischemic ECG, positive biomarkers and pathological evidence. Definite stent thrombosis is considered to have occurred when there is either angiographic or pathological confirmation. Angiographic confirmation is the presence of a thrombus at coronary angiography that originates in the stent or in the segment 5 mm proximal or distal to the stent, with the presence of at least 1 of 3 clinical criteria within a 48-hour time window: 1) acute onset of ischemic symptoms at rest; 2) new ischemic ECG changes that suggest acute ischemia; or 3) typical rise and fall in cardiac biomarkers. Pathological confirmation is evidence of recent thrombus within the stent determined at autopsy or via examination of tissue retrieved following thrombectomy. (Cutlip DE, Windecker S, Mehran R, et al. Clinical End Points in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)",
+            "identifier": "C119598",
+            "notation": "STENT THROMBOSIS ARC GRADE DEFINITE",
+            "pref_label": "ARC Definite Stent Thrombosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119020-C119598"
+        },
+        {
+            "definition": "Possible stent thrombosis is considered to have occurred with any unexplained death more than 30 days after intracoronary stenting. (Cutlip DE, Windecker S, Mehran R, et al. Clinical End Points in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)",
+            "identifier": "C119600",
+            "notation": "STENT THROMBOSIS ARC GRADE POSSIBLE",
+            "pref_label": "ARC Possible Stent Thrombosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119020-C119600"
+        },
+        {
+            "definition": "Includes death within 30 days and myocardial infarction of stent territory. Probable stent thrombosis is considered to have occurred after intracoronary stenting in the following situations: 1) any unexplained death within the first 30 days; or 2) irrespective of the time after the index procedure, any MI that is related to documented acute ischemia in the territory of the implanted stent without angiographic confirmation of stent thrombosis and in the absence of any other obvious cause. (Cutlip DE, Windecker S, Mehran R, et al. Clinical End Points in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)",
+            "identifier": "C119599",
+            "notation": "STENT THROMBOSIS ARC GRADE PROBABLE",
+            "pref_label": "ARC Probable Stent Thrombosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119020-C119599"
+        }
+    ]
+}

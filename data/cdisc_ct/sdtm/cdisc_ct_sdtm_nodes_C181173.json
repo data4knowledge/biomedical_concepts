@@ -1,0 +1,1004 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "B-Lymphocytes B1;BLym B1",
+            "definition": "A measurement of B-lymphocytes B1 in a biological specimen.",
+            "identifier": "C181307",
+            "notation": "BLYB1",
+            "pref_label": "B-Lymphocytes B1 Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181307"
+        },
+        {
+            "alt_label": "B-Lymphocytes B1a;BLym B1a",
+            "definition": "A measurement of the B1a B-lymphocytes in a biological specimen.",
+            "identifier": "C184400",
+            "notation": "BLYB1A",
+            "pref_label": "B-Lymphocyte B1a Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184400"
+        },
+        {
+            "alt_label": "B-Lymphocytes B1b;BLym B1b",
+            "definition": "A measurement of the B1b B-lymphocytes in a biological specimen.",
+            "identifier": "C184401",
+            "notation": "BLYB1B",
+            "pref_label": "B-Lymphocyte B1b Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184401"
+        },
+        {
+            "alt_label": "B-lym B1 Subpopulation;BLym B1 Sub",
+            "definition": "A measurement of a subpopulation of B-lymphocytes B1 in a biological specimen.",
+            "identifier": "C181308",
+            "notation": "BLYB1S",
+            "pref_label": "B-Lymphocytes B1 Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181308"
+        },
+        {
+            "alt_label": "B-Lymphocytes B1 Transitional;BLym B1 Trans",
+            "definition": "A measurement of the transitional B1 B-lymphocytes in a biological specimen.",
+            "identifier": "C184399",
+            "notation": "BLYB1T",
+            "pref_label": "Transitional B-Lymphocyte B1 Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184399"
+        },
+        {
+            "alt_label": "B-Lymphocytes B2 Immature;BLym B2 Immat",
+            "definition": "A measurement of the immature B2 B-lymphocytes in a biological specimen.",
+            "identifier": "C184402",
+            "notation": "BLYB2IM",
+            "pref_label": "Immature B-Lymphocyte B2 Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184402"
+        },
+        {
+            "alt_label": "B-Lymphocytes B2 Mature;BLym B2 Mat",
+            "definition": "A measurement of the mature B2 B-lymphocytes in a biological specimen.",
+            "identifier": "C184403",
+            "notation": "BLYB2MA",
+            "pref_label": "Mature B-Lymphocyte B2 Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184403"
+        },
+        {
+            "alt_label": "B-Lymphocytes B2 Transitional;BLym B2 Trans",
+            "definition": "A measurement of the transitional B2 B-lymphocytes in a biological specimen.",
+            "identifier": "C184404",
+            "notation": "BLYB2T",
+            "pref_label": "Transitional B-Lymphocyte B2 Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184404"
+        },
+        {
+            "alt_label": "B-Cell Lymphocytes;B-Cells;B-Lymphocytes",
+            "definition": "A measurement of the B-lymphocytes in a biological specimen.",
+            "identifier": "C174314",
+            "notation": "BLYCE",
+            "pref_label": "B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C174314"
+        },
+        {
+            "alt_label": "B-Lymphocytes/Total Cells",
+            "definition": "A relative measurement (ratio or percentage) of the B-lymphocytes to total cells in a biological specimen.",
+            "identifier": "C174317",
+            "notation": "BLYCECE",
+            "pref_label": "B-Lymphocyte to Total Cells Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C174317"
+        },
+        {
+            "alt_label": "B Cells/Leukocytes;B-Lymphocytes/Leukocytes;BLym/Leuk",
+            "definition": "A relative measurement (ratio or percentage) of B-lymphocytes to leukocytes in a biological specimen.",
+            "identifier": "C181309",
+            "notation": "BLYCELE",
+            "pref_label": "B-Lymphocytes to Leukocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181309"
+        },
+        {
+            "alt_label": "B-Lymphocytes/Lymphocytes",
+            "definition": "A relative measurement (ratio or percentage) of the B-lymphocytes to total lymphocytes in a biological specimen.",
+            "identifier": "C174315",
+            "notation": "BLYCELY",
+            "pref_label": "B-Lymphocyte to Lymphocyte Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C174315"
+        },
+        {
+            "alt_label": "B-Lymphocytes Effector;BLym Eff",
+            "definition": "A measurement of the effector B-lymphocytes in a biological specimen.",
+            "identifier": "C184354",
+            "notation": "BLYE",
+            "pref_label": "Effector B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184354"
+        },
+        {
+            "alt_label": "B-Lymphocytes Effector 1;BLym Eff 1",
+            "definition": "A measurement of the effector 1 B-lymphocytes in a biological specimen.",
+            "identifier": "C184362",
+            "notation": "BLYE1",
+            "pref_label": "Effector 1 B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184362"
+        },
+        {
+            "alt_label": "B-Lymphocytes Effector 1 Sub-Population;BLym Eff 1 Sub",
+            "definition": "A measurement of a sub-population of effector 1 B-lymphocytes in a biological specimen.",
+            "identifier": "C184405",
+            "notation": "BLYE1S",
+            "pref_label": "Effector 1 B-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184405"
+        },
+        {
+            "alt_label": "B-Lymphocytes Effector 2;BLym Eff 2",
+            "definition": "A measurement of the effector 2 B-lymphocytes in a biological specimen.",
+            "identifier": "C184363",
+            "notation": "BLYE2",
+            "pref_label": "Effector 2 B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184363"
+        },
+        {
+            "alt_label": "B-Lymphocytes Effector 2 Sub-Population;BLym Eff 2 Sub",
+            "definition": "A measurement of a sub-population of effector 2 B-lymphocytes in a biological specimen.",
+            "identifier": "C184406",
+            "notation": "BLYE2S",
+            "pref_label": "Effector 2 B-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184406"
+        },
+        {
+            "alt_label": "B-Lymphocytes Effector Sub-Population;BLym Eff Sub",
+            "definition": "A measurement of a sub-population of effector B-lymphocytes in a biological specimen.",
+            "identifier": "C184361",
+            "notation": "BLYES",
+            "pref_label": "Effector B-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184361"
+        },
+        {
+            "alt_label": "B-Lymphocytes Follicular;BLym Foll",
+            "definition": "A measurement of the follicular B-lymphocytes in a biological specimen.",
+            "identifier": "C184355",
+            "notation": "BLYF",
+            "pref_label": "Follicular B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184355"
+        },
+        {
+            "alt_label": "B-Lymphocytes Follicular Sub-Population;BLym Foll Sub",
+            "definition": "A measurement of a sub-population of follicular B-lymphocytes in a biological specimen.",
+            "identifier": "C184407",
+            "notation": "BLYFS",
+            "pref_label": "Follicular B-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184407"
+        },
+        {
+            "alt_label": "B-Lymphocytes Germinal Center;BLym Germ Ctr",
+            "definition": "A measurement of the germinal center B-lymphocytes in a biological specimen.",
+            "identifier": "C184345",
+            "notation": "BLYGC",
+            "pref_label": "Germinal Center B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184345"
+        },
+        {
+            "alt_label": "B-Lymphocytes Germinal Center Sub-Population;BLym Germ Ctr Sub",
+            "definition": "A measurement of a sub-population of germinal center B-lymphocytes in a biological specimen.",
+            "identifier": "C184408",
+            "notation": "BLYGCS",
+            "pref_label": "Germinal Center B-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184408"
+        },
+        {
+            "alt_label": "B-Lymphocytes Immature;BLym Immat",
+            "definition": "A measurement of the immature B-lymphocytes in a biological specimen.",
+            "identifier": "C184346",
+            "notation": "BLYIM",
+            "pref_label": "Immature B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184346"
+        },
+        {
+            "alt_label": "B-Lymphocytes Memory;BLym Mem",
+            "definition": "A measurement of the memory B-lymphocytes in a biological specimen.",
+            "identifier": "C184348",
+            "notation": "BLYM",
+            "pref_label": "Memory B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184348"
+        },
+        {
+            "alt_label": "B-Lymphocytes Mature;BLym Mat",
+            "definition": "A measurement of the mature B-lymphocytes in a biological specimen.",
+            "identifier": "C184347",
+            "notation": "BLYMA",
+            "pref_label": "Mature B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184347"
+        },
+        {
+            "alt_label": "B-Lymphocytes Memory cB1;BLym Mem cB1",
+            "definition": "A measurement of the cB1 memory B-lymphocytes in a biological specimen.",
+            "identifier": "C184410",
+            "notation": "BLYMCB1",
+            "pref_label": "Memory B-Lymphocyte cB1 Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184410"
+        },
+        {
+            "alt_label": "B-Lymphocytes Memory cB2;BLym Mem cB2",
+            "definition": "A measurement of the cB2 memory B-lymphocytes in a biological specimen.",
+            "identifier": "C184411",
+            "notation": "BLYMCB2",
+            "pref_label": "Memory B-Lymphocyte cB2 Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184411"
+        },
+        {
+            "alt_label": "B-Lymphocytes Memory cB3;BLym Mem cB3",
+            "definition": "A measurement of the cB3 memory B-lymphocytes in a biological specimen.",
+            "identifier": "C184412",
+            "notation": "BLYMCB3",
+            "pref_label": "Memory B-Lymphocyte cB3 Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184412"
+        },
+        {
+            "alt_label": "B-Lymphocytes Memory Immature;BLym Mem Immat",
+            "definition": "A measurement of the memory immature B-lymphocytes in a biological specimen.",
+            "identifier": "C184415",
+            "notation": "BLYMIM",
+            "pref_label": "Immature Memory B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184415"
+        },
+        {
+            "alt_label": "B-Lymphocytes Memory Mature;BLym Mem Mat",
+            "definition": "A measurement of the memory mature B-lymphocytes in a biological specimen.",
+            "identifier": "C184416",
+            "notation": "BLYMMA",
+            "pref_label": "Mature Memory B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184416"
+        },
+        {
+            "alt_label": "B-Lymphocytes Memory Non-Class-Switched;B-Lymphocytes Memory Unswitched;BLym Mem NSw",
+            "definition": "A measurement of the non-class-switched memory B-lymphocytes in a biological specimen.",
+            "identifier": "C184359",
+            "notation": "BLYMNSW",
+            "pref_label": "Nonclass-switched Memory B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184359"
+        },
+        {
+            "alt_label": "B-Lymphocytes Memory Non-Class-Switched Sub-Population;B-Lymphocytes Memory Unswitched Sub-Population",
+            "definition": "A measurement of a sub-population of non-class-switched memory B-lymphocytes in a biological specimen.",
+            "identifier": "C184414",
+            "notation": "BLYMNSWS",
+            "pref_label": "Nonclass-switched Memory B-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184414"
+        },
+        {
+            "alt_label": "B-Lymphocytes Memory Sub-Population;BLym Mem Sub",
+            "definition": "A measurement of a sub-population of memory B-lymphocytes in a biological specimen.",
+            "identifier": "C184357",
+            "notation": "BLYMS",
+            "pref_label": "Memory B-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184357"
+        },
+        {
+            "alt_label": "B-Lymphocytes Memory Class-Switched;B-Lymphocytes Memory Switched;BLym Mem Sw",
+            "definition": "A measurement of the class-switched memory B-lymphocytes in a biological specimen.",
+            "identifier": "C184358",
+            "notation": "BLYMSW",
+            "pref_label": "Class-switched Memory B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184358"
+        },
+        {
+            "alt_label": "B-Lymphocytes Memory Class-Switched Sub-Population;BLym Mem Sw Sub",
+            "definition": "A measurement of a sub-population of class-switched memory B-lymphocytes in a biological specimen.",
+            "identifier": "C184413",
+            "notation": "BLYMSWS",
+            "pref_label": "Class-switched Memory B-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184413"
+        },
+        {
+            "alt_label": "B-Lymphocytes Marginal Zone;BLym Marg Zn",
+            "definition": "A measurement of the marginal zone B-lymphocytes in a biological specimen.",
+            "identifier": "C184409",
+            "notation": "BLYMZ",
+            "pref_label": "Marginal Zone B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184409"
+        },
+        {
+            "alt_label": "B-Lymphocytes, Naive;BLym Naive;Naive B Cells;Naive B-Lymphocytes",
+            "definition": "A measurement of the naive B-lymphocytes in a biological specimen.",
+            "identifier": "C181262",
+            "notation": "BLYN",
+            "pref_label": "Naive B-Lymphocyte Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181262"
+        },
+        {
+            "alt_label": "B Cell, Naive/B Cell;B-Lymphocyte, Naive/B-Lymphocyte;BLym Naive/Blym;Naive B-Lymphocytes/B-Lymphocytes",
+            "definition": "A relative measurement (ratio or percentage) of naive B-lymphocytes to B-lymphocytes in a biological specimen.",
+            "identifier": "C181264",
+            "notation": "BLYNBLY",
+            "pref_label": "Naive B-Lymphocytes to Total B-Lymphocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181264"
+        },
+        {
+            "alt_label": "B-Lymphocytes Naive Mature;BLym Naive Mat",
+            "definition": "A measurement of the naive mature B-lymphocytes in a biological specimen.",
+            "identifier": "C184356",
+            "notation": "BLYNMA",
+            "pref_label": "Naive Mature B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184356"
+        },
+        {
+            "alt_label": "B-Lymphocytes Naive Sub-Population;BLym Naive Sub",
+            "definition": "A measurement of a sub-population of naive B-lymphocytes in a biological specimen.",
+            "identifier": "C184417",
+            "notation": "BLYNS",
+            "pref_label": "Naive B-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184417"
+        },
+        {
+            "alt_label": "B-Lymphocytes Regulatory;BLym Reg",
+            "definition": "A measurement of the regulatory B-lymphocytes in a biological specimen.",
+            "identifier": "C184349",
+            "notation": "BLYR",
+            "pref_label": "Regulatory B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184349"
+        },
+        {
+            "alt_label": "B-Lymphocytes Regulatory Sub-Population;BLym Reg Sub",
+            "definition": "A measurement of the sub-population of regulatory B-lymphocytes in a biological specimen.",
+            "identifier": "C184418",
+            "notation": "BLYRS",
+            "pref_label": "Regulatory B-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184418"
+        },
+        {
+            "alt_label": "B-Lymphocytes Subpopulation;BLym Sub",
+            "definition": "A measurement of a subpopulation of B-lymphocytes in a biological specimen.",
+            "identifier": "C181187",
+            "notation": "BLYS",
+            "pref_label": "B-Lymphocytes Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181187"
+        },
+        {
+            "alt_label": "B Cell, Naive Subpopulation/B Cell;B-Lymphocyte, Naive Subpopulation/B-Lymphocyte;BLym Naive Sub/Blym;BLym Sub/BLym;Lymphocyte, Naive Subset/B-Lymphocyte",
+            "definition": "A relative measurement (ratio or percentage) of a subpopulation of naive B-lymphocytes to B-lymphocytes in a biological specimen.",
+            "identifier": "C181265",
+            "notation": "BLYSBLY",
+            "pref_label": "B-Lymphocytes Subpopulation to Total B-Lymphocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181265"
+        },
+        {
+            "alt_label": "B-Lymphocytes Transitional;BLym Trans",
+            "definition": "A measurement of the transitional B-lymphocytes in a biological specimen.",
+            "identifier": "C184360",
+            "notation": "BLYT",
+            "pref_label": "Transitional B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184360"
+        },
+        {
+            "alt_label": "B-Lymphocytes Transitional 1;BLym Trans 1",
+            "definition": "A measurement of the transitional 1 B-lymphocytes in a biological specimen.",
+            "identifier": "C184419",
+            "notation": "BLYT1",
+            "pref_label": "Transitional 1 B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184419"
+        },
+        {
+            "alt_label": "B-Lymphocytes Transitional 2;BLym Trans 2",
+            "definition": "A measurement of the transitional 2 B-lymphocytes in a biological specimen.",
+            "identifier": "C184420",
+            "notation": "BLYT2",
+            "pref_label": "Transitional 2 B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184420"
+        },
+        {
+            "alt_label": "B-Lymphocytes Transitional 3;BLym Trans 3",
+            "definition": "A measurement of the transitional 3 B-lymphocytes in a biological specimen.",
+            "identifier": "C184421",
+            "notation": "BLYT3",
+            "pref_label": "Transitional 3 B-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184421"
+        },
+        {
+            "alt_label": "B Cells, Naive Subpopulation/B Cells, Naive;B-Lymphocyte, Naive Subpopulation/B-Lymphocyte, Naive;B-Lymphocyte, Naive Subset/B-Lymphocyte, Naive;BLym Naive Sub/BLym Naive",
+            "definition": "A relative measurement (ratio or percentage) of a subpopulation of naive B-lymphocytes to naive B-lymphocytes in a biological specimen.",
+            "identifier": "C181263",
+            "notation": "BNSBN",
+            "pref_label": "Naive B-Lymphocytes Subpopulation to Total B-Lymphocytes Naive Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181263"
+        },
+        {
+            "alt_label": "CD40 Expression",
+            "definition": "A measurement of CD40 expression in a biological specimen.",
+            "identifier": "C82006",
+            "notation": "CD40X",
+            "pref_label": "CD40 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C82006"
+        },
+        {
+            "alt_label": "CD80 Expression",
+            "definition": "A measurement of CD80 expression in a biological specimen.",
+            "identifier": "C181266",
+            "notation": "CD80X",
+            "pref_label": "CD80 Expression Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181266"
+        },
+        {
+            "alt_label": "CD83 Expression",
+            "definition": "A measurement of CD83 expression in a biological specimen.",
+            "identifier": "C181267",
+            "notation": "CD83X",
+            "pref_label": "CD83 Expression Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181267"
+        },
+        {
+            "alt_label": "CD95 Expression",
+            "definition": "A measurement of CD95 expression in a biological specimen.",
+            "identifier": "C181268",
+            "notation": "CD95X",
+            "pref_label": "CD95 Expression Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181268"
+        },
+        {
+            "alt_label": "DC;Dendritic Cells",
+            "definition": "A measurement of the dendritic cells in a biological specimen.",
+            "identifier": "C181185",
+            "notation": "DC",
+            "pref_label": "Dendritic Cells Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181185"
+        },
+        {
+            "alt_label": "Dendritic Cells/Total Cells",
+            "definition": "A relative measurement (ratio or percentage) of the dendritic cells to total cells in a biological specimen.",
+            "identifier": "C181252",
+            "notation": "DCCE",
+            "pref_label": "Dendritic Cells to Total Cells Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181252"
+        },
+        {
+            "alt_label": "Dendritic Cells/Lym+Mono;Dendritic Cells/Lymphocytes and Monocytes",
+            "definition": "A relative measurement (ratio or percentage) of the dendritic cells to lymphocytes and monocytes in a biological specimen.",
+            "identifier": "C181269",
+            "notation": "DCLYMONO",
+            "pref_label": "Dendritic Cells to Lymphocytes and Monocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181269"
+        },
+        {
+            "alt_label": "cDC;Conventional DC;DC Myeloid;Dendritic Cells Myeloid;mDC",
+            "definition": "A measurement of the myeloid dendritic cells in a biological specimen.",
+            "identifier": "C184350",
+            "notation": "DCM",
+            "pref_label": "Myeloid Dendritic Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184350"
+        },
+        {
+            "alt_label": "DC Myeloid Sub;Dendritic Cells Myeloid Sub-Population",
+            "definition": "A measurement of a sub-population of myeloid dendritic cells in a biological specimen.",
+            "identifier": "C184423",
+            "notation": "DCMS",
+            "pref_label": "Myeloid Dendritic Cell Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184423"
+        },
+        {
+            "alt_label": "DC Plasmacytoid;Plasmacytoid Dendritic Cells",
+            "definition": "A measurement of the plasmacytoid dendritic cells in a biological specimen.",
+            "identifier": "C181195",
+            "notation": "DCP",
+            "pref_label": "Plasmacytoid Dendritic Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181195"
+        },
+        {
+            "alt_label": "DC Plasmacytoid/DC;DC Plasmacytoid/Dendritic Cells;Plasmacytoid Dendritic Cells/Dendritic Cells",
+            "definition": "A relative measurement (ratio or percentage) of the plasmacytoid dendritic cells to dendritic cells in a biological specimen.",
+            "identifier": "C181272",
+            "notation": "DCPDC",
+            "pref_label": "Plasmacytoid Dendritic Cells to Dendritic Cells Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181272"
+        },
+        {
+            "alt_label": "DC Plasmacytoid Sub;Plasmacytoid Dendritic Cells Subpopulation",
+            "definition": "A measurement of a subpopulation of plasmacytoid dendritic cells in a biological specimen.",
+            "identifier": "C181270",
+            "notation": "DCPS",
+            "pref_label": "Plasmacytoid Dendritic Cell Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181270"
+        },
+        {
+            "alt_label": "DC Plasmacytoid Sub/DC Plasmacytoid;Plasmacytoid Dendritic Cells Subpopulation/Plasmacytoid Dendritic Cells",
+            "definition": "A relative measurement (ratio or percentage) of a subpopulation of plasmacytoid dendritic cells to total plasmacytoid dendritic cells in a biological specimen.",
+            "identifier": "C181271",
+            "notation": "DCPSDCP",
+            "pref_label": "Plasmacytoid Dendritic Cells Subpopulation to Dendritic Cells Plasmacytoid Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181271"
+        },
+        {
+            "alt_label": "DC Sub;Dendritic Cells Sub-Population",
+            "definition": "A measurement of a sub-population of dendritic cells in a biological specimen.",
+            "identifier": "C184422",
+            "notation": "DCS",
+            "pref_label": "Dendritic Cell Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184422"
+        },
+        {
+            "alt_label": "IE Lym;Intraepithelial Lymphocytes",
+            "definition": "A measurement of the intraepithelial lymphocytes in a biological specimen.",
+            "identifier": "C184424",
+            "notation": "IELY",
+            "pref_label": "Intraepithelial Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184424"
+        },
+        {
+            "alt_label": "Lymphocytes",
+            "definition": "A measurement of the lymphocytes in a biological specimen.",
+            "identifier": "C51949",
+            "notation": "LYM",
+            "pref_label": "Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C51949"
+        },
+        {
+            "alt_label": "Lymphocytes/Leukocytes",
+            "definition": "A relative measurement (ratio or percentage) of the lymphocytes to leukocytes in a biological specimen.",
+            "identifier": "C64820",
+            "notation": "LYMLE",
+            "pref_label": "Lymphocyte to Leukocyte Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C64820"
+        },
+        {
+            "alt_label": "Lym+Mono;Lym+Mono/Leuk;Lymphocytes and Monocytes",
+            "definition": "A measurement of the leukocytes and monocytes in a biological specimen.",
+            "identifier": "C181273",
+            "notation": "LYMONO",
+            "pref_label": "Lymphocytes and Monocytes Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181273"
+        },
+        {
+            "alt_label": "Lymphocytes and Monocytes/Leukocytes",
+            "definition": "A relative measurement (ratio or percentage) of the lymphocytes and monocytes to total leukocytes in a biological specimen.",
+            "identifier": "C181274",
+            "notation": "LYMONOLE",
+            "pref_label": "Lymphocytes and Monocytes to Leukocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181274"
+        },
+        {
+            "alt_label": "Lym Sub;Lymphocytes Sub;Lymphocytes Subpopulation",
+            "definition": "A measurement of a subpopulation of lymphocytes in a biological specimen.",
+            "identifier": "C181275",
+            "notation": "LYS",
+            "pref_label": "Lymphocytes Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181275"
+        },
+        {
+            "alt_label": "Lym Sub/Lym;Lymphocytes Sub/Lymphocytes;Lymphocytes Subpopulation/Lymphocytes",
+            "definition": "A relative measurement (ratio or percentage) of a subpopulation of lymphocytes to lymphocytes in a biological specimen.",
+            "identifier": "C181276",
+            "notation": "LYSLY",
+            "pref_label": "Lymphocyte Subpopulation to Total Lymphocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181276"
+        },
+        {
+            "alt_label": "Lym Viable/Lym NonViable;Lymphocytes Viable/Lymphocytes Non-Viable;Lymphocytes Viable/Lymphocytes NonViable",
+            "definition": "A relative measurement (ratio) of viable lymphocytes to non-viable lymphocytes in a biological specimen.",
+            "identifier": "C181277",
+            "notation": "LYVLYNV",
+            "pref_label": "Viable Lymphocytes to Nonviable Lymphocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181277"
+        },
+        {
+            "alt_label": "Mono Classic;Monocytes Classical",
+            "definition": "A measurement of the classical monocytes in a biological specimen.",
+            "identifier": "C181281",
+            "notation": "MNCL",
+            "pref_label": "Classic Monocytes Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181281"
+        },
+        {
+            "alt_label": "Mono Inflamm;Monocytes Inflammatory",
+            "definition": "A measurement of the inflammatory monocytes in a biological specimen.",
+            "identifier": "C181282",
+            "notation": "MNIF",
+            "pref_label": "Inflammatory Monocytes Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181282"
+        },
+        {
+            "alt_label": "Mono Intermed;Monocytes Intermediate",
+            "definition": "A measurement of the intermediate monocytes in a biological specimen.",
+            "identifier": "C181283",
+            "notation": "MNIN",
+            "pref_label": "Intermediate Monocytes Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181283"
+        },
+        {
+            "alt_label": "Mono Mat;Monocytes Mature",
+            "definition": "A measurement of the mature monocytes in a biological specimen.",
+            "identifier": "C181287",
+            "notation": "MNMA",
+            "pref_label": "Mature Monocytes Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181287"
+        },
+        {
+            "alt_label": "Mono NonClassic;Monocytes Non-Classical",
+            "definition": "A measurement of the non-classical monocytes in a biological specimen.",
+            "identifier": "C181284",
+            "notation": "MNNCL",
+            "pref_label": "Non-Classical Monocytes Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181284"
+        },
+        {
+            "alt_label": "Mono Proinflam;Monocytes Proinflammatory",
+            "definition": "A measurement of the pro-inflammatory monocytes in a biological specimen.",
+            "identifier": "C181285",
+            "notation": "MNPIF",
+            "pref_label": "Proinflammatory Monocytes Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181285"
+        },
+        {
+            "alt_label": "Mono Prolif/Mono NonProlif;Monocytes Prolif/Monocytes NonProlif;Monocytes Proliferating/Monocytes Non-Proliferating",
+            "definition": "A relative measurement (ratio) of proliferating monocytes to non-proliferating monocytes in a biological specimen.",
+            "identifier": "C181279",
+            "notation": "MNPMNNP",
+            "pref_label": "Proliferating Monocytes to Total Monocytes Non-Proliferating Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181279"
+        },
+        {
+            "alt_label": "Mono Resident;Monocytes Resident",
+            "definition": "A measurement of the resident monocytes in a biological specimen.",
+            "identifier": "C181286",
+            "notation": "MNR",
+            "pref_label": "Resident Monocytes Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181286"
+        },
+        {
+            "alt_label": "Mono Sub;Monocytes Sub;Monocytes Subpopulation",
+            "definition": "A measurement of a subpopulation of monocytes in a biological specimen.",
+            "identifier": "C181278",
+            "notation": "MNS",
+            "pref_label": "Monocytes Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181278"
+        },
+        {
+            "alt_label": "Mono Sub/Mono;Monocytes Sub/Monocytes;Monocytes Subpopulation/Monocytes",
+            "definition": "A relative measurement (ratio or percentage) of a subpopulation of monocytes to monocytes in a biological specimen.",
+            "identifier": "C181280",
+            "notation": "MNSMN",
+            "pref_label": "Monocyte Subpopulation to Total Monocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181280"
+        },
+        {
+            "alt_label": "Monocytes",
+            "definition": "A measurement of the monocytes in a biological specimen.",
+            "identifier": "C64823",
+            "notation": "MONO",
+            "pref_label": "Monocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C64823"
+        },
+        {
+            "alt_label": "Immature Monocytes",
+            "definition": "A measurement of the immature monocytes in a biological specimen.",
+            "identifier": "C96676",
+            "notation": "MONOIM",
+            "pref_label": "Immature Monocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C96676"
+        },
+        {
+            "alt_label": "Monocytes/Leukocytes",
+            "definition": "A relative measurement (ratio or percentage) of the monocytes to leukocytes in a biological specimen.",
+            "identifier": "C64824",
+            "notation": "MONOLE",
+            "pref_label": "Monocyte to Leukocyte Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C64824"
+        },
+        {
+            "alt_label": "Myel Cells;Myeloid Cells",
+            "definition": "A measurement of the myeloid cells in a biological specimen.",
+            "identifier": "C184425",
+            "notation": "MYC",
+            "pref_label": "Myeloid Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184425"
+        },
+        {
+            "alt_label": "Natural Killer Cells",
+            "definition": "A measurement of the total natural killer cells in a biological specimen.",
+            "identifier": "C98762",
+            "notation": "NKCE",
+            "pref_label": "Natural Killer Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C98762"
+        },
+        {
+            "alt_label": "Natural Killer Cells/Total Cells",
+            "definition": "A relative measurement (ratio or percentage) of the natural killer cells to total cells in a biological specimen.",
+            "identifier": "C181257",
+            "notation": "NKCECE",
+            "pref_label": "Natural Killer Cells to Total Cells Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181257"
+        },
+        {
+            "alt_label": "Natural Killer Cells/Leukocytes;NK Cells/Leuk",
+            "definition": "A relative measurement (ratio or percentage) of the natural killer cells to leukocytes in a biological specimen.",
+            "identifier": "C181306",
+            "notation": "NKLE",
+            "pref_label": "Natural Killer Cells to Leukocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181306"
+        },
+        {
+            "alt_label": "Natural Killer Cells/Lymphocytes;NK Cells/Lym",
+            "definition": "A relative measurement (ratio or percentage) of the natural killer cells to lymphocytes in a biological specimen.",
+            "identifier": "C181258",
+            "notation": "NKLY",
+            "pref_label": "Natural Killer Cells to Lymphocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181258"
+        },
+        {
+            "alt_label": "NK Cells Sub;NK Cells Subpopulation",
+            "definition": "A measurement of a subpopulation of natural killer cells in a biological specimen.",
+            "identifier": "C181260",
+            "notation": "NKS",
+            "pref_label": "Natural Killer Cells Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181260"
+        },
+        {
+            "alt_label": "Natural Killer Cells Subpopulation/Natural Killer Cells;NK Cells Sub/NK Cells",
+            "definition": "A relative measurement (ratio or percentage) of a sub population of natural killer cells to total natural killer cells in a biological specimen.",
+            "identifier": "C181259",
+            "notation": "NKSNK",
+            "pref_label": "Natural Killer Cells Subpopulation to Total Natural Killer Cells Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181259"
+        },
+        {
+            "alt_label": "Natural Killer T-Cells;Natural Killer T-Lymphocytes;NK Tlym",
+            "definition": "A measurement of the natural killer T-lymphocytes in a biological specimen.",
+            "identifier": "C184426",
+            "notation": "NKT",
+            "pref_label": "Natural Killer T-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184426"
+        },
+        {
+            "alt_label": "Stimulation Index",
+            "definition": "A relative measurement (ratio or percentage) of a cell characteristic or response in the presence of a stimulating agent relative to a non-stimulated control.",
+            "identifier": "C181300",
+            "notation": "STMIDX",
+            "pref_label": "Stimulation Index Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181300"
+        },
+        {
+            "alt_label": "Target Bound",
+            "definition": "A measurement of the bound target in a biological specimen, prior to background subtraction.",
+            "identifier": "C181295",
+            "notation": "TGB",
+            "pref_label": "Target Bound Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181295"
+        },
+        {
+            "alt_label": "Target Bound, Background",
+            "definition": "A measurement of the background associated with the bound target measurement in a biological specimen.",
+            "identifier": "C181294",
+            "notation": "TGBBK",
+            "pref_label": "Target Bound, Background Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181294"
+        },
+        {
+            "alt_label": "Target Bound, Delta Bound Background",
+            "definition": "A measurement of the difference between bound target and background target in a biological specimen.",
+            "identifier": "C181288",
+            "notation": "TGBDBBK",
+            "pref_label": "Target, Bound Delta Bound Background Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181288"
+        },
+        {
+            "alt_label": "Target Free",
+            "definition": "A measurement of the free target in a biological specimen, prior to background subtraction.",
+            "identifier": "C181296",
+            "notation": "TGF",
+            "pref_label": "Target Free Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181296"
+        },
+        {
+            "alt_label": "Target Free, Background",
+            "definition": "A measurement of the background associated with the free target measurement in a biological specimen.",
+            "identifier": "C181292",
+            "notation": "TGFBK",
+            "pref_label": "Target Free, Background Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181292"
+        },
+        {
+            "alt_label": "Target Free, Delta Free Background",
+            "definition": "A measurement of the difference between free target and free background target in a biological specimen.",
+            "identifier": "C181289",
+            "notation": "TGFDFBK",
+            "pref_label": "Target, Free Delta Free Background Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181289"
+        },
+        {
+            "alt_label": "Percent Occupancy;Percent Saturation;Target Occupancy",
+            "definition": "A relative measurement (ratio or percentage) of the specifically bound target to total target in a biological specimen.",
+            "identifier": "C181291",
+            "notation": "TGOCC",
+            "pref_label": "Target Occupancy Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181291"
+        },
+        {
+            "alt_label": "Target Total",
+            "definition": "A measurement of the total target in a biological specimen, prior to background subtraction.",
+            "identifier": "C181297",
+            "notation": "TGT",
+            "pref_label": "Target Total Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181297"
+        },
+        {
+            "alt_label": "Target Total, Background",
+            "definition": "A measurement of the background associated with the total target measurement in a biological specimen.",
+            "identifier": "C181293",
+            "notation": "TGTBK",
+            "pref_label": "Target Total, Background Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181293"
+        },
+        {
+            "alt_label": "Target Total, Delta Total Background",
+            "definition": "A measurement of the difference between total target and target total background in a biological specimen.",
+            "identifier": "C181290",
+            "notation": "TGTDTBK",
+            "pref_label": "Target, Total Delta Total Background Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181290"
+        },
+        {
+            "alt_label": "Cytotoxic T Cells;Cytotoxic T-Lymphocytes;TLym Cytx",
+            "definition": "A measurement of the cytotoxic T-lymphocytes in a biological specimen.",
+            "identifier": "C181186",
+            "notation": "TLC",
+            "pref_label": "Cytotoxic T-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181186"
+        },
+        {
+            "alt_label": "T Cells, Cytotoxic/Total Cells;T-Lym, CTX/Total Cells;T-Lymphocytes, Cytotoxic/Total Cells;TLym Cytx/Total Cells",
+            "definition": "A relative measurement (ratio or percentage) of the cytotoxic T-lymphocytes to total cells in a biological specimen.",
+            "identifier": "C181256",
+            "notation": "TLCCE",
+            "pref_label": "Cytotoxic T-Lymphocytes to Total Cells Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181256"
+        },
+        {
+            "alt_label": "T Cells, Cytotoxic/Leukocytes;T-Lymphocytes, Cytotoxic/Leukocytes;TLym Cytx/Leuk",
+            "definition": "A relative measurement (ratio or percentage) of the cytotoxic T-lymphocytes to leukocytes in a biological specimen.",
+            "identifier": "C181254",
+            "notation": "TLCLE",
+            "pref_label": "Cytotoxic T-Lymphocytes to Leukocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181254"
+        },
+        {
+            "alt_label": "Cytotoxic T Cells Subpopulation;Cytotoxic T-Lymphocytes Subpopulation;TLym Cytx Sub",
+            "definition": "A measurement of the subpopulation of cytotoxic T-lymphocytes in a biological specimen.",
+            "identifier": "C181299",
+            "notation": "TLCS",
+            "pref_label": "Cytotoxic T-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181299"
+        },
+        {
+            "alt_label": "Cytotoxic T-Lymphocytes Subpopulation/Cytotoxic T-Lymphocytes;T Cells Subpopulation/Cytotoxic T-Lymphocytes;TLym Cytx Sub/TLym Cytx",
+            "definition": "A relative measurement (ratio or percentage) of the cytotoxic T-lymphocyte subpopulation to total cytotoxic T-lymphocytes in a biological specimen.",
+            "identifier": "C181298",
+            "notation": "TLCSTLC",
+            "pref_label": "Cytotoxic T-Lymphocyte Subpopulation to Total Cytotoxic T-Lymphocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181298"
+        },
+        {
+            "alt_label": "T Cells, Helper/Total Cells;T-Lym, Helper/Total Cells;T-Lymphocytes, Helper/Total Cells;TLym Help/Total Cells",
+            "definition": "A relative measurement (ratio or percentage) of the helper T-lymphocytes to total cells in a biological specimen.",
+            "identifier": "C181255",
+            "notation": "TLHCE",
+            "pref_label": "Helper T-Lymphocytes to Total Cells Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181255"
+        },
+        {
+            "alt_label": "T Cells, Helper/Leukocytes;T-Lymphocytes, Helper/Leukocytes;TLym Help/Leuk",
+            "definition": "A relative measurement (ratio or percentage) of the helper T-lymphocytes to leukocytes in a biological specimen.",
+            "identifier": "C181253",
+            "notation": "TLHLE",
+            "pref_label": "Helper T-Lymphocytes to Leukocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181253"
+        },
+        {
+            "alt_label": "T Cells/Leukocytes;T-Lymphocytes/Leukocytes;TLym/Leuk",
+            "definition": "A relative measurement (ratio or percentage) of the T-lymphocytes to leukocytes in a biological specimen.",
+            "identifier": "C181184",
+            "notation": "TLLE",
+            "pref_label": "T-Lymphocytes to Leukocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181184"
+        },
+        {
+            "alt_label": "T-lymphocytes Subpopulation;TLym Sub",
+            "definition": "A measurement of a subpopulation of T-lymphocytes in a biological specimen.",
+            "identifier": "C184427",
+            "notation": "TLS",
+            "pref_label": "T-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184427"
+        },
+        {
+            "alt_label": "T-Lymphocytes Subpopulation/T-Lymphocytes;TLym Sub/Tlym",
+            "definition": "A relative measurement (ratio or percentage) of the T-lymphocyte subpopulation to total T-lymphocytes in a biological specimen.",
+            "identifier": "C181261",
+            "notation": "TLSTLY",
+            "pref_label": "T-Lymphocytes Subpopulation to Total T-Lymphocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181261"
+        },
+        {
+            "alt_label": "T-Cell Lymphocytes;T-Cells;T-Lymphocytes",
+            "definition": "A measurement of the total thymocyte-derived lymphocytes in a biological specimen.",
+            "identifier": "C122157",
+            "notation": "TLYCE",
+            "pref_label": "T-Lymphocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C122157"
+        },
+        {
+            "alt_label": "Cytotoxic T Cells/T Cells;Cytotoxic T-Lymphocytes/T-Lymphocytes;TLym Cytx/TLym",
+            "definition": "A relative measurement (ratio or percentage) of the cytotoxic T-lymphocytes to total T-lymphocytes in a biological specimen.",
+            "identifier": "C181304",
+            "notation": "TLYCTLY",
+            "pref_label": "Cytotoxic T-Lymphocytes to Total T-Lymphocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181304"
+        },
+        {
+            "alt_label": "Helper T Cells;Helper T-Lymphocytes;TLym Help",
+            "definition": "A measurement of the helper T-lymphocytes in a biological specimen.",
+            "identifier": "C181302",
+            "notation": "TLYH",
+            "pref_label": "Helper T-Lymphocytes Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181302"
+        },
+        {
+            "alt_label": "T-Lymphocytes Helper Regulatory;TLym Help Reg",
+            "definition": "A measurement of helper regulatory T-lymphocytes in a biological specimen.",
+            "identifier": "C184428",
+            "notation": "TLYHR",
+            "pref_label": "Helper Regulatory T-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184428"
+        },
+        {
+            "alt_label": "T-Lymphocytes Helper Subpopulation;TLym Help Sub",
+            "definition": "A measurement of a subpopulation of helper T-lymphocytes in a biological specimen.",
+            "identifier": "C184351",
+            "notation": "TLYHS",
+            "pref_label": "Helper T-Lymphocyte Subpopulation Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184351"
+        },
+        {
+            "alt_label": "Lymphocytes Helper Subpopulation/Lymphocytes;TLym Help Sub/Lym",
+            "definition": "A relative measurement (ratio or percentage) of the subpopulation of helper T-lymphocytes to total lymphocytes in a biological specimen.",
+            "identifier": "C184429",
+            "notation": "TLYHSLY",
+            "pref_label": "Helper T-Lymphocyte Subpopulation to Total Lymphocyte Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184429"
+        },
+        {
+            "alt_label": "Helper T Cells/T Cells;Helper T-Lymphocytes/T-Lymphocytes;TLym Help/TLym",
+            "definition": "A relative measurement (ratio or percentage) of the helper T-lymphocytes to total T-lymphocytes in a biological specimen.",
+            "identifier": "C181303",
+            "notation": "TLYHTLY",
+            "pref_label": "Helper T-Lymphocytes to Total T-Lymphocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181303"
+        },
+        {
+            "alt_label": "Helper T Cells/Cytotoxic T Cells;Helper T-Lymphocytes/Cytotoxic T-Lymphocytes;TLym Help/TLym Cytx",
+            "definition": "A relative measurement (ratio) of the helper T-lymphocytes to cytotoxic T-lymphocytes in a biological specimen.",
+            "identifier": "C181305",
+            "notation": "TLYHTLYC",
+            "pref_label": "Helper T-Lymphocytes to Cytotoxic T-Lymphocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181305"
+        },
+        {
+            "alt_label": "T Cells/Lymphocytes;T-Lymphocytes/Lymphocytes;TLym/Lym",
+            "definition": "A relative measurement (ratio or percentage) of the T-lymphocytes to total lymphocytes in a biological specimen.",
+            "identifier": "C181301",
+            "notation": "TLYLY",
+            "pref_label": "T-Lymphocytes to Lymphocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C181301"
+        },
+        {
+            "alt_label": "T-Lymphocytes Subpopulation/Lymphocytes;TLym Sub/Lym",
+            "definition": "A relative measurement (ratio or percentage) of the subpopulation of T-lymphocytes to total lymphocytes in a biological specimen.",
+            "identifier": "C184352",
+            "notation": "TLYSLY",
+            "pref_label": "T-Lymphocyte Subpopulation to Total Lymphocyte Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C184352"
+        },
+        {
+            "alt_label": "Leukocytes;White Blood Cells",
+            "definition": "A measurement of the leukocytes in a biological specimen.",
+            "identifier": "C51948",
+            "notation": "WBC",
+            "pref_label": "Leukocyte Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C51948"
+        },
+        {
+            "alt_label": "Leukocytes/Total Cells;WBC/Total Cells",
+            "definition": "A relative measurement (ratio or percentage) of the leukocytes to total cells in a biological specimen.",
+            "identifier": "C135451",
+            "notation": "WBCCE",
+            "pref_label": "Leukocytes to Total Cells Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181173-C135451"
+        }
+    ]
+}

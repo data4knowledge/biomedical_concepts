@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Cumulative Exposure",
+            "definition": "The total amount that a subject is exposed to over time.",
+            "identifier": "C94596",
+            "notation": "Cumulative Exposure",
+            "pref_label": "Cumulative Exposure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C122006-C94596"
+        },
+        {
+            "alt_label": "Number of Mild Episodes",
+            "definition": "The number of times an event, which is classified as mild, occurred.",
+            "identifier": "C124328",
+            "notation": "Number of Mild Episodes",
+            "pref_label": "Number of Mild Episodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C122006-C124328"
+        },
+        {
+            "alt_label": "Number of Moderate Episodes",
+            "definition": "The number of times an event, which is classified as moderate, occurred.",
+            "identifier": "C124329",
+            "notation": "Number of Moderate Episodes",
+            "pref_label": "Number of Moderate Episodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C122006-C124329"
+        },
+        {
+            "alt_label": "Number of Severe Episodes",
+            "definition": "The number of times an event, which is classified as severe, occurred.",
+            "identifier": "C124330",
+            "notation": "Number of Severe Episodes",
+            "pref_label": "Number of Severe Episodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C122006-C124330"
+        }
+    ]
+}

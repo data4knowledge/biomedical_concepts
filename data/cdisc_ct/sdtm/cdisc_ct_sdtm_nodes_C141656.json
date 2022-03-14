@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "TENMW1-Test Grade",
+            "definition": "10-Meter Walk/Run - Test grade.",
+            "identifier": "C141701",
+            "notation": "TENMW1-Test Grade",
+            "pref_label": "10-Meter Walk/Run - Test Grade",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141656-C141701"
+        },
+        {
+            "alt_label": "TENMW1-Time to Walk/Run 10 Meters",
+            "definition": "10-Meter Walk/Run - If yes, time to walk or run 10 meters.",
+            "identifier": "C141700",
+            "notation": "TENMW1-Time to Walk/Run 10 Meters",
+            "pref_label": "10-Meter Walk/Run - Time to Walk/Run 10 Meters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141656-C141700"
+        },
+        {
+            "alt_label": "TENMW1-Was Walk/Run Performed",
+            "definition": "10-Meter Walk/Run - Was the 10-meter walk/run performed?",
+            "identifier": "C174106",
+            "notation": "TENMW1-Was Walk/Run Performed",
+            "pref_label": "10-Meter Walk/Run - Was Walk/Run Performed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141656-C174106"
+        },
+        {
+            "alt_label": "TENMW1-Wear Orthoses",
+            "definition": "10-Meter Walk/Run - If yes, did subject wear orthoses?",
+            "identifier": "C147592",
+            "notation": "TENMW1-Wear Orthoses",
+            "pref_label": "10-Meter Walk/Run - Wear Orthoses",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141656-C147592"
+        }
+    ]
+}

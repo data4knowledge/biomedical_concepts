@@ -1,0 +1,132 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "WD2-How Many Days Difficulties Present",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - Overall, in the past 30 days, how many days were these difficulties present?",
+            "identifier": "C130932",
+            "notation": "WD2H1",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - How Many Days Difficulties Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130932"
+        },
+        {
+            "alt_label": "WD2-Days Unable to Carry Out Activities",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, for how many days were you totally unable to carry out your usual activities or work because of any health condition?",
+            "identifier": "C130933",
+            "notation": "WD2H2",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Days Unable to Carry Out Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130933"
+        },
+        {
+            "alt_label": "WD2-How Many Days Reduce Activities",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, not counting the days that you were totally unable, for how many days did you cut back or reduce your usual activities or work because of any health condition?",
+            "identifier": "C130934",
+            "notation": "WD2H3",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - How Many Days Reduce Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130934"
+        },
+        {
+            "alt_label": "WD2-I Am (Fill in Blank) of This Person",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - I am the (Fill in the Blank) of this person.",
+            "identifier": "C130919",
+            "notation": "WD2H4",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - I Am the (Fill in the Blank) of This Person",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130919"
+        },
+        {
+            "alt_label": "WD2-Standing for Long Periods",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Standing for long periods such as 30 minutes?",
+            "identifier": "C130920",
+            "notation": "WD2S1",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Standing for Long Periods",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130920"
+        },
+        {
+            "alt_label": "WD2-Dealing With People Does Not Know",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Dealing with people he or she does not know?",
+            "identifier": "C130929",
+            "notation": "WD2S10",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Dealing With People Does Not Know",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130929"
+        },
+        {
+            "alt_label": "WD2-Maintaining a Friendship",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Maintaining a friendship?",
+            "identifier": "C130930",
+            "notation": "WD2S11",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Maintaining a Friendship",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130930"
+        },
+        {
+            "alt_label": "WD2-Your Day-to-Day Work/School",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: His or her day-to-day work?",
+            "identifier": "C130931",
+            "notation": "WD2S12",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Your Day-to-Day Work or School",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130931"
+        },
+        {
+            "alt_label": "WD2-Care of Household Responsibilities",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Taking care of his or her household responsibilities?",
+            "identifier": "C130921",
+            "notation": "WD2S2",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Care of Household Responsibilities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130921"
+        },
+        {
+            "alt_label": "WD2-Learning a New Task",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Learning a new task, for example, learning how to get to a new place?",
+            "identifier": "C130922",
+            "notation": "WD2S3",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Learning a New Task",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130922"
+        },
+        {
+            "alt_label": "WD2-Problem Joining Community Activities",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: How much of a problem did your relative have joining in community activities (for example, festivities, religious or other activities) in the same way as anyone else can?",
+            "identifier": "C130923",
+            "notation": "WD2S4",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Problem Joining Community Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130923"
+        },
+        {
+            "alt_label": "WD2-Emotionally Affected by Health",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: How much has your relative been emotionally affected by his or her health condition?",
+            "identifier": "C130924",
+            "notation": "WD2S5",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Emotionally Affected by Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130924"
+        },
+        {
+            "alt_label": "WD2-Concentrating for Ten Minutes",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Concentrating on doing something for ten minutes?",
+            "identifier": "C130925",
+            "notation": "WD2S6",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Concentrating for Ten Minutes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130925"
+        },
+        {
+            "alt_label": "WD2-Walking a Long Distance",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Walking a long distance such as a kilometre [or equivalent]?",
+            "identifier": "C130926",
+            "notation": "WD2S7",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Walking a Long Distance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130926"
+        },
+        {
+            "alt_label": "WD2-Washing His/Her Whole Body",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Washing his or her whole body?",
+            "identifier": "C130927",
+            "notation": "WD2S8",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Washing His or Her Whole Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130927"
+        },
+        {
+            "alt_label": "WD2-Getting Dressed",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 12-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Getting dressed?",
+            "identifier": "C130928",
+            "notation": "WD2S9",
+            "pref_label": "WHODAS 2.0 12-item Version Proxy-administered - Getting Dressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130277-C130928"
+        }
+    ]
+}

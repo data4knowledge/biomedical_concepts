@@ -1,0 +1,46 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Morphologic changes that have a rapid onset.",
+            "identifier": "C14140",
+            "notation": "ACUTE",
+            "pref_label": "Acute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120529-C14140"
+        },
+        {
+            "definition": "Morphologic changes that are persistent or long standing, superimposed with areas of acute change.",
+            "identifier": "C120853",
+            "notation": "CHRONIC ACTIVE",
+            "pref_label": "Chronic Active",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120529-C120853"
+        },
+        {
+            "definition": "Morphologic changes that are persistent or long standing.",
+            "identifier": "C14141",
+            "notation": "CHRONIC",
+            "pref_label": "Chronic",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120529-C14141"
+        },
+        {
+            "definition": "Morphologic changes of very short or immediate onset. This onset is more rapid than that which is seen in an acute chronicity.",
+            "identifier": "C120854",
+            "notation": "PERACUTE",
+            "pref_label": "Peracute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120529-C120854"
+        },
+        {
+            "definition": "Morphologic changes containing characteristics of both acute and chronic, but predominantly acute.",
+            "identifier": "C120855",
+            "notation": "SUBACUTE",
+            "pref_label": "Subacute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120529-C120855"
+        },
+        {
+            "definition": "Morphologic changes containing characteristics of both acute and chronic, but predominantly chronic.",
+            "identifier": "C120856",
+            "notation": "SUBCHRONIC",
+            "pref_label": "Subchronic",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120529-C120856"
+        }
+    ]
+}

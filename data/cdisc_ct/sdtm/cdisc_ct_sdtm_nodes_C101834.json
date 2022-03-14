@@ -1,0 +1,42 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm. (NCI)",
+            "identifier": "C25401",
+            "notation": "ABNORMAL",
+            "pref_label": "Abnormal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101834-C25401"
+        },
+        {
+            "alt_label": "Inconclusive",
+            "definition": "Cannot distinguish between two or more possible values in the current context. (NCI)",
+            "identifier": "C48658",
+            "notation": "INDETERMINATE",
+            "pref_label": "Indeterminate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101834-C48658"
+        },
+        {
+            "definition": "Being approximately average or within certain limits; conforming with or constituting a norm or standard or level or type or social norm. (NCI)",
+            "identifier": "C14165",
+            "notation": "NORMAL",
+            "pref_label": "Normal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101834-C14165"
+        },
+        {
+            "alt_label": "Not Assessable;Not Evaluable",
+            "definition": "Unable to be evaluated. (NCI)",
+            "identifier": "C62222",
+            "notation": "NOT EVALUABLE",
+            "pref_label": "Unevaluable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101834-C62222"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101834-C17998"
+        }
+    ]
+}

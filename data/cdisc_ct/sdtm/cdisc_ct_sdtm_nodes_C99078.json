@@ -1,0 +1,72 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A technique used to change the behavior of a subject (e.g., psychotherapy, lifestyle counseling, or hypnosis).",
+            "identifier": "C15184",
+            "notation": "BEHAVIORAL THERAPY",
+            "pref_label": "Behavioral Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99078-C15184"
+        },
+        {
+            "definition": "A substance made from living organisms or things they produce, for example: virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or analogous product.",
+            "identifier": "C307",
+            "notation": "BIOLOGIC",
+            "pref_label": "Biological Agent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99078-C307"
+        },
+        {
+            "alt_label": "Medical Device",
+            "definition": "Any instrument, apparatus, implement, machine, appliance, implant, reagent for in vitro use, software, material or other similar or related article, intended by the manufacturer to be used, alone or in combination for, one or more specific medical purpose(s).",
+            "identifier": "C16830",
+            "notation": "DEVICE",
+            "pref_label": "Medical Device",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99078-C16830"
+        },
+        {
+            "definition": "Preparations containing ingredient(s) intended to supplement the diet.",
+            "identifier": "C1505",
+            "notation": "DIETARY SUPPLEMENT",
+            "pref_label": "Dietary Supplement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99078-C1505"
+        },
+        {
+            "definition": "An active natural, synthetic or semi-synthetic ingredient including endogenous body substance that is intended to furnish pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease or to affect the structure or any function of the human body, but does not include intermediates used in the synthesis of such ingredient (21 CFR 314.3(b)).",
+            "identifier": "C1909",
+            "notation": "DRUG",
+            "pref_label": "Pharmacologic Substance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99078-C1909"
+        },
+        {
+            "alt_label": "Gene Therapy",
+            "definition": "Introduction of genetic material into cells in order to correct or treat an inherited or acquired disease.",
+            "identifier": "C15238",
+            "notation": "GENETIC",
+            "pref_label": "Gene Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99078-C15238"
+        },
+        {
+            "alt_label": "Other",
+            "definition": "Different than the one(s) previously specified or mentioned. (NCI)",
+            "identifier": "C17649",
+            "notation": "OTHER",
+            "pref_label": "Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99078-C17649"
+        },
+        {
+            "alt_label": "Medical Procedure",
+            "definition": "Any activity performed by manual and/or instrumental means for the purpose of diagnosis, assessment, therapy, prevention, or palliative care.",
+            "identifier": "C98769",
+            "notation": "PROCEDURE",
+            "pref_label": "Physical Medical Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99078-C98769"
+        },
+        {
+            "alt_label": "Radiation Therapy;Radiotherapy",
+            "definition": "Use of targeted or whole body radiation to treat a disease.",
+            "identifier": "C15313",
+            "notation": "RADIATION",
+            "pref_label": "Radiation Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99078-C15313"
+        }
+    ]
+}

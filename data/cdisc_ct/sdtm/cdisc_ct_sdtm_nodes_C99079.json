@@ -1,0 +1,90 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A period in a clinical study after eligibility has been met and before the start of treatment, at which baseline measurements are collected.",
+            "identifier": "C125938",
+            "notation": "BASELINE",
+            "pref_label": "Baseline Epoch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C125938"
+        },
+        {
+            "definition": "A period in a clinical study during which subjects receive blinded therapeutic treatment.",
+            "identifier": "C102255",
+            "notation": "BLINDED TREATMENT",
+            "pref_label": "Blinded Treatment Epoch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C102255"
+        },
+        {
+            "alt_label": "Continuation Phase",
+            "definition": "A period in a clinical study during which subjects receive continuation treatment.",
+            "identifier": "C123452",
+            "notation": "CONTINUATION TREATMENT",
+            "pref_label": "Continuation Therapy Epoch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C123452"
+        },
+        {
+            "definition": "A period in a clinical study during which information about the health status of an individual is obtained after study interventions have concluded.",
+            "identifier": "C99158",
+            "notation": "FOLLOW-UP",
+            "pref_label": "Clinical Study Follow-up",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C99158"
+        },
+        {
+            "alt_label": "Induction Phase;Intensive Phase",
+            "definition": "A period in a clinical study during which subjects receive induction treatment.",
+            "identifier": "C123453",
+            "notation": "INDUCTION TREATMENT",
+            "pref_label": "Induction Therapy Epoch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C123453"
+        },
+        {
+            "definition": "A period in a clinical study during which information about the health status of an individual is obtained long after study interventions have concluded.",
+            "identifier": "C16032",
+            "notation": "LONG-TERM FOLLOW-UP",
+            "pref_label": "Long-term Follow-up",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C16032"
+        },
+        {
+            "definition": "A period in a clinical study during which subjects are observed, without any planned intervention.",
+            "identifier": "C165873",
+            "notation": "OBSERVATION",
+            "pref_label": "Observation Study Epoch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C165873"
+        },
+        {
+            "definition": "A period in a clinical study during which subjects receive open label therapeutic treatment.",
+            "identifier": "C102256",
+            "notation": "OPEN LABEL TREATMENT",
+            "pref_label": "Open Label Treatment Epoch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C102256"
+        },
+        {
+            "definition": "A period in a clinical study that occurs before the commencement of the primary clinical study investigation, during which subjects may be assessed for suitability in the clinical study, withdrawn from existing therapy, trained in study methodology or evaluated for any other protocol-specified reason.",
+            "identifier": "C98779",
+            "notation": "RUN-IN",
+            "pref_label": "Run-in Period",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C98779"
+        },
+        {
+            "definition": "A period in a clinical study during which subjects are evaluated for participation in the study.",
+            "identifier": "C48262",
+            "notation": "SCREENING",
+            "pref_label": "Trial Screening",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C48262"
+        },
+        {
+            "definition": "A period in a clinical study during which subjects receive investigational product.",
+            "identifier": "C101526",
+            "notation": "TREATMENT",
+            "pref_label": "Treatment Epoch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C101526"
+        },
+        {
+            "definition": "A period of time during a clinical study when a participant is taken off of a study drug or other medication in order to eliminate the effects of the treatment.",
+            "identifier": "C42872",
+            "notation": "WASHOUT",
+            "pref_label": "Washout Period",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C42872"
+        }
+    ]
+}

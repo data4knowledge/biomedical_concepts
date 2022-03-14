@@ -1,0 +1,60 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Copy Number Variation;Gene Copy Number Variation",
+            "definition": "An assessment of the variability in the number of replicas of a gene within a genome.",
+            "identifier": "C181330",
+            "notation": "Copy Number Variation",
+            "pref_label": "Copy Number Variation Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181179-C181330"
+        },
+        {
+            "alt_label": "Gene Expression Signature;Gene Signature",
+            "definition": "An assessment of the unique pattern of gene expression of one to many genes associated with a normal or abnormal biological process.",
+            "identifier": "C181333",
+            "notation": "Gene Signature",
+            "pref_label": "Gene Signature Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181179-C181333"
+        },
+        {
+            "alt_label": "Microsatellite Instability",
+            "definition": "An assessment of the variability in length of microsatellite sequences.",
+            "identifier": "C181332",
+            "notation": "Microsatellite Instability",
+            "pref_label": "Microsatellite Instability Length Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181179-C181332"
+        },
+        {
+            "alt_label": "Short Variation",
+            "definition": "An assessment of the variability in a short sequence of nucleotides (generally defined as 50 base pairs or less), when compared to a reference sequence.",
+            "identifier": "C181334",
+            "notation": "Short Variation",
+            "pref_label": "Short Variation Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181179-C181334"
+        },
+        {
+            "alt_label": "Single Nucleotide Variation",
+            "definition": "An assessment of the variability in a nucleotide found within a specified position of the genome, when compared to a reference nucleotide.",
+            "identifier": "C181331",
+            "notation": "Single Nucleotide Variation",
+            "pref_label": "Single Nucleotide Variation Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181179-C181331"
+        },
+        {
+            "alt_label": "Transcription",
+            "definition": "An assessment of transcribed RNA molecules in a biological specimen.",
+            "identifier": "C17208",
+            "notation": "Transcription",
+            "pref_label": "Transcription",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181179-C17208"
+        },
+        {
+            "alt_label": "Tumor Mutation Burden;Tumor Mutational Burden",
+            "definition": "A quantitative or qualitative assessment of the number of genomic alterations found in genetic material from tumor cells, when compared to a reference sequence.",
+            "identifier": "C181335",
+            "notation": "Tumor Mutation Burden",
+            "pref_label": "Tumor Mutation Burden Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181179-C181335"
+        }
+    ]
+}

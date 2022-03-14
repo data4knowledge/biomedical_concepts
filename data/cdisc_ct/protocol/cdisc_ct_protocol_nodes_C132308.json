@@ -1,0 +1,60 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A relatively large and/or densely populated area of human habitation with administrative or legal status that may be specified as a component of a postal address.",
+            "identifier": "C25160",
+            "notation": "City",
+            "pref_label": "City",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132308-C25160"
+        },
+        {
+            "definition": "A sovereign nation occupying a distinct territory and ruled by an autonomous government.",
+            "identifier": "C25464",
+            "notation": "Country",
+            "pref_label": "Country",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132308-C25464"
+        },
+        {
+            "definition": "A distinct geographic area in the immediate vicinity of a particular place, such as a city, neighborhood or district.",
+            "identifier": "C87189",
+            "notation": "Geographic Locality",
+            "pref_label": "Locality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132308-C87189"
+        },
+        {
+            "definition": "Any demarcated area of the Earth; may be determined by both natural and human boundaries, such as a state or province.",
+            "identifier": "C16632",
+            "notation": "Geographic Region",
+            "pref_label": "Geographic Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132308-C16632"
+        },
+        {
+            "definition": "An alphanumeric code assigned to a mail delivery area.",
+            "identifier": "C25621",
+            "notation": "Postal Code",
+            "pref_label": "Postal Code",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132308-C25621"
+        },
+        {
+            "definition": "A sub-division of a country created by the central government for administrative purposes. Provinces are usually, but not always, less autonomous than states, and must obey the laws of the central government.",
+            "identifier": "C25632",
+            "notation": "Province",
+            "pref_label": "Province",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132308-C25632"
+        },
+        {
+            "definition": "A sub-division of a country that forms part of a federal union. States are usually, but not always, more autonomous than provinces and may have different laws from the central government.",
+            "identifier": "C87194",
+            "notation": "State",
+            "pref_label": "State",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132308-C87194"
+        },
+        {
+            "definition": "The street name and building number where an entity is located.",
+            "identifier": "C25690",
+            "notation": "Street Address",
+            "pref_label": "Street Address",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132308-C25690"
+        }
+    ]
+}

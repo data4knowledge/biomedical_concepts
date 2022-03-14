@@ -1,0 +1,1299 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Altered Consistency",
+            "definition": "Atypical consistency observed in the contents of a structure.",
+            "identifier": "C124485",
+            "notation": "ABNORMAL CONSISTENCY",
+            "pref_label": "Altered Consistency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124485"
+        },
+        {
+            "definition": "An atypical long narrow slit or groove that divides an organ into lobes, or tissues and bone into parts. (NCI)",
+            "identifier": "C124486",
+            "notation": "ABNORMAL FISSURE",
+            "pref_label": "Abnormal Fissure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124486"
+        },
+        {
+            "definition": "A flexure that is deviating from the norm or outside the bounds of what is considered normal.",
+            "identifier": "C124487",
+            "notation": "ABNORMAL FLEXURE",
+            "pref_label": "Abnormal Flexure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124487"
+        },
+        {
+            "definition": "A lobation that is deviating from the norm or outside the bounds of what is considered normal.",
+            "identifier": "C124488",
+            "notation": "ABNORMAL LOBATION",
+            "pref_label": "Abnormal Lobation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124488"
+        },
+        {
+            "definition": "An origin that is deviating from the norm or outside the bounds of what is considered normal.",
+            "identifier": "C124489",
+            "notation": "ABNORMAL ORIGIN",
+            "pref_label": "Abnormal Origin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124489"
+        },
+        {
+            "definition": "Skull bones out of alignment causing the suture to deviate from its normal pattern.",
+            "identifier": "C124490",
+            "notation": "ABNORMAL SUTURE",
+            "pref_label": "Abnormal Suture Line",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124490"
+        },
+        {
+            "alt_label": "Altered Texture",
+            "definition": "Atypical texture observed in the surface of a structure.",
+            "identifier": "C124491",
+            "notation": "ABNORMAL TEXTURE",
+            "pref_label": "Altered Texture",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124491"
+        },
+        {
+            "definition": "The lack of a long narrow slit or groove that normally divides an organ into lobes, or tissues and bone into parts. (NCI)",
+            "identifier": "C124492",
+            "notation": "ABSENT FISSURE",
+            "pref_label": "Absent Fissure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124492"
+        },
+        {
+            "definition": "Not existing in a specified place at a specified time. (NCI)",
+            "identifier": "C48190",
+            "notation": "ABSENT",
+            "pref_label": "Absent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C48190"
+        },
+        {
+            "definition": "Absence of the head but with the presence of mouth-like orifice in the neck region. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124493",
+            "notation": "ACEPHALOSTOMIA",
+            "pref_label": "Acephalostomia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124493"
+        },
+        {
+            "definition": "A fibrinous or fibrous connection between two surfaces or tissues, connecting tissues or organs that are not normally attached.",
+            "identifier": "C54685",
+            "notation": "ADHESION",
+            "pref_label": "Tissue Adhesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C54685"
+        },
+        {
+            "definition": "Fibrous bands from the amnion that may entangle the fetus, causing constriction.",
+            "identifier": "C124494",
+            "notation": "AMNIOTIC BAND",
+            "pref_label": "Amniotic Band",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124494"
+        },
+        {
+            "definition": "Absence of the cranial region of the head, with the brain absent or reduced. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C84560",
+            "notation": "ANENCEPHALY",
+            "pref_label": "Anencephaly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C84560"
+        },
+        {
+            "definition": "Localized dilatation of a blood vessel wall.",
+            "identifier": "C26693",
+            "notation": "ANEURYSM",
+            "pref_label": "Aneurysm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C26693"
+        },
+        {
+            "definition": "Communication between ascending aorta and pulmonary trunk. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124495",
+            "notation": "AORTICOPULMONARY SEPTAL DEFECT",
+            "pref_label": "Aorticopulmonary Septal Defect",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124495"
+        },
+        {
+            "alt_label": "Misaligned Ossification",
+            "definition": "Commonly used for structures arising from two or more primary ossification centers (e.g., sternebrae, vertebral centra). Ossification is greater in one or more of the centers than the other(s). Applies only to ossification sites and does not imply that the structure, as represented by the bone precursor, is asymmetrical. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124496",
+            "notation": "ASYMMETRIC OSSIFICATION",
+            "pref_label": "Asymmetric Ossification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124496"
+        },
+        {
+            "alt_label": "Atretic",
+            "definition": "Absence or closure of a normal body orifice or tubular organ. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124497",
+            "notation": "ATRESIA",
+            "pref_label": "Atresia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124497"
+        },
+        {
+            "alt_label": "Atrial Septum Defect",
+            "definition": "A congenital disorder characterized by the presence of a defect (opening) in the septum that separates the two atria of the heart.",
+            "identifier": "C84473",
+            "notation": "ATRIAL SEPTAL DEFECT",
+            "pref_label": "Atrial Septal Defect",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C84473"
+        },
+        {
+            "definition": "Inappropriate communication between atrium and ventricle. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C101029",
+            "notation": "ATRIOVENTRICULAR SEPTAL DEFECT",
+            "pref_label": "Atrioventricular Septal Defect",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C101029"
+        },
+        {
+            "definition": "Post-mortem degradation of cells and tissues.",
+            "identifier": "C99673",
+            "notation": "AUTOLYSIS",
+            "pref_label": "Autolysis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C99673"
+        },
+        {
+            "alt_label": "Bowed;Curved",
+            "definition": "Abnormal curvature. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124498",
+            "notation": "BENT",
+            "pref_label": "Bent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124498"
+        },
+        {
+            "definition": "Organ that has two lobes or is divided into two lobes.",
+            "identifier": "C124499",
+            "notation": "BILOBED",
+            "pref_label": "Bilobular",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124499"
+        },
+        {
+            "definition": "Ossification centers not fused. Commonly used for structures arising from two or more primary ossification centers (e.g., sternebrae, vertebral centra). Applies only to the ossification sites and does not imply that the structure, as represented by the bone precursor, is divided (split). (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124500",
+            "notation": "BIPARTITE OSSIFICATION",
+            "pref_label": "Bipartite Ossification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124500"
+        },
+        {
+            "alt_label": "Overriding",
+            "definition": "Biventricular origin of a cardiovascular vessel.",
+            "identifier": "C176479",
+            "notation": "BIVENTRICULAR OVERRIDE",
+            "pref_label": "Vessel Biventricular Override",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176479"
+        },
+        {
+            "definition": "A finding indicating that that an anatomic space or cavity is filled with blood.",
+            "identifier": "C124501",
+            "notation": "BLOOD FILLED",
+            "pref_label": "Blood-Filled",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124501"
+        },
+        {
+            "definition": "Rounded or flat at the end, not tapered. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C176472",
+            "notation": "BLUNT-TIPPED",
+            "pref_label": "Blunt-Tipped",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176472"
+        },
+        {
+            "alt_label": "Bifurcated;Forked",
+            "definition": "Having one or more collateral divisions of the structure, resembling the branches of a tree. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C61482",
+            "notation": "BRANCHED",
+            "pref_label": "Branch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C61482"
+        },
+        {
+            "definition": "A finding referring to incomplete or absent chondrogenesis.",
+            "identifier": "C124503",
+            "notation": "CARTILAGE NOT FUSED",
+            "pref_label": "Cartilage Not Fused",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124503"
+        },
+        {
+            "definition": "Joined together by cartilage.",
+            "identifier": "C124504",
+            "notation": "CARTILAGINOUS FUSION",
+            "pref_label": "Cartilaginous Fusion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124504"
+        },
+        {
+            "definition": "Severe reduction of caudal structures, including reduction of or absence of hindlimbs, tail, and/or sacral area. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124505",
+            "notation": "CAUDAL DYSPLASIA",
+            "pref_label": "Caudal Dysplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124505"
+        },
+        {
+            "definition": "Two orbital cavities and two eyes present, the region between being narrowed. Expected skeletal alterations include fused frontonasal and/or maxillary bones and incisors. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124506",
+            "notation": "CEBOCEPHALY",
+            "pref_label": "Cebocephaly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124506"
+        },
+        {
+            "definition": "A developmental defect characterized by incomplete closure of the anterior body wall, resulting in herniation, to variable degrees, of thoracic and/or abdominal viscera. The sternum, sternal ends of ribs, and muscular body wall are usually defective or poorly developed. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124507",
+            "notation": "CELOSOMY",
+            "pref_label": "Celosomy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124507"
+        },
+        {
+            "definition": "Presence of rib formation in the cervical region.",
+            "identifier": "C158329",
+            "notation": "CERVICAL RIB",
+            "pref_label": "Cervical Rib",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C158329"
+        },
+        {
+            "alt_label": "Cheilognathouranoschisis",
+            "definition": "Cleft lip, upper jaw, and palate. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124508",
+            "notation": "CHEILOGNATHOPALATOSCHISIS",
+            "pref_label": "Cheilognathopalatoschisis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124508"
+        },
+        {
+            "definition": "Cleft lip and jaw. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124509",
+            "notation": "CHEILOGNATHOSCHISIS",
+            "pref_label": "Cheilognathoschisis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124509"
+        },
+        {
+            "definition": "A split or fissure of a facial structure.",
+            "identifier": "C61510",
+            "notation": "CLEFT",
+            "pref_label": "Cleft",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C61510"
+        },
+        {
+            "definition": "A finding in which the walls of a tube or tubular organ have contorted or buckled into its cavity or channel. (NCI)",
+            "identifier": "C124514",
+            "notation": "COLLAPSED LUMEN",
+            "pref_label": "Collapsed Lumen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124514"
+        },
+        {
+            "definition": "Presence of colored substance. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124515",
+            "notation": "COLORED MATERIAL",
+            "pref_label": "Red-Brown Material",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124515"
+        },
+        {
+            "definition": "An indication that anatomical structures, typically blood vessels, are arising from the same location.",
+            "identifier": "C124516",
+            "notation": "COMMON ORIGIN",
+            "pref_label": "Vessel Common Origin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124516"
+        },
+        {
+            "definition": "Monozygotic twins with variable incomplete separation into two during cleavage or early stages of embryogenesis. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C98903",
+            "notation": "CONJOINED TWINS",
+            "pref_label": "Conjoined Twins",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C98903"
+        },
+        {
+            "alt_label": "Coiled;Twisted",
+            "definition": "Folded, curved and/or tortuous windings.",
+            "identifier": "C61301",
+            "notation": "CONVOLUTED",
+            "pref_label": "Convolution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C61301"
+        },
+        {
+            "definition": "Herniation of meninges through a defect in skull. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124517",
+            "notation": "CRANIAL MENINGOCELE",
+            "pref_label": "Cranial Meningocele",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124517"
+        },
+        {
+            "definition": "Multiple unossified area(s) of the cranium. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124518",
+            "notation": "CRANIOFENESTRIA",
+            "pref_label": "Craniofenestria",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124518"
+        },
+        {
+            "alt_label": "Cranial Rachischisis",
+            "definition": "A congenital fissure of both the skull and vertebral column. (Saunders. (1988). Dorland's illustrated medical dictionary. (27th ed.). Philadelphia)",
+            "identifier": "C98907",
+            "notation": "CRANIORACHISCHISIS",
+            "pref_label": "Craniorachischisis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C98907"
+        },
+        {
+            "definition": "Fissure of the cranial region of the head with varying degrees of the brain exposed. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124519",
+            "notation": "CRANIOSCHISIS",
+            "pref_label": "Cranioschisis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124519"
+        },
+        {
+            "definition": "Premature closure of cranial sutures with fusion of bone, resulting in small maldeveloped skull; used to describe multiple skull bone fusions. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C84655",
+            "notation": "CRANIOSYNOSTOSIS",
+            "pref_label": "Craniosynostosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C84655"
+        },
+        {
+            "alt_label": "Cryptophthalmos",
+            "definition": "Skin continuous over eye(s) without formation of eyelid(s). (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124520",
+            "notation": "CRYPTOPHTHALMIA",
+            "pref_label": "Cryptophthalmia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124520"
+        },
+        {
+            "alt_label": "Curly",
+            "definition": "Curved into nearly a full circle, or coiled. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C176473",
+            "notation": "CURLED",
+            "pref_label": "Curly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176473"
+        },
+        {
+            "alt_label": "Monophthalmia;Single Eyeball;Synophthalmia",
+            "definition": "Single median orbit; eyeball(s) can be absent, completely or incompletely fused. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.).",
+            "identifier": "C124522",
+            "notation": "CYCLOPIA",
+            "pref_label": "Cyclopia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124522"
+        },
+        {
+            "definition": "A sac-like closed pocket of tissue that may be empty or may be filled with fluid, gas, semisolid, or amorphous material. It typically has an outer epithelial-lined capsule.",
+            "identifier": "C2978",
+            "notation": "CYST",
+            "pref_label": "Cyst",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C2978"
+        },
+        {
+            "definition": "Shortened distance between anus and genital tubercle. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124523",
+            "notation": "DECREASED ANOGENITAL DISTANCE",
+            "pref_label": "Anogenital Distance Decreased",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124523"
+        },
+        {
+            "definition": "Nonpatent localized recess in a structure or tissue. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124639",
+            "notation": "DEPRESSION",
+            "pref_label": "Depression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124639"
+        },
+        {
+            "alt_label": "Floating;Non-articulated",
+            "definition": "Physically separated or not connected. (NCI)",
+            "identifier": "C124524",
+            "notation": "DETACHED",
+            "pref_label": "Detached",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124524"
+        },
+        {
+            "definition": "A congenital abnormality in which the heart is located in the right side of the chest.",
+            "identifier": "C84669",
+            "notation": "DEXTROCARDIA",
+            "pref_label": "Dextrocardia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C84669"
+        },
+        {
+            "definition": "Abnormal anterior protrusion of a part of the diaphragm which is thin and covers variably displaced abdominal viscera. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C98912",
+            "notation": "DIAPHRAGMATIC EVENTRATION",
+            "pref_label": "Diaphragmatic Eventration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C98912"
+        },
+        {
+            "alt_label": "Dilation",
+            "definition": "Expansion of the cavity, ducts or lumen of a hollow organ or vessel.",
+            "identifier": "C113136",
+            "notation": "DILATATION",
+            "pref_label": "Dilation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C113136"
+        },
+        {
+            "definition": "Not the normal color. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124525",
+            "notation": "DISCOLORED",
+            "pref_label": "Discoloration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124525"
+        },
+        {
+            "definition": "Enlarged or expanded organ due to an increase of the contents. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124526",
+            "notation": "DISTENDED",
+            "pref_label": "Distended",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124526"
+        },
+        {
+            "definition": "A sac-like protrusion in the wall of a hollow organ or tissue.",
+            "identifier": "C26753",
+            "notation": "DIVERTICULUM",
+            "pref_label": "Diverticulum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C26753"
+        },
+        {
+            "definition": "The appearance of a structure or body part that is more elevated and rounded than normal. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C176474",
+            "notation": "DOMED",
+            "pref_label": "Domed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176474"
+        },
+        {
+            "definition": "Pulmonary trunk and aorta arise from the right ventricle. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C98916",
+            "notation": "DOUBLE OUTLET RIGHT VENTRICLE",
+            "pref_label": "Double Outlet Right Ventricle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C98916"
+        },
+        {
+            "definition": "Consisting of or involving two parts or components, often in pairs. (NCI)",
+            "identifier": "C62265",
+            "notation": "DOUBLED",
+            "pref_label": "Double",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C62265"
+        },
+        {
+            "definition": "Two approximately spherical ossification sites attached at or near the mid-line by an ossified bridge. Commonly used for structures arising from two primary centers (e.g., sternebrae, vertebral centra). Applies only to the ossification sites. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124528",
+            "notation": "DUMBBELL OSSIFICATION",
+            "pref_label": "Dumbbell Ossification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124528"
+        },
+        {
+            "definition": "Excessive amount of watery fluid in tissues or cavities, generally characterized microscopically as clear spaces separating tissue components.",
+            "identifier": "C3002",
+            "notation": "EDEMA",
+            "pref_label": "Edema",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C3002"
+        },
+        {
+            "definition": "The emergence of a structure or body part.",
+            "identifier": "C176475",
+            "notation": "ERUPTED",
+            "pref_label": "Eruption",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176475"
+        },
+        {
+            "definition": "Some degree of cyclopia in which the eyes may be closely set but the snout is small. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124529",
+            "notation": "ETHMOCEPHALY",
+            "pref_label": "Ethmocephaly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124529"
+        },
+        {
+            "definition": "A finding that indicates that an anatomic structure is partially or completely turned inside out.",
+            "identifier": "C124530",
+            "notation": "EVAGINATION",
+            "pref_label": "Evagination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124530"
+        },
+        {
+            "definition": "Brain protrudes outside the skull due to absence of all or part of the cranial vault. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124531",
+            "notation": "EXENCEPHALY",
+            "pref_label": "Exencephaly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124531"
+        },
+        {
+            "definition": "An opening to a cyst produced by a persistent lateral cervical sinus or reduplicated 1st pharyngeal cleft usually located ventral to the ear. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124532",
+            "notation": "EXTERNAL AURAL FISTULA",
+            "pref_label": "External Auditory Canal Fistula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124532"
+        },
+        {
+            "alt_label": "Ectopia Cordis;Exocardia",
+            "definition": "Heart displaced outside thoracic cavity. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124533",
+            "notation": "EXTERNALIZED HEART",
+            "pref_label": "Externalized Heart",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124533"
+        },
+        {
+            "definition": "Abnormal passage or communication between two normally unconnected structures, body cavities, or the surface of the body. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C3045",
+            "notation": "FISTULA",
+            "pref_label": "Fistula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C3045"
+        },
+        {
+            "definition": "Small tag of tissue without bony support.",
+            "identifier": "C124534",
+            "notation": "FLESHY TAB",
+            "pref_label": "Fleshy Tab",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124534"
+        },
+        {
+            "definition": "A finding indicating that that an anatomic space or cavity is filled with fluid.",
+            "identifier": "C124535",
+            "notation": "FLUID FILLED",
+            "pref_label": "Fluid-Filled",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124535"
+        },
+        {
+            "definition": "A division into several small pieces.",
+            "identifier": "C124536",
+            "notation": "FRAGMENT",
+            "pref_label": "Fragmented",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124536"
+        },
+        {
+            "alt_label": "Ankyloglossia",
+            "definition": "Shortness or absence of the frenulum of the tongue; tongue fused to the floor of the mouth. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124538",
+            "notation": "FUSED TO FLOOR OF MOUTH",
+            "pref_label": "Ankyloglossia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124538"
+        },
+        {
+            "definition": "Joined or blended together. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124537",
+            "notation": "FUSED",
+            "pref_label": "Fused",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124537"
+        },
+        {
+            "alt_label": "Eventration",
+            "definition": "Fissure of abdominal wall, not involving the umbilicus, and usually accompanied by protrusion of viscera which may or may not be covered by a membranous sac. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C84725",
+            "notation": "GASTROSCHISIS",
+            "pref_label": "Gastroschisis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C84725"
+        },
+        {
+            "definition": "Absence of either hemicentrum of a centrum. Structural change involving the bone precursor. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124539",
+            "notation": "HEMICENTRIC",
+            "pref_label": "Hemicentric",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124539"
+        },
+        {
+            "definition": "Absence or shortening of the distal segment(s) of limbs. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C34674",
+            "notation": "HEMIMELIA",
+            "pref_label": "Hemimelia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C34674"
+        },
+        {
+            "definition": "Absent sternebral hemicenter. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124540",
+            "notation": "HEMISTERNEBRA",
+            "pref_label": "Hemisternebra",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124540"
+        },
+        {
+            "definition": "Absence of a lateral half (arch + hemicentrum) of a vertebra. Structural change involving the bone precursor. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124541",
+            "notation": "HEMIVERTEBRA",
+            "pref_label": "Hemivertebra",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124541"
+        },
+        {
+            "definition": "The presence of extravascular erythrocytes.",
+            "identifier": "C26791",
+            "notation": "HEMORRHAGE",
+            "pref_label": "Hemorrhage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C26791"
+        },
+        {
+            "definition": "A rare condition characterized by the unequivocal presence of both testicular and ovarian tissues in a gonad.",
+            "identifier": "C85207",
+            "notation": "HERMAPHRODITISM",
+            "pref_label": "True Hermaphroditism",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C85207"
+        },
+        {
+            "definition": "The protrusion of part of an organ or fibroadipose tissue through an abnormal opening. (NCI)",
+            "identifier": "C34685",
+            "notation": "HERNIA",
+            "pref_label": "Hernia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C34685"
+        },
+        {
+            "definition": "Arched structure higher than normal, extends further upward.",
+            "identifier": "C124542",
+            "notation": "HIGH-ARCHED",
+            "pref_label": "High Arch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124542"
+        },
+        {
+            "definition": "A perforation in a tissue or organ, such as a discrete area of absent ossification and bone precursor.",
+            "identifier": "C124640",
+            "notation": "HOLE",
+            "pref_label": "Hole",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124640"
+        },
+        {
+            "definition": "Fissure of the entire spinal column. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124543",
+            "notation": "HOLORACHISCHISIS",
+            "pref_label": "Holorachischisis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124543"
+        },
+        {
+            "definition": "Approximately 180 degree bend or curve of a structure or body part. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C176476",
+            "notation": "HOOKED",
+            "pref_label": "Hooked",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176476"
+        },
+        {
+            "definition": "The excessive extension or straightening of a limb or a joint. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C98951",
+            "notation": "HYPEREXTENSION",
+            "pref_label": "Hyperextension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C98951"
+        },
+        {
+            "definition": "The excessive flexion or bending of a limb or a joint. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124545",
+            "notation": "HYPERFLEXION",
+            "pref_label": "Hyperflexion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124545"
+        },
+        {
+            "definition": "Incomplete or underdevelopment of a tissue or organ. (NCI)",
+            "identifier": "C120893",
+            "notation": "HYPOPLASIA",
+            "pref_label": "Hypoplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C120893"
+        },
+        {
+            "definition": "Urethra opening on the underside of the penis or on the perineum. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C40341",
+            "notation": "HYPOSPADIAS",
+            "pref_label": "Hypospadias",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C40341"
+        },
+        {
+            "alt_label": "Not Perforated",
+            "definition": "Absence or closure of a normal opening. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C176477",
+            "notation": "IMPERFORATE",
+            "pref_label": "Imperforate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176477"
+        },
+        {
+            "definition": "Incomplete formation of cartilage. (NCI)",
+            "identifier": "C124546",
+            "notation": "INCOMPLETE CHONDROGENESIS",
+            "pref_label": "Incomplete Chondrogenesis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124546"
+        },
+        {
+            "definition": "Partial ossification at a site that usually has a more advanced degree of ossification. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124547",
+            "notation": "INCOMPLETE OSSIFICATION",
+            "pref_label": "Incomplete Ossification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124547"
+        },
+        {
+            "definition": "Increased distance between anus and genital tubercle. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124548",
+            "notation": "INCREASED ANOGENITAL DISTANCE",
+            "pref_label": "Anogenital Distance Increased",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124548"
+        },
+        {
+            "definition": "Exposure of occipital brain and upper spinal cord tissue involving extreme retroflection of the head. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124549",
+            "notation": "INIENCEPHALY",
+            "pref_label": "Iniencephaly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124549"
+        },
+        {
+            "alt_label": "Discontinuous",
+            "definition": "Discontinuity of a longitudinal structure, e.g., blood vessels, ribs, etc. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124550",
+            "notation": "INTERRUPTED",
+            "pref_label": "Discontinuous Anatomic Feature",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124550"
+        },
+        {
+            "definition": "Ossification site within the margins of a normal bone precursor but separated from the main ossified (alizarin red stained) area. Does not imply any change to the bone precursor. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124551",
+            "notation": "ISOLATED OSSIFICATION SITE",
+            "pref_label": "Isolated Ossification Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124551"
+        },
+        {
+            "definition": "A sharp bend.",
+            "identifier": "C176478",
+            "notation": "KINKED",
+            "pref_label": "Kinked",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176478"
+        },
+        {
+            "definition": "Increased dorsal concavity in the curvature of the spinal column as viewed from the side. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C34754",
+            "notation": "KYPHOSIS",
+            "pref_label": "Kyphosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C34754"
+        },
+        {
+            "definition": "Of considerable or relatively great size, extent, or capacity. (NCI)",
+            "identifier": "C49508",
+            "notation": "LARGE",
+            "pref_label": "Large",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C49508"
+        },
+        {
+            "definition": "Transposition to the left side, which is considered abnormal.",
+            "identifier": "C124553",
+            "notation": "LEFT-SIDED",
+            "pref_label": "Left-Sided",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124553"
+        },
+        {
+            "definition": "Left-sided heart in the presence of situs inversus.",
+            "identifier": "C111647",
+            "notation": "LEVOCARDIA",
+            "pref_label": "Levocardia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C111647"
+        },
+        {
+            "alt_label": "Elongated",
+            "definition": "Greater than the normal or expected length. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C25248",
+            "notation": "LONG",
+            "pref_label": "Long",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C25248"
+        },
+        {
+            "definition": "Increased dorsal convexity in the curvature of the spinal column as viewed from the side. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C34787",
+            "notation": "LORDOSIS",
+            "pref_label": "Lordosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C34787"
+        },
+        {
+            "definition": "Presence of rib formation in the lumbar region.",
+            "identifier": "C158330",
+            "notation": "LUMBAR RIB",
+            "pref_label": "Lumbar Rib",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C158330"
+        },
+        {
+            "alt_label": "Dislocated",
+            "definition": "A displacement of a bone from its normal position in the joint.",
+            "identifier": "C35724",
+            "notation": "LUXATED",
+            "pref_label": "Dislocation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C35724"
+        },
+        {
+            "definition": "Not occurring in the proper position and/or orientation. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124554",
+            "notation": "MALPOSITIONED",
+            "pref_label": "Malpositioned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124554"
+        },
+        {
+            "definition": "Structure rotated from proper position and/or orientation (outward or inward). (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124555",
+            "notation": "MALROTATED",
+            "pref_label": "Malrotated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124555"
+        },
+        {
+            "definition": "An opening in the membranous septum between the ventricles. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124556",
+            "notation": "MEMBRANOUS VENTRICULAR SEPTAL DEFECT",
+            "pref_label": "Membranous Ventricular Septal Defect",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124556"
+        },
+        {
+            "alt_label": "Encephalomeningocele",
+            "definition": "Herniation of brain and meninges through a cranial opening. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124557",
+            "notation": "MENINGOENCEPHALOCELE",
+            "pref_label": "Encephalomeningocele",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124557"
+        },
+        {
+            "definition": "Herniation of brain, cerebral ventricle, and meninges through a defect in skull. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124558",
+            "notation": "MENINGOHYDROENCEPHALOCELE",
+            "pref_label": "Meningohydroencephalocele",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124558"
+        },
+        {
+            "alt_label": "Malaligned",
+            "definition": "Abnormal position of structures in relation to one another on opposite sides of a dividing line or about the center or axis. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124559",
+            "notation": "MISALIGNED",
+            "pref_label": "Misalignment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124559"
+        },
+        {
+            "definition": "Abnormally shaped. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124560",
+            "notation": "MISSHAPEN",
+            "pref_label": "Misshapen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124560"
+        },
+        {
+            "definition": "Spotting with patches of discoloration of an organ or tissue. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C87095",
+            "notation": "MOTTLED",
+            "pref_label": "Mottling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C87095"
+        },
+        {
+            "definition": "Used when Region/Organ/Structure has multiple malformations and individual descriptions would be unnecessarily complex. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124561",
+            "notation": "MULTIPLE MALFORMATIONS",
+            "pref_label": "Multiple Malformations",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124561"
+        },
+        {
+            "definition": "Used when Region/Organ/Structure has multiple variations and individual descriptions would be unnecessarily complex. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124562",
+            "notation": "MULTIPLE VARIATIONS",
+            "pref_label": "Multiple Abnormalities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124562"
+        },
+        {
+            "definition": "An opening in the muscular septum between the ventricles. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124563",
+            "notation": "MUSCULAR VENTRICULAR SEPTAL DEFECT",
+            "pref_label": "Muscular Ventricular Septal Defect",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124563"
+        },
+        {
+            "alt_label": "Coarctation;Constricted",
+            "definition": "Less than the normal side to side dimension. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124564",
+            "notation": "NARROW",
+            "pref_label": "Narrow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124564"
+        },
+        {
+            "definition": "A small lump, swelling or collection of tissue. (NCI)",
+            "identifier": "C3280",
+            "notation": "NODULE",
+            "pref_label": "Nodule",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C3280"
+        },
+        {
+            "definition": "Tooth not emerged.",
+            "identifier": "C124565",
+            "notation": "NOT ERUPTED TOOTH",
+            "pref_label": "Tooth Not Erupted",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124565"
+        },
+        {
+            "definition": "Not joined to form a single entity.",
+            "identifier": "C124566",
+            "notation": "NOT FUSED",
+            "pref_label": "Not Fused",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124566"
+        },
+        {
+            "alt_label": "Reduced Amniotic Fluid",
+            "definition": "Reduced or less than normal amount of amniotic fluid. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C92839",
+            "notation": "OLIGOHYDRAMNIOS",
+            "pref_label": "Oligohydramnios",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C92839"
+        },
+        {
+            "alt_label": "Eventration;Exomphalos",
+            "definition": "A defect in the abdominal wall at the umbilicus, through which the intestines and other viscera protrude. These may or may not be covered by a thin, translucent sac. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C98997",
+            "notation": "OMPHALOCELE",
+            "pref_label": "Omphalocele",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C98997"
+        },
+        {
+            "definition": "The quality of being opaque to a degree; the degree to which something reduces the passage of light. (NCI)",
+            "identifier": "C71596",
+            "notation": "OPACITY",
+            "pref_label": "Opacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C71596"
+        },
+        {
+            "definition": "Visible; not closed.",
+            "identifier": "C49069",
+            "notation": "OPEN",
+            "pref_label": "Open",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C49069"
+        },
+        {
+            "definition": "Absence or extreme underdevelopment of the lower jaw, producing closeness of the ears below the face. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124568",
+            "notation": "OTOCEPHALY",
+            "pref_label": "Otocephaly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124568"
+        },
+        {
+            "definition": "An unusual or extreme paleness, state of decreased coloration.",
+            "identifier": "C50685",
+            "notation": "PALE",
+            "pref_label": "Pallor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C50685"
+        },
+        {
+            "definition": "Open and unobstructed; failure to close after birth.",
+            "identifier": "C176480",
+            "notation": "PATENT",
+            "pref_label": "Patent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176480"
+        },
+        {
+            "definition": "Attached by a thread of tissue. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C174384",
+            "notation": "PENDULOUS",
+            "pref_label": "Pendulous",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C174384"
+        },
+        {
+            "definition": "Retained embryonic structure past the point in development it is normally present.",
+            "identifier": "C124570",
+            "notation": "PERSISTENT",
+            "pref_label": "Persistent Embryonic Structure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124570"
+        },
+        {
+            "definition": "Reduction or absence of proximal portion of limb, with the paws, hands, or feet being closer to the trunk of the body. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C34928",
+            "notation": "PHOCOMELIA",
+            "pref_label": "Phocomelia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C34928"
+        },
+        {
+            "definition": "Excessive (increased) amount of amniotic fluid. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C92848",
+            "notation": "POLYHYDRAMNIOS",
+            "pref_label": "Polyhydramnios",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C92848"
+        },
+        {
+            "definition": "Fusion, occlusion, or loss of patency occurring before the usual or proper time.",
+            "identifier": "C124571",
+            "notation": "PREMATURE CLOSURE",
+            "pref_label": "Premature Closure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124571"
+        },
+        {
+            "definition": "Tubular projection replaces snout. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124572",
+            "notation": "PROBOSCIS",
+            "pref_label": "Proboscis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124572"
+        },
+        {
+            "definition": "A condition in which an organ drops or bulges out of place. (NCI)",
+            "identifier": "C36173",
+            "notation": "PROLAPSE",
+            "pref_label": "Prolapse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C36173"
+        },
+        {
+            "definition": "Fissure of the face from the mouth to the eye.",
+            "identifier": "C124573",
+            "notation": "PROSOPOSCHISIS",
+            "pref_label": "Prosoposchisis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124573"
+        },
+        {
+            "definition": "Extending outward beyond a surface or boundary.",
+            "identifier": "C124574",
+            "notation": "PROTRUDING",
+            "pref_label": "Protruding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124574"
+        },
+        {
+            "definition": "Gonads of one sex are present, while the external genital organs resemble in whole or in part those of the opposite sex. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124575",
+            "notation": "PSEUDOHERMAPHRODITISM",
+            "pref_label": "Pseudohermaphroditism",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124575"
+        },
+        {
+            "definition": "Descriptive of any tissue into which a red material is observed.",
+            "identifier": "C124576",
+            "notation": "RED MATERIAL",
+            "pref_label": "Red Material",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124576"
+        },
+        {
+            "alt_label": "Fewer;Fewer Than Expected",
+            "definition": "A decrease in expected quantity.",
+            "identifier": "C124577",
+            "notation": "REDUCED NUMBER",
+            "pref_label": "Reduced Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124577"
+        },
+        {
+            "alt_label": "Retinal Folds",
+            "definition": "Undulation of retinal layers. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124578",
+            "notation": "RETINAL FOLD",
+            "pref_label": "Retinal Fold",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124578"
+        },
+        {
+            "definition": "Passing dorsal to the esophagus.",
+            "identifier": "C124579",
+            "notation": "RETROESOPHAGEAL",
+            "pref_label": "Retroesophageal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124579"
+        },
+        {
+            "definition": "Passing dorsal to the trachea. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C25660",
+            "notation": "RETROTRACHEAL",
+            "pref_label": "Retrotracheal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C25660"
+        },
+        {
+            "definition": "Proboscis-like nose above partially or completely fused eyes. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124580",
+            "notation": "RHINOCEPHALY",
+            "pref_label": "Rhinocephaly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124580"
+        },
+        {
+            "definition": "Transposition to the right side, which is considered abnormal.",
+            "identifier": "C124581",
+            "notation": "RIGHT-SIDED",
+            "pref_label": "Right-Sided",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124581"
+        },
+        {
+            "definition": "Lateral curvature of the spinal column. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C78603",
+            "notation": "SCOLIOSIS",
+            "pref_label": "Scoliosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C78603"
+        },
+        {
+            "definition": "Have in common.",
+            "identifier": "C38019",
+            "notation": "SHARED",
+            "pref_label": "Shared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C38019"
+        },
+        {
+            "definition": "Less than the normal or expected length. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C25249",
+            "notation": "SHORT",
+            "pref_label": "Short",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C25249"
+        },
+        {
+            "alt_label": "Unilobular",
+            "definition": "Consisting of one lobe.",
+            "identifier": "C124583",
+            "notation": "SINGLE LOBE",
+            "pref_label": "Unilobular",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124583"
+        },
+        {
+            "definition": "One.",
+            "identifier": "C48440",
+            "notation": "SINGLE",
+            "pref_label": "Single",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C48440"
+        },
+        {
+            "alt_label": "Symmelia",
+            "definition": "Any of several degrees of side-to-side fusion of lower extremities and concomitant midline reduction of the pelvis. Soft tissues and long bones, lower paw (feet), and viscera of the pelvis tend to be reduced or absent; anus and external genitalia are often absent. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C118455",
+            "notation": "SIRENOMELIA",
+            "pref_label": "Sirenomelia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C118455"
+        },
+        {
+            "definition": "Mirror-image transposition of the abdominal and/or thoracic viscera. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C87121",
+            "notation": "SITUS INVERSUS",
+            "pref_label": "Situs Inversus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C87121"
+        },
+        {
+            "definition": "Small appendage of skin. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C3374",
+            "notation": "SKIN TAG",
+            "pref_label": "Skin Tag",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C3374"
+        },
+        {
+            "definition": "Limited in number, quantity, magnitude or extent. (NCI)",
+            "identifier": "C25376",
+            "notation": "SMALL",
+            "pref_label": "Small",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C25376"
+        },
+        {
+            "alt_label": "Rachischisis;Spinal Meningocele;Spinal Myelocele;Spinal Myelomeningocele",
+            "definition": "A family of defects in the closure of the spinal column. May be covered with skin (spina bifida occulta) or not covered with skin (spinabifida aperta); may involve protrusion of spinal cord and/or meninges. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C101214",
+            "notation": "SPINA BIFIDA",
+            "pref_label": "Spina Bifida",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C101214"
+        },
+        {
+            "definition": "Paired structures diverge from one another. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124584",
+            "notation": "SPLAYED",
+            "pref_label": "Splayed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124584"
+        },
+        {
+            "alt_label": "Bifid",
+            "definition": "Division of a single structure (usually into two parts) with no intervening structure between the parts. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C54572",
+            "notation": "SPLIT",
+            "pref_label": "Split",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C54572"
+        },
+        {
+            "alt_label": "Additional Fissure",
+            "definition": "An extraneous, additional long narrow slit or groove that divides an organ into lobes, or tissues and bone into parts. (NCI)",
+            "identifier": "C124585",
+            "notation": "SUPERNUMERARY FISSURE",
+            "pref_label": "Supernumerary Fissure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124585"
+        },
+        {
+            "alt_label": "Supernumerary Rib, Full",
+            "definition": "More than the usual or expected number of thoracic ribs having a length equal to or greater than 1/3 to 1/2 the size of the rib above or below it. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C158328",
+            "notation": "SUPERNUMERARY RIB",
+            "pref_label": "Supernumerary Rib",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C158328"
+        },
+        {
+            "definition": "An extra rib at the cervicothoracic border with the distal extremity rounded, length less than one third of the length of the ossified portion of the first thoracic rib and no costal cartilage distal. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C176389",
+            "notation": "SUPERNUMERARY RIB, SHORT",
+            "pref_label": "Short Supernumerary Rib",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176389"
+        },
+        {
+            "alt_label": "Accessory;Extra",
+            "definition": "More than the usual or expected number. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C63758",
+            "notation": "SUPERNUMERARY",
+            "pref_label": "Supernumerary",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C63758"
+        },
+        {
+            "definition": "Defect of the heart which includes all of the following: pulmonary stenosis, interventricular septal defect, dextraposed aorta overriding the ventricular septum, and enlarged right ventricular wall. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C84505",
+            "notation": "TETRALOGY OF FALLOT",
+            "pref_label": "Tetralogy of Fallot",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C84505"
+        },
+        {
+            "definition": "Relatively greater extent or depth than normal from one surface to the other of a tissue or skeletal element. Describes the three dimensional structure.",
+            "identifier": "C81186",
+            "notation": "THICK",
+            "pref_label": "Thick",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C81186"
+        },
+        {
+            "definition": "Relatively lesser extent than normal from one surface to the other of a tissue or skeletal element. Describes the three dimensional structure. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C65127",
+            "notation": "THIN",
+            "pref_label": "Thin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C65127"
+        },
+        {
+            "alt_label": "Thoracoceloschisis",
+            "definition": "Fissure of thoracic and abdominal walls with thoracic and abdominal viscera, or major parts thereof, exposed ventrally. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124586",
+            "notation": "THORACOGASTROSCHISIS",
+            "pref_label": "Thoracogastroschisis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124586"
+        },
+        {
+            "definition": "Fissure of thoracic wall. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124587",
+            "notation": "THORACOSCHISIS",
+            "pref_label": "Thoracoschisis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124587"
+        },
+        {
+            "alt_label": "Filamentous",
+            "definition": "Resembling a thread or pertaining to thread-like structures.",
+            "identifier": "C124588",
+            "notation": "THREAD-LIKE",
+            "pref_label": "Thread-Like",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124588"
+        },
+        {
+            "definition": "Consisting of three chambers.",
+            "identifier": "C176481",
+            "notation": "THREE-CHAMBERED",
+            "pref_label": "Three-Chambered",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176481"
+        },
+        {
+            "alt_label": "Extra Thymic Tissue;Thymic Remnant in the Neck;Thymus Long Cranially",
+            "definition": "Partially undescended horn of thymus. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124590",
+            "notation": "THYMIC CORD",
+            "pref_label": "Thymic Cord",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124590"
+        },
+        {
+            "alt_label": "Transposition",
+            "definition": "Displacement to the opposite side. (https://medical-dictionary.thefreedictionary.com/)",
+            "identifier": "C176482",
+            "notation": "TRANSPOSED",
+            "pref_label": "Transposed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176482"
+        },
+        {
+            "definition": "Consisting of two chambers.",
+            "identifier": "C176483",
+            "notation": "TWO-CHAMBERED",
+            "pref_label": "Two-Chambered",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176483"
+        },
+        {
+            "definition": "Incomplete expansion.",
+            "identifier": "C176484",
+            "notation": "UNEXPANDED",
+            "pref_label": "Unexpanded",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176484"
+        },
+        {
+            "alt_label": "Supernumerary Suture",
+            "definition": "Linear break in ossification with underlying bone precursor present. Usually seen in the intramembranous bones of the skull. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124642",
+            "notation": "UNOSSIFIED LINE",
+            "pref_label": "Supernumerary Cranial Sutures",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124642"
+        },
+        {
+            "definition": "Absence of ossification (assessed by absence of alizarin red stain) at a site which, in controls of the same age, is usually at least partially ossified. Applies only to the ossification site and does not imply any change to the bone precursor. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124641",
+            "notation": "UNOSSIFIED",
+            "pref_label": "Unossified",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124641"
+        },
+        {
+            "definition": "No noteworthy findings.",
+            "identifier": "C96301",
+            "notation": "UNREMARKABLE",
+            "pref_label": "Unremarkable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C96301"
+        },
+        {
+            "definition": "Undulations along a length. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C176485",
+            "notation": "WAVY",
+            "pref_label": "Wavy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C176485"
+        },
+        {
+            "definition": "Greater than the normal or expected width. More than the normal side to side dimension. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124593",
+            "notation": "WIDE",
+            "pref_label": "Wide",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124310-C124593"
+        }
+    ]
+}

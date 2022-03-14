@@ -1,0 +1,564 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Absolute Change From Nadir",
+            "definition": "The current value minus the lowest value previously recorded.",
+            "identifier": "C103347",
+            "notation": "ACHNAD",
+            "pref_label": "Absolute Change From Nadir",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C103347"
+        },
+        {
+            "alt_label": "Absolute Change Nadir in Organ Enlarge;Absolute Change Nadir in Organ Enlargement",
+            "definition": "The current organ enlargement minus the lowest organ enlargement previously recorded. (NCI)",
+            "identifier": "C135506",
+            "notation": "ACNDOREN",
+            "pref_label": "Absolute Change from Nadir in Organ Enlargement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C135506"
+        },
+        {
+            "alt_label": "Absolute Change Nadir in Sum of Diam",
+            "definition": "The current sum of diameters minus the lowest sum of diameters previously recorded.",
+            "identifier": "C112218",
+            "notation": "ACNSD",
+            "pref_label": "Absolute Change From Nadir in Sum of Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C112218"
+        },
+        {
+            "alt_label": "Absolute Change From PPD Nadir in LDIAM",
+            "definition": "The absolute change (positive or negative) in the longest diameter of the lesion from the timepoint at which the product of perpendicular diameters of the lesion is the smallest.",
+            "identifier": "C147488",
+            "notation": "ACPPDNLD",
+            "pref_label": "Absolute Change in Longest Diameter From Nadir Product of Perpendicular Diameters Timepoint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C147488"
+        },
+        {
+            "alt_label": "Absolute Change From PPD Nadir in LPERP",
+            "definition": "The absolute change (positive or negative) in the longest perpendicular of the lesion from the timepoint at which the product of perpendicular diameters of the lesion is the smallest.",
+            "identifier": "C147489",
+            "notation": "ACPPDNLP",
+            "pref_label": "Absolute Change in Longest Perpendicular from Nadir Product of Perpendicular Diameters Timepoint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C147489"
+        },
+        {
+            "alt_label": "Area",
+            "definition": "The extent of a 2-dimensional surface enclosed within a boundary. (NCI)",
+            "identifier": "C25244",
+            "notation": "AREA",
+            "pref_label": "Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C25244"
+        },
+        {
+            "alt_label": "Average Metabolic Standard Uptake Value",
+            "definition": "A semiquantitative analysis of the average uptake of analyte by body tissue in relation to the total administered dose of the analyte.",
+            "identifier": "C96566",
+            "notation": "AVMETSUV",
+            "pref_label": "Average Metabolic Standard Uptake Value",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96566"
+        },
+        {
+            "alt_label": "Bone Marrow Tracer Uptake",
+            "definition": "A visually assessed combination of extent and intensity of tracer uptake within the bone marrow.",
+            "identifier": "C147490",
+            "notation": "BMUPTAKE",
+            "pref_label": "Bone Marrow Tracer Uptake",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C147490"
+        },
+        {
+            "alt_label": "Number of Bone Lesions",
+            "definition": "The number of lesions within the bone.",
+            "identifier": "C132463",
+            "notation": "BNLNUM",
+            "pref_label": "Number of Bone Lesions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C132463"
+        },
+        {
+            "alt_label": "Calcification Indicator",
+            "definition": "An indication as to whether calcification is present.",
+            "identifier": "C126056",
+            "notation": "CALCFIND",
+            "pref_label": "Calcification Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C126056"
+        },
+        {
+            "alt_label": "Diameter",
+            "definition": "The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference. (NCI)",
+            "identifier": "C25285",
+            "notation": "DIAMETER",
+            "pref_label": "Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C25285"
+        },
+        {
+            "alt_label": "FDG PET Lymphoma 5PS Score",
+            "definition": "A 5 point scale devised to assess the response to treatment of Hodgkin and aggressive Non-Hodgkin lymphoma. (Barrington SF, Mikhaeel NG, Kostakoglu L, Meignan M, et al. Role of imaging in the staging and response assessment of lymphoma: consensus of the International Conference on Malignant Lymphomas Imaging Working Group. J Clin Oncol. 2014 Sep 20;32(27):3048-58.)",
+            "identifier": "C99723",
+            "notation": "FDPL5PS",
+            "pref_label": "London Deauville Criteria Point Scale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C99723"
+        },
+        {
+            "alt_label": "Longest Diameter",
+            "definition": "The longest possible length of a straight line passing through the center of a circular or spheroid object that connects two points on the circumference.",
+            "identifier": "C96684",
+            "notation": "LDIAM",
+            "pref_label": "Longest Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96684"
+        },
+        {
+            "alt_label": "Lesion Elevation Severity/Intensity",
+            "definition": "An assessment of the severity of a lesion that is heightened or raised above the surface plane of the body.",
+            "identifier": "C174369",
+            "notation": "LESELESV",
+            "pref_label": "Severity of Elevated Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C174369"
+        },
+        {
+            "alt_label": "Lesion Erythema Severity/Intensity",
+            "definition": "An assessment of the severity of a lesion that has red discoloration.",
+            "identifier": "C174367",
+            "notation": "LESERYSV",
+            "pref_label": "Severity of Erythematous Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C174367"
+        },
+        {
+            "alt_label": "Lesion Failure Indicator",
+            "definition": "An indication as to whether lesion failure occurred.",
+            "identifier": "C119551",
+            "notation": "LESFLIND",
+            "pref_label": "Lesion Failure Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C119551"
+        },
+        {
+            "alt_label": "Lesion Revascularization Indicator",
+            "definition": "An indication as to whether repeat revascularization of a lesion occurred.",
+            "identifier": "C119552",
+            "notation": "LESRVIND",
+            "pref_label": "Lesion Revascularization Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C119552"
+        },
+        {
+            "alt_label": "Lesion Success Indicator",
+            "definition": "An indication as to whether a performed procedure of a target lesion is considered successful.",
+            "identifier": "C119553",
+            "notation": "LESSCIND",
+            "pref_label": "Lesion Success Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C119553"
+        },
+        {
+            "alt_label": "Lesion Scaling Severity/Intensity",
+            "definition": "An assessment of the severity of a lesion that has flaking dead skin and an increase of keratin in the stratum corneum of the lesion.",
+            "identifier": "C174368",
+            "notation": "LESSCLSV",
+            "pref_label": "Severity of Scaling Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C174368"
+        },
+        {
+            "alt_label": "Limb Failure Indicator",
+            "definition": "An indication as to whether limb failure occurred.",
+            "identifier": "C119554",
+            "notation": "LMBFLIND",
+            "pref_label": "Limb Failure Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C119554"
+        },
+        {
+            "alt_label": "Number of Lymph Nodes Examined",
+            "definition": "The number of lymph nodes that were examined.",
+            "identifier": "C124446",
+            "notation": "LMNDEXAM",
+            "pref_label": "Number of Lymph Nodes Examined",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C124446"
+        },
+        {
+            "alt_label": "Number of Lymph Nodes Positive",
+            "definition": "The number of subject lymph nodes that were positive for presence of disease.",
+            "identifier": "C124447",
+            "notation": "LMNDPNUM",
+            "pref_label": "Number of Lymph Nodes Positive",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C124447"
+        },
+        {
+            "alt_label": "Lymph Node State",
+            "definition": "A condition or state of a lymph node at a particular time.",
+            "identifier": "C124448",
+            "notation": "LNSTATE",
+            "pref_label": "Lymph Node State",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C124448"
+        },
+        {
+            "alt_label": "Longest Perpendicular;Short Axis Diameter",
+            "definition": "The longest possible straight line or plane through a body or figure that is at a right angle to a given line or plane.",
+            "identifier": "C96685",
+            "notation": "LPERP",
+            "pref_label": "Longest Perpendicular",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96685"
+        },
+        {
+            "alt_label": "Lesion Revas Ischemia Indicator",
+            "definition": "An indication as to whether clinical or functional ischemia is present before lesion revascularization occurred.",
+            "identifier": "C119555",
+            "notation": "LRISCIND",
+            "pref_label": "Lesion Revascularization Ischemia Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C119555"
+        },
+        {
+            "alt_label": "Lesion Revas Clinical Indicator",
+            "definition": "An indication as to whether an appropriate clinical context was present before lesion revascularization occurred.",
+            "identifier": "C119556",
+            "notation": "LRVCLIND",
+            "pref_label": "Lesion Revascularization Clinical Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C119556"
+        },
+        {
+            "alt_label": "Two or More New Bone Lesions Indicator",
+            "definition": "An indication as to whether there are two or more new bone lesions, in comparison to a reference timepoint.",
+            "identifier": "C132490",
+            "notation": "NBNL2IND",
+            "pref_label": "Two or More New Bone Lesions Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C132490"
+        },
+        {
+            "alt_label": "Number of New Bone Lesions",
+            "definition": "The number of new lesions within the bone, in comparison to a reference timepoint.",
+            "identifier": "C132464",
+            "notation": "NBNLNUM",
+            "pref_label": "Number of New Bone Lesions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C132464"
+        },
+        {
+            "alt_label": "New Tumor Confirmed",
+            "definition": "The verification/confirmation by other methods or modalities that a tumor, which has not been previously seen or characterized, is present in the subject.",
+            "identifier": "C103421",
+            "notation": "NEWCONF",
+            "pref_label": "New Tumor Confirmation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C103421"
+        },
+        {
+            "alt_label": "Organ Enlargement, Quantitative",
+            "definition": "A quantitative measurement of the increase in organ size or dimension, relative to a defined value.",
+            "identifier": "C135507",
+            "notation": "ORENLQN",
+            "pref_label": "Quantitative Organ Enlargement Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C135507"
+        },
+        {
+            "alt_label": "Organ State",
+            "definition": "A condition or state of an organ at a particular time.",
+            "identifier": "C135508",
+            "notation": "ORSTATE",
+            "pref_label": "Organ State",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C135508"
+        },
+        {
+            "alt_label": "Organ Vertical Length",
+            "definition": "The linear extent along the craniocaudal axis from one end of an organ to the other end. (NCI)",
+            "identifier": "C135509",
+            "notation": "ORVERLN",
+            "pref_label": "Organ Craniocaudal Length Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C135509"
+        },
+        {
+            "alt_label": "Overall Tracer Uptake Compared to Baseline;Overall Tracer Uptake Compared to BL",
+            "definition": "A visually assessed combination of extent and intensity of tracer uptake, as compared to baseline.",
+            "identifier": "C139128",
+            "notation": "OTRCUPCB",
+            "pref_label": "Overall Tracer Uptake Compared to Baseline",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C139128"
+        },
+        {
+            "alt_label": "Overall Tracer Uptake Compared to Nadir",
+            "definition": "A visually assessed combination of extent and intensity of tracer uptake, as compared to nadir.",
+            "identifier": "C150896",
+            "notation": "OTRCUPCN",
+            "pref_label": "Overall Tracer Uptake Compared to Nadir",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C150896"
+        },
+        {
+            "alt_label": "Palpable State",
+            "definition": "A condition or state of the lesion with regards to its palpability status at a particular point in time.",
+            "identifier": "C124449",
+            "notation": "PALPSTAT",
+            "pref_label": "Palpable State",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C124449"
+        },
+        {
+            "alt_label": "Two or More Persist New Bone Lesions Ind;Two or More Persisting New Bone Lesions Indicator",
+            "definition": "An indication as to whether there are two or more bone lesions previously identified as new and are considered to be persisting.",
+            "identifier": "C132465",
+            "notation": "PBNL2IND",
+            "pref_label": "Two or More Persisting New Bone Lesions Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C132465"
+        },
+        {
+            "alt_label": "Percent Change Baseline in Sum of Diam",
+            "definition": "The (current sum of diameters minus the baseline sum of diameters) divided by the baseline sum of diameters, multiplied by 100.",
+            "identifier": "C112370",
+            "notation": "PCBSD",
+            "pref_label": "Percent Change From Baseline in Sum of Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C112370"
+        },
+        {
+            "alt_label": "Percent Change Baseline Sum Longest Diam",
+            "definition": "The (current sum of longest diameters minus the baseline sum of longest diameters) divided by the baseline sum of longest diameters, multiplied by 100.",
+            "identifier": "C112371",
+            "notation": "PCBSLD",
+            "pref_label": "Percent Change From Baseline in Sum of Longest Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C112371"
+        },
+        {
+            "alt_label": "Percent Change Baseline in Organ Enlarge;Percent Change Baseline in Organ Enlargement",
+            "definition": "The (current organ enlargement minus the baseline organ enlargement) divided by the baseline organ enlargement, multiplied by 100. (NCI)",
+            "identifier": "C135510",
+            "notation": "PCBSOREN",
+            "pref_label": "Percent Change from Baseline in Organ Enlargement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C135510"
+        },
+        {
+            "alt_label": "Percent Change Baseline in Sum of PPD",
+            "definition": "The (current sum of products of perpendicular diameters minus the baseline sum of products of perpendicular diameters) divided by the baseline sum of products of perpendicular diameters, multiplied by 100.",
+            "identifier": "C132264",
+            "notation": "PCBSPPD",
+            "pref_label": "Percent Change From Baseline in Sum of Products of Perpendicular Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C132264"
+        },
+        {
+            "alt_label": "Percent Change Baseline in Sum of Volume",
+            "definition": "The (current sum of volumes minus the baseline sum of volumes) divided by the baseline sum of volumes, multiplied by 100.",
+            "identifier": "C112372",
+            "notation": "PCBSV",
+            "pref_label": "Percent Change From Baseline in Sum of Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C112372"
+        },
+        {
+            "alt_label": "Percent Change From Baseline",
+            "definition": "The (current value minus the baseline value) divided by the baseline value, multiplied by 100.",
+            "identifier": "C96621",
+            "notation": "PCHGBL",
+            "pref_label": "Percent Change From Baseline",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96621"
+        },
+        {
+            "alt_label": "Percent Change From Nadir",
+            "definition": "The (current value minus the lowest value previously recorded) divided by the lowest value previously recorded, multiplied by 100.",
+            "identifier": "C96622",
+            "notation": "PCHGNAD",
+            "pref_label": "Percent Change From Nadir",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96622"
+        },
+        {
+            "alt_label": "Percent Change Nadir in Organ Enlarge;Percent Change Nadir in Organ Enlargement",
+            "definition": "The (current organ enlargement minus the lowest organ enlargement previously recorded) divided by the lowest organ enlargement previously recorded, multiplied by 100. (NCI)",
+            "identifier": "C135511",
+            "notation": "PCNDOREN",
+            "pref_label": "Percent Change from Nadir in Organ Enlargement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C135511"
+        },
+        {
+            "alt_label": "Percent Change Nadir in PPD",
+            "definition": "The (current product of perpendicular diameters minus the lowest product of perpendicular diameters previously recorded) divided by the lowest product of perpendicular diameters previously recorded, multiplied by 100.",
+            "identifier": "C135512",
+            "notation": "PCNPPD",
+            "pref_label": "Percent Change from Nadir in Product of Perpendicular Diameters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C135512"
+        },
+        {
+            "alt_label": "Percent Change Nadir in Sum of Diam",
+            "definition": "The (current sum of diameters minus the lowest sum of diameters previously recorded) divided by the lowest sum of diameters previously recorded, multiplied by 100.",
+            "identifier": "C112373",
+            "notation": "PCNSD",
+            "pref_label": "Percent Change From Nadir in Sum of Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C112373"
+        },
+        {
+            "alt_label": "Percent Change Nadir in Sum Longest Diam",
+            "definition": "The (current sum of longest diameters minus the lowest sum of longest diameters previously recorded) divided by the lowest sum of longest diameters previously recorded, multiplied by 100.",
+            "identifier": "C112374",
+            "notation": "PCNSLD",
+            "pref_label": "Percent Change From Nadir in Sum of Longest Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C112374"
+        },
+        {
+            "alt_label": "Percent Change Nadir in Sum of PPD",
+            "definition": "The (current sum of products of perpendicular diameters minus the lowest sum of products of perpendicular diameters previously recorded) divided by the lowest sum of products of perpendicular diameters previously recorded, multiplied by 100.",
+            "identifier": "C132265",
+            "notation": "PCNSPPD",
+            "pref_label": "Percent Change From Nadir in Sum of Products of Perpendicular Diameters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C132265"
+        },
+        {
+            "alt_label": "Percent Change Nadir in Sum of Volume",
+            "definition": "The (current sum of volumes minus the lowest sum of volumes previously recorded) divided by the lowest sum of volumes previously recorded, multiplied by 100.",
+            "identifier": "C178054",
+            "notation": "PCNSV",
+            "pref_label": "Percent Change Nadir in Sum of Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C178054"
+        },
+        {
+            "alt_label": "PPD;Product of Perpendicular Diameters",
+            "definition": "The longest diameter multiplied by its longest perpendicular diameter.",
+            "identifier": "C135513",
+            "notation": "PPD",
+            "pref_label": "Product of Perpendicular Diameters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C135513"
+        },
+        {
+            "alt_label": "Radiodensity",
+            "definition": "The transparency of a material to the passage of X-rays and other forms of radiation.",
+            "identifier": "C96627",
+            "notation": "RADIODEN",
+            "pref_label": "Radiodensity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96627"
+        },
+        {
+            "alt_label": "Standardized Uptake Value Maximum Corrected for Lean Body Mass;SUV Maximum Corrected for Lean Body Mass",
+            "definition": "The standardized uptake value corrected for lean body mass of the pixel or voxel with the strongest signal, within a defined area or volume of interest (VOI).",
+            "identifier": "C181545",
+            "notation": "SULMAX",
+            "pref_label": "Maximum Standardized Uptake Value Corrected for Lean Body Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C181545"
+        },
+        {
+            "alt_label": "Standardized Uptake Value Mean Corrected for Lean Body Mass;SUV Mean Corrected for Lean Body Mass",
+            "definition": "The arithmetic mean of a group of standardized uptake values corrected for lean body mass within a defined area or volume of interest (VOI).",
+            "identifier": "C181546",
+            "notation": "SULMEAN",
+            "pref_label": "Mean Standardized Uptake Value Corrected for Lean Body Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C181546"
+        },
+        {
+            "alt_label": "Standardized Uptake Value Peak Corrected for Lean Body Mass;SUV Peak Corrected for Lean Body Mass",
+            "definition": "The peak of standardized uptake value corrected for lean body mass distribution, generated by a histogram of all SUV values, across a defined area or volume of interest (VOI).",
+            "identifier": "C181547",
+            "notation": "SULPEAK",
+            "pref_label": "Peak Standardized Uptake Value Corrected for Lean Body Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C181547"
+        },
+        {
+            "alt_label": "Sum of Diameter",
+            "definition": "A calculation of the aggregated diameter values.",
+            "identifier": "C96631",
+            "notation": "SUMDIAM",
+            "pref_label": "Sum of Diameters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96631"
+        },
+        {
+            "alt_label": "Sum of Longest Diameter",
+            "definition": "A calculation of the aggregated longest diameter values.",
+            "identifier": "C96632",
+            "notation": "SUMLDIAM",
+            "pref_label": "Sum of Longest Diameters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96632"
+        },
+        {
+            "alt_label": "Sum of Longest Perpendicular",
+            "definition": "A calculation of the aggregated longest perpendicular values.",
+            "identifier": "C96633",
+            "notation": "SUMLPERP",
+            "pref_label": "Sum of Longest Perpendiculars",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96633"
+        },
+        {
+            "alt_label": "Sum Diameters of Non Lymph Node Tumors",
+            "definition": "A calculation of the aggregated diameter values for tumors other than the lymph nodes.",
+            "identifier": "C103441",
+            "notation": "SUMNLNLD",
+            "pref_label": "Sum of Diameters of Non Lymph Node Tumors",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C103441"
+        },
+        {
+            "alt_label": "SPD;Sum of Products of Perpendicular Diam;Sum of Products of Perpendicular Diameters",
+            "definition": "The result of the addition of the products of perpendicular diameters.",
+            "identifier": "C132261",
+            "notation": "SUMPPD",
+            "pref_label": "Sum of Products of Perpendicular Diameters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C132261"
+        },
+        {
+            "alt_label": "Sum of Viable Diameter",
+            "definition": "A calculation of the aggregated diameter values taken from the viable portion of the tumor mass.",
+            "identifier": "C96634",
+            "notation": "SUMVDIAM",
+            "pref_label": "Sum of Viable Diameters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96634"
+        },
+        {
+            "alt_label": "Sum of Volume",
+            "definition": "A calculation of the aggregated volume values.",
+            "identifier": "C96635",
+            "notation": "SUMVOL",
+            "pref_label": "Sum of Volumes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96635"
+        },
+        {
+            "alt_label": "Standardized Uptake Value Maximum",
+            "definition": "The standardized (by total body weight) uptake value of the pixel or voxel with the strongest signal, within a defined area or volume of interest (VOI).",
+            "identifier": "C95012",
+            "notation": "SUVMAX",
+            "pref_label": "Standardized Uptake Value Maximum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C95012"
+        },
+        {
+            "alt_label": "Standardized Uptake Value Mean",
+            "definition": "The arithmetic mean of a group of standardized (by total body weight) uptake values within a defined area or volume of interest (VOI).",
+            "identifier": "C181544",
+            "notation": "SUVMEAN",
+            "pref_label": "Standardized Uptake Value Mean",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C181544"
+        },
+        {
+            "alt_label": "Standardized Uptake Value Peak",
+            "definition": "The maximum average (peak) of standardized (by total body weight) uptake value distribution, generated by a histogram of all SUV values, across a defined area or volume of interest (VOI).",
+            "identifier": "C95013",
+            "notation": "SUVPEAK",
+            "pref_label": "Standardized Uptake Value Peak",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C95013"
+        },
+        {
+            "alt_label": "Tumor State",
+            "definition": "A condition or state of a tumor at a particular time.",
+            "identifier": "C96643",
+            "notation": "TUMSTATE",
+            "pref_label": "Tumor Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96643"
+        },
+        {
+            "alt_label": "Viable Diameter",
+            "definition": "The diameter of the portion of the tumor mass that is capable of growth, proliferation and metastasis.",
+            "identifier": "C96646",
+            "notation": "VDIAM",
+            "pref_label": "Viable Tumor Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C96646"
+        },
+        {
+            "alt_label": "Volume",
+            "definition": "A measurement of the volume of a biological specimen.",
+            "identifier": "C74720",
+            "notation": "VOLUME",
+            "pref_label": "Volume Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C74720"
+        },
+        {
+            "alt_label": "Vessel Failure Indicator",
+            "definition": "An indication as to whether vessel failure occurred.",
+            "identifier": "C119557",
+            "notation": "VSLFLIND",
+            "pref_label": "Vessel Failure Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C119557"
+        },
+        {
+            "alt_label": "Vessel Patency Indicator",
+            "definition": "An indication as to whether an artery is patent (free of TLR or restenosis) following intervention.",
+            "identifier": "C119558",
+            "notation": "VSLPIND",
+            "pref_label": "Vessel Patency Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C119558"
+        },
+        {
+            "alt_label": "Vessel Revascularization Indicator",
+            "definition": "An indication as to whether repeat revascularization of an artery containing a lesion occurred.",
+            "identifier": "C119559",
+            "notation": "VSLRVIND",
+            "pref_label": "Vessel Revascularization Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C96779-C119559"
+        }
+    ]
+}

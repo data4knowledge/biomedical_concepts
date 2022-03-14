@@ -1,0 +1,148 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "SF81-Overall How You Rate Your Health",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - Overall, how would you rate your health during the past 4 weeks?",
+            "identifier": "C177819",
+            "notation": "SF8101",
+            "pref_label": "SF8 v1.0 Standard - Overall How You Rate Your Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C177819"
+        },
+        {
+            "alt_label": "SF81-How Much Limit Physical Activities",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much did physical health problems limit your usual physical activities (walking, climbing stairs)?.",
+            "identifier": "C177820",
+            "notation": "SF8102",
+            "pref_label": "SF8 v1.0 Standard - How Much Limit Physical Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C177820"
+        },
+        {
+            "alt_label": "SF81-Difficulty Doing Daily Work",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much difficulty did you have doing your daily work, both at home and away from home, because of your physical health?",
+            "identifier": "C177821",
+            "notation": "SF8103",
+            "pref_label": "SF8 v1.0 Standard - Difficulty Doing Daily Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C177821"
+        },
+        {
+            "alt_label": "SF81-How Much Bodily Pain You Have Had",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - How much bodily pain have you had during the past 4 weeks?",
+            "identifier": "C177822",
+            "notation": "SF8104",
+            "pref_label": "SF8 v1.0 Standard - How Much Bodily Pain You Have Had",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C177822"
+        },
+        {
+            "alt_label": "SF81-How Much Energy Did You Have",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much energy did you have?",
+            "identifier": "C177823",
+            "notation": "SF8105",
+            "pref_label": "SF8 v1.0 Standard - How Much Energy Did You Have",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C177823"
+        },
+        {
+            "alt_label": "SF81-Physical/Emotional Limit Activities",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much did your physical health or emotional problems limit your usual social activities with family or friends?",
+            "identifier": "C177824",
+            "notation": "SF8106",
+            "pref_label": "SF8 v1.0 Standard - Physical, Emotional Limit Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C177824"
+        },
+        {
+            "alt_label": "SF81-Bothered by Emotional Problems",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much have you been bothered by emotional problems (such as feeling anxious, depressed or irritable)?",
+            "identifier": "C177825",
+            "notation": "SF8107",
+            "pref_label": "SF8 v1.0 Standard - Bothered by Emotional Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C177825"
+        },
+        {
+            "alt_label": "SF81-Emotional Problems Keep From Work",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much did personal or emotional problems keep you from doing your usual work, school or other daily activities?",
+            "identifier": "C177826",
+            "notation": "SF8108",
+            "pref_label": "SF8 v1.0 Standard - Emotional Problems Keep From Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C177826"
+        },
+        {
+            "alt_label": "SF81-Phys. Functioning Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - Physical functioning norm-based score.",
+            "identifier": "C180444",
+            "notation": "SF8109",
+            "pref_label": "SF8 v1.0 Standard - Physical Functioning Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C180444"
+        },
+        {
+            "alt_label": "SF81-Role Physical Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - Role physical norm-based score.",
+            "identifier": "C180445",
+            "notation": "SF8110",
+            "pref_label": "SF8 v1.0 Standard - Role Physical Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C180445"
+        },
+        {
+            "alt_label": "SF81-Bodily Pain Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - Bodily pain norm-based score.",
+            "identifier": "C180446",
+            "notation": "SF8111",
+            "pref_label": "SF8 v1.0 Standard - Bodily Pain Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C180446"
+        },
+        {
+            "alt_label": "SF81-General Health Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - General health norm-based score.",
+            "identifier": "C180447",
+            "notation": "SF8112",
+            "pref_label": "SF8 v1.0 Standard - General Health Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C180447"
+        },
+        {
+            "alt_label": "SF81-Vitality Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - Vitality norm-based score.",
+            "identifier": "C180448",
+            "notation": "SF8113",
+            "pref_label": "SF8 v1.0 Standard - Vitality Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C180448"
+        },
+        {
+            "alt_label": "SF81-Social Functioning Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - Social functioning norm-based score.",
+            "identifier": "C180449",
+            "notation": "SF8114",
+            "pref_label": "SF8 v1.0 Standard - Social Functioning Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C180449"
+        },
+        {
+            "alt_label": "SF81-Role Emotional Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - Role emotional norm-based score.",
+            "identifier": "C180450",
+            "notation": "SF8115",
+            "pref_label": "SF8 v1.0 Standard - Role Emotional Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C180450"
+        },
+        {
+            "alt_label": "SF81-Mental Health Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - Mental health norm-based score.",
+            "identifier": "C180451",
+            "notation": "SF8116",
+            "pref_label": "SF8 v1.0 Standard - Mental Health Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C180451"
+        },
+        {
+            "alt_label": "SF81-Physical Component Score",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - Physical component score.",
+            "identifier": "C180452",
+            "notation": "SF8117",
+            "pref_label": "SF8 v1.0 Standard - Physical Component Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C180452"
+        },
+        {
+            "alt_label": "SF81-Mental Component Score",
+            "definition": "The Short Form 8 Health Survey Standard, US Version 1.0 - Mental component score.",
+            "identifier": "C180453",
+            "notation": "SF8118",
+            "pref_label": "SF8 v1.0 Standard - Mental Component Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177708-C180453"
+        }
+    ]
+}

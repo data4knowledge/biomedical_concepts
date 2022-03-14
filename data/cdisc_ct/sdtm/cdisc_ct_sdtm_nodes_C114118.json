@@ -1,0 +1,54 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An indication that the subject has declined to continue into the survival follow-up phase of the trial.",
+            "identifier": "C176358",
+            "notation": "DECLINED TO CONTINUE INTO SURVIVAL FOLLOW-UP",
+            "pref_label": "Declined To Continue Into Survival Follow-Up",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C114118-C176358"
+        },
+        {
+            "definition": "The subject has fulfilled the criteria needed to enter or continue in the study.",
+            "identifier": "C132447",
+            "notation": "ELIGIBILITY CRITERIA MET",
+            "pref_label": "Eligibility Criteria Met By Subject",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C114118-C132447"
+        },
+        {
+            "definition": "The subject has met eligibility criteria and is enrolled in the study. The subject may or may not subsequently be randomized.",
+            "identifier": "C161417",
+            "notation": "ENTERED INTO TRIAL",
+            "pref_label": "Subject Entered Into Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C114118-C161417"
+        },
+        {
+            "alt_label": "Informed Assent",
+            "definition": "Assent given by a minor or adult who is unable to give informed consent on their own behalf, to participate in a clinical trial. Assent must be accompanied by consent from a parent or legal guardian for full participation in the study.",
+            "identifier": "C161418",
+            "notation": "INFORMED ASSENT OBTAINED",
+            "pref_label": "Informed Assent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C114118-C161418"
+        },
+        {
+            "definition": "Consent given by a subject, or in the case of an individual that can only give assent, by a parent or legal guardian, for the participation in a clinical study only after having achieved an understanding of both the relevant medical facts and the relevant risks involved.",
+            "identifier": "C16735",
+            "notation": "INFORMED CONSENT OBTAINED",
+            "pref_label": "Informed Consent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C114118-C16735"
+        },
+        {
+            "definition": "An indication that the subject has opted to continue into the survival follow-up phase of the trial.",
+            "identifier": "C176357",
+            "notation": "OPTED TO CONTINUE INTO SURVIVAL FOLLOW-UP",
+            "pref_label": "Opted To Continue Into Survival Follow-Up",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C114118-C176357"
+        },
+        {
+            "definition": "Participants are assigned to arms of a clinical trial by chance.",
+            "identifier": "C114209",
+            "notation": "RANDOMIZED",
+            "pref_label": "Subject is Randomized",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C114118-C114209"
+        }
+    ]
+}

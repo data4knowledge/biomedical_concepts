@@ -1,0 +1,372 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "PTAP1-Avg Sign Dev Interval Self All",
+            "definition": "Paced Tapping - The average signed deviation of the intertap intervals within the self-paced tapping phase across all trials.",
+            "identifier": "C151049",
+            "notation": "PTAP1-Avg Sign Dev Interval Self All",
+            "pref_label": "Paced Tapping - Avg Sign Dev Interval Self All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151049"
+        },
+        {
+            "alt_label": "PTAP1-Avg Sign Dev Interval Self Trial",
+            "definition": "Paced Tapping - The average signed deviation of the intertap intervals within the self-paced tapping phase of Trial n.",
+            "identifier": "C151072",
+            "notation": "PTAP1-Avg Sign Dev Interval Self Trial",
+            "pref_label": "Paced Tapping - Avg Sign Dev Interval Self Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151072"
+        },
+        {
+            "alt_label": "PTAP1-Avg Sign Dev Interval Tone All",
+            "definition": "Paced Tapping - The average signed deviation of the intertap intervals within the tone-paced tapping phase across all trials.",
+            "identifier": "C151039",
+            "notation": "PTAP1-Avg Sign Dev Interval Tone All",
+            "pref_label": "Paced Tapping - Avg Sign Dev Interval Tone All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151039"
+        },
+        {
+            "alt_label": "PTAP1-Avg Sign Dev Interval Tone Trial",
+            "definition": "Paced Tapping - The average signed deviation of the intertap intervals within the tone-tapping phase of Trial n.",
+            "identifier": "C151062",
+            "notation": "PTAP1-Avg Sign Dev Interval Tone Trial",
+            "pref_label": "Paced Tapping - Avg Sign Dev Interval Tone Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151062"
+        },
+        {
+            "alt_label": "PTAP1-Deviation Interval Self All",
+            "definition": "Paced Tapping - The standard deviation of the intertap intervals within the self-paced tapping phase across all trials.",
+            "identifier": "C151047",
+            "notation": "PTAP1-Deviation Interval Self All",
+            "pref_label": "Paced Tapping - Deviation Interval Self All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151047"
+        },
+        {
+            "alt_label": "PTAP1-Deviation Interval Self Trial",
+            "definition": "Paced Tapping - The standard deviation of the intertap intervals within the self-paced tapping phase of Trial n.",
+            "identifier": "C151070",
+            "notation": "PTAP1-Deviation Interval Self Trial",
+            "pref_label": "Paced Tapping - Deviation Interval Self Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151070"
+        },
+        {
+            "alt_label": "PTAP1-Deviation Interval Tone All",
+            "definition": "Paced Tapping - The standard deviation of the intertap intervals within the tone-paced tapping phase across all trials.",
+            "identifier": "C151037",
+            "notation": "PTAP1-Deviation Interval Tone All",
+            "pref_label": "Paced Tapping - Deviation Interval Tone All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151037"
+        },
+        {
+            "alt_label": "PTAP1-Deviation Interval Tone Trial",
+            "definition": "Paced Tapping - The standard deviation of the intertap intervals within the tone-tapping phase of Trial n.",
+            "identifier": "C151060",
+            "notation": "PTAP1-Deviation Interval Tone Trial",
+            "pref_label": "Paced Tapping - Deviation Interval Tone Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151060"
+        },
+        {
+            "alt_label": "PTAP1-Maximum Interval Self All",
+            "definition": "Paced Tapping - The maximum intertap interval within the self-paced tapping phase across all trials (in milliseconds).",
+            "identifier": "C151043",
+            "notation": "PTAP1-Maximum Interval Self All",
+            "pref_label": "Paced Tapping - Maximum Interval Self All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151043"
+        },
+        {
+            "alt_label": "PTAP1-Maximum Interval Self Trial",
+            "definition": "Paced Tapping - The maximum intertap interval within the self-paced tapping phase of Trial n (in milliseconds).",
+            "identifier": "C151066",
+            "notation": "PTAP1-Maximum Interval Self Trial",
+            "pref_label": "Paced Tapping - Maximum Interval Self Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151066"
+        },
+        {
+            "alt_label": "PTAP1-Maximum Interval Tone All",
+            "definition": "Paced Tapping - The maximum intertap interval within the tone-paced tapping phase across all trials (in milliseconds).",
+            "identifier": "C151033",
+            "notation": "PTAP1-Maximum Interval Tone All",
+            "pref_label": "Paced Tapping - Maximum Interval Tone All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151033"
+        },
+        {
+            "alt_label": "PTAP1-Maximum Interval Tone Trial",
+            "definition": "Paced Tapping - The maximum intertap interval within the tone-tapping phase of Trial n (in milliseconds).",
+            "identifier": "C151056",
+            "notation": "PTAP1-Maximum Interval Tone Trial",
+            "pref_label": "Paced Tapping - Maximum Interval Tone Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151056"
+        },
+        {
+            "alt_label": "PTAP1-Mean Interval Self All",
+            "definition": "Paced Tapping - The mean intertap interval within the self-paced tapping phase across all trials (in milliseconds).",
+            "identifier": "C151044",
+            "notation": "PTAP1-Mean Interval Self All",
+            "pref_label": "Paced Tapping - Mean Interval Self All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151044"
+        },
+        {
+            "alt_label": "PTAP1-Mean Interval Self Trial",
+            "definition": "Paced Tapping - The mean intertap interval within the self-paced tapping phase of Trial n (in milliseconds).",
+            "identifier": "C151067",
+            "notation": "PTAP1-Mean Interval Self Trial",
+            "pref_label": "Paced Tapping - Mean Interval Self Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151067"
+        },
+        {
+            "alt_label": "PTAP1-Mean Interval Tone All",
+            "definition": "Paced Tapping - The mean intertap interval within the tone-paced tapping phase across all trials (in milliseconds).",
+            "identifier": "C151034",
+            "notation": "PTAP1-Mean Interval Tone All",
+            "pref_label": "Paced Tapping - Mean Interval Tone All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151034"
+        },
+        {
+            "alt_label": "PTAP1-Mean Interval Tone Trial",
+            "definition": "Paced Tapping - The mean intertap interval within the tone-tapping phase of Trial n (in milliseconds).",
+            "identifier": "C151057",
+            "notation": "PTAP1-Mean Interval Tone Trial",
+            "pref_label": "Paced Tapping - Mean Interval Tone Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151057"
+        },
+        {
+            "alt_label": "PTAP1-Median Interval Self All",
+            "definition": "Paced Tapping - The median intertap interval within the self-paced tapping phase across all trials (in milliseconds).",
+            "identifier": "C151045",
+            "notation": "PTAP1-Median Interval Self All",
+            "pref_label": "Paced Tapping - Median Interval Self All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151045"
+        },
+        {
+            "alt_label": "PTAP1-Median Interval Self Trial",
+            "definition": "Paced Tapping - The median intertap interval within the self-paced tapping phase of Trial n (in milliseconds).",
+            "identifier": "C151068",
+            "notation": "PTAP1-Median Interval Self Trial",
+            "pref_label": "Paced Tapping - Median Interval Self Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151068"
+        },
+        {
+            "alt_label": "PTAP1-Median Interval Tone All",
+            "definition": "Paced Tapping - The median intertap interval within the tone-paced tapping phase across all trials (in milliseconds).",
+            "identifier": "C151035",
+            "notation": "PTAP1-Median Interval Tone All",
+            "pref_label": "Paced Tapping - Median Interval Tone All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151035"
+        },
+        {
+            "alt_label": "PTAP1-Median Interval Tone Trial",
+            "definition": "Paced Tapping - The median intertap interval within the tone-tapping phase of Trial n (in milliseconds).",
+            "identifier": "C151058",
+            "notation": "PTAP1-Median Interval Tone Trial",
+            "pref_label": "Paced Tapping - Median Interval Tone Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151058"
+        },
+        {
+            "alt_label": "PTAP1-Minimum Interval Self All",
+            "definition": "Paced Tapping - The minimum intertap interval within the self-paced tapping phase across all trials (in milliseconds).",
+            "identifier": "C151042",
+            "notation": "PTAP1-Minimum Interval Self All",
+            "pref_label": "Paced Tapping - Minimum Interval Self All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151042"
+        },
+        {
+            "alt_label": "PTAP1-Minimum Interval Self Trial",
+            "definition": "Paced Tapping - The minimum intertap interval within the self-paced tapping phase of Trial n (in milliseconds).",
+            "identifier": "C151065",
+            "notation": "PTAP1-Minimum Interval Self Trial",
+            "pref_label": "Paced Tapping - Minimum Interval Self Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151065"
+        },
+        {
+            "alt_label": "PTAP1-Minimum Interval Tone All",
+            "definition": "Paced Tapping - The minimum intertap interval within the tone-paced tapping phase across all trials (in milliseconds).",
+            "identifier": "C151032",
+            "notation": "PTAP1-Minimum Interval Tone All",
+            "pref_label": "Paced Tapping - Minimum Interval Tone All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151032"
+        },
+        {
+            "alt_label": "PTAP1-Minimum Interval Tone Trial",
+            "definition": "Paced Tapping - The minimum intertap interval within the tone-tapping phase of Trial n (in milliseconds).",
+            "identifier": "C151055",
+            "notation": "PTAP1-Minimum Interval Tone Trial",
+            "pref_label": "Paced Tapping - Minimum Interval Tone Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151055"
+        },
+        {
+            "alt_label": "PTAP1-Num Intervals Expected Self Trial",
+            "definition": "Paced Tapping - Total number of intertap intervals expected for the self-paced tapping phase of Trial n.",
+            "identifier": "C151063",
+            "notation": "PTAP1-Num Intervals Expected Self Trial",
+            "pref_label": "Paced Tapping - Num Intervals Expected Self Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151063"
+        },
+        {
+            "alt_label": "PTAP1-Num Intervals Expected Tone Trial",
+            "definition": "Paced Tapping - Total number of intertap intervals expected for the tone-tapping phase of Trial n.",
+            "identifier": "C151053",
+            "notation": "PTAP1-Num Intervals Expected Tone Trial",
+            "pref_label": "Paced Tapping - Num Intervals Expected Tone Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151053"
+        },
+        {
+            "alt_label": "PTAP1-Num Intervals Trim Self Trial",
+            "definition": "Paced Tapping - Total number of intertap intervals within the self-paced tapping phase of Trial n, that were trimmed before analysis.",
+            "identifier": "C151064",
+            "notation": "PTAP1-Num Intervals Trim Self Trial",
+            "pref_label": "Paced Tapping - Num Intervals Trim Self Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151064"
+        },
+        {
+            "alt_label": "PTAP1-Num Intervals Trim Tone Trial",
+            "definition": "Paced Tapping - Total number of intertap intervals within the tone-tapping phase of Trial n, that were trimmed before analysis.",
+            "identifier": "C151054",
+            "notation": "PTAP1-Num Intervals Trim Tone Trial",
+            "pref_label": "Paced Tapping - Num Intervals Trim Tone Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151054"
+        },
+        {
+            "alt_label": "PTAP1-Reciprocal Interval Self All",
+            "definition": "Paced Tapping - The reciprocal of the standard deviation of the intertap intervals within the self-paced tapping phase across all trials.",
+            "identifier": "C151048",
+            "notation": "PTAP1-Reciprocal Interval Self All",
+            "pref_label": "Paced Tapping - Reciprocal Interval Self All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151048"
+        },
+        {
+            "alt_label": "PTAP1-Reciprocal Interval Self Trial",
+            "definition": "Paced Tapping - The reciprocal of the standard deviation of the intertap intervals within the self-paced tapping phase of Trial n.",
+            "identifier": "C151071",
+            "notation": "PTAP1-Reciprocal Interval Self Trial",
+            "pref_label": "Paced Tapping - Reciprocal Interval Self Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151071"
+        },
+        {
+            "alt_label": "PTAP1-Reciprocal Interval Tone All",
+            "definition": "Paced Tapping - The reciprocal of the standard deviation of the intertap intervals within the tone-paced tapping phase across all trials.",
+            "identifier": "C151038",
+            "notation": "PTAP1-Reciprocal Interval Tone All",
+            "pref_label": "Paced Tapping - Reciprocal Interval Tone All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151038"
+        },
+        {
+            "alt_label": "PTAP1-Reciprocal Interval ToneTrial",
+            "definition": "Paced Tapping - The reciprocal of the standard deviation of the intertap intervals within the tone-tapping phase of Trial n.",
+            "identifier": "C151061",
+            "notation": "PTAP1-Reciprocal Interval ToneTrial",
+            "pref_label": "Paced Tapping - Reciprocal Interval ToneTrial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151061"
+        },
+        {
+            "alt_label": "PTAP1-Total Interval Self Admin All",
+            "definition": "Paced Tapping - Total number of interlap intervals across all 4 trials administered (self-paced tapping phases).",
+            "identifier": "C151040",
+            "notation": "PTAP1-Total Interval Self Admin All",
+            "pref_label": "Paced Tapping - Total Interval Self Admin All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151040"
+        },
+        {
+            "alt_label": "PTAP1-Total Interval Self Trim All",
+            "definition": "Paced Tapping - Total number of intertap intervals across all 4 trials that were trimmed before analysis (self-paced tapping phases).",
+            "identifier": "C151041",
+            "notation": "PTAP1-Total Interval Self Trim All",
+            "pref_label": "Paced Tapping - Total Interval Self Trim All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151041"
+        },
+        {
+            "alt_label": "PTAP1-Total Interval Tone Admin All",
+            "definition": "Paced Tapping - Total number of intertap intervals across all 4 toned tapping phases of each trial administered.",
+            "identifier": "C151030",
+            "notation": "PTAP1-Total Interval Tone Admin All",
+            "pref_label": "Paced Tapping - Total Interval Tone Admin All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151030"
+        },
+        {
+            "alt_label": "PTAP1-Total Interval Tone Trim All",
+            "definition": "Paced Tapping - Total number of intertap intervals across the 4 toned tapping phases of each trial, that were trimmed before analysis.",
+            "identifier": "C151031",
+            "notation": "PTAP1-Total Interval Tone Trim All",
+            "pref_label": "Paced Tapping - Total Interval Tone Trim All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151031"
+        },
+        {
+            "alt_label": "PTAP1-Total Trials Administered",
+            "definition": "Paced Tapping - Total number of trials actually administered in the task.",
+            "identifier": "C151028",
+            "notation": "PTAP1-Total Trials Administered",
+            "pref_label": "Paced Tapping - Total Trials Administered",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151028"
+        },
+        {
+            "alt_label": "PTAP1-Total Trials Completed",
+            "definition": "Paced Tapping - Total number of trials actually completed in the task.",
+            "identifier": "C151029",
+            "notation": "PTAP1-Total Trials Completed",
+            "pref_label": "Paced Tapping - Total Trials Completed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151029"
+        },
+        {
+            "alt_label": "PTAP1-Total Trials Expected",
+            "definition": "Paced Tapping - Total number of trials expected to be administered in the task.",
+            "identifier": "C151027",
+            "notation": "PTAP1-Total Trials Expected",
+            "pref_label": "Paced Tapping - Total Trials Expected",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151027"
+        },
+        {
+            "alt_label": "PTAP1-Trials Administered in Trial",
+            "definition": "Paced Tapping - Number of trials actually administered in Trial n.",
+            "identifier": "C151051",
+            "notation": "PTAP1-Trials Administered in Trial",
+            "pref_label": "Paced Tapping - Trials Administered in Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151051"
+        },
+        {
+            "alt_label": "PTAP1-Trials Completed in Trial",
+            "definition": "Paced Tapping - Number of trials actually completed in Trial n.",
+            "identifier": "C151052",
+            "notation": "PTAP1-Trials Completed in Trial",
+            "pref_label": "Paced Tapping - Trials Completed in Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151052"
+        },
+        {
+            "alt_label": "PTAP1-Trials Expected in Trial",
+            "definition": "Paced Tapping - Number of trials expected to be administered in Trial n.",
+            "identifier": "C151050",
+            "notation": "PTAP1-Trials Expected in Trial",
+            "pref_label": "Paced Tapping - Trials Expected in Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151050"
+        },
+        {
+            "alt_label": "PTAP1-Variance Interval Self All",
+            "definition": "Paced Tapping - The variance of the intertap interval within the self-paced tapping phase across all trials (in milliseconds).",
+            "identifier": "C151046",
+            "notation": "PTAP1-Variance Interval Self All",
+            "pref_label": "Paced Tapping - Variance Interval Self All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151046"
+        },
+        {
+            "alt_label": "PTAP1-Variance Interval Self Trial",
+            "definition": "Paced Tapping - The variance of the intertap interval within the self-paced tapping phase of Trial n (in milliseconds).",
+            "identifier": "C151069",
+            "notation": "PTAP1-Variance Interval Self Trial",
+            "pref_label": "Paced Tapping - Variance Interval Self Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151069"
+        },
+        {
+            "alt_label": "PTAP1-Variance Interval Tone All",
+            "definition": "Paced Tapping - The variance of the intertap interval within the tone-paced tapping phase across all trials (in milliseconds).",
+            "identifier": "C151036",
+            "notation": "PTAP1-Variance Interval Tone All",
+            "pref_label": "Paced Tapping - Variance Interval Tone All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151036"
+        },
+        {
+            "alt_label": "PTAP1-Variance Interval Tone Trial",
+            "definition": "Paced Tapping - The variance of the intertap interval within the tone-tapping phase of Trial n (in milliseconds).",
+            "identifier": "C151059",
+            "notation": "PTAP1-Variance Interval Tone Trial",
+            "pref_label": "Paced Tapping - Variance Interval Tone Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C150771-C151059"
+        }
+    ]
+}

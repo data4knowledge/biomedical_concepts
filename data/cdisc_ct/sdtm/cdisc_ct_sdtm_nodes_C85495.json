@@ -1,0 +1,68 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Inconclusive",
+            "definition": "Cannot distinguish between two or more possible values in the current context. (NCI)",
+            "identifier": "C48658",
+            "notation": "INDETERMINATE",
+            "pref_label": "Indeterminate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C85495-C48658"
+        },
+        {
+            "alt_label": "Intermediate",
+            "definition": "The growth of microorganisms may be inhibited by antimicrobials that approach usually attainable blood and tissue concentrations. The response rates may be lower than for susceptible isolates. This category also includes a buffer zone, which should prevent small, uncontrolled, technical factors from causing major discrepancies in interpretations, especially for drugs with narrow pharmacotoxicity margins.",
+            "identifier": "C85560",
+            "notation": "INTERMEDIATE",
+            "pref_label": "Antimicrobial Intermediate Susceptibility Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C85495-C85560"
+        },
+        {
+            "alt_label": "Non Susceptible",
+            "definition": "A category used for microorganisms that have only a susceptible interpretive criteria, but not an intermediate or resistant interpretive category (i.e., susceptible-only interpretive category). This category may be applied to new antimicrobial agents for which no resistant microorganisms have been encountered at the time the initial interpretive criteria are determined. Microorganisms that test with an MIC above or a zone measurement below the susceptible interpretive criteria are designated as nonsusceptible. A designation of nonsusceptible does not necessarily mean that a resistance mechanism(s) exists in the microorganism.",
+            "identifier": "C85561",
+            "notation": "NONSUSCEPTIBLE",
+            "pref_label": "Antimicrobial Nonsusceptibility Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C85495-C85561"
+        },
+        {
+            "alt_label": "NA;Not Applicable",
+            "definition": "Determination of a value is not relevant in the current context. (NCI)",
+            "identifier": "C48660",
+            "notation": "NOT APPLICABLE",
+            "pref_label": "Not Applicable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C85495-C48660"
+        },
+        {
+            "alt_label": "Resistant",
+            "definition": "The growth of microorganisms are not inhibited by the usually achievable concentrations of the antimicrobial agent with normal dosages, and/or microorganisms demonstrate MICs or zone diameters that fall in the range where specific microbial resistance mechanisms (e.g. Beta-lactamases) are likely, and clinical efficacy of the agent against the microorganism has not been reliably shown in treatment studies.",
+            "identifier": "C85562",
+            "notation": "RESISTANT",
+            "pref_label": "Antimicrobial Resistance Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C85495-C85562"
+        },
+        {
+            "alt_label": "Susceptible",
+            "definition": "The growth of microorganisms are inhibited by the usually achievable concentrations of antimicrobial agent when the recommended dosage is used for the site of infection.",
+            "identifier": "C85563",
+            "notation": "SUSCEPTIBLE",
+            "pref_label": "Antimicrobial Susceptibility Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C85495-C85563"
+        },
+        {
+            "alt_label": "Susceptible-Dose Dependent",
+            "definition": "The growth of microorganisms may be inhibited when higher than normal dosages of an antimicrobial agent are used and maximal possible blood concentration of the antimicrobial agent is achieved.",
+            "identifier": "C85559",
+            "notation": "SUSCEPTIBLE-DOSE DEPENDENT",
+            "pref_label": "Antimicrobial Dose Dependent Susceptibility Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C85495-C85559"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C85495-C17998"
+        }
+    ]
+}

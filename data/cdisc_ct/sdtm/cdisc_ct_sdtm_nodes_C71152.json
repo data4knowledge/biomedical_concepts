@@ -1,0 +1,876 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Acute Myocardial Ischemia ECG Change",
+            "definition": "An electrocardiographic finding assessment of new or presumed new significant ST-segment-T wave (ST-T) changes or new left bundle branch block consistent with acute myocardial ischemia. (Thygesen K, Alpert JS, Jaffe AS, Simoons ML, et al.; Joint ESC/ACCF/AHA/WHF Task Force for Universal Definition of Myocardial Infarction. Third universal definition of myocardial infarction. J Am Coll Cardiol. 2012 Oct 16;60(16):1581-98).",
+            "identifier": "C116140",
+            "notation": "Acute Myocardial Ischemia ECG Change",
+            "pref_label": "Acute Myocardial Ischemia by ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C116140"
+        },
+        {
+            "alt_label": "Atrioventricular Conduction",
+            "definition": "An electrocardiographic assessment of cardiac atrioventricular conduction.",
+            "identifier": "C111131",
+            "notation": "Atrioventricular Conduction",
+            "pref_label": "Atrioventricular Conduction ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111131"
+        },
+        {
+            "alt_label": "Axis and Voltage",
+            "definition": "An electrocardiographic assessment of mean cardiac electrical vector and the ECG voltage.",
+            "identifier": "C111132",
+            "notation": "Axis and Voltage",
+            "pref_label": "Axis and Voltage ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111132"
+        },
+        {
+            "alt_label": "Chamber Hypertrophy or Enlargement",
+            "definition": "An electrocardiographic assessment of chamber hypertrophy or enlargement.",
+            "identifier": "C111155",
+            "notation": "Chamber Hypertrophy or Enlargement",
+            "pref_label": "Chamber Hypertrophy or Enlargement ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111155"
+        },
+        {
+            "alt_label": "Comparison to a Prior ECG",
+            "definition": "A comparative interpretation of an ECG relative to a previous (comparator) ECG. The definition of the comparator ECG may be specified elsewhere. Common comparator result values include improved, no change, deteriorated.",
+            "identifier": "C117761",
+            "notation": "Comparison to a Prior ECG",
+            "pref_label": "Comparison to a Prior ECG",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117761"
+        },
+        {
+            "alt_label": "ECG Maximum Atrial Rate",
+            "definition": "An electrocardiographic measurement of the maximum rate of atrial depolarizations (P waves) recorded during an interval of time, usually expressed in beats per minute.",
+            "identifier": "C119253",
+            "notation": "ECG Maximum Atrial Rate",
+            "pref_label": "Maximum Atrial Rate by Electrocardiogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C119253"
+        },
+        {
+            "alt_label": "ECG Maximum Heart Rate",
+            "definition": "An electrocardiographic measurement of the maximum rate of depolarization of a specific region of the heart during an interval of time, usually expressed in beats per minute. Unless otherwise specified, this is usually the maximum ventricular rate.",
+            "identifier": "C119257",
+            "notation": "ECG Maximum Heart Rate",
+            "pref_label": "Maximum Heart Rate by Electrocardiogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C119257"
+        },
+        {
+            "alt_label": "ECG Maximum Ventricular Rate",
+            "definition": "An electrocardiographic measurement of the maximum rate of ventricular depolarizations (QRS complexes) recorded during an interval of time, usually expressed in beats per minute.",
+            "identifier": "C119260",
+            "notation": "ECG Maximum Ventricular Rate",
+            "pref_label": "Maximum Ventricular Rate by Electrocardiogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C119260"
+        },
+        {
+            "alt_label": "ECG Mean Atrial Rate",
+            "definition": "An electrocardiographic measurement of the average rate of atrial depolarizations (P waves) recorded during an interval of time, usually expressed in beats per minute.",
+            "identifier": "C119256",
+            "notation": "ECG Mean Atrial Rate",
+            "pref_label": "Mean Atrial Rate by Electrocardiogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C119256"
+        },
+        {
+            "alt_label": "ECG Mean Heart Rate",
+            "definition": "An electrocardiographic measurement of the average rate of depolarization of a specific region of the heart during an interval of time, usually expressed in beats per minute. Unless otherwise specified, this is usually the mean ventricular rate.",
+            "identifier": "C119259",
+            "notation": "ECG Mean Heart Rate",
+            "pref_label": "Mean Heart Rate by Electrocardiogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C119259"
+        },
+        {
+            "alt_label": "ECG Mean Ventricular Rate",
+            "definition": "An electrocardiographic measurement of the average rate of ventricular depolarizations (QRS complexes) recorded during an interval of time, usually expressed in beats per minute.",
+            "identifier": "C119263",
+            "notation": "ECG Mean Ventricular Rate",
+            "pref_label": "Mean Ventricular Rate by Electrocardiogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C119263"
+        },
+        {
+            "alt_label": "ECG Median Atrial Rate",
+            "definition": "An electrocardiographic measurement of the median rate of atrial depolarizations (P waves) recorded during an interval of time, usually expressed in beats per minute.",
+            "identifier": "C119254",
+            "notation": "ECG Median Atrial Rate",
+            "pref_label": "Median Atrial Rate by Electrocardiogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C119254"
+        },
+        {
+            "alt_label": "ECG Median Heart Rate",
+            "definition": "An electrocardiographic measurement of the median rate of depolarization of a specific region of the heart during an interval of time, usually expressed in beats per minute. Unless otherwise specified, this is usually the median ventricular rate.",
+            "identifier": "C123447",
+            "notation": "ECG Median Heart Rate",
+            "pref_label": "ECG Median Heart Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C123447"
+        },
+        {
+            "alt_label": "ECG Median Ventricular Rate",
+            "definition": "An electrocardiographic measurement of the median rate of ventricular depolarizations (QRS complexes) recorded during an interval of time, usually expressed in beats per minute.",
+            "identifier": "C119261",
+            "notation": "ECG Median Ventricular Rate",
+            "pref_label": "Median Ventricular Rate by Electrocardiogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C119261"
+        },
+        {
+            "alt_label": "ECG Minimum Atrial Rate",
+            "definition": "An electrocardiographic measurement of the minimum rate of atrial depolarizations (P waves) recorded during an interval of time, usually expressed in beats per minute.",
+            "identifier": "C119255",
+            "notation": "ECG Minimum Atrial Rate",
+            "pref_label": "Minimum Atrial Rate by Electrocardiogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C119255"
+        },
+        {
+            "alt_label": "ECG Minimum Heart Rate",
+            "definition": "An electrocardiographic measurement of the minimum rate of depolarization of a specific region of the heart during an interval of time, usually expressed in beats per minute. Unless otherwise specified, this is usually the minimum ventricular rate.",
+            "identifier": "C119258",
+            "notation": "ECG Minimum Heart Rate",
+            "pref_label": "Minimum Heart Rate by Electrocardiogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C119258"
+        },
+        {
+            "alt_label": "ECG Minimum Ventricular Rate",
+            "definition": "An electrocardiographic measurement of the minimum rate of ventricular depolarizations (QRS complexes) recorded during an interval of time, usually expressed in beats per minute.",
+            "identifier": "C119262",
+            "notation": "ECG Minimum Ventricular Rate",
+            "pref_label": "Minimum Ventricular Rate by Electrocardiogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C119262"
+        },
+        {
+            "alt_label": "Interpretation",
+            "definition": "An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.",
+            "identifier": "C41255",
+            "notation": "Interpretation",
+            "pref_label": "Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C41255"
+        },
+        {
+            "alt_label": "Intraventricular-Intraatrial Conduction",
+            "definition": "An electrocardiographic assessment of intraventricular and intra-atrial conduction.",
+            "identifier": "C111238",
+            "notation": "Intraventricular-Intraatrial Conduction",
+            "pref_label": "Intraventricular and Intraatrial Conduction ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111238"
+        },
+        {
+            "alt_label": "J-Tpeak Interval, Aggregate",
+            "definition": "An aggregate J-Tpeak value based on the measurement of J-Tpeak intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117767",
+            "notation": "J-Tpeak Interval, Aggregate",
+            "pref_label": "Aggregate J-T Peak Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117767"
+        },
+        {
+            "alt_label": "J-Tpeak Interval, Single Beat",
+            "definition": "An electrocardiographic interval measured from the J point to the peak of the T wave of a single beat utilizing one or more leads.",
+            "identifier": "C117768",
+            "notation": "J-Tpeak Interval, Single Beat",
+            "pref_label": "Single Beat J-T Peak Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117768"
+        },
+        {
+            "alt_label": "JT Interval, Aggregate",
+            "definition": "An aggregate JT value based on the measurement of JT intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117762",
+            "notation": "JT Interval, Aggregate",
+            "pref_label": "Aggregate JT Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117762"
+        },
+        {
+            "alt_label": "JT Interval, Single Beat",
+            "definition": "An electrocardiographic interval measured from the J point to the offset of the T wave of a single beat utilizing one or more leads.",
+            "identifier": "C117769",
+            "notation": "JT Interval, Single Beat",
+            "pref_label": "Single Beat JT Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117769"
+        },
+        {
+            "alt_label": "JTcB Interval, Aggregate",
+            "definition": "A JT aggregate interval that is corrected for heart rate using Bazett's formula, based on the measurement of QT intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117763",
+            "notation": "JTcB Interval, Aggregate",
+            "pref_label": "Aggregate JTCB Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117763"
+        },
+        {
+            "alt_label": "JTcB Interval, Single Beat",
+            "definition": "A JT single beat interval that is corrected for heart rate using Bazett's formula, based on a QT interval measured on a single beat utilizing one or more ECG leads.",
+            "identifier": "C117764",
+            "notation": "JTcB Interval, Single Beat",
+            "pref_label": "Single Beat JTCB Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117764"
+        },
+        {
+            "alt_label": "JTcF Interval, Aggregate",
+            "definition": "A JT aggregate interval that is corrected for heart rate using Fridericia's formula, based on the measurement of QT intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117765",
+            "notation": "JTcF Interval, Aggregate",
+            "pref_label": "Aggregate JTCF Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117765"
+        },
+        {
+            "alt_label": "JTcF Interval, Single Beat",
+            "definition": "A JT single beat interval that is corrected for heart rate using Fridericia's formula, based on a QT interval measured on a single beat utilizing one or more ECG leads.",
+            "identifier": "C117766",
+            "notation": "JTcF Interval, Single Beat",
+            "pref_label": "Single Beat JTCF Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117766"
+        },
+        {
+            "alt_label": "Myocardial Infarction",
+            "definition": "An electrocardiographic assessment of findings suggestive of myocardial infarction.",
+            "identifier": "C111280",
+            "notation": "Myocardial Infarction",
+            "pref_label": "Myocardial Infarction ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111280"
+        },
+        {
+            "alt_label": "New Q Wave",
+            "definition": "An electrocardiographic finding assessment of new or presumed new pathologic Q waves suggestive of myocardial infarction. (Thygesen K, Alpert JS, Jaffe AS, Simoons ML, et al.; Joint ESC/ACCF/AHA/WHF Task Force for Universal Definition of Myocardial Infarction. Third universal definition of myocardial infarction. J Am Coll Cardiol. 2012 Oct 16;60(16):1581-98).",
+            "identifier": "C117770",
+            "notation": "New Q Wave",
+            "pref_label": "New Q Wave",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117770"
+        },
+        {
+            "alt_label": "P Wave Amplitude, Aggregate",
+            "definition": "An aggregate P wave amplitude value based on the measurement of P wave amplitudes from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117777",
+            "notation": "P Wave Amplitude, Aggregate",
+            "pref_label": "Aggregate P Wave Amplitude",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117777"
+        },
+        {
+            "alt_label": "P Wave Amplitude, Single Beat",
+            "definition": "An electrocardiographic measurement of the mean amplitude (usually measured in mm) of the P wave measured from the isoelectric baseline to the peak of the P wave of a single beat utilizing one or more leads. Based on the recording gain, this measurement is reported in millivolt.",
+            "identifier": "C117778",
+            "notation": "P Wave Amplitude, Single Beat",
+            "pref_label": "Single Beat P Wave Amplitude",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117778"
+        },
+        {
+            "alt_label": "P Wave Axis",
+            "definition": "A numerical representation of the electrocardiographic vector assessed at maximum deviation of the P wave from the isoelectric baseline, usually reported for the frontal plane.",
+            "identifier": "C118164",
+            "notation": "P Wave Axis",
+            "pref_label": "P Wave Axis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C118164"
+        },
+        {
+            "alt_label": "P Wave Duration, Aggregate",
+            "definition": "An aggregate P wave duration value based on the measurement of P wave duration intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117775",
+            "notation": "P Wave Duration, Aggregate",
+            "pref_label": "Aggregate P Wave Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117775"
+        },
+        {
+            "alt_label": "P Wave Duration, Single Beat",
+            "definition": "An electrocardiographic interval measured from the onset of the P wave to the offset of the P wave of a single beat utilizing one or more leads.",
+            "identifier": "C117776",
+            "notation": "P Wave Duration, Single Beat",
+            "pref_label": "Single Beat P Wave Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117776"
+        },
+        {
+            "alt_label": "Pacemaker",
+            "definition": "An electrocardiographic assessment of presence of artificial electronic pacing.",
+            "identifier": "C111285",
+            "notation": "Pacemaker",
+            "pref_label": "Pacemaker ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111285"
+        },
+        {
+            "alt_label": "PP Interval, Aggregate",
+            "definition": "An aggregate PP value based on the measurement of PP intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117771",
+            "notation": "PP Interval, Aggregate",
+            "pref_label": "Aggregate PP Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117771"
+        },
+        {
+            "alt_label": "PP Interval, Single Measurement",
+            "definition": "An electrocardiographic measurement of the interval between the onsets of two consecutive P waves.",
+            "identifier": "C117772",
+            "notation": "PP Interval, Single Measurement",
+            "pref_label": "Single Measurement PP Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117772"
+        },
+        {
+            "alt_label": "PQ Interval, Aggregate;PQAG;PR Interval, Aggregate",
+            "definition": "An aggregate PR value based on the measurement of PR intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117773",
+            "notation": "PR Interval, Aggregate",
+            "pref_label": "Aggregate PR Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117773"
+        },
+        {
+            "alt_label": "PQ Interval, Single Beat;PQSB;PR Interval, Single Beat",
+            "definition": "An electrocardiographic interval measured from the onset of the P wave to the onset of the QRS complex of a single beat utilizing one or more leads.",
+            "identifier": "C117774",
+            "notation": "PR Interval, Single Beat",
+            "pref_label": "Single Beat PR Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117774"
+        },
+        {
+            "alt_label": "Q Wave Amplitude, Aggregate",
+            "definition": "An aggregate Q wave amplitude value based on the measurement of Q wave amplitudes from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117789",
+            "notation": "Q Wave Amplitude, Aggregate",
+            "pref_label": "Aggregate Q Wave Amplitude",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117789"
+        },
+        {
+            "alt_label": "Q Wave Amplitude, Single Beat",
+            "definition": "An electrocardiographic measurement of the mean amplitude (usually measured in mm) of the Q wave measured from the isoelectric baseline to the peak of the Q wave of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in millivolt.",
+            "identifier": "C117790",
+            "notation": "Q Wave Amplitude, Single Beat",
+            "pref_label": "Single Beat Q Wave Amplitude",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117790"
+        },
+        {
+            "alt_label": "QRS Axis",
+            "definition": "A numerical representation of the electrocardiographic vector assessed at maximum deviation of the QRS complex from the isoelectric baseline, usually reported for the frontal plane.",
+            "identifier": "C118165",
+            "notation": "QRS Axis",
+            "pref_label": "QRS Axis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C118165"
+        },
+        {
+            "alt_label": "QRS Duration, Aggregate",
+            "definition": "An aggregate QRS value based on the measurement of QRS intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117779",
+            "notation": "QRS Duration, Aggregate",
+            "pref_label": "Aggregate QRS Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117779"
+        },
+        {
+            "alt_label": "QRS Duration, Single Beat",
+            "definition": "An electrocardiographic interval measured from the onset of the QRS complex to the offset of the QRS complex of a single beat utilizing one or more leads.",
+            "identifier": "C117780",
+            "notation": "QRS Duration, Single Beat",
+            "pref_label": "Single Beat QRS Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117780"
+        },
+        {
+            "alt_label": "QRS Duration, Ventr. Paced, Aggregate",
+            "definition": "An aggregate paced QRS duration value based on the measurement of paced QRS duration intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117781",
+            "notation": "QRS Duration, Ventr. Paced, Aggregate",
+            "pref_label": "Paced Ventricular Aggregate QRS Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117781"
+        },
+        {
+            "alt_label": "QRS Duration, Ventr. Paced, Single Beat",
+            "definition": "An electrocardiographic interval measured from the onset of the paced QRS complex to the offset of the QRS complex of a single beat utilizing one or more leads.",
+            "identifier": "C117782",
+            "notation": "QRS Duration, Ventr. Paced, Single Beat",
+            "pref_label": "Paced Ventricular Single Beat QRS Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117782"
+        },
+        {
+            "alt_label": "QT Interval, Aggregate",
+            "definition": "An aggregate QT value based on the measurement of QT intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117783",
+            "notation": "QT Interval, Aggregate",
+            "pref_label": "Aggregate QT Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117783"
+        },
+        {
+            "alt_label": "QT Interval, Single Beat",
+            "definition": "An electrocardiographic interval measured from the onset of the QRS complex to the offset of the T wave of a single beat utilizing one or more leads.",
+            "identifier": "C117788",
+            "notation": "QT Interval, Single Beat",
+            "pref_label": "Single Beat QT Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117788"
+        },
+        {
+            "alt_label": "QTc Corr Method Unspecified, Aggregate;QTc Correction Method Unspecified, Aggregate",
+            "definition": "A QT aggregate interval that is corrected for heart rate by unspecified correction method, or by non-standard correction methods.",
+            "identifier": "C174285",
+            "notation": "QTc Corr Method Unspecified, Aggregate",
+            "pref_label": "QTc Correction Method Unspecified, Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C174285"
+        },
+        {
+            "alt_label": "QTc Corr Method Unspecified, Single Beat;QTc Correction Method Unspecified, Single Beat",
+            "definition": "A QT interval that is corrected for heart rate by unspecified correction method, or by non-standard correction methods, based on a QT interval measured on a single beat utilizing one or more ECG leads.",
+            "identifier": "C174286",
+            "notation": "QTc Corr Method Unspecified, Single Beat",
+            "pref_label": "QTc Correction Method Unspecified, Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C174286"
+        },
+        {
+            "alt_label": "QTc Correction Method Unspecified",
+            "definition": "A QT interval that is corrected for heart rate by unspecified correction method, or by non-standard correction methods.",
+            "identifier": "C100391",
+            "notation": "QTc Correction Method Unspecified",
+            "pref_label": "Corrected QT Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C100391"
+        },
+        {
+            "alt_label": "QTca Interval, Aggregate",
+            "definition": "A QT Aggregate interval that is corrected for heart rate using individual probabilistic QT/RR slopes for each subject, based on the measurement of QT intervals from multiple beats within a single ECG or period of a continuous ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C124332",
+            "notation": "QTca Interval, Aggregate",
+            "pref_label": "Aggregate QTca Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C124332"
+        },
+        {
+            "alt_label": "QTca Interval, Single Beat",
+            "definition": "A QT interval that is corrected for heart rate using individual probabilistic QT/RR slopes for each subject, based on a QT interval measured on a single beat utilizing one or more ECG leads.",
+            "identifier": "C124333",
+            "notation": "QTca Interval, Single Beat",
+            "pref_label": "Single Beat QTca Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C124333"
+        },
+        {
+            "alt_label": "QTcB Interval, Aggregate",
+            "definition": "A QT aggregate interval that is corrected for heart rate using Bazett's formula, based on the measurement of QT intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117784",
+            "notation": "QTcB Interval, Aggregate",
+            "pref_label": "Aggregate QTCB Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117784"
+        },
+        {
+            "alt_label": "QTcB Interval, Single Beat",
+            "definition": "A QT single beat interval that is corrected for heart rate using Bazett's formula, based on a QT interval measured on a single beat utilizing one or more ECG leads.",
+            "identifier": "C117785",
+            "notation": "QTcB Interval, Single Beat",
+            "pref_label": "Single Beat QTCB Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117785"
+        },
+        {
+            "alt_label": "QTcF Interval, Aggregate",
+            "definition": "A QT aggregate interval that is corrected for heart rate using Fridericia's formula, based on the measurement of QT intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117786",
+            "notation": "QTcF Interval, Aggregate",
+            "pref_label": "Aggregate QTCF Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117786"
+        },
+        {
+            "alt_label": "QTcF Interval, Single Beat",
+            "definition": "A QT single beat interval that is corrected for heart rate using Fridericia's formula, based on a QT interval measured on a single beat utilizing one or more ECG leads.",
+            "identifier": "C117787",
+            "notation": "QTcF Interval, Single Beat",
+            "pref_label": "Single Beat QTCF Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117787"
+        },
+        {
+            "alt_label": "QTcL Interval, Aggregate",
+            "definition": "A QT aggregate interval corrected for heart rate using a linear correction formula.",
+            "identifier": "C123448",
+            "notation": "QTcL Interval, Aggregate",
+            "pref_label": "Aggregate QTcL Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C123448"
+        },
+        {
+            "alt_label": "QTcL Interval, Single Beat",
+            "definition": "A QT single beat interval corrected for heart rate using a linear correction formula.",
+            "identifier": "C123449",
+            "notation": "QTcL Interval, Single Beat",
+            "pref_label": "Single Beat QTcL Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C123449"
+        },
+        {
+            "alt_label": "QTcV Interval, Aggregate",
+            "definition": "A QT aggregate interval corrected for heart rate using the Van der Water's correction formula.",
+            "identifier": "C123450",
+            "notation": "QTcV Interval, Aggregate",
+            "pref_label": "Aggregate QTcV Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C123450"
+        },
+        {
+            "alt_label": "QTcV Interval, Single Beat",
+            "definition": "A QT single beat interval corrected for heart rate using the Van der Water's correction formula.",
+            "identifier": "C123451",
+            "notation": "QTcV Interval, Single Beat",
+            "pref_label": "Single Beat QTcV Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C123451"
+        },
+        {
+            "alt_label": "R Wave Amplitude, Aggregate",
+            "definition": "An aggregate R wave amplitude value based on the measurement of R wave amplitudes from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117795",
+            "notation": "R Wave Amplitude, Aggregate",
+            "pref_label": "R Wave Amplitude Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117795"
+        },
+        {
+            "alt_label": "R Wave Amplitude, Single Beat",
+            "definition": "An electrocardiographic measurement of the mean amplitude (usually measured in mm) of the R wave measured from the isoelectric baseline to the peak of the R wave of a single beat utilizing one or more leads. Based on the recording gain, this measurement is reported in millivolt.",
+            "identifier": "C117796",
+            "notation": "R Wave Amplitude, Single Beat",
+            "pref_label": "R Wave Amplitude Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117796"
+        },
+        {
+            "alt_label": "Rhythm Not Otherwise Specified",
+            "definition": "An electrocardiographic assessment of cardiac rhythm not otherwise specified.",
+            "identifier": "C111307",
+            "notation": "Rhythm Not Otherwise Specified",
+            "pref_label": "Rhythm Not Otherwise Specified ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111307"
+        },
+        {
+            "alt_label": "RR Interval, Aggregate",
+            "definition": "An aggregate RR value based on the measurement of RR intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117791",
+            "notation": "RR Interval, Aggregate",
+            "pref_label": "Aggregate RR Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117791"
+        },
+        {
+            "alt_label": "RR Interval, Single Measurement",
+            "definition": "An electrocardiographic measurement of the interval between two consecutive R waves. If R waves are not present, this measurement may utilize the interval between the most easily identified components of the QRS complex within two consecutive beats.",
+            "identifier": "C117792",
+            "notation": "RR Interval, Single Measurement",
+            "pref_label": "RR Interval Single Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117792"
+        },
+        {
+            "alt_label": "RS Wave Amplitude, Aggregate",
+            "definition": "An aggregate RS wave amplitude value based on measurements from multiple beats from a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117793",
+            "notation": "RS Wave Amplitude, Aggregate",
+            "pref_label": "RS Wave Amplitude Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117793"
+        },
+        {
+            "alt_label": "RS Wave Amplitude, Single Beat",
+            "definition": "An electrocardiographic measurement of the sum of the amplitudes of the R and S waves, obtained from a single beat in one particular lead or set of leads.",
+            "identifier": "C117794",
+            "notation": "RS Wave Amplitude, Single Beat",
+            "pref_label": "RS Wave Amplitude Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117794"
+        },
+        {
+            "alt_label": "S Wave Amplitude, Aggregate",
+            "definition": "An aggregate S wave amplitude value based on the measurement of S wave amplitudes from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117805",
+            "notation": "S Wave Amplitude, Aggregate",
+            "pref_label": "S Wave Amplitude Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117805"
+        },
+        {
+            "alt_label": "S Wave Amplitude, Single Beat",
+            "definition": "An electrocardiographic measurement of the mean amplitude (usually measured in mm) of the S wave measured from the isoelectric baseline to the peak of the S wave of a single beat utilizing one or more leads. Based on the recording gain, this measurement is reported in millivolt.",
+            "identifier": "C117806",
+            "notation": "S Wave Amplitude, Single Beat",
+            "pref_label": "S Wave Amplitude Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117806"
+        },
+        {
+            "alt_label": "Single RR Heart Rate",
+            "definition": "An electrocardiographic measurement of a heart rate derived from a single RR interval (interval between two consecutive QRS complexes).",
+            "identifier": "C120608",
+            "notation": "Single RR Heart Rate",
+            "pref_label": "Single Beat RR Extrapolated Heart Rate by ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C120608"
+        },
+        {
+            "alt_label": "Sinus Node Rhythms and Arrhythmias",
+            "definition": "An electrocardiographic assessment of sinus node rhythms and arrhythmias.",
+            "identifier": "C111312",
+            "notation": "Sinus Node Rhythms and Arrhythmias",
+            "pref_label": "Sinus Node Rhythm and Arrhythmia ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111312"
+        },
+        {
+            "alt_label": "ST Segment Depression, Aggregate",
+            "definition": "An aggregate ST segment depression value based on the measurement of ST segment depression from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117797",
+            "notation": "ST Segment Depression, Aggregate",
+            "pref_label": "ST Segment Depression Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117797"
+        },
+        {
+            "alt_label": "ST Segment Depression, Single Beat",
+            "definition": "An electrocardiographic measurement of the mean amplitude (usually measured in mm) of the ST segment depression below the isoelectric baseline measured from the baseline to the ST segment of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in millivolt.",
+            "identifier": "C117798",
+            "notation": "ST Segment Depression, Single Beat",
+            "pref_label": "ST Segment Depression Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117798"
+        },
+        {
+            "alt_label": "ST Segment Deviation, Aggregate",
+            "definition": "An aggregate ST segment deviation value based on the measurement of ST segment deviation from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117799",
+            "notation": "ST Segment Deviation, Aggregate",
+            "pref_label": "ST Segment Deviation Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117799"
+        },
+        {
+            "alt_label": "ST Segment Deviation, Single Beat",
+            "definition": "An electrocardiographic measurement of the mean amplitude (usually measured in mm) of the ST segment deviation above or below the isoelectric baseline measured from the baseline to the ST segment of a single beat utilizing one or more leads. Based on the recording gain, this measurement is reported in millivolt.",
+            "identifier": "C117800",
+            "notation": "ST Segment Deviation, Single Beat",
+            "pref_label": "ST Segment Deviation Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117800"
+        },
+        {
+            "alt_label": "ST Segment Duration, Aggregate",
+            "definition": "An aggregate ST segment duration value based on the measurement of ST segment duration intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117803",
+            "notation": "ST Segment Duration, Aggregate",
+            "pref_label": "ST Segment Duration Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117803"
+        },
+        {
+            "alt_label": "ST Segment Duration, Single Beat",
+            "definition": "An electrocardiographic interval measured from the J point to the onset of the T wave of a single beat utilizing one or more leads.",
+            "identifier": "C117804",
+            "notation": "ST Segment Duration, Single Beat",
+            "pref_label": "ST Segment Duration Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117804"
+        },
+        {
+            "alt_label": "ST Segment Elevation, Aggregate",
+            "definition": "An aggregate ST segment elevation value based on the measurement of ST segment elevation from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117801",
+            "notation": "ST Segment Elevation, Aggregate",
+            "pref_label": "ST Segment Elevation Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117801"
+        },
+        {
+            "alt_label": "ST Segment Elevation, Single Beat",
+            "definition": "An electrocardiographic measurement of the mean amplitude (usually measured in mV) of the ST segment elevation above the isoelectric baseline measured from the baseline to the ST segment of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in mm.",
+            "identifier": "C117802",
+            "notation": "ST Segment Elevation, Single Beat",
+            "pref_label": "ST Segment Elevation Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117802"
+        },
+        {
+            "alt_label": "ST Segment, T wave, and U wave",
+            "definition": "An electrocardiographic assessment of the characteristics of the ST segment, T wave, and U wave.",
+            "identifier": "C111363",
+            "notation": "ST Segment, T wave, and U wave",
+            "pref_label": "ST Segment, T wave, and U wave ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111363"
+        },
+        {
+            "alt_label": "Summary (Max) JT Interval",
+            "definition": "The maximum duration (time) of the JT interval, obtained from a set of measurements of the JT interval. The JT interval is defined as the time from the J point (end of ventricular depolarization, the point at which the QRS meets the ST segment) to the end of the T wave (representing the end of ventricular repolarization). (NCI)",
+            "identifier": "C62117",
+            "notation": "Summary (Max) JT Interval",
+            "pref_label": "Maximum JT Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62117"
+        },
+        {
+            "alt_label": "Summary (Max) PR Duration",
+            "definition": "The maximum duration (time) of the PR interval, obtained from a set of measurements of the PR interval. The PR interval is defined as the time from the beginning of the P wave (representing the onset of atrial depolarization) to the beginning of the R wave (representing the onset of ventricular depolarization). In some cases, a Q wave will precede the R wave, in which case the PR interval is measured from the beginning of the P wave to the beginning of the Q wave. (NCI)",
+            "identifier": "C62131",
+            "notation": "Summary (Max) PR Duration",
+            "pref_label": "Maximum PR Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62131"
+        },
+        {
+            "alt_label": "Summary (Max) QT Duration",
+            "definition": "The maximum duration (time) of the QT interval, obtained from a set of measurements of the QT interval. The QT interval is defined as the time from the beginning of the QRS complex to the end of the T wave, representing the time it takes for the ventricles to depolarize and subsequently repolarize. In some cases, the Q wave will be absent, in which case the QT interval is measured from the beginning of the R wave to the end of the T wave. (NCI)",
+            "identifier": "C62135",
+            "notation": "Summary (Max) QT Duration",
+            "pref_label": "Maximum QT Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62135"
+        },
+        {
+            "alt_label": "Summary (Max) RR Duration",
+            "definition": "The maximum duration (time) between successive peaks of R waves in a particular set of RR intervals. (NCI)",
+            "identifier": "C62094",
+            "notation": "Summary (Max) RR Duration",
+            "pref_label": "Maximum RR Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62094"
+        },
+        {
+            "alt_label": "Summary (Max) ST Depression",
+            "definition": "The maximum depression (negative deflection from baseline, usually measured in mm) of the ST segment, obtained from a set of measurements of the depression of the ST segment. This is usually expressed in millivolt.",
+            "identifier": "C62163",
+            "notation": "Summary (Max) ST Depression",
+            "pref_label": "Maximum ST Segment Depression by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62163"
+        },
+        {
+            "alt_label": "Summary (Max) ST Deviation",
+            "definition": "The maximum deviation (distance from baseline, positive or negative, usually measured in mm) of the ST segment, obtained from a set of measurements of the deviation of the ST segment. This is usually expressed in millivolt.",
+            "identifier": "C62157",
+            "notation": "Summary (Max) ST Deviation",
+            "pref_label": "Maximum ST Deviation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62157"
+        },
+        {
+            "alt_label": "Summary (Max) ST Elevation",
+            "definition": "The maximum elevation (positive deflection from baseline, usually measured in mm) of the ST segment, obtained from a set of measurements of the elevation of the ST segment. This is usually reported in millivolt.",
+            "identifier": "C62160",
+            "notation": "Summary (Max) ST Elevation",
+            "pref_label": "Maximum ST Segment Elevation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62160"
+        },
+        {
+            "alt_label": "Summary (Min) JT Interval",
+            "definition": "The minimum duration (time) of the JT interval, obtained from a set of measurements of the JT interval. The JT interval is defined as the time from the J point (end of ventricular depolarization, the point at which the QRS meets the ST segment) to the end of the T wave (representing the end of ventricular repolarization). (NCI)",
+            "identifier": "C62116",
+            "notation": "Summary (Min) JT Interval",
+            "pref_label": "Minimum JT Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62116"
+        },
+        {
+            "alt_label": "Summary (Min) PR Duration",
+            "definition": "The minimum duration (time) of the PR interval, obtained from a set of measurements of the PR interval. The PR interval is defined as the time from the beginning of the P wave (representing the onset of atrial depolarization) to the beginning of the R wave (representing the onset of ventricular depolarization). In some cases, a Q wave will precede the R wave, in which case the PR interval is measured from the beginning of the P wave to the beginning of the Q wave. (NCI)",
+            "identifier": "C62125",
+            "notation": "Summary (Min) PR Duration",
+            "pref_label": "Minimum PR Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62125"
+        },
+        {
+            "alt_label": "Summary (Min) QT Duration",
+            "definition": "The minimum duration (time) of the QT interval, obtained from a set of measurements of the QT interval. The QT interval is defined as the time from the beginning of the QRS complex to the end of the T wave, representing the time it takes for the ventricles to depolarize and subsequently repolarize. In some cases, the Q wave will be absent, in which case the QT interval is measured from the beginning of the R wave to the end of the T wave. (NCI)",
+            "identifier": "C62133",
+            "notation": "Summary (Min) QT Duration",
+            "pref_label": "Minimum QT Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62133"
+        },
+        {
+            "alt_label": "Summary (Min) RR Duration",
+            "definition": "The minimum duration (time) between successive peaks of R waves in a particular set of RR intervals. (NCI)",
+            "identifier": "C62093",
+            "notation": "Summary (Min) RR Duration",
+            "pref_label": "Minimum RR Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62093"
+        },
+        {
+            "alt_label": "Summary (Min) ST Depression",
+            "definition": "The minimum depression (negative deflection from baseline, usually measured in mm) of the ST segment, obtained from a set of measurements of the depression of the ST segment. This is usually expressed in millivolt.",
+            "identifier": "C62162",
+            "notation": "Summary (Min) ST Depression",
+            "pref_label": "Minimum ST Segment Depression by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62162"
+        },
+        {
+            "alt_label": "Summary (Min) ST Deviation",
+            "definition": "The minimum deviation (distance from baseline, positive or negative, usually measured in mm) of the ST segment, obtained from a set of measurements of the deviation of the ST segment. This is usually expressed in millivolt.",
+            "identifier": "C62156",
+            "notation": "Summary (Min) ST Deviation",
+            "pref_label": "Minimum ST Deviation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62156"
+        },
+        {
+            "alt_label": "Summary (Min) ST Elevation",
+            "definition": "The minimum elevation (positive deflection from baseline, usually measured in mm) of the ST segment, obtained from a set of measurements of the elevation of the ST segment. This is usually reported in millivolt.",
+            "identifier": "C62159",
+            "notation": "Summary (Min) ST Elevation",
+            "pref_label": "Minimum ST Segment Elevation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C62159"
+        },
+        {
+            "alt_label": "Supraventricular Arrhythmias",
+            "definition": "An electrocardiographic assessment of supraventricular arrhythmias excluding tachycardias.",
+            "identifier": "C111320",
+            "notation": "Supraventricular Arrhythmias",
+            "pref_label": "Supraventricular Arrhythmia ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111320"
+        },
+        {
+            "alt_label": "Supraventricular Tachyarrhythmias",
+            "definition": "An electrocardiographic assessment of supraventricular tachyarrhythmias.",
+            "identifier": "C111321",
+            "notation": "Supraventricular Tachyarrhythmias",
+            "pref_label": "Supraventricular Tachyarrhythmia ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111321"
+        },
+        {
+            "alt_label": "T Wave Amplitude, Aggregate",
+            "definition": "An aggregate T wave amplitude value based on the measurement of T wave amplitudes from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117814",
+            "notation": "T Wave Amplitude, Aggregate",
+            "pref_label": "T Wave Amplitude Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117814"
+        },
+        {
+            "alt_label": "T Wave Amplitude, Single Beat",
+            "definition": "An electrocardiographic measurement of the mean amplitude (usually measured in mV) of the T wave measured from the isoelectric baseline to the peak of the T wave of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in mm.",
+            "identifier": "C117815",
+            "notation": "T Wave Amplitude, Single Beat",
+            "pref_label": "T Wave Amplitude Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117815"
+        },
+        {
+            "alt_label": "T Wave Area, Aggregate",
+            "definition": "An aggregate T wave area value based on the measurement of T wave areas from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117810",
+            "notation": "T Wave Area, Aggregate",
+            "pref_label": "T Wave Area Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117810"
+        },
+        {
+            "alt_label": "T Wave Area, Single Beat",
+            "definition": "An electrocardiographic measurement of the area of the T wave of a single beat utilizing one or more leads.",
+            "identifier": "C117811",
+            "notation": "T Wave Area, Single Beat",
+            "pref_label": "T Wave Area Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117811"
+        },
+        {
+            "alt_label": "T Wave Axis",
+            "definition": "A numerical representation of the electrocardiographic vector assessed at maximum deviation of the T wave from the isoelectric baseline, usually reported for the frontal plane.",
+            "identifier": "C118166",
+            "notation": "T Wave Axis",
+            "pref_label": "T Wave Axis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C118166"
+        },
+        {
+            "alt_label": "T Wave Duration, Aggregate",
+            "definition": "An aggregate T wave duration value based on the measurement of T wave duration intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117812",
+            "notation": "T Wave Duration, Aggregate",
+            "pref_label": "T Wave Duration Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117812"
+        },
+        {
+            "alt_label": "T Wave Duration, Single Beat",
+            "definition": "An electrocardiographic interval measured from the onset of the T wave to the offset of the T wave of a single beat utilizing one or more leads.",
+            "identifier": "C117813",
+            "notation": "T Wave Duration, Single Beat",
+            "pref_label": "T Wave Duration Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117813"
+        },
+        {
+            "alt_label": "Technical Quality",
+            "definition": "A statement about an electrocardiographic recording describing technical issues or interference during the recording, processing, or transmission of the data. This does not represent an electrocardiographic diagnosis.",
+            "identifier": "C117807",
+            "notation": "Technical Quality",
+            "pref_label": "ECG Technical Quality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117807"
+        },
+        {
+            "alt_label": "Tpeak-Tend Interval, Aggregate",
+            "definition": "An aggregate Tpeak-Tend value based on the measurement of Tpeak-Tend from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.",
+            "identifier": "C117808",
+            "notation": "Tpeak-Tend Interval, Aggregate",
+            "pref_label": "T Peak-T End Interval Aggregate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117808"
+        },
+        {
+            "alt_label": "Tpeak-Tend Interval, Single Beat",
+            "definition": "An electrocardiographic interval measured from the peak of the T wave to the offset of the T wave of a single beat utilizing one or more leads.",
+            "identifier": "C117809",
+            "notation": "Tpeak-Tend Interval, Single Beat",
+            "pref_label": "T Peak-T End Interval Single Beat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C117809"
+        },
+        {
+            "alt_label": "Ventricular Arrhythmias",
+            "definition": "An electrocardiographic assessment of ventricular arrhythmias excluding tachycardias.",
+            "identifier": "C111330",
+            "notation": "Ventricular Arrhythmias",
+            "pref_label": "Ventricular Arrhythmia ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111330"
+        },
+        {
+            "alt_label": "Ventricular Tachyarrhythmias",
+            "definition": "An electrocardiographic assessment of ventricular tachyarrhythmias.",
+            "identifier": "C111331",
+            "notation": "Ventricular Tachyarrhythmias",
+            "pref_label": "Ventricular Tachyarrhythmia ECG Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71152-C111331"
+        }
+    ]
+}

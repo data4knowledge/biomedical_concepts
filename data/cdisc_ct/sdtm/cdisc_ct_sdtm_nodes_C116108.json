@@ -1,0 +1,92 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Age at Death",
+            "definition": "The age at which death occurred. (NCI)",
+            "identifier": "C135383",
+            "notation": "AGEDTH",
+            "pref_label": "Age at Death",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C116108-C135383"
+        },
+        {
+            "alt_label": "Autopsy Indicator",
+            "definition": "An indication as to whether an autopsy was performed. (NCI)",
+            "identifier": "C135384",
+            "notation": "AUTOPIND",
+            "pref_label": "Autopsy Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C116108-C135384"
+        },
+        {
+            "alt_label": "Death Certificate Obtained Indicator",
+            "definition": "An indication as to whether a death certificate was obtained. (NCI)",
+            "identifier": "C135385",
+            "notation": "DTHCOIND",
+            "pref_label": "Death Certification Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C116108-C135385"
+        },
+        {
+            "alt_label": "Death Expected Indicator",
+            "definition": "An indication as to whether the death was expected.",
+            "identifier": "C184505",
+            "notation": "DTHEXIND",
+            "pref_label": "Death Expected Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C116108-C184505"
+        },
+        {
+            "alt_label": "Death Witnessed Indicator",
+            "definition": "An indication as to whether the death event was witnessed by another individual.",
+            "identifier": "C170571",
+            "notation": "DTHWIND",
+            "pref_label": "Death Witnessed Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C116108-C170571"
+        },
+        {
+            "alt_label": "Hospital Medical Record Obtained Ind;Hospital Medical Record Obtained Indicator",
+            "definition": "An indication as to whether a hospital medical record was obtained.",
+            "identifier": "C135386",
+            "notation": "HMROIND",
+            "pref_label": "Hospital Medical Record Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C116108-C135386"
+        },
+        {
+            "alt_label": "Information Source for Cause of Death",
+            "definition": "The person or authoritative source that provided the cause of death.",
+            "identifier": "C176287",
+            "notation": "INFOSCOD",
+            "pref_label": "Information Source for Cause of Death",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C116108-C176287"
+        },
+        {
+            "alt_label": "Location of Death",
+            "definition": "The physical location at which the subject ceased to live.",
+            "identifier": "C124331",
+            "notation": "LOCDTH",
+            "pref_label": "Location of Death",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C116108-C124331"
+        },
+        {
+            "alt_label": "Primary Cause of Death",
+            "definition": "The primary significant event which ultimately led to death.",
+            "identifier": "C99531",
+            "notation": "PRCDTH",
+            "pref_label": "Primary Cause of Death",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C116108-C99531"
+        },
+        {
+            "alt_label": "Sudden Death Indicator",
+            "definition": "An indication as to whether death was unexpected or occurred without warning.",
+            "identifier": "C174284",
+            "notation": "SDTHIND",
+            "pref_label": "Sudden Death Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C116108-C174284"
+        },
+        {
+            "alt_label": "Secondary Cause of Death",
+            "definition": "The secondary significant event which ultimately led to death.",
+            "identifier": "C116142",
+            "notation": "SECDTH",
+            "pref_label": "Secondary Cause of Death",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C116108-C116142"
+        }
+    ]
+}

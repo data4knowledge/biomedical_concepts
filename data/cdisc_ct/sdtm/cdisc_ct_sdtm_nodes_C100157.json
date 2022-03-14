@@ -1,0 +1,148 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "COMM1-Been in an Argument",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you been in an argument?",
+            "identifier": "C100964",
+            "notation": "COMM1-Been in an Argument",
+            "pref_label": "COMM - Been in an Argument",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100964"
+        },
+        {
+            "alt_label": "COMM1-Borrowed Meds From Others",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you borrowed pain medication from someone else?",
+            "identifier": "C100972",
+            "notation": "COMM1-Borrowed Meds From Others",
+            "pref_label": "COMM - Borrowed Medication From Others",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100972"
+        },
+        {
+            "alt_label": "COMM1-Complaints Not Completing Tasks",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often do people complain that you are not completing necessary tasks? (i.e., doing things that need to be done, such as going to class, work or appointments)",
+            "identifier": "C100959",
+            "notation": "COMM1-Complaints Not Completing Tasks",
+            "pref_label": "COMM - Complaints Not Completing Tasks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100959"
+        },
+        {
+            "alt_label": "COMM1-Emergency Phone Call/Clinic Visit",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you had to make an emergency phone call or show up at the clinic without an appointment?",
+            "identifier": "C100969",
+            "notation": "COMM1-Emergency Phone Call/Clinic Visit",
+            "pref_label": "COMM - Emergency Phone Call or Clinic Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100969"
+        },
+        {
+            "alt_label": "COMM1-Gotten Angry With People",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you gotten angry with people?",
+            "identifier": "C100970",
+            "notation": "COMM1-Gotten Angry With People",
+            "pref_label": "COMM - Gotten Angry With People",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100970"
+        },
+        {
+            "alt_label": "COMM1-Other Sources For Pain Medication",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you had to go to someone other than your prescribing physician to get sufficient pain relief from medications? (i.e., another doctor, the Emergency Room, friends, street source)",
+            "identifier": "C100960",
+            "notation": "COMM1-Other Sources For Pain Medication",
+            "pref_label": "COMM - Other Sources for Pain Medication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100960"
+        },
+        {
+            "alt_label": "COMM1-Others Worry About Your Meds",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have others been worried about how you're handling your medications?",
+            "identifier": "C100968",
+            "notation": "COMM1-Others Worry About Your Meds",
+            "pref_label": "COMM - Others Worry About Your Medications",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100968"
+        },
+        {
+            "alt_label": "COMM1-Score",
+            "definition": "Current Opioid Misuse Measure - Score.",
+            "identifier": "C100975",
+            "notation": "COMM1-Score",
+            "pref_label": "COMM - Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100975"
+        },
+        {
+            "alt_label": "COMM1-Seriously Thought of Hurting Self",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you seriously thought about hurting yourself?",
+            "identifier": "C100962",
+            "notation": "COMM1-Seriously Thought of Hurting Self",
+            "pref_label": "COMM - Seriously Thought of Hurting Self",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100962"
+        },
+        {
+            "alt_label": "COMM1-Take Meds Belonging to Others",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you needed to take pain medications belonging to someone else?",
+            "identifier": "C100966",
+            "notation": "COMM1-Take Meds Belonging to Others",
+            "pref_label": "COMM - Take Medications Belonging to Others",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100966"
+        },
+        {
+            "alt_label": "COMM1-Take More Meds Than Prescribed",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you had to take more of your medication than prescribed?",
+            "identifier": "C100971",
+            "notation": "COMM1-Take More Meds Than Prescribed",
+            "pref_label": "COMM - Take More Medication Than Prescribed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100971"
+        },
+        {
+            "alt_label": "COMM1-Taken Meds Other Than Prescribed",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you taken your medications differently from how they are prescribed?",
+            "identifier": "C100961",
+            "notation": "COMM1-Taken Meds Other Than Prescribed",
+            "pref_label": "COMM - Taken Medications Other Than Prescribed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100961"
+        },
+        {
+            "alt_label": "COMM1-Time Spent Thinking About Opioids",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how much of your time was spent thinking about opioid medications (having enough, taking them, dosing schedule, etc.)?",
+            "identifier": "C100963",
+            "notation": "COMM1-Time Spent Thinking About Opioids",
+            "pref_label": "COMM - Time Spent Thinking About Opioids",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100963"
+        },
+        {
+            "alt_label": "COMM1-Trouble Controlling Anger",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you had trouble controlling your anger (e.g., road rage, screaming, etc.)?",
+            "identifier": "C100965",
+            "notation": "COMM1-Trouble Controlling Anger",
+            "pref_label": "COMM - Trouble Controlling Anger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100965"
+        },
+        {
+            "alt_label": "COMM1-Trouble Thinking Clearly/Memory",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you had trouble with thinking clearly or had memory problems?",
+            "identifier": "C100958",
+            "notation": "COMM1-Trouble Thinking Clearly/Memory",
+            "pref_label": "COMM - Trouble Thinking Clearly or Memory Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100958"
+        },
+        {
+            "alt_label": "COMM1-Used Pain Meds For Other Symptoms",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you used your pain medicine for symptoms other than for pain (e.g., to help you sleep, improve your mood, or relieve stress)?",
+            "identifier": "C100973",
+            "notation": "COMM1-Used Pain Meds For Other Symptoms",
+            "pref_label": "COMM - Used Pain Medicine For Other Symptoms",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100973"
+        },
+        {
+            "alt_label": "COMM1-Visit Emergency Room",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you had to visit the Emergency Room?",
+            "identifier": "C100974",
+            "notation": "COMM1-Visit Emergency Room",
+            "pref_label": "COMM - Visit Emergency Room",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100974"
+        },
+        {
+            "alt_label": "COMM1-Worry About Handling Meds",
+            "definition": "Current Opioid Misuse Measure - In the past 30 days, how often have you been worried about how you're handling your medications?",
+            "identifier": "C100967",
+            "notation": "COMM1-Worry About Handling Meds",
+            "pref_label": "COMM - Worry About Handling Medications",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100157-C100967"
+        }
+    ]
+}

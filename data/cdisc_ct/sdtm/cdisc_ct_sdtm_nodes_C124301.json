@@ -1,0 +1,91 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Diagnostic",
+            "definition": "The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results or summary of such an investigation. (NCI)",
+            "identifier": "C15220",
+            "notation": "DIAGNOSIS",
+            "pref_label": "Diagnosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C15220"
+        },
+        {
+            "alt_label": "Recurrent Disease",
+            "definition": "The return of a disease after a period of remission.",
+            "identifier": "C38155",
+            "notation": "DISEASE RELAPSE",
+            "pref_label": "Recurrent Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C38155"
+        },
+        {
+            "definition": "A noteworthy happening that is distinctive in a series of related events.",
+            "identifier": "C75539",
+            "notation": "EPISODE",
+            "pref_label": "Episode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C75539"
+        },
+        {
+            "definition": "An increase in frequency and/or worsening of a symptom, condition, or disease.",
+            "identifier": "C124138",
+            "notation": "EXACERBATION",
+            "pref_label": "Exacerbation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C124138"
+        },
+        {
+            "alt_label": "Flare Episode",
+            "definition": "A sudden worsening of a disease, condition, or symptom.",
+            "identifier": "C113680",
+            "notation": "FLARE",
+            "pref_label": "Flare-up",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C113680"
+        },
+        {
+            "definition": "The first diagnosis of the disease.",
+            "identifier": "C156813",
+            "notation": "INTIAL DIAGNOSIS",
+            "pref_label": "Initial Diagnosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C156813"
+        },
+        {
+            "definition": "The latest diagnosis of the disease.",
+            "identifier": "C184685",
+            "notation": "MOST RECENT DIAGNOSIS",
+            "pref_label": "Most Recent Diagnosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C184685"
+        },
+        {
+            "definition": "Diagnosis based on a pathological assessment.",
+            "identifier": "C178004",
+            "notation": "PATHOLOGICAL DIAGNOSIS",
+            "pref_label": "Pathological Diagnosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C178004"
+        },
+        {
+            "definition": "A disease, condition, or injury that is increasing in extent or severity.",
+            "identifier": "C17747",
+            "notation": "PROGRESSION",
+            "pref_label": "Disease Progression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C17747"
+        },
+        {
+            "definition": "A disease staging event that happens after the initial staging event.",
+            "identifier": "C132008",
+            "notation": "RESTAGING",
+            "pref_label": "Restaging",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C132008"
+        },
+        {
+            "definition": "The determination of the extent of disease within the context of the expected progression of the disease, and in accordance with pre-defined criteria.",
+            "identifier": "C15608",
+            "notation": "STAGING",
+            "pref_label": "Staging",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C15608"
+        },
+        {
+            "definition": "The point at which the symptoms began or were first noted.",
+            "identifier": "C124353",
+            "notation": "SYMPTOM ONSET",
+            "pref_label": "Symptom Onset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124301-C124353"
+        }
+    ]
+}

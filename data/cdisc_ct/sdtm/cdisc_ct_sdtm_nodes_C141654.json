@@ -1,0 +1,44 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "AJCC1-Anatomic Stage",
+            "definition": "AJCC TNM Staging System 7th Edition - Anatomic stage.",
+            "identifier": "C141699",
+            "notation": "AJCC1-Anatomic Stage",
+            "pref_label": "AJCC v7 - Anatomic Stage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141654-C141699"
+        },
+        {
+            "alt_label": "AJCC1-Distant Metastasis (M)",
+            "definition": "AJCC TNM Staging System 7th Edition - Distant metastasis (M).",
+            "identifier": "C141698",
+            "notation": "AJCC1-Distant Metastasis (M)",
+            "pref_label": "AJCC v7 - Distant Metastasis (M)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141654-C141698"
+        },
+        {
+            "alt_label": "AJCC1-Primary Tumor (T)",
+            "definition": "AJCC TNM Staging System 7th Edition - Primary tumor (T).",
+            "identifier": "C141696",
+            "notation": "AJCC1-Primary Tumor (T)",
+            "pref_label": "AJCC v7 - Primary Tumor (T)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141654-C141696"
+        },
+        {
+            "alt_label": "AJCC1-Regional Lymph Nodes (N)",
+            "definition": "AJCC TNM Staging System 7th Edition - Regional lymph nodes (N).",
+            "identifier": "C141697",
+            "notation": "AJCC1-Regional Lymph Nodes (N)",
+            "pref_label": "AJCC v7 - Regional Lymph Nodes (N)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141654-C141697"
+        },
+        {
+            "alt_label": "AJCC1-Residual Tumor (R)",
+            "definition": "AJCC TNM Staging System 7th Edition - Residual tumor (R).",
+            "identifier": "C176205",
+            "notation": "AJCC1-Residual Tumor (R)",
+            "pref_label": "AJCC v7 - Residual Tumor (R)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141654-C176205"
+        }
+    ]
+}

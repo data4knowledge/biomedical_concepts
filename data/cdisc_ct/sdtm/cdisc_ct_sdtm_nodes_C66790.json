@@ -1,0 +1,34 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A person of Mexican, Puerto Rican, Cuban, Central or South American or other Spanish culture or origin, regardless of race. (NCI)",
+            "identifier": "C17459",
+            "notation": "HISPANIC OR LATINO",
+            "pref_label": "Hispanic or Latino",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66790-C17459"
+        },
+        {
+            "definition": "A person not of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race. An arbitrary ethnic classification. (NCI)",
+            "identifier": "C41222",
+            "notation": "NOT HISPANIC OR LATINO",
+            "pref_label": "Not Hispanic or Latino",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66790-C41222"
+        },
+        {
+            "alt_label": "Not reported",
+            "definition": "Not provided or available.",
+            "identifier": "C43234",
+            "notation": "NOT REPORTED",
+            "pref_label": "Not Reported",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66790-C43234"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66790-C17998"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "In Place at Start of Procedure",
+            "definition": "Mechanical Circulatory Support was in place at the start of the procedure.",
+            "identifier": "C99981",
+            "notation": "IN PLACE AT START OF PROCEDURE",
+            "pref_label": "Mechanical Circulatory Support in Place at Start of Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101845-C99981"
+        },
+        {
+            "alt_label": "Inserted during a Non PCI Procedure",
+            "definition": "Mechanical Circulatory Support was inserted during a non-Percutaneous Coronary Intervention (PCI) procedure.",
+            "identifier": "C99962",
+            "notation": "INSERTED DURING A NON-PERCUTANEOUS CORONARY INTERVENTION PROCEDURE",
+            "pref_label": "Inserted During a Non-Percutaneous Coronary Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101845-C99962"
+        },
+        {
+            "alt_label": "Inserted during Procedure and after PCI Started",
+            "definition": "Mechanical Circulatory Support was inserted during the procedure after Percutaneous Coronary Intervention (PCI) started.",
+            "identifier": "C99964",
+            "notation": "INSERTED DURING PROCEDURE AND AFTER PERCUTANEOUS CORONARY INTERVENTION STARTED",
+            "pref_label": "Inserted During Procedure and After Percutaneous Coronary Intervention Began",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101845-C99964"
+        },
+        {
+            "alt_label": "Inserted during Procedure but Prior to PCI",
+            "definition": "Mechanical Circulatory Support was inserted during the procedure prior to percutaneous coronary intervention (PCI).",
+            "identifier": "C99963",
+            "notation": "INSERTED DURING PROCEDURE BUT PRIOR TO PERCUTANEOUS CORONARY INTERVENTION",
+            "pref_label": "Inserted During a Procedure but Prior to Percutaneous Coronary Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101845-C99963"
+        }
+    ]
+}

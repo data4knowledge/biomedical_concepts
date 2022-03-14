@@ -1,0 +1,63 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Widespread",
+            "definition": "Widely spread; not localized or confined.",
+            "identifier": "C14175",
+            "notation": "DIFFUSE",
+            "pref_label": "Diffuse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120530-C14175"
+        },
+        {
+            "alt_label": "Localized",
+            "definition": "Limited to a specific area.",
+            "identifier": "C28224",
+            "notation": "FOCAL",
+            "pref_label": "Focal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120530-C28224"
+        },
+        {
+            "definition": "A finding that generally has features of focal and multifocal distribution.",
+            "identifier": "C120857",
+            "notation": "FOCAL/MULTIFOCAL",
+            "pref_label": "Focal/Multifocal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120530-C120857"
+        },
+        {
+            "alt_label": "Focally Extensive;Regionally Extensive",
+            "definition": "Being widespread throughout a specific area.",
+            "identifier": "C120858",
+            "notation": "LOCALLY EXTENSIVE",
+            "pref_label": "Locally Extensive",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120530-C120858"
+        },
+        {
+            "definition": "Arising from, pertaining to, or having many locations.",
+            "identifier": "C25253",
+            "notation": "MULTIFOCAL",
+            "pref_label": "Multifocal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120530-C25253"
+        },
+        {
+            "definition": "More than one. (NCI)",
+            "identifier": "C17648",
+            "notation": "MULTIPLE",
+            "pref_label": "Multiple",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120530-C17648"
+        },
+        {
+            "definition": "Limited to distinct subdivisions or parts of a structure.",
+            "identifier": "C25238",
+            "notation": "SEGMENTAL",
+            "pref_label": "Segmental",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120530-C25238"
+        },
+        {
+            "definition": "One.",
+            "identifier": "C48440",
+            "notation": "SINGLE",
+            "pref_label": "Single",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120530-C48440"
+        }
+    ]
+}

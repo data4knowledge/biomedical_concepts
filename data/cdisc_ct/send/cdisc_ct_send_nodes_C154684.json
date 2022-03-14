@@ -1,0 +1,89 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A class of substances that binds to, activates and increases the activity of a molecular target.",
+            "identifier": "C154897",
+            "notation": "ACTIVATOR",
+            "pref_label": "Activator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C154897"
+        },
+        {
+            "alt_label": "Mixed Agonist-Antagonist",
+            "definition": "A class of substances that binds to and acts as a full or partial agonist at one receptor and an antagonist at another.",
+            "identifier": "C154902",
+            "notation": "AGONIST-ANTAGONIST",
+            "pref_label": "Mixed Agonist/Antagonist",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C154902"
+        },
+        {
+            "definition": "A class of substances that binds to a molecular target allosterically and induces a conformational change in the target. This leads to an altered binding affinity of the target to its substrate.",
+            "identifier": "C154904",
+            "notation": "ALLOSTERIC MODULATOR",
+            "pref_label": "Allosteric Modulator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C154904"
+        },
+        {
+            "definition": "A class of substances that binds to a molecular target allosterically and induces a conformational change in that target. This leads to an enhanced binding affinity of the target to its substrate, and thereby amplifies the effect of the substrate on that target.",
+            "identifier": "C154903",
+            "notation": "ALLOSTERIC POTENTIATOR",
+            "pref_label": "Allosteric Potentiator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C154903"
+        },
+        {
+            "definition": "A class of substances that binds to and activates a receptor and is intended to induce the maximum biological response.",
+            "identifier": "C154899",
+            "notation": "FULL RECEPTOR AGONIST",
+            "pref_label": "Full Receptor Agonist",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C154899"
+        },
+        {
+            "definition": "A class of substances that binds to and inhibits the function or activity of a molecular target.",
+            "identifier": "C154898",
+            "notation": "INHIBITOR",
+            "pref_label": "Inhibitor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C154898"
+        },
+        {
+            "definition": "A class of substances that binds to a receptor at the same binding site as an agonist, but induces a biological response opposite to that agonist.",
+            "identifier": "C154901",
+            "notation": "INVERSE RECEPTOR AGONIST",
+            "pref_label": "Inverse Receptor Agonist",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C154901"
+        },
+        {
+            "definition": "A class of substances that irreversibly and permanently binds to and decreases the activity of and/or deactivates a target.",
+            "identifier": "C156614",
+            "notation": "IRREVERSIBLE INHIBITOR",
+            "pref_label": "Irreversible Inhibitor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C156614"
+        },
+        {
+            "definition": "A class of substances that binds to and activates a receptor with less efficacy, and produces submaximal receptor activation relative to a full agonist.",
+            "identifier": "C154900",
+            "notation": "PARTIAL RECEPTOR AGONIST",
+            "pref_label": "Partial Receptor Agonist",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C154900"
+        },
+        {
+            "definition": "A class of substances that binds to and activates a receptor and produces a biological effect which inhibits or negates the biological response produced by an agonist at a different receptor.",
+            "identifier": "C156615",
+            "notation": "PHYSIOLOGIC ANTAGONIST",
+            "pref_label": "Physiologic Antagonist",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C156615"
+        },
+        {
+            "definition": "A class of substances that binds to and activates a receptor and induces a biological response.",
+            "identifier": "C1514",
+            "notation": "RECEPTOR AGONIST",
+            "pref_label": "Agonist",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C1514"
+        },
+        {
+            "definition": "A class of substances that competitively, noncompetitively or allosterically binds to and inhibits receptor activity.",
+            "identifier": "C94373",
+            "notation": "RECEPTOR ANTAGONIST",
+            "pref_label": "Antagonist",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C154684-C94373"
+        }
+    ]
+}

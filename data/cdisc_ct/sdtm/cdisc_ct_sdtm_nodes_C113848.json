@@ -1,0 +1,444 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CSS10-Wish to be Dead-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about being dead or what it would be like to be dead? Have you wished you were dead or wished you could go to sleep and never wake up? Do you ever wish you weren't alive anymore? (Lifetime).",
+            "identifier": "C113889",
+            "notation": "CSS1001A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Wish to be Dead (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113889"
+        },
+        {
+            "alt_label": "CSS10-Wish to be Dead-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about being dead or what it would be like to be dead? Have you wished you were dead or wished you could go to sleep and never wake up? Do you ever wish you weren't alive anymore? (Past 1 Month).",
+            "identifier": "C113890",
+            "notation": "CSS1001B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Wish to be Dead (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113890"
+        },
+        {
+            "alt_label": "CSS10-Wish to be Dead, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of wishing to be dead.",
+            "identifier": "C113891",
+            "notation": "CSS1001C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Wish to be Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113891"
+        },
+        {
+            "alt_label": "CSS10-Non-Spec Suicid Thought-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about doing something to make yourself not alive anymore? Have you had any thoughts about killing yourself? (Lifetime).",
+            "identifier": "C113892",
+            "notation": "CSS1002A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Non-Specific Active Suicidal Thoughts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113892"
+        },
+        {
+            "alt_label": "CSS10-Non-Spec Suicid Thought-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about doing something to make yourself not alive anymore? Have you had any thoughts about killing yourself? (Past 1 Month).",
+            "identifier": "C113893",
+            "notation": "CSS1002B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Non-Specific Active Suicidal Thoughts (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113893"
+        },
+        {
+            "alt_label": "CSS10-Non-Spec Suicid Thought, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of non-specific active suicidal thoughts.",
+            "identifier": "C113894",
+            "notation": "CSS1002C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Non-Specific Active Suicidal Thoughts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113894"
+        },
+        {
+            "alt_label": "CSS10-Idea, No Intent, No Plan-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about how you would do that or how you would make yourself not alive anymore (kill yourself)? What did you think about? (Lifetime).",
+            "identifier": "C113895",
+            "notation": "CSS1003A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Any Methods (Not Plan) Without Intent to Act (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113895"
+        },
+        {
+            "alt_label": "CSS10-Idea, No Intent, No Plan-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about how you would do that or how you would make yourself not alive anymore (kill yourself)? What did you think about? (Past 1 Month).",
+            "identifier": "C113896",
+            "notation": "CSS1003B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Any Methods (Not Plan) Without Intent to Act (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113896"
+        },
+        {
+            "alt_label": "CSS10-Idea, No Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of active suicidal ideation with any methods (not plan) without intent to act.",
+            "identifier": "C113897",
+            "notation": "CSS1003C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Active Suicidal Ideation With Any Methods (Not Plan) Without Intent to Act",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113897"
+        },
+        {
+            "alt_label": "CSS10-Idea, Intent, No Plan-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - When you thought about making yourself not alive anymore (or killing yourself), did you think that this was something you might actually do? This is different from (as opposed to) having the thoughts but knowing you wouldn't do anything about it. (Lifetime).",
+            "identifier": "C113898",
+            "notation": "CSS1004A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Some Intent to Act, Without Specific Plan (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113898"
+        },
+        {
+            "alt_label": "CSS10-Idea, Intent, No Plan-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - When you thought about making yourself not alive anymore (or killing yourself), did you think that this was something you might actually do? This is different from (as opposed to) having the thoughts but knowing you wouldn't do anything about it. (Past 1 Month).",
+            "identifier": "C113899",
+            "notation": "CSS1004B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Some Intent to Act, Without Specific Plan (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113899"
+        },
+        {
+            "alt_label": "CSS10-Idea, Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of active suicidal ideation with some intent to act, without specific plan.",
+            "identifier": "C113900",
+            "notation": "CSS1004C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Active Suicidal Ideation With Some Intent to Act, Without Specific Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113900"
+        },
+        {
+            "alt_label": "CSS10-Idea, Plan, Intent-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you ever decided how or when you would make yourself not alive anymore/kill yourself? Have you ever planned out (worked out the details of) how you would do it? What was your plan? When you made this plan (or worked out these details), was any part of you thinking about actually doing it? (Lifetime).",
+            "identifier": "C113901",
+            "notation": "CSS1005A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Specific Plan and Intent (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113901"
+        },
+        {
+            "alt_label": "CSS10-Idea, Plan, Intent-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you ever decided how or when you would make yourself not alive anymore/kill yourself? Have you ever planned out (worked out the details of) how you would do it? What was your plan? When you made this plan (or worked out these details), was any part of you thinking about actually doing it? (Past 1 Month).",
+            "identifier": "C113902",
+            "notation": "CSS1005B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Specific Plan and Intent (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113902"
+        },
+        {
+            "alt_label": "CSS10-Idea, Plan, Intent, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of active suicidal ideation with specific plan and intent.",
+            "identifier": "C113903",
+            "notation": "CSS1005C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Active Suicidal Ideation With Specific Plan and Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113903"
+        },
+        {
+            "alt_label": "CSS10-Most Severe Idea-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most severe ideation. (Lifetime).",
+            "identifier": "C113904",
+            "notation": "CSS1006A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113904"
+        },
+        {
+            "alt_label": "CSS10-Most Severe Idea, Desc-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of most severe ideation. (Lifetime).",
+            "identifier": "C113905",
+            "notation": "CSS1006B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Describe Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113905"
+        },
+        {
+            "alt_label": "CSS10-Most Severe Idea-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most severe ideation. (Past 1 Month).",
+            "identifier": "C113906",
+            "notation": "CSS1006C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Severe Ideation (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113906"
+        },
+        {
+            "alt_label": "CSS10-Most Severe Idea, Desc-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of most severe ideation. (Past 1 Month).",
+            "identifier": "C113907",
+            "notation": "CSS1006D",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Describe Most Severe Ideation (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113907"
+        },
+        {
+            "alt_label": "CSS10-Most Severe Idea, Frequency-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - How many times have you had these thoughts? (Lifetime).",
+            "identifier": "C113908",
+            "notation": "CSS1007A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Frequency (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113908"
+        },
+        {
+            "alt_label": "CSS10-Most Severe Idea, Frequency-P1M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - How many times have you had these thoughts? (Past 1 Month).",
+            "identifier": "C113909",
+            "notation": "CSS1007B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Frequency (Past 1 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113909"
+        },
+        {
+            "alt_label": "CSS10-Frequency, Write Response",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Frequency, write response.",
+            "identifier": "C113910",
+            "notation": "CSS1007C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Frequency Write Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113910"
+        },
+        {
+            "alt_label": "CSS10-Actual Attempt-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Did you ever do anything to try to kill yourself or make yourself not alive anymore? What did you do? Did you ever hurt yourself on purpose? Why did you do that? (Lifetime).",
+            "identifier": "C113911",
+            "notation": "CSS1008A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Actual Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113911"
+        },
+        {
+            "alt_label": "CSS10-Actual Attempt-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Did you ever do anything to try to kill yourself or make yourself not alive anymore? What did you do? Did you ever hurt yourself on purpose? Why did you do that? (Past 3 Months).",
+            "identifier": "C113912",
+            "notation": "CSS1008B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Actual Suicide Attempt (Past 3 Month)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113912"
+        },
+        {
+            "alt_label": "CSS10-Number of Actual Attempts-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of actual attempts. (Lifetime).",
+            "identifier": "C113913",
+            "notation": "CSS1009A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Actual Suicide Attempts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113913"
+        },
+        {
+            "alt_label": "CSS10-Number of Actual Attempts-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of actual attempts. (Past 3 Months).",
+            "identifier": "C113914",
+            "notation": "CSS1009B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Actual Suicide Attempts (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113914"
+        },
+        {
+            "alt_label": "CSS10-Actual Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of actual attempt.",
+            "identifier": "C113915",
+            "notation": "CSS1009C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Actual Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113915"
+        },
+        {
+            "alt_label": "CSS10-Non-suicidal Self-injur Behav-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has subject engaged in non-suicidal self-injurious behavior? (Lifetime).",
+            "identifier": "C113916",
+            "notation": "CSS1010A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Non-suicidal Self-injurious Behavior (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113916"
+        },
+        {
+            "alt_label": "CSS10-Non-suicidal Self-injur Behav-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has subject engaged in non-suicidal self-injurious behavior? (Past 3 Months).",
+            "identifier": "C113917",
+            "notation": "CSS1010B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Non-suicidal Self-injurious Behavior (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113917"
+        },
+        {
+            "alt_label": "CSS10-Self-injur Behav, Intent Unk-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has subject engaged in self-injurious behavior, intent unknown? (Lifetime).",
+            "identifier": "C113918",
+            "notation": "CSS1011A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Self-injurious Behavior, Intent Unknown (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113918"
+        },
+        {
+            "alt_label": "CSS10-Self-injur Behav, Intent Unk-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has subject engaged in self-injurious behavior, intent unknown? (Past 3 Months).",
+            "identifier": "C113919",
+            "notation": "CSS1011B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Self-injurious Behavior, Intent Unknown (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113919"
+        },
+        {
+            "alt_label": "CSS10-Interrupted Attempt-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but someone or something stopped you before you actually did anything? What did you do? (Lifetime).",
+            "identifier": "C113920",
+            "notation": "CSS1012A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Interrupted Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113920"
+        },
+        {
+            "alt_label": "CSS10-Interrupted Attempt-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but someone or something stopped you before you actually did anything? What did you do? (Past 3 Months).",
+            "identifier": "C113921",
+            "notation": "CSS1012B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Interrupted Suicide Attempt (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113921"
+        },
+        {
+            "alt_label": "CSS10-Number of Interrupt Attempts-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of interrupted attempts. (Lifetime).",
+            "identifier": "C113922",
+            "notation": "CSS1013A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Interrupted Suicide Attempts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113922"
+        },
+        {
+            "alt_label": "CSS10-Number of Interrupt Attempts-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of interrupted attempts. (Past 3 Months).",
+            "identifier": "C113923",
+            "notation": "CSS1013B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Interrupted Suicide Attempts (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113923"
+        },
+        {
+            "alt_label": "CSS10-Interrupted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of interrupted attempt.",
+            "identifier": "C113924",
+            "notation": "CSS1013C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113924"
+        },
+        {
+            "alt_label": "CSS10-Aborted Attempt-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but you changed your mind (stopped yourself) before you actually did anything? What did you do? (Lifetime).",
+            "identifier": "C113925",
+            "notation": "CSS1014A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Aborted or Self-interrupted Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113925"
+        },
+        {
+            "alt_label": "CSS10-Aborted Attempt-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but you changed your mind (stopped yourself) before you actually did anything? What did you do? (Past 3 Months).",
+            "identifier": "C113926",
+            "notation": "CSS1014B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Aborted or Self-interrupted Suicide Attempt (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113926"
+        },
+        {
+            "alt_label": "CSS10-Number of Aborted Attempts-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of aborted or self-interrupted attempts. (Lifetime).",
+            "identifier": "C113927",
+            "notation": "CSS1015A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Aborted or Self-interrupted Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113927"
+        },
+        {
+            "alt_label": "CSS10-Number of Aborted Attempts-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of aborted or self-interrupted attempts. (Past 3 Months).",
+            "identifier": "C113928",
+            "notation": "CSS1015B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Aborted or Self-interrupted Suicide Attempt (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113928"
+        },
+        {
+            "alt_label": "CSS10-Aborted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of aborted or self-interrupted attempt.",
+            "identifier": "C113929",
+            "notation": "CSS1015C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113929"
+        },
+        {
+            "alt_label": "CSS10-Preparatory Acts/Behavior-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you done anything to get ready to make yourself not alive anymore (to end your life or kill yourself) - like giving things away, writing a goodbye note, getting things you need to kill yourself? (Lifetime).",
+            "identifier": "C113930",
+            "notation": "CSS1016A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Preparatory Acts or Behaviors Toward Suicide Attempt (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113930"
+        },
+        {
+            "alt_label": "CSS10-Preparatory Acts/Behavior-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you done anything to get ready to make yourself not alive anymore (to end your life or kill yourself) - like giving things away, writing a goodbye note, getting things you need to kill yourself? (Past 3 Months).",
+            "identifier": "C113931",
+            "notation": "CSS1016B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Preparatory Acts or Behaviors Toward Suicide Attempt (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113931"
+        },
+        {
+            "alt_label": "CSS10-Preparatory Acts/Behavior, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of preparatory acts or behavior.",
+            "identifier": "C113932",
+            "notation": "CSS1016C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113932"
+        },
+        {
+            "alt_label": "CSS10-Suicidal Behavior-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Suicidal behavior was present during the assessment period? (Lifetime).",
+            "identifier": "C113933",
+            "notation": "CSS1017A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Suicidal Behavior (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113933"
+        },
+        {
+            "alt_label": "CSS10-Suicidal Behavior-P3M",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Suicidal behavior was present during the assessment period? (Past 3 Months).",
+            "identifier": "C113934",
+            "notation": "CSS1017B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Suicidal Behavior (Past 3 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113934"
+        },
+        {
+            "alt_label": "CSS10-Most Recent Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most recent attempt date.",
+            "identifier": "C113935",
+            "notation": "CSS1018A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Recent Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113935"
+        },
+        {
+            "alt_label": "CSS10-Most Recent Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most recent attempt actual lethality/medical damage.",
+            "identifier": "C113936",
+            "notation": "CSS1018B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Recent Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113936"
+        },
+        {
+            "alt_label": "CSS10-Most Recent Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most recent attempt potential lethality.",
+            "identifier": "C113937",
+            "notation": "CSS1018C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Recent Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113937"
+        },
+        {
+            "alt_label": "CSS10-Most Lethal Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most lethal attempt date.",
+            "identifier": "C113938",
+            "notation": "CSS1019A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Lethal Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113938"
+        },
+        {
+            "alt_label": "CSS10-Most Lethal Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most lethal attempt actual lethality/medical damage.",
+            "identifier": "C113939",
+            "notation": "CSS1019B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Lethal Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113939"
+        },
+        {
+            "alt_label": "CSS10-Most Lethal Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most lethal attempt potential lethality.",
+            "identifier": "C113940",
+            "notation": "CSS1019C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Lethal Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113940"
+        },
+        {
+            "alt_label": "CSS10-First Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Initial/first attempt date.",
+            "identifier": "C113941",
+            "notation": "CSS1020A",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - First Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113941"
+        },
+        {
+            "alt_label": "CSS10-First Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Initial/first attempt actual lethality/medical damage.",
+            "identifier": "C113942",
+            "notation": "CSS1020B",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - First Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113942"
+        },
+        {
+            "alt_label": "CSS10-First Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Initial/first attempt potential lethality.",
+            "identifier": "C113943",
+            "notation": "CSS1020C",
+            "pref_label": "C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - First Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113848-C113943"
+        }
+    ]
+}

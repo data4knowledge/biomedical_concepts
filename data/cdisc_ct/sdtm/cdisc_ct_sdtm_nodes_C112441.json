@@ -1,0 +1,468 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "FAMS01-Trouble Meeting Needs of Family",
+            "definition": "Functional Assessment of Multiple Sclerosis - Mobility: Because of my physical condition, I have trouble meeting the needs of my family.",
+            "identifier": "C112551",
+            "notation": "FAMS0101",
+            "pref_label": "FAMS - Have Trouble Meeting Needs of Family Because of My Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112551"
+        },
+        {
+            "alt_label": "FAMS01-I Am Able to Work",
+            "definition": "Functional Assessment of Multiple Sclerosis - Mobility: I am able to work (include work at home).",
+            "identifier": "C112552",
+            "notation": "FAMS0102",
+            "pref_label": "FAMS - I Am Able to Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112552"
+        },
+        {
+            "alt_label": "FAMS01-I Have Trouble Walking",
+            "definition": "Functional Assessment of Multiple Sclerosis - Mobility: I have trouble walking.",
+            "identifier": "C112553",
+            "notation": "FAMS0103",
+            "pref_label": "FAMS - I Have Trouble Walking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112553"
+        },
+        {
+            "alt_label": "FAMS01-Limit My Social Activity",
+            "definition": "Functional Assessment of Multiple Sclerosis - Mobility: I have to limit my social activity because of my condition.",
+            "identifier": "C112554",
+            "notation": "FAMS0104",
+            "pref_label": "FAMS - Limit Social Activity Because of Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112554"
+        },
+        {
+            "alt_label": "FAMS01-I Have Strength in My Legs",
+            "definition": "Functional Assessment of Multiple Sclerosis - Mobility: I have strength in my legs.",
+            "identifier": "C112555",
+            "notation": "FAMS0105",
+            "pref_label": "FAMS - I Have Strength in My Legs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112555"
+        },
+        {
+            "alt_label": "FAMS01-Trouble Getting Around in Public",
+            "definition": "Functional Assessment of Multiple Sclerosis - Mobility: I have trouble getting around in public places.",
+            "identifier": "C112556",
+            "notation": "FAMS0106",
+            "pref_label": "FAMS - Trouble Getting Around in Public Places",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112556"
+        },
+        {
+            "alt_label": "FAMS01-Take My Condition Into Account",
+            "definition": "Functional Assessment of Multiple Sclerosis - Mobility: I have to take my condition into account when making plans.",
+            "identifier": "C112557",
+            "notation": "FAMS0107",
+            "pref_label": "FAMS - Have to Take Condition Into Account When Making Plans",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112557"
+        },
+        {
+            "alt_label": "FAMS01-I Have Nausea",
+            "definition": "Functional Assessment of Multiple Sclerosis - Symptoms: I have nausea.",
+            "identifier": "C112558",
+            "notation": "FAMS0108",
+            "pref_label": "FAMS - I Have Nausea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112558"
+        },
+        {
+            "alt_label": "FAMS01-I Have Pain",
+            "definition": "Functional Assessment of Multiple Sclerosis - Symptoms: I have pain.",
+            "identifier": "C112559",
+            "notation": "FAMS0109",
+            "pref_label": "FAMS - I Have Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112559"
+        },
+        {
+            "alt_label": "FAMS01-I Feel Ill",
+            "definition": "Functional Assessment of Multiple Sclerosis - Symptoms: I feel ill.",
+            "identifier": "C112560",
+            "notation": "FAMS0110",
+            "pref_label": "FAMS - I Feel Ill",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112560"
+        },
+        {
+            "alt_label": "FAMS01-I Feel Weak All Over",
+            "definition": "Functional Assessment of Multiple Sclerosis - Symptoms: I feel weak all over.",
+            "identifier": "C112561",
+            "notation": "FAMS0111",
+            "pref_label": "FAMS - I Feel Weak All Over",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112561"
+        },
+        {
+            "alt_label": "FAMS01-I Have Pain in My Joints",
+            "definition": "Functional Assessment of Multiple Sclerosis - Symptoms: I have pain in my joints.",
+            "identifier": "C112562",
+            "notation": "FAMS0112",
+            "pref_label": "FAMS - I Have Pain in My Joints",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112562"
+        },
+        {
+            "alt_label": "FAMS01-I Am Bothered by Headaches",
+            "definition": "Functional Assessment of Multiple Sclerosis - Symptoms: I am bothered by headaches.",
+            "identifier": "C112563",
+            "notation": "FAMS0113",
+            "pref_label": "FAMS - Bothered by Headaches",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112563"
+        },
+        {
+            "alt_label": "FAMS01-I Am Bothered by Muscle Pains",
+            "definition": "Functional Assessment of Multiple Sclerosis - Symptoms: I am bothered by muscle pains.",
+            "identifier": "C112564",
+            "notation": "FAMS0114",
+            "pref_label": "FAMS - Bothered by Muscle Pains",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112564"
+        },
+        {
+            "alt_label": "FAMS01-I Feel Sad",
+            "definition": "Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I feel sad.",
+            "identifier": "C112565",
+            "notation": "FAMS0115",
+            "pref_label": "FAMS - I Feel Sad",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112565"
+        },
+        {
+            "alt_label": "FAMS01-Losing Hope Against Illness",
+            "definition": "Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I am losing hope in the fight against my illness.",
+            "identifier": "C112566",
+            "notation": "FAMS0116",
+            "pref_label": "FAMS - Losing Hope in Fight Against My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112566"
+        },
+        {
+            "alt_label": "FAMS01-I Am Able to Enjoy Life",
+            "definition": "Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I am able to enjoy life.",
+            "identifier": "C112567",
+            "notation": "FAMS0117",
+            "pref_label": "FAMS - I Am Able to Enjoy Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112567"
+        },
+        {
+            "alt_label": "FAMS01-I Feel Trapped by My Condition",
+            "definition": "Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I feel trapped by my condition.",
+            "identifier": "C112568",
+            "notation": "FAMS0118",
+            "pref_label": "FAMS - Feel Trapped by My Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112568"
+        },
+        {
+            "alt_label": "FAMS01-I Am Depressed About My Condition",
+            "definition": "Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I am depressed about my condition.",
+            "identifier": "C112569",
+            "notation": "FAMS0119",
+            "pref_label": "FAMS - Depressed About My Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112569"
+        },
+        {
+            "alt_label": "FAMS01-I Feel Useless",
+            "definition": "Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I feel useless.",
+            "identifier": "C112570",
+            "notation": "FAMS0120",
+            "pref_label": "FAMS - I Feel Useless",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112570"
+        },
+        {
+            "alt_label": "FAMS01-Feel Overwhelmed by My Condition",
+            "definition": "Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I feel overwhelmed by my condition.",
+            "identifier": "C112571",
+            "notation": "FAMS0121",
+            "pref_label": "FAMS - Feel Overwhelmed by My Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112571"
+        },
+        {
+            "alt_label": "FAMS01-My Work Is Fulfilling",
+            "definition": "Functional Assessment of Multiple Sclerosis - General Contentment: My work (include work at home) is fulfilling.",
+            "identifier": "C112572",
+            "notation": "FAMS0122",
+            "pref_label": "FAMS - My Work is Fulfilling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112572"
+        },
+        {
+            "alt_label": "FAMS01-I Have Accepted My Illness",
+            "definition": "Functional Assessment of Multiple Sclerosis - General Contentment: I have accepted my illness.",
+            "identifier": "C112573",
+            "notation": "FAMS0123",
+            "pref_label": "FAMS - I Have Accepted My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112573"
+        },
+        {
+            "alt_label": "FAMS01-Enjoy Things I Usually Do for Fun",
+            "definition": "Functional Assessment of Multiple Sclerosis - General Contentment: I am enjoying the things I usually do for fun.",
+            "identifier": "C112574",
+            "notation": "FAMS0124",
+            "pref_label": "FAMS - Enjoying Things I Usually Do for Fun",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112574"
+        },
+        {
+            "alt_label": "FAMS01-Content With Quality of My Life",
+            "definition": "Functional Assessment of Multiple Sclerosis - General Contentment: I am content with the quality of my life right now.",
+            "identifier": "C112575",
+            "notation": "FAMS0125",
+            "pref_label": "FAMS - Content With Quality of My Life Now",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112575"
+        },
+        {
+            "alt_label": "FAMS01-I Am Frustrated by My Condition",
+            "definition": "Functional Assessment of Multiple Sclerosis - General Contentment: I am frustrated by my condition.",
+            "identifier": "C112576",
+            "notation": "FAMS0126",
+            "pref_label": "FAMS - I Am Frustrated by My Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112576"
+        },
+        {
+            "alt_label": "FAMS01-Feel Sense of Purpose in My Life",
+            "definition": "Functional Assessment of Multiple Sclerosis - General Contentment: I feel a sense of purpose in my life.",
+            "identifier": "C112577",
+            "notation": "FAMS0127",
+            "pref_label": "FAMS - Feel Sense of Purpose in My Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112577"
+        },
+        {
+            "alt_label": "FAMS01-I Feel Motivated to Do Things",
+            "definition": "Functional Assessment of Multiple Sclerosis - General Contentment: I feel motivated to do things.",
+            "identifier": "C112578",
+            "notation": "FAMS0128",
+            "pref_label": "FAMS - Feel Motivated to Do Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112578"
+        },
+        {
+            "alt_label": "FAMS01-I Have a Lack of Energy",
+            "definition": "Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have a lack of energy.",
+            "identifier": "C112579",
+            "notation": "FAMS0129",
+            "pref_label": "FAMS - Have a Lack of Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112579"
+        },
+        {
+            "alt_label": "FAMS01-I Feel Tired",
+            "definition": "Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I feel tired.",
+            "identifier": "C112580",
+            "notation": "FAMS0130",
+            "pref_label": "FAMS - I Feel Tired",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112580"
+        },
+        {
+            "alt_label": "FAMS01-Trouble Starting Things",
+            "definition": "Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have trouble starting things because I am tired.",
+            "identifier": "C112581",
+            "notation": "FAMS0131",
+            "pref_label": "FAMS - Trouble Starting Things Because I Am Tired",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112581"
+        },
+        {
+            "alt_label": "FAMS01-Trouble Finishing Things",
+            "definition": "Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have trouble finishing things because I am tired.",
+            "identifier": "C112582",
+            "notation": "FAMS0132",
+            "pref_label": "FAMS - Trouble Finishing Things Because I Am Tired",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112582"
+        },
+        {
+            "alt_label": "FAMS01-I Need to Rest During the Day",
+            "definition": "Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I need to rest during the day.",
+            "identifier": "C112583",
+            "notation": "FAMS0133",
+            "pref_label": "FAMS - Need to Rest During the Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112583"
+        },
+        {
+            "alt_label": "FAMS01-I Have Trouble Remembering Things",
+            "definition": "Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have trouble remembering things.",
+            "identifier": "C112584",
+            "notation": "FAMS0134",
+            "pref_label": "FAMS - Trouble Remembering Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112584"
+        },
+        {
+            "alt_label": "FAMS01-I Have Trouble Concentrating",
+            "definition": "Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have trouble concentrating.",
+            "identifier": "C112585",
+            "notation": "FAMS0135",
+            "pref_label": "FAMS - Trouble Concentrating",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112585"
+        },
+        {
+            "alt_label": "FAMS01-My Thinking Is Slower Than Before",
+            "definition": "Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: My thinking is slower than before.",
+            "identifier": "C112586",
+            "notation": "FAMS0136",
+            "pref_label": "FAMS - My Thinking is Slower Than Before",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112586"
+        },
+        {
+            "alt_label": "FAMS01-I Have Trouble Learning New Tasks",
+            "definition": "Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have trouble learning new tasks or directions.",
+            "identifier": "C112587",
+            "notation": "FAMS0137",
+            "pref_label": "FAMS - Trouble Learning New Tasks or Directions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112587"
+        },
+        {
+            "alt_label": "FAMS01-I Feel Close to My Friends",
+            "definition": "Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: I feel close to my friends.",
+            "identifier": "C112588",
+            "notation": "FAMS0138",
+            "pref_label": "FAMS - Feel Close to My Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112588"
+        },
+        {
+            "alt_label": "FAMS01-Get Emotional Support From Family",
+            "definition": "Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: I get emotional support from my family.",
+            "identifier": "C112589",
+            "notation": "FAMS0139",
+            "pref_label": "FAMS - Get Emotional Support From Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112589"
+        },
+        {
+            "alt_label": "FAMS01-I Get Support From My Friends",
+            "definition": "Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: I get support from my friends.",
+            "identifier": "C112590",
+            "notation": "FAMS0140",
+            "pref_label": "FAMS - Get Support From Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112590"
+        },
+        {
+            "alt_label": "FAMS01-My Family Has Accepted My Illness",
+            "definition": "Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: My family has accepted my illness.",
+            "identifier": "C112591",
+            "notation": "FAMS0141",
+            "pref_label": "FAMS - Family Has Accepted My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112591"
+        },
+        {
+            "alt_label": "FAMS01-Satisfied Communication Illness",
+            "definition": "Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: I am satisfied with family communication about my illness.",
+            "identifier": "C112592",
+            "notation": "FAMS0142",
+            "pref_label": "FAMS - Satisfied With Family Communication About My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112592"
+        },
+        {
+            "alt_label": "FAMS01-Trouble Understanding Worsening",
+            "definition": "Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: My family has trouble understanding when my condition gets worse.",
+            "identifier": "C112593",
+            "notation": "FAMS0143",
+            "pref_label": "FAMS - Family Has Trouble Understanding When My Condition Gets Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112593"
+        },
+        {
+            "alt_label": "FAMS01-I Feel Left Out of Things",
+            "definition": "Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: I feel 'left out' of things.",
+            "identifier": "C112594",
+            "notation": "FAMS0144",
+            "pref_label": "FAMS - Feel Left Out of Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112594"
+        },
+        {
+            "alt_label": "FAMS01-Bothered by Treatment Side Effect",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I am bothered by side effects of treatment.",
+            "identifier": "C112595",
+            "notation": "FAMS0145",
+            "pref_label": "FAMS - Bothered by Side Effects of Treatment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112595"
+        },
+        {
+            "alt_label": "FAMS01-I Am Forced to Spend Time in Bed",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I am forced to spend time in bed.",
+            "identifier": "C112596",
+            "notation": "FAMS0146",
+            "pref_label": "FAMS - Forced to Spend Time in Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112596"
+        },
+        {
+            "alt_label": "FAMS01-I Feel Close to My Partner",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I feel close to my partner (or the person who is my main support).",
+            "identifier": "C112597",
+            "notation": "FAMS0147",
+            "pref_label": "FAMS - Feel Close to My Partner",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112597"
+        },
+        {
+            "alt_label": "FAMS01-I Am Satisfied With My Sex Life",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I am satisfied with my sex life.",
+            "identifier": "C112598",
+            "notation": "FAMS0148",
+            "pref_label": "FAMS - Satisfied With My Sex Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112598"
+        },
+        {
+            "alt_label": "FAMS01-Satisfied With How I Am Coping",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I am satisfied with how I am coping with my illness.",
+            "identifier": "C112599",
+            "notation": "FAMS0149",
+            "pref_label": "FAMS - Satisfied With How I Am Coping With Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112599"
+        },
+        {
+            "alt_label": "FAMS01-I Feel Nervous",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I feel nervous.",
+            "identifier": "C112600",
+            "notation": "FAMS0150",
+            "pref_label": "FAMS - I Feel Nervous",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112600"
+        },
+        {
+            "alt_label": "FAMS01-Worry My Condition Will Get Worse",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I worry that my condition will get worse.",
+            "identifier": "C112601",
+            "notation": "FAMS0151",
+            "pref_label": "FAMS - Worry My Condition Will Get Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112601"
+        },
+        {
+            "alt_label": "FAMS01-I Am Sleeping Well",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I am sleeping well.",
+            "identifier": "C112602",
+            "notation": "FAMS0152",
+            "pref_label": "FAMS - I Am Sleeping Well",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112602"
+        },
+        {
+            "alt_label": "FAMS01-Heat Worsens My Symptoms",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: Heat worsens my symptoms.",
+            "identifier": "C112603",
+            "notation": "FAMS0153",
+            "pref_label": "FAMS - Heat Worsens My Symptoms",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112603"
+        },
+        {
+            "alt_label": "FAMS01-Have Trouble Controlling My Urine",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I have trouble controlling my urine.",
+            "identifier": "C112604",
+            "notation": "FAMS0154",
+            "pref_label": "FAMS - Trouble Controlling My Urine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112604"
+        },
+        {
+            "alt_label": "FAMS01-I Urinate More Frequently",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I urinate more frequently than usual.",
+            "identifier": "C112605",
+            "notation": "FAMS0155",
+            "pref_label": "FAMS - Urinate More Frequently Than Usual",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112605"
+        },
+        {
+            "alt_label": "FAMS01-I Am Bothered by the Chills",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I am bothered by the chills.",
+            "identifier": "C112606",
+            "notation": "FAMS0156",
+            "pref_label": "FAMS - Bothered by Chills",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112606"
+        },
+        {
+            "alt_label": "FAMS01-I Am Bothered by Fevers",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I am bothered by fevers (episodes of high body temperature).",
+            "identifier": "C112607",
+            "notation": "FAMS0157",
+            "pref_label": "FAMS - Bothered by Fevers",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112607"
+        },
+        {
+            "alt_label": "FAMS01-I Am Bothered by Muscle Spasms",
+            "definition": "Functional Assessment of Multiple Sclerosis - Additional Concerns: I am bothered by muscle spasms.",
+            "identifier": "C112608",
+            "notation": "FAMS0158",
+            "pref_label": "FAMS - Bothered by Muscle Spasms",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112441-C112608"
+        }
+    ]
+}

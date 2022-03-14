@@ -1,0 +1,32 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Continued presence of an adverse event after decrease or change in dose, or withdrawal of the product/drug.",
+            "identifier": "C181222",
+            "notation": "NEGATIVE DECHALLENGE",
+            "pref_label": "Negative Dechallenge Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C181164-C181222"
+        },
+        {
+            "definition": "The outcome of decreasing the dose or discontinuation of the product/drug is not relevant in the current context.",
+            "identifier": "C181224",
+            "notation": "NOT APPLICABLE DECHALLENGE",
+            "pref_label": "Not Applicable Dechallenge Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C181164-C181224"
+        },
+        {
+            "definition": "Partial or complete abatement of an adverse event after decrease or change in dose, or withdrawal of the product/drug.",
+            "identifier": "C181223",
+            "notation": "POSITIVE DECHALLENGE",
+            "pref_label": "Positive Dechallenge Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C181164-C181223"
+        },
+        {
+            "definition": "No information regarding the outcome of decreasing the dose or discontinuation of the product/drug.",
+            "identifier": "C181225",
+            "notation": "UNKNOWN DECHALLENGE",
+            "pref_label": "Unknown Dechallenge Response",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C181164-C181225"
+        }
+    ]
+}

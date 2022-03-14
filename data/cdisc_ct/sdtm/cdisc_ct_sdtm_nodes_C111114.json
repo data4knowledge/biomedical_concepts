@@ -1,0 +1,260 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "7SK Small Nuclear RNA;7SK snRNA",
+            "definition": "7SK small nuclear RNA is encoded by the human RN7SK gene. This oligoribonucleotide may play a role in the regulation of the enzymatic activity of RNA polymerase II.",
+            "identifier": "C95951",
+            "notation": "7SK RNA",
+            "pref_label": "7SK Small Nuclear RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C95951"
+        },
+        {
+            "alt_label": "Complementary DNA",
+            "definition": "Single-stranded DNA that is complementary to messenger RNA or DNA that has been synthesized from messenger RNA by reverse transcriptase.",
+            "identifier": "C324",
+            "notation": "cDNA",
+            "pref_label": "cDNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C324"
+        },
+        {
+            "alt_label": "Cell Free Circulating DNA;Cell Free DNA;Circulating Cell Free DNA",
+            "definition": "DNA in blood plasma and other body fluids that has been released from a cell due to a biological process.",
+            "identifier": "C128274",
+            "notation": "cfDNA",
+            "pref_label": "Circulating Cell-Free DNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C128274"
+        },
+        {
+            "alt_label": "Chloroplast DNA",
+            "definition": "The DNA that is located in the photosynthetic, chlorophyll-containing organelle in the cells of young leaves and stems of higher plants. (NCI)",
+            "identifier": "C111158",
+            "notation": "cpDNA",
+            "pref_label": "Chloroplast DNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C111158"
+        },
+        {
+            "alt_label": "Cell-Free Circulating Tumor DNA;Circulating Tumor DNA",
+            "definition": "A type of cell-free DNA composed of small fragments of tumor DNA that are released by tumor cells into the bloodstream of the host.",
+            "identifier": "C113243",
+            "notation": "ctDNA",
+            "pref_label": "Circulating Tumor-Derived DNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C113243"
+        },
+        {
+            "alt_label": "Deoxyribonucleic Acid;Double-stranded DNA;dsDNA",
+            "definition": "A long linear double-stranded polymer formed from nucleotides attached to a deoxyribose backbone; associated with the transmission of genetic information.",
+            "identifier": "C449",
+            "notation": "DNA",
+            "pref_label": "DNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C449"
+        },
+        {
+            "alt_label": "Double-stranded RNA",
+            "definition": "An RNA complex consisting of two base-paired strands of complementary RNA.",
+            "identifier": "C95938",
+            "notation": "dsRNA",
+            "pref_label": "Double-Stranded RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C95938"
+        },
+        {
+            "alt_label": "Genomic DNA",
+            "definition": "The DNA that is part of the normal chromosomal complement of an organism.",
+            "identifier": "C95940",
+            "notation": "gDNA",
+            "pref_label": "Genomic DNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C95940"
+        },
+        {
+            "alt_label": "Guide RNA",
+            "definition": "A small RNA involved in post-transcriptional mitochondrial RNA modification (RNA editing) in kinetoplastids.",
+            "identifier": "C95952",
+            "notation": "gRNA",
+            "pref_label": "Guide RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C95952"
+        },
+        {
+            "alt_label": "Heterogeneous Nuclear RNA",
+            "definition": "A diverse assortment of nascent, immature, unprocessed RNA transcripts synthesized from DNA templates that are found in eukaryotic nuclei before post-transcriptional modifications.",
+            "identifier": "C28454",
+            "notation": "hnRNA",
+            "pref_label": "hnRNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C28454"
+        },
+        {
+            "alt_label": "MicroRNA;miRNA",
+            "definition": "A sequence of single-stranded RNA which is typically 20-25 nucleotides in length and may regulate the expression of other genes. miRNAs are transcribed from DNA, but are not translated into proteins.",
+            "identifier": "C25966",
+            "notation": "miRNA",
+            "pref_label": "MicroRNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C25966"
+        },
+        {
+            "alt_label": "Messenger RNA",
+            "definition": "A class of RNA molecule containing protein-coding information in its nucleotide sequence that can be translated into the amino acid sequence of a protein.",
+            "identifier": "C813",
+            "notation": "mRNA",
+            "pref_label": "Messenger RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C813"
+        },
+        {
+            "alt_label": "Multicopy Single-stranded DNA",
+            "definition": "A DNA/RNA chimera comprised of a single-stranded DNA molecule covalently bound to an internal guanosine of a RNA molecule. (NCI)",
+            "identifier": "C111279",
+            "notation": "msDNA",
+            "pref_label": "Multicopy Single-stranded DNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C111279"
+        },
+        {
+            "alt_label": "MSR",
+            "definition": "The RNA portion of the msDNA molecule, which contains two stem-loop structures and varies widely in length across bacterial species. (NCI)",
+            "identifier": "C111278",
+            "notation": "msdRNA",
+            "pref_label": "msdRNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C111278"
+        },
+        {
+            "alt_label": "mDNA;Mitochondrial DNA",
+            "definition": "Typically small, circular, intronless, and maternally inherited, mitochondrial DNA (mtDNA) is the multicopy deoxyribonucleic acid genome of mitochondria, intracellular organelles responsible for vital respiratory chain and oxidative phosphorylation reactions in higher eukaryotes. Replicated and transcribed by a separate enzymatic machinery from that of nuclear DNA, mtDNA encodes only a subset of mitochondrial functions.",
+            "identifier": "C28512",
+            "notation": "mtDNA",
+            "pref_label": "Mitochondrial DNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C28512"
+        },
+        {
+            "alt_label": "Nuclear DNA",
+            "definition": "The DNA that is normally located in the nucleus of a eukaryotic cell.",
+            "identifier": "C95941",
+            "notation": "nDNA",
+            "pref_label": "Nuclear DNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C95941"
+        },
+        {
+            "alt_label": "Plasmid;Plasmid DNA",
+            "definition": "A small cellular inclusion consisting of a ring of DNA that is not in a chromosome but is capable of autonomous replication.",
+            "identifier": "C754",
+            "notation": "pDNA",
+            "pref_label": "Plasmid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C754"
+        },
+        {
+            "alt_label": "piRNA;Piwi-Interacting RNA",
+            "definition": "Single-stranded RNA molecules that are expressed in animal cells and form complexes with Piwi proteins. They are involved in transcriptional gene silencing.",
+            "identifier": "C95953",
+            "notation": "piRNA",
+            "pref_label": "Piwi-Interacting RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C95953"
+        },
+        {
+            "alt_label": "Precursor mRNA",
+            "definition": "A primary RNA transcript synthesized from a DNA template in eukaryotic nuclei which is post-transcriptionally modified and spliced to produce a mature mRNA. (NCI)",
+            "identifier": "C111298",
+            "notation": "pre-mRNA",
+            "pref_label": "Precursor mRNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C111298"
+        },
+        {
+            "alt_label": "Pri-microRNA;Pri-MIR;Pri-miRNA;Primary MicroRNA",
+            "definition": "The pri-miRNA is a primary transcript derived from a gene whose sole products are miRNA(s). A unique pathway involving the nuclear microprocessor complex participates in the cleavage of such transcripts, which can be substantially longer than the 65-110 nt pre-miRNA.",
+            "identifier": "C25967",
+            "notation": "pri-miRNA",
+            "pref_label": "Pri-miRNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C25967"
+        },
+        {
+            "alt_label": "Ribosomal DNA;Ribosomal RNA Genes",
+            "definition": "The genomic sequences that code for ribosomal RNA molecules.",
+            "identifier": "C95943",
+            "notation": "rDNA",
+            "pref_label": "Ribosomal RNA Gene",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C95943"
+        },
+        {
+            "alt_label": "Catalytic RNA;Ribonucleic Enzyme",
+            "definition": "RNA that contains an intron sequence which has an enzyme-like catalytic activity. This intron sequence can function like an enzyme in reactions with other RNA molecules and thus synthesize new molecules even in the absence of protein.",
+            "identifier": "C1292",
+            "notation": "RIBOZYME",
+            "pref_label": "Ribozyme",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C1292"
+        },
+        {
+            "alt_label": "Ribonucleic Acid",
+            "definition": "Single-stranded long chain of nucleotides containing ribose. It is the end product of DNA transcription by the enzyme RNA polymerase. It is essential in protein synthesis.",
+            "identifier": "C812",
+            "notation": "RNA",
+            "pref_label": "Ribonucleic Acid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C812"
+        },
+        {
+            "alt_label": "Ribosomal RNA;rRNA",
+            "definition": "An RNA molecule that associates with multiple proteins to form ribosomes.",
+            "identifier": "C814",
+            "notation": "rRNA",
+            "pref_label": "Ribosomal RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C814"
+        },
+        {
+            "alt_label": "siRNA;Small Interfering RNA",
+            "definition": "A 20 to 25-nucleotide double-stranded RNA which is involved in a sequence-specific messenger RNA degradation process known as RNA interference.",
+            "identifier": "C2191",
+            "notation": "siRNA",
+            "pref_label": "Small Interfering RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C2191"
+        },
+        {
+            "alt_label": "Small Nucleolar RNA;snoRNA",
+            "definition": "A small RNA molecule located in the cell nucleolus that associates with proteins to form small nucleolar ribonucleoprotein particles that are involved in modification of other RNAs.",
+            "identifier": "C111316",
+            "notation": "snoRNA",
+            "pref_label": "Small Nucleolar RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C111316"
+        },
+        {
+            "alt_label": "Small Nuclear Ribonucleic Acid;Small Nuclear RNA;snRNA;U-RNA",
+            "definition": "A small RNA molecule (100-300 nucleotides) located in the cell nucleus that is involved in RNA splicing, transcriptional regulation, telomere maintenance and rRNA modification.",
+            "identifier": "C815",
+            "notation": "snRNA",
+            "pref_label": "Small Nuclear RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C815"
+        },
+        {
+            "alt_label": "7SL RNA;Signal Recognition Particle RNA;SRP RNA;srpRNA",
+            "definition": "A non-coding RNA that is part of the signal recognition particle. It is involved in the co-translational targeting of proteins to membranes.",
+            "identifier": "C95950",
+            "notation": "SRP RNA",
+            "pref_label": "Signal Recognition Particle RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C95950"
+        },
+        {
+            "alt_label": "Single-stranded DNA",
+            "definition": "A long linear single-stranded polymer formed from nucleotides attached to a deoxyribose backbone. (NCI)",
+            "identifier": "C111311",
+            "notation": "ssDNA",
+            "pref_label": "Single-stranded DNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C111311"
+        },
+        {
+            "alt_label": "10Sa RNA;SsrA;Transfer-Messenger RNA",
+            "definition": "An RNA encoded by the bacterial ssrA gene. It is involved in the recycling of stalled ribosomes and the targeting of both defective mRNA molecules and incomplete nascent proteins for degradation.",
+            "identifier": "C95954",
+            "notation": "tmRNA",
+            "pref_label": "Transfer-Messenger RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C95954"
+        },
+        {
+            "alt_label": "Jumping Gene;Jumping Genes;Transposable Element",
+            "definition": "A class of mobile genetic elements that can move from one genomic position to another.",
+            "identifier": "C95942",
+            "notation": "TRANSPOSON",
+            "pref_label": "Transposon",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C95942"
+        },
+        {
+            "alt_label": "Transfer RNA;Triplet Codon-Amino Acid Adaptor;tRNA",
+            "definition": "A class of short adaptor RNAs that transfers a specific amino acid to a growing polypeptide chain at the ribosomal site of protein synthesis during translation.",
+            "identifier": "C816",
+            "notation": "tRNA",
+            "pref_label": "Transfer RNA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111114-C816"
+        }
+    ]
+}

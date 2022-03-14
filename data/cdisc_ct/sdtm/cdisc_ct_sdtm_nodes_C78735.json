@@ -1,0 +1,186 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An external committee whose purpose is to evaluate study data and decide whether a study endpoint or other criterion has been met. (NCI)",
+            "identifier": "C78726",
+            "notation": "ADJUDICATION COMMITTEE",
+            "pref_label": "Adjudication Committee",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C78726"
+        },
+        {
+            "definition": "An individual that presides over and arbitrates between individuals or organizations.",
+            "identifier": "C96561",
+            "notation": "ADJUDICATOR",
+            "pref_label": "Adjudicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C96561"
+        },
+        {
+            "alt_label": "Caregiver",
+            "definition": "The primary person in charge of the care of a patient, usually a family member or a designated health care professional. (NCI)",
+            "identifier": "C17445",
+            "notation": "CAREGIVER",
+            "pref_label": "Caregiver",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C17445"
+        },
+        {
+            "definition": "A biological or non-biological first generation offspring, including but not limited to biological children (including those born outside of marriage), adopted children, step children, and foster children. (NCI)",
+            "identifier": "C150886",
+            "notation": "CHILD",
+            "pref_label": "Child Relation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C150886"
+        },
+        {
+            "alt_label": "Research Associate",
+            "definition": "A person who is employed by a study sponsor or by a contract research organization (CRO), operates independently from the clinical study site and functions as a monitor, and/or auditor, and/or a project director within a particular trial or institution. (NCI)",
+            "identifier": "C25465",
+            "notation": "CLINICAL RESEARCH ASSOCIATE",
+            "pref_label": "Clinical Research Associate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C25465"
+        },
+        {
+            "alt_label": "CRC",
+            "definition": "A person to whom a clinical investigator delegates routine administrative requirements of a protocol. The duties and responsibilities of a clinical research coordinator may vary across different infrastructures. Generally, the coordinator manages the subject's clinical trial participation and provides a vital linkage between the subject, the investigator, and the sponsor. (NCI)",
+            "identifier": "C51811",
+            "notation": "CLINICAL RESEARCH COORDINATOR",
+            "pref_label": "Clinical Coordinator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C51811"
+        },
+        {
+            "alt_label": "Clinical Study Sponsor;Sponsor;Study Sponsor",
+            "definition": "An entity that is responsible for the initiation, management, and/or financing of a clinical study.",
+            "identifier": "C70793",
+            "notation": "CLINICAL STUDY SPONSOR",
+            "pref_label": "Clinical Study Sponsor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C70793"
+        },
+        {
+            "alt_label": "Domestic Partner",
+            "definition": "Person declares that a domestic partnership relationship exists. (HL7)",
+            "identifier": "C53262",
+            "notation": "DOMESTIC PARTNER",
+            "pref_label": "Domestic Partnership",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C53262"
+        },
+        {
+            "alt_label": "Family Member",
+            "definition": "Any of the individuals who are descended from a common progenitor, related by marriage or other legal tie.",
+            "identifier": "C41256",
+            "notation": "FAMILY MEMBER",
+            "pref_label": "Family Member",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C41256"
+        },
+        {
+            "definition": "A person whom an individual knows, likes, and trusts. (NCI)",
+            "identifier": "C72884",
+            "notation": "FRIEND",
+            "pref_label": "Friend",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C72884"
+        },
+        {
+            "definition": "An individual who is authorized under applicable State or local law to consent on behalf of a child or incapable person to general medical care including participation in clinical research. (NCI)",
+            "identifier": "C51828",
+            "notation": "GUARDIAN",
+            "pref_label": "Guardian",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C51828"
+        },
+        {
+            "definition": "A person qualified to be engaged in activity directed at preservation of mental and physical health by diseases prevention and treatment as a source of livelihood. (NCI)",
+            "identifier": "C53287",
+            "notation": "HEALTH CARE PROFESSIONAL",
+            "pref_label": "Health Care Professional",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C53287"
+        },
+        {
+            "definition": "An individual qualified to perform an evaluation who is masked from a subject's data in order to minimize bias or maximize consistency and quality. (NCI)",
+            "identifier": "C78720",
+            "notation": "INDEPENDENT ASSESSOR",
+            "pref_label": "Independent Rater",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C78720"
+        },
+        {
+            "definition": "The person who manages an interview and asks the questions.",
+            "identifier": "C63759",
+            "notation": "INTERVIEWER",
+            "pref_label": "Interviewer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C63759"
+        },
+        {
+            "definition": "A person responsible for the conduct of the clinical trial at a trial site. If a trial is conducted by a team of individuals at the trial site, the investigator is the responsible leader of the team and may be called the principal investigator.",
+            "identifier": "C25936",
+            "notation": "INVESTIGATOR",
+            "pref_label": "Investigator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C25936"
+        },
+        {
+            "definition": "Any individual other than a health care professional.",
+            "identifier": "C134833",
+            "notation": "NON-HEALTH CARE PROFESSIONAL",
+            "pref_label": "Non-Healthcare Professional",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C134833"
+        },
+        {
+            "definition": "A mother or a father.",
+            "identifier": "C42709",
+            "notation": "PARENT",
+            "pref_label": "Parent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C42709"
+        },
+        {
+            "definition": "A person who has the primary responsibility for the conduct of a clinical study and study-related personnel at a study site. While a single-center study would not include a coordinating investigator, the investigator at the site would fulfill the same responsibilities as a principal investigator.",
+            "identifier": "C19924",
+            "notation": "PRINCIPAL INVESTIGATOR",
+            "pref_label": "Principal Investigator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C19924"
+        },
+        {
+            "definition": "A type of directive that gives a person the authority to make decisions for or provide responses on behalf of another individual.",
+            "identifier": "C119264",
+            "notation": "PROXY",
+            "pref_label": "Proxy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C119264"
+        },
+        {
+            "definition": "A person's brother or sister.",
+            "identifier": "C25204",
+            "notation": "SIBLING",
+            "pref_label": "Sibling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C25204"
+        },
+        {
+            "definition": "A gender-neutral term for a person's partner in an intimate or romantic relationship without disclosing or presuming marital status or sexual orientation.",
+            "identifier": "C119265",
+            "notation": "SIGNIFICANT OTHER",
+            "pref_label": "Significant Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C119265"
+        },
+        {
+            "alt_label": "Spouse",
+            "definition": "A person's partner in marriage. (NCI)",
+            "identifier": "C62649",
+            "notation": "SPOUSE",
+            "pref_label": "Spouse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C62649"
+        },
+        {
+            "definition": "An individual who is observed, analyzed, examined, investigated, experimented upon, or/and treated in the course of a particular study.",
+            "identifier": "C41189",
+            "notation": "STUDY SUBJECT",
+            "pref_label": "Study Subject",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C41189"
+        },
+        {
+            "definition": "Any member of the clinical trial team designated and supervised by the investigator at a trial site to perform critical trial-related procedures and/or to make important trial-related decisions (e.g., associates, residents, research fellows). (ICH)",
+            "identifier": "C54622",
+            "notation": "SUBINVESTIGATOR",
+            "pref_label": "Subinvestigator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C54622"
+        },
+        {
+            "definition": "A person or agency that promotes or exchanges goods or services for money. (NCI)",
+            "identifier": "C68608",
+            "notation": "VENDOR",
+            "pref_label": "Vendor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78735-C68608"
+        }
+    ]
+}

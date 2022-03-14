@@ -1,0 +1,32 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A study in which neither the subject nor the investigator nor the research team interacting with the subject or data during the trial knows what treatment a subject is receiving. (CDISC glossary)",
+            "identifier": "C15228",
+            "notation": "DOUBLE BLIND",
+            "pref_label": "Double Blind Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66735-C15228"
+        },
+        {
+            "definition": "A study in which the therapeutic treatment is open label but the dosing information of the investigational medicinal product (IMP) is double-blinded.",
+            "identifier": "C156592",
+            "notation": "OPEN LABEL TO TREATMENT AND DOUBLE BLIND TO IMP DOSE",
+            "pref_label": "Open Label for Treatment And Double Blind to Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66735-C156592"
+        },
+        {
+            "definition": "A trial in which subjects and investigators know which product each subject is receiving; opposite of a blinded or double-blind study. (CDISC glossary)",
+            "identifier": "C49659",
+            "notation": "OPEN LABEL",
+            "pref_label": "Open Label Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66735-C49659"
+        },
+        {
+            "definition": "A study in which one party, either the investigator or the subject, does not know which medication or placebo is administered to the subject; also called singlemasked study. (CDISC glossary)",
+            "identifier": "C28233",
+            "notation": "SINGLE BLIND",
+            "pref_label": "Single Blind Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66735-C28233"
+        }
+    ]
+}

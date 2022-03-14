@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Observed to be negative for a pregnancy test or not pregnant.",
+            "identifier": "C82475",
+            "notation": "NOT PREGNANT",
+            "pref_label": "Not Pregnant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124322-C82475"
+        },
+        {
+            "definition": "Observed to be or have been pregnant or positive for a pregnancy test.",
+            "identifier": "C124295",
+            "notation": "PREGNANT",
+            "pref_label": "Pregnant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124322-C124295"
+        },
+        {
+            "definition": "A term referring to the lack of definitive criteria for classification of a finding.",
+            "identifier": "C124294",
+            "notation": "UNDETERMINED",
+            "pref_label": "Undetermined",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124322-C124294"
+        }
+    ]
+}

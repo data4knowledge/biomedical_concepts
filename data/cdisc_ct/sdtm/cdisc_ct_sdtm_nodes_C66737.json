@@ -1,0 +1,108 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "NA;Not Applicable",
+            "definition": "Determination of a value is not relevant in the current context. (NCI)",
+            "identifier": "C48660",
+            "notation": "NOT APPLICABLE",
+            "pref_label": "Not Applicable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C48660"
+        },
+        {
+            "alt_label": "0;Pre-clinical Trial;Trial Phase 0",
+            "definition": "First-in-human trials, in a small number of subjects, that are conducted before Phase 1 trials and are intended to assess new candidate therapeutic and imaging agents. The study agent is administered at a low dose for a limited time, and there is no therapeutic or diagnostic intent. NOTE: FDA Guidance for Industry, Investigators, and Reviewers: Exploratory IND Studies, January 2006 classifies such studies as Phase 1. NOTE: A Phase 0 study might not include any drug delivery but may be an exploration of human material from a study (e.g., tissue samples or biomarker determinations). [Improving the Quality of Cancer Clinical Trials: Workshop summary-Proceedings of the National Cancer Policy Forum Workshop, improving the Quality of Cancer Clinical Trials (Washington, DC, Oct 2007)] (CDISC glossary)",
+            "identifier": "C54721",
+            "notation": "PHASE 0 TRIAL",
+            "pref_label": "Phase 0 Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C54721"
+        },
+        {
+            "alt_label": "1;Trial Phase 1",
+            "definition": "The initial introduction of an investigational new drug into humans. Phase 1 studies are typically closely monitored and may be conducted in patients or normal volunteer subjects. NOTE: These studies are designed to determine the metabolism and pharmacologic actions of the drug in humans, the side effects associated with increasing doses, and, if possible, to gain early evidence on effectiveness. During Phase 1, sufficient information about the drug's pharmacokinetics and pharmacological effects should be obtained to permit the design of well-controlled, scientifically valid, Phase 2 studies. The total number of subjects and patients included in Phase I studies varies with the drug, but is generally in the range of 20 to 80. Phase 1 studies also include studies of drug metabolism, structure-activity relationships, and mechanism of action in humans, as well as studies in which investigational drugs are used as research tools to explore biological phenomena or disease processes. [After FDA CDER Handbook, ICH E8] (CDISC glossary)",
+            "identifier": "C15600",
+            "notation": "PHASE I TRIAL",
+            "pref_label": "Phase I Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C15600"
+        },
+        {
+            "alt_label": "1-2;Trial Phase 1-2",
+            "definition": "A class of clinical study that combines elements characteristic of traditional Phase I and Phase II trials. See also Phase I, Phase II.",
+            "identifier": "C15693",
+            "notation": "PHASE I/II TRIAL",
+            "pref_label": "Phase I/II Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C15693"
+        },
+        {
+            "alt_label": "2;Trial Phase 2",
+            "definition": "Phase 2. Controlled clinical studies conducted to evaluate the effectiveness of the drug for a particular indication or indications in patients with the disease or condition under study and to determine the common short-term side effects and risks associated with the drug. NOTE: Phase 2 studies are typically well controlled, closely monitored, and conducted in a relatively small number of patients, usually involving no more than several hundred subjects. [After FDA CDER Handbook, ICH E8] (CDISC glossary)",
+            "identifier": "C15601",
+            "notation": "PHASE II TRIAL",
+            "pref_label": "Phase II Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C15601"
+        },
+        {
+            "alt_label": "2-3;Trial Phase 2-3",
+            "definition": "A class of clinical study that combines elements characteristic of traditional Phase II and Phase III trials.",
+            "identifier": "C15694",
+            "notation": "PHASE II/III TRIAL",
+            "pref_label": "Phase II/III Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C15694"
+        },
+        {
+            "alt_label": "2A;Trial Phase 2A",
+            "definition": "A clinical research protocol generally referred to as a pilot or feasibility trial that aims to prove the concept of the new intervention in question. (NCI)",
+            "identifier": "C49686",
+            "notation": "PHASE IIA TRIAL",
+            "pref_label": "Phase IIa Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C49686"
+        },
+        {
+            "alt_label": "2B;Trial Phase 2B",
+            "definition": "A clinical research protocol generally referred to as a well-controlled and pivotal trial that aims to prove the mechanism of action of the new intervention in question. A pivotal study will generally be well-controlled, randomized, of adequate size, and whenever possible, double-blind. (NCI)",
+            "identifier": "C49688",
+            "notation": "PHASE IIB TRIAL",
+            "pref_label": "Phase IIb Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C49688"
+        },
+        {
+            "alt_label": "3;Trial Phase 3",
+            "definition": "Phase 3. Studies are expanded controlled and uncontrolled trials. They are performed after preliminary evidence suggesting effectiveness of the drug has been obtained, and are intended to gather the additional information about effectiveness and safety that is needed to confirm efficacy and evaluate the overall benefit-risk relationship of the drug and to provide an adequate basis for physician labeling. NOTE: Phase 3 studies usually include from several hundred to several thousand subjects. [After FDA CDER Handbook, ICH E8] (CDISC glossary)",
+            "identifier": "C15602",
+            "notation": "PHASE III TRIAL",
+            "pref_label": "Phase III Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C15602"
+        },
+        {
+            "alt_label": "3A;Trial Phase 3A",
+            "definition": "A classification typically assigned retrospectively to a Phase III trial upon determination by regulatory authorities of a need for a Phase III B trial. (NCI)",
+            "identifier": "C49687",
+            "notation": "PHASE IIIA TRIAL",
+            "pref_label": "Phase IIIa Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C49687"
+        },
+        {
+            "alt_label": "3B;Trial Phase 3B",
+            "definition": "A subcategory of Phase III trials done near the time of approval to elicit additional findings. NOTE: Dossier review may continue while associated Phase IIIB trials are conducted. These trials may be required as a condition of regulatory authority approval.",
+            "identifier": "C49689",
+            "notation": "PHASE IIIB TRIAL",
+            "pref_label": "Phase IIIb Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C49689"
+        },
+        {
+            "alt_label": "4;Trial Phase 4",
+            "definition": "Phase 4. Postmarketing (Phase 4) studies to delineate additional information about the drug's risks, benefits, and optimal use that may be requested by regulatory authorities in conjunction with marketing approval. NOTE: These studies could include, but would not be limited to, studying different doses or schedules of administration than were used in Phase 2 studies, use of the drug in other patient populations or other stages of the disease, or use of the drug over a longer period of time. [After FDA CDER Handbook, ICH E8] (CDISC glossary)",
+            "identifier": "C15603",
+            "notation": "PHASE IV TRIAL",
+            "pref_label": "Phase IV Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C15603"
+        },
+        {
+            "alt_label": "5;Trial Phase 5",
+            "definition": "Postmarketing surveillance is sometimes referred to as Phase V.",
+            "identifier": "C47865",
+            "notation": "PHASE V TRIAL",
+            "pref_label": "Phase V Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66737-C47865"
+        }
+    ]
+}

@@ -1,0 +1,1484 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Action Taken With Device",
+            "definition": "Action taken with respect to a device in a study, which may or may not be the device under study.",
+            "identifier": "C117037",
+            "notation": "Action Taken With Device",
+            "pref_label": "Action Taken with Device",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C117037"
+        },
+        {
+            "alt_label": "Action Taken With Subject",
+            "definition": "Action taken with respect to a subject in a study.",
+            "identifier": "C163412",
+            "notation": "Action Taken With Subject",
+            "pref_label": "Action Taken With Subject",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C163412"
+        },
+        {
+            "alt_label": "Acute Myocardial Infarction Type",
+            "definition": "Categorization of the type of acute myocardial infarction.",
+            "identifier": "C118936",
+            "notation": "Acute Myocardial Infarction Type",
+            "pref_label": "Acute Myocardial Infarction Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C118936"
+        },
+        {
+            "alt_label": "Age At First Episode",
+            "definition": "The age at which the first episode occurred.",
+            "identifier": "C124438",
+            "notation": "Age At First Episode",
+            "pref_label": "Age at First Episode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124438"
+        },
+        {
+            "alt_label": "Age At First Hospitalization",
+            "definition": "The age at which the first hospitalization event occurred.",
+            "identifier": "C124439",
+            "notation": "Age At First Hospitalization",
+            "pref_label": "Age at First Hospitalization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124439"
+        },
+        {
+            "alt_label": "Age At First Treatment",
+            "definition": "The age at which the first treatment for the condition occurred.",
+            "identifier": "C124440",
+            "notation": "Age At First Treatment",
+            "pref_label": "Age at First Treatment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124440"
+        },
+        {
+            "alt_label": "Age at Full-Time Use",
+            "definition": "The age at which the full-time use of a pre-specified object first occurred.",
+            "identifier": "C139175",
+            "notation": "Age at Full-Time Use",
+            "pref_label": "Age at Full-Time Use",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C139175"
+        },
+        {
+            "alt_label": "Age Symptoms Started",
+            "definition": "The age at which illness-specific symptoms first began.",
+            "identifier": "C174273",
+            "notation": "Age Symptoms Started",
+            "pref_label": "Age Symptom Started",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C174273"
+        },
+        {
+            "alt_label": "Anatomical Location of Primary Lesion",
+            "definition": "The anatomical location of the lesion that has been determined to be the primary lesion.",
+            "identifier": "C181315",
+            "notation": "Anatomical Location of Primary Lesion",
+            "pref_label": "Anatomical Location of Primary Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C181315"
+        },
+        {
+            "alt_label": "Biopsy Specimen Taken Indicator",
+            "definition": "An indication as to whether a biopsy specimen was collected.",
+            "identifier": "C181316",
+            "notation": "Biopsy Specimen Taken Indicator",
+            "pref_label": "Biopsy Specimen Taken Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C181316"
+        },
+        {
+            "alt_label": "Calories Burned",
+            "definition": "A measurement of the number of calories expended.",
+            "identifier": "C172476",
+            "notation": "Calories Burned",
+            "pref_label": "Calories Burned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172476"
+        },
+        {
+            "alt_label": "Clinic Stay Indicator",
+            "definition": "An indication as to whether the subject was admitted to a healthcare clinic.",
+            "identifier": "C124442",
+            "notation": "Clinic Stay Indicator",
+            "pref_label": "Clinic Stay Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124442"
+        },
+        {
+            "alt_label": "Coronary Artery Thrombosis Method Ident",
+            "definition": "The method by which the coronary artery thrombosis event is determined or diagnosed.",
+            "identifier": "C119229",
+            "notation": "Coronary Artery Thrombosis Method Ident",
+            "pref_label": "Coronary Artery Thrombosis Method of Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119229"
+        },
+        {
+            "alt_label": "Cumulative Exposure",
+            "definition": "The total amount that a subject is exposed to over time.",
+            "identifier": "C94596",
+            "notation": "Cumulative Exposure",
+            "pref_label": "Cumulative Exposure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C94596"
+        },
+        {
+            "alt_label": "Diagnostic Criteria Met",
+            "definition": "A description of the diagnostic criteria that the subject fulfilled in order to establish a medical diagnosis.",
+            "identifier": "C117883",
+            "notation": "Diagnostic Criteria Met",
+            "pref_label": "Which Diagnostic Criteria Met",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C117883"
+        },
+        {
+            "alt_label": "Diameter",
+            "definition": "The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference. (NCI)",
+            "identifier": "C25285",
+            "notation": "Diameter",
+            "pref_label": "Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C25285"
+        },
+        {
+            "alt_label": "Dietary Added Sugar",
+            "definition": "A determination of the total added sugars in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172463",
+            "notation": "Dietary Added Sugar",
+            "pref_label": "Dietary Added Sugar Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172463"
+        },
+        {
+            "alt_label": "Dietary Added Vitamin B12",
+            "definition": "A determination of the total added vitamin B12 in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184461",
+            "notation": "Dietary Added Vitamin B12",
+            "pref_label": "Dietary Added Vitamin B12 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184461"
+        },
+        {
+            "alt_label": "Dietary Added Vitamin E",
+            "definition": "A determination of the total added vitamin E in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184462",
+            "notation": "Dietary Added Vitamin E",
+            "pref_label": "Dietary Added Vitamin E Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184462"
+        },
+        {
+            "alt_label": "Dietary Alcohol;Dietary Ethanol",
+            "definition": "A determination of the total amount of alcohol in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184463",
+            "notation": "Dietary Alcohol",
+            "pref_label": "Dietary Alcohol Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184463"
+        },
+        {
+            "alt_label": "Dietary Alpha Carotene",
+            "definition": "A determination of the alpha carotene in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184449",
+            "notation": "Dietary Alpha Carotene",
+            "pref_label": "Dietary Alpha Carotene Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184449"
+        },
+        {
+            "alt_label": "Dietary Alpha Tocopherol",
+            "definition": "A determination of the alpha tocopherol in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184450",
+            "notation": "Dietary Alpha Tocopherol",
+            "pref_label": "Dietary Alpha Tocopherol Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184450"
+        },
+        {
+            "alt_label": "Dietary 20:4 Arachidonate;Dietary 20:4 Arachidonic Acid;Dietary Arachidonic Acid",
+            "definition": "A determination of the total 20:4 arachidonic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184441",
+            "notation": "Dietary Arachidonic Acid",
+            "pref_label": "Dietary Arachidonic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184441"
+        },
+        {
+            "alt_label": "Dietary Beans and Peas",
+            "definition": "A determination of the total beans and peas in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184465",
+            "notation": "Dietary Beans and Peas",
+            "pref_label": "Dietary Beans and Peas Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184465"
+        },
+        {
+            "alt_label": "Dietary Beta Carotene",
+            "definition": "A determination of the beta carotene in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184451",
+            "notation": "Dietary Beta Carotene",
+            "pref_label": "Dietary Beta Carotene Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184451"
+        },
+        {
+            "alt_label": "Dietary 4:0 Butyrate;Dietary 4:0 Butyric Acid;Dietary Butyric Acid",
+            "definition": "A determination of the total 4:0 butyric acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184446",
+            "notation": "Dietary Butyric Acid",
+            "pref_label": "Dietary Butyric Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184446"
+        },
+        {
+            "alt_label": "Dietary Caffeine",
+            "definition": "A determination of the caffeine in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184452",
+            "notation": "Dietary Caffeine",
+            "pref_label": "Dietary Caffeine Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184452"
+        },
+        {
+            "alt_label": "Dietary Calcium",
+            "definition": "A determination of the total calcium in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184453",
+            "notation": "Dietary Calcium",
+            "pref_label": "Dietary Calcium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184453"
+        },
+        {
+            "alt_label": "Dietary Calories",
+            "definition": "A determination of the total dietary calories in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172464",
+            "notation": "Dietary Calories",
+            "pref_label": "Dietary Calories Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172464"
+        },
+        {
+            "alt_label": "Dietary 10:0 Caprate;Dietary 10:0 Capric Acid;Dietary Capric Acid",
+            "definition": "A determination of the total 10:0 capric acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184430",
+            "notation": "Dietary Capric Acid",
+            "pref_label": "Dietary Capric Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184430"
+        },
+        {
+            "alt_label": "Dietary 6:0 Caproate;Dietary 6:0 Caproic Acid;Dietary Caproic Acid",
+            "definition": "A determination of the total 6:0 caproic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184447",
+            "notation": "Dietary Caproic Acid",
+            "pref_label": "Dietary Caproic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184447"
+        },
+        {
+            "alt_label": "Dietary 8:0 Caprylate;Dietary 8:0 Caprylic Acid;Dietary Caprylic Acid",
+            "definition": "A determination of the total 8:0 caprylic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184448",
+            "notation": "Dietary Caprylic Acid",
+            "pref_label": "Dietary Caprylic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184448"
+        },
+        {
+            "alt_label": "Dietary Cheese",
+            "definition": "A determination of the total cheese in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184454",
+            "notation": "Dietary Cheese",
+            "pref_label": "Dietary Cheese Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184454"
+        },
+        {
+            "alt_label": "Dietary Cholesterol",
+            "definition": "A determination of the total cholesterol in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184466",
+            "notation": "Dietary Cholesterol",
+            "pref_label": "Dietary Cholesterol Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184466"
+        },
+        {
+            "alt_label": "Dietary Choline",
+            "definition": "A determination of the choline in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184467",
+            "notation": "Dietary Choline",
+            "pref_label": "Dietary Choline Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184467"
+        },
+        {
+            "alt_label": "Dietary Citrus, Melons, and Berries",
+            "definition": "A determination of the total citrus, melons, and berries in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184468",
+            "notation": "Dietary Citrus, Melons, and Berries",
+            "pref_label": "Dietary Citrus, Melons, and Berries Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184468"
+        },
+        {
+            "alt_label": "Dietary 22:5 Clupanodonate;Dietary 22:5 Clupanodonic Acid;Dietary Clupanodonic Acid",
+            "definition": "A determination of the total 22:5 clupanodonic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184444",
+            "notation": "Dietary Clupanodonic Acid",
+            "pref_label": "Dietary Clupanodonic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184444"
+        },
+        {
+            "alt_label": "Dietary Copper",
+            "definition": "A determination of the total copper in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184455",
+            "notation": "Dietary Copper",
+            "pref_label": "Dietary Copper Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184455"
+        },
+        {
+            "alt_label": "Dietary 22:6 Docosahexaenoate;Dietary 22:6 Docosahexaenoic Acid;Dietary Docosahexaenoic Acid",
+            "definition": "A determination of the total 22:6 docosahexaenoic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184445",
+            "notation": "Dietary Docosahexaenoic Acid",
+            "pref_label": "Dietary Docosahexaenoic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184445"
+        },
+        {
+            "alt_label": "Dietary Eggs",
+            "definition": "A determination of the eggs in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184471",
+            "notation": "Dietary Eggs",
+            "pref_label": "Dietary Eggs Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184471"
+        },
+        {
+            "alt_label": "Dietary 22:1 Erucate;Dietary 22:1 Erucic Acid;Dietary Erucic Acid",
+            "definition": "A determination of the total 22:1 erucic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184443",
+            "notation": "Dietary Erucic Acid",
+            "pref_label": "Dietary Erucic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184443"
+        },
+        {
+            "alt_label": "Dietary Fat, Monounsaturated",
+            "definition": "A determination of the total monounsaturated fat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172471",
+            "notation": "Dietary Fat, Monounsaturated",
+            "pref_label": "Dietary Monounsaturated Fat Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172471"
+        },
+        {
+            "alt_label": "Dietary Fat, Polyunsaturated",
+            "definition": "A determination of the total polyunsaturated fat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172472",
+            "notation": "Dietary Fat, Polyunsaturated",
+            "pref_label": "Dietary Polyunsaturated Fat Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172472"
+        },
+        {
+            "alt_label": "Dietary Fat, Saturated",
+            "definition": "A determination of the total saturated fat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172470",
+            "notation": "Dietary Fat, Saturated",
+            "pref_label": "Dietary Saturated Fat Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172470"
+        },
+        {
+            "alt_label": "Dietary Fat, Total",
+            "definition": "A determination of the total fat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172460",
+            "notation": "Dietary Fat, Total",
+            "pref_label": "Total Dietary Fat Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172460"
+        },
+        {
+            "alt_label": "Dietary Fiber",
+            "definition": "A determination of the total fiber in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172469",
+            "notation": "Dietary Fiber",
+            "pref_label": "Dietary Fiber Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172469"
+        },
+        {
+            "alt_label": "Dietary Fruit Juice",
+            "definition": "A determination of the fruit juice in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184472",
+            "notation": "Dietary Fruit Juice",
+            "pref_label": "Dietary Fruit Juice Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184472"
+        },
+        {
+            "alt_label": "Dietary Fruit",
+            "definition": "A determination of the total fruit in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172465",
+            "notation": "Dietary Fruit",
+            "pref_label": "Dietary Fruit Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172465"
+        },
+        {
+            "alt_label": "Dietary 20:1 Gadoleate;Dietary 20:1 Gadoleic Acid;Dietary Gadoleic Acid",
+            "definition": "A determination of the total 20:1 gadoleic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184440",
+            "notation": "Dietary Gadoleic Acid",
+            "pref_label": "Dietary Gadoleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184440"
+        },
+        {
+            "alt_label": "Dietary Grain",
+            "definition": "A determination of the total grain in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172467",
+            "notation": "Dietary Grain",
+            "pref_label": "Dietary Grain Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172467"
+        },
+        {
+            "alt_label": "Dietary Grain, Refined",
+            "definition": "A determination of the total refined grains in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184484",
+            "notation": "Dietary Grain, Refined",
+            "pref_label": "Dietary Grain, Refined Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184484"
+        },
+        {
+            "alt_label": "Dietary Iron",
+            "definition": "A determination of the total iron in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184456",
+            "notation": "Dietary Iron",
+            "pref_label": "Dietary Iron Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184456"
+        },
+        {
+            "alt_label": "Dietary 12:0 Laurate;Dietary 12:0 Lauric Acid;Dietary Lauric Acid",
+            "definition": "A determination of the total 12:0 lauric acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184431",
+            "notation": "Dietary Lauric Acid",
+            "pref_label": "Dietary Lauric Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184431"
+        },
+        {
+            "alt_label": "Dietary 18:2 Linoleate;Dietary 18:2 Linoleic Acid;Dietary Linoleic Acid",
+            "definition": "A determination of the total 18:2 linoleic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184437",
+            "notation": "Dietary Linoleic Acid",
+            "pref_label": "Dietary Linoleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184437"
+        },
+        {
+            "alt_label": "Dietary 18:3 Linolenate;Dietary 18:3 Linolenic Acid;Dietary Linolenic Acid",
+            "definition": "A determination of the total 18:3 linolenic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184438",
+            "notation": "Dietary Linolenic Acid",
+            "pref_label": "Dietary Linolenic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184438"
+        },
+        {
+            "alt_label": "Dietary Lutein and Zeaxanthin",
+            "definition": "A determination of the lutein and zeaxanthin in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184473",
+            "notation": "Dietary Luteinzeaxanthin",
+            "pref_label": "Dietary Lutein and Zeaxanthin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184473"
+        },
+        {
+            "alt_label": "Dietary Lycopene",
+            "definition": "A determination of the lycopene in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184474",
+            "notation": "Dietary Lycopene",
+            "pref_label": "Dietary Lycopene Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184474"
+        },
+        {
+            "alt_label": "Dietary Magnesium",
+            "definition": "A determination of the total magnesium in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172462",
+            "notation": "Dietary Magnesium",
+            "pref_label": "Dietary Magnesium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172462"
+        },
+        {
+            "alt_label": "Dietary Meat",
+            "definition": "A determination of the total meat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172468",
+            "notation": "Dietary Meat",
+            "pref_label": "Dietary Meat Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172468"
+        },
+        {
+            "alt_label": "Dietary Meat, Cured",
+            "definition": "A determination of the cured meat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184469",
+            "notation": "Dietary Meat, Cured",
+            "pref_label": "Dietary Meat, Cured Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184469"
+        },
+        {
+            "alt_label": "Dietary Meat, Organ",
+            "definition": "A determination of the organ meat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184480",
+            "notation": "Dietary Meat, Organ",
+            "pref_label": "Dietary Meat, Organ Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184480"
+        },
+        {
+            "alt_label": "Dietary Meat, Poultry, and Seafood",
+            "definition": "A determination of the total meat, poultry, and seafood in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184504",
+            "notation": "Dietary Meat, Poultry, and Seafood",
+            "pref_label": "Dietary Meat, Poultry, and Seafood Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184504"
+        },
+        {
+            "alt_label": "Dietary Milk",
+            "definition": "A determination of the milk in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184475",
+            "notation": "Dietary Milk",
+            "pref_label": "Dietary Milk Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184475"
+        },
+        {
+            "alt_label": "Dietary Moisture",
+            "definition": "A determination of the moisture content in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184476",
+            "notation": "Dietary Moisture",
+            "pref_label": "Dietary Moisture Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184476"
+        },
+        {
+            "alt_label": "Dietary 14:0 Myristate;Dietary 14:0 Myristic Acid;Dietary Myristic Acid",
+            "definition": "A determination of the total 14:0 myristic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184432",
+            "notation": "Dietary Myristic Acid",
+            "pref_label": "Dietary Myristic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184432"
+        },
+        {
+            "alt_label": "Dietary Niacin;Dietary Vitamin B3",
+            "definition": "A determination of the niacin in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184477",
+            "notation": "Dietary Niacin",
+            "pref_label": "Dietary Niacin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184477"
+        },
+        {
+            "alt_label": "Dietary Nuts and Seeds",
+            "definition": "A determination of the total nuts and seeds in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184478",
+            "notation": "Dietary Nuts and Seeds",
+            "pref_label": "Dietary Nuts and Seeds Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184478"
+        },
+        {
+            "alt_label": "Dietary Oils",
+            "definition": "A determination of the oils in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184479",
+            "notation": "Dietary Oils",
+            "pref_label": "Dietary Oils Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184479"
+        },
+        {
+            "alt_label": "Dietary 18:1 Oleate;Dietary 18:1 Oleic Acid;Dietary Oleic Acid",
+            "definition": "A determination of the total 18:1 oleic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184436",
+            "notation": "Dietary Oleic Acid",
+            "pref_label": "Dietary Oleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184436"
+        },
+        {
+            "alt_label": "Dietary 16:0 Palmitate;Dietary 16:0 Palmitic Acid;Dietary Palmitic Acid",
+            "definition": "A determination of the total 16:0 palmitic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184433",
+            "notation": "Dietary Palmitic Acid",
+            "pref_label": "Dietary Palmitic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184433"
+        },
+        {
+            "alt_label": "Dietary 16:1 Palmitoleate;Dietary 16:1 Palmitoleic Acid;Dietary Palmitoleic Acid",
+            "definition": "A determination of the total 16:1 palmitoleic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184434",
+            "notation": "Dietary Palmitoleic Acid",
+            "pref_label": "Dietary Palmitoleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184434"
+        },
+        {
+            "alt_label": "Dietary 18:4 Parinarate;Dietary 18:4 Parinaric Acid;Dietary Parinaric Acid",
+            "definition": "A determination of the total 18:4 parinaric acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184439",
+            "notation": "Dietary Parinaric Acid",
+            "pref_label": "Dietary Parinaric Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184439"
+        },
+        {
+            "alt_label": "Dietary Phosphorus",
+            "definition": "A determination of the phosphorus in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184481",
+            "notation": "Dietary Phosphorus",
+            "pref_label": "Dietary Phosphorus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184481"
+        },
+        {
+            "alt_label": "Dietary Potassium",
+            "definition": "A determination of the total potassium in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184457",
+            "notation": "Dietary Potassium",
+            "pref_label": "Dietary Potassium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184457"
+        },
+        {
+            "alt_label": "Dietary Potatoes",
+            "definition": "A determination of the potatoes in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184482",
+            "notation": "Dietary Potatoes",
+            "pref_label": "Dietary Potatoes Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184482"
+        },
+        {
+            "alt_label": "Dietary Poultry",
+            "definition": "A determination of the poultry in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184483",
+            "notation": "Dietary Poultry",
+            "pref_label": "Dietary Poultry Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184483"
+        },
+        {
+            "alt_label": "Dietary Protein Foods",
+            "definition": "A determination of the protein-rich food in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184494",
+            "notation": "Dietary Protein Foods",
+            "pref_label": "Dietary Protein Foods Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184494"
+        },
+        {
+            "alt_label": "Dietary Protein",
+            "definition": "A determination of the total protein in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172459",
+            "notation": "Dietary Protein",
+            "pref_label": "Dietary Protein Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172459"
+        },
+        {
+            "alt_label": "Dietary Retinol;Dietary Vitamin A",
+            "definition": "A determination of the retinol in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184485",
+            "notation": "Dietary Retinol",
+            "pref_label": "Dietary Retinol Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184485"
+        },
+        {
+            "alt_label": "Dietary Riboflavin;Dietary Vitamin B2",
+            "definition": "A determination of the riboflavin in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184486",
+            "notation": "Dietary Riboflavin",
+            "pref_label": "Dietary Riboflavin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184486"
+        },
+        {
+            "alt_label": "Dietary Seafood High in n-3 Fatty Acids",
+            "definition": "A determination of the seafood high in n-3 fatty acids in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184487",
+            "notation": "Dietary Seafood High in n-3 Fatty Acids",
+            "pref_label": "Dietary Seafood High in n-3 Fatty Acids Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184487"
+        },
+        {
+            "alt_label": "Dietary Seafood Low in n-3 Fatty Acids",
+            "definition": "A determination of the seafood low in n-3 fatty acids in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184488",
+            "notation": "Dietary Seafood Low in n-3 Fatty Acids",
+            "pref_label": "Dietary Seafood Low in n-3 Fatty Acids Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184488"
+        },
+        {
+            "alt_label": "Dietary Selenium",
+            "definition": "A determination of the total selenium in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184458",
+            "notation": "Dietary Selenium",
+            "pref_label": "Dietary Selenium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184458"
+        },
+        {
+            "alt_label": "Dietary Sodium",
+            "definition": "A determination of the total sodium in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184459",
+            "notation": "Dietary Sodium",
+            "pref_label": "Dietary Sodium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184459"
+        },
+        {
+            "alt_label": "Dietary Solid Fats",
+            "definition": "A determination of the solid fats in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184489",
+            "notation": "Dietary Solid Fats",
+            "pref_label": "Dietary Solid Fats Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184489"
+        },
+        {
+            "alt_label": "Dietary Soy Products",
+            "definition": "A determination of the soy-containing products in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184490",
+            "notation": "Dietary Soy Products",
+            "pref_label": "Dietary Soy Products Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184490"
+        },
+        {
+            "alt_label": "Dietary 18:0 Stearate;Dietary 18:0 Stearic Acid;Dietary Stearic Acid",
+            "definition": "A determination of the total 18:0 stearic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184435",
+            "notation": "Dietary Stearic Acid",
+            "pref_label": "Dietary Stearic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184435"
+        },
+        {
+            "alt_label": "Dietary Theobromine",
+            "definition": "A determination of the theobromine in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184491",
+            "notation": "Dietary Theobromine",
+            "pref_label": "Dietary Theobromine Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184491"
+        },
+        {
+            "alt_label": "Dietary Thiamin;Dietary Thiamine;Dietary Vitamin B1",
+            "definition": "A determination of the thiamine in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184492",
+            "notation": "Dietary Thiamine",
+            "pref_label": "Dietary Thiamine Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184492"
+        },
+        {
+            "alt_label": "Dietary 20:5 Timnodonate;Dietary 20:5 Timnodonic Acid;Dietary Timnodonic Acid",
+            "definition": "A determination of the total 20:5 timnodonic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184442",
+            "notation": "Dietary Timnodonic Acid",
+            "pref_label": "Dietary Timnodonic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184442"
+        },
+        {
+            "alt_label": "Dietary Tomatoes",
+            "definition": "A determination of the tomatoes in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184493",
+            "notation": "Dietary Tomatoes",
+            "pref_label": "Dietary Tomatoes Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184493"
+        },
+        {
+            "alt_label": "Dietary Total Carbohydrate",
+            "definition": "A determination of the total carbohydrate in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172461",
+            "notation": "Dietary Total Carbohydrate",
+            "pref_label": "Total Dietary Carbohydrate Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172461"
+        },
+        {
+            "alt_label": "Dietary Total Dairy",
+            "definition": "A determination of the total dairy (food products produced from or containing milk) in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184337",
+            "notation": "Dietary Total Dairy",
+            "pref_label": "Dietary Dairy Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184337"
+        },
+        {
+            "alt_label": "Dietary Total Sugars",
+            "definition": "A determination of the total sugars in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184338",
+            "notation": "Dietary Total Sugars",
+            "pref_label": "Dietary Sugar Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184338"
+        },
+        {
+            "alt_label": "Dietary Vegetable",
+            "definition": "A determination of the total vegetables in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172466",
+            "notation": "Dietary Vegetable",
+            "pref_label": "Dietary Vegetable Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172466"
+        },
+        {
+            "alt_label": "Dietary Vegetables, Dark Green",
+            "definition": "A determination of the total dark green vegetables in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184470",
+            "notation": "Dietary Vegetables, Dark Green",
+            "pref_label": "Dietary Vegetables, Dark Green Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184470"
+        },
+        {
+            "alt_label": "Dietary Vegetables, Red and Orange",
+            "definition": "A determination of the total red and orange vegetables in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184495",
+            "notation": "Dietary Vegetables, Red and Orange",
+            "pref_label": "Dietary Vegetables, Red and Orange Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184495"
+        },
+        {
+            "alt_label": "Dietary Vegetables, Starchy",
+            "definition": "A determination of the total starchy vegetables in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184496",
+            "notation": "Dietary Vegetables, Starchy",
+            "pref_label": "Dietary Vegetables, Starchy Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184496"
+        },
+        {
+            "alt_label": "Dietary Vitamin A",
+            "definition": "A determination of the total vitamin A in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184497",
+            "notation": "Dietary Vitamin A",
+            "pref_label": "Dietary Vitamin A Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184497"
+        },
+        {
+            "alt_label": "Dietary Vitamin B12",
+            "definition": "A determination of the total vitamin B12 in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184353",
+            "notation": "Dietary Vitamin B12",
+            "pref_label": "Dietary Vitamin B12 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184353"
+        },
+        {
+            "alt_label": "Dietary Vitamin B6",
+            "definition": "A determination of the total vitamin B6 in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184498",
+            "notation": "Dietary Vitamin B6",
+            "pref_label": "Dietary Vitamin B6 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184498"
+        },
+        {
+            "alt_label": "Dietary Vitamin C",
+            "definition": "A determination of the total vitamin C in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184499",
+            "notation": "Dietary Vitamin C",
+            "pref_label": "Dietary Vitamin C Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184499"
+        },
+        {
+            "alt_label": "Dietary Vitamin D",
+            "definition": "A determination of the total vitamin D in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184500",
+            "notation": "Dietary Vitamin D",
+            "pref_label": "Dietary Vitamin D Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184500"
+        },
+        {
+            "alt_label": "Dietary Vitamin K",
+            "definition": "A determination of the total vitamin K in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184501",
+            "notation": "Dietary Vitamin K",
+            "pref_label": "Dietary Vitamin K Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184501"
+        },
+        {
+            "alt_label": "Dietary Whole Grains",
+            "definition": "A determination of the whole grains in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184502",
+            "notation": "Dietary Whole Grains",
+            "pref_label": "Dietary Whole Grains Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184502"
+        },
+        {
+            "alt_label": "Dietary Yogurt",
+            "definition": "A determination of the yogurt in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184503",
+            "notation": "Dietary Yogurt",
+            "pref_label": "Dietary Yogurt Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184503"
+        },
+        {
+            "alt_label": "Dietary Zinc",
+            "definition": "A determination of the total Zinc in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184460",
+            "notation": "Dietary Zinc",
+            "pref_label": "Dietary Zinc Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184460"
+        },
+        {
+            "alt_label": "Dispensed Amount",
+            "definition": "The quantity of a product that has been dispensed. (NCI)",
+            "identifier": "C78721",
+            "notation": "Dispensed Amount",
+            "pref_label": "Dispensed Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C78721"
+        },
+        {
+            "alt_label": "Distance",
+            "definition": "The actual or calculated span between two points (real or virtual).",
+            "identifier": "C25167",
+            "notation": "Distance",
+            "pref_label": "Distance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C25167"
+        },
+        {
+            "alt_label": "Drug Resistance Status",
+            "definition": "The state or condition of not responding to a pharmacological agent.",
+            "identifier": "C102626",
+            "notation": "Drug Resistance Status",
+            "pref_label": "Drug Resistance Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C102626"
+        },
+        {
+            "alt_label": "Endpoint Event Indicator",
+            "definition": "An indication as to whether the event meets the criteria for being a clinical endpoint.",
+            "identifier": "C119230",
+            "notation": "Endpoint Event Indicator",
+            "pref_label": "Endpoint Event Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119230"
+        },
+        {
+            "alt_label": "Estimated Entity Weight;Estimated Weight",
+            "definition": "An approximate determination of the weight of the entity.",
+            "identifier": "C174282",
+            "notation": "Estimated Weight",
+            "pref_label": "Estimated Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C174282"
+        },
+        {
+            "alt_label": "Event Frequency",
+            "definition": "The number of times an event occurs within a given time period.",
+            "identifier": "C25515",
+            "notation": "Event Frequency",
+            "pref_label": "Temporal Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C25515"
+        },
+        {
+            "alt_label": "Exclusion of Type 1 and Type 2 MI",
+            "definition": "An indication of whether a Type 1 and Type 2 myocardial infarction is excluded as a diagnosis.",
+            "identifier": "C119237",
+            "notation": "Exclusion of Type 1 and Type 2 MI",
+            "pref_label": "Exclusion of Type 1 and Type 2 Myocardial Infarction Diagnosis Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119237"
+        },
+        {
+            "alt_label": "Exercise Compliance",
+            "definition": "A determination or assessment of the extent to which an individual adheres to a fitness program.",
+            "identifier": "C172474",
+            "notation": "Exercise Compliance",
+            "pref_label": "Exercise Compliance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172474"
+        },
+        {
+            "alt_label": "Exercise Duration",
+            "definition": "The length of time an individual spends exercising.",
+            "identifier": "C172475",
+            "notation": "Exercise Duration",
+            "pref_label": "Exercise Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172475"
+        },
+        {
+            "alt_label": "Exercise Intensity",
+            "definition": "A determination or assessment of the degree or magnitude of an individual's exertion during physical activity.",
+            "identifier": "C172473",
+            "notation": "Exercise Intensity",
+            "pref_label": "Exercise Intensity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172473"
+        },
+        {
+            "alt_label": "Expected Efficacious Treatment Reg Ind;Expected Efficacious Treatment Regimen Indicator",
+            "definition": "An indication as to whether the subject has been on a treatment regimen which, based on defined criteria, is expected to be efficacious.",
+            "identifier": "C181310",
+            "notation": "Expected Efficacious Treatment Reg Ind",
+            "pref_label": "Expected Efficacious Treatment Regimen Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C181310"
+        },
+        {
+            "alt_label": "Extent of Resection",
+            "definition": "A description of the relative amount of tissue, blood vessel, or organ that has been removed.",
+            "identifier": "C157443",
+            "notation": "Extent of Resection",
+            "pref_label": "Extent of Resection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C157443"
+        },
+        {
+            "alt_label": "Fistula Anatomical Type",
+            "definition": "A classification based on the anatomical location(s) of the fistula.",
+            "identifier": "C181314",
+            "notation": "Fistula Anatomical Type",
+            "pref_label": "Fistula Anatomical Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C181314"
+        },
+        {
+            "alt_label": "Healthcare Encounter Type",
+            "definition": "Categorization of the type of healthcare encounter.",
+            "identifier": "C119231",
+            "notation": "Healthcare Encounter Type",
+            "pref_label": "Healthcare Encounter Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119231"
+        },
+        {
+            "alt_label": "Heart Failure New/Worsening Lab Findings",
+            "definition": "Categorization of the type(s) of new and/or worsening laboratory findings of heart failure present at the time of patient presentation.",
+            "identifier": "C119232",
+            "notation": "Heart Failure New/Worsening Lab Findings",
+            "pref_label": "Lab Findings of New or Worsening Heart Failure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119232"
+        },
+        {
+            "alt_label": "Heart Failure New/Worsening PE Findings",
+            "definition": "Categorization of the type(s) of new and/or worsening physical exam findings of heart failure present at the time of patient presentation.",
+            "identifier": "C119233",
+            "notation": "Heart Failure New/Worsening PE Findings",
+            "pref_label": "Physical Examination Findings of New or Worsening Heart Failure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119233"
+        },
+        {
+            "alt_label": "Heart Failure Therapy, Intensification",
+            "definition": "Categorization of the type(s) of new and/or intensified treatment administered for heart failure management.",
+            "identifier": "C119234",
+            "notation": "Heart Failure Therapy, Intensification",
+            "pref_label": "Heart Failure Therapy Intensification Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119234"
+        },
+        {
+            "alt_label": "Ileocecal Junction Removed Indicator",
+            "definition": "An indication as to whether the ileocecal junction was removed.",
+            "identifier": "C174279",
+            "notation": "Ileocecal Junction Removed Indicator",
+            "pref_label": "Ileocecal Junction Removed Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C174279"
+        },
+        {
+            "alt_label": "Ischemic Discomfort Indicator",
+            "definition": "An indicator as to whether the subject has symptoms of ischemic discomfort.",
+            "identifier": "C119235",
+            "notation": "Ischemic Discomfort Indicator",
+            "pref_label": "Ischemic Discomfort Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119235"
+        },
+        {
+            "alt_label": "Ischemic Evidence Type",
+            "definition": "Categorization of the type of objective evidence of new or worsening ischemia.",
+            "identifier": "C119236",
+            "notation": "Ischemic Evidence Type",
+            "pref_label": "Ischemic Evidence Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119236"
+        },
+        {
+            "alt_label": "Length of Resection",
+            "definition": "A measurement of the total length of the removed tissue, blood vessel, or organ.",
+            "identifier": "C174278",
+            "notation": "Length of Resection",
+            "pref_label": "Length of Resection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C174278"
+        },
+        {
+            "alt_label": "Localization of Onset",
+            "definition": "The anatomical location of the beginning or early stages of a disease.",
+            "identifier": "C117884",
+            "notation": "Localization of Onset",
+            "pref_label": "Location of Disease Onset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C117884"
+        },
+        {
+            "alt_label": "Largest Diameter of Primary Lesion;Longest Diameter of Primary Lesion",
+            "definition": "The longest diameter of the lesion that has been determined to be the primary lesion.",
+            "identifier": "C181311",
+            "notation": "Longest Diameter of Primary Lesion",
+            "pref_label": "Longest Diameter of Primary Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C181311"
+        },
+        {
+            "alt_label": "Longest Diameter",
+            "definition": "The longest possible length of a straight line passing through the center of a circular or spheroid object that connects two points on the circumference.",
+            "identifier": "C96684",
+            "notation": "Longest Diameter",
+            "pref_label": "Longest Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C96684"
+        },
+        {
+            "alt_label": "Longitudinal Course",
+            "definition": "A description of the series of events, including signs and symptoms, that define the course of a chronic disease over time.",
+            "identifier": "C35461",
+            "notation": "Longitudinal Course",
+            "pref_label": "Clinical Course of Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C35461"
+        },
+        {
+            "alt_label": "Most Severe Acute Stressor",
+            "definition": "The agent, stimulus, activity, or event that causes stress with an acute frequency, which has the highest level of severity.",
+            "identifier": "C124437",
+            "notation": "Most Severe Acute Stressor",
+            "pref_label": "Most Severe Acute Stressor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124437"
+        },
+        {
+            "alt_label": "Most Severe Chronic Stressor",
+            "definition": "The agent, stimulus, activity, or event that causes stress with a chronic frequency, which has the highest level of severity.",
+            "identifier": "C124441",
+            "notation": "Most Severe Chronic Stressor",
+            "pref_label": "Most Severe Chronic Stressor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124441"
+        },
+        {
+            "alt_label": "Needle Gauge",
+            "definition": "A number representing the outer diameter of a needle. (NCI)",
+            "identifier": "C101687",
+            "notation": "Needle Gauge",
+            "pref_label": "Needle Gauge",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C101687"
+        },
+        {
+            "alt_label": "New or Worsening Symptoms",
+            "definition": "A description of the new or worsening symptoms related to a clinical event.",
+            "identifier": "C119238",
+            "notation": "New or Worsening Symptoms",
+            "pref_label": "New or Worsening Symptom",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119238"
+        },
+        {
+            "alt_label": "Non-Invasive Imaging Change",
+            "definition": "A description of the clinical change to the subject after a non-invasive imaging procedure.",
+            "identifier": "C123443",
+            "notation": "Non-Invasive Imaging Change",
+            "pref_label": "Clinical Change by Non-Invasive Imaging Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C123443"
+        },
+        {
+            "alt_label": "Number of Abscesses",
+            "definition": "The number of abscesses observed.",
+            "identifier": "C181313",
+            "notation": "Number of Abscesses",
+            "pref_label": "Number of Abscesses",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C181313"
+        },
+        {
+            "alt_label": "Number of Alcoholic Drinks",
+            "definition": "The total number of alcoholic drinks.",
+            "identifier": "C184464",
+            "notation": "Number of Alcoholic Drinks",
+            "pref_label": "Number of Alcoholic Drinks Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184464"
+        },
+        {
+            "alt_label": "Number of Biopsy Specimens Taken",
+            "definition": "The total number of biopsy specimens collected.",
+            "identifier": "C181317",
+            "notation": "Number of Biopsy Specimens Taken",
+            "pref_label": "Number of Biopsy Specimens Taken",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C181317"
+        },
+        {
+            "alt_label": "Number of Devices Inserted",
+            "definition": "The number of devices inserted into an individual.",
+            "identifier": "C174280",
+            "notation": "Number of Devices Inserted",
+            "pref_label": "Number of Devices Inserted",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C174280"
+        },
+        {
+            "alt_label": "Number of Episodes",
+            "definition": "The total number of episodes that have occurred for the condition.",
+            "identifier": "C124281",
+            "notation": "Number of Episodes",
+            "pref_label": "Number of Episodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124281"
+        },
+        {
+            "alt_label": "Number of Events",
+            "definition": "The total number of events that have occurred.",
+            "identifier": "C130057",
+            "notation": "Number of Events",
+            "pref_label": "Number of Events",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C130057"
+        },
+        {
+            "alt_label": "Number of Fistulas",
+            "definition": "The number of fistulas observed.",
+            "identifier": "C181312",
+            "notation": "Number of Fistulas",
+            "pref_label": "Number of Fistulas",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C181312"
+        },
+        {
+            "alt_label": "Number Of Hospitalizations",
+            "definition": "The total number of hospitalization events that have occurred for the condition.",
+            "identifier": "C124443",
+            "notation": "Number Of Hospitalizations",
+            "pref_label": "Number of Hospitalizations",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124443"
+        },
+        {
+            "alt_label": "Number of Laps Completed",
+            "definition": "The number of laps completed around a course or circuit.",
+            "identifier": "C172478",
+            "notation": "Number of Laps Completed",
+            "pref_label": "Number of Laps Completed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172478"
+        },
+        {
+            "alt_label": "Number of Lesions",
+            "definition": "The number of lesions observed.",
+            "identifier": "C174277",
+            "notation": "Number of Lesions",
+            "pref_label": "Number of Lesions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C174277"
+        },
+        {
+            "alt_label": "Number of Mild Episodes",
+            "definition": "The number of times an event, which is classified as mild, occurred.",
+            "identifier": "C124328",
+            "notation": "Number of Mild Episodes",
+            "pref_label": "Number of Mild Episodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124328"
+        },
+        {
+            "alt_label": "Number of Moderate Episodes",
+            "definition": "The number of times an event, which is classified as moderate, occurred.",
+            "identifier": "C124329",
+            "notation": "Number of Moderate Episodes",
+            "pref_label": "Number of Moderate Episodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124329"
+        },
+        {
+            "alt_label": "Number of Objects",
+            "definition": "The number of objects observed.",
+            "identifier": "C174275",
+            "notation": "Number of Objects",
+            "pref_label": "Number of Objects",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C174275"
+        },
+        {
+            "alt_label": "Number of Procedures Performed",
+            "definition": "The number of procedures performed on or in an individual.",
+            "identifier": "C174228",
+            "notation": "Number of Procedures Performed",
+            "pref_label": "Number of Procedures Performed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C174228"
+        },
+        {
+            "alt_label": "Number of Severe Episodes",
+            "definition": "The number of times an event, which is classified as severe, occurred.",
+            "identifier": "C124330",
+            "notation": "Number of Severe Episodes",
+            "pref_label": "Number of Severe Episodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124330"
+        },
+        {
+            "alt_label": "Number of Steps Taken",
+            "definition": "The number of footsteps taken by an individual.",
+            "identifier": "C172479",
+            "notation": "Number of Steps Taken",
+            "pref_label": "Number of Steps Taken",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172479"
+        },
+        {
+            "alt_label": "Number of Strictures",
+            "definition": "The number of anatomical strictures observed.",
+            "identifier": "C174274",
+            "notation": "Number of Strictures",
+            "pref_label": "Number of Strictures",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C174274"
+        },
+        {
+            "alt_label": "Occurrence Indicator",
+            "definition": "An indication as to whether something has happened, such as an event or incident.",
+            "identifier": "C127786",
+            "notation": "Occurrence Indicator",
+            "pref_label": "Occurrence Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C127786"
+        },
+        {
+            "alt_label": "Onset Unifocal or Multifocal",
+            "definition": "A categorization of the number of lesions present in the Central Nervous System at the time of diagnosis of a specific disease.",
+            "identifier": "C117885",
+            "notation": "Onset Unifocal or Multifocal",
+            "pref_label": "Focality of Disease Onset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C117885"
+        },
+        {
+            "alt_label": "Origin of Cancer Known Ind;Origin of Cancer Known Indicator",
+            "definition": "An indication as to whether the primary site of cancer is known.",
+            "identifier": "C154860",
+            "notation": "Origin of Cancer Known Ind",
+            "pref_label": "Cancer Primary Site Known Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C154860"
+        },
+        {
+            "alt_label": "Pathologic Appearance of Biopsy Site",
+            "definition": "A description of the appearance of the anatomical site from which a biopsy specimen has been collected.",
+            "identifier": "C181318",
+            "notation": "Pathologic Appearance of Biopsy Site",
+            "pref_label": "Pathologic Appearance of Biopsy Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C181318"
+        },
+        {
+            "alt_label": "PCI Acute Angiographic Complication",
+            "definition": "Categorization of the type of acute PCI angiographic complication resulting in acute myocardial ischemia.",
+            "identifier": "C119239",
+            "notation": "PCI Acute Angiographic Complication",
+            "pref_label": "Acute Myocardial Infarction From PCI Complication Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119239"
+        },
+        {
+            "alt_label": "Precipitating Factor",
+            "definition": "The factor that causes or triggers the onset of an occurrence.",
+            "identifier": "C163413",
+            "notation": "Precipitating Factor",
+            "pref_label": "Precipitating Factor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C163413"
+        },
+        {
+            "alt_label": "Prepared Amount",
+            "definition": "The quantity of a product that has been made ready for use.",
+            "identifier": "C170562",
+            "notation": "Prepared Amount",
+            "pref_label": "Prepared Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C170562"
+        },
+        {
+            "alt_label": "Prevents Daily Activities Indicator",
+            "definition": "An indication as to whether the event or intervention prevents or has prevented the performance of daily activities.",
+            "identifier": "C184724",
+            "notation": "Prevents Daily Activities Indicator",
+            "pref_label": "Prevents Daily Activities Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C184724"
+        },
+        {
+            "alt_label": "Primary Site of Tumor Origin",
+            "definition": "The anatomical location of the primary tumor site of disease.",
+            "identifier": "C179451",
+            "notation": "Primary Site of Tumor Origin",
+            "pref_label": "Primary Tumor Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C179451"
+        },
+        {
+            "alt_label": "Procedure Success Indicator",
+            "definition": "An indication as to whether the procedure is considered successful.",
+            "identifier": "C119240",
+            "notation": "Procedure Success Indicator",
+            "pref_label": "Procedure Success Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119240"
+        },
+        {
+            "alt_label": "Procedure Urgency Status Type",
+            "definition": "The degree of urgency in which a medical procedure must be performed.",
+            "identifier": "C101230",
+            "notation": "Procedure Urgency Status Type",
+            "pref_label": "Triage Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C101230"
+        },
+        {
+            "alt_label": "QOL Impact;Quality of Life Impact",
+            "definition": "The effect or consequence of an event or condition on an individual's sense of well-being and ability to enjoy life.",
+            "identifier": "C170617",
+            "notation": "QOL Impact",
+            "pref_label": "Quality of Life Impact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C170617"
+        },
+        {
+            "alt_label": "Relationship to Device",
+            "definition": "The relationship of an event to a device, which may or may not be a device under study.",
+            "identifier": "C163414",
+            "notation": "Relationship to Device",
+            "pref_label": "Relationship to Device",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C163414"
+        },
+        {
+            "alt_label": "Remaining Amount",
+            "definition": "The quantity of a product that remains after dosing, consumption, or use.",
+            "identifier": "C170563",
+            "notation": "Remaining Amount",
+            "pref_label": "Remaining Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C170563"
+        },
+        {
+            "alt_label": "Resected Tumor Ind;Resected Tumor Indicator",
+            "definition": "An indication as to whether the tumor has been resected.",
+            "identifier": "C154861",
+            "notation": "Resected Tumor Ind",
+            "pref_label": "Tumor Resected Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C154861"
+        },
+        {
+            "alt_label": "Returned Amount",
+            "definition": "The quantity of a product that has been returned. (NCI)",
+            "identifier": "C78722",
+            "notation": "Returned Amount",
+            "pref_label": "Returned Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C78722"
+        },
+        {
+            "alt_label": "Severity/Intensity",
+            "definition": "The degree of something undesirable.",
+            "identifier": "C25676",
+            "notation": "Severity/Intensity",
+            "pref_label": "Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C25676"
+        },
+        {
+            "alt_label": "Sign/Symptom Leading to Discontinuation",
+            "definition": "The signs and/or symptoms that result in the discontinuation of treatment or intervention.",
+            "identifier": "C174281",
+            "notation": "Sign/Symptom Leading to Discontinuation",
+            "pref_label": "Sign or Symptom Leading to Discontinuation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C174281"
+        },
+        {
+            "alt_label": "Speed",
+            "definition": "A scalar measure of the rate of movement of the object expressed as the distance traveled divided by the elapsed time.",
+            "identifier": "C41146",
+            "notation": "Speed",
+            "pref_label": "Speed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C41146"
+        },
+        {
+            "alt_label": "Stent Thrombosis, Coronary, ARC Timing",
+            "definition": "Categorization of the timing of coronary stent thrombosis occurrence per the classification schema described by the Academic Research Consortium (ARC).",
+            "identifier": "C123424",
+            "notation": "Stent Thrombosis, Coronary, ARC Timing",
+            "pref_label": "Academic Research Council Coronary Stent Thrombosis Timing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C123424"
+        },
+        {
+            "alt_label": "Stroke Type",
+            "definition": "Categorization of the type of stroke.",
+            "identifier": "C119579",
+            "notation": "Stroke Type",
+            "pref_label": "Stroke Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119579"
+        },
+        {
+            "alt_label": "Symptom Indicator",
+            "definition": "An indication as to whether the subject had symptoms related to the clinical event.",
+            "identifier": "C119241",
+            "notation": "Symptom Indicator",
+            "pref_label": "Symptom Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119241"
+        },
+        {
+            "alt_label": "Symptom Onset Date",
+            "definition": "The date time of the onset of symptoms of the clinical event.",
+            "identifier": "C119242",
+            "notation": "Symptom Onset Date",
+            "pref_label": "Symptom Onset Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119242"
+        },
+        {
+            "alt_label": "Total Number",
+            "definition": "A measurement of the total number of entities.",
+            "identifier": "C127787",
+            "notation": "Total Number",
+            "pref_label": "Total Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C127787"
+        },
+        {
+            "alt_label": "Total Time Paused",
+            "definition": "The total amount of time during which an event, operation or activity has been interrupted or stopped.",
+            "identifier": "C172477",
+            "notation": "Total Time Paused",
+            "pref_label": "Total Time Paused",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172477"
+        },
+        {
+            "alt_label": "Total Time Physically Active",
+            "definition": "The total amount of time during which an individual was actively engaged in physical activity.",
+            "identifier": "C172480",
+            "notation": "Total Time Physically Active",
+            "pref_label": "Total Time Physically Active",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C172480"
+        },
+        {
+            "alt_label": "Toxicity Grade",
+            "definition": "A standardized categorical classification of the severity of an event or finding.",
+            "identifier": "C82528",
+            "notation": "Toxicity Grade",
+            "pref_label": "Toxicity Grade",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C82528"
+        },
+        {
+            "alt_label": "Treatment Setting",
+            "definition": "The surroundings or environment within which the subject receives therapeutic treatment for the condition.",
+            "identifier": "C124444",
+            "notation": "Treatment Setting",
+            "pref_label": "Treatment Setting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C124444"
+        },
+        {
+            "alt_label": "Type of Object",
+            "definition": "The type of object observed.",
+            "identifier": "C174276",
+            "notation": "Type of Object",
+            "pref_label": "Type of Object",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C174276"
+        },
+        {
+            "alt_label": "Vessel Occlusion After CABG 48 Ind",
+            "definition": "An indication as to whether vessel occlusion, in the native or bypass graft, occurred within 48 hours after the coronary artery bypass graft procedure.",
+            "identifier": "C119243",
+            "notation": "Vessel Occlusion After CABG 48 Ind",
+            "pref_label": "Vessel Occlusion 48 Hours after CABG Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C119243"
+        },
+        {
+            "alt_label": "Volume",
+            "definition": "A measurement of the volume of a biological specimen.",
+            "identifier": "C74720",
+            "notation": "Volume",
+            "pref_label": "Volume Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101833-C74720"
+        }
+    ]
+}

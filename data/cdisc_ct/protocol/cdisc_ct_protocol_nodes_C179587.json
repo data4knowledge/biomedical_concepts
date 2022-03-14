@@ -1,0 +1,70 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The activities describing the documentation of the storage, inventory tracking, and disposition of the biological sample.",
+            "identifier": "C179744",
+            "notation": "Biological Sample Accountability",
+            "pref_label": "Biospecimen Handling Accountability Record",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C179587-C179744"
+        },
+        {
+            "definition": "A description of the methodology by which biological material is obtained from a subject.",
+            "identifier": "C70700",
+            "notation": "Biological Sample Collection Method",
+            "pref_label": "Biospecimen Collection Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C179587-C70700"
+        },
+        {
+            "definition": "A description of the timing for the collection of a biological sample, in relation to a study-specific event or time period.",
+            "identifier": "C178869",
+            "notation": "Biological Sample Collection Timing",
+            "pref_label": "Biospecimen Collection Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C179587-C178869"
+        },
+        {
+            "definition": "The activities describing biological sample collection, such as specimen type, timing and methodology.",
+            "identifier": "C70945",
+            "notation": "Biological Sample Collection",
+            "pref_label": "Biospecimen Collection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C179587-C70945"
+        },
+        {
+            "alt_label": "Biospecimen Handling;Handling of Biological Samples;Handling of Biological Specimens",
+            "definition": "A description of the management of biological sample handling, including methods of collection, processing, shipping, and storage.",
+            "identifier": "C179745",
+            "notation": "Biological Sample Handling",
+            "pref_label": "Biospecimen Handling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C179587-C179745"
+        },
+        {
+            "definition": "The activities describing how the biological sample is made ready for storage, processing, and/or analysis.",
+            "identifier": "C179746",
+            "notation": "Biological Sample Preparation",
+            "pref_label": "Biospecimen Preparation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C179587-C179746"
+        },
+        {
+            "alt_label": "Biospecimen Retention",
+            "definition": "A textual description as to whether and/or how biological samples are retained for research purposes.",
+            "identifier": "C181231",
+            "notation": "Biological Sample Retention",
+            "pref_label": "Biological Sample Retention Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C179587-C181231"
+        },
+        {
+            "alt_label": "Biological Sample Shipment;Biological Sample Transport",
+            "definition": "The activities describing the logistical considerations for transporting a biological sample from the sender to the receiver.",
+            "identifier": "C179747",
+            "notation": "Biological Sample Shipping",
+            "pref_label": "Biospecimen Shipping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C179587-C179747"
+        },
+        {
+            "definition": "The activities describing the physical or environmental conditions under which the biological sample is maintained.",
+            "identifier": "C179748",
+            "notation": "Biological Sample Storage",
+            "pref_label": "Biospecimen Storage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C179587-C179748"
+        }
+    ]
+}

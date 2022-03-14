@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "ATLAS103-16,000-25,000",
+            "definition": "ATLAS original result for ATLAS103-16,000-25,000.",
+            "identifier": "C182749",
+            "notation": "16,000-25,000",
+            "pref_label": "ATLAS Score ATLAS103 Original Result - 16,000-25,000",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C182472-C182749"
+        },
+        {
+            "alt_label": "ATLAS103-<16,000",
+            "definition": "ATLAS original result for ATLAS103-Less than16,000.",
+            "identifier": "C182748",
+            "notation": "<16,000",
+            "pref_label": "ATLAS Score ATLAS103 Original Result - <16,000",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C182472-C182748"
+        },
+        {
+            "alt_label": "ATLAS103->25,000",
+            "definition": "ATLAS original result for ATLAS103-Greater than 25,000.",
+            "identifier": "C182750",
+            "notation": ">25,000",
+            "pref_label": "ATLAS Score ATLAS103 Original Result - >25,000",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C182472-C182750"
+        }
+    ]
+}

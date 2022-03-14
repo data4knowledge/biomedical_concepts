@@ -1,0 +1,47 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A measurement of the total cells of a pre-specified type in a specimen.",
+            "identifier": "C174332",
+            "notation": "CELL COUNT",
+            "pref_label": "Specified Cell Count Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174225-C174332"
+        },
+        {
+            "definition": "A measurement of the total number of microbial colonies of a pre-specified microorganism in a specimen.",
+            "identifier": "C174333",
+            "notation": "COLONY COUNT",
+            "pref_label": "Specified Colony Count Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174225-C174333"
+        },
+        {
+            "definition": "The determination of presence or absence of an entity in a specimen.",
+            "identifier": "C174330",
+            "notation": "DETECTION",
+            "pref_label": "Biological Detection Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174225-C174330"
+        },
+        {
+            "alt_label": "Cp Number;Crossing point Number;Ct;Ct Number;Cycle Threshold;Cycle Threshold #;Cycle Threshold Number;Elbow Value;Take-off Point Number;Threshold Cycle;Threshold Cycle Number;TOP Number",
+            "definition": "The cycle number where the fluorescence of the target is detected above the background signal or a pre-set threshold. This value may be used for the computation of the concentration of a target in a polymerase chain reaction (PCR).",
+            "identifier": "C161328",
+            "notation": "QUANTIFICATION CYCLE NUMBER",
+            "pref_label": "Threshold Cycle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174225-C161328"
+        },
+        {
+            "definition": "The determination of the quantity of a pre-specified analyte in a specimen.",
+            "identifier": "C48937",
+            "notation": "QUANTIFICATION",
+            "pref_label": "Quantitation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174225-C48937"
+        },
+        {
+            "definition": "A measurement of the total number of viral particles of a pre-specified virus in a specimen.",
+            "identifier": "C174331",
+            "notation": "VIRAL LOAD",
+            "pref_label": "Specified Viral Load Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174225-C174331"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "ADaM Other",
+            "definition": "An analysis dataset that doesn't conform to a pre-defined ADaM dataset structure (e.g. ADSL, BDS or OCCDS).",
+            "identifier": "C103375",
+            "notation": "ADAM OTHER",
+            "pref_label": "CDISC Other ADaM Dataset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C103375"
+        },
+        {
+            "alt_label": "Basic Data Structure;BDS",
+            "definition": "An ADaM BDS dataset contains one or more records per subject, per analysis parameter, per analysis time point. Variables include the value being analyzed (e.g., AVAL) and the description of the value being analyzed (e.g., PARAM). Other variables in the dataset provide more information about the value being analyzed (e.g., the subject identification) or describe and trace the derivation of it (e.g., DTYPE) or support the analysis of it (e.g., treatment variables, covariates).",
+            "identifier": "C103371",
+            "notation": "BASIC DATA STRUCTURE",
+            "pref_label": "CDISC Basic Data Structure Dataset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C103371"
+        },
+        {
+            "alt_label": "ADDL;Device Level Analysis Dataset",
+            "definition": "The Device-Level Analysis Dataset (ADDL) is a one-record-per-device or one-record-per-subject-per-device dataset which contains variables that describe device characteristics and timing, and group the devices for analysis. ADDL is the primary source for device-level variables included in other analysis datasets.",
+            "identifier": "C177921",
+            "notation": "DEVICE LEVEL ANALYSIS DATASET",
+            "pref_label": "CDISC Device Level Analysis Dataset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C177921"
+        },
+        {
+            "alt_label": "Events",
+            "definition": "This SDTM class captures planned protocol milestones such as randomization and study completion, and occurrences, conditions, or incidents independent of planned study evaluations occurring during the trial (e.g., adverse events) or prior to the trial (e.g., medical history).",
+            "identifier": "C103372",
+            "notation": "EVENTS",
+            "pref_label": "CDISC Events Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C103372"
+        },
+        {
+            "alt_label": "Findings About",
+            "definition": "This SDTM class is a specialization of the findings general observation class. It is intended, as its name implies, to be used when collected data represent findings about an event or intervention that cannot be represented within an event or intervention record or as a supplemental qualifier to such a record.",
+            "identifier": "C135396",
+            "notation": "FINDINGS ABOUT",
+            "pref_label": "CDISC Findings About Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C135396"
+        },
+        {
+            "alt_label": "Findings",
+            "definition": "This SDTM class captures the observations resulting from planned evaluations to address specific tests or questions such as laboratory tests, ECG testing, and questions listed on questionnaires.",
+            "identifier": "C103373",
+            "notation": "FINDINGS",
+            "pref_label": "CDISC Findings Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C103373"
+        },
+        {
+            "alt_label": "Interventions",
+            "definition": "This SDTM class captures investigational, therapeutic and other treatments that are administered to the subject (with some actual or expected physiological effect) either as specified by the study protocol (e.g., exposure to study drug), coincident with the study assessment period (e.g., concomitant medications), or self-administered by the subject (such as use of alcohol, tobacco, or caffeine).",
+            "identifier": "C103374",
+            "notation": "INTERVENTIONS",
+            "pref_label": "CDISC Interventions Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C103374"
+        },
+        {
+            "alt_label": "MDBDS;Medical Device Basic Data Structure",
+            "definition": "The Medical Device Basic Data Structure (MDBDS) supports the analysis needs by adding SPDEVID as a required key variable and USUBJID a conditionally required variable. See the BDS class for further details.",
+            "identifier": "C177922",
+            "notation": "MEDICAL DEVICE BASIC DATA STRUCTURE",
+            "pref_label": "CDISC Medical Device Basic Data Structure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C177922"
+        },
+        {
+            "alt_label": "MDOCCDS;Medical Device Occurrence Data Structure",
+            "definition": "The Medical Device Occurrence Data Structure (MDOCCDS) supports the analysis needs by adding SPDEVID as a required identifier and allowing USUBJID be a conditionally required variable. See the OCCDS class for further details.",
+            "identifier": "C177923",
+            "notation": "MEDICAL DEVICE OCCURRENCE DATA STRUCTURE",
+            "pref_label": "CDISC Medical Device Occurrence Data Structure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C177923"
+        },
+        {
+            "alt_label": "OCCDS;Occurrence Data Structure",
+            "definition": "The Occurrence Data Structure (OCCDS) is the ADaM data structure for occurrence analysis. Occurrence analysis is the counting of subjects with a record or term, and often includes a structured hierarchy of dictionary coding categories.",
+            "identifier": "C123454",
+            "notation": "OCCURRENCE DATA STRUCTURE",
+            "pref_label": "CDISC Occurrence Data Structure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C123454"
+        },
+        {
+            "alt_label": "Relationships",
+            "definition": "This SDTM class provides a means to link related records between datasets. It includes the RELREC and SUPPQUAL datasets.",
+            "identifier": "C103376",
+            "notation": "RELATIONSHIP",
+            "pref_label": "CDISC Relationship Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C103376"
+        },
+        {
+            "alt_label": "Special Purpose;SPECIAL-PURPOSE",
+            "definition": "This SDTM class contains a set of domains which do not conform to the Findings, Events or Interventions observation classes. The domains included are DM, CO, SE and SV.",
+            "identifier": "C103377",
+            "notation": "SPECIAL PURPOSE",
+            "pref_label": "CDISC Special Purpose Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C103377"
+        },
+        {
+            "alt_label": "Study Reference",
+            "definition": "This special purpose SDTM class contains further descriptions of study-specific identifiers that will be used in subject based domains.",
+            "identifier": "C147271",
+            "notation": "STUDY REFERENCE",
+            "pref_label": "CDISC Study Reference Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C147271"
+        },
+        {
+            "alt_label": "ADSL;Subject Level Analysis Dataset",
+            "definition": "The Subject-Level Analysis Dataset (ADSL) is a one-record-per-subject dataset which contains variables that describe subject demographic characteristics and group the subjects for analysis. ADSL is the primary source for subject-level variables included in other analysis datasets such as population flags and treatment variables.",
+            "identifier": "C103378",
+            "notation": "SUBJECT LEVEL ANALYSIS DATASET",
+            "pref_label": "CDISC Subject Level Analysis Dataset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C103378"
+        },
+        {
+            "alt_label": "Trial Design",
+            "definition": "This SDTM class describes the plan for the procedures to be followed in a clinical trial, including planned and actual timing of events, control group, method of allocating treatments, blinding methods, assignment of epochs that subjects pass through in the course of a trial.",
+            "identifier": "C103379",
+            "notation": "TRIAL DESIGN",
+            "pref_label": "CDISC Trial Design Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329-C103379"
+        }
+    ]
+}

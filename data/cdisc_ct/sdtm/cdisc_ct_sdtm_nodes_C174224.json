@@ -1,0 +1,228 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Age Symptoms Started",
+            "definition": "The age at which illness-specific symptoms first began.",
+            "identifier": "C174273",
+            "notation": "Age Symptoms Started",
+            "pref_label": "Age Symptom Started",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C174273"
+        },
+        {
+            "alt_label": "Anatomical Location of Primary Lesion",
+            "definition": "The anatomical location of the lesion that has been determined to be the primary lesion.",
+            "identifier": "C181315",
+            "notation": "Anatomical Location of Primary Lesion",
+            "pref_label": "Anatomical Location of Primary Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C181315"
+        },
+        {
+            "alt_label": "Biopsy Specimen Taken Indicator",
+            "definition": "An indication as to whether a biopsy specimen was collected.",
+            "identifier": "C181316",
+            "notation": "Biopsy Specimen Taken Indicator",
+            "pref_label": "Biopsy Specimen Taken Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C181316"
+        },
+        {
+            "alt_label": "Expected Efficacious Treatment Reg Ind;Expected Efficacious Treatment Regimen Indicator",
+            "definition": "An indication as to whether the subject has been on a treatment regimen which, based on defined criteria, is expected to be efficacious.",
+            "identifier": "C181310",
+            "notation": "Expected Efficacious Treatment Reg Ind",
+            "pref_label": "Expected Efficacious Treatment Regimen Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C181310"
+        },
+        {
+            "alt_label": "Extent of Resection",
+            "definition": "A description of the relative amount of tissue, blood vessel, or organ that has been removed.",
+            "identifier": "C157443",
+            "notation": "Extent of Resection",
+            "pref_label": "Extent of Resection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C157443"
+        },
+        {
+            "alt_label": "Final Dose Amount",
+            "definition": "A determination of the final amount of a substance taken as a dose by a subject.",
+            "identifier": "C176280",
+            "notation": "Final Dose Amount",
+            "pref_label": "Final Dose Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C176280"
+        },
+        {
+            "alt_label": "Fistula Anatomical Type",
+            "definition": "A classification based on the anatomical location(s) of the fistula.",
+            "identifier": "C181314",
+            "notation": "Fistula Anatomical Type",
+            "pref_label": "Fistula Anatomical Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C181314"
+        },
+        {
+            "alt_label": "Frequency of Final Dose Amount",
+            "definition": "A determination of how often a subject takes a substance at the final dose amount.",
+            "identifier": "C176281",
+            "notation": "Frequency of Final Dose Amount",
+            "pref_label": "Frequency of Final Dose Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C176281"
+        },
+        {
+            "alt_label": "Frequency of Maximum Dose Amount",
+            "definition": "A determination of how often a subject takes a substance at the maximum dose amount.",
+            "identifier": "C176279",
+            "notation": "Frequency of Maximum Dose Amount",
+            "pref_label": "Frequency of Maximum Dose Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C176279"
+        },
+        {
+            "alt_label": "Ileocecal Junction Removed Indicator",
+            "definition": "An indication as to whether the ileocecal junction was removed.",
+            "identifier": "C174279",
+            "notation": "Ileocecal Junction Removed Indicator",
+            "pref_label": "Ileocecal Junction Removed Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C174279"
+        },
+        {
+            "alt_label": "Length of Resection",
+            "definition": "A measurement of the total length of the removed tissue, blood vessel, or organ.",
+            "identifier": "C174278",
+            "notation": "Length of Resection",
+            "pref_label": "Length of Resection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C174278"
+        },
+        {
+            "alt_label": "Largest Diameter of Primary Lesion;Longest Diameter of Primary Lesion",
+            "definition": "The longest diameter of the lesion that has been determined to be the primary lesion.",
+            "identifier": "C181311",
+            "notation": "Longest Diameter of Primary Lesion",
+            "pref_label": "Longest Diameter of Primary Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C181311"
+        },
+        {
+            "alt_label": "Maximum Dose Amount",
+            "definition": "A determination of the maximum amount of a substance taken as a dose by a subject.",
+            "identifier": "C176278",
+            "notation": "Maximum Dose Amount",
+            "pref_label": "Maximum Dose Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C176278"
+        },
+        {
+            "alt_label": "Number of Abscesses",
+            "definition": "The number of abscesses observed.",
+            "identifier": "C181313",
+            "notation": "Number of Abscesses",
+            "pref_label": "Number of Abscesses",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C181313"
+        },
+        {
+            "alt_label": "Number of Biopsy Specimens Taken",
+            "definition": "The total number of biopsy specimens collected.",
+            "identifier": "C181317",
+            "notation": "Number of Biopsy Specimens Taken",
+            "pref_label": "Number of Biopsy Specimens Taken",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C181317"
+        },
+        {
+            "alt_label": "Number of Devices Inserted",
+            "definition": "The number of devices inserted into an individual.",
+            "identifier": "C174280",
+            "notation": "Number of Devices Inserted",
+            "pref_label": "Number of Devices Inserted",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C174280"
+        },
+        {
+            "alt_label": "Number of Devices Present",
+            "definition": "A determination of the number of devices within a subject.",
+            "identifier": "C176277",
+            "notation": "Number of Devices Present",
+            "pref_label": "Number of Devices Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C176277"
+        },
+        {
+            "alt_label": "Number of Fistulas",
+            "definition": "The number of fistulas observed.",
+            "identifier": "C181312",
+            "notation": "Number of Fistulas",
+            "pref_label": "Number of Fistulas",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C181312"
+        },
+        {
+            "alt_label": "Number of Lesions",
+            "definition": "The number of lesions observed.",
+            "identifier": "C174277",
+            "notation": "Number of Lesions",
+            "pref_label": "Number of Lesions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C174277"
+        },
+        {
+            "alt_label": "Number of Procedures Performed",
+            "definition": "The number of procedures performed on or in an individual.",
+            "identifier": "C174228",
+            "notation": "Number of Procedures Performed",
+            "pref_label": "Number of Procedures Performed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C174228"
+        },
+        {
+            "alt_label": "Number of Strictures",
+            "definition": "The number of anatomical strictures observed.",
+            "identifier": "C174274",
+            "notation": "Number of Strictures",
+            "pref_label": "Number of Strictures",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C174274"
+        },
+        {
+            "alt_label": "Pathologic Appearance of Biopsy Site",
+            "definition": "A description of the appearance of the anatomical site from which a biopsy specimen has been collected.",
+            "identifier": "C181318",
+            "notation": "Pathologic Appearance of Biopsy Site",
+            "pref_label": "Pathologic Appearance of Biopsy Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C181318"
+        },
+        {
+            "alt_label": "Relapse after Discon Dependent Indicator;Relapse after Discontinue Dependent Indicator",
+            "definition": "An indication as to whether an individual has had a relapse after discontinuation of a substance due to dependence.",
+            "identifier": "C176283",
+            "notation": "Relapse after Discon Dependent Indicator",
+            "pref_label": "Relapse after Discontinuation Because of Dependence Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C176283"
+        },
+        {
+            "alt_label": "Severity/Intensity",
+            "definition": "The degree of something undesirable.",
+            "identifier": "C25676",
+            "notation": "Severity/Intensity",
+            "pref_label": "Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C25676"
+        },
+        {
+            "alt_label": "Sign/Symptom Leading to Discontinuation",
+            "definition": "The signs and/or symptoms that result in the discontinuation of treatment or intervention.",
+            "identifier": "C174281",
+            "notation": "Sign/Symptom Leading to Discontinuation",
+            "pref_label": "Sign or Symptom Leading to Discontinuation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C174281"
+        },
+        {
+            "alt_label": "Substance Dependence Indicator",
+            "definition": "An indication as to whether an individual has become dependent on a substance.",
+            "identifier": "C176285",
+            "notation": "Substance Dependence Indicator",
+            "pref_label": "Substance Dependence Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C176285"
+        },
+        {
+            "alt_label": "Unable to Discon Dependent Indicator;Unable to Discontinue Dependent Indicator",
+            "definition": "An indication as to whether an individual is unable to discontinue the use of a substance due to dependence.",
+            "identifier": "C176284",
+            "notation": "Unable to Discon Dependent Indicator",
+            "pref_label": "Unable to Discontinue Use Due to Dependence Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C176284"
+        },
+        {
+            "alt_label": "Unable to Taper Dependent Indicator",
+            "definition": "An indication as to whether an individual is incapable of reducing or tapering the amount of a substance taken due to dependence.",
+            "identifier": "C176282",
+            "notation": "Unable to Taper Dependent Indicator",
+            "pref_label": "Unable to Taper Dependent Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C174224-C176282"
+        }
+    ]
+}

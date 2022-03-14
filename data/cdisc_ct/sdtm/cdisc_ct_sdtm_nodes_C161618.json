@@ -1,0 +1,364 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "EOR01-Condition Caused Financial Diff",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Has your physical condition or medical treatment caused you financial difficulties?",
+            "identifier": "C161701",
+            "notation": "EOR01-Condition Caused Financial Diff",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Condition Caused Financial Difficulties",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161701"
+        },
+        {
+            "alt_label": "EOR01-Condition Interfered Family Life",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Has your physical condition or medical treatment interfered with your family life?",
+            "identifier": "C161699",
+            "notation": "EOR01-Condition Interfered Family Life",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Condition Interfered Family Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161699"
+        },
+        {
+            "alt_label": "EOR01-Condition Interfered Social Activ",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Has your physical condition or medical treatment interfered with your social activities?",
+            "identifier": "C161700",
+            "notation": "EOR01-Condition Interfered Social Activ",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Condition Interfered Social Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161700"
+        },
+        {
+            "alt_label": "EOR01-Did You Feel Depressed",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Did you feel depressed?",
+            "identifier": "C161697",
+            "notation": "EOR01-Did You Feel Depressed",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Did You Feel Depressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161697"
+        },
+        {
+            "alt_label": "EOR01-Did You Feel Irritable",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Did you feel irritable?",
+            "identifier": "C161696",
+            "notation": "EOR01-Did You Feel Irritable",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Did You Feel Irritable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161696"
+        },
+        {
+            "alt_label": "EOR01-Did You Feel Tense",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Did you feel tense?",
+            "identifier": "C161694",
+            "notation": "EOR01-Did You Feel Tense",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Did You Feel Tense",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161694"
+        },
+        {
+            "alt_label": "EOR01-Did You Need to Rest",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Did you need to rest?",
+            "identifier": "C161683",
+            "notation": "EOR01-Did You Need to Rest",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Did You Need to Rest",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161683"
+        },
+        {
+            "alt_label": "EOR01-Did You Worry",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Did you worry?",
+            "identifier": "C161695",
+            "notation": "EOR01-Did You Worry",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Did You Worry",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161695"
+        },
+        {
+            "alt_label": "EOR01-Difficulty Concentrating on Things",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Have you had difficulty in concentrating on things, like reading a newspaper or watching television?",
+            "identifier": "C161693",
+            "notation": "EOR01-Difficulty Concentrating on Things",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Difficulty Concentrating on Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161693"
+        },
+        {
+            "alt_label": "EOR01-FS:Cognitive Functioning",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Functional scale: cognitive functioning.",
+            "identifier": "C181146",
+            "notation": "EOR01-FS:Cognitive Functioning",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-FS:Cognitive Functioning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181146"
+        },
+        {
+            "alt_label": "EOR01-FS:Emotional Functioning",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Functional scale: emotional functioning.",
+            "identifier": "C181145",
+            "notation": "EOR01-FS:Emotional Functioning",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-FS:Emotional Functioning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181145"
+        },
+        {
+            "alt_label": "EOR01-FS:Physical Functioning",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Functional scale: physical functioning.",
+            "identifier": "C181143",
+            "notation": "EOR01-FS:Physical Functioning",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-FS:Physical Functioning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181143"
+        },
+        {
+            "alt_label": "EOR01-FS:Role Functioning",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Functional scale: role functioning.",
+            "identifier": "C181144",
+            "notation": "EOR01-FS:Role Functioning",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-FS:Role Functioning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181144"
+        },
+        {
+            "alt_label": "EOR01-FS:Social Functioning",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Functional scale: social functioning.",
+            "identifier": "C181147",
+            "notation": "EOR01-FS:Social Functioning",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-FS:Social Functioning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181147"
+        },
+        {
+            "alt_label": "EOR01-Global Health Status/QoL",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Global health status/QoL.",
+            "identifier": "C181142",
+            "notation": "EOR01-Global Health Status/QoL",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-Global Health Status/QoL",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181142"
+        },
+        {
+            "alt_label": "EOR01-Had Difficulty Remembering Things",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Have you had difficulty remembering things?",
+            "identifier": "C161698",
+            "notation": "EOR01-Had Difficulty Remembering Things",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Had Difficulty Remembering Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161698"
+        },
+        {
+            "alt_label": "EOR01-Have You Been Constipated",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Have you been constipated?",
+            "identifier": "C161689",
+            "notation": "EOR01-Have You Been Constipated",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Have You Been Constipated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161689"
+        },
+        {
+            "alt_label": "EOR01-Have You Felt Nauseated",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Have you felt nauseated?",
+            "identifier": "C161687",
+            "notation": "EOR01-Have You Felt Nauseated",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Have You Felt Nauseated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161687"
+        },
+        {
+            "alt_label": "EOR01-Have You Felt Weak",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Have you felt weak?",
+            "identifier": "C161685",
+            "notation": "EOR01-Have You Felt Weak",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Have You Felt Weak",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161685"
+        },
+        {
+            "alt_label": "EOR01-Have You Had Diarrhea",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Have you had diarrhea?",
+            "identifier": "C161690",
+            "notation": "EOR01-Have You Had Diarrhea",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Have You Had Diarrhea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161690"
+        },
+        {
+            "alt_label": "EOR01-Have You Had Pain",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Have you had pain?",
+            "identifier": "C161682",
+            "notation": "EOR01-Have You Had Pain",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Have You Had Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161682"
+        },
+        {
+            "alt_label": "EOR01-Have You Had Trouble Sleeping",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Have you had trouble sleeping?",
+            "identifier": "C161684",
+            "notation": "EOR01-Have You Had Trouble Sleeping",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Have You Had Trouble Sleeping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161684"
+        },
+        {
+            "alt_label": "EOR01-Have You Lacked Appetite",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Have you lacked appetite?",
+            "identifier": "C161686",
+            "notation": "EOR01-Have You Lacked Appetite",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Have You Lacked Appetite",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161686"
+        },
+        {
+            "alt_label": "EOR01-Have You Vomited",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Have you vomited?",
+            "identifier": "C161688",
+            "notation": "EOR01-Have You Vomited",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Have You Vomited",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161688"
+        },
+        {
+            "alt_label": "EOR01-Limited Hobbies/Leisure Activities",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Were you limited in pursuing your hobbies or other leisure time activities?",
+            "identifier": "C161680",
+            "notation": "EOR01-Limited Hobbies/Leisure Activities",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Limited Hobbies or Leisure Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161680"
+        },
+        {
+            "alt_label": "EOR01-Limited in Work/Daily Activities",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Were you limited in doing either your work or other daily activities?",
+            "identifier": "C161679",
+            "notation": "EOR01-Limited in Work/Daily Activities",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Limited in Work or Daily Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161679"
+        },
+        {
+            "alt_label": "EOR01-Need Help Eating/Dressing/Washing",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Do you need help with eating, dressing, washing yourself or using the toilet?",
+            "identifier": "C161678",
+            "notation": "EOR01-Need Help Eating/Dressing/Washing",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Need Help Eating, Dressing, Washing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161678"
+        },
+        {
+            "alt_label": "EOR01-Pain Interfere Daily Activities",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Did pain interfere with your daily activities?",
+            "identifier": "C161692",
+            "notation": "EOR01-Pain Interfere Daily Activities",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Pain Interfere Daily Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161692"
+        },
+        {
+            "alt_label": "EOR01-Rate Your Overall Health",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - How would you rate your overall health during the past week?",
+            "identifier": "C161702",
+            "notation": "EOR01-Rate Your Overall Health",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Rate Your Overall Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161702"
+        },
+        {
+            "alt_label": "EOR01-Rate Your Overall Quality of Life",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - How would you rate your overall quality of life during the past week?",
+            "identifier": "C161703",
+            "notation": "EOR01-Rate Your Overall Quality of Life",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Rate Your Overall Quality of Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161703"
+        },
+        {
+            "alt_label": "EOR01-SS:Appetite Loss",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Symptom scale: appetite loss.",
+            "identifier": "C181153",
+            "notation": "EOR01-SS:Appetite Loss",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-SS:Appetite Loss",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181153"
+        },
+        {
+            "alt_label": "EOR01-SS:Constipation",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Symptom scale: constipation.",
+            "identifier": "C181154",
+            "notation": "EOR01-SS:Constipation",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-SS:Constipation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181154"
+        },
+        {
+            "alt_label": "EOR01-SS:Diarrhoea",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Symptom scale: diarrhoea.",
+            "identifier": "C181155",
+            "notation": "EOR01-SS:Diarrhoea",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-SS:Diarrhoea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181155"
+        },
+        {
+            "alt_label": "EOR01-SS:Dyspnoea",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Symptom scale: dyspnoea.",
+            "identifier": "C181151",
+            "notation": "EOR01-SS:Dyspnoea",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-SS:Dyspnoea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181151"
+        },
+        {
+            "alt_label": "EOR01-SS:Fatigue",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Symptom scale: fatigue.",
+            "identifier": "C181148",
+            "notation": "EOR01-SS:Fatigue",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-SS:Fatigue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181148"
+        },
+        {
+            "alt_label": "EOR01-SS:Financial Difficulties",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Symptom scale: financial difficulties.",
+            "identifier": "C181156",
+            "notation": "EOR01-SS:Financial Difficulties",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-SS:Financial Difficulties",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181156"
+        },
+        {
+            "alt_label": "EOR01-SS:Insomnia",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Symptom scale: insomnia.",
+            "identifier": "C181152",
+            "notation": "EOR01-SS:Insomnia",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-SS:Insomnia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181152"
+        },
+        {
+            "alt_label": "EOR01-SS:Nausea and Vomiting",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Symptom scale: nausea and vomiting.",
+            "identifier": "C181149",
+            "notation": "EOR01-SS:Nausea and Vomiting",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-SS:Nausea and Vomiting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181149"
+        },
+        {
+            "alt_label": "EOR01-SS:Pain",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Symptom scale: pain.",
+            "identifier": "C181150",
+            "notation": "EOR01-SS:Pain",
+            "pref_label": "EORTC QLQ-C30 Version 3 - EOR01-SS:Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C181150"
+        },
+        {
+            "alt_label": "EOR01-Stay in Bed/Chair During the Day",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Do you need to stay in bed or a chair during the day?",
+            "identifier": "C161677",
+            "notation": "EOR01-Stay in Bed/Chair During the Day",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Stay in Bed or Chair During the Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161677"
+        },
+        {
+            "alt_label": "EOR01-Trouble Doing Strenuous Activities",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Do you have any trouble doing strenuous activities, like carrying a heavy shopping bag or a suitcase?",
+            "identifier": "C161674",
+            "notation": "EOR01-Trouble Doing Strenuous Activities",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Trouble Doing Strenuous Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161674"
+        },
+        {
+            "alt_label": "EOR01-Trouble Taking Long Walk",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Do you have any trouble taking a long walk?",
+            "identifier": "C161675",
+            "notation": "EOR01-Trouble Taking Long Walk",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Trouble Taking Long Walk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161675"
+        },
+        {
+            "alt_label": "EOR01-Trouble Taking Short Walk Outside",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - Do you have any trouble taking a short walk outside of the house?",
+            "identifier": "C161676",
+            "notation": "EOR01-Trouble Taking Short Walk Outside",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Trouble Taking Short Walk Outside",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161676"
+        },
+        {
+            "alt_label": "EOR01-Were You Short of Breath",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Were you short of breath?",
+            "identifier": "C161681",
+            "notation": "EOR01-Were You Short of Breath",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Were You Short of Breath",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161681"
+        },
+        {
+            "alt_label": "EOR01-Were You Tired",
+            "definition": "European Organisation for the Research and Treatment of Cancer Quality of Life Questionnaire - Core 30 Version 3.0 - During the past week: Were you tired?",
+            "identifier": "C161691",
+            "notation": "EOR01-Were You Tired",
+            "pref_label": "EORTC QLQ-C30 Version 3 - Were You Tired",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C161618-C161691"
+        }
+    ]
+}

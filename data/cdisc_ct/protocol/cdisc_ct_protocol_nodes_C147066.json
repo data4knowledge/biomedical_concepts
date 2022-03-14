@@ -1,0 +1,125 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Masking",
+            "definition": "A process to limit bias by preventing subjects and/ or study personnel from identifying which treatments or procedures are administered, or from learning the results of tests and measures undertaken as part of a clinical investigation. (CDISC Glossary)",
+            "identifier": "C49068",
+            "notation": "Blinding",
+            "pref_label": "Blinded",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C49068"
+        },
+        {
+            "alt_label": "Intervention Model",
+            "definition": "The general design of the strategy for assigning interventions to participants in a clinical study. (clinicaltrials.gov)",
+            "identifier": "C98746",
+            "notation": "Interventional Study Design",
+            "pref_label": "Intervention Model",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C98746"
+        },
+        {
+            "alt_label": "Observation Model",
+            "definition": "The general design of the strategy for identifying and following up with participants during observational studies. (clinicaltrials.gov)",
+            "identifier": "C147138",
+            "notation": "Observational Study Design",
+            "pref_label": "Observational Study Model",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C147138"
+        },
+        {
+            "alt_label": "Overall Design;Study Design Description;Study Design Overview;Summary of Study Design",
+            "definition": "Summary description of the overall study plan and design, should include treatments studied, population studied, level and method of blinding/unmasking, kind of controls, method of assignment to treatment, sequence and duration of study periods, any safety, data monitoring or special steering or evaluation committees, and interim analyses. (ICH E3)",
+            "identifier": "C147139",
+            "notation": "Overall Study Design",
+            "pref_label": "Study Design Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C147139"
+        },
+        {
+            "alt_label": "Subject Allocation",
+            "definition": "The process of assigning participants to particular treatment groups or cohorts in a clinical study.",
+            "identifier": "C52580",
+            "notation": "Participant Allocation",
+            "pref_label": "Allocation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C52580"
+        },
+        {
+            "alt_label": "Planned Number of Arms",
+            "definition": "The planned number of intervention groups.",
+            "identifier": "C98771",
+            "notation": "Planned Number of Arms",
+            "pref_label": "Planned Number of Arms",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C98771"
+        },
+        {
+            "definition": "The planned number of study groups.",
+            "identifier": "C147137",
+            "notation": "Planned Number of Cohorts",
+            "pref_label": "Planned Number of Cohorts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C147137"
+        },
+        {
+            "alt_label": "Anticipated Enrollment;Planned Enrollment;Planned Number of Subjects;Target Enrollment",
+            "definition": "The planned number of subjects to be entered in a clinical trial. (NCI)",
+            "identifier": "C49692",
+            "notation": "Planned Number of Participants",
+            "pref_label": "Planned Subject Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C49692"
+        },
+        {
+            "definition": "A characterization or classification of the process of assigning trial subjects to treatment or control groups using an element of chance to determine the assignments in order to reduce bias.",
+            "identifier": "C147140",
+            "notation": "Randomization Type",
+            "pref_label": "Randomization Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C147140"
+        },
+        {
+            "alt_label": "Stratification Factor",
+            "definition": "Selected factors that are used during randomization to ensure there is balance of these factors across all subjects within each arm of a study. The subject level values of these factors may be used as fixed effects in statistical models and for sensitivity analyses.",
+            "identifier": "C16153",
+            "notation": "Stratification Factor",
+            "pref_label": "Stratification Factors",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C16153"
+        },
+        {
+            "definition": "Grouping defined by important prognostic factors measured at baseline. (ICH E9)",
+            "identifier": "C25689",
+            "notation": "Stratification",
+            "pref_label": "Stratification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C25689"
+        },
+        {
+            "definition": "Reason(s) for choosing the study design. This may include reasons for the choice of control or comparator, as well as the scientific rationale for the study design.",
+            "identifier": "C142705",
+            "notation": "Study Design Rationale",
+            "pref_label": "Study Design Rationale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C142705"
+        },
+        {
+            "definition": "A supposition or proposal made to explain certain observations or facts, which requires further investigation or exploration within a clinical study. (NCI)",
+            "identifier": "C142668",
+            "notation": "Study Hypothesis",
+            "pref_label": "Research Hypothesis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C142668"
+        },
+        {
+            "definition": "The principal reason or intention for the execution of an interventional or non-interventional clinical study. (NCI)",
+            "identifier": "C147141",
+            "notation": "Study Primary Purpose",
+            "pref_label": "Study Primary Purpose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C147141"
+        },
+        {
+            "definition": "The ancillary reason or intention for the execution of an interventional or non-interventional clinical study. (NCI)",
+            "identifier": "C147142",
+            "notation": "Study Secondary Purpose",
+            "pref_label": "Study Secondary Purpose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C147142"
+        },
+        {
+            "alt_label": "Trial Blinding Schema",
+            "definition": "The type of experimental design used to describe the level of awareness of the clinical trial subjects and/or investigators of the intervention(s) that they are receiving and/or administering.",
+            "identifier": "C49658",
+            "notation": "Trial Blinding Schema",
+            "pref_label": "Trial Blinding Schema",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066-C49658"
+        }
+    ]
+}

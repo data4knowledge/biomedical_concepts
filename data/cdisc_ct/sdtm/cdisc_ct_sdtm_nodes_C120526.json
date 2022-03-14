@@ -1,0 +1,452 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Allergen-induced IgE Antibody",
+            "definition": "A measurement of the binding allergen-induced IgE antibody in a biological specimen.",
+            "identifier": "C181398",
+            "notation": "Allergen-induced IgE Antibody",
+            "pref_label": "Allergen-induced IgE Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181398"
+        },
+        {
+            "alt_label": "Antibody-secreting Cells",
+            "definition": "A measurement of the antibody-secreting cells in a biological specimen.",
+            "identifier": "C181399",
+            "notation": "Antibody-secreting Cells",
+            "pref_label": "Antibody-secreting Cells Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181399"
+        },
+        {
+            "alt_label": "Autoantibody",
+            "definition": "A measurement of the binding autoantibody in a biological specimen.",
+            "identifier": "C181397",
+            "notation": "Autoantibody",
+            "pref_label": "Autoantibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181397"
+        },
+        {
+            "alt_label": "Binding Antidrug Antibody",
+            "definition": "A measurement of the binding antidrug antibody in a biological specimen. A binding antidrug antibody is an antibody that binds to a test article, and/or portion(s) of the test article.",
+            "identifier": "C147272",
+            "notation": "Binding Antidrug Antibody",
+            "pref_label": "Binding Antidrug Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C147272"
+        },
+        {
+            "alt_label": "Binding Antidrug IgA Antibody",
+            "definition": "A measurement of the binding antidrug IgA antibody in a biological specimen.",
+            "identifier": "C181362",
+            "notation": "Binding Antidrug IgA Antibody",
+            "pref_label": "Binding Antidrug IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181362"
+        },
+        {
+            "alt_label": "Binding Antidrug IgE Antibody",
+            "definition": "A measurement of the binding antidrug IgE antibody in a biological specimen.",
+            "identifier": "C181363",
+            "notation": "Binding Antidrug IgE Antibody",
+            "pref_label": "Binding Antidrug IgE Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181363"
+        },
+        {
+            "alt_label": "Binding Antidrug IgG Antibody",
+            "definition": "A measurement of the binding antidrug IgG antibody in a biological specimen.",
+            "identifier": "C181188",
+            "notation": "Binding Antidrug IgG Antibody",
+            "pref_label": "Binding Antidrug IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181188"
+        },
+        {
+            "alt_label": "Binding Antidrug IgG/IgM Antibody",
+            "definition": "A measurement of the binding antidrug IgG and/or IgM antibody in a biological specimen.",
+            "identifier": "C181365",
+            "notation": "Binding Antidrug IgG/IgM Antibody",
+            "pref_label": "Binding Antidrug IgG/IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181365"
+        },
+        {
+            "alt_label": "Binding Antidrug IgG1 Antibody",
+            "definition": "A measurement of the binding antidrug IgG1 antibody in a biological specimen.",
+            "identifier": "C181366",
+            "notation": "Binding Antidrug IgG1 Antibody",
+            "pref_label": "Binding Antidrug IgG1 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181366"
+        },
+        {
+            "alt_label": "Binding Antidrug IgG2 Antibody",
+            "definition": "A measurement of the binding antidrug IgG2 antibody in a biological specimen.",
+            "identifier": "C181367",
+            "notation": "Binding Antidrug IgG2 Antibody",
+            "pref_label": "Binding Antidrug IgG2 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181367"
+        },
+        {
+            "alt_label": "Binding Antidrug IgG3 Antibody",
+            "definition": "A measurement of the binding antidrug IgG3 antibody in a biological specimen.",
+            "identifier": "C181368",
+            "notation": "Binding Antidrug IgG3 Antibody",
+            "pref_label": "Binding Antidrug IgG3 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181368"
+        },
+        {
+            "alt_label": "Binding Antidrug IgG4 Antibody",
+            "definition": "A measurement of the binding antidrug IgG4 antibody in a biological specimen.",
+            "identifier": "C181369",
+            "notation": "Binding Antidrug IgG4 Antibody",
+            "pref_label": "Binding Antidrug IgG4 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181369"
+        },
+        {
+            "alt_label": "Binding Antidrug IgM Antibody",
+            "definition": "A measurement of the binding antidrug IgM antibody in a biological specimen.",
+            "identifier": "C181364",
+            "notation": "Binding Antidrug IgM Antibody",
+            "pref_label": "Binding Antidrug IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181364"
+        },
+        {
+            "alt_label": "Cross-Reactive Binding ADA IgG/IgM;Cross-Reactive Binding Antidrug IgG/IgM Antibody",
+            "definition": "A measurement of the cross-reactive binding antidrug IgG and/or IgM antibody in a biological specimen.",
+            "identifier": "C181381",
+            "notation": "Cross-Reactive Binding ADA IgG/IgM",
+            "pref_label": "Cross-Reactive Binding Antidrug Antibody IgG/IgM Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181381"
+        },
+        {
+            "alt_label": "Cross-Reactive Binding Antidrug Antibody",
+            "definition": "A measurement of the cross-reactive binding antidrug antibody in a biological specimen. A cross-reactive binding antidrug antibody is a type of ADA that binds to the endogenous molecule that is structurally similar to an analogue test article.",
+            "identifier": "C147275",
+            "notation": "Cross-Reactive Binding Antidrug Antibody",
+            "pref_label": "Cross-Reactive Binding Antidrug Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C147275"
+        },
+        {
+            "alt_label": "Cross-Reactive Binding Antidrug IgA AB;Cross-Reactive Binding Antidrug IgA Antibody",
+            "definition": "A measurement of the cross-reactive binding antidrug IgA antibody in a biological specimen.",
+            "identifier": "C181378",
+            "notation": "Cross-Reactive Binding Antidrug IgA AB",
+            "pref_label": "Cross-Reactive Binding Antidrug IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181378"
+        },
+        {
+            "alt_label": "Cross-Reactive Binding Antidrug IgE AB;Cross-Reactive Binding Antidrug IgE Antibody",
+            "definition": "A measurement of the cross-reactive binding antidrug IgE antibody in a biological specimen.",
+            "identifier": "C181379",
+            "notation": "Cross-Reactive Binding Antidrug IgE AB",
+            "pref_label": "Cross-Reactive Binding Antidrug IgE Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181379"
+        },
+        {
+            "alt_label": "Cross-Reactive Binding Antidrug IgG AB;Cross-Reactive Binding Antidrug IgG Antibody",
+            "definition": "A measurement of the cross-reactive binding antidrug IgG antibody in a biological specimen.",
+            "identifier": "C181190",
+            "notation": "Cross-Reactive Binding Antidrug IgG AB",
+            "pref_label": "Cross-Reactive Binding Antidrug IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181190"
+        },
+        {
+            "alt_label": "Cross-Reactive Binding Antidrug IgG1 AB;Cross-Reactive Binding Antidrug IgG1 Antibody",
+            "definition": "A measurement of the cross-reactive binding antidrug IgG1 antibody in a biological specimen.",
+            "identifier": "C181382",
+            "notation": "Cross-Reactive Binding Antidrug IgG1 AB",
+            "pref_label": "Cross-Reactive Binding Antidrug IgG1 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181382"
+        },
+        {
+            "alt_label": "Cross-Reactive Binding Antidrug IgG2 AB;Cross-Reactive Binding Antidrug IgG2 Antibody",
+            "definition": "A measurement of the cross-reactive binding antidrug IgG2 antibody in a biological specimen.",
+            "identifier": "C181383",
+            "notation": "Cross-Reactive Binding Antidrug IgG2 AB",
+            "pref_label": "Cross-Reactive Binding Antidrug IgG2 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181383"
+        },
+        {
+            "alt_label": "Cross-Reactive Binding Antidrug IgG3 AB;Cross-Reactive Binding Antidrug IgG3 Antibody",
+            "definition": "A measurement of the cross-reactive binding antidrug IgG3 antibody in a biological specimen.",
+            "identifier": "C181384",
+            "notation": "Cross-Reactive Binding Antidrug IgG3 AB",
+            "pref_label": "Cross-Reactive Binding Antidrug IgG3 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181384"
+        },
+        {
+            "alt_label": "Cross-Reactive Binding Antidrug IgG4 AB;Cross-Reactive Binding Antidrug IgG4 Antibody",
+            "definition": "A measurement of the cross-reactive binding antidrug IgG4 antibody in a biological specimen.",
+            "identifier": "C181385",
+            "notation": "Cross-Reactive Binding Antidrug IgG4 AB",
+            "pref_label": "Cross-Reactive Binding Antidrug IgG4 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181385"
+        },
+        {
+            "alt_label": "Cross-Reactive Binding Antidrug IgM AB;Cross-Reactive Binding Antidrug IgM Antibody",
+            "definition": "A measurement of the cross-reactive binding antidrug IgM antibody in a biological specimen.",
+            "identifier": "C181380",
+            "notation": "Cross-Reactive Binding Antidrug IgM AB",
+            "pref_label": "Cross-Reactive Binding Antidrug IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181380"
+        },
+        {
+            "alt_label": "Cytokine-secreting Cells",
+            "definition": "A measurement of the cytokine-secreting cells in a biological specimen.",
+            "identifier": "C181400",
+            "notation": "Cytokine-secreting Cells",
+            "pref_label": "Cytokine-secreting Cells Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181400"
+        },
+        {
+            "alt_label": "EBOV Specific IgG AB Secreting Cells",
+            "definition": "A measurement of the Ebola virus specific IgG antibody secreting cells in a biological specimen.",
+            "identifier": "C132360",
+            "notation": "EBOV Specific IgG AB Secreting Cells",
+            "pref_label": "Ebola Virus Specific IgG Antibody Secreting Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C132360"
+        },
+        {
+            "alt_label": "EBOV Specific IgM AB Secreting Cells",
+            "definition": "A measurement of the Ebola virus specific IgM antibody secreting cells in a biological specimen.",
+            "identifier": "C132361",
+            "notation": "EBOV Specific IgM AB Secreting Cells",
+            "pref_label": "Ebola Virus Specific IgM Antibody Secreting Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C132361"
+        },
+        {
+            "alt_label": "Functional Microbial-induced Antibody",
+            "definition": "A measurement of the functional binding microbial-induced antibody in a biological specimen. A functional microbial-induced antibody is defined as antibodies that have agonist or antagonist effects on pathogens or their toxins in the presence of other effector molecules or cells. For example, the effects of functional antibodies can include neutralization, phagocytosis, antibody-dependent cellular cytotoxicity, and complement-mediated lysis. The production of this antibody may be triggered by naturally occurring infection and/or vaccination using a whole microbe or component(s) of a microbe.",
+            "identifier": "C181395",
+            "notation": "Functional Microbial-induced Antibody",
+            "pref_label": "Functional Microbial-induced Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181395"
+        },
+        {
+            "alt_label": "H1 Specific IgG Antibody Secreting Cells;H1 Specific IgG ASCs",
+            "definition": "A measurement of the H1 specific IgG antibody secreting cells in a biological specimen.",
+            "identifier": "C120622",
+            "notation": "H1 Specific IgG Antibody Secreting Cells",
+            "pref_label": "Influenza Hemagglutinin 1 Specific IgG Antibody Secreting Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C120622"
+        },
+        {
+            "alt_label": "H3 Specific IgG Antibody Secreting Cells;H3 Specific IgG ASCs",
+            "definition": "A measurement of the H3 specific IgG antibody secreting cells in a biological specimen.",
+            "identifier": "C120623",
+            "notation": "H3 Specific IgG Antibody Secreting Cells",
+            "pref_label": "Influenza Hemagglutinin 3 Specific IgG Antibody Secreting Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C120623"
+        },
+        {
+            "alt_label": "HIV-1 Seroreactivity",
+            "definition": "A measurement of the HIV-1 seroreactivity in a biological specimen.",
+            "identifier": "C158217",
+            "notation": "HIV-1 Seroreactivity",
+            "pref_label": "HIV-1 Seroreactivity Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C158217"
+        },
+        {
+            "alt_label": "HIV-2 Seroreactivity",
+            "definition": "A measurement of the HIV-2 seroreactivity in a biological specimen.",
+            "identifier": "C158216",
+            "notation": "HIV-2 Seroreactivity",
+            "pref_label": "HIV-2 Seroreactivity Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C158216"
+        },
+        {
+            "alt_label": "IgM Antibody Secreting Cells",
+            "definition": "A measurement of the total IgM antibody secreting cells in a biological specimen.",
+            "identifier": "C132362",
+            "notation": "IgM Antibody Secreting Cells",
+            "pref_label": "IgM Antibody Secreting Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C132362"
+        },
+        {
+            "alt_label": "Microbial-induced IgG Antibody",
+            "definition": "A measurement of the binding microbial-induced IgG antibody in a biological specimen; the production of this antibody may be triggered by naturally occurring infection and/or vaccination using a whole microbe or component(s) of a microbe.",
+            "identifier": "C181394",
+            "notation": "Microbial-induced IgG Antibody",
+            "pref_label": "Microbial-induced IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181394"
+        },
+        {
+            "alt_label": "Neut Cross-Reactive Binding ADA IgA;Neutralizing Cross-Reactive Binding Antidrug IgA Antibody",
+            "definition": "A measurement of the neutralizing cross-reactive binding antidrug IgA antibody in a biological specimen.",
+            "identifier": "C181386",
+            "notation": "Neut Cross-Reactive Binding ADA IgA",
+            "pref_label": "Neutralizing Cross-Reactive Binding Antidrug Antibody IgA Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181386"
+        },
+        {
+            "alt_label": "Neut Cross-Reactive Binding ADA IgE;Neutralizing Cross-Reactive Binding Antidrug IgE Antibody",
+            "definition": "A measurement of the neutralizing cross-reactive binding antidrug IgE antibody in a biological specimen.",
+            "identifier": "C181387",
+            "notation": "Neut Cross-Reactive Binding ADA IgE",
+            "pref_label": "Neutralizing Cross-Reactive Binding Antidrug Antibody IgE Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181387"
+        },
+        {
+            "alt_label": "Neut Cross-Reactive Binding ADA IgG;Neutralizing Cross-Reactive Binding Antidrug IgG Antibody",
+            "definition": "A measurement of the neutralizing cross-reactive binding antidrug IgG antibody in a biological specimen.",
+            "identifier": "C181191",
+            "notation": "Neut Cross-Reactive Binding ADA IgG",
+            "pref_label": "Neutralizing Cross-Reactive Binding Antidrug Antibody IgG Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181191"
+        },
+        {
+            "alt_label": "Neut Cross-Reactive Binding ADA IgG/IgM;Neutralizing Cross-Reactive Binding Antidrug IgG/IgM Antibody",
+            "definition": "A measurement of the neutralizing cross-reactive binding antidrug IgG and/or IgM antibody in a biological specimen.",
+            "identifier": "C181389",
+            "notation": "Neut Cross-Reactive Binding ADA IgG/IgM",
+            "pref_label": "Neutralizing Cross-Reactive Binding Antidrug Antibody IgG/IgM Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181389"
+        },
+        {
+            "alt_label": "Neut Cross-Reactive Binding ADA IgG1;Neutralizing Cross-Reactive Binding Antidrug IgG1 Antibody",
+            "definition": "A measurement of the neutralizing cross-reactive binding antidrug IgG1 antibody in a biological specimen.",
+            "identifier": "C181390",
+            "notation": "Neut Cross-Reactive Binding ADA IgG1",
+            "pref_label": "Neutralizing Cross-Reactive Binding Antidrug Antibody IgG1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181390"
+        },
+        {
+            "alt_label": "Neut Cross-Reactive Binding ADA IgG2;Neutralizing Cross-Reactive Binding Antidrug IgG2 Antibody",
+            "definition": "A measurement of the neutralizing cross-reactive binding antidrug IgG2 antibody in a biological specimen.",
+            "identifier": "C181391",
+            "notation": "Neut Cross-Reactive Binding ADA IgG2",
+            "pref_label": "Neutralizing Cross-Reactive Binding Antidrug Antibody IgG2 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181391"
+        },
+        {
+            "alt_label": "Neut Cross-Reactive Binding ADA IgG3;Neutralizing Cross-Reactive Binding Antidrug IgG3 Antibody",
+            "definition": "A measurement of the neutralizing cross-reactive binding antidrug IgG3 antibody in a biological specimen.",
+            "identifier": "C181392",
+            "notation": "Neut Cross-Reactive Binding ADA IgG3",
+            "pref_label": "Neutralizing Cross-Reactive Binding Antidrug Antibody IgG3 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181392"
+        },
+        {
+            "alt_label": "Neut Cross-Reactive Binding ADA IgG4;Neutralizing Cross-Reactive Binding Antidrug IgG4 Antibody",
+            "definition": "A measurement of the neutralizing cross-reactive binding antidrug IgG4 antibody in a biological specimen.",
+            "identifier": "C181393",
+            "notation": "Neut Cross-Reactive Binding ADA IgG4",
+            "pref_label": "Neutralizing Cross-Reactive Binding Antidrug Antibody IgG4 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181393"
+        },
+        {
+            "alt_label": "Neut Cross-Reactive Binding ADA IgM;Neutralizing Cross-Reactive Binding Antidrug IgM Antibody",
+            "definition": "A measurement of the neutralizing cross-reactive binding antidrug IgM antibody in a biological specimen.",
+            "identifier": "C181388",
+            "notation": "Neut Cross-Reactive Binding ADA IgM",
+            "pref_label": "Neutralizing Cross-Reactive Binding Antidrug Antibody IgM Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181388"
+        },
+        {
+            "alt_label": "Neutraliz Cross-React Bind Antidrug AB;Neutralizing Cross-Reactive Binding Antidrug Antibody",
+            "definition": "A measurement of the neutralizing cross-reactive binding antidrug antibody in a biological specimen. A neutralizing cross-reactive binding antidrug antibody is a type of ADA that binds to an endogenous molecule that is structurally similar to an analogue test article and diminishes or negates its function.",
+            "identifier": "C147274",
+            "notation": "Neutraliz Cross-React Bind Antidrug AB",
+            "pref_label": "Neutralizing Cross-Reacting Binding Antidrug Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C147274"
+        },
+        {
+            "alt_label": "Neutralizing Binding Antidrug Antibody",
+            "definition": "A measurement of the neutralizing binding antidrug antibody in a biological specimen. A neutralizing binding antidrug antibody is a type of ADA that binds to the functional portion of a test article leading to diminished or negated pharmacological activity.",
+            "identifier": "C147273",
+            "notation": "Neutralizing Binding Antidrug Antibody",
+            "pref_label": "Neutralizing Binding Antidrug Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C147273"
+        },
+        {
+            "alt_label": "Neutralizing Binding Antidrug IgA AB;Neutralizing Binding Antidrug IgA Antibody",
+            "definition": "A measurement of the neutralizing binding antidrug IgA antibody in a biological specimen.",
+            "identifier": "C181370",
+            "notation": "Neutralizing Binding Antidrug IgA AB",
+            "pref_label": "Neutralizing Binding Antidrug IgA Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181370"
+        },
+        {
+            "alt_label": "Neutralizing Binding Antidrug IgE AB;Neutralizing Binding Antidrug IgE Antibody",
+            "definition": "A measurement of the neutralizing binding antidrug IgE antibody in a biological specimen.",
+            "identifier": "C181371",
+            "notation": "Neutralizing Binding Antidrug IgE AB",
+            "pref_label": "Neutralizing Binding Antidrug IgE Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181371"
+        },
+        {
+            "alt_label": "Neutralizing Binding Antidrug IgG AB;Neutralizing Binding Antidrug IgG Antibody",
+            "definition": "A measurement of the neutralizing binding antidrug IgG antibody in a biological specimen.",
+            "identifier": "C181189",
+            "notation": "Neutralizing Binding Antidrug IgG AB",
+            "pref_label": "Neutralizing Binding Antidrug IgG Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181189"
+        },
+        {
+            "alt_label": "Neutralizing Binding Antidrug IgG/IgM AB",
+            "definition": "A measurement of the neutralizing binding antidrug IgG and/or IgM antibody in a biological specimen.",
+            "identifier": "C181373",
+            "notation": "Neutralizing Binding Antidrug IgG/IgM AB",
+            "pref_label": "Neutralizing Binding Antidrug IgG/IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181373"
+        },
+        {
+            "alt_label": "Neutralizing Binding Antidrug IgG1 AB;Neutralizing Binding Antidrug IgG1 Antibody",
+            "definition": "A measurement of the neutralizing binding antidrug IgG1 antibody in a biological specimen.",
+            "identifier": "C181374",
+            "notation": "Neutralizing Binding Antidrug IgG1 AB",
+            "pref_label": "Neutralizing Binding Antidrug IgG1 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181374"
+        },
+        {
+            "alt_label": "Neutralizing Binding Antidrug IgG2 AB;Neutralizing Binding Antidrug IgG2 Antibody",
+            "definition": "A measurement of the neutralizing binding antidrug IgG2 antibody in a biological specimen.",
+            "identifier": "C181375",
+            "notation": "Neutralizing Binding Antidrug IgG2 AB",
+            "pref_label": "Neutralizing Binding Antidrug IgG2 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181375"
+        },
+        {
+            "alt_label": "Neutralizing Binding Antidrug IgG3 AB;Neutralizing Binding Antidrug IgG3 Antibody",
+            "definition": "A measurement of the neutralizing binding antidrug IgG3 antibody in a biological specimen.",
+            "identifier": "C181376",
+            "notation": "Neutralizing Binding Antidrug IgG3 AB",
+            "pref_label": "Neutralizing Binding Antidrug IgG3 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181376"
+        },
+        {
+            "alt_label": "Neutralizing Binding Antidrug IgG4 AB;Neutralizing Binding Antidrug IgG4 Antibody",
+            "definition": "A measurement of the neutralizing binding antidrug IgG4 antibody in a biological specimen.",
+            "identifier": "C181377",
+            "notation": "Neutralizing Binding Antidrug IgG4 AB",
+            "pref_label": "Neutralizing Binding Antidrug IgG4 Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181377"
+        },
+        {
+            "alt_label": "Neutralizing Binding Antidrug IgM AB;Neutralizing Binding Antidrug IgM Antibody",
+            "definition": "A measurement of the neutralizing binding antidrug IgM antibody in a biological specimen.",
+            "identifier": "C181372",
+            "notation": "Neutralizing Binding Antidrug IgM AB",
+            "pref_label": "Neutralizing Binding Antidrug IgM Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181372"
+        },
+        {
+            "alt_label": "Neutralizing Microbial-induced Antibody",
+            "definition": "A measurement of the neutralizing binding microbial-induced antibody in a biological specimen. A neutralizing microbial-induced antibody is a type of functional antibody that's defined as antibodies that bind to, block and prevent microbes from infecting cells. The production of this antibody may be triggered by naturally occurring infection and/or vaccination using a whole microbe or component(s) of a microbe.",
+            "identifier": "C181396",
+            "notation": "Neutralizing Microbial-induced Antibody",
+            "pref_label": "Neutralizing Microbial-induced Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C181396"
+        },
+        {
+            "alt_label": "T-Lymphocyte Proliferation Index",
+            "definition": "A relative measurement (ratio or percentage) of T-lymphocyte proliferation due to stimulation by an antigen of interest to a non-stimulated T-lymphocyte proliferation control.",
+            "identifier": "C161337",
+            "notation": "T-Lymphocyte Proliferation Index",
+            "pref_label": "T-Lymphocyte Proliferation Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C161337"
+        },
+        {
+            "alt_label": "Total IgG Antibody Secreting Cells;Total IgG ASCs",
+            "definition": "A measurement of the total IgG antibody secreting cells in a biological specimen.",
+            "identifier": "C120624",
+            "notation": "Total IgG Antibody Secreting Cells",
+            "pref_label": "Total IgG Antibody Secreting Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120526-C120624"
+        }
+    ]
+}

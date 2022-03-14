@@ -1,0 +1,51 @@
+{
+    "FROM_SOURCE": [
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam",
+            "to": "http://id.d4k.dk/dataset/source/cdisc/ct/adam"
+        }
+    ],
+    "SKOS_HAS_TOP_CONCEPT": [
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81223"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C172334"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C172335"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C158114"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C158115"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81225"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C165644"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C124296"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81226"
+        }
+    ],
+    "SKOS_NARROWER": []
+}

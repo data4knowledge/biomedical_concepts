@@ -1,0 +1,26 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Occurring in or belonging to the present time. (NCI)",
+            "identifier": "C25471",
+            "notation": "CURRENT",
+            "pref_label": "Current",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78738-C25471"
+        },
+        {
+            "alt_label": "Previous",
+            "definition": "Occurring prior to something else. (NCI)",
+            "identifier": "C25627",
+            "notation": "FORMER",
+            "pref_label": "Previous",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78738-C25627"
+        },
+        {
+            "definition": "Not ever; at no time in the past.",
+            "identifier": "C70543",
+            "notation": "NEVER",
+            "pref_label": "Never",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78738-C70543"
+        }
+    ]
+}

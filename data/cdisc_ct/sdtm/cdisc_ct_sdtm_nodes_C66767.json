@@ -1,0 +1,62 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An indication that a medication schedule was modified by addition; either by changing the frequency, strength or amount. (NCI)",
+            "identifier": "C49503",
+            "notation": "DOSE INCREASED",
+            "pref_label": "Dose Increased",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C49503"
+        },
+        {
+            "definition": "An indication that a medication schedule was maintained. (NCI)",
+            "identifier": "C49504",
+            "notation": "DOSE NOT CHANGED",
+            "pref_label": "Dose Not Changed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C49504"
+        },
+        {
+            "definition": "An indication that the administration of a medication was modified by reducing the rate at which the dose was given, without reducing the total dose administered.",
+            "identifier": "C150826",
+            "notation": "DOSE RATE REDUCED",
+            "pref_label": "Dose Rate Reduced",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C150826"
+        },
+        {
+            "definition": "An indication that a medication schedule was modified by subtraction, either by changing the frequency, strength or amount. (NCI)",
+            "identifier": "C49505",
+            "notation": "DOSE REDUCED",
+            "pref_label": "Dose Reduced",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C49505"
+        },
+        {
+            "definition": "An indication that a medication schedule was modified by temporarily terminating a prescribed regimen of medication. (NCI)",
+            "identifier": "C49501",
+            "notation": "DRUG INTERRUPTED",
+            "pref_label": "Drug Interrupted",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C49501"
+        },
+        {
+            "definition": "An indication that a medication schedule was modified through termination of a prescribed regimen of medication. (NCI)",
+            "identifier": "C49502",
+            "notation": "DRUG WITHDRAWN",
+            "pref_label": "Drug Withdrawn",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C49502"
+        },
+        {
+            "alt_label": "NA;Not Applicable",
+            "definition": "Determination of a value is not relevant in the current context. (NCI)",
+            "identifier": "C48660",
+            "notation": "NOT APPLICABLE",
+            "pref_label": "Not Applicable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C48660"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C17998"
+        }
+    ]
+}

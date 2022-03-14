@@ -1,0 +1,900 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "UHDR1-Ocular Pursuit: Horizontal",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Ocular pursuit, horizontal.",
+            "identifier": "C155370",
+            "notation": "UHDR101A",
+            "pref_label": "UHDRS 1999 Version - Ocular Pursuit: Horizontal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155370"
+        },
+        {
+            "alt_label": "UHDR1-Ocular Pursuit: Vertical",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Ocular pursuit, vertical.",
+            "identifier": "C155371",
+            "notation": "UHDR101B",
+            "pref_label": "UHDRS 1999 Version - Ocular Pursuit: Vertical",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155371"
+        },
+        {
+            "alt_label": "UHDR1-Saccade Initiation: Horizontal",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Saccade initiation, horizontal.",
+            "identifier": "C155372",
+            "notation": "UHDR102A",
+            "pref_label": "UHDRS 1999 Version - Saccade Initiation: Horizontal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155372"
+        },
+        {
+            "alt_label": "UHDR1-Saccade Initiation: Vertical",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Saccade initiation, vertical.",
+            "identifier": "C155373",
+            "notation": "UHDR102B",
+            "pref_label": "UHDRS 1999 Version - Saccade Initiation: Vertical",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155373"
+        },
+        {
+            "alt_label": "UHDR1-Saccade Velocity: Horizontal",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Saccade velocity, horizontal.",
+            "identifier": "C155374",
+            "notation": "UHDR103A",
+            "pref_label": "UHDRS 1999 Version - Saccade Velocity: Horizontal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155374"
+        },
+        {
+            "alt_label": "UHDR1-Saccade Velocity: Vertical",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Saccade velocity, vertical.",
+            "identifier": "C155375",
+            "notation": "UHDR103B",
+            "pref_label": "UHDRS 1999 Version - Saccade Velocity: Vertical",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155375"
+        },
+        {
+            "alt_label": "UHDR1-Dysarthria",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Dysarthria.",
+            "identifier": "C155376",
+            "notation": "UHDR104",
+            "pref_label": "UHDRS 1999 Version - Dysarthria",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155376"
+        },
+        {
+            "alt_label": "UHDR1-Tongue Protrusion",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Tongue protrusion.",
+            "identifier": "C155377",
+            "notation": "UHDR105",
+            "pref_label": "UHDRS 1999 Version - Tongue Protrusion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155377"
+        },
+        {
+            "alt_label": "UHDR1-Finger Taps: Right",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Finger taps, right.",
+            "identifier": "C155378",
+            "notation": "UHDR106A",
+            "pref_label": "UHDRS 1999 Version - Finger Taps: Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155378"
+        },
+        {
+            "alt_label": "UHDR1-Finger Taps: Left",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Finger taps, left.",
+            "identifier": "C155379",
+            "notation": "UHDR106B",
+            "pref_label": "UHDRS 1999 Version - Finger Taps: Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155379"
+        },
+        {
+            "alt_label": "UHDR1-Pronate/Supinate: Hands: Right",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Pronate/supinate-hands, right.",
+            "identifier": "C155380",
+            "notation": "UHDR107A",
+            "pref_label": "UHDRS 1999 Version - Pronate/Supinate: Hands: Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155380"
+        },
+        {
+            "alt_label": "UHDR1-Pronate/Supinate: Hands: Left",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Pronate/supinate-hands, left.",
+            "identifier": "C155381",
+            "notation": "UHDR107B",
+            "pref_label": "UHDRS 1999 Version - Pronate/Supinate: Hands: Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155381"
+        },
+        {
+            "alt_label": "UHDR1-Luria",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Luria (fist-hand palm test).",
+            "identifier": "C155382",
+            "notation": "UHDR108",
+            "pref_label": "UHDRS 1999 Version - Luria",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155382"
+        },
+        {
+            "alt_label": "UHDR1-Rigidity: Arms: Right",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Rigidity-arms, right.",
+            "identifier": "C155383",
+            "notation": "UHDR109A",
+            "pref_label": "UHDRS 1999 Version - Rigidity: Arms: Right",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155383"
+        },
+        {
+            "alt_label": "UHDR1-Rigidity: Arms: Left",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Rigidity-arms, left.",
+            "identifier": "C155384",
+            "notation": "UHDR109B",
+            "pref_label": "UHDRS 1999 Version - Rigidity: Arms: Left",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155384"
+        },
+        {
+            "alt_label": "UHDR1-Bradykinesia: Body",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Bradykinesia-body.",
+            "identifier": "C155385",
+            "notation": "UHDR110",
+            "pref_label": "UHDRS 1999 Version - Bradykinesia: Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155385"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Dystonia: Trunk",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal dystonia-Trunk.",
+            "identifier": "C155386",
+            "notation": "UHDR111A",
+            "pref_label": "UHDRS 1999 Version - Maximal Dystonia: Trunk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155386"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Dystonia: RUE",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal dystonia-RUE.",
+            "identifier": "C155387",
+            "notation": "UHDR111B",
+            "pref_label": "UHDRS 1999 Version - Maximal Dystonia: RUE",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155387"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Dystonia: LUE",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal dystonia-LUE.",
+            "identifier": "C155388",
+            "notation": "UHDR111C",
+            "pref_label": "UHDRS 1999 Version - Maximal Dystonia: LUE",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155388"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Dystonia: RLE",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal dystonia-RLE.",
+            "identifier": "C155389",
+            "notation": "UHDR111D",
+            "pref_label": "UHDRS 1999 Version - Maximal Dystonia: RLE",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155389"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Dystonia: LLE",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal dystonia-LLE.",
+            "identifier": "C155390",
+            "notation": "UHDR111E",
+            "pref_label": "UHDRS 1999 Version - Maximal Dystonia: LLE",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155390"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Chorea: Face",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal chorea-Face.",
+            "identifier": "C155391",
+            "notation": "UHDR112A",
+            "pref_label": "UHDRS 1999 Version - Maximal Chorea: Face",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155391"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Chorea: BOL",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal chorea-BOL.",
+            "identifier": "C155392",
+            "notation": "UHDR112B",
+            "pref_label": "UHDRS 1999 Version - Maximal Chorea: BOL",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155392"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Chorea: Trunk",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal chorea-Trunk.",
+            "identifier": "C155393",
+            "notation": "UHDR112C",
+            "pref_label": "UHDRS 1999 Version - Maximal Chorea: Trunk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155393"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Chorea: RUE",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal chorea-RUE.",
+            "identifier": "C155394",
+            "notation": "UHDR112D",
+            "pref_label": "UHDRS 1999 Version - Maximal Chorea: RUE",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155394"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Chorea: LUE",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal chorea-LUE.",
+            "identifier": "C155395",
+            "notation": "UHDR112E",
+            "pref_label": "UHDRS 1999 Version - Maximal Chorea: LUE",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155395"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Chorea: RLE",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal chorea-RLE.",
+            "identifier": "C155396",
+            "notation": "UHDR112F",
+            "pref_label": "UHDRS 1999 Version - Maximal Chorea: RLE",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155396"
+        },
+        {
+            "alt_label": "UHDR1-Maximal Chorea: LLE",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Maximal chorea-LLE.",
+            "identifier": "C155397",
+            "notation": "UHDR112G",
+            "pref_label": "UHDRS 1999 Version - Maximal Chorea: LLE",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155397"
+        },
+        {
+            "alt_label": "UHDR1-Gait",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Gait.",
+            "identifier": "C155398",
+            "notation": "UHDR113",
+            "pref_label": "UHDRS 1999 Version - Gait",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155398"
+        },
+        {
+            "alt_label": "UHDR1-Tandem Walking",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Tandem walking.",
+            "identifier": "C155399",
+            "notation": "UHDR114",
+            "pref_label": "UHDRS 1999 Version - Tandem Walking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155399"
+        },
+        {
+            "alt_label": "UHDR1-Retropulsion Pull Test",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Retropulsion pull test.",
+            "identifier": "C155400",
+            "notation": "UHDR115",
+            "pref_label": "UHDRS 1999 Version - Retropulsion Pull Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155400"
+        },
+        {
+            "alt_label": "UHDR1-Diagnosis Confidence Level",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Diagnosis confidence level: To what degree are you confident that this person meets the operational definition of the unequivocal presence of an otherwise unexplained extrapyramidal movement disorder (e.g., chorea, dystonia, bradykinesia, rigidity) in a subject at risk of HD?",
+            "identifier": "C155401",
+            "notation": "UHDR117",
+            "pref_label": "UHDRS 1999 Version - Diagnosis Confidence Level",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155401"
+        },
+        {
+            "alt_label": "UHDR1-Verbal Fluency Test",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Verbal fluency test (raw score).",
+            "identifier": "C155402",
+            "notation": "UHDR119",
+            "pref_label": "UHDRS 1999 Version - Verbal Fluency Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155402"
+        },
+        {
+            "alt_label": "UHDR1-Symbol Digit Modalities Test",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Symbol digit modalities test (raw score).",
+            "identifier": "C155403",
+            "notation": "UHDR120",
+            "pref_label": "UHDRS 1999 Version - Symbol Digit Modalities Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155403"
+        },
+        {
+            "alt_label": "UHDR1-Depressed Mood: Frequency",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Depressed mood: Frequency: Within the past month, how often have you been feeling sad, down or \"blue\"?",
+            "identifier": "C155404",
+            "notation": "UHDR125A",
+            "pref_label": "UHDRS 1999 Version - Depressed Mood: Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155404"
+        },
+        {
+            "alt_label": "UHDR1-Depressed Mood: Severity",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Depressed mood: Severity: How has your mood affected your daily activities? [Evidence of sad mood from behavioral observation includes sad voice or expression, tearfulness.].",
+            "identifier": "C155405",
+            "notation": "UHDR125B",
+            "pref_label": "UHDRS 1999 Version - Depressed Mood: Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155405"
+        },
+        {
+            "alt_label": "UHDR1-Apathy: Frequency",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Apathy: Frequency: Within the past month, how often have you found that you have lost interest in things that used to be important to you?",
+            "identifier": "C155406",
+            "notation": "UHDR126A",
+            "pref_label": "UHDRS 1999 Version - Apathy: Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155406"
+        },
+        {
+            "alt_label": "UHDR1-Apathy: Severity",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Apathy: Severity: How has apathy impacted your ability to carry out daily activities?",
+            "identifier": "C155407",
+            "notation": "UHDR126B",
+            "pref_label": "UHDRS 1999 Version - Apathy: Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155407"
+        },
+        {
+            "alt_label": "UHDR1-Self-esteem/Guilt: Frequency",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Self-esteem/guilt: Frequency: Within the past month, how often have you been feeling badly about yourself?",
+            "identifier": "C155408",
+            "notation": "UHDR127A",
+            "pref_label": "UHDRS 1999 Version - Self-esteem/Guilt: Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155408"
+        },
+        {
+            "alt_label": "UHDR1-Self-esteem/Guilt: Severity",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Self-esteem/guilt: Severity: How have these feelings affected your daily activities?",
+            "identifier": "C155409",
+            "notation": "UHDR127B",
+            "pref_label": "UHDRS 1999 Version - Self-esteem/Guilt: Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155409"
+        },
+        {
+            "alt_label": "UHDR1-Suicidal Thoughts: Frequency",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Suicidal thoughts: Frequency: Within the past month, how often have you thought about hurting yourself or ending it all?",
+            "identifier": "C155410",
+            "notation": "UHDR128A",
+            "pref_label": "UHDRS 1999 Version - Suicidal Thoughts: Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155410"
+        },
+        {
+            "alt_label": "UHDR1-Suicidal Thoughts: Severity",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Suicidal thoughts: Severity: Do you have a plan in mind to end it all? Have you taken any steps toward carrying out your plan?",
+            "identifier": "C155411",
+            "notation": "UHDR128B",
+            "pref_label": "UHDRS 1999 Version - Suicidal Thoughts: Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155411"
+        },
+        {
+            "alt_label": "UHDR1-Anxiety: Frequency",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Anxiety: Frequency: Within the past month, how often have you found yourself worrying about things?",
+            "identifier": "C155412",
+            "notation": "UHDR129A",
+            "pref_label": "UHDRS 1999 Version - Anxiety: Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155412"
+        },
+        {
+            "alt_label": "UHDR1-Anxiety: Severity",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Anxiety: Severity: How much has nervousness or worry affected your daily activities?",
+            "identifier": "C155413",
+            "notation": "UHDR129B",
+            "pref_label": "UHDRS 1999 Version - Anxiety: Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155413"
+        },
+        {
+            "alt_label": "UHDR1-Irritable Behavior: Frequency",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Irritable behavior: Frequency: In the past month, how often have you felt impatient, irritable, or \"cranky\"?",
+            "identifier": "C155414",
+            "notation": "UHDR130A",
+            "pref_label": "UHDRS 1999 Version - Irritable Behavior: Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155414"
+        },
+        {
+            "alt_label": "UHDR1-Irritable Behavior: Severity",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Irritable behavior: Severity: How has irritability impacted your ability to get along with others?",
+            "identifier": "C155415",
+            "notation": "UHDR130B",
+            "pref_label": "UHDRS 1999 Version - Irritable Behavior: Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155415"
+        },
+        {
+            "alt_label": "UHDR1-Disruptive Behavior: Frequency",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Disruptive or aggressive behavior: Frequency: Within the past month, how often have you had emotional or temper outbursts? How often have you had times when you lost control of yourself?",
+            "identifier": "C155416",
+            "notation": "UHDR131A",
+            "pref_label": "UHDRS 1999 Version - Disruptive Behavior: Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155416"
+        },
+        {
+            "alt_label": "UDHR1-Disruptive Behavior: Severity",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Disruptive or aggressive behavior: Severity: Have you used threats or hostile words? Have you hit or shoved or thrown things or expressed your temper in a physical way?",
+            "identifier": "C155417",
+            "notation": "UHDR131B",
+            "pref_label": "UHDRS 1999 Version - UDHR1-Disruptive Behavior: Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155417"
+        },
+        {
+            "alt_label": "UHDR1-Perseverative Thinking: Frequency",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Perseverative/obsessional thinking: Frequency: Within the past month, how often have you found yourself getting stuck on certain ideas? How often have you been bothered by thoughts, images, or fears that keep coming back even if you try not to have them?",
+            "identifier": "C155418",
+            "notation": "UHDR132A",
+            "pref_label": "UHDRS 1999 Version - Perseverative Thinking: Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155418"
+        },
+        {
+            "alt_label": "UDHR1-Perseverative Thinking: Severity",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Perseverative/obsessional thinking: Severity: Have do repeated thoughts impact your daily life?",
+            "identifier": "C155419",
+            "notation": "UHDR132B",
+            "pref_label": "UHDRS 1999 Version - UDHR1-Perseverative Thinking: Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155419"
+        },
+        {
+            "alt_label": "UHDR1-Compulsive Behavior: Frequency",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Compulsive behavior: Frequency: Within the past month, how often have you found yourself doing certain things over and over again (counting, washing, checking)?",
+            "identifier": "C155420",
+            "notation": "UHDR133A",
+            "pref_label": "UHDRS 1999 Version - Compulsive Behavior: Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155420"
+        },
+        {
+            "alt_label": "UDHR1-Compulsive Behavior: Severity",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Compulsive behavior: Severity: Are you unable to resist doing some of these things?",
+            "identifier": "C155421",
+            "notation": "UHDR133B",
+            "pref_label": "UHDRS 1999 Version - UDHR1-Compulsive Behavior: Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155421"
+        },
+        {
+            "alt_label": "UHDR1-Delusions: Frequency",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Delusions: Frequency: How often does it seem like people are out to get you, people are controlling you, or you are very suspicious of others? Do you have special powers or importance?",
+            "identifier": "C155422",
+            "notation": "UHDR134A",
+            "pref_label": "UHDRS 1999 Version - Delusions: Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155422"
+        },
+        {
+            "alt_label": "UDHR1-Delusions: Severity",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Delusions: Severity: When you feel suspicious (insert delusion here), are you able to convince yourself that it is not rational? [Severity should reflect the behavior's impact on the individual's ability to carry out daily activities as indicated by response choices.].",
+            "identifier": "C155423",
+            "notation": "UHDR134B",
+            "pref_label": "UHDRS 1999 Version - UDHR1-Delusions: Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155423"
+        },
+        {
+            "alt_label": "UHDR1-Hallucinations: Frequency",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Hallucinations: Frequency: How often have you heard things that other people couldn't hear, or seen things that other people couldn't see?",
+            "identifier": "C155424",
+            "notation": "UHDR135A",
+            "pref_label": "UHDRS 1999 Version - Hallucinations: Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155424"
+        },
+        {
+            "alt_label": "UDHR1-Hallucinations: Severity",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Hallucinations: Severity: When you see or hear things (insert hallucination here), are you able to convince yourself that it is not rational? [Severity should reflect the behavior's impact on the individual's ability to carry out daily activities as indicated by response choices.].",
+            "identifier": "C155425",
+            "notation": "UHDR135B",
+            "pref_label": "UHDRS 1999 Version - UDHR1-Hallucinations: Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155425"
+        },
+        {
+            "alt_label": "UDHR1-Examiner Believe Subject Confused",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Confusion is defined as intermittent or persistent disorganized thinking, perceptual disturbances or disorientation to time, place, or person. Does the examiner believe the subject is confused?",
+            "identifier": "C155426",
+            "notation": "UHDR136",
+            "pref_label": "UHDRS 1999 Version - UDHR1-Examiner Believe Subject Confused",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155426"
+        },
+        {
+            "alt_label": "UDHR1-Confusion Altered Performance",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - If yes: Does the examiner believe that this has altered the performance on the UHDRS?",
+            "identifier": "C155427",
+            "notation": "UHDR136A",
+            "pref_label": "UHDRS 1999 Version - UDHR1-Confusion Altered Performance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155427"
+        },
+        {
+            "alt_label": "UDHR1-Examiner Believe Signs of Dementia",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Dementia is defined as progressive impairment in memory, abstract thinking or judgment that interferes with work or usual social activities and relationships. Does the examiner believe that the participant is showing signs of dementia?",
+            "identifier": "C155428",
+            "notation": "UHDR137",
+            "pref_label": "UHDRS 1999 Version - UDHR1-Examiner Believe Signs of Dementia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155428"
+        },
+        {
+            "alt_label": "UDHR1-Dementia Altered Performance",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - If yes: Does the examiner believe that this has altered the performance on the UHDRS?",
+            "identifier": "C155429",
+            "notation": "UHDR137A",
+            "pref_label": "UHDRS 1999 Version - UDHR1-Dementia Altered Performance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155429"
+        },
+        {
+            "alt_label": "UDHR1-Examiner Believe Signs Depression",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Depression is defined as persistent depressed mood, anhedonia, or vegetative signs sufficient to interfere with daily functioning. Does the examiner believe that the participant is showing signs of depression?",
+            "identifier": "C155430",
+            "notation": "UHDR138",
+            "pref_label": "UHDRS 1999 Version - UDHR1-Examiner Believe Signs Depression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155430"
+        },
+        {
+            "alt_label": "UHDR1-Pharmacotherapy of Depression",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - In the opinion of the examiner, is a clinical evaluation or follow up warranted for possible pharmacotherapy of depression?",
+            "identifier": "C155431",
+            "notation": "UHDR139",
+            "pref_label": "UHDRS 1999 Version - Pharmacotherapy of Depression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155431"
+        },
+        {
+            "alt_label": "UHDR1-Pharmacotherapy of Irritability",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - In the opinion of the examiner, is a clinical evaluation or follow up warranted for possible pharmacotherapy of irritability?",
+            "identifier": "C155432",
+            "notation": "UHDR140",
+            "pref_label": "UHDRS 1999 Version - Pharmacotherapy of Irritability",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155432"
+        },
+        {
+            "alt_label": "UHDR1-Behavior Assessment Obtained From",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Was the Behavioral Assessment information obtained from.",
+            "identifier": "C155433",
+            "notation": "UHDR141",
+            "pref_label": "UHDRS 1999 Version - Behavior Assessment Obtained From",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155433"
+        },
+        {
+            "alt_label": "UHDR1-Gainful Employment Accustomed Work",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject engage in gainful employment in his/her accustomed work?",
+            "identifier": "C155434",
+            "notation": "UHDR143",
+            "pref_label": "UHDRS 1999 Version - Gainful Employment Accustomed Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155434"
+        },
+        {
+            "alt_label": "UHDR1-Any Gainful Employment",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject engage in any kind of gainful employment?",
+            "identifier": "C155435",
+            "notation": "UHDR144",
+            "pref_label": "UHDRS 1999 Version - Any Gainful Employment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155435"
+        },
+        {
+            "alt_label": "UHDR1-Volunteer or Non Gainful Work",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject engage in any kind of volunteer or non gainful work?",
+            "identifier": "C155436",
+            "notation": "UHDR145",
+            "pref_label": "UHDRS 1999 Version - Volunteer or Non Gainful Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155436"
+        },
+        {
+            "alt_label": "UHDR1-Manage Finances Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject manage his/her finances (monthly) without any help?",
+            "identifier": "C155437",
+            "notation": "UHDR146",
+            "pref_label": "UHDRS 1999 Version - Manage Finances Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155437"
+        },
+        {
+            "alt_label": "UHDR1-Shop for Groceries Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject shop for groceries without help?",
+            "identifier": "C155438",
+            "notation": "UHDR147",
+            "pref_label": "UHDRS 1999 Version - Shop for Groceries Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155438"
+        },
+        {
+            "alt_label": "UHDR1-Handle Money as Purchaser",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject handle money as a purchaser in a simple cash (store) transaction?",
+            "identifier": "C155439",
+            "notation": "UHDR148",
+            "pref_label": "UHDRS 1999 Version - Handle Money as Purchaser",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155439"
+        },
+        {
+            "alt_label": "UHDR1-Supervise Children Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject supervise children without help?",
+            "identifier": "C155440",
+            "notation": "UHDR149",
+            "pref_label": "UHDRS 1999 Version - Supervise Children Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155440"
+        },
+        {
+            "alt_label": "UHDR1-Operate Automobile Safely",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject operate an automobile safely and independently?",
+            "identifier": "C155441",
+            "notation": "UHDR150",
+            "pref_label": "UHDRS 1999 Version - Operate Automobile Safely",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155441"
+        },
+        {
+            "alt_label": "UHDR1-Do Housework Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject do his/her own housework without help?",
+            "identifier": "C155442",
+            "notation": "UHDR151",
+            "pref_label": "UHDRS 1999 Version - Do Housework Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155442"
+        },
+        {
+            "alt_label": "UHDR1-Do Laundry Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject do his/her own laundry (wash/dry) without help?",
+            "identifier": "C155443",
+            "notation": "UHDR152",
+            "pref_label": "UHDRS 1999 Version - Do Laundry Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155443"
+        },
+        {
+            "alt_label": "UHDR1-Prepare Own Meals Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject prepare his/her own meals without help?",
+            "identifier": "C155444",
+            "notation": "UHDR153",
+            "pref_label": "UHDRS 1999 Version - Prepare Own Meals Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155444"
+        },
+        {
+            "alt_label": "UHDR1-Use Telephone Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject use the telephone without help?",
+            "identifier": "C155445",
+            "notation": "UHDR154",
+            "pref_label": "UHDRS 1999 Version - Use Telephone Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155445"
+        },
+        {
+            "alt_label": "UHDR1-Take Medications Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject take his/her own medications without help?",
+            "identifier": "C155446",
+            "notation": "UHDR155",
+            "pref_label": "UHDRS 1999 Version - Take Medications Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155446"
+        },
+        {
+            "alt_label": "UHDR1-Feed Himself/Herself Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject feed himself/herself without help?",
+            "identifier": "C155447",
+            "notation": "UHDR156",
+            "pref_label": "UHDRS 1999 Version - Feed Himself/Herself Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155447"
+        },
+        {
+            "alt_label": "UHDR1-Dress Himself/Herself Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject dress himself/herself without help?",
+            "identifier": "C155448",
+            "notation": "UHDR157",
+            "pref_label": "UHDRS 1999 Version - Dress Himself/Herself Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155448"
+        },
+        {
+            "alt_label": "UHDR1-Bathe Himself/Herself Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject bathe himself/herself without help?",
+            "identifier": "C155449",
+            "notation": "UHDR158",
+            "pref_label": "UHDRS 1999 Version - Bathe Himself/Herself Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155449"
+        },
+        {
+            "alt_label": "UHDR1-Public Transportation Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject use public transportation to get places without help?",
+            "identifier": "C155450",
+            "notation": "UHDR159",
+            "pref_label": "UHDRS 1999 Version - Public Transportation Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155450"
+        },
+        {
+            "alt_label": "UHDR1-Walk Own Neighborhood Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject walk to places in his/her own neighborhood without help?",
+            "identifier": "C155451",
+            "notation": "UHDR160",
+            "pref_label": "UHDRS 1999 Version - Walk Own Neighborhood Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155451"
+        },
+        {
+            "alt_label": "UHDR1-Walk Without Falling",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject walk without falling?",
+            "identifier": "C155452",
+            "notation": "UHDR161",
+            "pref_label": "UHDRS 1999 Version - Walk Without Falling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155452"
+        },
+        {
+            "alt_label": "UHDR1-Walk Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject walk without help?",
+            "identifier": "C155453",
+            "notation": "UHDR162",
+            "pref_label": "UHDRS 1999 Version - Walk Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155453"
+        },
+        {
+            "alt_label": "UHDR1-Comb Hair Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject comb hair without help?",
+            "identifier": "C155454",
+            "notation": "UHDR163",
+            "pref_label": "UHDRS 1999 Version - Comb Hair Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155454"
+        },
+        {
+            "alt_label": "UHDR1-Transfer Chair Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject transfer between chairs without help?",
+            "identifier": "C155455",
+            "notation": "UHDR164",
+            "pref_label": "UHDRS 1999 Version - Transfer Chair Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155455"
+        },
+        {
+            "alt_label": "UHDR1-Get in and Out of Bed Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject get in and out of bed without help?",
+            "identifier": "C155456",
+            "notation": "UHDR165",
+            "pref_label": "UHDRS 1999 Version - Get in and Out of Bed Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155456"
+        },
+        {
+            "alt_label": "UHDR1-Use Toilet/Commode Without Help",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject use the toilet/commode without help?",
+            "identifier": "C155457",
+            "notation": "UHDR166",
+            "pref_label": "UHDRS 1999 Version - Use Toilet/Commode Without Help",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155457"
+        },
+        {
+            "alt_label": "UHDR1-Care Provided at Home",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Could the subject's care still be provided at home?",
+            "identifier": "C155458",
+            "notation": "UHDR167",
+            "pref_label": "UHDRS 1999 Version - Care Provided at Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155458"
+        },
+        {
+            "alt_label": "UHDR1-Functional Assess Obtained From",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Was the Functional Assessment information obtained from.",
+            "identifier": "C155459",
+            "notation": "UHDR168",
+            "pref_label": "UHDRS 1999 Version - Functional Assess Obtained From",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155459"
+        },
+        {
+            "alt_label": "UHDR1-Current Level Subject Independence",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Please indicate the most accurate current level of subject's independence (only increments of 5 are acceptable).",
+            "identifier": "C155460",
+            "notation": "UHDR169",
+            "pref_label": "UHDRS 1999 Version - Current Level Subject Independence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155460"
+        },
+        {
+            "alt_label": "UHDR1-Occupation",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Occupation.",
+            "identifier": "C155461",
+            "notation": "UHDR170",
+            "pref_label": "UHDRS 1999 Version - Occupation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155461"
+        },
+        {
+            "alt_label": "UHDR1-Finances",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Finances.",
+            "identifier": "C155462",
+            "notation": "UHDR171",
+            "pref_label": "UHDRS 1999 Version - Finances",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155462"
+        },
+        {
+            "alt_label": "UHDR1-Domestic Chores",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Domestic Chores.",
+            "identifier": "C155463",
+            "notation": "UHDR172",
+            "pref_label": "UHDRS 1999 Version - Domestic Chores",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155463"
+        },
+        {
+            "alt_label": "UHDR1-ADL",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - ADL.",
+            "identifier": "C155464",
+            "notation": "UHDR173",
+            "pref_label": "UHDRS 1999 Version - ADL",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155464"
+        },
+        {
+            "alt_label": "UHDR1-Care Level",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Care Level.",
+            "identifier": "C155465",
+            "notation": "UHDR174",
+            "pref_label": "UHDRS 1999 Version - Care Level",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155465"
+        },
+        {
+            "alt_label": "UHDR1-Functional Capacity Obtained From",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Was the Functional Capacity information obtained from.",
+            "identifier": "C155466",
+            "notation": "UHDR175",
+            "pref_label": "UHDRS 1999 Version - Functional Capacity Obtained From",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155466"
+        },
+        {
+            "alt_label": "UHDR1-Purpose of This Visit",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - What was the purpose of this visit?",
+            "identifier": "C155467",
+            "notation": "UHDR177",
+            "pref_label": "UHDRS 1999 Version - Purpose of This Visit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155467"
+        },
+        {
+            "alt_label": "UHDR1-Since Last Assessment Opinion",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Since your last assessment of the subject, in your opinion, has the subject.",
+            "identifier": "C155468",
+            "notation": "UHDR178",
+            "pref_label": "UHDRS 1999 Version - Since Last Assessment Opinion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155468"
+        },
+        {
+            "alt_label": "UHDR1-Since Last Assessment Feel",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Since your last assessment does the subject feel.",
+            "identifier": "C155469",
+            "notation": "UHDR179",
+            "pref_label": "UHDRS 1999 Version - Since Last Assessment Feel",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155469"
+        },
+        {
+            "alt_label": "UHDR1-Believe Subject Has Manifest HD",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Based on the entire UHDRS (Motor, Cognitive, Behavioral and Functional components) do you believe with a confidence level >= 99% that this subject has manifest HD?",
+            "identifier": "C155470",
+            "notation": "UHDR180",
+            "pref_label": "UHDRS 1999 Version - Believe Subject Has Manifest HD",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155470"
+        },
+        {
+            "alt_label": "UHDR1-Permanently Institutionalized",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Since the last visit, has the subject been permanently institutionalized?",
+            "identifier": "C155471",
+            "notation": "UHDR183A",
+            "pref_label": "UHDRS 1999 Version - Permanently Institutionalized",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155471"
+        },
+        {
+            "alt_label": "UHDR1-Continue to Be Assessed for Study",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - If the subject was institutionalized will the subject continue to be assessed for this study?",
+            "identifier": "C155472",
+            "notation": "UHDR183B",
+            "pref_label": "UHDRS 1999 Version - Continue to Be Assessed for Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155472"
+        },
+        {
+            "alt_label": "UHDR1-Total Motor Score",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Total Motor score.",
+            "identifier": "C155473",
+            "notation": "UHDR184",
+            "pref_label": "UHDRS 1999 Version - Total Motor Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155473"
+        },
+        {
+            "alt_label": "UHDR1-Total Behavior Score",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Total Behavior score.",
+            "identifier": "C155474",
+            "notation": "UHDR185",
+            "pref_label": "UHDRS 1999 Version - Total Behavior Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155474"
+        },
+        {
+            "alt_label": "UHDR1-Mood Subscale Score",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Mood subscale score of the total behavior score.",
+            "identifier": "C155475",
+            "notation": "UHDR186",
+            "pref_label": "UHDRS 1999 Version - Mood Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155475"
+        },
+        {
+            "alt_label": "UHDR1-Behavior Subscale Score",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Behavior subscale score of the total behavior score.",
+            "identifier": "C155476",
+            "notation": "UHDR187",
+            "pref_label": "UHDRS 1999 Version - Behavior Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155476"
+        },
+        {
+            "alt_label": "UHDR1-Psychosis Subscale Score",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Psychosis subscale score of the total behavior score.",
+            "identifier": "C155477",
+            "notation": "UHDR188",
+            "pref_label": "UHDRS 1999 Version - Psychosis Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155477"
+        },
+        {
+            "alt_label": "UHDR1-Obsessive Subscale Score",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Obsessive subscale score of the total behavior score.",
+            "identifier": "C155478",
+            "notation": "UHDR189",
+            "pref_label": "UHDRS 1999 Version - Obsessive Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155478"
+        },
+        {
+            "alt_label": "UHDR1-Total Functional Capacity Score",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Total functional capacity score.",
+            "identifier": "C155479",
+            "notation": "UHDR190",
+            "pref_label": "UHDRS 1999 Version - Total Functional Capacity Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155479"
+        },
+        {
+            "alt_label": "UHDR1-Independence Scale Score",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Independence scale score.",
+            "identifier": "C155480",
+            "notation": "UHDR191",
+            "pref_label": "UHDRS 1999 Version - Independence Scale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155480"
+        },
+        {
+            "alt_label": "UHDR1-Functional Checklist Score",
+            "definition": "Unified Huntington's Disease Rating Scale '99 - Functional checklist score.",
+            "identifier": "C155481",
+            "notation": "UHDR192",
+            "pref_label": "UHDRS 1999 Version - Functional Checklist Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154449-C155481"
+        }
+    ]
+}

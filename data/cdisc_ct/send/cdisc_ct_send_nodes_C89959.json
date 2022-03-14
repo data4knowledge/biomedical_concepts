@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Average Body Weight Gain",
+            "definition": "The mean value of the amount of weight change over a period of time, relative to the beginning of the collection period.",
+            "identifier": "C90363",
+            "notation": "Average Body Weight Gain",
+            "pref_label": "Average Body Weight Gain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89959-C90363"
+        },
+        {
+            "alt_label": "Body Weight Gain",
+            "definition": "A change in overall body weight, relative to the beginning of the collection period.",
+            "identifier": "C62754",
+            "notation": "Body Weight Gain",
+            "pref_label": "Weight Gain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89959-C62754"
+        },
+        {
+            "alt_label": "Gravid Uterus Adjusted Body Weight Gain",
+            "definition": "The amount of maternal body weight gained over a period of time where the weight at the end of the interval is adjusted for the gravid uterus weight. This is derived by subtracting the maternal body weight adjusted for the gravid uterus from the total maternal body weight.",
+            "identifier": "C124476",
+            "notation": "Gravid Uterus Adjusted Body Weight Gain",
+            "pref_label": "Gravid Uterus Adjusted Maternal Body Weight Gain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89959-C124476"
+        },
+        {
+            "alt_label": "Percentage Body Weight Gain",
+            "definition": "The amount of weight change over a period of time in relation to the total weight, relative to the beginning of the collection period.",
+            "identifier": "C90434",
+            "notation": "Percentage Body Weight Gain",
+            "pref_label": "Percentage Body Weight Gain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89959-C90434"
+        }
+    ]
+}

@@ -1,0 +1,428 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Anatomical Plane",
+            "definition": "The position and orientation of the image slice relative to the patient-based coordinate system. (NCI)",
+            "identifier": "C102516",
+            "notation": "ANTPLANE",
+            "pref_label": "Image Plane",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C102516"
+        },
+        {
+            "alt_label": "Image Acquisition Matrix Size",
+            "definition": "A measurement of the number of data fields, pixels or data points assigned to each linear dimension in a digital image. (NCI)",
+            "identifier": "C106533",
+            "notation": "AQMTRXSZ",
+            "pref_label": "Image Acquisition Matrix Size",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C106533"
+        },
+        {
+            "alt_label": "Attenuation Correction Type",
+            "definition": "The adjustment for the effect of tissue thicknesses through which gamma's travel from an activity concentration origin to the scanner's detectors. The count rates of a detector are adjusted to values as if there were no attenuation along the gamma's path. This makes possible accurate quantitation in image analysis. (NCI)",
+            "identifier": "C94862",
+            "notation": "ATTCRCT",
+            "pref_label": "Attenuation Correction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C94862"
+        },
+        {
+            "alt_label": "Continuous Audio Recording Indicator",
+            "definition": "An indication as to whether a continuous audio recording is made during the assessment.",
+            "identifier": "C142236",
+            "notation": "CAUDRIND",
+            "pref_label": "Continuous Audio Recording Made Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C142236"
+        },
+        {
+            "alt_label": "Carbohydrate to Insulin Ratio Setting",
+            "definition": "A setting on a device that specifies the ratio of the carbohydrates to insulin in the administered product.",
+            "identifier": "C163418",
+            "notation": "CBINRATS",
+            "pref_label": "Carbohydrate to Insulin Ratio Device Setting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C163418"
+        },
+        {
+            "alt_label": "Checkerboard Square Size",
+            "definition": "A visual stimulus that uses a checkerboard pattern which reverses every half-second (or other specified frequency). The check size can be changed to allow for testing of specific segments of the visual pathway.",
+            "identifier": "C117759",
+            "notation": "CHCKSIZE",
+            "pref_label": "Checkerboard Square Size",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C117759"
+        },
+        {
+            "alt_label": "Number of Coil Channels",
+            "definition": "The number of channels, or elements, in the coil component of the device.",
+            "identifier": "C112364",
+            "notation": "COILNUM",
+            "pref_label": "Number of Coil Channels",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C112364"
+        },
+        {
+            "alt_label": "Coil Strength",
+            "definition": "The maximum voltage allowable to pass through an electromagnetic coil. (NCI)",
+            "identifier": "C106510",
+            "notation": "COILSTR",
+            "pref_label": "Coil Strength",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C106510"
+        },
+        {
+            "alt_label": "Decay Correction Indicator",
+            "definition": "An indication as to whether the image reconstruction took into account the time-activity curve during which the radiolabeled tracer decayed as it spread through the body during the image acquisition.",
+            "identifier": "C116127",
+            "notation": "DECCORR",
+            "pref_label": "Decay Correction Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C116127"
+        },
+        {
+            "alt_label": "Number of ECG Electrodes;Number of EKG Electrodes;Number of Electrocardiogram Electrodes",
+            "definition": "The number of electrocardiogram electrodes used in the assessment.",
+            "identifier": "C154906",
+            "notation": "ECGELCTN",
+            "pref_label": "Number of Electrocardiogram Electrodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C154906"
+        },
+        {
+            "alt_label": "Echo Time",
+            "definition": "The time in milliseconds between the application of the excitation pulse and the recording of the peak echo signal. (NCI)",
+            "identifier": "C82331",
+            "notation": "ECHOTIME",
+            "pref_label": "Echo Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C82331"
+        },
+        {
+            "alt_label": "Number of EEG Electrodes;Number of Electroencephalogram Electrodes",
+            "definition": "The number of electroencephalogram electrodes used in the assessment.",
+            "identifier": "C154713",
+            "notation": "EEGELCTN",
+            "pref_label": "Number of Electroencephalogram Electrodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C154713"
+        },
+        {
+            "alt_label": "Number of Electromyogram Electrodes;Number of EMG Electrodes",
+            "definition": "The number of electromyogram electrodes used in the assessment.",
+            "identifier": "C154908",
+            "notation": "EMGELCTN",
+            "pref_label": "Number of Electromyogram Electrodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C154908"
+        },
+        {
+            "alt_label": "Number of Electrooculogram Electrodes;Number of EOG Electrodes",
+            "definition": "The number of electrooculogram electrodes used in the assessment.",
+            "identifier": "C154907",
+            "notation": "EOGELCTN",
+            "pref_label": "Number of Electrooculogram Electrodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C154907"
+        },
+        {
+            "alt_label": "Field of View",
+            "definition": "The extent of an area that is visible. (NCI)",
+            "identifier": "C74298",
+            "notation": "FLDVIEW",
+            "pref_label": "Field of View",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C74298"
+        },
+        {
+            "alt_label": "Flip Angle",
+            "definition": "In magnetic resonance imaging, the rotation of the average axis of the protons, relative to the main magnetic field direction, induced by radiofrequency signals. (NCI)",
+            "identifier": "C73792",
+            "notation": "FLIPANGL",
+            "pref_label": "Flip Angle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C73792"
+        },
+        {
+            "alt_label": "Glucose Alert Threshold",
+            "definition": "A setting on a device that triggers the onset of an alarm when a pre-specified value of glucose level has been reached.",
+            "identifier": "C170566",
+            "notation": "GLUCALTH",
+            "pref_label": "Glucose Alert Threshold",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C170566"
+        },
+        {
+            "alt_label": "Glucose Target Level",
+            "definition": "A setting on a device where one can set and adjust the target value of blood glucose level.",
+            "identifier": "C170565",
+            "notation": "GLUCTLEV",
+            "pref_label": "Glucose Target Level",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C170565"
+        },
+        {
+            "alt_label": "Water Signal Suppression Method",
+            "definition": "The technique used to mitigate the signal that is generated from body water during imaging.",
+            "identifier": "C156661",
+            "notation": "H2OSUPPR",
+            "pref_label": "Water Signal Suppression Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C156661"
+        },
+        {
+            "alt_label": "Image Acquisition Dimensionality",
+            "definition": "The number of dimensions that the acquired image(s) are presented in.",
+            "identifier": "C116126",
+            "notation": "IMAQDIM",
+            "pref_label": "Image Acquisition Dimensionality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C116126"
+        },
+        {
+            "alt_label": "Image Weighting Type",
+            "definition": "A classification of the technique used to enhance image contrast based on differences in magnetic resonance tissue properties. This can be achieved by changing the echo time or repetition time after the tissue has returned to its equilibrium state.",
+            "identifier": "C116122",
+            "notation": "IMWGTTYP",
+            "pref_label": "Image Weighting Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C116122"
+        },
+        {
+            "alt_label": "Insulin Delivery Automation Mode",
+            "definition": "The setting on a device that will allow the delivery of insulin to a subject, either automatically or manually, in response to the glucose levels within the subject. (NCI)",
+            "identifier": "C172482",
+            "notation": "INDLAUMD",
+            "pref_label": "Insulin Delivery Automation Mode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C172482"
+        },
+        {
+            "alt_label": "Interslice Distance",
+            "definition": "A measurement of the distance between slices within an image sequence, calculated by subtracting the nominal slice thickness from the couch increment.",
+            "identifier": "C116123",
+            "notation": "INTDISTM",
+            "pref_label": "Interslice Distance Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C116123"
+        },
+        {
+            "alt_label": "Inversion Time",
+            "definition": "The time between the inversion and excitation pulses in an inversion recovery pulse sequence.",
+            "identifier": "C116124",
+            "notation": "INVRTIME",
+            "pref_label": "Inversion Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C116124"
+        },
+        {
+            "alt_label": "Max Bolus;Maximum Bolus",
+            "definition": "A setting and safety feature on a device to control the maximum amount of a substance delivered in a single bolus.",
+            "identifier": "C165872",
+            "notation": "MAXBOLUS",
+            "pref_label": "Maximum Bolus Device Setting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C165872"
+        },
+        {
+            "alt_label": "Missed Bolus Reminder Status",
+            "definition": "The status of a setting that enables alerts if a bolus is not delivered during a pre-specified time period. (NCI)",
+            "identifier": "C172483",
+            "notation": "MBRMST",
+            "pref_label": "Missed Bolus Reminder Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C172483"
+        },
+        {
+            "alt_label": "Number of Slices",
+            "definition": "The number of planar cross-sections in an imaging sequence; each slice corresponds to a single image.",
+            "identifier": "C116125",
+            "notation": "NUMSLICE",
+            "pref_label": "Number of Slices",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C116125"
+        },
+        {
+            "alt_label": "X-axis Pixel Spacing",
+            "definition": "A measurement of the distance between the centers of two adjacent pixels located along the X-axis.",
+            "identifier": "C69201",
+            "notation": "PIXSPCX",
+            "pref_label": "Horizontal Pixel Spacing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C69201"
+        },
+        {
+            "alt_label": "Y-axis Pixel Spacing",
+            "definition": "A measurement of the distance between the centers of two adjacent pixels located along the Y-axis.",
+            "identifier": "C69210",
+            "notation": "PIXSPCY",
+            "pref_label": "Vertical Pixel Spacing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C69210"
+        },
+        {
+            "alt_label": "Pulse Oximeter Indicator",
+            "definition": "An indication as to whether a pulse oximeter is used in the assessment.",
+            "identifier": "C142237",
+            "notation": "PULOXIND",
+            "pref_label": "Pulse Oximeter Use Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C142237"
+        },
+        {
+            "alt_label": "Pulse Sequence",
+            "definition": "A serially recurrent arrangement of radiofrequency pulses that are applied to the sample. (NCI)",
+            "identifier": "C106562",
+            "notation": "PULSSEQ",
+            "pref_label": "Pulse Sequence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C106562"
+        },
+        {
+            "alt_label": "Randoms Correction Indicator",
+            "definition": "An indication as to whether the device was set to correct for random noise generated by deflected positrons.",
+            "identifier": "C116128",
+            "notation": "RANDCORR",
+            "pref_label": "Randoms Correction Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C116128"
+        },
+        {
+            "alt_label": "Receiver Bandwidth",
+            "definition": "The range between the minimum and maximum cut-off frequencies for a particular receiver, commonly measured in Hertz. (NCI)",
+            "identifier": "C106563",
+            "notation": "RCBDWDTH",
+            "pref_label": "Receiver Bandwidth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C106563"
+        },
+        {
+            "alt_label": "Reconstruction Filter Type",
+            "definition": "A classification of the reconstruction filter used to suppress noise, enhance edges, resolution recovery and smooth an image.",
+            "identifier": "C106564",
+            "notation": "RCFLTRTP",
+            "pref_label": "Reconstruction Filter Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C106564"
+        },
+        {
+            "alt_label": "Reconstruction of Raw Data Type",
+            "definition": "The type of mathematical process used to produce the displayed image from the raw k-space data obtained from the receiver circuitry. (NCI)",
+            "identifier": "C111303",
+            "notation": "RECONDAT",
+            "pref_label": "Reconstruction of Raw Data Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C111303"
+        },
+        {
+            "alt_label": "Reference Equation",
+            "definition": "A mathematical formula to predict measured outcomes based on values of associated parameters determined to be related to a test. Reference equations are typically derived via regression analysis of parameters postulated to be relevant to the outcome over sample cohorts from large populations, and verified by comparing measured outcomes to predictions over out-of-sample cohorts.",
+            "identifier": "C154716",
+            "notation": "REFEQU",
+            "pref_label": "Reference Equation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C154716"
+        },
+        {
+            "alt_label": "Repetition Time",
+            "definition": "The amount of time in milliseconds between successive pulse sequences applied to the same slice.",
+            "identifier": "C82330",
+            "notation": "REPTIME",
+            "pref_label": "Repetition Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C82330"
+        },
+        {
+            "alt_label": "Software Version",
+            "definition": "A form or variant of software; one of a sequence of copies of a software program, each incorporating new modifications. (NCI)",
+            "identifier": "C111093",
+            "notation": "SFTWRVER",
+            "pref_label": "Software Version",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C111093"
+        },
+        {
+            "alt_label": "Signal Amplitude",
+            "definition": "A measurement of the height of the signal.",
+            "identifier": "C112416",
+            "notation": "SIGAMP",
+            "pref_label": "Signal Amplitude",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C112416"
+        },
+        {
+            "alt_label": "Signal Frequency",
+            "definition": "A measurement of the number of cycles of a periodic wave or pulse per unit of time.",
+            "identifier": "C112417",
+            "notation": "SIGFREQ",
+            "pref_label": "Signal Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C112417"
+        },
+        {
+            "alt_label": "Signal Width",
+            "definition": "A measurement of the range of values seen in the time interval between the beginning and end of the pulse wave.",
+            "identifier": "C112418",
+            "notation": "SIGW",
+            "pref_label": "Signal Width",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C112418"
+        },
+        {
+            "alt_label": "Slice Number",
+            "definition": "The numeric identifier used to identify an image slice. (NCI)",
+            "identifier": "C111314",
+            "notation": "SLICNUM",
+            "pref_label": "Slice Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C111314"
+        },
+        {
+            "alt_label": "Spectral Width",
+            "definition": "The width of the wavelength interval at half maximum amplitude.",
+            "identifier": "C156496",
+            "notation": "SPECTWD",
+            "pref_label": "Spectral Width",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C156496"
+        },
+        {
+            "alt_label": "STEAM Pulse Sequence Mixing Time;Stimulated Echo Acquisition Mode Pulse Sequence Mixing Time",
+            "definition": "The time elapsed between the second and third pulses of the stimulated echo acquisition mode (STEAM) pulse sequence.",
+            "identifier": "C156501",
+            "notation": "SPSMTIME",
+            "pref_label": "STEAM Pulse Sequence Mixing Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C156501"
+        },
+        {
+            "alt_label": "Slice Thickness",
+            "definition": "The dimension between two surfaces of an imaging plane. (NCI)",
+            "identifier": "C106534",
+            "notation": "STHICK",
+            "pref_label": "Image Slice Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C106534"
+        },
+        {
+            "alt_label": "Stimulation Parameter",
+            "definition": "The type of electrode (monopolar or bipolar) used on the subject during electrical stimulation of the body or organ.",
+            "identifier": "C114145",
+            "notation": "STIMPARM",
+            "pref_label": "Electrical Stimulation Electrode Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C114145"
+        },
+        {
+            "alt_label": "Treatment Amount",
+            "definition": "The concentration or quantity of the treatment.",
+            "identifier": "C158156",
+            "notation": "TRTAMT",
+            "pref_label": "Treatment Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C158156"
+        },
+        {
+            "alt_label": "Ultrasound Mode",
+            "definition": "The image acquisition settings of an ultrasound-based imaging modality, based on parameters including transducer design, ultrasound frequency, and ultrasound signal processing.",
+            "identifier": "C130045",
+            "notation": "ULTRMODE",
+            "pref_label": "Ultrasound Mode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C130045"
+        },
+        {
+            "alt_label": "Number of Unsuppressed Water Averages",
+            "definition": "The number of averages of the unsuppressed water spectrum signal that are captured during imaging.",
+            "identifier": "C156495",
+            "notation": "USH2OAVN",
+            "pref_label": "Number of Unsuppressed Water Averages",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C156495"
+        },
+        {
+            "alt_label": "X-Axis Voxel Dimension",
+            "definition": "The linear measurement of a voxel along the X-axis.",
+            "identifier": "C156497",
+            "notation": "VOXDIMX",
+            "pref_label": "X-Axis Voxel Dimension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C156497"
+        },
+        {
+            "alt_label": "Y-Axis Voxel Dimension",
+            "definition": "The linear measurement of a voxel along the Y-axis.",
+            "identifier": "C156498",
+            "notation": "VOXDIMY",
+            "pref_label": "Y-Axis Voxel Dimension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C156498"
+        },
+        {
+            "alt_label": "Z-Axis Voxel Dimension",
+            "definition": "The linear measurement of a voxel along the Z-axis.",
+            "identifier": "C156499",
+            "notation": "VOXDIMZ",
+            "pref_label": "Z-Axis Voxel Dimension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C156499"
+        },
+        {
+            "alt_label": "Voxel Angle;Voxel Orientation",
+            "definition": "The angle of the voxel relative to the coordinate system of the scanner.",
+            "identifier": "C156500",
+            "notation": "VOXORIEN",
+            "pref_label": "Voxel Orientation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106483-C156500"
+        }
+    ]
+}

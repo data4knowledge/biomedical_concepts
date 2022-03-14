@@ -1,0 +1,50 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An observation made on the contents of the housing environment (e.g., presence of blood, fecal abnormality), excluding observations made on the animal(s).",
+            "identifier": "C166103",
+            "notation": "CAGE OBSERVATION",
+            "pref_label": "Cage Observation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89963-C166103"
+        },
+        {
+            "alt_label": "Clinical Signs",
+            "definition": "Objective evidence of disease perceptible to the examiner (sign) and subjective evidence of disease perceived by the subject (symptom).",
+            "identifier": "C100104",
+            "notation": "CLINICAL SIGNS",
+            "pref_label": "Sign or Symptom",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89963-C100104"
+        },
+        {
+            "alt_label": "Dermal",
+            "definition": "Of or relating to or located in the dermis. When used in the context of clinical observations, dermal may also include findings related to other components of the skin.",
+            "identifier": "C25478",
+            "notation": "DERMAL",
+            "pref_label": "Dermal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89963-C25478"
+        },
+        {
+            "alt_label": "Ophthalmology",
+            "definition": "A medical specialty concerned with the structure and function of the eye and the medical and surgical treatment of its defects and diseases. (NCI)",
+            "identifier": "C16939",
+            "notation": "OPHTHALMOLOGY",
+            "pref_label": "Ophthalmology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89963-C16939"
+        },
+        {
+            "alt_label": "Physical Exam",
+            "definition": "A systemic evaluation of the body and its functions using visual inspection, palpation, percussion and auscultation.",
+            "identifier": "C20989",
+            "notation": "PHYSICAL EXAM",
+            "pref_label": "Physical Examination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89963-C20989"
+        },
+        {
+            "definition": "A qualitative or semi-quantitative measurement of a subject's nutritional intake.",
+            "identifier": "C129003",
+            "notation": "QUALITATIVE FOOD CONSUMPTION",
+            "pref_label": "Qualitative Food Consumption",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89963-C129003"
+        }
+    ]
+}

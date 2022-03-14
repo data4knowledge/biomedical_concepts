@@ -1,0 +1,74 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A mixture of allergens obtained from animals.",
+            "identifier": "C181357",
+            "notation": "ANIMAL MIX ANTIGENS, MULTIPLE",
+            "pref_label": "Animal Mix Antigens",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181169-C181357"
+        },
+        {
+            "alt_label": "Domestic Cat Dander Antigen;Felis catus Dander Antigen",
+            "definition": "An animal allergen in the form of dander (skin flakes) produced by the species Felis catus (domestic cat).",
+            "identifier": "C181359",
+            "notation": "CAT DANDER ANTIGEN",
+            "pref_label": "Cat Dander Antigen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181169-C181359"
+        },
+        {
+            "alt_label": "Bos taurus Dander Antigen;Cattle Dander Antigen",
+            "definition": "An animal allergen in the form of dander (skin flakes) produced by the species Bos taurus (cow).",
+            "identifier": "C181361",
+            "notation": "COW DANDER ANTIGEN",
+            "pref_label": "Cow Dander Antigen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181169-C181361"
+        },
+        {
+            "alt_label": "Canis familiaris Dander Antigen;Canis lupus familiaris Dander Antigen",
+            "definition": "An animal allergen in the form of dander (skin flakes) produced by the species Canis lupus familiaris (dog).",
+            "identifier": "C181358",
+            "notation": "DOG DANDER ANTIGEN",
+            "pref_label": "Dog Dander Antigen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181169-C181358"
+        },
+        {
+            "alt_label": "Domestic Horse Dander Antigen;Equus caballus Dander Antigen",
+            "definition": "An animal allergen in the form of dander (skin flakes) produced by the species Equus caballus (domestic horse).",
+            "identifier": "C181360",
+            "notation": "HORSE DANDER ANTIGEN",
+            "pref_label": "Horse Dander Antigen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181169-C181360"
+        },
+        {
+            "definition": "A group of autoimmune substances found in the nucleus of a cell that are the target of autoantibodies.",
+            "identifier": "C181353",
+            "notation": "NUCLEAR AUTOANTIGENS",
+            "pref_label": "Nuclear Autoantigen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181169-C181353"
+        },
+        {
+            "alt_label": "Ro52;Sjogrens Ro 52kDa Antigen;SSA-52",
+            "definition": "An autoantigen encoded by the Ro52 gene (also called the TRIM21 gene) and has a molecular weight of 52 kDa. It is associated with the autoimmune disease Sjogrens Syndrome.",
+            "identifier": "C181355",
+            "notation": "SJOGRENS SS-A52 ANTIGEN",
+            "pref_label": "Sjogrens SS-A52 Antigen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181169-C181355"
+        },
+        {
+            "alt_label": "Ro60;Sjogrens Ro 60kDa Antigen;SSA-60",
+            "definition": "An autoantigen encoded by the Ro60 gene and has a molecular weight of 60 kDa. It is associated with the autoimmune disease Sjogrens Syndrome.",
+            "identifier": "C181354",
+            "notation": "SJOGRENS SS-A60 ANTIGEN",
+            "pref_label": "Sjogrens SS-A60 Antigen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181169-C181354"
+        },
+        {
+            "alt_label": "Sjogrens La Antigen;SSB",
+            "definition": "An autoantigen encoded by the SSB gene. It is associated with the autoimmune disease Sjogrens Syndrome.",
+            "identifier": "C181356",
+            "notation": "SJOGRENS SS-B ANTIGEN",
+            "pref_label": "Sjogrens SS-B Antigen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181169-C181356"
+        }
+    ]
+}

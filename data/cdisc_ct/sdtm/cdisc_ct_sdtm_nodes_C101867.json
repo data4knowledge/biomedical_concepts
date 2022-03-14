@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The lead has been left in situ but is not in use.",
+            "identifier": "C99906",
+            "notation": "ABANDONED",
+            "pref_label": "Abandoned Lead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101867-C99906"
+        },
+        {
+            "definition": "The lead has been removed from the body.",
+            "identifier": "C102283",
+            "notation": "EXTRACTED",
+            "pref_label": "Extracted Lead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101867-C102283"
+        },
+        {
+            "definition": "The lead has been left in situ and reused.",
+            "identifier": "C102284",
+            "notation": "REUSED",
+            "pref_label": "Reused Lead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101867-C102284"
+        }
+    ]
+}

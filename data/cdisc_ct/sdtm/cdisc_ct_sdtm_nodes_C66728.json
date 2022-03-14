@@ -1,0 +1,62 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The time period following a point or another period of time. (NCI)",
+            "identifier": "C38008",
+            "notation": "AFTER",
+            "pref_label": "Post",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66728-C38008"
+        },
+        {
+            "definition": "Earlier in time or order. (NCI)",
+            "identifier": "C25629",
+            "notation": "BEFORE",
+            "pref_label": "Prior",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66728-C25629"
+        },
+        {
+            "definition": "Before or at some point in a given period of time.",
+            "identifier": "C184710",
+            "notation": "BEFORE/DURING",
+            "pref_label": "Before or During",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66728-C184710"
+        },
+        {
+            "definition": "Occurring or operating at the same time.",
+            "identifier": "C25456",
+            "notation": "COINCIDENT",
+            "pref_label": "Concurrent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66728-C25456"
+        },
+        {
+            "definition": "At some point in a given period of time. (NCI)",
+            "identifier": "C25490",
+            "notation": "DURING",
+            "pref_label": "During",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66728-C25490"
+        },
+        {
+            "definition": "Within a certain period of time or after a certain point or period in time. (NCI)",
+            "identifier": "C49640",
+            "notation": "DURING/AFTER",
+            "pref_label": "During or After",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66728-C49640"
+        },
+        {
+            "alt_label": "Continuous",
+            "definition": "Remain in force or carry on without letup; keep or maintain in unaltered condition; exist in time or space without stop or interruption. (NCI)",
+            "identifier": "C53279",
+            "notation": "ONGOING",
+            "pref_label": "Continue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66728-C53279"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66728-C17998"
+        }
+    ]
+}

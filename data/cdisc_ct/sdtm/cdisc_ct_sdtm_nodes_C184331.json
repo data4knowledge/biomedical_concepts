@@ -1,0 +1,19 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Slope Method",
+            "definition": "A method to determine the end of the T wave. A tangent is drawn to the steepest descending slope of the T wave between its summit and the notch; the end of the T-wave is defined as the point of intersection of this tangent with the base line. (Lepeschkin E, Surawicz B. The measurement of the Q-T interval of the electrocardiogram. Circulation 1952; 6: 378-88).",
+            "identifier": "C184711",
+            "notation": "TANGENT METHOD",
+            "pref_label": "Tangent Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C184331-C184711"
+        },
+        {
+            "definition": "A method to determine the end of the T wave. A line parallel to the isoelectric line at a fraction (e.g. 5%) of the maximum T wave amplitue is constructed. The intercept of the descending limb of the T wave with this line is then defined as the end of the T wave.",
+            "identifier": "C184712",
+            "notation": "THRESHOLD METHOD",
+            "pref_label": "Threshold Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C184331-C184712"
+        }
+    ]
+}

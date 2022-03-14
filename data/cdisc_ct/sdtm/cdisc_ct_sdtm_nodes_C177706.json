@@ -1,0 +1,148 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "SF82-Overall How You Rate Your Health",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - Overall, how would you rate your health during the past week?",
+            "identifier": "C177811",
+            "notation": "SF8201",
+            "pref_label": "SF8 v1.0 Acute - Overall How You Rate Your Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C177811"
+        },
+        {
+            "alt_label": "SF82-How Much Limit Physical Activities",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - During the past week, how much did physical health problems limit your usual physical activities (walking, climbing stairs)?",
+            "identifier": "C177812",
+            "notation": "SF8202",
+            "pref_label": "SF8 v1.0 Acute - How Much Limit Physical Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C177812"
+        },
+        {
+            "alt_label": "SF82-Difficulty Doing Daily Work",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - During the past week, how much difficulty did you have doing your daily work, both at home and away from home, because of your physical health?",
+            "identifier": "C177813",
+            "notation": "SF8203",
+            "pref_label": "SF8 v1.0 Acute - Difficulty Doing Daily Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C177813"
+        },
+        {
+            "alt_label": "SF82-How Much Bodily Pain Have You Had",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - How much bodily pain have you had during the past week?",
+            "identifier": "C177814",
+            "notation": "SF8204",
+            "pref_label": "SF8 v1.0 Acute - How Much Bodily Pain Have You Had",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C177814"
+        },
+        {
+            "alt_label": "SF82-How Much Energy Did You Have",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - During the past week, how much energy did you have?",
+            "identifier": "C177815",
+            "notation": "SF8205",
+            "pref_label": "SF8 v1.0 Acute - How Much Energy Did You Have",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C177815"
+        },
+        {
+            "alt_label": "SF82-Physical/Emotional Limit Activities",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - During the past week, how much did your physical health or emotional problems limit your usual social activities with family or friends?",
+            "identifier": "C177816",
+            "notation": "SF8206",
+            "pref_label": "SF8 v1.0 Acute - Physical, Emotional Limit Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C177816"
+        },
+        {
+            "alt_label": "SF82-Bothered by Emotional Problems",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - During the past week, how much have you been bothered by emotional problems (such as feeling anxious, depressed or irritable)?",
+            "identifier": "C177817",
+            "notation": "SF8207",
+            "pref_label": "SF8 v1.0 Acute - Bothered by Emotional Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C177817"
+        },
+        {
+            "alt_label": "SF82-Emotional Problems Keep From Work",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - During the past week, how much did personal or emotional problems keep you from doing your usual work, school or other daily activities?",
+            "identifier": "C177818",
+            "notation": "SF8208",
+            "pref_label": "SF8 v1.0 Acute - Emotional Problems Keep From Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C177818"
+        },
+        {
+            "alt_label": "SF82-Phys. Functioning Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - Physical functioning norm-based score.",
+            "identifier": "C180434",
+            "notation": "SF8209",
+            "pref_label": "SF8 v1.0 Acute - Physical Functioning Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C180434"
+        },
+        {
+            "alt_label": "SF82-Role Physical Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - Role physical norm-based score.",
+            "identifier": "C180435",
+            "notation": "SF8210",
+            "pref_label": "SF8 v1.0 Acute - Role Physical Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C180435"
+        },
+        {
+            "alt_label": "SF82-Bodily Pain Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - Bodily pain norm-based score.",
+            "identifier": "C180436",
+            "notation": "SF8211",
+            "pref_label": "SF8 v1.0 Acute - Bodily Pain Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C180436"
+        },
+        {
+            "alt_label": "SF82-General Health Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - General health norm-based score.",
+            "identifier": "C180437",
+            "notation": "SF8212",
+            "pref_label": "SF8 v1.0 Acute - General Health Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C180437"
+        },
+        {
+            "alt_label": "SF82-Vitality Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - Vitality norm-based score.",
+            "identifier": "C180438",
+            "notation": "SF8213",
+            "pref_label": "SF8 v1.0 Acute - Vitality Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C180438"
+        },
+        {
+            "alt_label": "SF82-Social Functioning Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - Social functioning norm-based score.",
+            "identifier": "C180439",
+            "notation": "SF8214",
+            "pref_label": "SF8 v1.0 Acute - Social Functioning Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C180439"
+        },
+        {
+            "alt_label": "SF82-Role Emotional Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - Role emotional norm-based score.",
+            "identifier": "C180440",
+            "notation": "SF8215",
+            "pref_label": "SF8 v1.0 Acute - Role Emotional Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C180440"
+        },
+        {
+            "alt_label": "SF82-Mental Health Norm-Based Score",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - Mental health norm-based score.",
+            "identifier": "C180441",
+            "notation": "SF8216",
+            "pref_label": "SF8 v1.0 Acute - Mental Health Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C180441"
+        },
+        {
+            "alt_label": "SF82-Physical Component Score",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - Physical component score.",
+            "identifier": "C180442",
+            "notation": "SF8217",
+            "pref_label": "SF8 v1.0 Acute - Physical Component Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C180442"
+        },
+        {
+            "alt_label": "SF82-Mental Component Score",
+            "definition": "The Short Form 8 Health Survey Acute, US Version 1.0 - Mental component score.",
+            "identifier": "C180443",
+            "notation": "SF8218",
+            "pref_label": "SF8 v1.0 Acute - Mental Component Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177706-C180443"
+        }
+    ]
+}

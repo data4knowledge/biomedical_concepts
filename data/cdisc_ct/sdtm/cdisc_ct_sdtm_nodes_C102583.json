@@ -1,0 +1,46 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A patient's failure to remember to take a dose of medication.",
+            "identifier": "C102638",
+            "notation": "FORGOT TO TAKE MEDICATION DOSE",
+            "pref_label": "Forgot to Take Medication Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102583-C102638"
+        },
+        {
+            "definition": "An inability to absorb or metabolize certain substances in the normal way.",
+            "identifier": "C71437",
+            "notation": "INTOLERANCE",
+            "pref_label": "Intolerance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102583-C71437"
+        },
+        {
+            "definition": "Medications that were lost because they were put in the wrong place.",
+            "identifier": "C102664",
+            "notation": "MEDICATION MISPLACED",
+            "pref_label": "Medication Misplaced",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102583-C102664"
+        },
+        {
+            "definition": "Failure of a patient to follow medical advice, take medication as directed, or adhere to a prescribed course of treatment.",
+            "identifier": "C91752",
+            "notation": "PATIENT NONCOMPLIANCE",
+            "pref_label": "Patient Noncompliance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102583-C91752"
+        },
+        {
+            "definition": "The lack of expected or desired effect related to a therapy. (NCI)",
+            "identifier": "C48226",
+            "notation": "TREATMENT FAILURE",
+            "pref_label": "Lack of Efficacy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102583-C48226"
+        },
+        {
+            "definition": "Leisure time away from work devoted to rest or pleasure.",
+            "identifier": "C80227",
+            "notation": "VACATION",
+            "pref_label": "Vacation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102583-C80227"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "WPAI01-Currently Employed",
+            "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - Are you currently employed (working for pay)?",
+            "identifier": "C100949",
+            "notation": "WPAI0101",
+            "pref_label": "WPAI:SHP v2.0 - Currently Employed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100176-C100949"
+        },
+        {
+            "alt_label": "WPAI01-Missed Work Hours Due to Problem",
+            "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - During the past seven days, how many hours did you miss from work because of problems associated with your problem?",
+            "identifier": "C100950",
+            "notation": "WPAI0102",
+            "pref_label": "WPAI:SHP v2.0 - Missed Work Hours Due to Problem",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100176-C100950"
+        },
+        {
+            "alt_label": "WPAI01-Missed Work Hours Due to Other",
+            "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - During the past seven days, how many hours did you miss from work because of any other reason, such as vacation, holidays, time off to participate in this study?",
+            "identifier": "C100951",
+            "notation": "WPAI0103",
+            "pref_label": "WPAI:SHP v2.0 - Missed Work Hours Due to Other Reasons",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100176-C100951"
+        },
+        {
+            "alt_label": "WPAI01-Hours Actually Worked",
+            "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - During the past seven days, how many hours did you actually work?",
+            "identifier": "C100952",
+            "notation": "WPAI0104",
+            "pref_label": "WPAI:SHP v2.0 - Hours Actually Worked",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100176-C100952"
+        },
+        {
+            "alt_label": "WPAI01-Problem Affect Productivity",
+            "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - During the past seven days, how much did your problem affect your productivity while you were working?",
+            "identifier": "C100953",
+            "notation": "WPAI0105",
+            "pref_label": "WPAI:SHP v2.0 - Problem Affects Productivity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100176-C100953"
+        },
+        {
+            "alt_label": "WPAI01-Problem Affect Reg Daily Activity",
+            "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - During the past seven days, how much did your problem affect your ability to do your regular daily activities, other than work at a job?",
+            "identifier": "C100954",
+            "notation": "WPAI0106",
+            "pref_label": "WPAI:SHP v2.0 - Problem Affects Regular Daily Activity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100176-C100954"
+        },
+        {
+            "alt_label": "WPAI01-Absenteeism Score",
+            "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - Absenteeism score.",
+            "identifier": "C166349",
+            "notation": "WPAI0107",
+            "pref_label": "WPAI:SHP v2.0 - Absenteeism Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100176-C166349"
+        },
+        {
+            "alt_label": "WPAI01-Presenteeism Score",
+            "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - Presenteeism score.",
+            "identifier": "C166350",
+            "notation": "WPAI0108",
+            "pref_label": "WPAI:SHP v2.0 - Presenteeism Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100176-C166350"
+        },
+        {
+            "alt_label": "WPAI01-Work Productivity Loss Score",
+            "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - Work productivity loss score.",
+            "identifier": "C166351",
+            "notation": "WPAI0109",
+            "pref_label": "WPAI:SHP v2.0 - Work Productivity Loss Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100176-C166351"
+        },
+        {
+            "alt_label": "WPAI01-Activity Impairment Score",
+            "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - Activity impairment score.",
+            "identifier": "C166352",
+            "notation": "WPAI0110",
+            "pref_label": "WPAI:SHP v2.0 - Activity Impairment Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100176-C166352"
+        }
+    ]
+}

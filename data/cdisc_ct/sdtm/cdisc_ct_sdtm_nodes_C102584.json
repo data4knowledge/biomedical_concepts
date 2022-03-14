@@ -1,0 +1,33 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A lack of response to the first cycle of therapy.",
+            "identifier": "C102635",
+            "notation": "FAILURE AFTER FIRST TREATMENT",
+            "pref_label": "Failure After First Treatment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102584-C102635"
+        },
+        {
+            "definition": "A lack of response to more than one cycle of therapy.",
+            "identifier": "C102636",
+            "notation": "FAILURE AFTER MULTIPLE TREATMENTS",
+            "pref_label": "Failure After Multiple Treatments",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102584-C102636"
+        },
+        {
+            "definition": "A previous episode of failure by a patient to follow medical advice, take medication as directed, or adhere to a prescribed course of treatment.",
+            "identifier": "C102698",
+            "notation": "PREVIOUS PATIENT NONCOMPLIANCE",
+            "pref_label": "Previous Patient Noncompliance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102584-C102698"
+        },
+        {
+            "alt_label": "Recurrent Disease",
+            "definition": "The return of a disease after a period of remission.",
+            "identifier": "C38155",
+            "notation": "RECURRENT DISEASE",
+            "pref_label": "Recurrent Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102584-C38155"
+        }
+    ]
+}

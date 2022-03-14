@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "PGI01-Change",
+            "definition": "Patient Global Impression - Compared to <previously assessed protocol specified time point> how much has your condition changed?",
+            "identifier": "C135818",
+            "notation": "PGI01-Change",
+            "pref_label": "PGI Generic Modification Version - Change",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135687-C135818"
+        },
+        {
+            "alt_label": "PGI01-Improvement",
+            "definition": "Patient Global Impression - Compared to <previously assessed protocol specified time point> how much has your condition improved?",
+            "identifier": "C135819",
+            "notation": "PGI01-Improvement",
+            "pref_label": "PGI Generic Modification Version - Improvement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135687-C135819"
+        },
+        {
+            "alt_label": "PGI01-Severity",
+            "definition": "Patient Global Impression - Considering all the ways your condition impacts you, how severe is your condition at this time?",
+            "identifier": "C135817",
+            "notation": "PGI01-Severity",
+            "pref_label": "PGI Generic Modification Version - Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C135687-C135817"
+        }
+    ]
+}

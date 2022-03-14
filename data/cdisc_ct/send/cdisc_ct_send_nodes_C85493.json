@@ -1,0 +1,3100 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Absolute Bioavailability",
+            "definition": "The fraction of the treatment dose that reaches the systemic circulation; this is the ratio of the amount of drug in the system (area under the curve) after extravascular administration of a test formulation divided by the drug in the system (area under the curve) after IV administration.",
+            "identifier": "C154838",
+            "notation": "Absolute Bioavailability",
+            "pref_label": "Absolute Bioavailability",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154838"
+        },
+        {
+            "alt_label": "Accum Ratio AUC Infinity Obs",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration divided by the area under the curve (AUC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration during the initial dosing interval.",
+            "identifier": "C170611",
+            "notation": "Accum Ratio AUC Infinity Obs",
+            "pref_label": "Accumulation Ratio AUC Infinity Observed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C170611"
+        },
+        {
+            "alt_label": "Accum Ratio AUC Infinity Pred",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration divided by the area under the curve (AUC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration during the initial dosing interval.",
+            "identifier": "C170612",
+            "notation": "Accum Ratio AUC Infinity Pred",
+            "pref_label": "Accumulation Ratio AUC Infinity Predicted",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C170612"
+        },
+        {
+            "alt_label": "Accum Ratio AUC T1 to T2 norm by dose",
+            "definition": "The area under the curve from T1 to T2 at steady state divided by the area under the curve from T1 to T2 during the initial dosing interval, each divided by the associated dose.",
+            "identifier": "C132436",
+            "notation": "Accum Ratio AUC T1 to T2 norm by dose",
+            "pref_label": "Accumulation Ratio AUC T1 to T2 Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C132436"
+        },
+        {
+            "alt_label": "Accum Ratio AUC to Last Nonzero Conc",
+            "definition": "The area under the curve (AUC) from the time of dosing to the last measurable concentration divided by the area under the curve from the time of dosing to the last measurable concentration during the initial dosing interval.",
+            "identifier": "C139129",
+            "notation": "Accum Ratio AUC to Last Nonzero Conc",
+            "pref_label": "Accumulation Ratio AUC to Last Nonzero Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C139129"
+        },
+        {
+            "alt_label": "Accum Ratio AUCIFO Norm by Dose",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration divided by the area under the curve (AUC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration during the initial dosing interval, each divided by the associated dose.",
+            "identifier": "C170613",
+            "notation": "Accum Ratio AUCIFO Norm by Dose",
+            "pref_label": "Accumulation Ratio AUC Infinity Observed Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C170613"
+        },
+        {
+            "alt_label": "Accum Ratio AUCIFP Norm by Dose",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration divided by the area under the curve (AUC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration during the initial dosing interval, each divided by the associated dose.",
+            "identifier": "C170614",
+            "notation": "Accum Ratio AUCIFP Norm by Dose",
+            "pref_label": "Accumulation Ratio AUC Infinity Predicted Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C170614"
+        },
+        {
+            "alt_label": "Accum Ratio AUCTAU norm by dose",
+            "definition": "The area under the curve (AUCTAU) at steady state divided by the area under the curve (AUCTAU) over the initial dosing interval, each divided by the associated dose.",
+            "identifier": "C132435",
+            "notation": "Accum Ratio AUCTAU norm by dose",
+            "pref_label": "Accumulation Ratio AUC Over Dosing Interval Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C132435"
+        },
+        {
+            "alt_label": "Accum Ratio Cmax norm by dose",
+            "definition": "The maximum concentration at steady state divided by the maximum concentration during the initial dosing interval, each divided by the associated dose.",
+            "identifier": "C132437",
+            "notation": "Accum Ratio Cmax norm by dose",
+            "pref_label": "Accumulation Ratio Cmax Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C132437"
+        },
+        {
+            "alt_label": "Accum Ratio Cmin norm by dose",
+            "definition": "The minimum concentration at steady state divided by the minimum concentration during the initial dosing interval, each divided by the associated dose.",
+            "identifier": "C132438",
+            "notation": "Accum Ratio Cmin norm by dose",
+            "pref_label": "Accumulation Ratio Cmin Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C132438"
+        },
+        {
+            "alt_label": "Accum Ratio Ctrough norm by dose",
+            "definition": "The trough concentration at steady state divided by the trough concentration during the initial dosing interval, each divided by the associated dose.",
+            "identifier": "C132439",
+            "notation": "Accum Ratio Ctrough norm by dose",
+            "pref_label": "Accumulation Ratio Ctrough Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C132439"
+        },
+        {
+            "alt_label": "Accumulation Index using Lambda z",
+            "definition": "Predicted accumulation ratio for area under the curve (AUC) calculated using the Lambda z estimated from single dose data.",
+            "identifier": "C114234",
+            "notation": "Accumulation Index using Lambda z",
+            "pref_label": "Accumulation Index using Lambda z",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C114234"
+        },
+        {
+            "alt_label": "Accumulation Ratio AUC from T1 to T2",
+            "definition": "The area under the curve from T1 to T2 at steady state divided by the area under the curve from T1 to T2 during the initial dosing interval.",
+            "identifier": "C122329",
+            "notation": "Accumulation Ratio AUC from T1 to T2",
+            "pref_label": "Accumulation Ratio Area Under the Curve from T1 to T2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122329"
+        },
+        {
+            "alt_label": "Accumulation Ratio AUCTAU",
+            "definition": "The area under the curve over the dosing interval at steady state divided by the area under the curve over the initial dosing interval.",
+            "identifier": "C102356",
+            "notation": "Accumulation Ratio AUCTAU",
+            "pref_label": "Accumulation Ratio Area Under the Curve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102356"
+        },
+        {
+            "alt_label": "Accumulation Ratio Cmax",
+            "definition": "The maximum concentration at steady state divided by the maximum concentration during the initial dosing interval.",
+            "identifier": "C102357",
+            "notation": "Accumulation Ratio Cmax",
+            "pref_label": "Accumulation Ratio Cmax",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102357"
+        },
+        {
+            "alt_label": "Accumulation Ratio Cmin",
+            "definition": "The minimum concentration at steady state divided by the minimum concentration during the initial dosing interval.",
+            "identifier": "C102358",
+            "notation": "Accumulation Ratio Cmin",
+            "pref_label": "Accumulation Ratio Cmin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102358"
+        },
+        {
+            "alt_label": "Accumulation Ratio Ctrough",
+            "definition": "The trough concentration at steady state divided by the trough concentration during the initial dosing interval.",
+            "identifier": "C102426",
+            "notation": "Accumulation Ratio Ctrough",
+            "pref_label": "Accumulation Ratio Ctrough",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102426"
+        },
+        {
+            "alt_label": "Amt of Analyte at Steady State",
+            "definition": "The amount of analyte in the body at steady state.",
+            "identifier": "C181513",
+            "notation": "Amt of Analyte at Steady State",
+            "pref_label": "Amount of Analyte at Steady State",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C181513"
+        },
+        {
+            "alt_label": "Amt of Analyte at Time T",
+            "definition": "The amount of analyte in the body at any time t.",
+            "identifier": "C181514",
+            "notation": "Amt of Analyte at Time T",
+            "pref_label": "Amount of Analyte at Time T",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C181514"
+        },
+        {
+            "alt_label": "Amt Rec from T1 to T2 Norm by BMI",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC over the interval from T1 to T2 divided by body mass index.",
+            "identifier": "C102360",
+            "notation": "Amt Rec from T1 to T2 Norm by BMI",
+            "pref_label": "Amount Recovered from T1 to T2 Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102360"
+        },
+        {
+            "alt_label": "Amt Rec from T1 to T2 Norm by SA",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC over the interval from T1 to T2 divided by surface area.",
+            "identifier": "C102361",
+            "notation": "Amt Rec from T1 to T2 Norm by SA",
+            "pref_label": "Amount Recovered from T1 to T2 Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102361"
+        },
+        {
+            "alt_label": "Amt Rec from T1 to T2 Norm by WT",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC over the interval from T1 to T2 divided by weight.",
+            "identifier": "C102362",
+            "notation": "Amt Rec from T1 to T2 Norm by WT",
+            "pref_label": "Amount Recovered from T1 to T2 Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102362"
+        },
+        {
+            "alt_label": "Amt Rec from T1 to T2",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC over the interval from T1 to T2.",
+            "identifier": "C102359",
+            "notation": "Amt Rec from T1 to T2",
+            "pref_label": "Amount Recovered from T1 to T2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102359"
+        },
+        {
+            "alt_label": "Amt Rec Infinity Obs Norm by BMI",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C112223",
+            "notation": "Amt Rec Infinity Obs Norm by BMI",
+            "pref_label": "Amount Recovered Infinity Observed Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112223"
+        },
+        {
+            "alt_label": "Amt Rec Infinity Obs Norm by SA",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C112224",
+            "notation": "Amt Rec Infinity Obs Norm by SA",
+            "pref_label": "Amount Recovered Infinity Observed Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112224"
+        },
+        {
+            "alt_label": "Amt Rec Infinity Obs Norm by WT",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C112225",
+            "notation": "Amt Rec Infinity Obs Norm by WT",
+            "pref_label": "Amount Recovered Infinity Observed Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112225"
+        },
+        {
+            "alt_label": "Amt Rec Infinity Obs",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C112032",
+            "notation": "Amt Rec Infinity Obs",
+            "pref_label": "Amount Recovered Infinity Observed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112032"
+        },
+        {
+            "alt_label": "Amt Rec Infinity Pred Norm by BMI",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C112226",
+            "notation": "Amt Rec Infinity Pred Norm by BMI",
+            "pref_label": "Amount Recovered Infinity Predicted Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112226"
+        },
+        {
+            "alt_label": "Amt Rec Infinity Pred Norm by SA",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C112227",
+            "notation": "Amt Rec Infinity Pred Norm by SA",
+            "pref_label": "Amount Recovered Infinity Predicted Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112227"
+        },
+        {
+            "alt_label": "Amt Rec Infinity Pred Norm by WT",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C112228",
+            "notation": "Amt Rec Infinity Pred Norm by WT",
+            "pref_label": "Amount Recovered Infinity Predicted Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112228"
+        },
+        {
+            "alt_label": "Amt Rec Infinity Pred",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the predicted value of the last non-zero concentration.",
+            "identifier": "C112033",
+            "notation": "Amt Rec Infinity Pred",
+            "pref_label": "Amount Recovered Infinity Predicted",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112033"
+        },
+        {
+            "alt_label": "Amt Rec Over Dosing Interval Norm by BMI",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC between doses (TAU) divided by body mass index.",
+            "identifier": "C102364",
+            "notation": "Amt Rec Over Dosing Interval Norm by BMI",
+            "pref_label": "Amount Recovered Over Dosing Interval Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102364"
+        },
+        {
+            "alt_label": "Amt Rec Over Dosing Interval Norm by SA",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC between doses (TAU) divided by surface area.",
+            "identifier": "C102365",
+            "notation": "Amt Rec Over Dosing Interval Norm by SA",
+            "pref_label": "Amount Recovered Over Dosing Interval Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102365"
+        },
+        {
+            "alt_label": "Amt Rec Over Dosing Interval Norm by WT",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC between doses (TAU) divided by weight.",
+            "identifier": "C102366",
+            "notation": "Amt Rec Over Dosing Interval Norm by WT",
+            "pref_label": "Amount Recovered Over Dosing Interval Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102366"
+        },
+        {
+            "alt_label": "Amt Rec Over Dosing Interval",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC between doses (TAU).",
+            "identifier": "C102363",
+            "notation": "Amt Rec Over Dosing Interval",
+            "pref_label": "Amount Recovered Over Dosing Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102363"
+        },
+        {
+            "alt_label": "Amt Rec to Last Nonzero Conc",
+            "definition": "The cumulative amount recovered from the specimen type specified in PPSPEC, from the time of dosing to the last non-zero concentration.",
+            "identifier": "C174346",
+            "notation": "Amt Rec to Last Nonzero Conc",
+            "pref_label": "Amount Recovered to Last Nonzero Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C174346"
+        },
+        {
+            "alt_label": "Apparent CL for Unbound Drug",
+            "definition": "The total apparent clearance of the unbound fraction of drug, adjusted for bioavailability.",
+            "identifier": "C154844",
+            "notation": "Apparent CL for Unbound Drug",
+            "pref_label": "Apparent Clearance for Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154844"
+        },
+        {
+            "alt_label": "AUC %Back Extrapolation Obs",
+            "definition": "Applies only for intravascular bolus dosing. The area under the curve (AUC) from the first measured concentration value back extrapolated to the concentration value at time zero as a percentage of the area under the curve extrapolated to infinity using the observed value of the last non-zero concentration.",
+            "identifier": "C85763",
+            "notation": "AUC %Back Extrapolation Obs",
+            "pref_label": "Observed Area Under the Curve Percent Back Extrapolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85763"
+        },
+        {
+            "alt_label": "AUC %Back Extrapolation Pred",
+            "definition": "Applies only for intravascular bolus dosing. The area under the curve (AUC) from the first measured concentration value back extrapolated to the concentration value at time zero as a percentage of the area under the curve extrapolated to infinity using the predicted value of the last non-zero concentration.",
+            "identifier": "C85787",
+            "notation": "AUC %Back Extrapolation Pred",
+            "pref_label": "Predicted Area Under the Curve Percent Back Extrapolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85787"
+        },
+        {
+            "alt_label": "AUC %Extrapolation Obs",
+            "definition": "The area under the curve (AUC) from the last observed non-zero concentration value to infinity as a percentage of the area under the curve extrapolated to infinity.",
+            "identifier": "C85764",
+            "notation": "AUC %Extrapolation Obs",
+            "pref_label": "Observed Area Under the Curve Percent Extrapolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85764"
+        },
+        {
+            "alt_label": "AUC %Extrapolation Pred",
+            "definition": "The area under the curve (AUC) from the last predicted non-zero concentration value to infinity as a percentage of the area under the curve extrapolated to infinity.",
+            "identifier": "C85788",
+            "notation": "AUC %Extrapolation Pred",
+            "pref_label": "Predicted Area Under the Curve Percent Extrapolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85788"
+        },
+        {
+            "alt_label": "AUC All Norm by BMI",
+            "definition": "The area under the curve (AUC) from the time of dosing to the time of the last observation divided by the body mass index, regardless of whether the last concentration is measurable or not.",
+            "identifier": "C92362",
+            "notation": "AUC All Norm by BMI",
+            "pref_label": "AUC All Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92362"
+        },
+        {
+            "alt_label": "AUC All Norm by Dose",
+            "definition": "The area under the curve (AUC) from the time of dosing to the time of the last observation divided by the dose, regardless of whether the last concentration is measurable or not.",
+            "identifier": "C92306",
+            "notation": "AUC All Norm by Dose",
+            "pref_label": "AUC All Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92306"
+        },
+        {
+            "alt_label": "AUC All Norm by SA",
+            "definition": "The area under the curve (AUC) from the time of dosing to the time of the last observation divided by the surface area, regardless of whether the last concentration is measurable or not.",
+            "identifier": "C92307",
+            "notation": "AUC All Norm by SA",
+            "pref_label": "AUC All Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92307"
+        },
+        {
+            "alt_label": "AUC All Norm by WT",
+            "definition": "The area under the curve (AUC) from the time of dosing to the time of the last observation divided by the weight, regardless of whether the last concentration is measurable or not.",
+            "identifier": "C92308",
+            "notation": "AUC All Norm by WT",
+            "pref_label": "AUC All Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92308"
+        },
+        {
+            "alt_label": "AUC All",
+            "definition": "The area under the curve (AUC) from the time of dosing to the time of the last observation, regardless of whether the last concentration is measurable or not.",
+            "identifier": "C85564",
+            "notation": "AUC All",
+            "pref_label": "Area Under the Curve All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85564"
+        },
+        {
+            "alt_label": "AUC from T1 to T2 Norm by BMI",
+            "definition": "The area under the curve (AUC) over the interval from T1 to T2 divided by the body mass index.",
+            "identifier": "C92312",
+            "notation": "AUC from T1 to T2 Norm by BMI",
+            "pref_label": "AUC from T1 to T2 Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92312"
+        },
+        {
+            "alt_label": "AUC from T1 to T2 Norm by Dose",
+            "definition": "The area under the curve (AUC) over the interval from T1 to T2 divided by the dose.",
+            "identifier": "C92313",
+            "notation": "AUC from T1 to T2 Norm by Dose",
+            "pref_label": "AUC from T1 to T2 Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92313"
+        },
+        {
+            "alt_label": "AUC from T1 to T2 Norm by SA",
+            "definition": "The area under the curve (AUC) over the interval from T1 to T2 divided by the surface area.",
+            "identifier": "C92314",
+            "notation": "AUC from T1 to T2 Norm by SA",
+            "pref_label": "AUC from T1 to T2 Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92314"
+        },
+        {
+            "alt_label": "AUC from T1 to T2 Norm by WT",
+            "definition": "The area under the curve (AUC) over the interval from T1 to T2 divided by the weight.",
+            "identifier": "C92315",
+            "notation": "AUC from T1 to T2 Norm by WT",
+            "pref_label": "AUC from T1 to T2 Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92315"
+        },
+        {
+            "alt_label": "AUC from T1 to T2",
+            "definition": "The area under the curve (AUC) over the interval from T1 to T2.",
+            "identifier": "C85566",
+            "notation": "AUC from T1 to T2",
+            "pref_label": "Area Under the Curve from T1 to T2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85566"
+        },
+        {
+            "alt_label": "AUC Infinity Obs LN Transformed",
+            "definition": "The natural log transformed area under the curve (AUC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C161413",
+            "notation": "AUC Infinity Obs LN Transformed",
+            "pref_label": "Natural Log Transformed Observed Area Under the Curve Infinity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C161413"
+        },
+        {
+            "alt_label": "AUC Infinity Obs Norm by BMI",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C92316",
+            "notation": "AUC Infinity Obs Norm by BMI",
+            "pref_label": "AUC Infinity Observed Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92316"
+        },
+        {
+            "alt_label": "AUC Infinity Obs Norm by Dose",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C96695",
+            "notation": "AUC Infinity Obs Norm by Dose",
+            "pref_label": "AUC Infinity Observed Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C96695"
+        },
+        {
+            "alt_label": "AUC Infinity Obs Norm by Dose/WT",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration divided by the body weight-adjusted dose.",
+            "identifier": "C174345",
+            "notation": "AUC Infinity Obs Norm by Dose/WT",
+            "pref_label": "AUC Infinity Observed Normalized by Weight-Adjusted Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C174345"
+        },
+        {
+            "alt_label": "AUC Infinity Obs Norm by SA",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92317",
+            "notation": "AUC Infinity Obs Norm by SA",
+            "pref_label": "AUC Infinity Observed Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92317"
+        },
+        {
+            "alt_label": "AUC Infinity Obs Norm by WT",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92318",
+            "notation": "AUC Infinity Obs Norm by WT",
+            "pref_label": "AUC Infinity Observed Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92318"
+        },
+        {
+            "alt_label": "AUC Infinity Obs",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C85761",
+            "notation": "AUC Infinity Obs",
+            "pref_label": "Observed Area Under the Curve Infinity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85761"
+        },
+        {
+            "alt_label": "AUC Infinity Obs, Unbound Drug",
+            "definition": "The portion of observed AUC to infinity, represented by the unbound fraction of drug.",
+            "identifier": "C154845",
+            "notation": "AUC Infinity Obs, Unbound Drug",
+            "pref_label": "Observed Area Under the Curve Infinity of Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154845"
+        },
+        {
+            "alt_label": "AUC Infinity Pred Norm by BMI",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C92319",
+            "notation": "AUC Infinity Pred Norm by BMI",
+            "pref_label": "AUC Infinity Predicted Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92319"
+        },
+        {
+            "alt_label": "AUC Infinity Pred Norm by Dose",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C85786",
+            "notation": "AUC Infinity Pred Norm by Dose",
+            "pref_label": "Predicted Area Under the Curve Infinity by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85786"
+        },
+        {
+            "alt_label": "AUC Infinity Pred Norm by SA",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92320",
+            "notation": "AUC Infinity Pred Norm by SA",
+            "pref_label": "AUC Infinity Predicted Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92320"
+        },
+        {
+            "alt_label": "AUC Infinity Pred Norm by WT",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92321",
+            "notation": "AUC Infinity Pred Norm by WT",
+            "pref_label": "AUC Infinity Predicted Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92321"
+        },
+        {
+            "alt_label": "AUC Infinity Pred",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration.",
+            "identifier": "C85785",
+            "notation": "AUC Infinity Pred",
+            "pref_label": "Predicted Area Under the Curve Infinity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85785"
+        },
+        {
+            "alt_label": "AUC Infinity Pred, Unbound Drug",
+            "definition": "The portion of predicted AUC to infinity, represented by the unbound fraction of drug.",
+            "identifier": "C154846",
+            "notation": "AUC Infinity Pred, Unbound Drug",
+            "pref_label": "Predicted Area Under the Curve Infinity of Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154846"
+        },
+        {
+            "alt_label": "AUC Over Dosing Interval Norm by BMI",
+            "definition": "The area under the curve (AUC) for the defined interval between doses (TAU) divided by the body mass index.",
+            "identifier": "C92322",
+            "notation": "AUC Over Dosing Interval Norm by BMI",
+            "pref_label": "AUC Over Dosing Interval Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92322"
+        },
+        {
+            "alt_label": "AUC Over Dosing Interval Norm by Dose",
+            "definition": "The area under the curve (AUC) for the defined interval between doses (TAU) divided by the dose.",
+            "identifier": "C92323",
+            "notation": "AUC Over Dosing Interval Norm by Dose",
+            "pref_label": "AUC Over Dosing Interval Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92323"
+        },
+        {
+            "alt_label": "AUC Over Dosing Interval Norm by SA",
+            "definition": "The area under the curve (AUC) for the defined interval between doses (TAU) divided by the surface area.",
+            "identifier": "C92324",
+            "notation": "AUC Over Dosing Interval Norm by SA",
+            "pref_label": "AUC Over Dosing Interval Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92324"
+        },
+        {
+            "alt_label": "AUC Over Dosing Interval Norm by WT",
+            "definition": "The area under the curve (AUC) for the defined interval between doses (TAU) divided by the weight.",
+            "identifier": "C92325",
+            "notation": "AUC Over Dosing Interval Norm by WT",
+            "pref_label": "AUC Over Dosing Interval Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92325"
+        },
+        {
+            "alt_label": "AUC Over Dosing Interval",
+            "definition": "The area under the curve (AUC) for the defined interval between doses (TAU).",
+            "identifier": "C85567",
+            "notation": "AUC Over Dosing Interval",
+            "pref_label": "Area Under the Curve Over Dosing Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85567"
+        },
+        {
+            "alt_label": "AUC to Last Nonzero Conc LN Transformed",
+            "definition": "The natural log transformed area under the curve (AUC) from the time of dosing to the last measurable concentration.",
+            "identifier": "C161414",
+            "notation": "AUC to Last Nonzero Conc LN Transformed",
+            "pref_label": "Natural Log Transformed Area Under the Curve From Dosing to Last Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C161414"
+        },
+        {
+            "alt_label": "AUC to Last Nonzero Conc Norm by BMI",
+            "definition": "The area under the curve (AUC) from the time of dosing to the last measurable concentration divided by the body mass index.",
+            "identifier": "C92309",
+            "notation": "AUC to Last Nonzero Conc Norm by BMI",
+            "pref_label": "AUC Dosing to Last Concentration Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92309"
+        },
+        {
+            "alt_label": "AUC to Last Nonzero Conc Norm by Dose",
+            "definition": "The area under the curve (AUC) from the time of dosing to the last measurable concentration divided by the dose.",
+            "identifier": "C92310",
+            "notation": "AUC to Last Nonzero Conc Norm by Dose",
+            "pref_label": "AUC Dosing to Last Concentration Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92310"
+        },
+        {
+            "alt_label": "AUC to Last Nonzero Conc Norm by SA",
+            "definition": "The area under the curve (AUC) from the time of dosing to the last measurable concentration divided by the surface area.",
+            "identifier": "C92311",
+            "notation": "AUC to Last Nonzero Conc Norm by SA",
+            "pref_label": "AUC Dosing to Last Concentration Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92311"
+        },
+        {
+            "alt_label": "AUC to Last Nonzero Conc Norm by WT",
+            "definition": "The area under the curve (AUC) from the time of dosing to the last measurable concentration divided by the weight.",
+            "identifier": "C92305",
+            "notation": "AUC to Last Nonzero Conc Norm by WT",
+            "pref_label": "AUC Dosing to Last Concentration Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92305"
+        },
+        {
+            "alt_label": "AUC to Last Nonzero Conc",
+            "definition": "The area under the curve (AUC) from the time of dosing to the last measurable concentration.",
+            "identifier": "C85565",
+            "notation": "AUC to Last Nonzero Conc",
+            "pref_label": "Area Under the Curve From Dosing to Last Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85565"
+        },
+        {
+            "alt_label": "AUC to Last Nonzero Conc, Unbound Drug",
+            "definition": "The portion of the area under the curve (AUC) from the time of dosing to the last measurable concentration, represented by the unbound fraction of drug.",
+            "identifier": "C154847",
+            "notation": "AUC to Last Nonzero Conc, Unbound Drug",
+            "pref_label": "Area Under the Curve From Dosing to Last Concentration of Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154847"
+        },
+        {
+            "alt_label": "AUC Infinity Pred Norm by Dose per Body Weight;AUCIFPDW Norm by Dose/WT",
+            "definition": "The area under the curve (AUC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration divided by the body weight-adjusted dose.",
+            "identifier": "C174349",
+            "notation": "AUCIFPDW Norm by Dose/WT",
+            "pref_label": "AUC Infinity Predicted Normalized by Weight-Adjusted Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C174349"
+        },
+        {
+            "alt_label": "AUC from T1 to T2 Norm by Dose per Body Weight;AUCINT Norm by Dose/kg WT",
+            "definition": "The area under the curve (AUC) over the interval from T1 to T2 divided by the body weight-adjusted dose.",
+            "identifier": "C174348",
+            "notation": "AUCINT Norm by Dose/WT",
+            "pref_label": "AUC from T1 to T2 Normalized by Weight-Adjusted Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C174348"
+        },
+        {
+            "alt_label": "AUC to Last Nonzero Conc Norm by Dose per Body Weight;AUCLST Norm by Dose/WT",
+            "definition": "The area under the curve (AUC) from the time of dosing to the last measurable concentration divided by the body weight-adjusted dose.",
+            "identifier": "C174347",
+            "notation": "AUCLST Norm by Dose/WT",
+            "pref_label": "AUC Dosing From Dosing to Last Concentration Normalized by Weight-Adjusted Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C174347"
+        },
+        {
+            "alt_label": "AUC Over Dosing Interval Norm by Dose per Body Weight;AUCTAU Norm by Dose/WT",
+            "definition": "The area under the curve (AUC) for the defined interval between doses (TAU) divided by the body weight-adjusted dose.",
+            "identifier": "C174350",
+            "notation": "AUCTAU Norm by Dose/WT",
+            "pref_label": "AUC Over Dosing Interval Normalized by Weight-Adjusted Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C174350"
+        },
+        {
+            "alt_label": "AUMC % Extrapolation Obs",
+            "definition": "The area under the moment curve (AUMC) from the last observed non-zero concentration value to infinity as a percentage of the area under the moment curve extrapolated to infinity.",
+            "identifier": "C85766",
+            "notation": "AUMC % Extrapolation Obs",
+            "pref_label": "Observed Area Under the First Moment Curve Percent Extrapolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85766"
+        },
+        {
+            "alt_label": "AUMC % Extrapolation Pred",
+            "definition": "The area under the moment curve (AUMC) from the last predicted non-zero concentration value to infinity as a percentage of the area under the moment curve extrapolated to infinity.",
+            "identifier": "C85790",
+            "notation": "AUMC % Extrapolation Pred",
+            "pref_label": "Predicted Area Under the First Moment Curve Percent Extrapolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85790"
+        },
+        {
+            "alt_label": "AUMC Infinity Obs Norm by BMI",
+            "definition": "The area under the moment curve (AUMC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C92330",
+            "notation": "AUMC Infinity Obs Norm by BMI",
+            "pref_label": "AUMC Infinity Observed Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92330"
+        },
+        {
+            "alt_label": "AUMC Infinity Obs Norm by Dose",
+            "definition": "The area under the moment curve (AUMC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C92331",
+            "notation": "AUMC Infinity Obs Norm by Dose",
+            "pref_label": "AUMC Infinity Observed Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92331"
+        },
+        {
+            "alt_label": "AUMC Infinity Obs Norm by SA",
+            "definition": "The area under the moment curve (AUMC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92332",
+            "notation": "AUMC Infinity Obs Norm by SA",
+            "pref_label": "AUMC Infinity Observed Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92332"
+        },
+        {
+            "alt_label": "AUMC Infinity Obs Norm by WT",
+            "definition": "The area under the moment curve (AUMC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92333",
+            "notation": "AUMC Infinity Obs Norm by WT",
+            "pref_label": "AUMC Infinity Observed Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92333"
+        },
+        {
+            "alt_label": "AUMC Infinity Obs",
+            "definition": "The area under the moment curve (AUMC) extrapolated to infinity, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C85765",
+            "notation": "AUMC Infinity Obs",
+            "pref_label": "Observed Area Under the First Moment Curve Infinity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85765"
+        },
+        {
+            "alt_label": "AUMC Infinity Pred Norm by BMI",
+            "definition": "The area under the moment curve (AUMC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C92334",
+            "notation": "AUMC Infinity Pred Norm by BMI",
+            "pref_label": "AUMC Infinity Predicted Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92334"
+        },
+        {
+            "alt_label": "AUMC Infinity Pred Norm by Dose",
+            "definition": "The area under the moment curve (AUMC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C92335",
+            "notation": "AUMC Infinity Pred Norm by Dose",
+            "pref_label": "AUMC Infinity Predicted Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92335"
+        },
+        {
+            "alt_label": "AUMC Infinity Pred Norm by SA",
+            "definition": "The area under the moment curve (AUMC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92336",
+            "notation": "AUMC Infinity Pred Norm by SA",
+            "pref_label": "AUMC Infinity Predicted Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92336"
+        },
+        {
+            "alt_label": "AUMC Infinity Pred Norm by WT",
+            "definition": "The area under the moment curve (AUMC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92337",
+            "notation": "AUMC Infinity Pred Norm by WT",
+            "pref_label": "AUMC Infinity Predicted Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92337"
+        },
+        {
+            "alt_label": "AUMC Infinity Pred",
+            "definition": "The area under the moment curve (AUMC) extrapolated to infinity, calculated using the predicted value of the last non-zero concentration.",
+            "identifier": "C85789",
+            "notation": "AUMC Infinity Pred",
+            "pref_label": "Predicted Area Under the First Moment Curve Infinity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85789"
+        },
+        {
+            "alt_label": "AUMC Over Dosing Interval Norm by BMI",
+            "definition": "The area under the first moment curve (AUMC) for the defined interval between doses (TAU) divided by the body mass index.",
+            "identifier": "C92338",
+            "notation": "AUMC Over Dosing Interval Norm by BMI",
+            "pref_label": "AUMC Over Dosing Interval Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92338"
+        },
+        {
+            "alt_label": "AUMC Over Dosing Interval Norm by Dose",
+            "definition": "The area under the first moment curve (AUMC) for the defined interval between doses (TAU) divided by the dose.",
+            "identifier": "C92339",
+            "notation": "AUMC Over Dosing Interval Norm by Dose",
+            "pref_label": "AUMC Over Dosing Interval Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92339"
+        },
+        {
+            "alt_label": "AUMC Over Dosing Interval Norm by SA",
+            "definition": "The area under the first moment curve (AUMC) for the defined interval between doses (TAU) divided by the surface area.",
+            "identifier": "C92340",
+            "notation": "AUMC Over Dosing Interval Norm by SA",
+            "pref_label": "AUMC Over Dosing Interval Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92340"
+        },
+        {
+            "alt_label": "AUMC Over Dosing Interval Norm by WT",
+            "definition": "The area under the first moment curve (AUMC) for the defined interval between doses (TAU) divided by the weight.",
+            "identifier": "C92341",
+            "notation": "AUMC Over Dosing Interval Norm by WT",
+            "pref_label": "AUMC Over Dosing Interval Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92341"
+        },
+        {
+            "alt_label": "AUMC Over Dosing Interval",
+            "definition": "The area under the first moment curve (AUMC) for the defined interval between doses (TAU).",
+            "identifier": "C85570",
+            "notation": "AUMC Over Dosing Interval",
+            "pref_label": "Area Under the First Moment Curve Over Dosing Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85570"
+        },
+        {
+            "alt_label": "AUMC to Last Nonzero Conc Norm by BMI",
+            "definition": "The area under the moment curve (AUMC) from the time of dosing to the last measurable concentration divided by the body mass index.",
+            "identifier": "C92326",
+            "notation": "AUMC to Last Nonzero Conc Norm by BMI",
+            "pref_label": "AUMC Dosing to Last Concentration Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92326"
+        },
+        {
+            "alt_label": "AUMC to Last Nonzero Conc Norm by Dose",
+            "definition": "The area under the moment curve (AUMC) from the time of dosing to the last measurable concentration divided by the dose.",
+            "identifier": "C92327",
+            "notation": "AUMC to Last Nonzero Conc Norm by Dose",
+            "pref_label": "AUMC Dosing to Last Concentration Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92327"
+        },
+        {
+            "alt_label": "AUMC to Last Nonzero Conc Norm by SA",
+            "definition": "The area under the moment curve (AUMC) from the time of dosing to the last measurable concentration divided by the surface area.",
+            "identifier": "C92328",
+            "notation": "AUMC to Last Nonzero Conc Norm by SA",
+            "pref_label": "AUMC Dosing to Last Concentration Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92328"
+        },
+        {
+            "alt_label": "AUMC to Last Nonzero Conc Norm by WT",
+            "definition": "The area under the moment curve (AUMC) from the time of dosing to the last measurable concentration divided by the weight.",
+            "identifier": "C92329",
+            "notation": "AUMC to Last Nonzero Conc Norm by WT",
+            "pref_label": "AUMC Dosing to Last Concentration Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92329"
+        },
+        {
+            "alt_label": "AUMC to Last Nonzero Conc",
+            "definition": "The area under the moment curve (AUMC) from the time of dosing to the last measurable concentration.",
+            "identifier": "C85569",
+            "notation": "AUMC to Last Nonzero Conc",
+            "pref_label": "Area Under the First Moment Curve From Dosing to Last Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85569"
+        },
+        {
+            "alt_label": "AURC % Extrapolation Obs",
+            "definition": "The area under the excretion rate curve (AURC) from the last observed non-zero rate value to infinity as a percentage of the area under the excretion rate curve extrapolated to infinity.",
+            "identifier": "C85768",
+            "notation": "AURC % Extrapolation Obs",
+            "pref_label": "Observed Area Under the Excretion Rate Curve Percent Extrapolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85768"
+        },
+        {
+            "alt_label": "AURC % Extrapolation Pred",
+            "definition": "The area under the excretion rate curve (AURC) from the last predicted non-zero rate value to infinity as a percentage of the area under the excretion rate curve extrapolated to infinity.",
+            "identifier": "C85792",
+            "notation": "AURC % Extrapolation Pred",
+            "pref_label": "Predicted Area Under the Excretion Rate Curve Percent Extrapolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85792"
+        },
+        {
+            "alt_label": "AURC All Norm by BMI",
+            "definition": "The area under the excretion rate curve (AURC) from time zero to the last measurable rate divided by the body mass index.",
+            "identifier": "C92342",
+            "notation": "AURC All Norm by BMI",
+            "pref_label": "AURC All Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92342"
+        },
+        {
+            "alt_label": "AURC All Norm by Dose",
+            "definition": "The area under the excretion rate curve (AURC) from time zero to the last measurable rate divided by the dose.",
+            "identifier": "C92343",
+            "notation": "AURC All Norm by Dose",
+            "pref_label": "AURC All Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92343"
+        },
+        {
+            "alt_label": "AURC All Norm by SA",
+            "definition": "The area under the excretion rate curve (AURC) from time zero to the last measurable rate divided by the surface area.",
+            "identifier": "C92344",
+            "notation": "AURC All Norm by SA",
+            "pref_label": "AURC All Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92344"
+        },
+        {
+            "alt_label": "AURC All Norm by WT",
+            "definition": "The area under the excretion rate curve (AURC) from time zero to the last measurable rate divided by the weight.",
+            "identifier": "C92345",
+            "notation": "AURC All Norm by WT",
+            "pref_label": "AURC All Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92345"
+        },
+        {
+            "alt_label": "AURC All",
+            "definition": "The area under the excretion rate curve (AURC) from time zero to the time of the last observation, regardless of whether the last observation is a measurable concentration or not.",
+            "identifier": "C85841",
+            "notation": "AURC All",
+            "pref_label": "Area Under Excretion Rate Curve All",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85841"
+        },
+        {
+            "alt_label": "AURC to Last Nonzero Rate Norm by BMI",
+            "definition": "The area under the excretion rate curve (AURC) from time zero to the last measurable rate, divided by the body mass index.",
+            "identifier": "C92346",
+            "notation": "AURC Dosing to Last Conc Norm by BMI",
+            "pref_label": "AURC Dosing to Last Concentration Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92346"
+        },
+        {
+            "alt_label": "AURC to Last Nonzero Rate Norm by Dose",
+            "definition": "The area under the excretion rate curve (AURC) from time zero to the last measurable rate, divided by the dose.",
+            "identifier": "C92347",
+            "notation": "AURC Dosing to Last Conc Norm by Dose",
+            "pref_label": "AURC Dosing to Last Concentration Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92347"
+        },
+        {
+            "alt_label": "AURC to Last Nonzero Rate Norm by SA",
+            "definition": "The area under the excretion rate curve (AURC) from time zero to the last measurable rate, divided by the surface area.",
+            "identifier": "C92348",
+            "notation": "AURC Dosing to Last Conc Norm by SA",
+            "pref_label": "AURC Dosing to Last Concentration Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92348"
+        },
+        {
+            "alt_label": "AURC to Last Nonzero Rate Norm by WT",
+            "definition": "The area under the excretion rate curve (AURC) from time zero to the last measurable rate, divided by the weight.",
+            "identifier": "C92349",
+            "notation": "AURC Dosing to Last Conc Norm by WT",
+            "pref_label": "AURC Dosing to Last Concentration Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92349"
+        },
+        {
+            "alt_label": "AURC from T1 to T2 Norm by BMI",
+            "definition": "The area under the excretion rate curve (AURC) over the interval from T1 to T2 divided by the body mass index.",
+            "identifier": "C92350",
+            "notation": "AURC from T1 to T2 Norm by BMI",
+            "pref_label": "AURC from T1 to T2 Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92350"
+        },
+        {
+            "alt_label": "AURC from T1 to T2 Norm by Dose",
+            "definition": "The area under the excretion rate curve (AURC) over the interval from T1 to T2 divided by the dose.",
+            "identifier": "C92351",
+            "notation": "AURC from T1 to T2 Norm by Dose",
+            "pref_label": "AURC from T1 to T2 Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92351"
+        },
+        {
+            "alt_label": "AURC from T1 to T2 Norm by SA",
+            "definition": "The area under the excretion rate curve (AURC) over the interval from T1 to T2 divided by the surface area.",
+            "identifier": "C92352",
+            "notation": "AURC from T1 to T2 Norm by SA",
+            "pref_label": "AURC from T1 to T2 Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92352"
+        },
+        {
+            "alt_label": "AURC from T1 to T2 Norm by WT",
+            "definition": "The area under the excretion rate curve (AURC) over the interval from T1 to T2 divided by the weight.",
+            "identifier": "C92353",
+            "notation": "AURC from T1 to T2 Norm by WT",
+            "pref_label": "AURC from T1 to T2 Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92353"
+        },
+        {
+            "alt_label": "AURC from T1 to T2",
+            "definition": "The area under the excretion rate curve (AURC) over the interval from T1 to T2.",
+            "identifier": "C85572",
+            "notation": "AURC from T1 to T2",
+            "pref_label": "Area Under the Excretion Rate Curve from T1 to T2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85572"
+        },
+        {
+            "alt_label": "AURC Infinity Obs Norm by BMI",
+            "definition": "The area under the excretion rate curve (AURC) extrapolated to infinity, calculated using the observed value of the last excretion rate, divided by the body mass index.",
+            "identifier": "C92354",
+            "notation": "AURC Infinity Obs Norm by BMI",
+            "pref_label": "AURC Infinity Observed Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92354"
+        },
+        {
+            "alt_label": "AURC Infinity Obs Norm by Dose",
+            "definition": "The area under the excretion rate curve (AURC) extrapolated to infinity, calculated using the observed value of the last excretion rate, divided by the dose.",
+            "identifier": "C92355",
+            "notation": "AURC Infinity Obs Norm by Dose",
+            "pref_label": "AURC Infinity Observed Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92355"
+        },
+        {
+            "alt_label": "AURC Infinity Obs Norm by SA",
+            "definition": "The area under the excretion rate curve (AURC) extrapolated to infinity, calculated using the observed value of the last excretion rate, divided by the surface area.",
+            "identifier": "C92356",
+            "notation": "AURC Infinity Obs Norm by SA",
+            "pref_label": "AURC Infinity Observed Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92356"
+        },
+        {
+            "alt_label": "AURC Infinity Obs Norm by WT",
+            "definition": "The area under the excretion rate curve (AURC) extrapolated to infinity, calculated using the observed value of the last excretion rate, divided by the weight.",
+            "identifier": "C92357",
+            "notation": "AURC Infinity Obs Norm by WT",
+            "pref_label": "AURC Infinity Observed Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92357"
+        },
+        {
+            "alt_label": "AURC Infinity Obs",
+            "definition": "The area under the excretion rate curve (AURC) extrapolated to infinity, calculated using the observed value of the last excretion rate.",
+            "identifier": "C85767",
+            "notation": "AURC Infinity Obs",
+            "pref_label": "Observed Area Under the Excretion Rate Curve infinity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85767"
+        },
+        {
+            "alt_label": "AURC Infinity Pred Norm by BMI",
+            "definition": "The area under the excretion rate curve (AURC) extrapolated to infinity, calculated using the predicted value of the last non-zero excretion rate, divided by the body mass index.",
+            "identifier": "C92358",
+            "notation": "AURC Infinity Pred Norm by BMI",
+            "pref_label": "AURC Infinity Predicted Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92358"
+        },
+        {
+            "alt_label": "AURC Infinity Pred Norm by Dose",
+            "definition": "The area under the excretion rate curve (AURC) extrapolated to infinity, calculated using the predicted value of the last non-zero excretion rate, divided by the dose.",
+            "identifier": "C92359",
+            "notation": "AURC Infinity Pred Norm by Dose",
+            "pref_label": "AURC Infinity Predicted Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92359"
+        },
+        {
+            "alt_label": "AURC Infinity Pred Norm by SA",
+            "definition": "The area under the excretion rate curve (AURC) extrapolated to infinity, calculated using the predicted value of the last non-zero excretion rate, divided by the surface area.",
+            "identifier": "C92360",
+            "notation": "AURC Infinity Pred Norm by SA",
+            "pref_label": "AURC Infinity Predicted Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92360"
+        },
+        {
+            "alt_label": "AURC Infinity Pred Norm by WT",
+            "definition": "The area under the excretion rate curve (AURC) extrapolated to infinity, calculated using the predicted value of the last non-zero excretion rate, divided by the weight.",
+            "identifier": "C92361",
+            "notation": "AURC Infinity Pred Norm by WT",
+            "pref_label": "AURC Infinity Predicted Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92361"
+        },
+        {
+            "alt_label": "AURC Infinity Pred",
+            "definition": "The area under the excretion rate curve (AURC) extrapolated to infinity, calculated using the predicted value of the last non-zero excretion rate.",
+            "identifier": "C85791",
+            "notation": "AURC Infinity Pred",
+            "pref_label": "Predicted Area Under the Excretion Rate Curve Infinity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85791"
+        },
+        {
+            "alt_label": "AURC to Last Nonzero Rate",
+            "definition": "The area under the excretion rate curve (AURC) from time zero to the time of the last measurable concentration.",
+            "identifier": "C85571",
+            "notation": "AURC to Last Nonzero Rate",
+            "pref_label": "Area Under the Excretion Rate Curve From Dosing to Last Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85571"
+        },
+        {
+            "alt_label": "Average Conc from T1 to T2 Norm by BMI",
+            "definition": "The area under the curve over the interval from T1 to T2 (AUCINT) divided by the length of the interval and then divided by the body mass index.",
+            "identifier": "C132440",
+            "notation": "Average Conc from T1 to T2 Norm by BMI",
+            "pref_label": "Average Concentration from T1 to T2 Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C132440"
+        },
+        {
+            "alt_label": "Average Conc from T1 to T2 Norm by Dose",
+            "definition": "The area under the curve over the interval from T1 to T2 (AUCINT) divided by the length of the interval and then divided by the dose.",
+            "identifier": "C132441",
+            "notation": "Average Conc from T1 to T2 Norm by Dose",
+            "pref_label": "Average Concentration from T1 to T2 Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C132441"
+        },
+        {
+            "alt_label": "Average Conc from T1 to T2 Norm by SA",
+            "definition": "The area under the curve over the interval from T1 to T2 (AUCINT) divided by the length of the interval and then divided by the surface area.",
+            "identifier": "C132442",
+            "notation": "Average Conc from T1 to T2 Norm by SA",
+            "pref_label": "Average Concentration from T1 to T2 Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C132442"
+        },
+        {
+            "alt_label": "Average Conc from T1 to T2 Norm by WT",
+            "definition": "The area under the curve over the interval from T1 to T2 (AUCINT) divided by the length of the interval and then divided by the weight.",
+            "identifier": "C132443",
+            "notation": "Average Conc from T1 to T2 Norm by WT",
+            "pref_label": "Average Concentration from T1 to T2 Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C132443"
+        },
+        {
+            "alt_label": "Average Conc from T1 to T2",
+            "definition": "The area under the curve over the interval from T1 to T2 (AUCINT) divided by the length of the interval.",
+            "identifier": "C132302",
+            "notation": "Average Conc from T1 to T2",
+            "pref_label": "Average Concentration from T1 to T2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C132302"
+        },
+        {
+            "alt_label": "Average Conc Norm by BMI",
+            "definition": "AUCTAU divided by TAU and then divided by the body mass index.",
+            "identifier": "C92367",
+            "notation": "Average Conc Norm by BMI",
+            "pref_label": "Average Concentration Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92367"
+        },
+        {
+            "alt_label": "Average Conc Norm by Dose",
+            "definition": "AUCTAU divided by TAU and then divided by the dose.",
+            "identifier": "C92368",
+            "notation": "Average Conc Norm by Dose",
+            "pref_label": "Average Concentration Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92368"
+        },
+        {
+            "alt_label": "Average Conc Norm by SA",
+            "definition": "AUCTAU divided by TAU and then divided by the surface area.",
+            "identifier": "C92369",
+            "notation": "Average Conc Norm by SA",
+            "pref_label": "Average Concentration Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92369"
+        },
+        {
+            "alt_label": "Average Conc Norm by WT",
+            "definition": "AUCTAU divided by TAU and then divided by the weight.",
+            "identifier": "C92370",
+            "notation": "Average Conc Norm by WT",
+            "pref_label": "Average Concentration Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92370"
+        },
+        {
+            "alt_label": "Average Concentration Norm by Dose/WT",
+            "definition": "AUCTAU divided by TAU divided by the body weight-adjusted dose.",
+            "identifier": "C174351",
+            "notation": "Average Concentration Norm by Dose/WT",
+            "pref_label": "Average Concentration Normalized by Weight-Adjusted Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C174351"
+        },
+        {
+            "alt_label": "Average Concentration",
+            "definition": "AUCTAU divided by TAU.",
+            "identifier": "C85575",
+            "notation": "Average Concentration",
+            "pref_label": "Average Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85575"
+        },
+        {
+            "alt_label": "Average of Conc Trough",
+            "definition": "The arithmetic average of two or more trough concentrations.",
+            "identifier": "C181516",
+            "notation": "Average of Conc Trough",
+            "pref_label": "Average of Trough Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C181516"
+        },
+        {
+            "alt_label": "Average Conc from T1 to T2 Norm by Dose per Body Weight;CAVGINT Norm by Dose/WT",
+            "definition": "The area under the curve over the interval from T1 to T2 (AUCINT) divided by the length of the interval divided by the body weight-adjusted dose.",
+            "identifier": "C174352",
+            "notation": "CAVGINT Norm by Dose/WT",
+            "pref_label": "Average Concentration from T1 to T2 Normalized by Weight-Adjusted Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C174352"
+        },
+        {
+            "alt_label": "Conc by BMI",
+            "definition": "The concentration divided by body mass index.",
+            "identifier": "C102367",
+            "notation": "Conc by BMI",
+            "pref_label": "Concentration Divided by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102367"
+        },
+        {
+            "alt_label": "Conc by Dose",
+            "definition": "The concentration divided by dose.",
+            "identifier": "C102368",
+            "notation": "Conc by Dose",
+            "pref_label": "Concentration Divided by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102368"
+        },
+        {
+            "alt_label": "Conc by SA",
+            "definition": "The concentration divided by surface area.",
+            "identifier": "C102369",
+            "notation": "Conc by SA",
+            "pref_label": "Concentration Divided by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102369"
+        },
+        {
+            "alt_label": "Conc by WT",
+            "definition": "The concentration divided by weight.",
+            "identifier": "C102370",
+            "notation": "Conc by WT",
+            "pref_label": "Concentration Divided by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102370"
+        },
+        {
+            "alt_label": "Conc Trough by BMI",
+            "definition": "The trough concentration divided by body mass index.",
+            "identifier": "C102395",
+            "notation": "Conc Trough by BMI",
+            "pref_label": "Trough Concentration Divided by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102395"
+        },
+        {
+            "alt_label": "Conc Trough by Dose",
+            "definition": "The trough concentration divided by dose.",
+            "identifier": "C102396",
+            "notation": "Conc Trough by Dose",
+            "pref_label": "Trough Concentration Divided by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102396"
+        },
+        {
+            "alt_label": "Conc Trough by SA",
+            "definition": "The trough concentration divided by surface area.",
+            "identifier": "C102397",
+            "notation": "Conc Trough by SA",
+            "pref_label": "Trough Concentration Divided by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102397"
+        },
+        {
+            "alt_label": "Conc Trough by WT",
+            "definition": "The trough concentration divided by weight.",
+            "identifier": "C102398",
+            "notation": "Conc Trough by WT",
+            "pref_label": "Trough Concentration Divided by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102398"
+        },
+        {
+            "alt_label": "Conc Trough",
+            "definition": "Concentration at end of dosing interval.",
+            "identifier": "C102394",
+            "notation": "Conc Trough",
+            "pref_label": "Trough Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102394"
+        },
+        {
+            "alt_label": "Concentration at End Infusion",
+            "definition": "The observed concentration at the end of the infusion.",
+            "identifier": "C181515",
+            "notation": "Concentration at End Infusion",
+            "pref_label": "Concentration at End Infusion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C181515"
+        },
+        {
+            "alt_label": "Concentration at Half Tmax",
+            "definition": "The concentration that occurs at the midpoint time between dosing time and Tmax.",
+            "identifier": "C135489",
+            "notation": "Concentration at Half Tmax",
+            "pref_label": "Concentration at Half Tmax",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C135489"
+        },
+        {
+            "alt_label": "Correlation Between TimeX and Log ConcY",
+            "definition": "The correlation between time (X) and log concentration (Y) for the points used in the estimation of lambda z.",
+            "identifier": "C85821",
+            "notation": "Correlation Between TimeX and Log ConcY",
+            "pref_label": "Time and Log Concentration Correlation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85821"
+        },
+        {
+            "alt_label": "Dosing Interval",
+            "definition": "The duration of time between two doses.",
+            "identifier": "C176355",
+            "notation": "Dosing Interval",
+            "pref_label": "Dosing Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176355"
+        },
+        {
+            "alt_label": "Effective Half-Life",
+            "definition": "The drug half-life that quantifies the accumulation ratio of a drug following multiple dosing.",
+            "identifier": "C95007",
+            "notation": "Effective Half-Life",
+            "pref_label": "Effective Half-life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C95007"
+        },
+        {
+            "alt_label": "Excret Rate from T1 to T2 Norm by BMI",
+            "definition": "The excretion rate over the interval from T1 to T2 divided by the body mass index, determined for the specimen type specified in PPSPEC.",
+            "identifier": "C105450",
+            "notation": "Excret Rate from T1 to T2 Norm by BMI",
+            "pref_label": "Excretion Rate From T1 to T2 Normalized by BMI",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105450"
+        },
+        {
+            "alt_label": "Excret Rate from T1 to T2 Norm by Dose",
+            "definition": "The excretion rate over the interval from T1 to T2 divided by the dose, determined for the specimen type specified in PPSPEC.",
+            "identifier": "C105451",
+            "notation": "Excret Rate from T1 to T2 Norm by Dose",
+            "pref_label": "Excretion Rate From T1 to T2 Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105451"
+        },
+        {
+            "alt_label": "Excret Rate from T1 to T2 Norm by SA",
+            "definition": "The excretion rate over the interval from T1 to T2 divided by the surface area, determined for the specimen type specified in PPSPEC.",
+            "identifier": "C105452",
+            "notation": "Excret Rate from T1 to T2 Norm by SA",
+            "pref_label": "Excretion Rate From T1 to T2 Normalized by SA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105452"
+        },
+        {
+            "alt_label": "Excret Rate from T1 to T2 Norm by WT",
+            "definition": "The excretion rate over the interval from T1 to T2 divided by the weight, determined for the specimen type specified in PPSPEC.",
+            "identifier": "C105453",
+            "notation": "Excret Rate from T1 to T2 Norm by WT",
+            "pref_label": "Excretion Rate From T1 to T2 Normalized by WT",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105453"
+        },
+        {
+            "alt_label": "Excret Rate from T1 to T2",
+            "definition": "The excretion rate over the interval from T1 to T2, determined for the specimen type specified in PPSPEC.",
+            "identifier": "C105449",
+            "notation": "Excret Rate from T1 to T2",
+            "pref_label": "Excretion Rate From T1 to T2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105449"
+        },
+        {
+            "alt_label": "Fluctuation%",
+            "definition": "The difference between Cmin and Cmax standardized to Cavg, between dose time and Tau.",
+            "identifier": "C85581",
+            "notation": "Fluctuation%",
+            "pref_label": "Concentration Variability Between Dose Time and Tau",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85581"
+        },
+        {
+            "alt_label": "Fract Excr from T1 to T2",
+            "definition": "The fraction of the administered dose that is recovered from the specimen type specified in PPSPEC, over the interval between T1 and T2.",
+            "identifier": "C156576",
+            "notation": "Fract Excr from T1 to T2",
+            "pref_label": "Fractional Excretion from T1 to T2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156576"
+        },
+        {
+            "alt_label": "Fraction Bound",
+            "definition": "The percent or ratio of bound substance concentration to the total concentration.",
+            "identifier": "C154840",
+            "notation": "Fraction Bound",
+            "pref_label": "Fraction Bound",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154840"
+        },
+        {
+            "alt_label": "Fraction of the Dose Metabolized",
+            "definition": "The fraction of the bioavailable dose which has been metabolized.",
+            "identifier": "C184704",
+            "notation": "Fraction of the Dose Metabolized",
+            "pref_label": "Fraction of the Dose Metabolized",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C184704"
+        },
+        {
+            "alt_label": "Fraction Unbound",
+            "definition": "The percent or ratio of free substance concentration to the total concentration. (NCI)",
+            "identifier": "C135490",
+            "notation": "Fraction Unbound",
+            "pref_label": "Fraction Unbound",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C135490"
+        },
+        {
+            "alt_label": "Half Tmax",
+            "definition": "The midpoint time between dosing time and Tmax.",
+            "identifier": "C135491",
+            "notation": "Half Tmax",
+            "pref_label": "Half Tmax",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C135491"
+        },
+        {
+            "alt_label": "Half-Life Distribution",
+            "definition": "Half-life calculated from the distributional phase.",
+            "identifier": "C172583",
+            "notation": "Half-Life Distribution",
+            "pref_label": "Half-Life Distribution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C172583"
+        },
+        {
+            "alt_label": "Half-Life Lambda z",
+            "definition": "Terminal half-life.",
+            "identifier": "C85818",
+            "notation": "Half-Life Lambda z",
+            "pref_label": "Terminal Half Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85818"
+        },
+        {
+            "alt_label": "Half-Life TAU",
+            "definition": "Half-life calculated within a dosing interval.",
+            "identifier": "C147483",
+            "notation": "Half-Life TAU",
+            "pref_label": "Half-Life TAU",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C147483"
+        },
+        {
+            "alt_label": "Hemodialysis Clearance",
+            "definition": "The clearance of a substance from the blood during a hemodialysis session.",
+            "identifier": "C112287",
+            "notation": "Hemodialysis Clearance",
+            "pref_label": "Hemodialysis Clearance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112287"
+        },
+        {
+            "alt_label": "Hemodialysis Extraction Ratio",
+            "definition": "The fractional content of a substance removed from the blood during a hemodialysis session.",
+            "identifier": "C116213",
+            "notation": "Hemodialysis Extraction Ratio",
+            "pref_label": "Hemodialysis Extraction Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C116213"
+        },
+        {
+            "alt_label": "Initial Conc Norm by BMI",
+            "definition": "Initial concentration divided by the body mass index. Given only for bolus IV models.",
+            "identifier": "C92383",
+            "notation": "Initial Conc Norm by BMI",
+            "pref_label": "Initial Concentration Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92383"
+        },
+        {
+            "alt_label": "Initial Conc Norm by Dose",
+            "definition": "Initial concentration divided by the dose. Given only for bolus IV models.",
+            "identifier": "C92384",
+            "notation": "Initial Conc Norm by Dose",
+            "pref_label": "Initial Concentration Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92384"
+        },
+        {
+            "alt_label": "Initial Conc Norm by SA",
+            "definition": "Initial concentration divided by the surface area. Given only for bolus IV models.",
+            "identifier": "C92385",
+            "notation": "Initial Conc Norm by SA",
+            "pref_label": "Initial Concentration Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92385"
+        },
+        {
+            "alt_label": "Initial Conc Norm by WT",
+            "definition": "Initial concentration divided by the weight. Given only for bolus IV models.",
+            "identifier": "C92386",
+            "notation": "Initial Conc Norm by WT",
+            "pref_label": "Initial Concentration Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92386"
+        },
+        {
+            "alt_label": "Initial Conc",
+            "definition": "Initial concentration. Given only for bolus IV models.",
+            "identifier": "C85644",
+            "notation": "Initial Conc",
+            "pref_label": "Initial Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85644"
+        },
+        {
+            "alt_label": "K Slope of Distribution",
+            "definition": "The distribution rate constant.",
+            "identifier": "C172584",
+            "notation": "K Slope of Distribution",
+            "pref_label": "K Slope of Distribution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C172584"
+        },
+        {
+            "alt_label": "Lambda z Lower Limit TAU",
+            "definition": "The lower limit on time for values to be included in the calculation of Lambda z, calculated within a dosing interval.",
+            "identifier": "C147479",
+            "notation": "Lambda z Lower Limit TAU",
+            "pref_label": "Lambda z Lower Limit TAU",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C147479"
+        },
+        {
+            "alt_label": "Lambda z Lower Limit",
+            "definition": "The lower limit on time for values to be included in the calculation of Lambda z.",
+            "identifier": "C85653",
+            "notation": "Lambda z Lower Limit",
+            "pref_label": "Lambda Z Time Lower Limit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85653"
+        },
+        {
+            "alt_label": "Lambda z Span",
+            "definition": "The interval of time covered by the data points used in the terminal disposition phase regression analysis, divided by half life. This yields the terminal disposition phase duration expressed as the number of half lives.",
+            "identifier": "C135492",
+            "notation": "Lambda z Span",
+            "pref_label": "Lambda Z Span",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C135492"
+        },
+        {
+            "alt_label": "Lambda z TAU",
+            "definition": "The first order rate constant associated with the terminal (log-linear) portion of the curve, calculated within a dosing interval.",
+            "identifier": "C147481",
+            "notation": "Lambda z TAU",
+            "pref_label": "Lambda z TAU",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C147481"
+        },
+        {
+            "alt_label": "Lambda z Upper Limit TAU",
+            "definition": "The upper limit on time for values to be included in the calculation of Lambda z, calculated within a dosing interval.",
+            "identifier": "C147482",
+            "notation": "Lambda z Upper Limit TAU",
+            "pref_label": "Lambda z Upper Limit TAU",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C147482"
+        },
+        {
+            "alt_label": "Lambda z Upper Limit",
+            "definition": "The upper limit on time for values to be included in the calculation of Lambda z.",
+            "identifier": "C85654",
+            "notation": "Lambda z Upper Limit",
+            "pref_label": "Lambda Z Time Upper Limit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85654"
+        },
+        {
+            "alt_label": "Lambda z",
+            "definition": "The first order rate constant associated with the terminal (log-linear) portion of the curve.",
+            "identifier": "C85652",
+            "notation": "Lambda z",
+            "pref_label": "Lambda Z",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85652"
+        },
+        {
+            "alt_label": "Last Meas Excretion Rate Norm by BMI",
+            "definition": "The last measurable (positive) excretion rate divided by the body mass index.",
+            "identifier": "C92391",
+            "notation": "Last Meas Excretion Rate Norm by BMI",
+            "pref_label": "Last Measurable Excretion Rate Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92391"
+        },
+        {
+            "alt_label": "Last Meas Excretion Rate Norm by Dose",
+            "definition": "The last measurable (positive) excretion rate divided by the dose.",
+            "identifier": "C92392",
+            "notation": "Last Meas Excretion Rate Norm by Dose",
+            "pref_label": "Last Measurable Excretion Rate Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92392"
+        },
+        {
+            "alt_label": "Last Meas Excretion Rate Norm by SA",
+            "definition": "The last measurable (positive) excretion rate divided by the surface area.",
+            "identifier": "C92393",
+            "notation": "Last Meas Excretion Rate Norm by SA",
+            "pref_label": "Last Measurable Excretion Rate Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92393"
+        },
+        {
+            "alt_label": "Last Meas Excretion Rate Norm by WT",
+            "definition": "The last measurable (positive) excretion rate divided by the weight.",
+            "identifier": "C92394",
+            "notation": "Last Meas Excretion Rate Norm by WT",
+            "pref_label": "Last Measurable Excretion Rate Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92394"
+        },
+        {
+            "alt_label": "Last Meas Excretion Rate",
+            "definition": "The last measurable (positive) excretion rate determined for the specimen type specified in PPSPEC.",
+            "identifier": "C85656",
+            "notation": "Last Meas Excretion Rate",
+            "pref_label": "Last Measurable Observed Excretion Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85656"
+        },
+        {
+            "alt_label": "Last Nonzero Conc Norm by BMI",
+            "definition": "The concentration corresponding to Tlast divided by the body mass index.",
+            "identifier": "C92387",
+            "notation": "Last Nonzero Conc Norm by BMI",
+            "pref_label": "Last Concentration Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92387"
+        },
+        {
+            "alt_label": "Last Nonzero Conc Norm by Dose",
+            "definition": "The concentration corresponding to Tlast divided by the dose.",
+            "identifier": "C92388",
+            "notation": "Last Nonzero Conc Norm by Dose",
+            "pref_label": "Last Concentration Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92388"
+        },
+        {
+            "alt_label": "Last Nonzero Conc Norm by SA",
+            "definition": "The concentration corresponding to Tlast divided by the surface area.",
+            "identifier": "C92389",
+            "notation": "Last Nonzero Conc Norm by SA",
+            "pref_label": "Last Concentration Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92389"
+        },
+        {
+            "alt_label": "Last Nonzero Conc Norm by WT",
+            "definition": "The concentration corresponding to Tlast divided by the weight.",
+            "identifier": "C92390",
+            "notation": "Last Nonzero Conc Norm by WT",
+            "pref_label": "Last Concentration Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92390"
+        },
+        {
+            "alt_label": "Last Nonzero Conc",
+            "definition": "The concentration corresponding to Tlast.",
+            "identifier": "C85655",
+            "notation": "Last Nonzero Conc",
+            "pref_label": "Last Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85655"
+        },
+        {
+            "alt_label": "Max Conc LN Transformed",
+            "definition": "The natural log transformed maximum concentration occurring at Tmax.",
+            "identifier": "C161415",
+            "notation": "Max Conc LN Transformed",
+            "pref_label": "Natural Log Transformed Cmax",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C161415"
+        },
+        {
+            "alt_label": "Max Conc Norm by BMI",
+            "definition": "The maximum concentration occurring at Tmax, divided by the body mass index.",
+            "identifier": "C92371",
+            "notation": "Max Conc Norm by BMI",
+            "pref_label": "Maximum Concentration Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92371"
+        },
+        {
+            "alt_label": "Max Conc Norm by Dose",
+            "definition": "The maximum concentration occurring at Tmax, divided by the dose.",
+            "identifier": "C85698",
+            "notation": "Max Conc Norm by Dose",
+            "pref_label": "Maximum Concentration Dose Normalized",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85698"
+        },
+        {
+            "alt_label": "Max Conc Norm by Dose/WT",
+            "definition": "The maximum concentration occurring at Tmax divided by the body weight-adjusted dose.",
+            "identifier": "C174353",
+            "notation": "Max Conc Norm by Dose/WT",
+            "pref_label": "Maximum Concentration Normalized by Weight-Adjusted Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C174353"
+        },
+        {
+            "alt_label": "Max Conc Norm by SA",
+            "definition": "The maximum concentration occurring at Tmax, divided by the surface area.",
+            "identifier": "C92372",
+            "notation": "Max Conc Norm by SA",
+            "pref_label": "Maximum Concentration Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92372"
+        },
+        {
+            "alt_label": "Max Conc Norm by WT",
+            "definition": "The maximum concentration occurring at Tmax, divided by the weight.",
+            "identifier": "C92373",
+            "notation": "Max Conc Norm by WT",
+            "pref_label": "Maximum Concentration Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92373"
+        },
+        {
+            "alt_label": "Max Conc",
+            "definition": "The maximum concentration occurring at Tmax.",
+            "identifier": "C70918",
+            "notation": "Max Conc",
+            "pref_label": "Cmax",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C70918"
+        },
+        {
+            "alt_label": "Max Conc, Unbound Drug",
+            "definition": "The maximum concentration represented by the unbound fraction of drug, occurring at Tmax.",
+            "identifier": "C154848",
+            "notation": "Max Conc, Unbound Drug",
+            "pref_label": "Maximum Concentration of Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154848"
+        },
+        {
+            "alt_label": "Max Excretion Rate Norm by BMI",
+            "definition": "The maximum excretion rate divided by the body mass index.",
+            "identifier": "C92395",
+            "notation": "Max Excretion Rate Norm by BMI",
+            "pref_label": "Maximum Observed Excretion Rate Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92395"
+        },
+        {
+            "alt_label": "Max Excretion Rate Norm by Dose",
+            "definition": "The maximum excretion rate divided by the dose.",
+            "identifier": "C92396",
+            "notation": "Max Excretion Rate Norm by Dose",
+            "pref_label": "Maximum Observed Excretion Rate Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92396"
+        },
+        {
+            "alt_label": "Max Excretion Rate Norm by SA",
+            "definition": "The maximum excretion rate divided by the surface area.",
+            "identifier": "C92397",
+            "notation": "Max Excretion Rate Norm by SA",
+            "pref_label": "Maximum Observed Excretion Rate Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92397"
+        },
+        {
+            "alt_label": "Max Excretion Rate Norm by WT",
+            "definition": "The maximum excretion rate divided by the weight.",
+            "identifier": "C92398",
+            "notation": "Max Excretion Rate Norm by WT",
+            "pref_label": "Maximum Observed Excretion Rate Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92398"
+        },
+        {
+            "alt_label": "Max Excretion Rate",
+            "definition": "The maximum excretion rate determined for the specimen type specified in PPSPEC.",
+            "identifier": "C85699",
+            "notation": "Max Excretion Rate",
+            "pref_label": "Maximum Observed Excretion Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85699"
+        },
+        {
+            "alt_label": "Mean Absorption Time",
+            "definition": "Mean absorption time of a substance administered by extravascular dosing.",
+            "identifier": "C120723",
+            "notation": "Mean Absorption Time",
+            "pref_label": "Mean Absorption Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C120723"
+        },
+        {
+            "alt_label": "Midpoint of Interval of Last Nonzero ER",
+            "definition": "The midpoint of collection interval associated with last measurable excretion rate.",
+            "identifier": "C85580",
+            "notation": "Midpoint of Interval of Last Nonzero ER",
+            "pref_label": "Collection Interval Midpoint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85580"
+        },
+        {
+            "alt_label": "Midpoint of Interval of Maximum ER",
+            "definition": "The midpoint of collection interval associated with the maximum excretion rate.",
+            "identifier": "C85823",
+            "notation": "Midpoint of Interval of Maximum ER",
+            "pref_label": "Time of Maximum Observed Excretion Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85823"
+        },
+        {
+            "alt_label": "Min Conc Norm by BMI",
+            "definition": "The minimum concentration between dose time and dose time plus Tau (at Tmin) divided by the body mass index.",
+            "identifier": "C92374",
+            "notation": "Min Conc Norm by BMI",
+            "pref_label": "Minimum Concentration Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92374"
+        },
+        {
+            "alt_label": "Min Conc Norm by Dose",
+            "definition": "The minimum concentration between dose time and dose time plus Tau (at Tmin) divided by the dose.",
+            "identifier": "C92375",
+            "notation": "Min Conc Norm by Dose",
+            "pref_label": "Minimum Concentration Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92375"
+        },
+        {
+            "alt_label": "Min Conc Norm by Dose/WT",
+            "definition": "The minimum concentration between dose time and dose time plus Tau (at Tmin) divided by the body weight-adjusted dose.",
+            "identifier": "C174354",
+            "notation": "Min Conc Norm by Dose/WT",
+            "pref_label": "Minimum Concentration Normalized by Weight-Adjusted Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C174354"
+        },
+        {
+            "alt_label": "Min Conc Norm by SA",
+            "definition": "The minimum concentration between dose time and dose time plus Tau (at Tmin) divided by the surface area.",
+            "identifier": "C92376",
+            "notation": "Min Conc Norm by SA",
+            "pref_label": "Minimum Concentration Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92376"
+        },
+        {
+            "alt_label": "Min Conc Norm by WT",
+            "definition": "The minimum concentration between dose time and dose time plus Tau (at Tmin) divided by the weight.",
+            "identifier": "C92377",
+            "notation": "Min Conc Norm by WT",
+            "pref_label": "Minimum Concentration Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92377"
+        },
+        {
+            "alt_label": "Min Conc",
+            "definition": "The minimum concentration between dose time and dose time plus Tau (at Tmin).",
+            "identifier": "C85579",
+            "notation": "Min Conc",
+            "pref_label": "Cmin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85579"
+        },
+        {
+            "alt_label": "MRT Extravasc Infinity Obs",
+            "definition": "The mean residence time (MRT) extrapolated to infinity for a substance administered by extravascular dosing, calculated using the observed value of the last non-zero concentration. Extravascular MRT includes Mean Absorption Time (MAT).",
+            "identifier": "C120724",
+            "notation": "MRT Extravasc Infinity Obs",
+            "pref_label": "Mean Residence Time Infinity Observed by Extravascular Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C120724"
+        },
+        {
+            "alt_label": "MRT Extravasc Infinity Pred",
+            "definition": "The mean residence time (MRT) extrapolated to infinity for a substance administered by extravascular dosing, calculated using the predicted value of the last non-zero concentration. Extravascular MRT includes Mean Absorption Time (MAT).",
+            "identifier": "C120725",
+            "notation": "MRT Extravasc Infinity Pred",
+            "pref_label": "Mean Residence Time Infinity Predicted by Extravascular Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C120725"
+        },
+        {
+            "alt_label": "MRT Extravasc to Last Nonzero Conc",
+            "definition": "Mean residence time (MRT) from the time of dosing to the time of the last measurable concentration for a substance administered by extravascular dosing. Extravascular MRT includes Mean Absorption Time (MAT).",
+            "identifier": "C120726",
+            "notation": "MRT Extravasc to Last Nonzero Conc",
+            "pref_label": "Mean Residence Time to Last Nonzero Concentration by Extravascular Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C120726"
+        },
+        {
+            "alt_label": "MRT IV Bolus Infinity Obs",
+            "definition": "The mean residence time (MRT) extrapolated to infinity for a substance administered by intravascular bolus dosing, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C121134",
+            "notation": "MRT IV Bolus Infinity Obs",
+            "pref_label": "Mean Residence Time Infinity Observed by Intravascular Bolus Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C121134"
+        },
+        {
+            "alt_label": "MRT IV Bolus Infinity Pred",
+            "definition": "The mean residence time (MRT) extrapolated to infinity for a substance administered by intravascular bolus dosing, calculated using the predicted value of the last non-zero concentration.",
+            "identifier": "C121136",
+            "notation": "MRT IV Bolus Infinity Pred",
+            "pref_label": "Mean Residence Time Infinity Predicted by Intravascular Bolus Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C121136"
+        },
+        {
+            "alt_label": "MRT IV Bolus to Last Nonzero Conc",
+            "definition": "Mean residence time (MRT) from the time of dosing to the time of the last measurable concentration, for a substance administered by intravascular bolus dosing.",
+            "identifier": "C121137",
+            "notation": "MRT IV Bolus to Last Nonzero Conc",
+            "pref_label": "Mean Residence Time to Last Nonzero Concentration by Intravascular Bolus Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C121137"
+        },
+        {
+            "alt_label": "MRT IV Cont Inf Infinity Obs",
+            "definition": "The mean residence time (MRT) extrapolated to infinity for a substance administered by constant rate of continuous intravascular infusion, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C181517",
+            "notation": "MRT IV Cont Inf Infinity Obs",
+            "pref_label": "Mean Residence Time Intravenous Continuous Infusion Infinity Observed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C181517"
+        },
+        {
+            "alt_label": "MRT IV Cont Inf Infinity Pred",
+            "definition": "The mean residence time (MRT) extrapolated to infinity for a substance administered by constant rate of continuous intravascular infusion, calculated using the predicted value of the last non-zero concentration.",
+            "identifier": "C181518",
+            "notation": "MRT IV Cont Inf Infinity Pred",
+            "pref_label": "Mean Residence Time Intravenous Continuous Infusion Infinity Predicted",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C181518"
+        },
+        {
+            "alt_label": "MRT IV Cont Inf to Last Nonzero Conc",
+            "definition": "Mean residence time (MRT) from the time of dosing to the time of the last measurable concentration, for a substance administered by constant rate of continuous intravascular infusion.",
+            "identifier": "C181519",
+            "notation": "MRT IV Cont Inf to Last Nonzero Conc",
+            "pref_label": "Mean Residence Time Intravenous Continuous Infusion to Last Nonzero Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C181519"
+        },
+        {
+            "alt_label": "Nonrenal CL Norm by BMI",
+            "definition": "The total clearance of a substance from the blood minus the renal clearance divided by the body mass index.",
+            "identifier": "C105454",
+            "notation": "Nonrenal CL Norm by BMI",
+            "pref_label": "Nonrenal Clearance Normalized by BMI",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105454"
+        },
+        {
+            "alt_label": "Nonrenal CL Norm by Dose",
+            "definition": "The total clearance of a substance from the blood minus the renal clearance divided by the dose.",
+            "identifier": "C105455",
+            "notation": "Nonrenal CL Norm by Dose",
+            "pref_label": "Nonrenal Clearance Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105455"
+        },
+        {
+            "alt_label": "Nonrenal CL Norm by SA",
+            "definition": "The total clearance of a substance from the blood minus the renal clearance divided by the surface area.",
+            "identifier": "C105456",
+            "notation": "Nonrenal CL Norm by SA",
+            "pref_label": "Nonrenal Clearance Normalized by SA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105456"
+        },
+        {
+            "alt_label": "Nonrenal CL Norm by WT",
+            "definition": "The total clearance of a substance from the blood minus the renal clearance divided by the weight.",
+            "identifier": "C105457",
+            "notation": "Nonrenal CL Norm by WT",
+            "pref_label": "Nonrenal Clearance Normalized by WT",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105457"
+        },
+        {
+            "alt_label": "Nonrenal CL",
+            "definition": "The total clearance of a substance from the blood less the renal clearance.",
+            "identifier": "C102376",
+            "notation": "Nonrenal CL",
+            "pref_label": "Nonrenal Clearance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102376"
+        },
+        {
+            "alt_label": "Number of Points for Lambda z TAU",
+            "definition": "The number of time points used in computing Lambda z determined in a dosing interval.",
+            "identifier": "C147480",
+            "notation": "Number of Points for Lambda z TAU",
+            "pref_label": "Number of Points for Lambda z TAU",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C147480"
+        },
+        {
+            "alt_label": "Number of Points for Lambda z",
+            "definition": "The number of time points used in computing Lambda z.",
+            "identifier": "C85816",
+            "notation": "Number of Points for Lambda z",
+            "pref_label": "Sum of Lambda Z Timepoints",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85816"
+        },
+        {
+            "alt_label": "Pct Rec from T1 to T2 Norm by BMI",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC, over the interval between T1 and T2 divided by body mass index.",
+            "identifier": "C102383",
+            "notation": "Pct Rec from T1 to T2 Norm by BMI",
+            "pref_label": "Percent Recovered from T1 to T2 Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102383"
+        },
+        {
+            "alt_label": "Pct Rec from T1 to T2 Norm by SA",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC, over the interval between T1 and T2 divided by surface area.",
+            "identifier": "C102384",
+            "notation": "Pct Rec from T1 to T2 Norm by SA",
+            "pref_label": "Percent Recovered from T1 to T2 Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102384"
+        },
+        {
+            "alt_label": "Pct Rec from T1 to T2 Norm by WT",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC, over the interval between T1 and T2 divided by weight.",
+            "identifier": "C102385",
+            "notation": "Pct Rec from T1 to T2 Norm by WT",
+            "pref_label": "Percent Recovered from T1 to T2 Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102385"
+        },
+        {
+            "alt_label": "Pct Rec from T1 to T2",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC, over the interval between T1 and T2.",
+            "identifier": "C102382",
+            "notation": "Pct Rec from T1 to T2",
+            "pref_label": "Percent Recovered from T1 to T2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102382"
+        },
+        {
+            "alt_label": "Pct Rec Infinity Obs Norm by BMI",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C112389",
+            "notation": "Pct Rec Infinity Obs Norm by BMI",
+            "pref_label": "Percent Recovered Infinity Observed Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112389"
+        },
+        {
+            "alt_label": "Pct Rec Infinity Obs Norm by SA",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C112390",
+            "notation": "Pct Rec Infinity Obs Norm by SA",
+            "pref_label": "Percent Recovered Infinity Observed Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112390"
+        },
+        {
+            "alt_label": "Pct Rec Infinity Obs Norm by WT",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the observed value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C112391",
+            "notation": "Pct Rec Infinity Obs Norm by WT",
+            "pref_label": "Percent Recovered Infinity Observed Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112391"
+        },
+        {
+            "alt_label": "Pct Rec Infinity Obs",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C112034",
+            "notation": "Pct Rec Infinity Obs",
+            "pref_label": "Percent Recovered Infinity Observed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112034"
+        },
+        {
+            "alt_label": "Pct Rec Infinity Pred Norm by BMI",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C112392",
+            "notation": "Pct Rec Infinity Pred Norm by BMI",
+            "pref_label": "Percent Recovered Infinity Predicted Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112392"
+        },
+        {
+            "alt_label": "Pct Rec Infinity Pred Norm by SA",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C112393",
+            "notation": "Pct Rec Infinity Pred Norm by SA",
+            "pref_label": "Percent Recovered Infinity Predicted Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112393"
+        },
+        {
+            "alt_label": "Pct Rec Infinity Pred Norm by WT",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the predicted value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C112394",
+            "notation": "Pct Rec Infinity Pred Norm by WT",
+            "pref_label": "Percent Recovered Infinity Predicted Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112394"
+        },
+        {
+            "alt_label": "Pct Rec Infinity Pred",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC extrapolated to infinity, calculated using the predicted value of the last non-zero concentration.",
+            "identifier": "C112035",
+            "notation": "Pct Rec Infinity Pred",
+            "pref_label": "Percent Recovered Infinity Predicted",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C112035"
+        },
+        {
+            "alt_label": "Pct Rec Over Dosing Interval Norm by BMI",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC, between doses (TAU) divided by the body mass index.",
+            "identifier": "C102387",
+            "notation": "Pct Rec Over Dosing Interval Norm by BMI",
+            "pref_label": "Percent Recovered Over Dosing Interval Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102387"
+        },
+        {
+            "alt_label": "Pct Rec Over Dosing Interval Norm by SA",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC, between doses (TAU) divided by surface area.",
+            "identifier": "C102388",
+            "notation": "Pct Rec Over Dosing Interval Norm by SA",
+            "pref_label": "Percent Recovered Over Dosing Interval Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102388"
+        },
+        {
+            "alt_label": "Pct Rec Over Dosing Interval Norm by WT",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC, between doses (TAU) divided by weight.",
+            "identifier": "C102389",
+            "notation": "Pct Rec Over Dosing Interval Norm by WT",
+            "pref_label": "Percent Recovered Over Dosing Interval Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102389"
+        },
+        {
+            "alt_label": "Pct Rec Over Dosing Interval",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC, between doses (TAU).",
+            "identifier": "C102386",
+            "notation": "Pct Rec Over Dosing Interval",
+            "pref_label": "Percent Recovered Over Dosing Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102386"
+        },
+        {
+            "alt_label": "Pct Rec to Last Nonzero Conc",
+            "definition": "The percentage of the administered dose that is recovered from the specimen type specified in PPSPEC, from the time of dosing to the last non-zero concentration.",
+            "identifier": "C166075",
+            "notation": "Pct Rec to Last Nonzero Conc",
+            "pref_label": "Percent Recovered To Last Nonzero Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C166075"
+        },
+        {
+            "alt_label": "Peak Trough Ratio",
+            "definition": "The maximum concentration during a dosing interval divided by the concentration at the end of the dosing interval.",
+            "identifier": "C102381",
+            "notation": "Peak Trough Ratio",
+            "pref_label": "Peak Trough Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102381"
+        },
+        {
+            "alt_label": "R Squared Adjusted",
+            "definition": "The goodness of fit statistic for the terminal elimination phase, adjusted for the number of time points used in the estimation of Lambda z.",
+            "identifier": "C85553",
+            "notation": "R Squared Adjusted",
+            "pref_label": "Adjusted R Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85553"
+        },
+        {
+            "alt_label": "R Squared",
+            "definition": "The goodness of fit statistic for the terminal elimination phase.",
+            "identifier": "C85542",
+            "notation": "R Squared",
+            "pref_label": "R Squared",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85542"
+        },
+        {
+            "alt_label": "Ratio Amt Rec from T1 to T2",
+            "definition": "The ratio of two amount recovered from T1 to T2 values.",
+            "identifier": "C176347",
+            "notation": "Ratio Amt Rec from T1 to T2",
+            "pref_label": "Ratio Amount Recovered from T1 to T2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176347"
+        },
+        {
+            "alt_label": "Ratio Amt Rec Infinity Obs",
+            "definition": "The ratio of two amount recovered infinity observed values.",
+            "identifier": "C176354",
+            "notation": "Ratio Amt Rec Infinity Obs",
+            "pref_label": "Ratio Amount Recovered Infinity Observed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176354"
+        },
+        {
+            "alt_label": "Ratio AUC All",
+            "definition": "The ratio of two AUC All values.",
+            "identifier": "C176344",
+            "notation": "Ratio AUC All",
+            "pref_label": "AUC All Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176344"
+        },
+        {
+            "alt_label": "Ratio AUC from T1 to T2 Norm by Dose",
+            "definition": "The ratio of two AUC from T1 to T2 normalized by dose values.",
+            "identifier": "C176349",
+            "notation": "Ratio AUC from T1 to T2 Norm by Dose",
+            "pref_label": "Ratio AUC from T1 to T2 Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176349"
+        },
+        {
+            "alt_label": "Ratio AUC from T1 to T2",
+            "definition": "The ratio of two AUC from T1 to T2 values.",
+            "identifier": "C176236",
+            "notation": "Ratio AUC from T1 to T2",
+            "pref_label": "Ratio AUC From T1 to T2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176236"
+        },
+        {
+            "alt_label": "Ratio AUC Infinity Obs Norm by Dose",
+            "definition": "The ratio of two AUC infinity observed normalized by dose values.",
+            "identifier": "C176348",
+            "notation": "Ratio AUC Infinity Obs Norm by Dose",
+            "pref_label": "Ratio AUC Infinity Observed Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176348"
+        },
+        {
+            "alt_label": "Ratio AUC Infinity Obs",
+            "definition": "The ratio of two AUC infinity observed values.",
+            "identifier": "C156578",
+            "notation": "Ratio AUC Infinity Obs",
+            "pref_label": "Area Under the Curve Ratio Infinity Observed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156578"
+        },
+        {
+            "alt_label": "Ratio AUC Infinity Pred",
+            "definition": "The ratio of two AUC infinity predicted values.",
+            "identifier": "C156577",
+            "notation": "Ratio AUC Infinity Pred",
+            "pref_label": "Area Under the Curve Ratio Infinity Predicted",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156577"
+        },
+        {
+            "alt_label": "Ratio AUC Over Dosing Interval",
+            "definition": "The ratio of two AUCTAU values.",
+            "identifier": "C176351",
+            "notation": "Ratio AUC Over Dosing Interval",
+            "pref_label": "Ratio AUC Over Dosing Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176351"
+        },
+        {
+            "alt_label": "Ratio AUC to Last Nonzero Conc",
+            "definition": "The ratio of two AUC to last nonzero concentration values.",
+            "identifier": "C176237",
+            "notation": "Ratio AUC to Last Nonzero Conc",
+            "pref_label": "Ratio AUC to Last Nonzero Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176237"
+        },
+        {
+            "alt_label": "Ratio AUC",
+            "definition": "The ratio of two AUC values.",
+            "identifier": "C156471",
+            "notation": "Ratio AUC",
+            "pref_label": "Area Under the Curve Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156471"
+        },
+        {
+            "alt_label": "Ratio Average Concentration",
+            "definition": "The ratio of two average concentration values.",
+            "identifier": "C176345",
+            "notation": "Ratio Average Concentration",
+            "pref_label": "Average Concentration Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176345"
+        },
+        {
+            "alt_label": "Ratio CMAX",
+            "definition": "The ratio of two Cmax values.",
+            "identifier": "C156579",
+            "notation": "Ratio CMAX",
+            "pref_label": "Cmax to Cmax Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156579"
+        },
+        {
+            "alt_label": "Ratio Conc Trough",
+            "definition": "The ratio of two CTROUGH values.",
+            "identifier": "C176353",
+            "notation": "Ratio Conc Trough",
+            "pref_label": "Ratio Concentration Trough",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176353"
+        },
+        {
+            "alt_label": "Ratio Concentration",
+            "definition": "The ratio of two concentration values.",
+            "identifier": "C176235",
+            "notation": "Ratio Concentration",
+            "pref_label": "Concentration Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176235"
+        },
+        {
+            "alt_label": "Ratio Max Conc Norm by Dose",
+            "definition": "The ratio of two maximum concentration normalized by dose values.",
+            "identifier": "C176352",
+            "notation": "Ratio Max Conc Norm by Dose",
+            "pref_label": "Ratio Maximum Concentration Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176352"
+        },
+        {
+            "alt_label": "Ratio Min Conc",
+            "definition": "The ratio of two cmin values.",
+            "identifier": "C176346",
+            "notation": "Ratio Min Conc",
+            "pref_label": "Minimum Concentration Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176346"
+        },
+        {
+            "alt_label": "Ratio of CMAX to CMIN",
+            "definition": "The ratio of Cmax value to Cmin value.",
+            "identifier": "C156580",
+            "notation": "Ratio of CMAX to CMIN",
+            "pref_label": "Cmax to Cmin Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156580"
+        },
+        {
+            "alt_label": "Ratio AUC to Last Nonzero Conc Norm by Dose",
+            "definition": "The ratio of two AUC to last nonzero concentration normalized by dose values.",
+            "identifier": "C176350",
+            "notation": "RatioAUC to Last Nonzero Conc NormByDose",
+            "pref_label": "Ratio AUC to Last Nonzero Concentration Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C176350"
+        },
+        {
+            "alt_label": "Relative Bioavailability",
+            "definition": "The fraction of the treatment dose that reaches the systemic circulation relative to a reference route or reference formulation. The ratio of the amount of drug in the system (area under the curve) after administration of a test formulation divided by the drug in the system after a non-IV administration of a reference formulation and/or reference route.",
+            "identifier": "C154839",
+            "notation": "Relative Bioavailability",
+            "pref_label": "Relative Bioavailability",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154839"
+        },
+        {
+            "alt_label": "Renal CL as Pct CL EV",
+            "definition": "The portion of total clearance attributed to the kidneys expressed as a percentage, following extravascular administration.",
+            "identifier": "C154849",
+            "notation": "Renal CL as Pct CL EV",
+            "pref_label": "Renal Clearance to Total Clearance Ratio Measurement After Oral Dosing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154849"
+        },
+        {
+            "alt_label": "Renal CL as Pct CL IV",
+            "definition": "The portion of total clearance attributed to the kidneys expressed as a percentage, following intravenous administration.",
+            "identifier": "C154850",
+            "notation": "Renal CL as Pct CL IV",
+            "pref_label": "Renal Clearance to Total Clearance Ratio Measurement After Intravenous Dosing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154850"
+        },
+        {
+            "alt_label": "Renal CL for Dose Int Norm by BMI",
+            "definition": "The clearance of a substance from the blood by the kidneys, calculated using AUCTAU, divided by the body mass index.",
+            "identifier": "C122334",
+            "notation": "Renal CL for Dose Int Norm by BMI",
+            "pref_label": "Renal Clearance for Dose Interval Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122334"
+        },
+        {
+            "alt_label": "Renal CL for Dose Int Norm by Dose",
+            "definition": "The clearance of a substance from the blood by the kidneys, calculated using AUCTAU, divided by the dose.",
+            "identifier": "C122335",
+            "notation": "Renal CL for Dose Int Norm by Dose",
+            "pref_label": "Renal Clearance for Dose Interval Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122335"
+        },
+        {
+            "alt_label": "Renal CL for Dose Int Norm by SA",
+            "definition": "The clearance of a substance from the blood by the kidneys, calculated using AUCTAU, divided by the surface area.",
+            "identifier": "C122336",
+            "notation": "Renal CL for Dose Int Norm by SA",
+            "pref_label": "Renal Clearance for Dose Interval Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122336"
+        },
+        {
+            "alt_label": "Renal CL for Dose Int Norm by WT",
+            "definition": "The clearance of a substance from the blood by the kidneys, calculated using AUCTAU, divided by the weight.",
+            "identifier": "C122337",
+            "notation": "Renal CL for Dose Int Norm by WT",
+            "pref_label": "Renal Clearance for Dose Interval Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122337"
+        },
+        {
+            "alt_label": "Renal CL for Dose Int",
+            "definition": "The clearance of a substance from the blood by the kidneys, calculated using AUCTAU.",
+            "identifier": "C122050",
+            "notation": "Renal CL for Dose Int",
+            "pref_label": "Renal Clearance for Dose Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122050"
+        },
+        {
+            "alt_label": "Renal CL for Unbound Drug",
+            "definition": "The unbound fraction of drug within the portion of total clearance attributed to the kidneys.",
+            "identifier": "C154843",
+            "notation": "Renal CL for Unbound Drug",
+            "pref_label": "Renal Clearance for Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154843"
+        },
+        {
+            "alt_label": "Renal CL from T1 to T2 Norm by BMI",
+            "definition": "The clearance of a substance from the blood by the kidneys over the interval from T1 to T2 divided by the body mass index.",
+            "identifier": "C122330",
+            "notation": "Renal CL from T1 to T2 Norm by BMI",
+            "pref_label": "Renal Clearance from T1 to T2 Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122330"
+        },
+        {
+            "alt_label": "Renal CL from T1 to T2 Norm by Dose",
+            "definition": "The clearance of a substance from the blood by the kidneys over the interval from T1 to T2 divided by the dose.",
+            "identifier": "C122331",
+            "notation": "Renal CL from T1 to T2 Norm by Dose",
+            "pref_label": "Renal Clearance from T1 to T2 Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122331"
+        },
+        {
+            "alt_label": "Renal CL from T1 to T2 Norm by SA",
+            "definition": "The clearance of a substance from the blood by the kidneys over the interval from T1 to T2 divided by the surface area.",
+            "identifier": "C122332",
+            "notation": "Renal CL from T1 to T2 Norm by SA",
+            "pref_label": "Renal Clearance from T1 to T2 Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122332"
+        },
+        {
+            "alt_label": "Renal CL from T1 to T2 Norm by WT",
+            "definition": "The clearance of a substance from the blood by the kidneys over the interval from T1 to T2 divided by the weight.",
+            "identifier": "C122333",
+            "notation": "Renal CL from T1 to T2 Norm by WT",
+            "pref_label": "Renal Clearance from T1 to T2 Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122333"
+        },
+        {
+            "alt_label": "Renal CL from T1 to T2",
+            "definition": "The clearance of a substance from the blood by the kidneys over the interval from T1 to T2.",
+            "identifier": "C122049",
+            "notation": "Renal CL from T1 to T2",
+            "pref_label": "Renal Clearance from T1 to T2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122049"
+        },
+        {
+            "alt_label": "Renal CL Norm by BMI",
+            "definition": "The clearance of a substance from the blood by the kidneys divided by the body mass index.",
+            "identifier": "C105458",
+            "notation": "Renal CL Norm by BMI",
+            "pref_label": "Renal Clearance Normalized by BMI",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105458"
+        },
+        {
+            "alt_label": "Renal CL Norm by Dose",
+            "definition": "The clearance of a substance from the blood by the kidneys divided by the dose.",
+            "identifier": "C105459",
+            "notation": "Renal CL Norm by Dose",
+            "pref_label": "Renal Clearance Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105459"
+        },
+        {
+            "alt_label": "Renal CL Norm by SA",
+            "definition": "The clearance of a substance from the blood by the kidneys divided by the surface area.",
+            "identifier": "C105460",
+            "notation": "Renal CL Norm by SA",
+            "pref_label": "Renal Clearance Normalized by SA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105460"
+        },
+        {
+            "alt_label": "Renal CL Norm by WT",
+            "definition": "The clearance of a substance from the blood by the kidneys divided by the weight.",
+            "identifier": "C105461",
+            "notation": "Renal CL Norm by WT",
+            "pref_label": "Renal Clearance Normalized by WT",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C105461"
+        },
+        {
+            "alt_label": "Renal CL",
+            "definition": "The clearance of a substance from the blood by the kidneys.",
+            "identifier": "C75913",
+            "notation": "Renal CL",
+            "pref_label": "Renal Clearance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C75913"
+        },
+        {
+            "alt_label": "Stationarity Ratio AUC",
+            "definition": "The area under the curve (AUCTAU) at steady state divided by the area under the curve extrapolated to infinity for the initial dosing interval.",
+            "identifier": "C122338",
+            "notation": "Stationarity Ratio AUC",
+            "pref_label": "Stationarity Ratio Area Under the Curve",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122338"
+        },
+        {
+            "alt_label": "Sum of Urine Vol",
+            "definition": "The sum of urine volumes that are used for PK parameters.",
+            "identifier": "C85817",
+            "notation": "Sum of Urine Vol",
+            "pref_label": "Sum Urine Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85817"
+        },
+        {
+            "alt_label": "Swing",
+            "definition": "The difference between Cmax and Cmin standardized to Cmin within a dosing interval.",
+            "identifier": "C161416",
+            "notation": "Swing",
+            "pref_label": "PK Swing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C161416"
+        },
+        {
+            "alt_label": "Time of CMAX",
+            "definition": "The time of maximum observed concentration sampled during a dosing interval.",
+            "identifier": "C70919",
+            "notation": "Time of CMAX",
+            "pref_label": "Tmax",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C70919"
+        },
+        {
+            "alt_label": "Time of CMIN Observation",
+            "definition": "The time of minimum concentration sampled during a dosing interval.",
+            "identifier": "C85825",
+            "notation": "Time of CMIN Observation",
+            "pref_label": "Tmin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85825"
+        },
+        {
+            "alt_label": "Time of Last Nonzero Conc",
+            "definition": "The time of the last measurable (positive) concentration.",
+            "identifier": "C85822",
+            "notation": "Time of Last Nonzero Conc",
+            "pref_label": "Time of Last Nonzero Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85822"
+        },
+        {
+            "alt_label": "Time Until First Nonzero Conc",
+            "definition": "The time prior to the first measurable (non-zero) concentration.",
+            "identifier": "C85824",
+            "notation": "Time Until First Nonzero Conc",
+            "pref_label": "Time until First Nonzero Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85824"
+        },
+        {
+            "alt_label": "Total CL by F for Dose Int Norm by BMI",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using AUCTAU, divided by the body mass index.",
+            "identifier": "C114227",
+            "notation": "Total CL by F for Dose Int Norm by BMI",
+            "pref_label": "Total Body Clearance by Fraction of Dose for Dose Interval Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C114227"
+        },
+        {
+            "alt_label": "Total CL by F for Dose Int Norm by Dose",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using AUCTAU, divided by the dose.",
+            "identifier": "C114226",
+            "notation": "Total CL by F for Dose Int Norm by Dose",
+            "pref_label": "Total Body Clearance by Fraction of Dose for Dose Interval Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C114226"
+        },
+        {
+            "alt_label": "Total CL by F for Dose Int Norm by SA",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using AUCTAU, divided by the surface area.",
+            "identifier": "C114228",
+            "notation": "Total CL by F for Dose Int Norm by SA",
+            "pref_label": "Total Body Clearance by Fraction of Dose for Dose Interval Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C114228"
+        },
+        {
+            "alt_label": "Total CL by F for Dose Int Norm by WT",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using AUCTAU, divided by the weight.",
+            "identifier": "C114229",
+            "notation": "Total CL by F for Dose Int Norm by WT",
+            "pref_label": "Total Body Clearance by Fraction of Dose for Dose Interval Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C114229"
+        },
+        {
+            "alt_label": "Total CL by F for Dose Int",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using AUCTAU.",
+            "identifier": "C114121",
+            "notation": "Total CL by F for Dose Int",
+            "pref_label": "Total Body Clearance by Fraction of Dose for Dose Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C114121"
+        },
+        {
+            "alt_label": "Total CL for Dose Int Norm by BMI",
+            "definition": "The total body clearance for intravascular administration, calculated using AUCTAU, divided by the body mass index.",
+            "identifier": "C114231",
+            "notation": "Total CL for Dose Int Norm by BMI",
+            "pref_label": "Total Body Clearance for Dose Interval Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C114231"
+        },
+        {
+            "alt_label": "Total CL for Dose Int Norm by Dose",
+            "definition": "The total body clearance for intravascular administration, calculated using AUCTAU, divided by the dose.",
+            "identifier": "C114230",
+            "notation": "Total CL for Dose Int Norm by Dose",
+            "pref_label": "Total Body Clearance for Dose Interval Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C114230"
+        },
+        {
+            "alt_label": "Total CL for Dose Int Norm by SA",
+            "definition": "The total body clearance for intravascular administration, calculated using AUCTAU, divided by the surface area.",
+            "identifier": "C114232",
+            "notation": "Total CL for Dose Int Norm by SA",
+            "pref_label": "Total Body Clearance for Dose Interval Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C114232"
+        },
+        {
+            "alt_label": "Total CL for Dose Int Norm by WT",
+            "definition": "The total body clearance for intravascular administration, calculated using AUCTAU, divided by the weight.",
+            "identifier": "C114233",
+            "notation": "Total CL for Dose Int Norm by WT",
+            "pref_label": "Total Body Clearance for Dose Interval Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C114233"
+        },
+        {
+            "alt_label": "Total CL for Dose Int",
+            "definition": "The total body clearance for intravascular administration, calculated using AUCTAU.",
+            "identifier": "C114122",
+            "notation": "Total CL for Dose Int",
+            "pref_label": "Total Body Clearance for Dose Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C114122"
+        },
+        {
+            "alt_label": "Total CL Obs by F Norm by BMI",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C92399",
+            "notation": "Total CL Obs by F Norm by BMI",
+            "pref_label": "Total Clearance Observed by Fraction Dose Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92399"
+        },
+        {
+            "alt_label": "Total CL Obs by F Norm by Dose",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C92400",
+            "notation": "Total CL Obs by F Norm by Dose",
+            "pref_label": "Total Clearance Observed by Fraction Dose Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92400"
+        },
+        {
+            "alt_label": "Total CL Obs by F Norm by SA",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92401",
+            "notation": "Total CL Obs by F Norm by SA",
+            "pref_label": "Total Clearance Observed by Fraction Dose Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92401"
+        },
+        {
+            "alt_label": "Total CL Obs by F Norm by WT",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92402",
+            "notation": "Total CL Obs by F Norm by WT",
+            "pref_label": "Total Clearance Observed by Fraction Dose Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92402"
+        },
+        {
+            "alt_label": "Total CL Obs by F",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C85772",
+            "notation": "Total CL Obs by F",
+            "pref_label": "Observed Total Body Clearance by Fraction of Dose Absorbed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85772"
+        },
+        {
+            "alt_label": "Total CL Obs for Unbound Drug",
+            "definition": "The total body clearance for intravascular administration divided by the fraction of drug unbound, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C154842",
+            "notation": "Total CL Obs for Unbound Drug",
+            "pref_label": "Total Clearance Observed for Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154842"
+        },
+        {
+            "alt_label": "Total CL Obs Norm by BMI",
+            "definition": "The total body clearance for intravascular administration, calculated using the observed value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C92403",
+            "notation": "Total CL Obs Norm by BMI",
+            "pref_label": "Total Clearance Observed Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92403"
+        },
+        {
+            "alt_label": "Total CL Obs Norm by Dose",
+            "definition": "The total body clearance for intravascular administration, calculated using the observed value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C92404",
+            "notation": "Total CL Obs Norm by Dose",
+            "pref_label": "Total Clearance Observed Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92404"
+        },
+        {
+            "alt_label": "Total CL Obs Norm by SA",
+            "definition": "The total body clearance for intravascular administration, calculated using the observed value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92405",
+            "notation": "Total CL Obs Norm by SA",
+            "pref_label": "Total Clearance Observed Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92405"
+        },
+        {
+            "alt_label": "Total CL Obs Norm by WT",
+            "definition": "The total body clearance for intravascular administration, calculated using the observed value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92406",
+            "notation": "Total CL Obs Norm by WT",
+            "pref_label": "Total Clearance Observed Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92406"
+        },
+        {
+            "alt_label": "Total CL Obs",
+            "definition": "The total body clearance for intravascular administration, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C85773",
+            "notation": "Total CL Obs",
+            "pref_label": "Observed Total Body Clearance Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85773"
+        },
+        {
+            "alt_label": "Total CL Pred by F Norm by BMI",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using the predicted value of the last non-zero concentration, divided by body mass index.",
+            "identifier": "C92417",
+            "notation": "Total CL Pred by F Norm by BMI",
+            "pref_label": "Total Clearance Predicted by Fraction Dose Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92417"
+        },
+        {
+            "alt_label": "Total CL Pred by F Norm by Dose",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using the predicted value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C92418",
+            "notation": "Total CL Pred by F Norm by Dose",
+            "pref_label": "Total Clearance Predicted by Fraction Dose Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92418"
+        },
+        {
+            "alt_label": "Total CL Pred by F Norm by SA",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using the predicted value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92419",
+            "notation": "Total CL Pred by F Norm by SA",
+            "pref_label": "Total Clearance Predicted by Fraction Dose Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92419"
+        },
+        {
+            "alt_label": "Total CL Pred by F Norm by WT",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using the predicted value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92420",
+            "notation": "Total CL Pred by F Norm by WT",
+            "pref_label": "Total Clearance Predicted by Fraction Dose Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92420"
+        },
+        {
+            "alt_label": "Total CL Pred by F",
+            "definition": "The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using the predicted value of the last non-zero concentration.",
+            "identifier": "C85796",
+            "notation": "Total CL Pred by F",
+            "pref_label": "Predicted Total Body Clearance by Fraction of Dose Absorbed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85796"
+        },
+        {
+            "alt_label": "Total CL Pred for Unbound Drug",
+            "definition": "The total body clearance for intravascular administration divided by the fraction of drug unbound, calculated using the predicted value of the last non-zero concentration.",
+            "identifier": "C154841",
+            "notation": "Total CL Pred for Unbound Drug",
+            "pref_label": "Total Clearance Predicted for Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C154841"
+        },
+        {
+            "alt_label": "Total CL Pred Norm by BMI",
+            "definition": "The total body clearance for intravascular administration, calculated using the predicted value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C92421",
+            "notation": "Total CL Pred Norm by BMI",
+            "pref_label": "Total Clearance Predicted Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92421"
+        },
+        {
+            "alt_label": "Total CL Pred Norm by Dose",
+            "definition": "The total body clearance for intravascular administration, calculated using the predicted value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C92422",
+            "notation": "Total CL Pred Norm by Dose",
+            "pref_label": "Total Clearance Predicted Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92422"
+        },
+        {
+            "alt_label": "Total CL Pred Norm by SA",
+            "definition": "The total body clearance for intravascular administration, calculated using the predicted value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92423",
+            "notation": "Total CL Pred Norm by SA",
+            "pref_label": "Total Clearance Predicted Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92423"
+        },
+        {
+            "alt_label": "Total CL Pred Norm by WT",
+            "definition": "The total body clearance for intravascular administration, calculated using the predicted value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92424",
+            "notation": "Total CL Pred Norm by WT",
+            "pref_label": "Total Clearance Predicted Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92424"
+        },
+        {
+            "alt_label": "Total CL Pred",
+            "definition": "The total body clearance for intravascular administration, calculated using the predicted value of the last non-zero concentration.",
+            "identifier": "C85797",
+            "notation": "Total CL Pred",
+            "pref_label": "Predicted Total Body Clearance Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85797"
+        },
+        {
+            "alt_label": "Trough Peak Ratio",
+            "definition": "The concentration at the start of a dosing interval divided by the maximum concentration during the dosing interval.",
+            "identifier": "C122339",
+            "notation": "Trough Peak Ratio",
+            "pref_label": "Trough Peak Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C122339"
+        },
+        {
+            "alt_label": "Vol Dist Initial Norm by BMI",
+            "definition": "The initial volume of distribution for a substance administered by bolus intravascular dosing divided by the body mass index.",
+            "identifier": "C102372",
+            "notation": "Vol Dist Initial Norm by BMI",
+            "pref_label": "Initial Volume of Distribution Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102372"
+        },
+        {
+            "alt_label": "Vol Dist Initial Norm by Dose",
+            "definition": "The initial volume of distribution for a substance administered by bolus intravascular dosing divided by the dose.",
+            "identifier": "C102373",
+            "notation": "Vol Dist Initial Norm by Dose",
+            "pref_label": "Initial Volume of Distribution Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102373"
+        },
+        {
+            "alt_label": "Vol Dist Initial Norm by SA",
+            "definition": "The initial volume of distribution for a substance administered by bolus intravascular dosing divided by the surface area.",
+            "identifier": "C102374",
+            "notation": "Vol Dist Initial Norm by SA",
+            "pref_label": "Initial Volume of Distribution Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102374"
+        },
+        {
+            "alt_label": "Vol Dist Initial Norm by WT",
+            "definition": "The initial volume of distribution for a substance administered by bolus intravascular dosing divided by the weight.",
+            "identifier": "C102375",
+            "notation": "Vol Dist Initial Norm by WT",
+            "pref_label": "Initial Volume of Distribution Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102375"
+        },
+        {
+            "alt_label": "Vol Dist Initial",
+            "definition": "The initial volume of distribution for a substance administered by bolus intravascular dosing.",
+            "identifier": "C102371",
+            "notation": "Vol Dist Initial",
+            "pref_label": "Initial Volume of Distribution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102371"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Obs by B",
+            "definition": "The volume of distribution at steady state based on the observed CLST for a substance administered, divided by the fraction of bound drug.",
+            "identifier": "C156574",
+            "notation": "Vol Dist Steady State Obs by B",
+            "pref_label": "Volume of Distribution Steady State Observed by Bound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156574"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Obs by F",
+            "definition": "The volume of distribution at steady state based on the observed CLST for a substance administered by extravascular dosing, divided by the fraction of dose absorbed.",
+            "identifier": "C156570",
+            "notation": "Vol Dist Steady State Obs by F",
+            "pref_label": "Volume of Distribution Steady State Observed by Fraction of Dose Absorbed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156570"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Obs by UB",
+            "definition": "The volume of distribution at steady state based on the observed CLST for a substance administered, divided by the fraction of unbound drug.",
+            "identifier": "C156572",
+            "notation": "Vol Dist Steady State Obs by UB",
+            "pref_label": "Volume of Distribution Steady State Observed by Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156572"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Obs Norm by BMI",
+            "definition": "The volume of distribution at steady state based on the observed CLST for a substance administered by intravascular dosing divided by the body mass index.",
+            "identifier": "C102377",
+            "notation": "Vol Dist Steady State Obs Norm by BMI",
+            "pref_label": "Observed Steady State Volume of Distribution Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102377"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Obs Norm by Dose",
+            "definition": "The volume of distribution at steady state based on the observed CLST for a substance administered by intravascular dosing divided by the dose.",
+            "identifier": "C102378",
+            "notation": "Vol Dist Steady State Obs Norm by Dose",
+            "pref_label": "Observed Steady State Volume of Distribution Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102378"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Obs Norm by SA",
+            "definition": "The volume of distribution at steady state based on the observed CLST for a substance administered by intravascular dosing divided by the surface area.",
+            "identifier": "C102379",
+            "notation": "Vol Dist Steady State Obs Norm by SA",
+            "pref_label": "Observed Steady State Volume of Distribution Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102379"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Obs Norm by WT",
+            "definition": "The volume of distribution at steady state based on the observed CLST for a substance administered by intravascular dosing divided by the weight.",
+            "identifier": "C102380",
+            "notation": "Vol Dist Steady State Obs Norm by WT",
+            "pref_label": "Observed Steady State Volume of Distribution Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102380"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Obs",
+            "definition": "The volume of distribution at steady state based on the observed CLST for a substance administered by intravascular dosing.",
+            "identifier": "C85770",
+            "notation": "Vol Dist Steady State Obs",
+            "pref_label": "Observed Steady State Volume of Distribution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85770"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Pred by B",
+            "definition": "The volume of distribution at steady state based on the predicted CLST for a substance administered, divided by the fraction of bound drug.",
+            "identifier": "C156575",
+            "notation": "Vol Dist Steady State Pred by B",
+            "pref_label": "Volume of Distribution Steady State Predicted by Bound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156575"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Pred by F",
+            "definition": "The volume of distribution at steady state based on the predicted CLST for a substance administered by extravascular dosing, divided by the fraction of dose absorbed.",
+            "identifier": "C156571",
+            "notation": "Vol Dist Steady State Pred by F",
+            "pref_label": "Volume of Distribution Steady State Predicted by Fraction of Dose Absorbed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156571"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Pred by UB",
+            "definition": "The volume of distribution at steady state based on the predicted CLST for a substance administered, divided by the fraction of unbound drug.",
+            "identifier": "C156573",
+            "notation": "Vol Dist Steady State Pred by UB",
+            "pref_label": "Volume of Distribution Steady State Predicted by Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156573"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Pred Norm by BMI",
+            "definition": "The volume of distribution at steady state based on the predicted CLST for a substance administered by intravascular dosing divided by the body mass index.",
+            "identifier": "C102390",
+            "notation": "Vol Dist Steady State Pred Norm by BMI",
+            "pref_label": "Predicted Steady State Volume of Distribution Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102390"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Pred Norm by Dose",
+            "definition": "The volume of distribution at steady state based on the predicted CLST for a substance administered by intravascular dosing divided by the dose.",
+            "identifier": "C102391",
+            "notation": "Vol Dist Steady State Pred Norm by Dose",
+            "pref_label": "Predicted Steady State Volume of Distribution Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102391"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Pred Norm by SA",
+            "definition": "The volume of distribution at steady state based on the predicted CLST for a substance administered by intravascular dosing divided by the surface area.",
+            "identifier": "C102392",
+            "notation": "Vol Dist Steady State Pred Norm by SA",
+            "pref_label": "Predicted Steady State Volume of Distribution Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102392"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Pred Norm by WT",
+            "definition": "The volume of distribution at steady state based on the predicted CLST for a substance administered by intravascular dosing divided by the weight.",
+            "identifier": "C102393",
+            "notation": "Vol Dist Steady State Pred Norm by WT",
+            "pref_label": "Predicted Steady State Volume of Distribution Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102393"
+        },
+        {
+            "alt_label": "Vol Dist Steady State Pred",
+            "definition": "The volume of distribution at steady state based on the predicted CLST for a substance administered by intravascular dosing.",
+            "identifier": "C85794",
+            "notation": "Vol Dist Steady State Pred",
+            "pref_label": "Predicted Steady State Volume of Distribution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85794"
+        },
+        {
+            "alt_label": "Vz for Dose Int by F Norm by BMI",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using AUCTAU, divided by the body mass index.",
+            "identifier": "C111365",
+            "notation": "Vz for Dose Int by F Norm by BMI",
+            "pref_label": "Volume of Distribution for Dosing Interval by Fraction Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C111365"
+        },
+        {
+            "alt_label": "Vz for Dose Int by F Norm by Dose",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using AUCTAU, divided by the dose.",
+            "identifier": "C111366",
+            "notation": "Vz for Dose Int by F Norm by Dose",
+            "pref_label": "Volume of Distribution for Dosing Interval by Fraction Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C111366"
+        },
+        {
+            "alt_label": "Vz for Dose Int by F Norm by SA",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using AUCTAU, divided by the surface area.",
+            "identifier": "C111367",
+            "notation": "Vz for Dose Int by F Norm by SA",
+            "pref_label": "Volume of Distribution for Dosing Interval by Fraction Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C111367"
+        },
+        {
+            "alt_label": "Vz for Dose Int by F Norm by WT",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using AUCTAU, divided by the weight.",
+            "identifier": "C111368",
+            "notation": "Vz for Dose Int by F Norm by WT",
+            "pref_label": "Volume of Distribution for Dosing Interval by Fraction Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C111368"
+        },
+        {
+            "alt_label": "Vz for Dose Int by F",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using AUCTAU.",
+            "identifier": "C111364",
+            "notation": "Vz for Dose Int by F",
+            "pref_label": "Volume of Distribution for Dosing Interval by Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C111364"
+        },
+        {
+            "alt_label": "Vz for Dose Int Norm by BMI",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using AUCTAU, divided by the body mass index.",
+            "identifier": "C111369",
+            "notation": "Vz for Dose Int Norm by BMI",
+            "pref_label": "Volume of Distribution for Dosing Interval Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C111369"
+        },
+        {
+            "alt_label": "Vz for Dose Int Norm by Dose",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using AUCTAU, divided by the dose.",
+            "identifier": "C111370",
+            "notation": "Vz for Dose Int Norm by Dose",
+            "pref_label": "Volume of Distribution for Dosing Interval Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C111370"
+        },
+        {
+            "alt_label": "Vz for Dose Int Norm by SA",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using AUCTAU, divided by the surface area.",
+            "identifier": "C111371",
+            "notation": "Vz for Dose Int Norm by SA",
+            "pref_label": "Volume of Distribution for Dosing Interval Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C111371"
+        },
+        {
+            "alt_label": "Vz for Dose Int Norm by WT",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using AUCTAU, divided by the weight.",
+            "identifier": "C111372",
+            "notation": "Vz for Dose Int Norm by WT",
+            "pref_label": "Volume of Distribution for Dosing Interval Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C111372"
+        },
+        {
+            "alt_label": "Vz for Dose Int",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using AUCTAU.",
+            "identifier": "C111333",
+            "notation": "Vz for Dose Int",
+            "pref_label": "Volume of Distribution for Dosing Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C111333"
+        },
+        {
+            "alt_label": "Vz Obs by F for UB",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration and corrected for unbound drug.",
+            "identifier": "C156581",
+            "notation": "Vz Obs by F for UB",
+            "pref_label": "Observed Volume of Distribution of Absorbed Fraction for Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C156581"
+        },
+        {
+            "alt_label": "Vz Obs by F Norm by BMI",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C92410",
+            "notation": "Vz Obs by F Norm by BMI",
+            "pref_label": "Volume of Distribution of Fraction Dose Observed Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92410"
+        },
+        {
+            "alt_label": "Vz Obs by F Norm by Dose",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C102729",
+            "notation": "Vz Obs by F Norm by Dose",
+            "pref_label": "Volume of Distribution of Fraction Dose Observed Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102729"
+        },
+        {
+            "alt_label": "Vz Obs by F Norm by SA",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92411",
+            "notation": "Vz Obs by F Norm by SA",
+            "pref_label": "Volume of Distribution of Fraction Dose Observed Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92411"
+        },
+        {
+            "alt_label": "Vz Obs by F Norm by WT",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92412",
+            "notation": "Vz Obs by F Norm by WT",
+            "pref_label": "Volume of Distribution of Fraction Dose Observed Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92412"
+        },
+        {
+            "alt_label": "Vz Obs by F",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C85775",
+            "notation": "Vz Obs by F",
+            "pref_label": "Observed Volume of Distribution of Absorbed Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85775"
+        },
+        {
+            "alt_label": "Vz Obs for UB",
+            "definition": "The volume of distribution associated with the terminal slope following administration, calculated using the observed value of the last non-zero concentration and corrected for unbound drug.",
+            "identifier": "C158265",
+            "notation": "Vz Obs for UB",
+            "pref_label": "Volume of Distribution Observed for Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C158265"
+        },
+        {
+            "alt_label": "Vz Obs Norm by BMI",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using the observed value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C92407",
+            "notation": "Vz Obs Norm by BMI",
+            "pref_label": "Volume of Distribution Observed Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92407"
+        },
+        {
+            "alt_label": "Vz Obs Norm by Dose",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using the observed value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C102683",
+            "notation": "Vz Obs Norm by Dose",
+            "pref_label": "Observed Volume of Distribution Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102683"
+        },
+        {
+            "alt_label": "Vz Obs Norm by SA",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using the observed value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92408",
+            "notation": "Vz Obs Norm by SA",
+            "pref_label": "Volume of Distribution Observed Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92408"
+        },
+        {
+            "alt_label": "Vz Obs Norm by WT",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using the observed value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92409",
+            "notation": "Vz Obs Norm by WT",
+            "pref_label": "Volume of Distribution Observed Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92409"
+        },
+        {
+            "alt_label": "Vz Obs",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using the observed value of the last non-zero concentration.",
+            "identifier": "C85774",
+            "notation": "Vz Obs",
+            "pref_label": "Observed Volume of Distribution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85774"
+        },
+        {
+            "alt_label": "Vz Pred by F for UB",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the predicted value at the time of the last non-zero concentration and corrected for unbound drug.",
+            "identifier": "C158267",
+            "notation": "Vz Pred by F for UB",
+            "pref_label": "Volume of Distribution of Fraction Dose Predicted Corrected for Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C158267"
+        },
+        {
+            "alt_label": "Vz Pred by F Norm by BMI",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the predicted value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C92428",
+            "notation": "Vz Pred by F Norm by BMI",
+            "pref_label": "Volume of Distribution of Fraction Dose Predicted Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92428"
+        },
+        {
+            "alt_label": "Vz Pred by F Norm by Dose",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the predicted value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C102730",
+            "notation": "Vz Pred by F Norm by Dose",
+            "pref_label": "Volume of Distribution of Fraction Dose Predicted Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102730"
+        },
+        {
+            "alt_label": "Vz Pred by F Norm by SA",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the predicted value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92429",
+            "notation": "Vz Pred by F Norm by SA",
+            "pref_label": "Volume of Distribution of Fraction Dose Predicted Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92429"
+        },
+        {
+            "alt_label": "Vz Pred by F Norm by WT",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the predicted value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92430",
+            "notation": "Vz Pred by F Norm by WT",
+            "pref_label": "Volume of Distribution of Fraction Dose Predicted Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92430"
+        },
+        {
+            "alt_label": "Vz Pred by F",
+            "definition": "The volume of distribution associated with the terminal slope following extravascular administration divided by the fraction of dose absorbed, calculated using the predicted value of the last non-zero concentration.",
+            "identifier": "C85799",
+            "notation": "Vz Pred by F",
+            "pref_label": "Predicted Volume of Distribution of Absorbed Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85799"
+        },
+        {
+            "alt_label": "Vz Pred for UB",
+            "definition": "The volume of distribution associated with the terminal slope following administration, calculated using the predicted value at the time of the last non-zero concentration and corrected for unbound drug.",
+            "identifier": "C158266",
+            "notation": "Vz Pred for UB",
+            "pref_label": "Volume of Distribution Predicted for Unbound Drug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C158266"
+        },
+        {
+            "alt_label": "Vz Pred Norm by BMI",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using the predicted value of the last non-zero concentration, divided by the body mass index.",
+            "identifier": "C92425",
+            "notation": "Vz Pred Norm by BMI",
+            "pref_label": "Volume of Distribution Predicted Normalized by Body Mass Index",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92425"
+        },
+        {
+            "alt_label": "Vz Pred Norm by Dose",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using the predicted value of the last non-zero concentration, divided by the dose.",
+            "identifier": "C102696",
+            "notation": "Vz Pred Norm by Dose",
+            "pref_label": "Predicted Volume of Distribution Normalized by Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C102696"
+        },
+        {
+            "alt_label": "Vz Pred Norm by SA",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using the predicted value of the last non-zero concentration, divided by the surface area.",
+            "identifier": "C92426",
+            "notation": "Vz Pred Norm by SA",
+            "pref_label": "Volume of Distribution Predicted Normalized by Surface Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92426"
+        },
+        {
+            "alt_label": "Vz Pred Norm by WT",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using the predicted value of the last non-zero concentration, divided by the weight.",
+            "identifier": "C92427",
+            "notation": "Vz Pred Norm by WT",
+            "pref_label": "Volume of Distribution Predicted Normalized by Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C92427"
+        },
+        {
+            "alt_label": "Vz Pred",
+            "definition": "The volume of distribution associated with the terminal slope following intravascular administration, calculated using the predicted value of the last non-zero concentration.",
+            "identifier": "C85798",
+            "notation": "Vz Pred",
+            "pref_label": "Predicted Volume of Distribution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C85493-C85798"
+        }
+    ]
+}

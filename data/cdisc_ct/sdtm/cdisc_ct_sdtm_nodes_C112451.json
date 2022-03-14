@@ -1,0 +1,412 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "SGRQ02-Describe Your Current Health",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - Please check one box to show how you describe your current health.",
+            "identifier": "C112678",
+            "notation": "SGRQ0201",
+            "pref_label": "SGRQ Past 4 Weeks Version - Describe Your Current Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112678"
+        },
+        {
+            "alt_label": "SGRQ02-I Have Coughed",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - Over the past 4 weeks, I have coughed.",
+            "identifier": "C112679",
+            "notation": "SGRQ0202",
+            "pref_label": "SGRQ Past 4 Weeks Version - I Have Coughed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112679"
+        },
+        {
+            "alt_label": "SGRQ02-I Have Brought Up Phlegm",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - Over the past 4 weeks, I have brought up phlegm (sputum).",
+            "identifier": "C112680",
+            "notation": "SGRQ0203",
+            "pref_label": "SGRQ Past 4 Weeks Version - I Have Brought Up Phlegm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112680"
+        },
+        {
+            "alt_label": "SGRQ02-I Have Had Shortness of Breath",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - Over the past 4 weeks, I have had shortness of breath.",
+            "identifier": "C112681",
+            "notation": "SGRQ0204",
+            "pref_label": "SGRQ Past 4 Weeks Version - I Have Had Shortness of Breath",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112681"
+        },
+        {
+            "alt_label": "SGRQ02-I Have Had Wheezing Attacks",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - Over the past 4 weeks, I have had wheezing attacks.",
+            "identifier": "C112682",
+            "notation": "SGRQ0205",
+            "pref_label": "SGRQ Past 4 Weeks Version - I Have Had Wheezing Attacks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112682"
+        },
+        {
+            "alt_label": "SGRQ02-Times Suffered Sev Resp Attacks",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - How many times during the past 4 weeks have you suffered from severe or very unpleasant respiratory attacks?",
+            "identifier": "C112683",
+            "notation": "SGRQ0206",
+            "pref_label": "SGRQ Past 4 Weeks Version - Times Suffered From Severe Respiratory Attacks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112683"
+        },
+        {
+            "alt_label": "SGRQ02-How Long Worst Resp Attack Last",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - How long did the worst respiratory attack last?",
+            "identifier": "C112684",
+            "notation": "SGRQ0207",
+            "pref_label": "SGRQ Past 4 Weeks Version - How Long Did Worst Respiratory Attack Last",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112684"
+        },
+        {
+            "alt_label": "SGRQ02-How Many Good Days Have You Had",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - Over the past 4 weeks, in a typical week, how many good days (with few respiratory problems) have you had?",
+            "identifier": "C112685",
+            "notation": "SGRQ0208",
+            "pref_label": "SGRQ Past 4 Weeks Version - How Many Good Days You Had",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112685"
+        },
+        {
+            "alt_label": "SGRQ02-Wheeze Worse in the Morning",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - If you wheeze, is it worse when you get up in the morning?",
+            "identifier": "C112686",
+            "notation": "SGRQ0209",
+            "pref_label": "SGRQ Past 4 Weeks Version - Wheeze Worse When Get Up in the Morning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112686"
+        },
+        {
+            "alt_label": "SGRQ02-Describe Your Resp Condition",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - How would you describe your respiratory condition?",
+            "identifier": "C112687",
+            "notation": "SGRQ0210",
+            "pref_label": "SGRQ Past 4 Weeks Version - Describe Your Respiratory Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112687"
+        },
+        {
+            "alt_label": "SGRQ02-If You Have Ever Held a Job",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - If you have ever held a job.",
+            "identifier": "C112688",
+            "notation": "SGRQ0211",
+            "pref_label": "SGRQ Past 4 Weeks Version - Held a Job",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112688"
+        },
+        {
+            "alt_label": "SGRQ02-Sitting or Lying Still",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Sitting or lying still.",
+            "identifier": "C112689",
+            "notation": "SGRQ0212",
+            "pref_label": "SGRQ Past 4 Weeks Version - Sitting or Lying Still",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112689"
+        },
+        {
+            "alt_label": "SGRQ02-Washing or Dressing Yourself",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Washing or dressing yourself.",
+            "identifier": "C112690",
+            "notation": "SGRQ0213",
+            "pref_label": "SGRQ Past 4 Weeks Version - Washing or Dressing Yourself",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112690"
+        },
+        {
+            "alt_label": "SGRQ02-Walking Around the House",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Walking around the house.",
+            "identifier": "C112691",
+            "notation": "SGRQ0214",
+            "pref_label": "SGRQ Past 4 Weeks Version - Walking Around the House",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112691"
+        },
+        {
+            "alt_label": "SGRQ02-Walking Outside on Level Ground",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Walking outside on level ground.",
+            "identifier": "C112692",
+            "notation": "SGRQ0215",
+            "pref_label": "SGRQ Past 4 Weeks Version - Walking Outside on Level Ground",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112692"
+        },
+        {
+            "alt_label": "SGRQ02-Walking Up a Flight of Stairs",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Walking up a flight of stairs.",
+            "identifier": "C112693",
+            "notation": "SGRQ0216",
+            "pref_label": "SGRQ Past 4 Weeks Version - Walking Up a Flight of Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112693"
+        },
+        {
+            "alt_label": "SGRQ02-Walking Up Hills",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Walking up hills.",
+            "identifier": "C112694",
+            "notation": "SGRQ0217",
+            "pref_label": "SGRQ Past 4 Weeks Version - Walking Up Hills",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112694"
+        },
+        {
+            "alt_label": "SGRQ02-Playing Sports",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Playing sports or other physical activities.",
+            "identifier": "C112695",
+            "notation": "SGRQ0218",
+            "pref_label": "SGRQ Past 4 Weeks Version - Playing Sports or Other Physical Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112695"
+        },
+        {
+            "alt_label": "SGRQ02-Coughing Hurts",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: Coughing hurts.",
+            "identifier": "C112696",
+            "notation": "SGRQ0219",
+            "pref_label": "SGRQ Past 4 Weeks Version - Coughing Hurts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112696"
+        },
+        {
+            "alt_label": "SGRQ02-Coughing Makes Me Tired",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: Coughing makes me tired.",
+            "identifier": "C112697",
+            "notation": "SGRQ0220",
+            "pref_label": "SGRQ Past 4 Weeks Version - Coughing Makes Me Tired",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112697"
+        },
+        {
+            "alt_label": "SGRQ02-Short of Breath When I Talk",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: I am short of breath when I talk.",
+            "identifier": "C112698",
+            "notation": "SGRQ0221",
+            "pref_label": "SGRQ Past 4 Weeks Version - Short of Breath When I Talk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112698"
+        },
+        {
+            "alt_label": "SGRQ02-Short of Breath When Bend Over",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: I am short of breath when I bend over.",
+            "identifier": "C112699",
+            "notation": "SGRQ0222",
+            "pref_label": "SGRQ Past 4 Weeks Version - Short of Breath When Bend Over",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112699"
+        },
+        {
+            "alt_label": "SGRQ02-Coughing Disturbs My Sleep",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: My coughing or breathing disturbs my sleep.",
+            "identifier": "C112700",
+            "notation": "SGRQ0223",
+            "pref_label": "SGRQ Past 4 Weeks Version - Coughing Disturbs My Sleep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112700"
+        },
+        {
+            "alt_label": "SGRQ02-I Get Exhausted Easily",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: I get exhausted easily.",
+            "identifier": "C112701",
+            "notation": "SGRQ0224",
+            "pref_label": "SGRQ Past 4 Weeks Version - I Get Exhausted Easily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112701"
+        },
+        {
+            "alt_label": "SGRQ02-Cough Is Embarrassing in Public",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: My cough or breathing is embarrassing in public.",
+            "identifier": "C112702",
+            "notation": "SGRQ0225",
+            "pref_label": "SGRQ Past 4 Weeks Version - My Cough is Embarrassing in Public",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112702"
+        },
+        {
+            "alt_label": "SGRQ02-Respiratory Problems a Nuisance",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: My respiratory problems are a nuisance to my family, friends or neighbors.",
+            "identifier": "C112703",
+            "notation": "SGRQ0226",
+            "pref_label": "SGRQ Past 4 Weeks Version - Respiratory Problems a Nuisance to Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112703"
+        },
+        {
+            "alt_label": "SGRQ02-Afraid When Cannot Catch Breath",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: I get afraid or panic when I cannot catch my breath.",
+            "identifier": "C112704",
+            "notation": "SGRQ0227",
+            "pref_label": "SGRQ Past 4 Weeks Version - Get Afraid When Cannot Catch My Breath",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112704"
+        },
+        {
+            "alt_label": "SGRQ02-Not in Control of Resp Problems",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: I feel that I am not in control of my respiratory problems.",
+            "identifier": "C112705",
+            "notation": "SGRQ0228",
+            "pref_label": "SGRQ Past 4 Weeks Version - Not in Control of My Respiratory Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112705"
+        },
+        {
+            "alt_label": "SGRQ02-Not Expect Probs to Get Better",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: I do not expect my respiratory problems to get any better.",
+            "identifier": "C112706",
+            "notation": "SGRQ0229",
+            "pref_label": "SGRQ Past 4 Weeks Version - Not Expect Respiratory Problems Get Better",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112706"
+        },
+        {
+            "alt_label": "SGRQ02-I Have Become Frail",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: I have become frail or an invalid because of my respiratory problems.",
+            "identifier": "C112707",
+            "notation": "SGRQ0230",
+            "pref_label": "SGRQ Past 4 Weeks Version - Become Frail or Invalid Because of My Respiratory Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112707"
+        },
+        {
+            "alt_label": "SGRQ02-Exercise Is Not Safe for Me",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: Exercise is not safe for me.",
+            "identifier": "C112708",
+            "notation": "SGRQ0231",
+            "pref_label": "SGRQ Past 4 Weeks Version - Exercise Is Not Safe for Me",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112708"
+        },
+        {
+            "alt_label": "SGRQ02-Everything Too Much Effort",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: Everything seems too much of an effort.",
+            "identifier": "C112709",
+            "notation": "SGRQ0232",
+            "pref_label": "SGRQ Past 4 Weeks Version - Everything Too Much Effort",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112709"
+        },
+        {
+            "alt_label": "SGRQ02-Treatment Does Not Help Me Much",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about your respiratory treatment: My treatment does not help me very much.",
+            "identifier": "C112710",
+            "notation": "SGRQ0233",
+            "pref_label": "SGRQ Past 4 Weeks Version - Treatment Does Not Help Me Much",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112710"
+        },
+        {
+            "alt_label": "SGRQ02-Embarrassed Using Med in Public",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about your respiratory treatment: I get embarrassed using my medication in public.",
+            "identifier": "C112711",
+            "notation": "SGRQ0234",
+            "pref_label": "SGRQ Past 4 Weeks Version - Embarrassed Using Medication in Public",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112711"
+        },
+        {
+            "alt_label": "SGRQ02-Unpleasant Side Effect From Med",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about your respiratory treatment: I have unpleasant side effects from my medication.",
+            "identifier": "C112712",
+            "notation": "SGRQ0235",
+            "pref_label": "SGRQ Past 4 Weeks Version - Unpleasant Side Effects From Medication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112712"
+        },
+        {
+            "alt_label": "SGRQ02-Treatment Interferes With Life",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about your respiratory treatment: My treatment interferes with my life a lot.",
+            "identifier": "C112713",
+            "notation": "SGRQ0236",
+            "pref_label": "SGRQ Past 4 Weeks Version - Treatment Interferes With My Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112713"
+        },
+        {
+            "alt_label": "SGRQ02-Take a Long Time to Get Washed",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: I take a long time to get washed or dressed.",
+            "identifier": "C112714",
+            "notation": "SGRQ0237",
+            "pref_label": "SGRQ Past 4 Weeks Version - Take Long Time to Get Washed or Dressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112714"
+        },
+        {
+            "alt_label": "SGRQ02-I Cannot Take a Bath or Shower",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: I cannot take a bath or shower, or I take a long time to do it.",
+            "identifier": "C112715",
+            "notation": "SGRQ0238",
+            "pref_label": "SGRQ Past 4 Weeks Version - Cannot Take A Bath or Shower",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112715"
+        },
+        {
+            "alt_label": "SGRQ02-I Walk Slower Than Other People",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: I walk slower than other people my age, or I stop to rest.",
+            "identifier": "C112716",
+            "notation": "SGRQ0239",
+            "pref_label": "SGRQ Past 4 Weeks Version - Walk Slower Than Other People My Age",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112716"
+        },
+        {
+            "alt_label": "SGRQ02-Jobs Take a Long Time",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: Jobs such as household chores take a long time, or I have to stop to rest.",
+            "identifier": "C112717",
+            "notation": "SGRQ0240",
+            "pref_label": "SGRQ Past 4 Weeks Version - Jobs Take Long Time or I Have to Stop",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112717"
+        },
+        {
+            "alt_label": "SGRQ02-Walk Up Flight of Stairs Slowly",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: If I walk up one flight of stairs, I have to go slowly or stop.",
+            "identifier": "C112718",
+            "notation": "SGRQ0241",
+            "pref_label": "SGRQ Past 4 Weeks Version - If Walk Up One Flight of Stairs I Have to Go Slow",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112718"
+        },
+        {
+            "alt_label": "SGRQ02-If I Hurry, I Have to Stop",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: If I hurry or walk fast, I have to stop or slow down.",
+            "identifier": "C112719",
+            "notation": "SGRQ0242",
+            "pref_label": "SGRQ Past 4 Weeks Version - If Walk Fast I Have to Stop or Slow Down",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112719"
+        },
+        {
+            "alt_label": "SGRQ02-Difficult to Walk Up Hills",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: My breathing makes it difficult to do things such as walk up hills, carry things up stairs, light gardening such as weeding, dance, bowl or play golf.",
+            "identifier": "C112720",
+            "notation": "SGRQ0243",
+            "pref_label": "SGRQ Past 4 Weeks Version - Breathing Makes Difficult to Walk Up Hills",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112720"
+        },
+        {
+            "alt_label": "SGRQ02-Difficult to Carry Heavy Loads",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: My breathing makes it difficult to do things such as carry heavy loads, dig in the garden or shovel snow, jog or walk briskly (5 miles per hour), play tennis or swim.",
+            "identifier": "C112721",
+            "notation": "SGRQ0244",
+            "pref_label": "SGRQ Past 4 Weeks Version - Breathing Makes Difficult to Carry Heavy Loads",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112721"
+        },
+        {
+            "alt_label": "SGRQ02-Difficult to Do Very Heavy Work",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: My breathing makes it difficult to do things such as very heavy manual work, ride a bike, run, swim fast, or play competitive sports.",
+            "identifier": "C112722",
+            "notation": "SGRQ0245",
+            "pref_label": "SGRQ Past 4 Weeks Version - Breathing Makes Difficult to Do Heavy Manual Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112722"
+        },
+        {
+            "alt_label": "SGRQ02-I Cannot Play Sports",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - We would like to know how your respiratory problems usually affect your daily life: I cannot play sports or do other physical activities.",
+            "identifier": "C112723",
+            "notation": "SGRQ0246",
+            "pref_label": "SGRQ Past 4 Weeks Version - Cannot Play Sports or Do Physical Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112723"
+        },
+        {
+            "alt_label": "SGRQ02-Cannot Go Out for Entertainment",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - We would like to know how your respiratory problems usually affect your daily life: I cannot go out for entertainment or recreation.",
+            "identifier": "C112724",
+            "notation": "SGRQ0247",
+            "pref_label": "SGRQ Past 4 Weeks Version - Cannot Go Out for Entertainment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112724"
+        },
+        {
+            "alt_label": "SGRQ02-Cannot Go Out to Do Shopping",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - We would like to know how your respiratory problems usually affect your daily life: I cannot go out of the house to do the shopping.",
+            "identifier": "C112725",
+            "notation": "SGRQ0248",
+            "pref_label": "SGRQ Past 4 Weeks Version - Cannot Go Out to Do Shopping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112725"
+        },
+        {
+            "alt_label": "SGRQ02-I Cannot Do Household Chores",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - We would like to know how your respiratory problems usually affect your daily life: I cannot do household chores.",
+            "identifier": "C112726",
+            "notation": "SGRQ0249",
+            "pref_label": "SGRQ Past 4 Weeks Version - Cannot Do Household Chores",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112726"
+        },
+        {
+            "alt_label": "SGRQ02-I Cannot Move Far From My Bed",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - We would like to know how your respiratory problems usually affect your daily life: I cannot move far from my bed or chair.",
+            "identifier": "C112727",
+            "notation": "SGRQ0250",
+            "pref_label": "SGRQ Past 4 Weeks Version - Cannot Move Far From Bed or Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112727"
+        },
+        {
+            "alt_label": "SGRQ02-How Resp Problems Affect You",
+            "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version - Best describe how your respiratory problems affect you.",
+            "identifier": "C112728",
+            "notation": "SGRQ0251",
+            "pref_label": "SGRQ Past 4 Weeks Version - How Respiratory Problems Affect You",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C112451-C112728"
+        }
+    ]
+}

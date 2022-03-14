@@ -1,0 +1,159 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An interpretive summary of the number of replicas of a gene or gene segment within a genome, as compared to a reference or assumed state.",
+            "identifier": "C181337",
+            "notation": "COPY NUMBER ALTERATION INTERPRETATION",
+            "pref_label": "Copy Number Alteration Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181337"
+        },
+        {
+            "definition": "A relative measurement (ratio) of the number of altered copies in the sample to the number of copies in the reference sequence.",
+            "identifier": "C181349",
+            "notation": "COPY NUMBER RATIO",
+            "pref_label": "Copy Number Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181349"
+        },
+        {
+            "definition": "The determination of presence or absence of an entity in a specimen.",
+            "identifier": "C174330",
+            "notation": "DETECTION",
+            "pref_label": "Biological Detection Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C174330"
+        },
+        {
+            "definition": "The absolute number of fragments of genetic material that were detected.",
+            "identifier": "C181340",
+            "notation": "FRAGMENT COUNT",
+            "pref_label": "Fragment Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181340"
+        },
+        {
+            "definition": "An indication as to whether a genetic sequence is transcribed into RNA.",
+            "identifier": "C181338",
+            "notation": "GENETIC TRANSCRIPTION INDICATOR",
+            "pref_label": "Genetic Transcription Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181338"
+        },
+        {
+            "definition": "An interpretive summary of the pattern of genetic transcription.",
+            "identifier": "C181339",
+            "notation": "GENETIC TRANSCRIPTION INTERPRETATION",
+            "pref_label": "Genetic Transcription Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181339"
+        },
+        {
+            "definition": "The determination of the nucleotide sequence of the genetic material at a specific locus.",
+            "identifier": "C45447",
+            "notation": "GENOTYPE",
+            "pref_label": "Genotyping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C45447"
+        },
+        {
+            "alt_label": "Microsatellite Instability Overall Stat;MSIOSTAT",
+            "definition": "The overall state or condition of the variability in length of multiple, assessed microsatellite sequences.",
+            "identifier": "C139285",
+            "notation": "MICROSATELLITE INSTABILITY OVERALL STATUS",
+            "pref_label": "Microsatellite Instability Overall Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C139285"
+        },
+        {
+            "definition": "A value that is adjusted via a formula or calculation, to facilitate comparison.",
+            "identifier": "C181341",
+            "notation": "NORMALIZED LEVEL",
+            "pref_label": "Normalized Level",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181341"
+        },
+        {
+            "definition": "The number of affected exons as compared to the reference sequence.",
+            "identifier": "C181348",
+            "notation": "NUMBER OF ALTERED EXONS",
+            "pref_label": "Number of Altered Exons",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181348"
+        },
+        {
+            "alt_label": "Gene Copy Number",
+            "definition": "The number of replicas of a particular gene sequence in a genome.",
+            "identifier": "C181336",
+            "notation": "NUMBER OF GENE COPIES",
+            "pref_label": "Number of Gene Copies",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181336"
+        },
+        {
+            "definition": "A quantitative assessment of the number of sequence variants within a region of interest.",
+            "identifier": "C181350",
+            "notation": "NUMBER OF SEQUENCE VARIANTS",
+            "pref_label": "Number of Sequence Variants",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181350"
+        },
+        {
+            "definition": "A relative ranking of the percent of total that the entity would equal or exceed.",
+            "identifier": "C181342",
+            "notation": "PERCENTILE RANK",
+            "pref_label": "Percentile Rank",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181342"
+        },
+        {
+            "alt_label": "Inferred Amino Acid Change",
+            "definition": "An inferred amino acid modification, based on sequence analysis of a genetic variation.",
+            "identifier": "C181343",
+            "notation": "PREDICTED AMINO ACID CHANGE",
+            "pref_label": "Predicted Amino Acid Change",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181343"
+        },
+        {
+            "alt_label": "Inferred Coding Sequence Change",
+            "definition": "An inferred coding sequence modification, based on sequence analysis of a genetic variation.",
+            "identifier": "C181344",
+            "notation": "PREDICTED CODING SEQUENCE CHANGE",
+            "pref_label": "Predicated Coding Sequence Change",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181344"
+        },
+        {
+            "alt_label": "Depth of Coverage;Total Mapped Reads;Total Read Depth",
+            "definition": "The total number of times a particular locus (site, nucleotide, amplicon, region) was sequenced.",
+            "identifier": "C155320",
+            "notation": "READ DEPTH",
+            "pref_label": "Read Depth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C155320"
+        },
+        {
+            "alt_label": "Score",
+            "definition": "A number or range of numeric values that assess and order a result or response for purposes of comparison.",
+            "identifier": "C25338",
+            "notation": "SCORE",
+            "pref_label": "Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C25338"
+        },
+        {
+            "definition": "A categorization of the phenotypic or clinical significance of the genomic variation.",
+            "identifier": "C181345",
+            "notation": "VARIANT IMPACT CLASSIFICATION",
+            "pref_label": "Genetic Variation Functional Impact Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181345"
+        },
+        {
+            "alt_label": "Variant Mapped Reads",
+            "definition": "The number of times a particular variant within a locus (site, nucleotide, amplicon, region) was sequenced.",
+            "identifier": "C181346",
+            "notation": "VARIANT READ DEPTH",
+            "pref_label": "Variant Read Depth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181346"
+        },
+        {
+            "alt_label": "Variant Mapped Reads/Total Mapped Reads;Variant Read Depth/Total Read Depth",
+            "definition": "A relative measurement (ratio or percentage) of the variant read depth to total read depth.",
+            "identifier": "C181347",
+            "notation": "VARIANT READ DEPTH/READ DEPTH",
+            "pref_label": "Variant Read Depth to Read Depth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181347"
+        },
+        {
+            "definition": "An interpretive summary of the magnitude of the variant burden within the tumor.",
+            "identifier": "C181351",
+            "notation": "VARIANT SEQUENCE BURDEN INTERPRETATION",
+            "pref_label": "Variant Sequence Tumor Burden Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181180-C181351"
+        }
+    ]
+}

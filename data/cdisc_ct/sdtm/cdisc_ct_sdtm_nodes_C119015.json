@@ -1,0 +1,164 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Acute Myocardial Infarction Type",
+            "definition": "Categorization of the type of acute myocardial infarction.",
+            "identifier": "C118936",
+            "notation": "ACMITYPE",
+            "pref_label": "Acute Myocardial Infarction Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C118936"
+        },
+        {
+            "alt_label": "Coronary Artery Thrombosis Method Ident",
+            "definition": "The method by which the coronary artery thrombosis event is determined or diagnosed.",
+            "identifier": "C119229",
+            "notation": "CATMTHID",
+            "pref_label": "Coronary Artery Thrombosis Method of Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119229"
+        },
+        {
+            "alt_label": "Endpoint Event Indicator",
+            "definition": "An indication as to whether the event meets the criteria for being a clinical endpoint.",
+            "identifier": "C119230",
+            "notation": "ENDPTIND",
+            "pref_label": "Endpoint Event Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119230"
+        },
+        {
+            "alt_label": "Healthcare Encounter Type",
+            "definition": "Categorization of the type of healthcare encounter.",
+            "identifier": "C119231",
+            "notation": "HETYPE",
+            "pref_label": "Healthcare Encounter Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119231"
+        },
+        {
+            "alt_label": "Heart Failure New/Worsening Lab Findings",
+            "definition": "Categorization of the type(s) of new and/or worsening laboratory findings of heart failure present at the time of patient presentation.",
+            "identifier": "C119232",
+            "notation": "HFLBFNW",
+            "pref_label": "Lab Findings of New or Worsening Heart Failure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119232"
+        },
+        {
+            "alt_label": "Heart Failure New/Worsening PE Findings",
+            "definition": "Categorization of the type(s) of new and/or worsening physical exam findings of heart failure present at the time of patient presentation.",
+            "identifier": "C119233",
+            "notation": "HFPEFNW",
+            "pref_label": "Physical Examination Findings of New or Worsening Heart Failure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119233"
+        },
+        {
+            "alt_label": "Heart Failure Therapy, Intensification",
+            "definition": "Categorization of the type(s) of new and/or intensified treatment administered for heart failure management.",
+            "identifier": "C119234",
+            "notation": "HFTHERIN",
+            "pref_label": "Heart Failure Therapy Intensification Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119234"
+        },
+        {
+            "alt_label": "Ischemic Discomfort Indicator",
+            "definition": "An indicator as to whether the subject has symptoms of ischemic discomfort.",
+            "identifier": "C119235",
+            "notation": "ISCDIND",
+            "pref_label": "Ischemic Discomfort Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119235"
+        },
+        {
+            "alt_label": "Ischemic Evidence Type",
+            "definition": "Categorization of the type of objective evidence of new or worsening ischemia.",
+            "identifier": "C119236",
+            "notation": "ISCETYP",
+            "pref_label": "Ischemic Evidence Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119236"
+        },
+        {
+            "alt_label": "Exclusion of Type 1 and Type 2 MI",
+            "definition": "An indication of whether a Type 1 and Type 2 myocardial infarction is excluded as a diagnosis.",
+            "identifier": "C119237",
+            "notation": "MI12EXC",
+            "pref_label": "Exclusion of Type 1 and Type 2 Myocardial Infarction Diagnosis Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119237"
+        },
+        {
+            "alt_label": "Non-Invasive Imaging Change",
+            "definition": "A description of the clinical change to the subject after a non-invasive imaging procedure.",
+            "identifier": "C123443",
+            "notation": "NINVIMGC",
+            "pref_label": "Clinical Change by Non-Invasive Imaging Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C123443"
+        },
+        {
+            "alt_label": "New or Worsening Symptoms",
+            "definition": "A description of the new or worsening symptoms related to a clinical event.",
+            "identifier": "C119238",
+            "notation": "NWSYMP",
+            "pref_label": "New or Worsening Symptom",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119238"
+        },
+        {
+            "alt_label": "PCI Acute Angiographic Complication",
+            "definition": "Categorization of the type of acute PCI angiographic complication resulting in acute myocardial ischemia.",
+            "identifier": "C119239",
+            "notation": "PCIAAC",
+            "pref_label": "Acute Myocardial Infarction From PCI Complication Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119239"
+        },
+        {
+            "alt_label": "Procedure Success Indicator",
+            "definition": "An indication as to whether the procedure is considered successful.",
+            "identifier": "C119240",
+            "notation": "PRSUCIND",
+            "pref_label": "Procedure Success Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119240"
+        },
+        {
+            "alt_label": "Procedure Urgency Status Type",
+            "definition": "The degree of urgency in which a medical procedure must be performed.",
+            "identifier": "C101230",
+            "notation": "PRUSTAT",
+            "pref_label": "Triage Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C101230"
+        },
+        {
+            "alt_label": "Stent Thrombosis, Coronary, ARC Timing",
+            "definition": "Categorization of the timing of coronary stent thrombosis occurrence per the classification schema described by the Academic Research Consortium (ARC).",
+            "identifier": "C123424",
+            "notation": "STCTIMNG",
+            "pref_label": "Academic Research Council Coronary Stent Thrombosis Timing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C123424"
+        },
+        {
+            "alt_label": "Stroke Type",
+            "definition": "Categorization of the type of stroke.",
+            "identifier": "C119579",
+            "notation": "STROKTYP",
+            "pref_label": "Stroke Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119579"
+        },
+        {
+            "alt_label": "Symptom Indicator",
+            "definition": "An indication as to whether the subject had symptoms related to the clinical event.",
+            "identifier": "C119241",
+            "notation": "SYMPINDC",
+            "pref_label": "Symptom Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119241"
+        },
+        {
+            "alt_label": "Symptom Onset Date",
+            "definition": "The date time of the onset of symptoms of the clinical event.",
+            "identifier": "C119242",
+            "notation": "SYMSTDTC",
+            "pref_label": "Symptom Onset Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119242"
+        },
+        {
+            "alt_label": "Vessel Occlusion After CABG 48 Ind",
+            "definition": "An indication as to whether vessel occlusion, in the native or bypass graft, occurred within 48 hours after the coronary artery bypass graft procedure.",
+            "identifier": "C119243",
+            "notation": "VOC48IND",
+            "pref_label": "Vessel Occlusion 48 Hours after CABG Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C119015-C119243"
+        }
+    ]
+}

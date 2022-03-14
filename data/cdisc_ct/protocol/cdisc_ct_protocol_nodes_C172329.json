@@ -1,0 +1,35 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The total number of subjects intended to be included within each arm for the study. (NCI)",
+            "identifier": "C172458",
+            "notation": "Planned Number of Subjects Per Study Arm",
+            "pref_label": "Planned Number of Subjects Per Study Arm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C172329-C172458"
+        },
+        {
+            "alt_label": "Arm Description",
+            "definition": "The textual representation of the arm for the study.",
+            "identifier": "C93728",
+            "notation": "Study Arm Description",
+            "pref_label": "Arm Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C172329-C93728"
+        },
+        {
+            "alt_label": "Arm Label",
+            "definition": "The given name of the arm for the study. (NCI)",
+            "identifier": "C172456",
+            "notation": "Study Arm Label",
+            "pref_label": "Study Arm Label",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C172329-C172456"
+        },
+        {
+            "alt_label": "Arm Type",
+            "definition": "The identification of the kind of arm(s) for the study. (NCI)",
+            "identifier": "C172457",
+            "notation": "Study Arm Type",
+            "pref_label": "Study Arm Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C172329-C172457"
+        }
+    ]
+}

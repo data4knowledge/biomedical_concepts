@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Event Frequency",
+            "definition": "The number of times an event occurs within a given time period.",
+            "identifier": "C25515",
+            "notation": "EVENTFRQ",
+            "pref_label": "Temporal Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154685-C25515"
+        },
+        {
+            "alt_label": "Occurrence Indicator",
+            "definition": "An indication as to whether something has happened, such as an event or incident.",
+            "identifier": "C127786",
+            "notation": "OCCUR",
+            "pref_label": "Occurrence Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154685-C127786"
+        },
+        {
+            "alt_label": "Severity/Intensity",
+            "definition": "The degree of something undesirable.",
+            "identifier": "C25676",
+            "notation": "SEV",
+            "pref_label": "Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154685-C25676"
+        }
+    ]
+}

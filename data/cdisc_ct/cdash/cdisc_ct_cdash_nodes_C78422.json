@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Beats per Minute;bpm;BPM",
+            "definition": "The number of heartbeats measured per minute time. (NCI)",
+            "identifier": "C49673",
+            "notation": "beats/min",
+            "pref_label": "Beats per Minute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78422-C49673"
+        },
+        {
+            "alt_label": "Millisecond;ms",
+            "definition": "A unit of time, which is equal to one thousandth of a second.(NCI)",
+            "identifier": "C41140",
+            "notation": "msec",
+            "pref_label": "Millisecond",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78422-C41140"
+        },
+        {
+            "alt_label": "Second",
+            "definition": "The base unit of time in the International System of Units (SI) equal to the duration of 9,192,631,770 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the cesium 133 atom in its ground state at 0 K.",
+            "identifier": "C42535",
+            "notation": "sec",
+            "pref_label": "Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78422-C42535"
+        }
+    ]
+}

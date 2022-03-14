@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "A4STR1-Was 4-Stair Ascend Performed",
+            "definition": "4-Stair Ascend - Was the 4-stair ascend performed?",
+            "identifier": "C174103",
+            "notation": "A4STR101",
+            "pref_label": "4-Stair Ascend - Was 4-Stair Ascend Performed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141663-C174103"
+        },
+        {
+            "alt_label": "A4STR1-Time to Do 4-Stair Ascend",
+            "definition": "4-Stair Ascend - If yes, time taken to do 4-stair ascend.",
+            "identifier": "C141706",
+            "notation": "A4STR102",
+            "pref_label": "4-Stair Ascend - Time to Do 4-Stair Ascend",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141663-C141706"
+        },
+        {
+            "alt_label": "A4STR1-Wear Orthoses",
+            "definition": "4-Stair Ascend - If yes, did subject wear orthoses?",
+            "identifier": "C147590",
+            "notation": "A4STR103",
+            "pref_label": "4-Stair Ascend - Wear Orthoses",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141663-C147590"
+        },
+        {
+            "alt_label": "A4STR1-Test Grade",
+            "definition": "4-Stair Ascend - Test grade.",
+            "identifier": "C141707",
+            "notation": "A4STR104",
+            "pref_label": "4-Stair Ascend - Test Grade",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C141663-C141707"
+        }
+    ]
+}

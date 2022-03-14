@@ -1,0 +1,188 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "GOSE1-Obey Simple Commands or Say Words",
+            "definition": "Extended Glasgow Outcome Scale - Is the head injured person able to obey simple commands, or say any words?",
+            "identifier": "C115828",
+            "notation": "GOSE101",
+            "pref_label": "GOSE - Consciousness: Obey Simple Commands",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115828"
+        },
+        {
+            "alt_label": "GOSE1-Daily Assistance at Home Essential",
+            "definition": "Extended Glasgow Outcome Scale - Is the assistance of another person at home essential every day for some activities of daily living?",
+            "identifier": "C115829",
+            "notation": "GOSE102A",
+            "pref_label": "GOSE - Independence in the Home: Assistance Essential for Daily Living",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115829"
+        },
+        {
+            "alt_label": "GOSE1-Need Frequent Help at Home",
+            "definition": "Extended Glasgow Outcome Scale - Do they need frequent help or someone to be around at home most of the time?",
+            "identifier": "C115830",
+            "notation": "GOSE102B",
+            "pref_label": "GOSE - Independence in the Home: Need Frequent Help at Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115830"
+        },
+        {
+            "alt_label": "GOSE1-Assistance at Home Before Injury",
+            "definition": "Extended Glasgow Outcome Scale - Was assistance at home essential before the injury?",
+            "identifier": "C115831",
+            "notation": "GOSE102C",
+            "pref_label": "GOSE - Independence in the Home: Assistance at Home Before Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115831"
+        },
+        {
+            "alt_label": "GOSE1-Shop Without Assistance",
+            "definition": "Extended Glasgow Outcome Scale - Are they able to shop without assistance?",
+            "identifier": "C115832",
+            "notation": "GOSE103A",
+            "pref_label": "GOSE - Independence Outside the Home: Able to Shop Without Assistance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115832"
+        },
+        {
+            "alt_label": "GOSE1-Shop Without Assist Before Injury",
+            "definition": "Extended Glasgow Outcome Scale - Were they able to shop without assistance before the injury?",
+            "identifier": "C115833",
+            "notation": "GOSE103B",
+            "pref_label": "GOSE - Independence Outside the Home: Able to Shop Without Assistance Before Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115833"
+        },
+        {
+            "alt_label": "GOSE1-Travel Locally Without Assistance",
+            "definition": "Extended Glasgow Outcome Scale - Are they able to travel locally without assistance?",
+            "identifier": "C115834",
+            "notation": "GOSE104A",
+            "pref_label": "GOSE - Independence Outside the Home: Travel Locally Without Assistance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115834"
+        },
+        {
+            "alt_label": "GOSE1-Travel Without Assist Before Inj",
+            "definition": "Extended Glasgow Outcome Scale - Were they able to travel without assistance before the injury?",
+            "identifier": "C115835",
+            "notation": "GOSE104B",
+            "pref_label": "GOSE - Independence Outside the Home: Travel Locally Without Assistance Before Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115835"
+        },
+        {
+            "alt_label": "GOSE1-Able to Work to Previous Capacity",
+            "definition": "Extended Glasgow Outcome Scale - Are they currently able to work to their previous capacity?",
+            "identifier": "C115836",
+            "notation": "GOSE105A",
+            "pref_label": "GOSE - Work: Able to Work to Previous Capacity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115836"
+        },
+        {
+            "alt_label": "GOSE1-How Restricted Are They",
+            "definition": "Extended Glasgow Outcome Scale - How restricted are they?",
+            "identifier": "C115837",
+            "notation": "GOSE105B",
+            "pref_label": "GOSE - Work: How Restricted Are They",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115837"
+        },
+        {
+            "alt_label": "GOSE1-Working Before Injury",
+            "definition": "Extended Glasgow Outcome Scale - Were they either working or seeking employment before the injury (answer 'yes') or were they doing neither (answer 'no')?",
+            "identifier": "C115838",
+            "notation": "GOSE105C",
+            "pref_label": "GOSE - Work: Working or Seeking Employment Before the Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115838"
+        },
+        {
+            "alt_label": "GOSE1-Resume Social/Leisure Outside Home",
+            "definition": "Extended Glasgow Outcome Scale - Are they able to resume regular social and leisure activities outside home?",
+            "identifier": "C115839",
+            "notation": "GOSE106A",
+            "pref_label": "GOSE - Social and Leisure Activities: Resume Regular Social and Leisure Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115839"
+        },
+        {
+            "alt_label": "GOSE1-Extent Social/Leisure Restriction",
+            "definition": "Extended Glasgow Outcome Scale - What is the extent of restriction on their social and leisure activities?",
+            "identifier": "C115840",
+            "notation": "GOSE106B",
+            "pref_label": "GOSE - Social and Leisure Activities: Extent of Restriction on Social and Leisure Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115840"
+        },
+        {
+            "alt_label": "GOSE1-Engage Social/Leisure Before Inj",
+            "definition": "Extended Glasgow Outcome Scale - Did they engage in regular social and leisure activities outside home before the injury?",
+            "identifier": "C115841",
+            "notation": "GOSE106C",
+            "pref_label": "GOSE - Social and Leisure Activities: Engage Regular Social and Leisure Activities Before Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115841"
+        },
+        {
+            "alt_label": "GOSE1-Disruptive Psychological Problems",
+            "definition": "Extended Glasgow Outcome Scale - Have there been psychological problems which have resulted in ongoing family disruption or disruption to friendships?",
+            "identifier": "C115842",
+            "notation": "GOSE107A",
+            "pref_label": "GOSE - Family and Friendships: Disruptive Psychological Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115842"
+        },
+        {
+            "alt_label": "GOSE1-Extent of Disruption",
+            "definition": "Extended Glasgow Outcome Scale - What has been the extent of disruption or strain?",
+            "identifier": "C115843",
+            "notation": "GOSE107B",
+            "pref_label": "GOSE - Family and Friendships: Extent of Disruption or Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115843"
+        },
+        {
+            "alt_label": "GOSE1-Family/Friends Probs Before Injury",
+            "definition": "Extended Glasgow Outcome Scale - Were there problems with family or friends before the injury?",
+            "identifier": "C115844",
+            "notation": "GOSE107C",
+            "pref_label": "GOSE - Family and Friendships: Problems with Family or Friends Before Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115844"
+        },
+        {
+            "alt_label": "GOSE1-Other Problems Related to Injury",
+            "definition": "Extended Glasgow Outcome Scale - Are there any other current problems relating to the injury which affect daily life?",
+            "identifier": "C115845",
+            "notation": "GOSE108A",
+            "pref_label": "GOSE - Return to Normal Life: Other Current Problems Relating to Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115845"
+        },
+        {
+            "alt_label": "GOSE1-Similar Problems Before Injury",
+            "definition": "Extended Glasgow Outcome Scale - Were similar problems present before the injury?",
+            "identifier": "C115846",
+            "notation": "GOSE108B",
+            "pref_label": "GOSE - Return to Normal Life: Similar Problems Before Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115846"
+        },
+        {
+            "alt_label": "GOSE1-Since Injury Any Epileptic Fits",
+            "definition": "Extended Glasgow Outcome Scale - Since the injury has the head injured person had any epileptic fits?",
+            "identifier": "C115847",
+            "notation": "GOSE109",
+            "pref_label": "GOSE - Epilepsy: Since Injury Any Epileptic Fits",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115847"
+        },
+        {
+            "alt_label": "GOSE1-At Risk of Developing Epilepsy",
+            "definition": "Extended Glasgow Outcome Scale - Have they been told that they are currently at risk of developing epilepsy?",
+            "identifier": "C115848",
+            "notation": "GOSE110",
+            "pref_label": "GOSE - Epilepsy: At Risk of Developing Epilepsy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115848"
+        },
+        {
+            "alt_label": "GOSE1-Most Important Factor in Outcome",
+            "definition": "Extended Glasgow Outcome Scale - What is the most important factor in outcome?",
+            "identifier": "C115849",
+            "notation": "GOSE111",
+            "pref_label": "GOSE - Epilepsy: Most Important Factor in Outcome",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115849"
+        },
+        {
+            "alt_label": "GOSE1-GOSE Overall Score",
+            "definition": "Extended Glasgow Outcome Scale - Scoring: The patient's overall rating is based on the lowest outcome category indicated on the scale.",
+            "identifier": "C115850",
+            "notation": "GOSE112",
+            "pref_label": "GOSE - GOSE Overall Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C115404-C115850"
+        }
+    ]
+}

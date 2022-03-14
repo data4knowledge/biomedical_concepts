@@ -1,0 +1,1052 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Abnormal Cells",
+            "definition": "A measurement of the abnormal cells in a biological specimen.",
+            "identifier": "C111124",
+            "notation": "Abnormal Cells",
+            "pref_label": "Abnormal Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C111124"
+        },
+        {
+            "alt_label": "Acidophil Bodies;Acidophil Body",
+            "definition": "An evaluation of acidophil bodies in a biological specimen.",
+            "identifier": "C181485",
+            "notation": "Acidophil Body",
+            "pref_label": "Acidophil Body Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181485"
+        },
+        {
+            "alt_label": "ALK Protein",
+            "definition": "A measurement of the ALK receptor tyrosine kinase in a biological specimen.",
+            "identifier": "C154805",
+            "notation": "ALK Protein",
+            "pref_label": "ALK Protein Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C154805"
+        },
+        {
+            "alt_label": "Alpha-Methylacyl Coenzyme A Racemase",
+            "definition": "A measurement of the alpha-methylacyl coenzyme A racemase in a biological specimen.",
+            "identifier": "C132364",
+            "notation": "Alpha-Methylacyl Coenzyme A Racemase",
+            "pref_label": "Alpha-Methylacyl Coenzyme A Racemase Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C132364"
+        },
+        {
+            "alt_label": "Androgen Receptor Variant 7;AR-V7",
+            "definition": "A measurement of the androgen receptor variant 7 in a biological specimen.",
+            "identifier": "C184703",
+            "notation": "Androgen Receptor Variant 7",
+            "pref_label": "Androgen Receptor Variant 7 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C184703"
+        },
+        {
+            "alt_label": "Apoptotic Cells",
+            "definition": "A measurement of the apoptotic cells in a biological specimen.",
+            "identifier": "C181495",
+            "notation": "Apoptotic Cells",
+            "pref_label": "Apoptotic Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181495"
+        },
+        {
+            "alt_label": "Apoptotic Cells/Total Cells",
+            "definition": "A relative measurement (ratio or percentage) of the apoptotic cells to total cells in a biological specimen.",
+            "identifier": "C181494",
+            "notation": "Apoptotic Cells/Total Cells",
+            "pref_label": "Apoptotic Cell to Total Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181494"
+        },
+        {
+            "alt_label": "Architectural Changes",
+            "definition": "An evaluation of tissue architectural changes in a biological specimen.",
+            "identifier": "C178037",
+            "notation": "Architectural Changes",
+            "pref_label": "Architectural Changes Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178037"
+        },
+        {
+            "alt_label": "Arteriolar Hyaline Thickening",
+            "definition": "An evaluation of the arteriolar hyaline thickening of vessels in a biological specimen.",
+            "identifier": "C135463",
+            "notation": "Arteriolar Hyaline Thickening",
+            "pref_label": "Arteriolar Hyaline Thickening Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135463"
+        },
+        {
+            "alt_label": "Banff Diagnostic Category Renal",
+            "definition": "The histologic evaluation and diagnosis of the type of renal allograft rejection based on kidney biopsies and the Banff Working Classification from the Banff Foundation for Allograft Pathology. (NCI)",
+            "identifier": "C135464",
+            "notation": "Banff Diagnostic Category Renal",
+            "pref_label": "Banff Renal Diagnostic Category Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135464"
+        },
+        {
+            "alt_label": "Beta-defensin 1",
+            "definition": "A measurement of the beta-defensin 1 in a biological specimen.",
+            "identifier": "C156546",
+            "notation": "Beta-defensin 1",
+            "pref_label": "Beta-defensin 1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C156546"
+        },
+        {
+            "alt_label": "Beta-defensin 2",
+            "definition": "A measurement of the beta-defensin 2 in a biological specimen.",
+            "identifier": "C122102",
+            "notation": "Beta-defensin 2",
+            "pref_label": "Beta-defensin 2 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C122102"
+        },
+        {
+            "alt_label": "Blood Vessel Density",
+            "definition": "An evaluation of the blood vessel density in a biological specimen.",
+            "identifier": "C156545",
+            "notation": "Blood Vessel Density",
+            "pref_label": "Blood Vessel Density",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C156545"
+        },
+        {
+            "alt_label": "BK-1 Receptor;Bradykinin Receptor B1",
+            "definition": "A measurement of the bradykinin receptor B1 in a biological specimen.",
+            "identifier": "C139099",
+            "notation": "Bradykinin Receptor B1",
+            "pref_label": "Bradykinin Receptor B1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C139099"
+        },
+        {
+            "alt_label": "Breast Cancer Type 1 Susceptibility Prot",
+            "definition": "A measurement of BRCA1 protein in a biological specimen.",
+            "identifier": "C123555",
+            "notation": "Breast Cancer Type 1 Susceptibility Prot",
+            "pref_label": "Breast Cancer Type 1 Susceptibility Protein Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C123555"
+        },
+        {
+            "alt_label": "Cancer Cellularity",
+            "definition": "A relative measurement (ratio or percentage) of the neoplastic cells to total cells in a biological specimen.",
+            "identifier": "C123556",
+            "notation": "Cancer Cellularity",
+            "pref_label": "Cancer Cellularity Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C123556"
+        },
+        {
+            "alt_label": "CD3",
+            "definition": "A count of the CD3 expressing cells per unit in a biological specimen.",
+            "identifier": "C103809",
+            "notation": "CD3",
+            "pref_label": "CD3 Expressing Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C103809"
+        },
+        {
+            "alt_label": "CD4",
+            "definition": "A count of the CD4 expressing cells per unit in a biological specimen.",
+            "identifier": "C103810",
+            "notation": "CD4",
+            "pref_label": "CD4 Expressing Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C103810"
+        },
+        {
+            "alt_label": "CD56",
+            "definition": "A count of the CD56 expressing cells per unit of a biological specimen.",
+            "identifier": "C103370",
+            "notation": "CD56",
+            "pref_label": "CD56 Expressing Cell Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C103370"
+        },
+        {
+            "alt_label": "CD68",
+            "definition": "A count of the CD68 expressing cells per unit in a biological specimen.",
+            "identifier": "C156544",
+            "notation": "CD68",
+            "pref_label": "CD68 Expressing Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C156544"
+        },
+        {
+            "alt_label": "CD8",
+            "definition": "A count of the CD8 expressing cells per unit in a biological specimen.",
+            "identifier": "C103811",
+            "notation": "CD8",
+            "pref_label": "CD8 Expressing Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C103811"
+        },
+        {
+            "alt_label": "CDX2 Antigen",
+            "definition": "A measurement of the CDX2 antigen in a biological specimen.",
+            "identifier": "C139098",
+            "notation": "CDX2 Antigen",
+            "pref_label": "CDX2 Antigen Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C139098"
+        },
+        {
+            "alt_label": "Cellular Differentiation",
+            "definition": "An evaluation of cellular maturity and specialization in a biological specimen.",
+            "identifier": "C132430",
+            "notation": "Cellular Differentiation",
+            "pref_label": "Cellular Differentiation Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C132430"
+        },
+        {
+            "alt_label": "Chronic Inflammatory Infiltrate",
+            "definition": "An evaluation of chronic inflammatory infiltrate in a biological specimen.",
+            "identifier": "C178042",
+            "notation": "Chronic Inflammatory Infiltrate",
+            "pref_label": "Chronic Inflammatory Infiltrate Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178042"
+        },
+        {
+            "alt_label": "Crypt Abscess",
+            "definition": "An evaluation of crypt abscess in a biological specimen.",
+            "identifier": "C176336",
+            "notation": "Crypt Abscess",
+            "pref_label": "Crypt Abscess Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C176336"
+        },
+        {
+            "alt_label": "Crypt Architectural Damage",
+            "definition": "An evaluation of the extent of the architectural damage to the crypts in a biological specimen.",
+            "identifier": "C176337",
+            "notation": "Crypt Architectural Damage",
+            "pref_label": "Crypt Architectural Damage Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C176337"
+        },
+        {
+            "alt_label": "Cryptitis",
+            "definition": "An evaluation of cryptitis in a biological specimen.",
+            "identifier": "C176335",
+            "notation": "Cryptitis",
+            "pref_label": "Cryptitis Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C176335"
+        },
+        {
+            "alt_label": "Cytogenetic Examination",
+            "definition": "An assessment by microscopic analysis of chromosomal and subchromosomal structure and function.",
+            "identifier": "C18280",
+            "notation": "Cytogenetic Examination",
+            "pref_label": "Cytogenetic Analysis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C18280"
+        },
+        {
+            "alt_label": "Cytokeratin 16",
+            "definition": "A measurement of the cytokeratin 16 in a biological specimen.",
+            "identifier": "C127763",
+            "notation": "Cytokeratin 16",
+            "pref_label": "Cytokeratin 16 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C127763"
+        },
+        {
+            "alt_label": "Dendritic Cell-Lysosomal-Assoc Memb Prot",
+            "definition": "A measurement of the dendritic cell-lysosomal-associated membrane protein in a biological specimen.",
+            "identifier": "C127764",
+            "notation": "Dendritic Cell-Lysosomal-Assoc Memb Prot",
+            "pref_label": "Dendritic Cell Lysosomal-Associated Membrane Protein Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C127764"
+        },
+        {
+            "alt_label": "Diagnostic",
+            "definition": "The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results or summary of such an investigation. (NCI)",
+            "identifier": "C15220",
+            "notation": "Diagnosis",
+            "pref_label": "Diagnosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C15220"
+        },
+        {
+            "alt_label": "5'-NT;5'-Nucleotidase;5'-Nucleotidase Ecto;CD73;E5NT;Ecto-5'-Nucleotidase",
+            "definition": "A measurement of ecto-5'-nucleotidase in a biological specimen.",
+            "identifier": "C181656",
+            "notation": "Ecto-5'-Nucleotidase",
+            "pref_label": "Ecto-5'-Nucleotidase Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181656"
+        },
+        {
+            "alt_label": "EGFR Variant Protein",
+            "definition": "A measurement of the EGFR protein with a specified variation(s) (mutations, deletions, insertions, etc.) in a biological specimen.",
+            "identifier": "C154806",
+            "notation": "EGFR Variant Protein",
+            "pref_label": "EGFR Variant Protein Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C154806"
+        },
+        {
+            "alt_label": "Epi RBM Lngth, Intact/Epi RBM Lngth, Tot;Epithelial RBM Length, Intact/Epithelial RBM Length, Total",
+            "definition": "A relative measurement (ratio or percentage) of the intact epithelial reticular basement membrane length to the total epithelial reticular basement membrane length in a biological specimen.",
+            "identifier": "C156547",
+            "notation": "Epi RBM Lngth, Intact/Epi RBM Lngth, Tot",
+            "pref_label": "Intact Epithelial Reticular Basement Membrane Length to Total Epithelial Reticular Basement Membrane Length Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C156547"
+        },
+        {
+            "alt_label": "Epidermal Growth Factor Receptor;ERBB1;HER1",
+            "definition": "A measurement of the epidermal growth factor receptor in a biological specimen.",
+            "identifier": "C112273",
+            "notation": "Epidermal Growth Factor Receptor",
+            "pref_label": "Epidermal Growth Factor Receptor Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C112273"
+        },
+        {
+            "alt_label": "Epithelial Damage",
+            "definition": "An evaluation of epithelial damage in a biological specimen.",
+            "identifier": "C178036",
+            "notation": "Epithelial Damage",
+            "pref_label": "Epithelial Damage Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178036"
+        },
+        {
+            "alt_label": "Epithelial Integrity",
+            "definition": "An evaluation of the integrity of the epithelium in a biological specimen.",
+            "identifier": "C176338",
+            "notation": "Epithelial Integrity",
+            "pref_label": "Epithelial Integrity Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C176338"
+        },
+        {
+            "alt_label": "Erosion and/or Ulceration",
+            "definition": "An evaluation of the erosion and/or ulceration in a biological specimen.",
+            "identifier": "C178045",
+            "notation": "Erosion and/or Ulceration",
+            "pref_label": "Erosion and/or Ulceration Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178045"
+        },
+        {
+            "alt_label": "ER;ESR;Estrogen Receptor;Oestrogen Receptor",
+            "definition": "A measurement of estrogen receptor protein in a biological specimen.",
+            "identifier": "C112274",
+            "notation": "Estrogen Receptor",
+            "pref_label": "Estrogen Receptor Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C112274"
+        },
+        {
+            "alt_label": "Extramural Venous Invasion",
+            "definition": "An evaluation of extramural venous invasion in a biological specimen.",
+            "identifier": "C184699",
+            "notation": "Extramural Venous Invasion",
+            "pref_label": "Extramural Venous Invasion Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C184699"
+        },
+        {
+            "alt_label": "Fibrosis",
+            "definition": "An evaluation of fibrosis in a biological specimen.",
+            "identifier": "C127765",
+            "notation": "Fibrosis",
+            "pref_label": "Fibrosis Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C127765"
+        },
+        {
+            "alt_label": "Folate Hydrolase 1",
+            "definition": "A measurement of the folate hydrolase 1 in a biological specimen.",
+            "identifier": "C132431",
+            "notation": "Folate Hydrolase 1",
+            "pref_label": "Folate Hydrolase 1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C132431"
+        },
+        {
+            "alt_label": "AIID;DIETER;Forkhead Box P3;Forkhead Box Protein 3;IPEX;JM2;PIDX;SCURFIN;XPID",
+            "definition": "A measurement of the forkhead box protein 3 in a biological specimen.",
+            "identifier": "C166072",
+            "notation": "Forkhead Box Protein 3",
+            "pref_label": "Forkhead Box Protein P3 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C166072"
+        },
+        {
+            "alt_label": "Glomerulitis",
+            "definition": "An evaluation of glomerulitis in a biological specimen.",
+            "identifier": "C135465",
+            "notation": "Glomerulitis",
+            "pref_label": "Glomerulitis Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135465"
+        },
+        {
+            "alt_label": "Glomerulopathy",
+            "definition": "An evaluation of glomerulopathy in a biological specimen.",
+            "identifier": "C135466",
+            "notation": "Glomerulopathy",
+            "pref_label": "Glomerulopathy Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135466"
+        },
+        {
+            "alt_label": "Granuloma",
+            "definition": "An evaluation of granuloma(s) in a biological specimen.",
+            "identifier": "C176334",
+            "notation": "Granuloma",
+            "pref_label": "Granuloma Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C176334"
+        },
+        {
+            "alt_label": "C11;CCPI;CGL1;CSPB;CTLA1;CTSGL1;Granzyme B;HLP;SECT",
+            "definition": "A measurement of the granzyme B in a biological specimen.",
+            "identifier": "C166073",
+            "notation": "Granzyme B",
+            "pref_label": "Granzyme B Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C166073"
+        },
+        {
+            "alt_label": "Ballooning Degeneration;Hepatocellular Ballooning",
+            "definition": "An evaluation of hepatocellular ballooning in a biological specimen.",
+            "identifier": "C181484",
+            "notation": "Hepatocellular Ballooning",
+            "pref_label": "Hepatocellular Ballooning Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181484"
+        },
+        {
+            "alt_label": "c-Met;Hepatocyte Growth Factor Receptor;MET Proto-Oncogene, Receptor Tyrosine Kinase;Tyrosine-Protein Kinase Met",
+            "definition": "A measurement of the hepatocyte growth factor receptor in a biological specimen.",
+            "identifier": "C172514",
+            "notation": "Hepatocyte Growth Factor Receptor",
+            "pref_label": "Hepatocyte Growth Factor Receptor Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C172514"
+        },
+        {
+            "alt_label": "Histologic Type of Cancer",
+            "definition": "The determination of the histologic type of cancer in a biological specimen.",
+            "identifier": "C154802",
+            "notation": "Histologic Type of Cancer",
+            "pref_label": "Histologic Type of Cancer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C154802"
+        },
+        {
+            "alt_label": "ERBB2;HER2/NEU;Human Epidermal Growth Factor Receptor 2",
+            "definition": "A measurement of HER2 protein in a biological specimen.",
+            "identifier": "C112312",
+            "notation": "Human Epidermal Growth Factor Receptor 2",
+            "pref_label": "Human Epidermal Growth Factor Receptor 2 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C112312"
+        },
+        {
+            "alt_label": "Infilt of Mono Cells in Lamina Propria;Infiltration of Mononuclear Cells in Lamina Propria",
+            "definition": "An evaluation of infiltration of mononuclear cells in the lamina propria in a biological specimen.",
+            "identifier": "C178038",
+            "notation": "Infilt of Mono Cells in Lamina Propria",
+            "pref_label": "Infiltration of Mononuclear Cells in Lamina Propria Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178038"
+        },
+        {
+            "alt_label": "Infilt of PMN Cells in Lamina Propria;Infiltration of Polymorphonuclear Cells in Lamina Propria",
+            "definition": "An evaluation of infiltration of polymorphonuclear cells in the lamina propria in a biological specimen.",
+            "identifier": "C178039",
+            "notation": "Infilt of PMN Cells in Lamina Propria",
+            "pref_label": "Infiltration of Polymorphonuclear Cells in Lamina Propria Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178039"
+        },
+        {
+            "alt_label": "CD54;Intercellular Adhesion Molecule 1",
+            "definition": "A measurement of the intercellular adhesion molecule 1 in a biological specimen.",
+            "identifier": "C124345",
+            "notation": "Intercellular Adhesion Molecule 1",
+            "pref_label": "Intercellular Adhesion Molecule 1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C124345"
+        },
+        {
+            "alt_label": "Interstitial Fibrosis",
+            "definition": "An evaluation of interstitial fibrosis in a biological specimen.",
+            "identifier": "C135468",
+            "notation": "Interstitial Fibrosis",
+            "pref_label": "Interstitial Fibrosis Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135468"
+        },
+        {
+            "alt_label": "Intimal Arteritis",
+            "definition": "An evaluation of intimal arteritis in a biological specimen.",
+            "identifier": "C135467",
+            "notation": "Intimal Arteritis",
+            "pref_label": "Intimal Arteritis Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135467"
+        },
+        {
+            "alt_label": "Intraepidermal Nerve Fiber Density",
+            "definition": "A measurement of the intraepidermal nerve fiber density in a biological specimen.",
+            "identifier": "C142347",
+            "notation": "Intraepidermal Nerve Fiber Density",
+            "pref_label": "Intraepidermal Nerve Fiber Density",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C142347"
+        },
+        {
+            "alt_label": "Epithelial Lymphocytes/Enterocytes;Intraepithelial Lymphocytes/Enterocytes",
+            "definition": "A relative measurement (ratio or percentage) of the lymphocytes to enterocytes within the epithelium of a biological specimen.",
+            "identifier": "C178035",
+            "notation": "Intraepithelial Lymphocytes/Enterocytes",
+            "pref_label": "Intraepithelial Lymphocytes to Enterocytes Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178035"
+        },
+        {
+            "alt_label": "Epithelial Neoplasia;Intraepithelial Neoplasia",
+            "definition": "An evaluation of intraepithelial neoplasia in a biological specimen.",
+            "identifier": "C181490",
+            "notation": "Intraepithelial Neoplasia",
+            "pref_label": "Intraepithelial Neoplasia Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181490"
+        },
+        {
+            "alt_label": "Ki-67;KI67;MKI67;pKi-67",
+            "definition": "A measurement of the Ki-67 protein in a biological specimen.",
+            "identifier": "C123557",
+            "notation": "Ki-67",
+            "pref_label": "Ki67 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C123557"
+        },
+        {
+            "alt_label": "Large Lipogranuloma",
+            "definition": "An evaluation of large lipogranuloma in a biological specimen.",
+            "identifier": "C181482",
+            "notation": "Large Lipogranuloma",
+            "pref_label": "Large Lipogranuloma Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181482"
+        },
+        {
+            "alt_label": "Lipocalin-2;Neutrophil Gelatinase-Associated Lipocalin;NGAL;Oncogene 24p3",
+            "definition": "A measurement of lipocalin-2 in a biological specimen.",
+            "identifier": "C106539",
+            "notation": "Lipocalin-2",
+            "pref_label": "Lipocalin-2 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C106539"
+        },
+        {
+            "alt_label": "Lobular Inflammation",
+            "definition": "An evaluation of lobular inflammation in a biological specimen.",
+            "identifier": "C181480",
+            "notation": "Lobular Inflammation",
+            "pref_label": "Lobular Inflammation Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181480"
+        },
+        {
+            "alt_label": "Lymph Node Extracapsular Spread",
+            "definition": "An evaluation of lymph node extracapsular spread by the tumor in a biological specimen.",
+            "identifier": "C184702",
+            "notation": "Lymph Node Extracapsular Spread",
+            "pref_label": "Lymph Node Extracapsular Spread Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C184702"
+        },
+        {
+            "alt_label": "Lymph Node Involvement Indicator",
+            "definition": "An indication as to whether cancer is present in the lymph nodes.",
+            "identifier": "C181493",
+            "notation": "Lymph Node Involvement Indicator",
+            "pref_label": "Lymph Node Involvement Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181493"
+        },
+        {
+            "alt_label": "Lymph Node State",
+            "definition": "A condition or state of a lymph node at a particular time.",
+            "identifier": "C124448",
+            "notation": "Lymph Node State",
+            "pref_label": "Lymph Node State",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C124448"
+        },
+        {
+            "alt_label": "Lymphatic Invasion",
+            "definition": "An evaluation of lymphatic invasion in a biological specimen.",
+            "identifier": "C127766",
+            "notation": "Lymphatic Invasion",
+            "pref_label": "Lymphatic Invasion Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C127766"
+        },
+        {
+            "alt_label": "Lymphocyte Function-Associated Antigen 1",
+            "definition": "A measurement of the lymphocyte function-associated antigen 1 in a biological specimen.",
+            "identifier": "C176341",
+            "notation": "Lymphocyte Function-Associated Antigen 1",
+            "pref_label": "Lymphocyte Function-Associated Antigen 1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C176341"
+        },
+        {
+            "alt_label": "Macrophage, Pigmented;Pigmented Macrophage",
+            "definition": "An evaluation of pigmented macrophages in a biological specimen.",
+            "identifier": "C181486",
+            "notation": "Macrophage, Pigmented",
+            "pref_label": "Pigmented Macrophage Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181486"
+        },
+        {
+            "alt_label": "Mallory Body;Mallory Hyaline;Mallory's Hyaline;Mallory-Denk Body",
+            "definition": "An evaluation of Mallory bodies in a biological specimen.",
+            "identifier": "C181488",
+            "notation": "Mallory Body",
+            "pref_label": "Mallory Body Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181488"
+        },
+        {
+            "alt_label": "Megamitochondria",
+            "definition": "An evaluation of megamitochondria in a biological specimen.",
+            "identifier": "C181487",
+            "notation": "Megamitochondria",
+            "pref_label": "Megamitochondria Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181487"
+        },
+        {
+            "alt_label": "Mesangial Matrix",
+            "definition": "An evaluation of mesangial matrix in a biological specimen.",
+            "identifier": "C135471",
+            "notation": "Mesangial Matrix",
+            "pref_label": "Mesangial Matrix Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135471"
+        },
+        {
+            "alt_label": "Microgranuloma",
+            "definition": "An evaluation of microgranuloma in a biological specimen.",
+            "identifier": "C181481",
+            "notation": "Microgranuloma",
+            "pref_label": "Microgranuloma Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181481"
+        },
+        {
+            "alt_label": "Microscopic Examination",
+            "definition": "An assessment by microscope (e.g., light, electron, confocal, etc.).",
+            "identifier": "C90424",
+            "notation": "Microscopic Examination",
+            "pref_label": "Microscopic Examination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C90424"
+        },
+        {
+            "alt_label": "Microvesicular Steatosis",
+            "definition": "An evaluation of microvesicular steatosis in a biological specimen.",
+            "identifier": "C181479",
+            "notation": "Microvesicular Steatosis",
+            "pref_label": "Microvesicular Steatosis Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181479"
+        },
+        {
+            "alt_label": "Mismatch Repair Proteins Interpretation",
+            "definition": "The determination of the meaning of protein expression assessments across multiple mismatch repair proteins.",
+            "identifier": "C139093",
+            "notation": "Mismatch Repair Proteins Interpretation",
+            "pref_label": "Mismatch Repair Proteins Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C139093"
+        },
+        {
+            "alt_label": "Mitotic Figure;Mitotic Figures",
+            "definition": "A measurement of the cells containing mitotic figures in a biological specimen.",
+            "identifier": "C135470",
+            "notation": "Mitotic Figure",
+            "pref_label": "Mitotic Figure Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135470"
+        },
+        {
+            "alt_label": "Mitotic Count Score;Mitotic Score",
+            "definition": "An evaluation of the mitotic score in a biological specimen.",
+            "identifier": "C138982",
+            "notation": "Mitotic Score",
+            "pref_label": "Mitotic Rate Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C138982"
+        },
+        {
+            "alt_label": "Mononuc Cell Interstitial Inflammation",
+            "definition": "An evaluation of mononuclear cell interstitial inflammation in a biological specimen.",
+            "identifier": "C135469",
+            "notation": "Mononuc Cell Interstitial Inflammation",
+            "pref_label": "Mononuclear Cell Interstitial Inflammation Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135469"
+        },
+        {
+            "alt_label": "Mononuclear Cells;Mononucleated Cells",
+            "definition": "A measurement of the mononuclear cells in a biological specimen.",
+            "identifier": "C154757",
+            "notation": "Mononuclear Cells",
+            "pref_label": "Mononuclear Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C154757"
+        },
+        {
+            "alt_label": "MutL Homolog 1",
+            "definition": "A measurement of the MLH1 mismatch repair protein in a biological specimen.",
+            "identifier": "C139094",
+            "notation": "MutL Homolog 1",
+            "pref_label": "MutL Homolog 1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C139094"
+        },
+        {
+            "alt_label": "MutS Homolog 2",
+            "definition": "A measurement of the MSH2 mismatch repair protein in a biological specimen.",
+            "identifier": "C139095",
+            "notation": "MutS Homolog 2",
+            "pref_label": "MutS Homolog 2 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C139095"
+        },
+        {
+            "alt_label": "MutS Homolog 6",
+            "definition": "A measurement of the MSH6 mismatch repair protein in a biological specimen.",
+            "identifier": "C139096",
+            "notation": "MutS Homolog 6",
+            "pref_label": "MutS Homolog 6 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C139096"
+        },
+        {
+            "alt_label": "Myelofibrosis",
+            "definition": "An evaluation of myelofibrosis in a biological specimen.",
+            "identifier": "C154803",
+            "notation": "Myelofibrosis",
+            "pref_label": "Myelofibrosis Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C154803"
+        },
+        {
+            "alt_label": "Neutrophils in Epithelium",
+            "definition": "An evaluation of neutrophils in the epithelium in a biological specimen.",
+            "identifier": "C178044",
+            "notation": "Neutrophils in Epithelium",
+            "pref_label": "Neutrophils in Epithelium Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178044"
+        },
+        {
+            "alt_label": "Lamina Propria Neutrophils;Neutrophils in Lamina Propria",
+            "definition": "An evaluation of neutrophils in the lamina propria in a biological specimen.",
+            "identifier": "C178043",
+            "notation": "Neutrophils in Lamina Propria",
+            "pref_label": "Neutrophils in Lamina Propria Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178043"
+        },
+        {
+            "alt_label": "NK2 Homeobox 1;TEBP;Thyroid Transcription Factor 1;TTF1",
+            "definition": "A measurement of NK2 homeobox 1 protein in a biological specimen.",
+            "identifier": "C123558",
+            "notation": "NK2 Homeobox 1",
+            "pref_label": "NK2 Homeobox 1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C123558"
+        },
+        {
+            "alt_label": "Normal Cells/Total Cells",
+            "definition": "A relative measurement (ratio or percentage) of the normal cells to total cells in a biological specimen.",
+            "identifier": "C127767",
+            "notation": "Normal Cells/Total Cells",
+            "pref_label": "Normal Cell to Total Cell Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C127767"
+        },
+        {
+            "alt_label": "Nuclear Pleomorphism",
+            "definition": "An evaluation of nuclear pleomorphism in a biological specimen.",
+            "identifier": "C181492",
+            "notation": "Nuclear Pleomorphism",
+            "pref_label": "Nuclear Pleomorphism Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181492"
+        },
+        {
+            "alt_label": "Glycogenated Nuclei;Nuclei, Glycogenated",
+            "definition": "An evaluation of glycogenated nuclei in a biological specimen.",
+            "identifier": "C181489",
+            "notation": "Nuclei, Glycogenated",
+            "pref_label": "Glycogenated Nuclei Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181489"
+        },
+        {
+            "alt_label": "Number of Abnormal Tissue Samples",
+            "definition": "The total number of tissue samples in which a pathological abnormality has been observed.",
+            "identifier": "C176340",
+            "notation": "Number of Abnormal Tissue Samples",
+            "pref_label": "Number of Abnormal Tissue Samples",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C176340"
+        },
+        {
+            "alt_label": "Number of Biopsy Specimens Affected",
+            "definition": "The total number of biopsy specimens in which a finding has been observed.",
+            "identifier": "C178041",
+            "notation": "Number of Biopsy Specimens Affected",
+            "pref_label": "Number of Biopsy Specimens Affected",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178041"
+        },
+        {
+            "alt_label": "Number of Malignant Biopsy Cores",
+            "definition": "A measurement of the total number of core biopsies that contain malignant tissue. (NCI)",
+            "identifier": "C139092",
+            "notation": "Number of Malignant Biopsy Cores",
+            "pref_label": "Number of Malignant Biopsy Cores",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C139092"
+        },
+        {
+            "alt_label": "Overall Tumor Grade;Tumor Grade",
+            "definition": "An assigned tumor grade based on a defined scoring system.",
+            "identifier": "C18000",
+            "notation": "Overall Tumor Grade",
+            "pref_label": "Histologic Grade",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C18000"
+        },
+        {
+            "alt_label": "CDK4I;Cyclin Dependent Kinase Inhibitor 2A p16;p16;p16 Inhibitors of CDK4;p16-INK4a",
+            "definition": "A measurement of the p16-INK4A in a biological specimen.",
+            "identifier": "C179766",
+            "notation": "p16-INK4A",
+            "pref_label": "p16-INK4A Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C179766"
+        },
+        {
+            "alt_label": "Paneth Cell Metaplasia",
+            "definition": "An evaluation of paneth cell metaplasia in a biological specimen.",
+            "identifier": "C176339",
+            "notation": "Paneth Cell Metaplasia",
+            "pref_label": "Paneth Cell Metaplasia Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C176339"
+        },
+        {
+            "alt_label": "PAX3-FKHR Fusion Protein",
+            "definition": "A measurement of the PAX3-FKHR fusion protein in a biological specimen.",
+            "identifier": "C142348",
+            "notation": "PAX3-FKHR Fusion Protein",
+            "pref_label": "PAX3-FKHR Fusion Protein Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C142348"
+        },
+        {
+            "alt_label": "Percentage of In situ Carcinoma",
+            "definition": "A relative measurement (percentage) of in situ component present in a carcinoma compared to the entire malignant cellular proliferation. (NCI)",
+            "identifier": "C123559",
+            "notation": "Percentage of In situ Carcinoma",
+            "pref_label": "Percentage of in situ Carcinoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C123559"
+        },
+        {
+            "alt_label": "Perineural Invasion",
+            "definition": "An evaluation of perineural invasion in a biological specimen.",
+            "identifier": "C127768",
+            "notation": "Perineural Invasion",
+            "pref_label": "Perineural Invasion Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C127768"
+        },
+        {
+            "alt_label": "Peritubular Capillaritis",
+            "definition": "An evaluation of peritubular capillaritis in a biological specimen.",
+            "identifier": "C135473",
+            "notation": "Peritubular Capillaritis",
+            "pref_label": "Peritubular Capillaritis Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135473"
+        },
+        {
+            "alt_label": "Phosphatase and Tensin Homolog",
+            "definition": "A measurement of the phosphatase and tensin homolog in a biological specimen.",
+            "identifier": "C147470",
+            "notation": "Phosphatase and Tensin Homolog",
+            "pref_label": "Phosphatase and Tensin Homolog Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C147470"
+        },
+        {
+            "alt_label": "CD31;CD31 Antigen;PECAM;PECAM-1;PECAM1;Platelet And Endothelial Cell Adhesion Molecule 1;Platelet Endo Cell Adhesion Molecule 1;Platelet Endothelial Adhesion Molecule",
+            "definition": "A measurement of the platelet and endothelial cell adhesion molecule 1 in a biological specimen.",
+            "identifier": "C135472",
+            "notation": "Platelet Endo Cell Adhesion Molecule 1",
+            "pref_label": "Platelet Endothelial Cell Adhesion Molecule 1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135472"
+        },
+        {
+            "alt_label": "PMS1 Homolog 2",
+            "definition": "A measurement of the PMS2 mismatch repair protein in a biological specimen.",
+            "identifier": "C139097",
+            "notation": "PMS1 Homolog 2",
+            "pref_label": "PMS1 Homolog 2 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C139097"
+        },
+        {
+            "alt_label": "Polymorphonuclear Cells in Epithelium",
+            "definition": "An evaluation of polymorphonuclear cells in the epithelium in a biological specimen.",
+            "identifier": "C178040",
+            "notation": "Polymorphonuclear Cells in Epithelium",
+            "pref_label": "Polymorphonuclear Cells in Epithelium Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178040"
+        },
+        {
+            "alt_label": "Polysaccharides and Mucosubstances",
+            "definition": "A measurement of the polysaccharides and mucosubstances in a biological specimen.",
+            "identifier": "C178047",
+            "notation": "Polysaccharides and Mucosubstances",
+            "pref_label": "Polysaccharides and Mucosubstances Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178047"
+        },
+        {
+            "alt_label": "Portal Inflammation",
+            "definition": "An evaluation of portal inflammation in a biological specimen.",
+            "identifier": "C181483",
+            "notation": "Portal Inflammation",
+            "pref_label": "Portal Inflammation Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181483"
+        },
+        {
+            "alt_label": "Premalignant Cell Morphology",
+            "definition": "An examination or assessment of the form and structure of premalignant cells.",
+            "identifier": "C184701",
+            "notation": "Premalignant Cell Morphology",
+            "pref_label": "Premalignant Cell Morphology Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C184701"
+        },
+        {
+            "alt_label": "Precancerous Cells;Premalignant Lesions",
+            "definition": "An evaluation of premalignant cells in a biological specimen.",
+            "identifier": "C184700",
+            "notation": "Premalignant Cells",
+            "pref_label": "Premalignant Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C184700"
+        },
+        {
+            "alt_label": "NR3C3;PGR;PgR;PR;Progesterone Receptor",
+            "definition": "A measurement of the progesterone receptor protein in a biological specimen.",
+            "identifier": "C117846",
+            "notation": "Progesterone Receptor",
+            "pref_label": "Progesterone Receptor Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C117846"
+        },
+        {
+            "alt_label": "CD274;PD-L1;Programmed Cell Death 1 Ligand 1;Programmed Death Ligand 1",
+            "definition": "A measurement of the programmed death ligand 1 in a biological specimen.",
+            "identifier": "C154807",
+            "notation": "Programmed Death Ligand 1",
+            "pref_label": "Programmed Death Ligand 1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C154807"
+        },
+        {
+            "alt_label": "Prostatic Acid Phosphatase",
+            "definition": "A measurement of the prostatic acid phosphatase in a biological specimen.",
+            "identifier": "C80204",
+            "notation": "Prostatic Acid Phosphatase",
+            "pref_label": "Prostatic Acid Phosphatase Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C80204"
+        },
+        {
+            "alt_label": "ROS Proto-oncogene 1 Protein;ROS1 Protein",
+            "definition": "A measurement of the ROS proto-oncogene 1 protein in a biological specimen.",
+            "identifier": "C154804",
+            "notation": "ROS1 Protein",
+            "pref_label": "ROS1 Protein Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C154804"
+        },
+        {
+            "alt_label": "S100 Calcium Binding Protein A7",
+            "definition": "A measurement of the S100 calcium binding protein A7 in a biological specimen.",
+            "identifier": "C127769",
+            "notation": "S100 Calcium Binding Protein A7",
+            "pref_label": "S100 Calcium Binding Protein A7 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C127769"
+        },
+        {
+            "alt_label": "Anti-Smooth Muscle Antibody;Smooth Muscle Antibody",
+            "definition": "A measurement of the total smooth muscle antibody in a biological specimen.",
+            "identifier": "C111317",
+            "notation": "Smooth Muscle Antibody",
+            "pref_label": "Smooth Muscle Antibody Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C111317"
+        },
+        {
+            "alt_label": "Steatosis Extent;Steatosis Grade",
+            "definition": "An evaluation of the amount or degree of steatosis (fatty tissue) in a biological specimen.",
+            "identifier": "C181477",
+            "notation": "Steatosis Extent",
+            "pref_label": "Steatosis Extent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181477"
+        },
+        {
+            "alt_label": "Steatosis Location",
+            "definition": "An evaluation of the predominant distribution pattern of steatosis (fatty tissue) in a biological specimen.",
+            "identifier": "C181478",
+            "notation": "Steatosis Location",
+            "pref_label": "Steatosis Location",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181478"
+        },
+        {
+            "alt_label": "Stromal Cells/Total Cells",
+            "definition": "A relative measurement (ratio or percentage) of the stromal cells to total cells in a biological specimen.",
+            "identifier": "C127770",
+            "notation": "Stromal Cells/Total Cells",
+            "pref_label": "Stromal Cell to Total Cell Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C127770"
+        },
+        {
+            "alt_label": "Surgical Margin Involvement Region",
+            "definition": "The anatomical region or plane containing neoplastic tissue that has been left outside the boundary of a resected specimen within the patient.",
+            "identifier": "C177569",
+            "notation": "Surgical Margin Involvement Region",
+            "pref_label": "Anatomic Site for Involved Surgical Margin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C177569"
+        },
+        {
+            "alt_label": "Surgical Margins Status",
+            "definition": "The determination of the presence of actual or potential neoplastic tissue which has been left outside the boundary of a resected specimen within the patient. (NCI)",
+            "identifier": "C123560",
+            "notation": "Surgical Margins Status",
+            "pref_label": "Surgical Margins Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C123560"
+        },
+        {
+            "alt_label": "Thickness",
+            "definition": "The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.",
+            "identifier": "C41145",
+            "notation": "Thickness",
+            "pref_label": "Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C41145"
+        },
+        {
+            "alt_label": "Transforming Growth Factor Beta 1",
+            "definition": "A measurement of the transforming growth factor beta 1 in a biological specimen.",
+            "identifier": "C117861",
+            "notation": "Transforming Growth Factor Beta 1",
+            "pref_label": "Transforming Growth Factor Beta 1 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C117861"
+        },
+        {
+            "alt_label": "Transitional Cells/Tumor Cells",
+            "definition": "A relative measurement (ratio or percentage) of the transitional cells to the tumor cells in a biological specimen.",
+            "identifier": "C154800",
+            "notation": "Transitional Cells/Tumor Cells",
+            "pref_label": "Transitional Cell to Tumor Cell Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C154800"
+        },
+        {
+            "alt_label": "Tubular Atrophy",
+            "definition": "An evaluation of tubular atrophy in a biological specimen.",
+            "identifier": "C135474",
+            "notation": "Tubular Atrophy",
+            "pref_label": "Tubular Atrophy Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135474"
+        },
+        {
+            "alt_label": "Tubule Formation",
+            "definition": "An evaluation of tubule formation in a biological specimen.",
+            "identifier": "C181491",
+            "notation": "Tubule Formation",
+            "pref_label": "Tubule Formation Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C181491"
+        },
+        {
+            "alt_label": "Tubulitis",
+            "definition": "An evaluation of tubulitis in a biological specimen.",
+            "identifier": "C135475",
+            "notation": "Tubulitis",
+            "pref_label": "Tubulitis Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135475"
+        },
+        {
+            "alt_label": "Tumor Cells",
+            "definition": "A measurement of the tumor cells in a biological specimen.",
+            "identifier": "C154801",
+            "notation": "Tumor Cells",
+            "pref_label": "Tumor Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C154801"
+        },
+        {
+            "alt_label": "Tumor Cells/Total Cells",
+            "definition": "A relative measurement (ratio or percentage) of the tumor cells to total cells in a biological specimen.",
+            "identifier": "C127771",
+            "notation": "Tumor Cells/Total Cells",
+            "pref_label": "Tumor Cell to Total Cell Ratio Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C127771"
+        },
+        {
+            "alt_label": "Tumor Regression",
+            "definition": "An evaluation of tumor regression in a biological specimen.",
+            "identifier": "C178046",
+            "notation": "Tumor Regression",
+            "pref_label": "Tumor Regression Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C178046"
+        },
+        {
+            "alt_label": "Ulceration",
+            "definition": "An evaluation of ulceration in a biological specimen.",
+            "identifier": "C176333",
+            "notation": "Ulceration",
+            "pref_label": "Ulceration Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C176333"
+        },
+        {
+            "alt_label": "Vascular Fibrous Intimal Thickening",
+            "definition": "An evaluation of the fibrointimal thickening of vessels in a biological specimen.",
+            "identifier": "C135476",
+            "notation": "Vascular Fibrous Intimal Thickening",
+            "pref_label": "Vascular Fibrous Intimal Thickening Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C135476"
+        },
+        {
+            "alt_label": "Vascular Invasion",
+            "definition": "An evaluation of vascular invasion in a biological specimen.",
+            "identifier": "C127772",
+            "notation": "Vascular Invasion",
+            "pref_label": "Vascular Invasion Assessment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C132262-C127772"
+        }
+    ]
+}

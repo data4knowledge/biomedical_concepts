@@ -1,0 +1,92 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "ASKU",
+            "definition": "Information was sought but not found. (ISO)",
+            "identifier": "C79729",
+            "notation": "ASKED BUT UNKNOWN",
+            "pref_label": "Asked but Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810-C79729"
+        },
+        {
+            "alt_label": "DER",
+            "definition": "An actual value may exist, but it must be derived from the provided information (usually an expression is provided directly). (ISO)",
+            "identifier": "C42885",
+            "notation": "DERIVED",
+            "pref_label": "Derivation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810-C42885"
+        },
+        {
+            "alt_label": "INV",
+            "definition": "Not valid data.",
+            "identifier": "C50913",
+            "notation": "INVALID",
+            "pref_label": "Invalid Data",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810-C50913"
+        },
+        {
+            "alt_label": "MSK",
+            "definition": "There is information on this item available but it has not been provided by the sender due to security, privacy or other reasons. There may be an alternate mechanism for gaining access to this information. Warning: Using this null flavor does provide information that may be a breach of confidentiality, even though no detail data is provided. Its primary purpose is for those circumstances where it is necessary to inform the receiver that the information does exist without providing any detail. (ISO)",
+            "identifier": "C150904",
+            "notation": "MASKED",
+            "pref_label": "Masked Data",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810-C150904"
+        },
+        {
+            "alt_label": "NA;Not Applicable",
+            "definition": "Determination of a value is not relevant in the current context. (NCI)",
+            "identifier": "C48660",
+            "notation": "NA",
+            "pref_label": "Not Applicable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810-C48660"
+        },
+        {
+            "alt_label": "NI",
+            "definition": "The value is exceptional (missing, omitted, incomplete, improper). No information as to the reason for being an exceptional value is provided. This is the most general exceptional value. It is also the default exceptional value. (ISO)",
+            "identifier": "C53269",
+            "notation": "NO INFORMATION",
+            "pref_label": "No Information Available",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810-C53269"
+        },
+        {
+            "alt_label": "NASK",
+            "definition": "This information has not been sought. (ISO)",
+            "identifier": "C80217",
+            "notation": "NOT ASKED",
+            "pref_label": "Not Asked",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810-C80217"
+        },
+        {
+            "alt_label": "Other",
+            "definition": "Different than the one(s) previously specified or mentioned. (NCI)",
+            "identifier": "C17649",
+            "notation": "OTHER",
+            "pref_label": "Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810-C17649"
+        },
+        {
+            "alt_label": "NAV",
+            "definition": "Information is not available at this time but it is expected that it will be available later. (ISO)",
+            "identifier": "C150903",
+            "notation": "TEMPORARILY UNAVAILABLE",
+            "pref_label": "Temporarily Unavailable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810-C150903"
+        },
+        {
+            "alt_label": "UNC",
+            "definition": "No attempt has been made to encode the information correctly but the raw source information is represented (usually in originalText). (ISO)",
+            "identifier": "C150902",
+            "notation": "UNENCODED",
+            "pref_label": "Unencoded Data",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810-C150902"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C150810-C17998"
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Biological Agent Biovar Name",
+            "definition": "Identifying biovar name of the biological challenge agent.",
+            "identifier": "C158303",
+            "notation": "BABIOVRN",
+            "pref_label": "Biological Agent Biovar Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158303"
+        },
+        {
+            "alt_label": "Biological Agent Category",
+            "definition": "A general classification of the biological challenge agent used in the study.",
+            "identifier": "C158308",
+            "notation": "BACAT",
+            "pref_label": "Biological Agent Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158308"
+        },
+        {
+            "alt_label": "Biological Agent Certificate of Analysis Indicator;Biological Agent CoA Indicator",
+            "definition": "An indication as to whether a certificate of analysis exists for the biological challenge agent.",
+            "identifier": "C158307",
+            "notation": "BACOAIND",
+            "pref_label": "Biological Agent Certificate of Analysis Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158307"
+        },
+        {
+            "alt_label": "Biological Agent Engineered Indicator",
+            "definition": "An indication as to whether the biological challenge agent is engineered rather than naturally occurring.",
+            "identifier": "C158306",
+            "notation": "BAENGIND",
+            "pref_label": "Biological Agent Engineered Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158306"
+        },
+        {
+            "alt_label": "Biological Agent Genus and Species",
+            "definition": "The genus and species of the biological challenge agent used in the study.",
+            "identifier": "C158309",
+            "notation": "BAGENSPC",
+            "pref_label": "Biological Agent Genus and Species",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158309"
+        },
+        {
+            "alt_label": "Bio Master Bank or Seed Stock Dir Supp;Bio Master Bank or Seed Stock Direct Supplier",
+            "definition": "The name of the direct supplier of the master bank or seed stock of organisms from which the biological challenge agent came.",
+            "identifier": "C158310",
+            "notation": "BAMBSSDS",
+            "pref_label": "Master Bank or Seed Stock Immediate Supplier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158310"
+        },
+        {
+            "alt_label": "Biological Agent Material Ident Code",
+            "definition": "The unique identifier code assigned by the manufacturer or distributor to a specific quantity of biological challenge agent. This may include batch number, lot number, spore lot number, batch/lot number, etc.",
+            "identifier": "C158311",
+            "notation": "BAMTIDCD",
+            "pref_label": "Material Identification Code",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158311"
+        },
+        {
+            "alt_label": "Biological Agent Nucleotide Sequence Ind;Biological Agent Nucleotide Sequence Indicator",
+            "definition": "An indication as to whether the genetic sequence of the biological challenge agent has been determined.",
+            "identifier": "C158312",
+            "notation": "BANSIND",
+            "pref_label": "Biological Agent Nucleotide Sequence Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158312"
+        },
+        {
+            "alt_label": "Biological Agent Nucleotide Sequence Loc;Biological Agent Nucleotide Sequence Location",
+            "definition": "The reference, citation, or database location of the nucleotide sequence for the biological challenge agent.",
+            "identifier": "C158313",
+            "notation": "BANSLOC",
+            "pref_label": "Biological Agent Nucleotide Sequence Location",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158313"
+        },
+        {
+            "alt_label": "Biological Agent Serovar Name",
+            "definition": "Identifying serovar name of the biological challenge agent.",
+            "identifier": "C158304",
+            "notation": "BASEROVN",
+            "pref_label": "Biological Agent Serovar Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158304"
+        },
+        {
+            "alt_label": "Biological Agent Strain Name",
+            "definition": "Identifying strain name of the biological challenge agent.",
+            "identifier": "C158305",
+            "notation": "BASTRNN",
+            "pref_label": "Biological Agent Strain Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158305"
+        },
+        {
+            "alt_label": "Body Irradiation Model",
+            "definition": "A description of the area or extent of the body that is exposed to radiation, which may include information about the body part that is irradiated and procedures that may be done in conjunction with the radiation.",
+            "identifier": "C161499",
+            "notation": "BIRRMDL",
+            "pref_label": "Body Irradiation Model",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C161499"
+        },
+        {
+            "alt_label": "Bio Ag Work Bank/Primary Stock Char Ind;Biological Working Bank or Primary Stock Characterized Indicator",
+            "definition": "An indication as to whether the primary molecular and biological characteristics of the working bank or primary stock were confirmed.",
+            "identifier": "C158314",
+            "notation": "BWBPSIND",
+            "pref_label": "Working Bank or Primary Stock Characterized Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158314"
+        },
+        {
+            "alt_label": "Challenge Agent Category",
+            "definition": "A general classification of the challenge agent used in the study.",
+            "identifier": "C158298",
+            "notation": "CAGTCAT",
+            "pref_label": "Challenge Agent Category",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158298"
+        },
+        {
+            "alt_label": "Challenge Agent Supplier Address",
+            "definition": "The geographic location of the person, company, organization, or institution that supplied the challenge agent used in the study.",
+            "identifier": "C158302",
+            "notation": "CAGTSUPA",
+            "pref_label": "Challenge Agent Supplier Address",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158302"
+        },
+        {
+            "alt_label": "Challenge Agent Supplier Name",
+            "definition": "The name of the person, company, organization, or institution that supplied the challenge agent used in the study.",
+            "identifier": "C158301",
+            "notation": "CAGTSUPN",
+            "pref_label": "Challenge Agent Supplier Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158301"
+        },
+        {
+            "alt_label": "Chemical Agent CAS Number",
+            "definition": "The unique numerical identifier assigned by the Chemical Abstract Service (CAS), a division of the American Chemical Society, to the chemical challenge agent used in the study.",
+            "identifier": "C158316",
+            "notation": "CHAGCAS",
+            "pref_label": "Chemical Agent CAS Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158316"
+        },
+        {
+            "alt_label": "Chemical Agent Name",
+            "definition": "The name of the chemical challenge agent used in the study.",
+            "identifier": "C158315",
+            "notation": "CHAGNAM",
+            "pref_label": "Chemical Challenge Agent Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158315"
+        },
+        {
+            "alt_label": "Chemical Ag Metabolite Causes Injury Ind;Chemical Agent Metabolite Causes Injury Indicator",
+            "definition": "An indication as to whether a metabolite of the chemical challenge agent is known to cause or contribute to the injury or condition of interest.",
+            "identifier": "C158317",
+            "notation": "CHAMCIND",
+            "pref_label": "Challenge Agent Metabolite Caused Injury Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158317"
+        },
+        {
+            "alt_label": "Chemical Agent CoA Indicator",
+            "definition": "An indication as to whether a certificate of analysis exists for the chemical challenge agent.",
+            "identifier": "C161503",
+            "notation": "CHCOAIND",
+            "pref_label": "Chemical Agent Certificate of Analysis Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C161503"
+        },
+        {
+            "alt_label": "Chemical Agent Material Ident Code;Chemical Agent Material Identification Code",
+            "definition": "The unique identifier code assigned by the manufacturer or distributor to a specific quantity of chemical challenge agent. This may include batch number, lot number, batch/lot number, etc.",
+            "identifier": "C161504",
+            "notation": "CHMTIDCD",
+            "pref_label": "Chemical Agent Material Identification Code",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C161504"
+        },
+        {
+            "alt_label": "Combined Injury (Rad and Non-Rad) Ind;Combined Injury (Radiation and Non-Radiation) Indicator",
+            "definition": "An indication as to whether the radiation injury is combined with infectious, physical, thermal, and/or chemical trauma.",
+            "identifier": "C163571",
+            "notation": "CIRNRIND",
+            "pref_label": "Radiation Combined Injury Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C163571"
+        },
+        {
+            "alt_label": "Exp Onset of Rad/Nuc Targeted Injury;Expected Onset of Rad/Nuc Targeted Injury",
+            "definition": "The relative timing of the expected onset of the targeted injury, with respect to radiation exposure.",
+            "identifier": "C161502",
+            "notation": "EORNINJR",
+            "pref_label": "Expected Onset of Rad/Nuc Targeted Injury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C161502"
+        },
+        {
+            "alt_label": "Irradiation Field Orientation/Sequence",
+            "definition": "A description of the irradiation field as it pertains to orientation to the body and, when appropriate, the sequencing of exposure(s).",
+            "identifier": "C163572",
+            "notation": "IRORSEQ",
+            "pref_label": "Irradiation Field Orientation Sequence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C163572"
+        },
+        {
+            "alt_label": "Multiple Challenge Agent Category Ind;Multiple Challenge Agent Category Indicator",
+            "definition": "An indication as to whether the animal was challenged with agents from more than one challenge agent category.",
+            "identifier": "C158299",
+            "notation": "MCCATIND",
+            "pref_label": "Multiple Challenge Agent Different Category Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158299"
+        },
+        {
+            "alt_label": "Multiple Challenge Agent Same Cat Ind;Multiple Challenge Agent Same Category Indicator",
+            "definition": "An indication as to whether the animal was challenged with more than one agent from a single challenge agent category.",
+            "identifier": "C158300",
+            "notation": "MCSCTIND",
+            "pref_label": "Multiple Challenge Agent Same Category Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158300"
+        },
+        {
+            "alt_label": "Percent Bone Marrow Not Irradiated",
+            "definition": "The proportion of bone marrow that is not irradiated, i.e., shielded or removed from field.",
+            "identifier": "C161500",
+            "notation": "PCTBMNIR",
+            "pref_label": "Percent Bone Marrow Shielded",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C161500"
+        },
+        {
+            "alt_label": "Rad/Nuc Agent Ionizing Radiation Type",
+            "definition": "The form of ionizing radiation that is emitted by the rad/nuc agent source.",
+            "identifier": "C158319",
+            "notation": "RNAIOTYP",
+            "pref_label": "Radiological/Nuclear Agent Ionizing Radiation Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158319"
+        },
+        {
+            "alt_label": "Rad/Nuc Agent Irrad Source Beam Strength;Rad/Nuc Agent Irradiation Source Beam Strength",
+            "definition": "The energy of the irradiation beam produced by the source.",
+            "identifier": "C158320",
+            "notation": "RNAISBS",
+            "pref_label": "Radiological/Nuclear Agent Irradiation Source Beam Strength",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158320"
+        },
+        {
+            "alt_label": "Rad/Nuc Agent Mixed Field Indicator",
+            "definition": "An indication as to whether there is more than one type of ionizing radiation associated with the rad/nuc challenge.",
+            "identifier": "C158321",
+            "notation": "RNAMFIND",
+            "pref_label": "Challenge Agent Type Mixed Field Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158321"
+        },
+        {
+            "alt_label": "Rad/Nuc Agent Radioisotope Species Name",
+            "definition": "The literal identifier of the radioisotope, specified as the symbol of the chemical element followed by the mass number.",
+            "identifier": "C158322",
+            "notation": "RNARADSN",
+            "pref_label": "Radioisotope Species Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158322"
+        },
+        {
+            "alt_label": "Rad/Nuc Agent Source",
+            "definition": "The mode by which the radiological or nuclear challenge agent is delivered to the subject.",
+            "identifier": "C158318",
+            "notation": "RNASRC",
+            "pref_label": "Radiological/Nuclear Challenge Agent Source Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C158318"
+        },
+        {
+            "alt_label": "Rad/Nuc Targeted Injury Model",
+            "definition": "The type of radiation injury that is being induced in the animal.",
+            "identifier": "C161501",
+            "notation": "RNTINJRM",
+            "pref_label": "Rad/Nuc Targeted Injury Model",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158116-C161501"
+        }
+    ]
+}

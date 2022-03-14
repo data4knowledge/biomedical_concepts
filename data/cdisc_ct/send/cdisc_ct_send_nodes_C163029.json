@@ -1,0 +1,34 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "AnteriorPosterior-PosteriorAnterior Sequential;Anteroposterior-Posteroanterior Sequential;AP-PA Sequential;APPA Sequential",
+            "definition": "An irradiation modality in which radiation is applied first in an anteroposterior anatomical plane and then in a posteroanterior anatomical plane.",
+            "identifier": "C163716",
+            "notation": "AP/PA SEQUENTIAL",
+            "pref_label": "Anteroposterior/Posteroanterior Sequential Radiotherapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C163029-C163716"
+        },
+        {
+            "alt_label": "AnteriorPosterior-PosteriorAnterior Simultaneous;Anteroposterior-Posteroanterior Simultaneous;AP-PA Simultaneous;APPA Simultaneous",
+            "definition": "An irradiation modality in which radiation is applied simultaneously in the anteroposterior anatomical plane and in the posteroanterior anatomical plane.",
+            "identifier": "C163717",
+            "notation": "AP/PA SIMULTANEOUS",
+            "pref_label": "Posteroanterior/Anteroposterior Simultaneous Radiotherapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C163029-C163717"
+        },
+        {
+            "definition": "An irradiation modality in which radiation is applied to each side of the body or body part in a sequential manner.",
+            "identifier": "C163718",
+            "notation": "BILATERAL SEQUENTIAL",
+            "pref_label": "Bilateral Sequential Radiotherapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C163029-C163718"
+        },
+        {
+            "definition": "An irradiation modality in which radiation is applied to both sides of the body or body part at the same time.",
+            "identifier": "C163719",
+            "notation": "BILATERAL SIMULTANEOUS",
+            "pref_label": "Bilateral Simultaneous Radiotherapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C163029-C163719"
+        }
+    ]
+}

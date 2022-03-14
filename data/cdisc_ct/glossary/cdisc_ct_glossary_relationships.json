@@ -1,0 +1,15 @@
+{
+    "FROM_SOURCE": [
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/glossary",
+            "to": "http://id.d4k.dk/dataset/source/cdisc/ct/glossary"
+        }
+    ],
+    "SKOS_HAS_TOP_CONCEPT": [
+        {
+            "from": "http://id.d4k.dk/dataset/cdisc/ct/v48/glossary",
+            "to": "http://id.d4k.dk/dataset/cdisc/ct/v48/glossary/C67497"
+        }
+    ],
+    "SKOS_NARROWER": []
+}

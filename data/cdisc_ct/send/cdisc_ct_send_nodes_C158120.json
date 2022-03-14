@@ -1,0 +1,26 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A challenge agent comprising an organism or infectious agent.",
+            "identifier": "C158325",
+            "notation": "BIOLOGICAL",
+            "pref_label": "Biological Challenge Agent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158120-C158325"
+        },
+        {
+            "definition": "A challenge agent comprising a non-radioactive chemical or elemental substance; this category includes biotoxins.",
+            "identifier": "C158326",
+            "notation": "CHEMICAL",
+            "pref_label": "Chemical Challenge Agent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158120-C158326"
+        },
+        {
+            "alt_label": "Rad/Nuc",
+            "definition": "A challenge agent that emits ionizing radiation.",
+            "identifier": "C158327",
+            "notation": "RADIOLOGICAL/NUCLEAR",
+            "pref_label": "Radiological/Nuclear Challenge Agent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C158120-C158327"
+        }
+    ]
+}

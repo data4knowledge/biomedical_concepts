@@ -1,0 +1,292 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "R3601-Would You Say Your Health Is",
+            "definition": "RAND 36-Item Health Survey 1.0 - In general, would you say your health is:",
+            "identifier": "C114043",
+            "notation": "R360101",
+            "pref_label": "RAND-36 - Rate Your Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114043"
+        },
+        {
+            "alt_label": "R3601-Health Now Compared to 1 Year Ago",
+            "definition": "RAND 36-Item Health Survey 1.0 - Compared to one year ago, how would you rate your health in general now?",
+            "identifier": "C114044",
+            "notation": "R360102",
+            "pref_label": "RAND-36 - Rate Your Health Compared to One Year Ago",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114044"
+        },
+        {
+            "alt_label": "R3601-Health Limit Vigorous Activities",
+            "definition": "RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports.",
+            "identifier": "C114045",
+            "notation": "R360103",
+            "pref_label": "RAND-36 - Health Limit Vigorous Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114045"
+        },
+        {
+            "alt_label": "R3601-Health Limit Moderate Activities",
+            "definition": "RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Moderate activities, such as moving a table, pushing a vacuum cleaner, bowling, or playing golf.",
+            "identifier": "C114046",
+            "notation": "R360104",
+            "pref_label": "RAND-36 - Health Limit Moderate Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114046"
+        },
+        {
+            "alt_label": "R3601-Health Limit Carrying Groceries",
+            "definition": "RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Lifting or carrying groceries.",
+            "identifier": "C114047",
+            "notation": "R360105",
+            "pref_label": "RAND-36 - Health Limit Lifting Groceries",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114047"
+        },
+        {
+            "alt_label": "R3601-Health Limit Climb Several Flights",
+            "definition": "RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Climbing several flights of stairs.",
+            "identifier": "C114048",
+            "notation": "R360106",
+            "pref_label": "RAND-36 - Health Limit Climbing Several Flights",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114048"
+        },
+        {
+            "alt_label": "R3601-Health Limit Climb One Flight",
+            "definition": "RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Climbing one flight of stairs.",
+            "identifier": "C114049",
+            "notation": "R360107",
+            "pref_label": "RAND-36 - Health Limit Climbing One Flight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114049"
+        },
+        {
+            "alt_label": "R3601-Health Limit Bending or Kneeling",
+            "definition": "RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Bending, kneeling, or stooping.",
+            "identifier": "C114050",
+            "notation": "R360108",
+            "pref_label": "RAND-36 - Health Limit Bending or Stooping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114050"
+        },
+        {
+            "alt_label": "R3601-Health Limit Walk More Than Mile",
+            "definition": "RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Walking more than a mile.",
+            "identifier": "C114051",
+            "notation": "R360109",
+            "pref_label": "RAND-36 - Health Limit Walking More Than A Mile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114051"
+        },
+        {
+            "alt_label": "R3601-Health Limit Walk Several Blocks",
+            "definition": "RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Walking several blocks.",
+            "identifier": "C114052",
+            "notation": "R360110",
+            "pref_label": "RAND-36 - Health Limit Walking Several Blocks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114052"
+        },
+        {
+            "alt_label": "R3601-Health Limit Walk One Block",
+            "definition": "RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Walking one block.",
+            "identifier": "C114053",
+            "notation": "R360111",
+            "pref_label": "RAND-36 - Health Limit Walking One Block",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114053"
+        },
+        {
+            "alt_label": "R3601-Health Limit Bathing/Dressing Self",
+            "definition": "RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Bathing or dressing yourself.",
+            "identifier": "C114054",
+            "notation": "R360112",
+            "pref_label": "RAND-36 - Health Limit Bathing or Dressing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114054"
+        },
+        {
+            "alt_label": "R3601-Phys Health: Cut Work Time",
+            "definition": "RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Cut down the amount of time you spent on work or other activities.",
+            "identifier": "C114055",
+            "notation": "R360113",
+            "pref_label": "RAND-36 - Physical Health Cut Down Time Spent on Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114055"
+        },
+        {
+            "alt_label": "R3601-Phys Health: Accomplish Less",
+            "definition": "RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Accomplished less than you would like.",
+            "identifier": "C114056",
+            "notation": "R360114",
+            "pref_label": "RAND-36 - Physical Health Accomplished Less",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114056"
+        },
+        {
+            "alt_label": "R3601-Phys Health: Limit Kind of Work",
+            "definition": "RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Were limited in the kind of work or other activities.",
+            "identifier": "C114057",
+            "notation": "R360115",
+            "pref_label": "RAND-36 - Physical Health Limited in the Kind of Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114057"
+        },
+        {
+            "alt_label": "R3601-Phys Health: Difficulty Performing",
+            "definition": "RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Had difficulty performing the work or other activities.",
+            "identifier": "C114058",
+            "notation": "R360116",
+            "pref_label": "RAND-36 - Physical Health Difficulty Performing Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114058"
+        },
+        {
+            "alt_label": "R3601-Emotional Problem: Cut Work Time",
+            "definition": "RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Cut down the amount of time you spent on work or other activities.",
+            "identifier": "C114059",
+            "notation": "R360117",
+            "pref_label": "RAND-36 - Emotional Problem Cut Down Time Spent on Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114059"
+        },
+        {
+            "alt_label": "R3601-Emotional Problem: Accomplish Less",
+            "definition": "RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Accomplished less than you would like.",
+            "identifier": "C114060",
+            "notation": "R360118",
+            "pref_label": "RAND-36 - Emotional Problem Accomplished Less",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114060"
+        },
+        {
+            "alt_label": "R3601-Emotional Problem: Less Careful",
+            "definition": "RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Didn't do work or other activities as carefully as usual.",
+            "identifier": "C114061",
+            "notation": "R360119",
+            "pref_label": "RAND-36 - Emotional Problem Did Not Do Work as Carefully",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114061"
+        },
+        {
+            "alt_label": "R3601-Extent Interfered Social Activity",
+            "definition": "RAND 36-Item Health Survey 1.0 - During the past 4 weeks, to what extent has your physical health or emotional problems interfered with your normal social activities with family, friends, neighbors, or groups?",
+            "identifier": "C114062",
+            "notation": "R360120",
+            "pref_label": "RAND-36 - Extend Physical Health or Emotional Problems Interfere With Social Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114062"
+        },
+        {
+            "alt_label": "R3601-How Much Bodily Pain Have You Had",
+            "definition": "RAND 36-Item Health Survey 1.0 - How much bodily pain have you had during the past 4 weeks?",
+            "identifier": "C114063",
+            "notation": "R360121",
+            "pref_label": "RAND-36 - Bodily Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114063"
+        },
+        {
+            "alt_label": "R3601-Did Pain Interfere With Your Work",
+            "definition": "RAND 36-Item Health Survey 1.0 - During the past 4 weeks, how much did pain interfere with your normal work?",
+            "identifier": "C114064",
+            "notation": "R360122",
+            "pref_label": "RAND-36 - Pain Interfere With Normal Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114064"
+        },
+        {
+            "alt_label": "R3601-Did You Feel Full of Pep",
+            "definition": "RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Did you feel full of pep?",
+            "identifier": "C114065",
+            "notation": "R360123",
+            "pref_label": "RAND-36 - Feel Full of Pep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114065"
+        },
+        {
+            "alt_label": "R3601-Have Been a Very Nervous Person",
+            "definition": "RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Have you been a very nervous person?",
+            "identifier": "C114066",
+            "notation": "R360124",
+            "pref_label": "RAND-36 - Been a Nervous Person",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114066"
+        },
+        {
+            "alt_label": "R3601-Have Felt So Down in the Dumps",
+            "definition": "RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Have you felt so down in the dumps that nothing could cheer you up?",
+            "identifier": "C114067",
+            "notation": "R360125",
+            "pref_label": "RAND-36 - Felt Nothing Could Cheer You Up",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114067"
+        },
+        {
+            "alt_label": "R3601-Have You Felt Calm and Peaceful",
+            "definition": "RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Have you felt calm and peaceful?",
+            "identifier": "C114068",
+            "notation": "R360126",
+            "pref_label": "RAND-36 - Felt Calm and Peaceful",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114068"
+        },
+        {
+            "alt_label": "R3601-Did You Have a Lot of Energy",
+            "definition": "RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Did you have a lot of energy?",
+            "identifier": "C114069",
+            "notation": "R360127",
+            "pref_label": "RAND-36 - Have a Lot of Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114069"
+        },
+        {
+            "alt_label": "R3601-Have Felt Downhearted and Blue",
+            "definition": "RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Have you felt downhearted and blue?",
+            "identifier": "C114070",
+            "notation": "R360128",
+            "pref_label": "RAND-36 - Felt Downhearted and Blue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114070"
+        },
+        {
+            "alt_label": "R3601-Did You Feel Worn Out",
+            "definition": "RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Did you feel worn out?",
+            "identifier": "C114071",
+            "notation": "R360129",
+            "pref_label": "RAND-36 - Feel Worn Out",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114071"
+        },
+        {
+            "alt_label": "R3601-Have You Been a Happy Person",
+            "definition": "RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Have you been a happy person?",
+            "identifier": "C114072",
+            "notation": "R360130",
+            "pref_label": "RAND-36 - Been a Happy Person",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114072"
+        },
+        {
+            "alt_label": "R3601-Did You Feel Tired",
+            "definition": "RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Did you feel tired?",
+            "identifier": "C114073",
+            "notation": "R360131",
+            "pref_label": "RAND-36 - Feel Tired",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114073"
+        },
+        {
+            "alt_label": "R3601-Amt Time Interfere Social Activity",
+            "definition": "RAND 36-Item Health Survey 1.0 - During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities?",
+            "identifier": "C114074",
+            "notation": "R360132",
+            "pref_label": "RAND-36 - Time Physical Health or Emotional Problems Interfere With Social Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114074"
+        },
+        {
+            "alt_label": "R3601-Get Sick Easier Than Other People",
+            "definition": "RAND 36-Item Health Survey 1.0 - How TRUE or FALSE is each of the following statements for you: I seem to get sick a little easier than other people.",
+            "identifier": "C114075",
+            "notation": "R360133",
+            "pref_label": "RAND-36 - Get Sick Easier Than Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114075"
+        },
+        {
+            "alt_label": "R3601-I Am as Healthy as Anybody I Know",
+            "definition": "RAND 36-Item Health Survey 1.0 - How TRUE or FALSE is each of the following statements for you: I am as healthy as anybody I know.",
+            "identifier": "C114076",
+            "notation": "R360134",
+            "pref_label": "RAND-36 - As Healthy as Anybody",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114076"
+        },
+        {
+            "alt_label": "R3601-I Expect My Health to Get Worse",
+            "definition": "RAND 36-Item Health Survey 1.0 - How TRUE or FALSE is each of the following statements for you: I expect my health to get worse.",
+            "identifier": "C114077",
+            "notation": "R360135",
+            "pref_label": "RAND-36 - Expect Health to Get Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114077"
+        },
+        {
+            "alt_label": "R3601-My Health Is Excellent",
+            "definition": "RAND 36-Item Health Survey 1.0 - How TRUE or FALSE is each of the following statements for you: My health is excellent.",
+            "identifier": "C114078",
+            "notation": "R360136",
+            "pref_label": "RAND-36 - My Health is Excellent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C113862-C114078"
+        }
+    ]
+}

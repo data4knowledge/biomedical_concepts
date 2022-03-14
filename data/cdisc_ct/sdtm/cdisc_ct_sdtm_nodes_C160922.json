@@ -1,0 +1,161 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "ASH FibroSURE Formula;ASH Test",
+            "definition": "A proprietary algorithm derived from the FibroTest liver fibrosis algorithm that is used to measure liver fibrosis, hepatic steatosis, and alcoholic steatohepatitis. It includes ten serum markers: alpha-2-macroglobulin, apolipoprotein A1, total bilirubin, gamma-glutamyltransferase, haptoglobin, alanine aminotransferase, aspartate aminotransferase, glucose, total cholesterol, and triglycerides, and adjusts for age, gender, height, and weight. (NCI)",
+            "identifier": "C172486",
+            "notation": "ASH FIBROSURE FORMULA",
+            "pref_label": "ASH Fibrosure Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C172486"
+        },
+        {
+            "definition": "A formula to estimate glomerular filtration rate that takes into account sex, age, race, and serum creatinine (SCr). eGFR(mL/min/1.73 m2)=141 x min(SCr/k, 1)^a x max(SCr/k, 1)^-1.209 x 0.993^Age x 1.018 [if female] x 1.159 [if black] where: SCr is in mg/dL; k=0.7 for Female and 0.9 for Male; a=-0.329 for female and -0.411 for male. (Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF, Feldman HI, Kusek JW, Eggers P, Van Lente F, Greene T. A new equation to estimate glomerular filtration rate. Ann Intern Med. 2009;150:604-612.)",
+            "identifier": "C161338",
+            "notation": "CKD-EPI CREATININE FORMULA",
+            "pref_label": "CKD-EPI Creatinine Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161338"
+        },
+        {
+            "definition": "A formula to estimate glomerular filtration rate that takes into account sex, age, race, serum creatinine (SCr) and serum cystatin C (Scys). eGFR(mL/min/1.73 m2)=135 x min(SCr/k, 1)a x max(SCr/k, 1)-0.601 x min(Scys/0.8, 1)-0.375 x max(Scys/0.8, 1)-0.711 x 0.995^Age x 0.969 [if female] x 1.08 [if black]. (Inker LA, Schmid CH, Tighiouart H, et al. Estimating glomerular filtration rate from serum creatinine and cystatin C. N Engl J Med. 2012;367(1):20-29.)",
+            "identifier": "C161340",
+            "notation": "CKD-EPI CREATININE-CYSTATIN C FORMULA",
+            "pref_label": "CKD-EPI Creatinine-Cystatin C Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161340"
+        },
+        {
+            "definition": "A formula to estimate glomerular filtration rate that takes into account sex, age, race, and serum cystatin C (Scys). eGFR(mL/min/1.73 m2)=133 x min(Scys/0.8, 1)^-0.499 x max (Scys/0.8, 1)^-1.328 x 0.996^Age x 0.932 [if female]. (Inker LA, Schmid CH, Tighiouart H, et al. Estimating glomerular filtration rate from serum creatinine and cystatin C. N Engl J Med. 2012;367(1):20-29.)",
+            "identifier": "C161339",
+            "notation": "CKD-EPI CYSTATIN C FORMULA",
+            "pref_label": "CKD-EPI Cystatin C Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161339"
+        },
+        {
+            "alt_label": "Chronic Kidney Disease Epidemiology Collaboration Formula;CKD-EPI GFR Formula",
+            "definition": "An unspecified CKD-EPI-based formula to estimate glomerular filtration rate that takes into account factors such as sex, age, race, and biomarker measurements.",
+            "identifier": "C161341",
+            "notation": "CKD-EPI FORMULA",
+            "pref_label": "CKD-EPI Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161341"
+        },
+        {
+            "definition": "A formula to estimate creatinine clearance that takes into account sex, age, weight, and serum creatinine (SCr). CCr=(140 - Age) x Wgt (Kg) / 72xCrt (mg/dL) x 1 (if M) or 0.85 (if F), for conventional units. CCr=(140 - Age) x Wgt (Kg) / 72xCrt (MCMOL/L) x 88.4 x 1 (if M) or 0.85 (if F) [If Wgt is in lbs; Wgt (Kg) = Wgt (lbs) x 0.45], for SI units. (Cockcroft, D.W. and M.H. Gault. Prediction of creatinine clearance from serum creatinine. Nephron. 1976. 16(1):31-41.)",
+            "identifier": "C161342",
+            "notation": "COCKCROFT-GAULT FORMULA",
+            "pref_label": "Cockcroft-Gault Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161342"
+        },
+        {
+            "definition": "A formula that estimates liver pathology through the assessment of a six-parameter blood test, taking into account subject age. Fibrometer regression function = -0.007 platelets (Giga/L) - 0.049 prothrombin index (%) + 0.012 aspartate aminotransferase (UI/L) + 0.005 alpha2-macroglobulin (mg/dL) + 0.021 hyaluronate (g/L) - 0.270 urea (mmol/L) + 0.027 age (years) + 3.718. (Cales P, Oberti F, Michalak S et al. A novel panel of blood markers to assess the degree of liver fibrosis. Hepatology. 2005 Dec;42(6):1373-81.)",
+            "identifier": "C172489",
+            "notation": "FIBROMETER FORMULA",
+            "pref_label": "Fibrometer Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C172489"
+        },
+        {
+            "alt_label": "FIB-4 Formula",
+            "definition": "A formula that estimates liver pathology through the assessment of a three-parameter blood test, taking into account subject age. FIB-4 = age ([yr] x AST [U/L]) / ((PLT [10(9)/L]) x (ALT [U/L])(1/2)). (Sterling RK, Lissen E, Clumeck N, et. al. Development of a simple noninvasive index to predict significant fibrosis patients with HIV/HCV co-infection. Hepatology 2006;43:1317-1325.)",
+            "identifier": "C170576",
+            "notation": "FIBROSIS 4 FORMULA",
+            "pref_label": "Fibrosis 4 Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C170576"
+        },
+        {
+            "alt_label": "FibroSURE Formula;FibroTest Formula;FibroTest-HCV Formula;FibroTest/FibroSURE Formula",
+            "definition": "A formula that estimates liver pathology through the assessment of a six-parameter blood test, taking into account subject age and sex. z = 4.467 x log10[Alpha2-Macroglobulin(g/L)] - 1.357 x log10[Haptoglobulin(g/L) + 1.017 x log10[Gamma Glutamyl Transferase (IU/L)] +0.0281 x [Age] + 1.737 x log10[Bilirubin umol/L] - 1.184 x [Apolipoprotein A1(g/L)] + 0.301 x [Sex (female=0, Male=1) - 5.54. (US Patent 6631330)",
+            "identifier": "C172485",
+            "notation": "FIBROTEST FORMULA",
+            "pref_label": "Fibrotest Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C172485"
+        },
+        {
+            "alt_label": "Glucose Management Indicator % Formula",
+            "definition": "A formula to calculate the glucose management indicator (GMI) as a percentage. GMI = 3.31 + 0.02392 x [mean glucose in mg/dL]. (Richard M. Bergenstal, Roy W. Beck, Kelly L. Close, et al. Glucose Management Indicator (GMI): A New Term for Estimating A1C From Continuous Glucose Monitoring. Diabetes Care 2018 Nov; 41(11): 2275-2280.)",
+            "identifier": "C174289",
+            "notation": "GMI % FORMULA",
+            "pref_label": "Glucose Management Indicator Percentage Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C174289"
+        },
+        {
+            "alt_label": "Glucose Management Indicator mmol/mol Formula",
+            "definition": "A formula to calculate the glucose management indicator (GMI) in mmol/mol. GMI = 12.71 + 4.70587 x [mean glucose in mmol/L]. (Richard M. Bergenstal, Roy W. Beck, Kelly L. Close, et al. Glucose Management Indicator (GMI): A New Term for Estimating A1C From Continuous Glucose Monitoring. Diabetes Care 2018 Nov; 41(11): 2275-2280.)",
+            "identifier": "C174290",
+            "notation": "GMI MMOL/MOL FORMULA",
+            "pref_label": "Glucose Management Indicator Mmol/mol Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C174290"
+        },
+        {
+            "alt_label": "Hepatoscore Formula",
+            "definition": "A formula that estimates liver pathology through the assessment of a four-parameter blood test, taking into account subject age and sex. Hepascore = y/(1 + y) with y = exp (-4.185818 - (0.0249 x age) + (0.7464 x 1 if male, 0 if female gender) + (1.0039 x a2 macroglobulin) + (0.0302 x hyaluronate) + (0.0691 x bilirubin) - (0.0012 x gamma-glutamyl transferase)). (Adams LA, Bulsara M, Rossi E et al. Hepascore: an accurate validated predictor of liver fibrosis in chronic hepatitis C infection. Clin Chem. 2005 Oct;51(10):1867-73.)",
+            "identifier": "C172488",
+            "notation": "HEPASCORE FORMULA",
+            "pref_label": "Hepascore Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C172488"
+        },
+        {
+            "definition": "A formula to estimate glomerular filtration rate in Japanese subjects that takes into account age, sex, and serum creatinine. eGFR (mL/min/1.73 m2) = 0.741 x SCr^-1.154 x 175 x Age^-0.203 x 0.742 (if female). (Enyu Imai, Masaru Horio, Kosaku Nitta, Kunihiro Yamagata, Kunitoshi Iseki, Yusuke Tsukamoto, Sadayoshi Ito, Hirofumi Makino, Akira Hishida, Seiichi Matsuo. Modification of the Modification of Diet in Renal Disease (MDRD) Study Equation for Japan. Am J Kidney Dis. 2007 Dec;50(6):927-37.)",
+            "identifier": "C181401",
+            "notation": "IDMS-MDRD STUDY EQUATION WITH JSN-CKDI COEFFICIENT 0.741 IMAI 2007",
+            "pref_label": "IDMS-MDRD Study Equation With JSN-CKDI Coefficient 0.741 Imai et al. 2007",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C181401"
+        },
+        {
+            "definition": "A formula to estimate glomerular filtration rate that takes into account age, sex, race, and serum creatinine (Scr). eGFR (mL/min/1.73 m2) = 186 x (Scr)^-1.154 x (Age)^-0.203 x (0.742 if female) x (1.210 if African American). (Levey AS, Bosch JP, Lewis JB, Greene T, Rogers N, Roth D. A more accurate method to estimate glomerular filtration rate from serum creatinine: a new prediction equation. Modification of Diet in Renal Disease Study Group. Ann Intern Med. 1999;130:461-70.)",
+            "identifier": "C161343",
+            "notation": "MDRD 4 VARIABLE FORMULA",
+            "pref_label": "MDRD 4 Variable Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161343"
+        },
+        {
+            "definition": "A formula to estimate glomerular filtration rate that takes into account age, sex, race, serum creatinine and serum urea nitrogen. eGFR (mL/min/1.73 m = 270 x creatinine (mg/dl)^-1.007 x age^-0.180 x 1.178 (if black) x 0.762 (if female) x serum urea nitrogen^-0.169. (Levey AS, Greene T, Kusek JW, Beck GJ, MDRD study group. A simplified equation to predict glomerular filtration rate from serum creatinine. J Am Soc Nephrol 2000; 11: A0828.)",
+            "identifier": "C161344",
+            "notation": "MDRD 5 VARIABLE FORMULA",
+            "pref_label": "MDRD 5 Variable Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161344"
+        },
+        {
+            "definition": "A formula to estimate glomerular filtration rate that takes into account age, sex, race, serum creatinine, serum urea nitrogen, and albumin. eGFR (mL/min/1.73 m2) = 170 x (SCr/88.4)^-0.999 x age^-0.176 x (SU x 2.78)^-0.170 x albumin^0.318 x (0.762, if female) x (1.18, if African American). (Levey AS, Greene T, Kusek JW, Beck GJ, MDRD study group. A simplified equation to predict glomerular filtration rate from serum creatinine. J Am Soc Nephrol 2000; 11: A0828.)",
+            "identifier": "C161345",
+            "notation": "MDRD 6 VARIABLE FORMULA",
+            "pref_label": "MDRD 6 Variable Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161345"
+        },
+        {
+            "alt_label": "IDMS MDRD",
+            "definition": "A formula to estimate glomerular filtration rate that takes into account age, sex, race, and serum creatinine. eGFR (mL/min/1.73 m2)=175 x (serum Cr [conv mg/dL])^-1.154 x (Age)^ -0.203 x (0.742 if female) x (1.212 if black), for conventional units. eGFR=175 x (serum Cr [SI UMOL/L]/88.4)^-1.154 x (Age)^ -0.203 x (0.742 if female) x (1.212 if black), for SI units. (Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF, 3rd, Feldman HI, et al. A new equation to estimate glomerular filtration rate. Ann Intern Med. 2009;150(9):604-12.)",
+            "identifier": "C161346",
+            "notation": "MDRD ENZYMATIC FORMULA",
+            "pref_label": "MDRD Enzymatic Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161346"
+        },
+        {
+            "definition": "A formula to estimate glomerular filtration rate in Japanese subjects that takes into account age, sex, and serum creatinine. eGFR (ml/min/1.73m2) = 194 x PD93 power^-1.094 x Age power^- 0.287 x Sex; where PD93 = Serum Cr (mg/dL), Sex = 1.00 for male and 0.739 for female. (Imai E, Horio M, Nitta K, Yamagata K, Iseki K, Tsukamoto Y, Ito S, Makino H, Hishida A, Matsuo S. Modification of the Modification of Diet in Renal Disease (MDRD) Study equation for Japan. Am J Kidney Dis. 2007 Dec;50(6):927-37.)",
+            "identifier": "C161347",
+            "notation": "MDRD ENZYMATIC JAPANESE FORMULA",
+            "pref_label": "MDRD Enzymatic Japanese Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161347"
+        },
+        {
+            "alt_label": "MDRD GFR Formula;Modification of Diet in Renal Disease Formula",
+            "definition": "An unspecified MDRD-based formula to estimate glomerular filtration rate that takes into account factors such as sex, age, race, and biomarker measurements.",
+            "identifier": "C176295",
+            "notation": "MDRD FORMULA",
+            "pref_label": "Modification of Diet in Renal Disease Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C176295"
+        },
+        {
+            "alt_label": "NASH FibroSURE Formula;NASH Test",
+            "definition": "A proprietary algorithm derived from the FibroTest liver fibrosis algorithm that is used to measure liver fibrosis, hepatic steatosis, and non-alcoholic steatohepatitis. It includes ten serum markers: alpha-2-macroglobulin, apolipoprotein A1, total bilirubin, gamma-glutamyltransferase, haptoglobin, alanine aminotransferase, aspartate aminotransferase, glucose, total cholesterol, and triglycerides, and adjusts for age, gender, height, and weight. (NCI)",
+            "identifier": "C172487",
+            "notation": "NASH FIBROSURE FORMULA",
+            "pref_label": "NASH Fibrosure Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C172487"
+        },
+        {
+            "definition": "A formula to estimate glomerular filtration rate in children that takes into account age, height, and serum creatinine. eGFR (mL/min/1.73 m2) = k x Height (cm)/Serum creatinine (mg/dL) where k=0.33 for pre-term babies, 0.45 for full-term babies and 0.55 for girls ages 1-13 or 0.70 for boys ages 1-13. (Schwartz GJ, Gauthier B. A simple estimate of glomerular filtration rate in adolescent boys. J Pediatr. 1985 Mar;106(3):522-6.)",
+            "identifier": "C161348",
+            "notation": "SCHWARTZ METHOD FOR CHILDREN FORMULA",
+            "pref_label": "Schwartz Method For Children Formula",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161348"
+        }
+    ]
+}

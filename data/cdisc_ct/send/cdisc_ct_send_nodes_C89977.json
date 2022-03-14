@@ -1,0 +1,60 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Length",
+            "definition": "The linear extent in space from one end of something to the other end, or the extent of something from beginning to end. (NCI)",
+            "identifier": "C25334",
+            "notation": "LENGTH",
+            "pref_label": "Length",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89977-C25334"
+        },
+        {
+            "alt_label": "Organ to Brain Weight Ratio",
+            "definition": "A numeric comparison of the weight of an organ to the weight of the brain.",
+            "identifier": "C90427",
+            "notation": "OWBR",
+            "pref_label": "Organ to Brain Weight Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89977-C90427"
+        },
+        {
+            "alt_label": "Organ to Body Weight Ratio",
+            "definition": "A numeric comparison of the weight of an organ to body weight.",
+            "identifier": "C90426",
+            "notation": "OWBW",
+            "pref_label": "Organ to Body Weight Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89977-C90426"
+        },
+        {
+            "alt_label": "Organ to Heart Weight Ratio",
+            "definition": "A numeric comparison of the weight of an organ to the weight of the heart.",
+            "identifier": "C90428",
+            "notation": "OWHT",
+            "pref_label": "Organ to Heart Weight Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89977-C90428"
+        },
+        {
+            "alt_label": "Thickness",
+            "definition": "The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.",
+            "identifier": "C41145",
+            "notation": "THCKN",
+            "pref_label": "Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89977-C41145"
+        },
+        {
+            "alt_label": "Thickness, Mean",
+            "definition": "The mean number in a group of values that represent the thickness of an object.",
+            "identifier": "C120721",
+            "notation": "THCKNMN",
+            "pref_label": "Mean Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89977-C120721"
+        },
+        {
+            "alt_label": "Weight",
+            "definition": "The vertical force exerted by a mass as a result of gravity. (NCI)",
+            "identifier": "C25208",
+            "notation": "WEIGHT",
+            "pref_label": "Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89977-C25208"
+        }
+    ]
+}

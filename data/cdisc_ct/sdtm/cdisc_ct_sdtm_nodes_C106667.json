@@ -1,0 +1,372 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "HAQ01-Dress Yourself",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Dressing & Grooming: Are you able to dress yourself, including tying shoelaces and doing buttons?",
+            "identifier": "C106809",
+            "notation": "HAQ0101",
+            "pref_label": "HAQ-DI With VAS - Able to Dress Yourself",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106809"
+        },
+        {
+            "alt_label": "HAQ01-Shampoo Your Hair",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Dressing & Grooming: Are you able to shampoo your hair?",
+            "identifier": "C106810",
+            "notation": "HAQ0102",
+            "pref_label": "HAQ-DI With VAS - Able to Shampoo Hair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106810"
+        },
+        {
+            "alt_label": "HAQ01-Stand Up From a Straight Chair",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Arising: Are you able to stand up from a straight chair?",
+            "identifier": "C106811",
+            "notation": "HAQ0103",
+            "pref_label": "HAQ-DI With VAS - Able to Stand Up From Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106811"
+        },
+        {
+            "alt_label": "HAQ01-Get In and Out of Bed",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Arising: Are you able to get in and out of bed?",
+            "identifier": "C106812",
+            "notation": "HAQ0104",
+            "pref_label": "HAQ-DI With VAS - Able to Get In and Out of Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106812"
+        },
+        {
+            "alt_label": "HAQ01-Cut Your Meat",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Eating: Are you able to cut your meat?",
+            "identifier": "C106813",
+            "notation": "HAQ0105",
+            "pref_label": "HAQ-DI With VAS - Able to Cut Meat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106813"
+        },
+        {
+            "alt_label": "HAQ01-Lift a Full Cup or Glass to Mouth",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Eating: Are you able to lift a full cup or glass to your mouth?",
+            "identifier": "C106814",
+            "notation": "HAQ0106",
+            "pref_label": "HAQ-DI With VAS - Able to Lift Cup or Glass to Mouth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106814"
+        },
+        {
+            "alt_label": "HAQ01-Open a New Milk Carton",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Eating: Are you able to open a new milk carton?",
+            "identifier": "C106815",
+            "notation": "HAQ0107",
+            "pref_label": "HAQ-DI With VAS - Able to Open Milk Carton",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106815"
+        },
+        {
+            "alt_label": "HAQ01-Walk Outdoors on Flat Ground",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Walking: Are you able to walk outdoors on flat ground?",
+            "identifier": "C106816",
+            "notation": "HAQ0108",
+            "pref_label": "HAQ-DI With VAS - Able to Walk Outdoors On Flat Ground",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106816"
+        },
+        {
+            "alt_label": "HAQ01-Climb Up Five Steps",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Walking: Are you able to climb up five steps?",
+            "identifier": "C106817",
+            "notation": "HAQ0109",
+            "pref_label": "HAQ-DI With VAS - Able to Climb Up Steps",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106817"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Cane",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Cane.",
+            "identifier": "C106818",
+            "notation": "HAQ0110",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Cane",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106818"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Walker",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Walker.",
+            "identifier": "C106819",
+            "notation": "HAQ0111",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Walker",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106819"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Crutches",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Crutches.",
+            "identifier": "C106820",
+            "notation": "HAQ0112",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Crutches",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106820"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Wheelchair",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Wheelchair.",
+            "identifier": "C106821",
+            "notation": "HAQ0113",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Wheelchair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106821"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Devices Used for Dressing",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Devices used for dressing (button hook, zipper pull, long-handled shoe horn, etc.).",
+            "identifier": "C106822",
+            "notation": "HAQ0114",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Used For Dressing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106822"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Built Up or Special Utensils",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Built up or special utensils.",
+            "identifier": "C106823",
+            "notation": "HAQ0115",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Built Up or Special Utensils",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106823"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Special or Built Up Chair",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Special or built up chair.",
+            "identifier": "C106824",
+            "notation": "HAQ0116",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Special or Built Up Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106824"
+        },
+        {
+            "alt_label": "HAQ01-Othr Aid (Dress/Arising/Eat/Walk)",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Other.",
+            "identifier": "C106825",
+            "notation": "HAQ0117",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices For Dress/Arising/Eat/Walk-Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106825"
+        },
+        {
+            "alt_label": "HAQ01-Spec Aid (Dress/Arising/Eat/Walk)",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Other (specify).",
+            "identifier": "C106826",
+            "notation": "HAQ0118",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices For Dress/Arising/Eat/Walk-Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106826"
+        },
+        {
+            "alt_label": "HAQ01-Help: Dressing and Grooming",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Dressing and grooming.",
+            "identifier": "C106827",
+            "notation": "HAQ0119",
+            "pref_label": "HAQ-DI With VAS - Help From Another Person - Dressing and Grooming",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106827"
+        },
+        {
+            "alt_label": "HAQ01-Help: Arising",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Arising.",
+            "identifier": "C106828",
+            "notation": "HAQ0120",
+            "pref_label": "HAQ-DI With VAS - Help From Another Person - Arising",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106828"
+        },
+        {
+            "alt_label": "HAQ01-Help: Eating",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Eating.",
+            "identifier": "C106829",
+            "notation": "HAQ0121",
+            "pref_label": "HAQ-DI With VAS - Help From Another Person - Eating",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106829"
+        },
+        {
+            "alt_label": "HAQ01-Help: Walking",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Walking.",
+            "identifier": "C106830",
+            "notation": "HAQ0122",
+            "pref_label": "HAQ-DI With VAS - Help From Another Person - Walking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106830"
+        },
+        {
+            "alt_label": "HAQ01-Wash and Dry Your Body",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Hygiene: Are you able to wash and dry your body?",
+            "identifier": "C106831",
+            "notation": "HAQ0123",
+            "pref_label": "HAQ-DI With VAS - Able to Wash and Dry Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106831"
+        },
+        {
+            "alt_label": "HAQ01-Take a Tub Bath",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Hygiene: Are you able to take a tub bath?",
+            "identifier": "C106832",
+            "notation": "HAQ0124",
+            "pref_label": "HAQ-DI With VAS - Able to Take Tub Bath",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106832"
+        },
+        {
+            "alt_label": "HAQ01-Get On and Off The Toilet",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Hygiene: Are you able to get on and off the toilet?",
+            "identifier": "C106833",
+            "notation": "HAQ0125",
+            "pref_label": "HAQ-DI With VAS - Able to Get On and Off Toilet",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106833"
+        },
+        {
+            "alt_label": "HAQ01-Reach-Get Down 5 Lb Obj Above Head",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Reach: Are you able to reach and get down a 5 pound object (such as a bag of sugar) from just above your head?",
+            "identifier": "C106834",
+            "notation": "HAQ0126",
+            "pref_label": "HAQ-DI With VAS - Able to Reach and Get Down Object From Above Head",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106834"
+        },
+        {
+            "alt_label": "HAQ01-Bend Down Pick Up Clothing - Floor",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Reach: Are you able to bend down to pick up clothing from the floor?",
+            "identifier": "C106835",
+            "notation": "HAQ0127",
+            "pref_label": "HAQ-DI With VAS - Able to Bend Down and Pick Up Clothing From Floor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106835"
+        },
+        {
+            "alt_label": "HAQ01-Open Car Doors",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Grip: Are you able to open car doors?",
+            "identifier": "C106836",
+            "notation": "HAQ0128",
+            "pref_label": "HAQ-DI With VAS - Able to Open Car Doors",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106836"
+        },
+        {
+            "alt_label": "HAQ01-Open Jars Previously Opened",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Grip: Are you able to open jars which have been previously opened?",
+            "identifier": "C106837",
+            "notation": "HAQ0129",
+            "pref_label": "HAQ-DI With VAS - Able to Open Previously Opened Jars",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106837"
+        },
+        {
+            "alt_label": "HAQ01-Turn Faucets On And Off",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Grip: Are you able to turn faucets on and off?",
+            "identifier": "C106838",
+            "notation": "HAQ0130",
+            "pref_label": "HAQ-DI With VAS - Able to Turn Faucets On and Off",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106838"
+        },
+        {
+            "alt_label": "HAQ01-Run Errands and Shop",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Activities: Are you able to run errands and shop?",
+            "identifier": "C106839",
+            "notation": "HAQ0131",
+            "pref_label": "HAQ-DI With VAS - Able to Run Errands and Shop",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106839"
+        },
+        {
+            "alt_label": "HAQ01-Get In and Out of a Car",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Activities: Are you able to get in and out of a car?",
+            "identifier": "C106840",
+            "notation": "HAQ0132",
+            "pref_label": "HAQ-DI With VAS - Able to Get In and Out of Car",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106840"
+        },
+        {
+            "alt_label": "HAQ01-Able to Do Chores",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Activities: Are you able to do chores such as vacuuming or yardwork?",
+            "identifier": "C106841",
+            "notation": "HAQ0133",
+            "pref_label": "HAQ-DI With VAS - Able to Do Chores - Vacuuming or Yardwork",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106841"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Raised Toilet Seat",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Raised toilet seat.",
+            "identifier": "C106842",
+            "notation": "HAQ0134",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Raised Toilet Seat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106842"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Bathtub Seat",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Bathtub seat.",
+            "identifier": "C106843",
+            "notation": "HAQ0135",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Bathtub Seat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106843"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Jar Opener (Previously Open)",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Jar opener (for jars previously opened).",
+            "identifier": "C107020",
+            "notation": "HAQ0136",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Jar Opener (Jars Previously Opened)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C107020"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Bathtub Bar",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Bathtub bar.",
+            "identifier": "C106844",
+            "notation": "HAQ0137",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Bathtub Bar",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106844"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Long-Handled Appl Reach",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Long-handled appliances for reach.",
+            "identifier": "C106845",
+            "notation": "HAQ0138",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Long-Handled Appliances for Reach",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106845"
+        },
+        {
+            "alt_label": "HAQ01-Aid: Long-Handled Appl Bathroom",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Long-handled appliances in bathroom.",
+            "identifier": "C106846",
+            "notation": "HAQ0139",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices - Long-Handled Appliances in Bathroom",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106846"
+        },
+        {
+            "alt_label": "HAQ01-Othr Aid (Hygiene/Reach/Grip/Act)",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Other.",
+            "identifier": "C107093",
+            "notation": "HAQ0140",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices For Hygiene/Reach/Grip/Act-Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C107093"
+        },
+        {
+            "alt_label": "HAQ01-Spec Aid (Hygiene/Reach/Grip/Act)",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Other (specify).",
+            "identifier": "C107094",
+            "notation": "HAQ0141",
+            "pref_label": "HAQ-DI With VAS - Aids or Devices For Hygiene/Reach/Grip/Act-Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C107094"
+        },
+        {
+            "alt_label": "HAQ01-Help: Hygiene",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Hygiene.",
+            "identifier": "C106847",
+            "notation": "HAQ0142",
+            "pref_label": "HAQ-DI With VAS - Help From Another Person - Hygiene",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106847"
+        },
+        {
+            "alt_label": "HAQ01-Help: Reach",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Reach.",
+            "identifier": "C106848",
+            "notation": "HAQ0143",
+            "pref_label": "HAQ-DI With VAS - Help From Another Person - Reach",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106848"
+        },
+        {
+            "alt_label": "HAQ01-Help: Gripping and Opening Things",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Gripping and opening things.",
+            "identifier": "C106849",
+            "notation": "HAQ0144",
+            "pref_label": "HAQ-DI With VAS - Help From Another Person - Gripping and Opening Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106849"
+        },
+        {
+            "alt_label": "HAQ01-Help: Errands and Chores",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Errands and chores.",
+            "identifier": "C106850",
+            "notation": "HAQ0145",
+            "pref_label": "HAQ-DI With VAS - Help From Another Person - Errands and Chores",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106850"
+        },
+        {
+            "alt_label": "HAQ01-Severity of Pain",
+            "definition": "Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - How much pain have you had because of your illness in the past week?",
+            "identifier": "C106851",
+            "notation": "HAQ0146",
+            "pref_label": "HAQ-DI With VAS - Severity of Pain in the Past Week",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106667-C106851"
+        }
+    ]
+}

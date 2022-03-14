@@ -1,0 +1,56 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An arm describing the active comparator.",
+            "identifier": "C174267",
+            "notation": "Active Comparator Arm",
+            "pref_label": "Active Comparator Arm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174222-C174267"
+        },
+        {
+            "definition": "An arm describing the intervention or treatment plan for a group of participants in the study receiving a control. The control may comprise a non-investigational product (active control) or regimen, placebo, or no treatment.",
+            "identifier": "C174226",
+            "notation": "Control Arm",
+            "pref_label": "Control Arm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174222-C174226"
+        },
+        {
+            "alt_label": "Investigational Arm",
+            "definition": "An arm describing the intervention or treatment plan for a group of participants in the study receiving test product(s).",
+            "identifier": "C174266",
+            "notation": "Experimental Arm",
+            "pref_label": "Investigational Arm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174222-C174266"
+        },
+        {
+            "definition": "A study arm without an intervention or treatment.",
+            "identifier": "C174270",
+            "notation": "No Intervention Arm",
+            "pref_label": "No Intervention Arm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174222-C174270"
+        },
+        {
+            "alt_label": "Placebo Control Arm",
+            "definition": "An arm describing the placebo comparator.",
+            "identifier": "C174268",
+            "notation": "Placebo Comparator Arm",
+            "pref_label": "Placebo Control Arm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174222-C174268"
+        },
+        {
+            "alt_label": "Sham Intervention Arm",
+            "definition": "An arm describing the sham comparator.",
+            "identifier": "C174269",
+            "notation": "Sham Comparator Arm",
+            "pref_label": "Sham Comparator Arm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174222-C174269"
+        },
+        {
+            "definition": "An arm describing the intervention or treatment plan for a group of participants in the study. Treatment may consist of either experimental or control products under investigation.",
+            "identifier": "C15538",
+            "notation": "Treatment Arm",
+            "pref_label": "Protocol Treatment Arm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174222-C15538"
+        }
+    ]
+}

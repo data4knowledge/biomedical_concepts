@@ -1,0 +1,132 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "BPI2-Pain Other Than Everyday Kinds",
+            "definition": "Brief Pain Inventory Short Form - Have you had pain other than these everyday kinds of pain today?",
+            "identifier": "C100356",
+            "notation": "BPI201",
+            "pref_label": "BPI Short Form - Pain Other Than Everyday Kinds",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100356"
+        },
+        {
+            "alt_label": "BPI2-Areas of Pain",
+            "definition": "Brief Pain Inventory Short Form - On the diagram, shade in the areas where you feel pain.",
+            "identifier": "C100357",
+            "notation": "BPI202A",
+            "pref_label": "BPI Short Form - Areas of Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100357"
+        },
+        {
+            "alt_label": "BPI2-Area Hurts Most",
+            "definition": "Brief Pain Inventory Short Form - On the diagram, put an X on the area that hurts the most.",
+            "identifier": "C100358",
+            "notation": "BPI202B",
+            "pref_label": "BPI Short Form - Area that Hurts Most",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100358"
+        },
+        {
+            "alt_label": "BPI2-Pain at its Worst in Last 24 Hours",
+            "definition": "Brief Pain Inventory Short Form - Please rate your pain by circling the one number that best describes your pain at its worst in the last 24 hours.",
+            "identifier": "C100359",
+            "notation": "BPI203",
+            "pref_label": "BPI Short Form - Pain at its Worst in Last 24 Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100359"
+        },
+        {
+            "alt_label": "BPI2-Pain at its Least in Last 24 Hours",
+            "definition": "Brief Pain Inventory Short Form - Please rate your pain by circling the one number that best describes your pain at its least in the last 24 hours.",
+            "identifier": "C100360",
+            "notation": "BPI204",
+            "pref_label": "BPI Short Form - Pain at its Least in Last 24 Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100360"
+        },
+        {
+            "alt_label": "BPI2-Pain on the Average",
+            "definition": "Brief Pain Inventory Short Form - Please rate your pain by circling the one number that best describes your pain on the average.",
+            "identifier": "C100361",
+            "notation": "BPI205",
+            "pref_label": "BPI Short Form - Pain on the Average",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100361"
+        },
+        {
+            "alt_label": "BPI2-Pain Right Now",
+            "definition": "Brief Pain Inventory Short Form - Please rate your pain by circling the one number that tells how much pain you have right now.",
+            "identifier": "C100362",
+            "notation": "BPI206",
+            "pref_label": "BPI Short Form - Pain Right Now",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100362"
+        },
+        {
+            "alt_label": "BPI2-Treatments Receiving for Pain",
+            "definition": "Brief Pain Inventory Short Form - What treatments or medications are you receiving for your pain?",
+            "identifier": "C100363",
+            "notation": "BPI207",
+            "pref_label": "BPI Short Form - Treatments or Medications Receiving for Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100363"
+        },
+        {
+            "alt_label": "BPI2-Relief Pain Treatments Provided",
+            "definition": "Brief Pain Inventory Short Form - In the last 24 hours, how much relief have pain treatments or medications provided? Please circle the one percentage that most shows how much relief you have received.",
+            "identifier": "C100364",
+            "notation": "BPI208",
+            "pref_label": "BPI Short Form - Relief from Pain Treatments Provided",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100364"
+        },
+        {
+            "alt_label": "BPI2-Pain Interfered General Activity",
+            "definition": "Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your general activity.",
+            "identifier": "C100365",
+            "notation": "BPI209A",
+            "pref_label": "BPI Short Form - Pain Interfered with General Activity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100365"
+        },
+        {
+            "alt_label": "BPI2-Pain Interfered with Mood",
+            "definition": "Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your mood.",
+            "identifier": "C100366",
+            "notation": "BPI209B",
+            "pref_label": "BPI Short Form - Pain Interfered with Mood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100366"
+        },
+        {
+            "alt_label": "BPI2-Pain Interfered Walking Ability",
+            "definition": "Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your walking ability.",
+            "identifier": "C100367",
+            "notation": "BPI209C",
+            "pref_label": "BPI Short Form - Pain Interfered with Walking Ability",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100367"
+        },
+        {
+            "alt_label": "BPI2-Pain Interfered with Normal Work",
+            "definition": "Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your normal work.",
+            "identifier": "C100368",
+            "notation": "BPI209D",
+            "pref_label": "BPI Short Form - Pain Interfered with Normal Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100368"
+        },
+        {
+            "alt_label": "BPI2-Pain Interfered with Relations",
+            "definition": "Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your relations with other people.",
+            "identifier": "C100369",
+            "notation": "BPI209E",
+            "pref_label": "BPI Short Form - Pain Interfered with Relations",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100369"
+        },
+        {
+            "alt_label": "BPI2-Pain Interfered with Sleep",
+            "definition": "Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your sleep.",
+            "identifier": "C100370",
+            "notation": "BPI209F",
+            "pref_label": "BPI Short Form - Pain Interfered with Sleep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100370"
+        },
+        {
+            "alt_label": "BPI2-Pain Interfered Enjoyment of Life",
+            "definition": "Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your enjoyment of life.",
+            "identifier": "C100371",
+            "notation": "BPI209G",
+            "pref_label": "BPI Short Form - Pain Interfered with Enjoyment of Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100164-C100371"
+        }
+    ]
+}

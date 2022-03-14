@@ -1,0 +1,1164 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "PT01-Abdominal Pain Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have pain in the abdomen (belly area)?",
+            "identifier": "C180067",
+            "notation": "PT01-Abdominal Pain Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Abdominal Pain Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180067"
+        },
+        {
+            "alt_label": "PT01-Abdominal Pain Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did pain in the abdomen (belly area) interfere with your usual or daily activities?",
+            "identifier": "C180069",
+            "notation": "PT01-Abdominal Pain Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Abdominal Pain Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180069"
+        },
+        {
+            "alt_label": "PT01-Abdominal Pain Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your pain in the abdomen (belly area) at its worst?",
+            "identifier": "C180068",
+            "notation": "PT01-Abdominal Pain Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Abdominal Pain Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180068"
+        },
+        {
+            "alt_label": "PT01-Achieve&Maintain Erection Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your difficulty getting or keeping an erection at its worst?",
+            "identifier": "C180149",
+            "notation": "PT01-Achieve&Maintain Erection Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Achieve&Maintain Erection Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180149"
+        },
+        {
+            "alt_label": "PT01-Acne Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your acne or pimples on the face or chest at its worst?",
+            "identifier": "C180084",
+            "notation": "PT01-Acne Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Acne Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180084"
+        },
+        {
+            "alt_label": "PT01-Anxious Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you feel anxiety?",
+            "identifier": "C180128",
+            "notation": "PT01-Anxious Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Anxious Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180128"
+        },
+        {
+            "alt_label": "PT01-Anxious Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did anxiety interfere with your usual or daily activities?",
+            "identifier": "C180130",
+            "notation": "PT01-Anxious Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Anxious Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180130"
+        },
+        {
+            "alt_label": "PT01-Anxious Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your anxiety at its worst?",
+            "identifier": "C180129",
+            "notation": "PT01-Anxious Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Anxious Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180129"
+        },
+        {
+            "alt_label": "PT01-Any Other Symptoms Reported",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - Do you have any other symptoms that you wish to report?",
+            "identifier": "C180168",
+            "notation": "PT01-Any Other Symptoms Reported",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Any Other Symptoms Reported",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180168"
+        },
+        {
+            "alt_label": "PT01-Bed/Pressure Sores Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any bed sores?",
+            "identifier": "C180093",
+            "notation": "PT01-Bed/Pressure Sores Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Bed/Pressure Sores Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180093"
+        },
+        {
+            "alt_label": "PT01-Bloating Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have bloating of the abdomen (belly)?",
+            "identifier": "C180061",
+            "notation": "PT01-Bloating Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Bloating Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180061"
+        },
+        {
+            "alt_label": "PT01-Bloating Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your bloating of the abdomen (belly) at its worst?",
+            "identifier": "C180062",
+            "notation": "PT01-Bloating Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Bloating Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180062"
+        },
+        {
+            "alt_label": "PT01-Blurred Vision Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did blurry vision interfere with your usual or daily activities?",
+            "identifier": "C180102",
+            "notation": "PT01-Blurred Vision Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Blurred Vision Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180102"
+        },
+        {
+            "alt_label": "PT01-Blurred Vision Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your blurry vision at its worst?",
+            "identifier": "C180101",
+            "notation": "PT01-Blurred Vision Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Blurred Vision Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180101"
+        },
+        {
+            "alt_label": "PT01-Body Odor Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your body odor at its worst?",
+            "identifier": "C180167",
+            "notation": "PT01-Body Odor Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Body Odor Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180167"
+        },
+        {
+            "alt_label": "PT01-Breast Swelling&Tenderness Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your breast area enlargement or tenderness at its worst?",
+            "identifier": "C180155",
+            "notation": "PT01-Breast Swelling&Tenderness Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Breast Swelling&Tenderness Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180155"
+        },
+        {
+            "alt_label": "PT01-Bruising Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you bruise easily (black and blue marks)?",
+            "identifier": "C180156",
+            "notation": "PT01-Bruising Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Bruising Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180156"
+        },
+        {
+            "alt_label": "PT01-Chills Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have shivering or shaking chills?",
+            "identifier": "C180157",
+            "notation": "PT01-Chills Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Chills Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180157"
+        },
+        {
+            "alt_label": "PT01-Chills Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your shivering or shaking chills at their worst?",
+            "identifier": "C180158",
+            "notation": "PT01-Chills Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Chills Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180158"
+        },
+        {
+            "alt_label": "PT01-Concentration Problems Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did problems with concentration interfere with your usual or daily activities?",
+            "identifier": "C180109",
+            "notation": "PT01-Concentration Problems Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Concentration Problems Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180109"
+        },
+        {
+            "alt_label": "PT01-Concentration Problems Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your problems with concentration at their worst?",
+            "identifier": "C180108",
+            "notation": "PT01-Concentration Problems Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Concentration Problems Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180108"
+        },
+        {
+            "alt_label": "PT01-Constipation Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your constipation at its worst?",
+            "identifier": "C180065",
+            "notation": "PT01-Constipation Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Constipation Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180065"
+        },
+        {
+            "alt_label": "PT01-Cough Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did cough interfere with your usual or daily activities?",
+            "identifier": "C180075",
+            "notation": "PT01-Cough Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Cough Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180075"
+        },
+        {
+            "alt_label": "PT01-Cough Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your cough at its worst?",
+            "identifier": "C180074",
+            "notation": "PT01-Cough Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Cough Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180074"
+        },
+        {
+            "alt_label": "PT01-Cracking Corners of Mouth Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of skin cracking at the corners of your mouth at its worst?",
+            "identifier": "C180048",
+            "notation": "PT01-Cracking Corners of Mouth Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Cracking Corners of Mouth Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180048"
+        },
+        {
+            "alt_label": "PT01-Decreased Appetite Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did decreased appetite interfere with your usual or daily activities?",
+            "identifier": "C180053",
+            "notation": "PT01-Decreased Appetite Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Decreased Appetite Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180053"
+        },
+        {
+            "alt_label": "PT01-Decreased Appetite Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your decreased appetite at its worst?",
+            "identifier": "C180052",
+            "notation": "PT01-Decreased Appetite Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Decreased Appetite Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180052"
+        },
+        {
+            "alt_label": "PT01-Decreased Libido Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your decreased sexual interest at its worst?",
+            "identifier": "C180151",
+            "notation": "PT01-Decreased Libido Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Decreased Libido Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180151"
+        },
+        {
+            "alt_label": "PT01-Decreased Sweating Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have an unexpected decrease in sweating?",
+            "identifier": "C180161",
+            "notation": "PT01-Decreased Sweating Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Decreased Sweating Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180161"
+        },
+        {
+            "alt_label": "PT01-Delayed Orgasm Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you feel that it took too long to have an orgasm or climax?",
+            "identifier": "C180152",
+            "notation": "PT01-Delayed Orgasm Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Delayed Orgasm Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180152"
+        },
+        {
+            "alt_label": "PT01-Diarrhea Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have loose or watery stools (diarrhea/diarrhoea)?",
+            "identifier": "C180066",
+            "notation": "PT01-Diarrhea Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Diarrhea Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180066"
+        },
+        {
+            "alt_label": "PT01-Difficulty Swallowing Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your difficulty swallowing at its worst?",
+            "identifier": "C180045",
+            "notation": "PT01-Difficulty Swallowing Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Difficulty Swallowing Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180045"
+        },
+        {
+            "alt_label": "PT01-Discouraged Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you feel that nothing could cheer you up?",
+            "identifier": "C180131",
+            "notation": "PT01-Discouraged Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Discouraged Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180131"
+        },
+        {
+            "alt_label": "PT01-Discouraged Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did feeling that nothing could cheer you up interfere with your usual or daily activities?",
+            "identifier": "C180133",
+            "notation": "PT01-Discouraged Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Discouraged Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180133"
+        },
+        {
+            "alt_label": "PT01-Discouraged Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your feelings that nothing could cheer you up at their worst?",
+            "identifier": "C180132",
+            "notation": "PT01-Discouraged Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Discouraged Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180132"
+        },
+        {
+            "alt_label": "PT01-Dizziness Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did dizziness interfere with your usual or daily activities?",
+            "identifier": "C180100",
+            "notation": "PT01-Dizziness Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Dizziness Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180100"
+        },
+        {
+            "alt_label": "PT01-Dizziness Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your dizziness at its worst?",
+            "identifier": "C180099",
+            "notation": "PT01-Dizziness Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Dizziness Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180099"
+        },
+        {
+            "alt_label": "PT01-Dry Mouth Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your dry mouth at its worst?",
+            "identifier": "C180044",
+            "notation": "PT01-Dry Mouth Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Dry Mouth Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180044"
+        },
+        {
+            "alt_label": "PT01-Ejaculation Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have ejaculation problems?",
+            "identifier": "C180150",
+            "notation": "PT01-Ejaculation Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Ejaculation Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180150"
+        },
+        {
+            "alt_label": "PT01-Fatigue Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did fatigue, tiredness, or lack of energy interfere with your usual or daily activities?",
+            "identifier": "C180127",
+            "notation": "PT01-Fatigue Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Fatigue Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180127"
+        },
+        {
+            "alt_label": "PT01-Fatigue Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your fatigue, tiredness, or lack of energy at its worst?",
+            "identifier": "C180126",
+            "notation": "PT01-Fatigue Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Fatigue Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180126"
+        },
+        {
+            "alt_label": "PT01-Fecal Incontinence Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you lose control of bowel movements?",
+            "identifier": "C180070",
+            "notation": "PT01-Fecal Incontinence Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Fecal Incontinence Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180070"
+        },
+        {
+            "alt_label": "PT01-Fecal Incontinence Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did loss of control of bowel movements interfere with your usual or daily activities?",
+            "identifier": "C180071",
+            "notation": "PT01-Fecal Incontinence Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Fecal Incontinence Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180071"
+        },
+        {
+            "alt_label": "PT01-Flashing Lights in Eyes Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any flashing lights in front of your eyes?",
+            "identifier": "C180103",
+            "notation": "PT01-Flashing Lights in Eyes Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Flashing Lights in Eyes Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180103"
+        },
+        {
+            "alt_label": "PT01-Gas Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any increased passing of gas (flatulence)?",
+            "identifier": "C180060",
+            "notation": "PT01-Gas Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Gas Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180060"
+        },
+        {
+            "alt_label": "PT01-General Pain Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have pain?",
+            "identifier": "C180112",
+            "notation": "PT01-General Pain Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - General Pain Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180112"
+        },
+        {
+            "alt_label": "PT01-General Pain Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did pain interfere with your usual or daily activities?",
+            "identifier": "C180114",
+            "notation": "PT01-General Pain Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - General Pain Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180114"
+        },
+        {
+            "alt_label": "PT01-General Pain Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your pain at its worst?",
+            "identifier": "C180113",
+            "notation": "PT01-General Pain Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - General Pain Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180113"
+        },
+        {
+            "alt_label": "PT01-Hair Loss Amount",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any hair loss?",
+            "identifier": "C180085",
+            "notation": "PT01-Hair Loss Amount",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Hair Loss Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180085"
+        },
+        {
+            "alt_label": "PT01-Hand-Foot Syndrome Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your hand-foot syndrome (a rash of the hands or feet that can cause cracking, peeling, redness or pain) at its worst?",
+            "identifier": "C180088",
+            "notation": "PT01-Hand-Foot Syndrome Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Hand-Foot Syndrome Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180088"
+        },
+        {
+            "alt_label": "PT01-Headache Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have a headache?",
+            "identifier": "C180115",
+            "notation": "PT01-Headache Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Headache Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180115"
+        },
+        {
+            "alt_label": "PT01-Headache Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did your headache interfere with your usual or daily activities?",
+            "identifier": "C180117",
+            "notation": "PT01-Headache Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Headache Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180117"
+        },
+        {
+            "alt_label": "PT01-Headache Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your headache at its worst?",
+            "identifier": "C180116",
+            "notation": "PT01-Headache Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Headache Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180116"
+        },
+        {
+            "alt_label": "PT01-Heart Palpitations Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you feel a pounding or racing heartbeat (palpitations)?",
+            "identifier": "C180080",
+            "notation": "PT01-Heart Palpitations Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Heart Palpitations Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180080"
+        },
+        {
+            "alt_label": "PT01-Heart Palpitations Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your pounding or racing heartbeat (palpitations) at its worst?",
+            "identifier": "C180081",
+            "notation": "PT01-Heart Palpitations Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Heart Palpitations Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180081"
+        },
+        {
+            "alt_label": "PT01-Heartburn Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have heartburn?",
+            "identifier": "C180058",
+            "notation": "PT01-Heartburn Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Heartburn Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180058"
+        },
+        {
+            "alt_label": "PT01-Heartburn Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your heartburn at its worst?",
+            "identifier": "C180059",
+            "notation": "PT01-Heartburn Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Heartburn Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180059"
+        },
+        {
+            "alt_label": "PT01-Hiccups Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have hiccups?",
+            "identifier": "C180063",
+            "notation": "PT01-Hiccups Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Hiccups Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180063"
+        },
+        {
+            "alt_label": "PT01-Hiccups Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your hiccups at their worst?",
+            "identifier": "C180064",
+            "notation": "PT01-Hiccups Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Hiccups Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180064"
+        },
+        {
+            "alt_label": "PT01-Hives Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any hives (itchy red bumps on the skin)?",
+            "identifier": "C180087",
+            "notation": "PT01-Hives Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Hives Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180087"
+        },
+        {
+            "alt_label": "PT01-Hoarseness Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your hoarse voice at its worst?",
+            "identifier": "C180050",
+            "notation": "PT01-Hoarseness Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Hoarseness Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180050"
+        },
+        {
+            "alt_label": "PT01-Hot Flashes Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have hot flashes/flushes?",
+            "identifier": "C180162",
+            "notation": "PT01-Hot Flashes Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Hot Flashes Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180162"
+        },
+        {
+            "alt_label": "PT01-Hot Flashes Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your hot flashes/flushes at their worst?",
+            "identifier": "C180163",
+            "notation": "PT01-Hot Flashes Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Hot Flashes Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180163"
+        },
+        {
+            "alt_label": "PT01-Increased Sweating Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have unexpected or excessive sweating during the day or nighttime (not related to hot flashes/flushes)?",
+            "identifier": "C180159",
+            "notation": "PT01-Increased Sweating Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Increased Sweating Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180159"
+        },
+        {
+            "alt_label": "PT01-Increased Sweating Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your unexpected or excessive sweating during the day or nighttime (not related to hot flashes/flushes) at its worst?",
+            "identifier": "C180160",
+            "notation": "PT01-Increased Sweating Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Increased Sweating Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180160"
+        },
+        {
+            "alt_label": "PT01-Insomnia Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did insomnia (including difficulty falling asleep, staying asleep, or waking up early) interfere with your usual or daily activities?",
+            "identifier": "C180125",
+            "notation": "PT01-Insomnia Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Insomnia Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180125"
+        },
+        {
+            "alt_label": "PT01-Insomnia Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your insomnia (including difficulty falling asleep, staying asleep, or waking up early) at its worst?",
+            "identifier": "C180124",
+            "notation": "PT01-Insomnia Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Insomnia Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180124"
+        },
+        {
+            "alt_label": "PT01-Irregular Menstrual Period Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any irregular menstrual periods?",
+            "identifier": "C180137",
+            "notation": "PT01-Irregular Menstrual Period Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Irregular Menstrual Period Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180137"
+        },
+        {
+            "alt_label": "PT01-Itching Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your itchy skin at its worst?",
+            "identifier": "C180086",
+            "notation": "PT01-Itching Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Itching Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180086"
+        },
+        {
+            "alt_label": "PT01-Joint Pain Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have aching joints (such as elbows, knees, shoulders)?",
+            "identifier": "C180121",
+            "notation": "PT01-Joint Pain Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Joint Pain Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180121"
+        },
+        {
+            "alt_label": "PT01-Joint Pain Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did aching joints (such as elbows, knees, shoulders) interfere with your usual or daily activities?",
+            "identifier": "C180123",
+            "notation": "PT01-Joint Pain Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Joint Pain Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180123"
+        },
+        {
+            "alt_label": "PT01-Joint Pain Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your aching joints (such as elbows, knees, shoulders) at their worst?",
+            "identifier": "C180122",
+            "notation": "PT01-Joint Pain Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Joint Pain Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180122"
+        },
+        {
+            "alt_label": "PT01-Memory Problems Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did problems with memory interfere with your usual or daily activities?",
+            "identifier": "C180111",
+            "notation": "PT01-Memory Problems Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Memory Problems Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180111"
+        },
+        {
+            "alt_label": "PT01-Memory Problems Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your problems with memory at their worst?",
+            "identifier": "C180110",
+            "notation": "PT01-Memory Problems Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Memory Problems Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180110"
+        },
+        {
+            "alt_label": "PT01-Missed Menstrual Period Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you miss an expected menstrual period?",
+            "identifier": "C180138",
+            "notation": "PT01-Missed Menstrual Period Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Missed Menstrual Period Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180138"
+        },
+        {
+            "alt_label": "PT01-Mouth/Throat Sores Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did mouth or throat sores interfere with your usual or daily activities?",
+            "identifier": "C180047",
+            "notation": "PT01-Mouth/Throat Sores Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Mouth/Throat Sores Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180047"
+        },
+        {
+            "alt_label": "PT01-Mouth/Throat Sores Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your mouth or throat sores at their worst?",
+            "identifier": "C180046",
+            "notation": "PT01-Mouth/Throat Sores Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Mouth/Throat Sores Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180046"
+        },
+        {
+            "alt_label": "PT01-Muscle Pain Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have aching muscles?",
+            "identifier": "C180118",
+            "notation": "PT01-Muscle Pain Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Muscle Pain Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180118"
+        },
+        {
+            "alt_label": "PT01-Muscle Pain Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did aching muscles interfere with your usual or daily activities?",
+            "identifier": "C180120",
+            "notation": "PT01-Muscle Pain Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Muscle Pain Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180120"
+        },
+        {
+            "alt_label": "PT01-Muscle Pain Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your aching muscles at their worst?",
+            "identifier": "C180119",
+            "notation": "PT01-Muscle Pain Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Muscle Pain Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180119"
+        },
+        {
+            "alt_label": "PT01-Nail Discoloration Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any change in the color of your fingernails or toenails?",
+            "identifier": "C180091",
+            "notation": "PT01-Nail Discoloration Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Nail Discoloration Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180091"
+        },
+        {
+            "alt_label": "PT01-Nail Loss Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you lose any fingernails or toenails?",
+            "identifier": "C180089",
+            "notation": "PT01-Nail Loss Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Nail Loss Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180089"
+        },
+        {
+            "alt_label": "PT01-Nail Ridging Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any ridges or bumps on your fingernails or toenails?",
+            "identifier": "C180090",
+            "notation": "PT01-Nail Ridging Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Nail Ridging Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180090"
+        },
+        {
+            "alt_label": "PT01-Nausea Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have nausea?",
+            "identifier": "C180054",
+            "notation": "PT01-Nausea Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Nausea Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180054"
+        },
+        {
+            "alt_label": "PT01-Nausea Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your nausea at its worst?",
+            "identifier": "C180055",
+            "notation": "PT01-Nausea Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Nausea Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180055"
+        },
+        {
+            "alt_label": "PT01-Nosebleed Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have nosebleeds?",
+            "identifier": "C180164",
+            "notation": "PT01-Nosebleed Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Nosebleed Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180164"
+        },
+        {
+            "alt_label": "PT01-Nosebleed Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your nosebleeds at their worst?",
+            "identifier": "C180165",
+            "notation": "PT01-Nosebleed Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Nosebleed Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180165"
+        },
+        {
+            "alt_label": "PT01-Numbness & Tingling Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did numbness or tingling in your hands or feet interfere with your usual or daily activities?",
+            "identifier": "C180098",
+            "notation": "PT01-Numbness & Tingling Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Numbness & Tingling Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180098"
+        },
+        {
+            "alt_label": "PT01-Numbness & Tingling Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your numbness or tingling in your hands or feet at its worst?",
+            "identifier": "C180097",
+            "notation": "PT01-Numbness & Tingling Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Numbness & Tingling Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180097"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 1 Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of this symptom 1 at its worst?",
+            "identifier": "C180170",
+            "notation": "PT01-Other Symptom 1 Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 1 Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180170"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 1",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - Other symptom term 1?",
+            "identifier": "C180169",
+            "notation": "PT01-Other Symptom 1",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 1",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180169"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 10 Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of this symptom 10 at its worst?",
+            "identifier": "C180188",
+            "notation": "PT01-Other Symptom 10 Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 10 Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180188"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 10",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - Other symptom term 10?",
+            "identifier": "C180187",
+            "notation": "PT01-Other Symptom 10",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 10",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180187"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 2 Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of this symptom 2 at its worst?",
+            "identifier": "C180172",
+            "notation": "PT01-Other Symptom 2 Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 2 Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180172"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 2",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - Other symptom term 2?",
+            "identifier": "C180171",
+            "notation": "PT01-Other Symptom 2",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180171"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 3 Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of this symptom 3 at its worst?",
+            "identifier": "C180174",
+            "notation": "PT01-Other Symptom 3 Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 3 Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180174"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 3",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - Other symptom term 3?",
+            "identifier": "C180173",
+            "notation": "PT01-Other Symptom 3",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 3",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180173"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 4 Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of this symptom 4 at its worst?",
+            "identifier": "C180176",
+            "notation": "PT01-Other Symptom 4 Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 4 Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180176"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 4",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - Other symptom term 4?",
+            "identifier": "C180175",
+            "notation": "PT01-Other Symptom 4",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 4",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180175"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 5 Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of this symptom 5 at its worst?",
+            "identifier": "C180178",
+            "notation": "PT01-Other Symptom 5 Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 5 Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180178"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 5",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - Other symptom term 5?",
+            "identifier": "C180177",
+            "notation": "PT01-Other Symptom 5",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 5",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180177"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 6 Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of this symptom 6 at its worst?",
+            "identifier": "C180180",
+            "notation": "PT01-Other Symptom 6 Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 6 Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180180"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 6",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - Other symptom term 6?",
+            "identifier": "C180179",
+            "notation": "PT01-Other Symptom 6",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 6",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180179"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 7 Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of this symptom 7 at its worst?",
+            "identifier": "C180182",
+            "notation": "PT01-Other Symptom 7 Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 7 Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180182"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 7",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - Other symptom term 7?",
+            "identifier": "C180181",
+            "notation": "PT01-Other Symptom 7",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 7",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180181"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 8 Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of this symptom 8 at its worst?",
+            "identifier": "C180184",
+            "notation": "PT01-Other Symptom 8 Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 8 Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180184"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 8",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - Other symptom term 8?",
+            "identifier": "C180183",
+            "notation": "PT01-Other Symptom 8",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 8",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180183"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 9 Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of this symptom 9 at its worst?",
+            "identifier": "C180186",
+            "notation": "PT01-Other Symptom 9 Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 9 Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180186"
+        },
+        {
+            "alt_label": "PT01-Other Symptom 9",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - Other symptom term 9?",
+            "identifier": "C180185",
+            "notation": "PT01-Other Symptom 9",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Other Symptom 9",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180185"
+        },
+        {
+            "alt_label": "PT01-Pain w/Sexual Intercourse Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your pain during vaginal sex at its worst?",
+            "identifier": "C180154",
+            "notation": "PT01-Pain w/Sexual Intercourse Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Pain w/Sexual Intercourse Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180154"
+        },
+        {
+            "alt_label": "PT01-Pain&Swelling at Inj Site Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any pain, swelling, or redness at a site of drug injection or IV?",
+            "identifier": "C180166",
+            "notation": "PT01-Pain&Swelling at Inj Site Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Pain&Swelling at Inj Site Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180166"
+        },
+        {
+            "alt_label": "PT01-Painful Urination Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your pain or burning with urination at its worst?",
+            "identifier": "C180141",
+            "notation": "PT01-Painful Urination Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Painful Urination Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180141"
+        },
+        {
+            "alt_label": "PT01-Radiation Skin Reaction Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your skin burns from radiation at their worst?",
+            "identifier": "C180094",
+            "notation": "PT01-Radiation Skin Reaction Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Radiation Skin Reaction Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180094"
+        },
+        {
+            "alt_label": "PT01-Rash Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any rash?",
+            "identifier": "C180082",
+            "notation": "PT01-Rash Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Rash Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180082"
+        },
+        {
+            "alt_label": "PT01-Ringing in Ears Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of ringing in your ears at its worst?",
+            "identifier": "C180107",
+            "notation": "PT01-Ringing in Ears Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Ringing in Ears Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180107"
+        },
+        {
+            "alt_label": "PT01-Sad Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have sad or unhappy feelings?",
+            "identifier": "C180134",
+            "notation": "PT01-Sad Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Sad Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180134"
+        },
+        {
+            "alt_label": "PT01-Sad Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did sad or unhappy feelings interfere with your usual or daily activities?",
+            "identifier": "C180136",
+            "notation": "PT01-Sad Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Sad Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180136"
+        },
+        {
+            "alt_label": "PT01-Sad Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your sad or unhappy feelings at their worst?",
+            "identifier": "C180135",
+            "notation": "PT01-Sad Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Sad Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180135"
+        },
+        {
+            "alt_label": "PT01-Sensitivity to Sunlight Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any increased skin sensitivity to sunlight?",
+            "identifier": "C180092",
+            "notation": "PT01-Sensitivity to Sunlight Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Sensitivity to Sunlight Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180092"
+        },
+        {
+            "alt_label": "PT01-Shortness of Breath Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did your shortness of breath interfere with your usual or daily activities?",
+            "identifier": "C180073",
+            "notation": "PT01-Shortness of Breath Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Shortness of Breath Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180073"
+        },
+        {
+            "alt_label": "PT01-Shortness of Breath Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your shortness of breath at its worst?",
+            "identifier": "C180072",
+            "notation": "PT01-Shortness of Breath Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Shortness of Breath Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180072"
+        },
+        {
+            "alt_label": "PT01-Skin Darkening Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any unusual darkening of the skin?",
+            "identifier": "C180095",
+            "notation": "PT01-Skin Darkening Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Skin Darkening Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180095"
+        },
+        {
+            "alt_label": "PT01-Skin Dryness Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your dry skin at its worst?",
+            "identifier": "C180083",
+            "notation": "PT01-Skin Dryness Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Skin Dryness Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180083"
+        },
+        {
+            "alt_label": "PT01-Stretch Marks Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any stretch marks?",
+            "identifier": "C180096",
+            "notation": "PT01-Stretch Marks Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Stretch Marks Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180096"
+        },
+        {
+            "alt_label": "PT01-Swelling Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have arm or leg swelling?",
+            "identifier": "C180077",
+            "notation": "PT01-Swelling Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Swelling Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180077"
+        },
+        {
+            "alt_label": "PT01-Swelling Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did arm or leg swelling interfere with your usual or daily activities?",
+            "identifier": "C180079",
+            "notation": "PT01-Swelling Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Swelling Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180079"
+        },
+        {
+            "alt_label": "PT01-Swelling Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your arm or leg swelling at its worst?",
+            "identifier": "C180078",
+            "notation": "PT01-Swelling Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Swelling Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180078"
+        },
+        {
+            "alt_label": "PT01-Taste Changes Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your problems with tasting food or drink at their worst?",
+            "identifier": "C180051",
+            "notation": "PT01-Taste Changes Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Taste Changes Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180051"
+        },
+        {
+            "alt_label": "PT01-Unable to Have Orgasm Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, were you unable to have an orgasm or climax?",
+            "identifier": "C180153",
+            "notation": "PT01-Unable to Have Orgasm Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Unable to Have Orgasm Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180153"
+        },
+        {
+            "alt_label": "PT01-Urinary Frequency Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, were there times when you had to urinate frequently?",
+            "identifier": "C180144",
+            "notation": "PT01-Urinary Frequency Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Urinary Frequency Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180144"
+        },
+        {
+            "alt_label": "PT01-Urinary Frequency Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did frequent urination interfere with your usual or daily activities?",
+            "identifier": "C180145",
+            "notation": "PT01-Urinary Frequency Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Urinary Frequency Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180145"
+        },
+        {
+            "alt_label": "PT01-Urinary Incontinence Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have loss of control of urine (leakage)?",
+            "identifier": "C180147",
+            "notation": "PT01-Urinary Incontinence Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Urinary Incontinence Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180147"
+        },
+        {
+            "alt_label": "PT01-Urinary Incontinence Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did loss of control of urine (leakage) interfere with your usual or daily activities?",
+            "identifier": "C180148",
+            "notation": "PT01-Urinary Incontinence Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Urinary Incontinence Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180148"
+        },
+        {
+            "alt_label": "PT01-Urinary Urgency Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you feel an urge to urinate all of a sudden?",
+            "identifier": "C180142",
+            "notation": "PT01-Urinary Urgency Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Urinary Urgency Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180142"
+        },
+        {
+            "alt_label": "PT01-Urinary Urgency Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did sudden urges to urinate interfere with your usual or daily activities?",
+            "identifier": "C180143",
+            "notation": "PT01-Urinary Urgency Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Urinary Urgency Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180143"
+        },
+        {
+            "alt_label": "PT01-Urine Color Change Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any urine color change?",
+            "identifier": "C180146",
+            "notation": "PT01-Urine Color Change Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Urine Color Change Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180146"
+        },
+        {
+            "alt_label": "PT01-Vaginal Discharge Amount",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any unusual vaginal discharge?",
+            "identifier": "C180139",
+            "notation": "PT01-Vaginal Discharge Amount",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Vaginal Discharge Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180139"
+        },
+        {
+            "alt_label": "PT01-Vaginal Dryness Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your vaginal dryness at its worst?",
+            "identifier": "C180140",
+            "notation": "PT01-Vaginal Dryness Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Vaginal Dryness Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180140"
+        },
+        {
+            "alt_label": "PT01-Visual Floaters Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any spots or lines (floaters) that drift in front of your eyes?",
+            "identifier": "C180104",
+            "notation": "PT01-Visual Floaters Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Visual Floaters Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180104"
+        },
+        {
+            "alt_label": "PT01-Voice Quality Changes Presence",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, did you have any voice changes?",
+            "identifier": "C180049",
+            "notation": "PT01-Voice Quality Changes Presence",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Voice Quality Changes Presence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180049"
+        },
+        {
+            "alt_label": "PT01-Vomiting Frequency",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how often did you have vomiting?",
+            "identifier": "C180056",
+            "notation": "PT01-Vomiting Frequency",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Vomiting Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180056"
+        },
+        {
+            "alt_label": "PT01-Vomiting Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your vomiting at its worst?",
+            "identifier": "C180057",
+            "notation": "PT01-Vomiting Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Vomiting Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180057"
+        },
+        {
+            "alt_label": "PT01-Watery Eyes Interference",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, how much did watery eyes (tearing) interfere with your usual or daily activities?",
+            "identifier": "C180106",
+            "notation": "PT01-Watery Eyes Interference",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Watery Eyes Interference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180106"
+        },
+        {
+            "alt_label": "PT01-Watery Eyes Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your watery eyes (tearing) at their worst?",
+            "identifier": "C180105",
+            "notation": "PT01-Watery Eyes Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Watery Eyes Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180105"
+        },
+        {
+            "alt_label": "PT01-Wheezing Severity",
+            "definition": "Patient-Reported Outcomes Version of the Common Terminology Criteria for Adverse Events Item Library Version 1.0 Version Date 4/26/2020 - In the last 7 days, what was the severity of your wheezing (whistling noise in the chest with breathing) at its worst?",
+            "identifier": "C180076",
+            "notation": "PT01-Wheezing Severity",
+            "pref_label": "PRO-CTCAE V1.0 Version Date 4/26/2020 - Wheezing Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179941-C180076"
+        }
+    ]
+}

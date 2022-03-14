@@ -1,0 +1,19 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Any component of a study product intended to exert pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment, or prevention of disease, or to affect the structure or any function of the body of humans or other animals. (After 21 CFR 210.3(b)(7))",
+            "identifier": "C82533",
+            "notation": "Active Ingredient",
+            "pref_label": "Active Ingredient",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177907-C82533"
+        },
+        {
+            "alt_label": "Inert Ingredient",
+            "definition": "Any component of a study product other than an active ingredient. (After FDA 21 CFR 210.3(b)(8))",
+            "identifier": "C42637",
+            "notation": "Inactive Ingredient",
+            "pref_label": "Pharmaceutical Excipient",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177907-C42637"
+        }
+    ]
+}

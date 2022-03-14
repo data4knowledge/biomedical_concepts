@@ -1,0 +1,94 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "aer",
+            "definition": "A product that is packaged under pressure and contains therapeutically active ingredients that are released upon activation of an appropriate valve system; it is intended for topical application to the skin as well as local application into the nose (nasal aerosols), mouth (lingual aerosols), or lungs (inhalation aerosols).",
+            "identifier": "C42887",
+            "notation": "AEROSOL",
+            "pref_label": "Aerosol Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C42887"
+        },
+        {
+            "alt_label": "cap",
+            "definition": "A solid pharmaceutical dosage form that contains medicinal agent within either a hard or soft soluble container or shell, usually used for the oral administration of medicine. The shells are made of a suitable form of gelatin or other substance. (NCI)",
+            "identifier": "C25158",
+            "notation": "CAPSULE",
+            "pref_label": "Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C25158"
+        },
+        {
+            "definition": "A semisolid emulsion of either the oil-in-water or the water-in-oil type, ordinarily intended for topical use. (NCI)",
+            "identifier": "C28944",
+            "notation": "CREAM",
+            "pref_label": "Cream Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C28944"
+        },
+        {
+            "definition": "Any elastic aeriform fluid in which the molecules are separated from one another and have free paths. (NCI)",
+            "identifier": "C42933",
+            "notation": "GAS",
+            "pref_label": "Gas Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C42933"
+        },
+        {
+            "definition": "A semisolid (1) dosage form that contains a gelling agent to provide stiffness to a solution or a colloidal dispersion (2). A gel may contain suspended particles. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: A colloidal dispersion is a system in which particles of colloidal dimension (i.e., typically between 1 nm and 1 micrometer) are distributed uniformly throughout a liquid.",
+            "identifier": "C42934",
+            "notation": "GEL",
+            "pref_label": "Gel Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C42934"
+        },
+        {
+            "alt_label": "oint",
+            "definition": "A suspension or emulsion, semisolid (1) dosage form, usually containing less than 20 percent water and volatiles (2) and greater than 50 percent hydrocarbons, waxes, or polyols as the vehicle. This dosage form is generally for external application to the skin or mucous membranes. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: Percent water and volatiles are measured by a loss on drying test in which the sample is heated at 105 degrees C until constant weight is achieved.",
+            "identifier": "C42966",
+            "notation": "OINTMENT",
+            "pref_label": "Ointment Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C42966"
+        },
+        {
+            "definition": "A drug delivery system that often contains an adhesive backing that is usually applied to an external site on the body. Its ingredients either passively diffuse from, or are actively transported from, some portion of the patch. Depending upon the patch, the ingredients are either delivered to the outer surface of the body or into the body. A patch is sometimes synonymous with the terms Extended Release Film and System.",
+            "identifier": "C42968",
+            "notation": "PATCH",
+            "pref_label": "Patch Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C42968"
+        },
+        {
+            "definition": "An intimate mixture of dry, finely divided drugs and/or chemicals that may be intended for internal or external use. (NCI)",
+            "identifier": "C42972",
+            "notation": "POWDER",
+            "pref_label": "Powder Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C42972"
+        },
+        {
+            "definition": "A liquid minutely divided as by a jet of air or steam. (NCI)",
+            "identifier": "C42989",
+            "notation": "SPRAY",
+            "pref_label": "Spray Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C42989"
+        },
+        {
+            "alt_label": "supp",
+            "definition": "A solid body of various weights and shapes, adapted for introduction into the rectal, vaginal, or urethral orifice of the human body; they usually melt, soften, or dissolve at body temperature.",
+            "identifier": "C42993",
+            "notation": "SUPPOSITORY",
+            "pref_label": "Suppository Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C42993"
+        },
+        {
+            "alt_label": "Ready to Use Suspension;susp",
+            "definition": "A liquid dosage form that contains solid particles dispersed in a liquid vehicle. Note: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior.",
+            "identifier": "C42994",
+            "notation": "SUSPENSION",
+            "pref_label": "Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C42994"
+        },
+        {
+            "alt_label": "tab",
+            "definition": "A solid dosage form containing medicinal substances with or without suitable diluents. (NCI)",
+            "identifier": "C42998",
+            "notation": "TABLET",
+            "pref_label": "Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78418-C42998"
+        }
+    ]
+}

@@ -1,0 +1,317 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "FDA RPS Pharmacokinetics: Absorption",
+            "definition": "The branch of pharmacokinetics that studies the process by which a drug is absorbed by the body.",
+            "identifier": "C79369",
+            "notation": "ABSORPTION",
+            "pref_label": "Pharmacokinetics: Absorption",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79369"
+        },
+        {
+            "alt_label": "Absorption, Distribution, Metabolism and Excretion",
+            "definition": "A study that is designed to investigate the absorption, distribution, metabolism and excretion of a drug.",
+            "identifier": "C15967",
+            "notation": "ADME",
+            "pref_label": "ADME Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C15967"
+        },
+        {
+            "alt_label": "FDA RPS Analytical Methods And Validation Reports",
+            "definition": "An indication or description of the process by which the truth of something is tested or found.",
+            "identifier": "C79368",
+            "notation": "ANALYTICAL METHODS AND VALIDATION REPORTS",
+            "pref_label": "Analytical Methods and Validation Reports",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79368"
+        },
+        {
+            "alt_label": "FDA RPS Other Toxicity Studies: Antigenicity",
+            "definition": "A toxicity study that assesses the ability of a substance to induce an antigenic response in an animal.",
+            "identifier": "C79391",
+            "notation": "ANTIGENICITY",
+            "pref_label": "Other Toxicity Studies: Antigenicity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79391"
+        },
+        {
+            "definition": "A study of the degree to which or rate at which a drug or other substance is absorbed or becomes available at the site of physiological activity after administration. (NCI)",
+            "identifier": "C49664",
+            "notation": "BIOAVAILABILITY",
+            "pref_label": "Bioavailability Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C49664"
+        },
+        {
+            "alt_label": "FDA RPS Toxicology: Carcinogenicity",
+            "definition": "A study that assesses the toxic effects of a compound in animals after repeated administrations with particular emphasis on determining the carcinogenicity of the compound.",
+            "identifier": "C79380",
+            "notation": "CARCINOGENICITY",
+            "pref_label": "Toxicology: Carcinogenicity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79380"
+        },
+        {
+            "definition": "The study of the effects of drugs upon the heart or circulatory system.",
+            "identifier": "C18079",
+            "notation": "CARDIOVASCULAR PHARMACOLOGY",
+            "pref_label": "Cardiovascular Pharmacology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C18079"
+        },
+        {
+            "definition": "The branch of pharmacology that deals with the central nervous system. (NCI)",
+            "identifier": "C90370",
+            "notation": "CNS PHARMACOLOGY",
+            "pref_label": "Central Nervous System Pharmacology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C90370"
+        },
+        {
+            "alt_label": "FDA RPS Other Toxicity Studies: Dependence",
+            "definition": "A study that assesses the capacity of a substance to become an abuse liability.",
+            "identifier": "C79394",
+            "notation": "DEPENDENCE",
+            "pref_label": "Other Toxicity Studies: Dependence",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79394"
+        },
+        {
+            "alt_label": "FDA RPS Pharmacokinetics: Distribution",
+            "definition": "The branch of pharmacokinetics that studies the process by which a drug is distributed by the body.",
+            "identifier": "C79370",
+            "notation": "DISTRIBUTION",
+            "pref_label": "Pharmacokinetics: Distribution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79370"
+        },
+        {
+            "definition": "A study that assesses the efficacy of prophylactic treatment given after exposure to the challenge agent(s) but before the manifestation of the disease or condition.",
+            "identifier": "C158357",
+            "notation": "EFFICACY, POST-EXPOSURE PROPHYLAXIS",
+            "pref_label": "Efficacy Study With Post-Exposure Prophylaxis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C158357"
+        },
+        {
+            "definition": "A study that assesses the efficacy of a radiomitigator (given after exposure to the challenge agent(s) but before the manifestation of the disease or condition).",
+            "identifier": "C158358",
+            "notation": "EFFICACY, POST-EXPOSURE RADIOMITIGATION",
+            "pref_label": "Efficacy Study With Post-Exposure Radiomitigation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C158358"
+        },
+        {
+            "definition": "A study that assesses the efficacy of prophylactic treatment (including radioprotectors) given before exposure to the challenge agent(s).",
+            "identifier": "C158356",
+            "notation": "EFFICACY, PRE-EXPOSURE PROPHYLAXIS",
+            "pref_label": "Efficacy Study With Pre-Exposure Prophylaxis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C158356"
+        },
+        {
+            "definition": "A study that assesses the efficacy of treatment given after a protocol-defined manifestation of the challenge agent(s)-induced disease or condition.",
+            "identifier": "C158465",
+            "notation": "EFFICACY, TREATMENT",
+            "pref_label": "Challenge Agent Treatment Efficacy Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C158465"
+        },
+        {
+            "alt_label": "FDA RPS Reproductive And Developmental Toxicity: Embryofetal Development",
+            "definition": "A toxicity study that assesses the effects of a substance on embryonic and fetal development.",
+            "identifier": "C79386",
+            "notation": "EMBRYO FETAL DEVELOPMENT",
+            "pref_label": "Reproductive and Developmental Toxicity: Embryofetal Development",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79386"
+        },
+        {
+            "alt_label": "FDA RPS Pharmacokinetics: Excretion",
+            "definition": "The branch of pharmacokinetics that studies the process by which a drug is eliminated by the body.",
+            "identifier": "C79372",
+            "notation": "EXCRETION",
+            "pref_label": "Pharmacokinetics: Excretion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79372"
+        },
+        {
+            "alt_label": "FDA RPS Reproductive And Developmental Toxicity: Fertility And Early Embryonic Development",
+            "definition": "A study that assesses the effects of a substance on an organism's fertility and/or embryonic development.",
+            "identifier": "C79385",
+            "notation": "FERTILITY AND EARLY EMBRYONIC DEVELOPMENT",
+            "pref_label": "Reproductive and Developmental Toxicity: Fertility and Early Embryonic Development",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79385"
+        },
+        {
+            "definition": "The branch of pharmacology that deals with the gastrointestinal system. (NCI)",
+            "identifier": "C90388",
+            "notation": "GASTROINTESTINAL PHARMACOLOGY",
+            "pref_label": "Gastrointestinal Pharmacology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C90388"
+        },
+        {
+            "alt_label": "FDA RPS Genotoxicity: In Vitro",
+            "definition": "A genotoxicity study that tests the ability of a substance to cause DNA damage not in intact animals, but in cells or other systems.",
+            "identifier": "C79378",
+            "notation": "GENOTOXICITY IN VITRO",
+            "pref_label": "Genotoxicity: In Vitro",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79378"
+        },
+        {
+            "alt_label": "FDA RPS Genotoxicity: In Vivo",
+            "definition": "A genotoxicity study that tests the ability of a substance to cause DNA damage within the body.",
+            "identifier": "C79379",
+            "notation": "GENOTOXICITY IN VIVO",
+            "pref_label": "Genotoxicity: In Vivo",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79379"
+        },
+        {
+            "alt_label": "FDA RPS Other Toxicity Studies: Immunotoxicity",
+            "definition": "A toxicity study that assesses potential harm to the immune system.",
+            "identifier": "C79392",
+            "notation": "IMMUNOTOXICITY",
+            "pref_label": "Other Toxicity Studies: Immunotoxicity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79392"
+        },
+        {
+            "alt_label": "FDA RPS Other Toxicity Studies: Impurities",
+            "definition": "A study that assesses the effects of impurities that may be found in a substance.",
+            "identifier": "C79396",
+            "notation": "IMPURITIES",
+            "pref_label": "Other Toxicity Studies: Impurities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79396"
+        },
+        {
+            "alt_label": "FDA RPS Studies In Which The Offspring (Juvenile Animals) Are Dosed And/Or Further Evaluated",
+            "definition": "A toxicology study that assesses the effects of a substance on a subject that received treatment and/or was dosed beginning during the juvenile stage of development.",
+            "identifier": "C79388",
+            "notation": "JUVENILE STUDIES",
+            "pref_label": "Studies in which the Offspring (Juvenile Animals) are Dosed and/or Further Evaluated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79388"
+        },
+        {
+            "alt_label": "FDA RPS Toxicology: Local Tolerance",
+            "definition": "A toxicology study that assesses the effects of a substance when administered to a restricted portion of the body.",
+            "identifier": "C79389",
+            "notation": "LOCAL TOLERANCE",
+            "pref_label": "Toxicology: Local Tolerance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79389"
+        },
+        {
+            "alt_label": "FDA RPS Other Toxicity Studies: Mechanistic Studies",
+            "definition": "A study that investigates the process by which a substance induces its effects.",
+            "identifier": "C79393",
+            "notation": "MECHANISTIC STUDIES",
+            "pref_label": "Other Toxicity Studies: Mechanistic Studies",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79393"
+        },
+        {
+            "alt_label": "FDA RPS Pharmacokinetics: Metabolism",
+            "definition": "The branch of pharmacokinetics that studies the process by which a drug is metabolized by the body.",
+            "identifier": "C79371",
+            "notation": "METABOLISM",
+            "pref_label": "Pharmacokinetics: Metabolism",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79371"
+        },
+        {
+            "alt_label": "FDA RPS Other Toxicity Studies: Metabolites",
+            "definition": "A study that evaluates the effects of a metabolite of a substance.",
+            "identifier": "C79395",
+            "notation": "METABOLITES",
+            "pref_label": "Other Toxicity Studies: Metabolites",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79395"
+        },
+        {
+            "definition": "A study that monitors the development and progression of a disease or condition.",
+            "identifier": "C16147",
+            "notation": "NATURAL HISTORY",
+            "pref_label": "Natural History Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C16147"
+        },
+        {
+            "definition": "A study to test whether certain biological agents (e.g., viruses) or materials (e.g., nucleic acids) are capable of immortalizing cells and endowing them with the capacity to form tumors.",
+            "identifier": "C112431",
+            "notation": "ONCOGENICITY",
+            "pref_label": "Oncogenicity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C112431"
+        },
+        {
+            "alt_label": "FDA RPS Pharmacology: Pharmacodynamic Drug Interactions",
+            "definition": "The branch of pharmacology that deals with the mechanism of action and biochemical and physiological effects of drug-drug interactions.",
+            "identifier": "C79367",
+            "notation": "PHARMACODYNAMIC DRUG INTERACTIONS",
+            "pref_label": "Pharmacology: Pharmacodynamic Drug Interactions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79367"
+        },
+        {
+            "alt_label": "FDA RPS Pharmacokinetics: Drug Interactions",
+            "definition": "The branch of pharmacokinetics that studies the process by which two or more drugs in a system are absorbed, distributed, metabolized, and eliminated by the body.",
+            "identifier": "C79373",
+            "notation": "PHARMACOKINETIC DRUG INTERACTIONS",
+            "pref_label": "Pharmacokinetics: Drug Interactions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79373"
+        },
+        {
+            "definition": "A study that assesses a toxic response from a substance which is either elicited or increased (apparent at lower dose levels) after subsequent exposure to light, or that is induced by skin irradiation after systemic administration of a substance (adapted from OECD Guideline for Testing of Chemicals, copyright OECD, 2004, TG 432).",
+            "identifier": "C116216",
+            "notation": "PHOTOTOXICITY",
+            "pref_label": "Phototoxicity Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C116216"
+        },
+        {
+            "alt_label": "FDA RPS Reproductive And Developmental Toxicity: Prenatal And Postnatal Development Including Maternal Function",
+            "definition": "A toxicity study that assesses the effects of a substance on an organism's development shortly before and after birth.",
+            "identifier": "C79387",
+            "notation": "PRENATAL AND POSTNATAL DEVELOPMENT",
+            "pref_label": "Reproductive and Developmental Toxicity: Prenatal and Postnatal Development Including Maternal Function",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79387"
+        },
+        {
+            "alt_label": "FDA RPS Pharmacology: Primary Pharmacodynamics",
+            "definition": "The branch of pharmacology that deals with the biochemical and physiological effects of a drug and the mechanism of drug action in relation to its desired therapeutic target.",
+            "identifier": "C79364",
+            "notation": "PRIMARY PHARMACODYNAMICS",
+            "pref_label": "Pharmacology: Primary Pharmacodynamics",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79364"
+        },
+        {
+            "definition": "The science concerned with drugs and their actions and uses in kidney biology and the treatment of kidney disease. (NCI)",
+            "identifier": "C18996",
+            "notation": "RENAL PHARMACOLOGY",
+            "pref_label": "Renal Pharmacology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C18996"
+        },
+        {
+            "alt_label": "FDA RPS Toxicology: Repeat Dose Toxicity",
+            "definition": "A study that assesses the toxic effects of a compound in animals after repeated administrations.",
+            "identifier": "C79376",
+            "notation": "REPEAT DOSE TOXICITY",
+            "pref_label": "Toxicology: Repeat Dose Toxicity [Species, Route, Duration]",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79376"
+        },
+        {
+            "definition": "The branch of pharmacology that deals with the respiratory system. (NCI)",
+            "identifier": "C90449",
+            "notation": "RESPIRATORY PHARMACOLOGY",
+            "pref_label": "Respiratory Pharmacology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C90449"
+        },
+        {
+            "alt_label": "FDA RPS Pharmacology: Secondary Pharmacodynamics",
+            "definition": "The branch of pharmacology that deals with the biochemical and physiological effects of a drug and the mechanism of drug action not related to its desired therapeutic target.",
+            "identifier": "C79365",
+            "notation": "SECONDARY PHARMACODYNAMICS",
+            "pref_label": "Pharmacology: Secondary Pharmacodynamics",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79365"
+        },
+        {
+            "alt_label": "FDA RPS Toxicology: Single Dose Toxicity",
+            "definition": "A study that assesses the toxic effects of a compound in animals after a single administration.",
+            "identifier": "C79375",
+            "notation": "SINGLE DOSE TOXICITY",
+            "pref_label": "Toxicology: Single Dose Toxicity [Species and Route]",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C79375"
+        },
+        {
+            "definition": "Evaluation of the absorption, distribution, metabolism and excretion of a substance in relation to its toxicity in an animal.",
+            "identifier": "C90478",
+            "notation": "TOXICOKINETICS",
+            "pref_label": "Toxicokinetics",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C90478"
+        },
+        {
+            "definition": "A study in which immortalized cells form tumors when inoculated into animals.",
+            "identifier": "C19501",
+            "notation": "TUMORIGENICITY",
+            "pref_label": "Tumorigenicity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90003-C19501"
+        }
+    ]
+}

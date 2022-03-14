@@ -1,0 +1,268 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "IDSR1-Falling Asleep",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Falling asleep.",
+            "identifier": "C130551",
+            "notation": "IDSR101",
+            "pref_label": "IDS-SR - Falling Asleep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130551"
+        },
+        {
+            "alt_label": "IDSR1-Sleep During the Night",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Sleep during the night.",
+            "identifier": "C130552",
+            "notation": "IDSR102",
+            "pref_label": "IDS-SR - Sleep During the Night",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130552"
+        },
+        {
+            "alt_label": "IDSR1-Waking Up Too Early",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Waking up too early.",
+            "identifier": "C130553",
+            "notation": "IDSR103",
+            "pref_label": "IDS-SR - Waking Up Too Early",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130553"
+        },
+        {
+            "alt_label": "IDSR1-Sleeping Too Much",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Sleeping too much.",
+            "identifier": "C130554",
+            "notation": "IDSR104",
+            "pref_label": "IDS-SR - Sleeping Too Much",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130554"
+        },
+        {
+            "alt_label": "IDSR1-Feeling Sad",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Feeling sad.",
+            "identifier": "C130555",
+            "notation": "IDSR105",
+            "pref_label": "IDS-SR - Feeling Sad",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130555"
+        },
+        {
+            "alt_label": "IDSR1-Feeling Irritable",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Feeling irritable.",
+            "identifier": "C130556",
+            "notation": "IDSR106",
+            "pref_label": "IDS-SR - Feeling Irritable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130556"
+        },
+        {
+            "alt_label": "IDSR1-Feeling Anxious or Tense",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Feeling anxious or tense.",
+            "identifier": "C130557",
+            "notation": "IDSR107",
+            "pref_label": "IDS-SR - Feeling Anxious or Tense",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130557"
+        },
+        {
+            "alt_label": "IDSR1-Your Mood to Good/Desired Events",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Response of your mood to good or desired events.",
+            "identifier": "C130558",
+            "notation": "IDSR108",
+            "pref_label": "IDS-SR - Response of Your Mood to Good or Desired Events",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130558"
+        },
+        {
+            "alt_label": "IDSR1-Mood in Relation to Time of Day",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Mood in relation to the time of day.",
+            "identifier": "C130559",
+            "notation": "IDSR109",
+            "pref_label": "IDS-SR - Mood in Relation to the Time of Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130559"
+        },
+        {
+            "alt_label": "IDSR1-Mood Worse Morn/Afternoon/Night",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Is your mood typically worse in the morning, afternoon or night?",
+            "identifier": "C130560",
+            "notation": "IDSR109A",
+            "pref_label": "IDS-SR - Mood Worse in Morning, Afternoon, or Night",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130560"
+        },
+        {
+            "alt_label": "IDSR1-Mood Attributed to Environment",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Is your mood variation attributed to the environment?",
+            "identifier": "C130561",
+            "notation": "IDSR109B",
+            "pref_label": "IDS-SR - Mood Variation Attributed to Environment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130561"
+        },
+        {
+            "alt_label": "IDSR1-Quality of Your Mood",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: The quality of your mood.",
+            "identifier": "C130562",
+            "notation": "IDSR110",
+            "pref_label": "IDS-SR - The Quality of Your Mood",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130562"
+        },
+        {
+            "alt_label": "IDSR1-Decreased Appetite",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Decreased appetite.",
+            "identifier": "C130563",
+            "notation": "IDSR111",
+            "pref_label": "IDS-SR - Decreased Appetite",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130563"
+        },
+        {
+            "alt_label": "IDSR1-Increased Appetite",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Increased appetite.",
+            "identifier": "C130564",
+            "notation": "IDSR112",
+            "pref_label": "IDS-SR - Increased Appetite",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130564"
+        },
+        {
+            "alt_label": "IDSR1-Weight (Decrease)",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: within the last two weeks: Weight (decrease).",
+            "identifier": "C130565",
+            "notation": "IDSR113",
+            "pref_label": "IDS-SR - Weight (Decrease)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130565"
+        },
+        {
+            "alt_label": "IDSR1-Weight (Increase)",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: within the last two weeks: Weight (increase).",
+            "identifier": "C130566",
+            "notation": "IDSR114",
+            "pref_label": "IDS-SR - Weight (Increase)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130566"
+        },
+        {
+            "alt_label": "IDSR1-Concentration/Decision Making",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Concentration/decision making.",
+            "identifier": "C130567",
+            "notation": "IDSR115",
+            "pref_label": "IDS-SR - Concentration or Decision Making",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130567"
+        },
+        {
+            "alt_label": "IDSR1-View of Myself",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: View of myself.",
+            "identifier": "C130568",
+            "notation": "IDSR116",
+            "pref_label": "IDS-SR - View of Myself",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130568"
+        },
+        {
+            "alt_label": "IDSR1-View of My Future",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: View of my future.",
+            "identifier": "C130569",
+            "notation": "IDSR117",
+            "pref_label": "IDS-SR - View of My Future",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130569"
+        },
+        {
+            "alt_label": "IDSR1-Thoughts of Death or Suicide",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Thoughts of death or suicide.",
+            "identifier": "C130570",
+            "notation": "IDSR118",
+            "pref_label": "IDS-SR - Thoughts of Death or Suicide",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130570"
+        },
+        {
+            "alt_label": "IDSR1-General Interest",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: General interest.",
+            "identifier": "C130571",
+            "notation": "IDSR119",
+            "pref_label": "IDS-SR - General Interest",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130571"
+        },
+        {
+            "alt_label": "IDSR1-Energy Level",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Energy level.",
+            "identifier": "C130572",
+            "notation": "IDSR120",
+            "pref_label": "IDS-SR - Energy Level",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130572"
+        },
+        {
+            "alt_label": "IDSR1-Pleasure/Enjoyment (Exclude Sex)",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Capacity for pleasure or enjoyment (excluding sex).",
+            "identifier": "C130573",
+            "notation": "IDSR121",
+            "pref_label": "IDS-SR - Capacity for Pleasure or Enjoyment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130573"
+        },
+        {
+            "alt_label": "IDSR1-Interest in Sex",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Interest in sex.",
+            "identifier": "C130574",
+            "notation": "IDSR122",
+            "pref_label": "IDS-SR - Interest in Sex",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130574"
+        },
+        {
+            "alt_label": "IDSR1-Feeling Slowed Down",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Feeling slowed down.",
+            "identifier": "C130575",
+            "notation": "IDSR123",
+            "pref_label": "IDS-SR - Feeling Slowed Down",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130575"
+        },
+        {
+            "alt_label": "IDSR1-Feeling Restless",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Feeling restless.",
+            "identifier": "C130576",
+            "notation": "IDSR124",
+            "pref_label": "IDS-SR - Feeling Restless",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130576"
+        },
+        {
+            "alt_label": "IDSR1-Aches and Pains",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Aches and pains.",
+            "identifier": "C130577",
+            "notation": "IDSR125",
+            "pref_label": "IDS-SR - Aches and Pains",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130577"
+        },
+        {
+            "alt_label": "IDSR1-Other Bodily Symptoms",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Other bodily symptoms.",
+            "identifier": "C130578",
+            "notation": "IDSR126",
+            "pref_label": "IDS-SR - Other Bodily Symptoms",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130578"
+        },
+        {
+            "alt_label": "IDSR1-Panic/Phobic Symptoms",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Panic/phobic symptoms.",
+            "identifier": "C130579",
+            "notation": "IDSR127",
+            "pref_label": "IDS-SR - Panic or Phobic Symptoms",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130579"
+        },
+        {
+            "alt_label": "IDSR1-Constipation/Diarrhea",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Constipation/diarrhea.",
+            "identifier": "C130580",
+            "notation": "IDSR128",
+            "pref_label": "IDS-SR - Constipation or Diarrhea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130580"
+        },
+        {
+            "alt_label": "IDSR1-Interpersonal Sensitivity",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Interpersonal sensitivity.",
+            "identifier": "C130581",
+            "notation": "IDSR129",
+            "pref_label": "IDS-SR - Interpersonal Sensitivity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130581"
+        },
+        {
+            "alt_label": "IDSR1-Leaden Paralysis/Physical Energy",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Leaden paralysis/physical energy.",
+            "identifier": "C130582",
+            "notation": "IDSR130",
+            "pref_label": "IDS-SR - Leaden Paralysis or Physical Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130582"
+        },
+        {
+            "alt_label": "IDSR1-Score",
+            "definition": "Inventory of Depressive Symptomatology - Self-Report - Score.",
+            "identifier": "C130583",
+            "notation": "IDSR131",
+            "pref_label": "IDS-SR - Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130261-C130583"
+        }
+    ]
+}

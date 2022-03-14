@@ -1,0 +1,64 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An academic rank conferred by a college, university, or other postsecondary education institution as official recognition for the successful completion of a program of studies.",
+            "identifier": "C25354",
+            "notation": "Academic Degree",
+            "pref_label": "Academic Degree",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154682-C25354"
+        },
+        {
+            "alt_label": "Email Address",
+            "definition": "A text string identifier for a location to which electronic mail can be delivered. (NCI)",
+            "identifier": "C42775",
+            "notation": "E-mail Address",
+            "pref_label": "E-mail Address",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154682-C42775"
+        },
+        {
+            "alt_label": "Facsimile Number",
+            "definition": "A telephone number that is used for identifying a specific fax machine in a telephone network.",
+            "identifier": "C42879",
+            "notation": "Fax Number",
+            "pref_label": "Fax Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154682-C42879"
+        },
+        {
+            "definition": "The name of the organization or entity that the person or group has an established relationship with.",
+            "identifier": "C154704",
+            "notation": "Organizational Affiliation",
+            "pref_label": "Organizational Affiliation Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154682-C154704"
+        },
+        {
+            "alt_label": "Individual's Name;Name",
+            "definition": "A word or group of words indicating the identity of a person usually consisting of a first (personal) name and a last (family) name with an optional middle name. In some cultural traditions the family name comes first.",
+            "identifier": "C25191",
+            "notation": "Person Name",
+            "pref_label": "Person Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154682-C25191"
+        },
+        {
+            "definition": "A standardized representation of the location of a person, business, building, or organization. (NCI)",
+            "identifier": "C25407",
+            "notation": "Physical Address",
+            "pref_label": "Address",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154682-C25407"
+        },
+        {
+            "definition": "The usual or expected function of something; the part something plays in an action or event. (NCI)",
+            "identifier": "C48835",
+            "notation": "Role",
+            "pref_label": "Role",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154682-C48835"
+        },
+        {
+            "alt_label": "Phone Number",
+            "definition": "A sequence of decimal digits (0-9) that is used for identifying a specific telephone line or other device in a telephone network.",
+            "identifier": "C40978",
+            "notation": "Telephone Number",
+            "pref_label": "Telephone Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154682-C40978"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A study that compares groups of people with generally similar characteristics, those with the condition under study (case) and those without the condition under study (control).",
+            "identifier": "C15197",
+            "notation": "CASE CONTROL",
+            "pref_label": "Case-Control Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C127259-C15197"
+        },
+        {
+            "definition": "A study in which the subject characteristics of the case, immediately prior to disease onset (sometimes called the hazard period), are compared to characteristics of same case at a prior time (i.e., control period). (ClinicalTrials.gov)",
+            "identifier": "C127779",
+            "notation": "CASE CROSSOVER",
+            "pref_label": "Observational Case-Crossover Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C127259-C127779"
+        },
+        {
+            "definition": "A study in which the subject with the condition under study (the case) is compared against a theoretical/historical model of distribution that serves as a control.",
+            "identifier": "C15362",
+            "notation": "CASE ONLY",
+            "pref_label": "Case Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C127259-C15362"
+        },
+        {
+            "definition": "A study in which subjects are grouped based on a predefined personal or administrative characteristic.",
+            "identifier": "C15208",
+            "notation": "COHORT",
+            "pref_label": "Cohort Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C127259-C15208"
+        },
+        {
+            "definition": "A study in which geographically distinct study populations are compared with respect to a particular outcome.",
+            "identifier": "C127780",
+            "notation": "ECOLOGIC OR COMMUNITY",
+            "pref_label": "Ecologic or Community Based Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C127259-C127780"
+        },
+        {
+            "definition": "A study in which related or non-related family members are compared with respect to a particular outcome.",
+            "identifier": "C15407",
+            "notation": "FAMILY BASED",
+            "pref_label": "Family Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C127259-C15407"
+        }
+    ]
+}

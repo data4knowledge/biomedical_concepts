@@ -1,0 +1,32 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Studies that provide a means for obtaining an experimental drug or device for patients who are not adequately treated by existing therapy, who do not meet the eligibility criteria for enrollment, or who are otherwise unable to participate in another clinical study. Expanded Access studies include individual-patient IND, treatment IND, compassionate use, emergency use or continued access.",
+            "identifier": "C98722",
+            "notation": "EXPANDED ACCESS",
+            "pref_label": "Expanded Access Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C99077-C98722"
+        },
+        {
+            "definition": "Studies in which individuals are assigned by an investigator based on a protocol to receive specific interventions. Subjects may receive diagnostic, therapeutic or other types of interventions. The assignment of the intervention may or may not be random. The individuals are then followed and biomedical and/or health outcomes are assessed.",
+            "identifier": "C98388",
+            "notation": "INTERVENTIONAL",
+            "pref_label": "Interventional Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C99077-C98388"
+        },
+        {
+            "definition": "Studies in which biomedical and/or health outcomes are assessed in pre-defined groups of individuals. Subjects in the study may receive diagnostic, therapeutic, or other interventions, but the investigator does not assign specific interventions to the subjects of the study.",
+            "identifier": "C16084",
+            "notation": "OBSERVATIONAL",
+            "pref_label": "Observational Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C99077-C16084"
+        },
+        {
+            "definition": "Observational studies which include an organized system that uses observational methods to collect uniform data (clinical and other) prospectively for a population defined by a particular disorder/disease, condition (including susceptibility to a disorder), or exposure (including products, health care services, and/or procedures) and that serves a predetermined scientific, clinical, or policy purpose. Patient registries may be single purpose or on-going data collection programs that address one or more questions. (AHRQ)",
+            "identifier": "C129000",
+            "notation": "PATIENT REGISTRY",
+            "pref_label": "Patient Registry Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C99077-C129000"
+        }
+    ]
+}

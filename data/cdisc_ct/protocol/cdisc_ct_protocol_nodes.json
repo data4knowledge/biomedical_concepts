@@ -1,0 +1,422 @@
+{
+    "API_SOURCE": [
+        {
+            "uri": "http://id.d4k.dk/dataset/source/cdisc/ct/protocol",
+            "url": "https://api.library.cdisc.org/api/mdr/ct/packages/protocolct-2021-12-17"
+        }
+    ],
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Biological Sample Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the biological sample.",
+            "extensible": false,
+            "identifier": "C179587",
+            "label": "Biological Sample Attribute Terminology",
+            "notation": "Biological Sample Attribute Terminology",
+            "pref_label": "CDISC Protocol Biological Sample Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C179587"
+        },
+        {
+            "alt_label": "Clinical Study Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the clinical study entity.",
+            "extensible": false,
+            "identifier": "C142191",
+            "label": "Clinical Study Attribute Terminology",
+            "notation": "Clinical Study Attribute Terminology",
+            "pref_label": "CDISC Protocol Entities Clinical Study Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C142191"
+        },
+        {
+            "alt_label": "Clinical Trial Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the clinical trial entity.",
+            "extensible": false,
+            "identifier": "C139020",
+            "label": "Clinical Trial Attribute Terminology",
+            "notation": "Clinical Trial Attribute Terminology",
+            "pref_label": "CDISC Protocol Entities Clinical Trial Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020"
+        },
+        {
+            "alt_label": "Endpoint Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the endpoint entity.",
+            "extensible": false,
+            "identifier": "C170440",
+            "label": "Endpoint Attribute Terminology",
+            "notation": "Endpoint Attribute Terminology",
+            "pref_label": "CDISC Protocol Endpoint Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C170440"
+        },
+        {
+            "alt_label": "Endpoint Type Value Set Terminology",
+            "definition": "The terminology relevant to the type of endpoint for the study.",
+            "extensible": false,
+            "identifier": "C170441",
+            "label": "Endpoint Type Value Set Terminology",
+            "notation": "Endpoint Type Value Set Terminology",
+            "pref_label": "CDISC Protocol Endpoint Type Value Set Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C170441"
+        },
+        {
+            "alt_label": "Informed Consent Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the informed consent.",
+            "extensible": false,
+            "identifier": "C184334",
+            "label": "Informed Consent Attribute Terminology",
+            "notation": "Informed Consent Attribute Terminology",
+            "pref_label": "CDISC Protocol Informed Consent Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C184334"
+        },
+        {
+            "alt_label": "Ingredient Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the ingredient.",
+            "extensible": false,
+            "identifier": "C177906",
+            "label": "Ingredient Attribute Terminology",
+            "notation": "Ingredient Attribute Terminology",
+            "pref_label": "CDISC Protocol Ingredient Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177906"
+        },
+        {
+            "alt_label": "Ingredient Type Value Set Terminology",
+            "definition": "The terminology relevant to the identification of the kind of ingredient.",
+            "extensible": false,
+            "identifier": "C177907",
+            "label": "Ingredient Type Value Set Terminology",
+            "notation": "Ingredient Type Value Set Terminology",
+            "pref_label": "CDISC Protocol Ingredient Type Value Set Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177907"
+        },
+        {
+            "alt_label": "Intervention Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the intervention.",
+            "extensible": false,
+            "identifier": "C177905",
+            "label": "Intervention Attribute Terminology",
+            "notation": "Intervention Attribute Terminology",
+            "pref_label": "CDISC Protocol Intervention Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177905"
+        },
+        {
+            "alt_label": "Intervention Model Response",
+            "definition": "A terminology codelist relevant to the trial design developed to compare treatment groups.",
+            "extensible": "true",
+            "identifier": "C99076",
+            "label": "Intervention Model Response",
+            "notation": "INTMODEL",
+            "pref_label": "CDISC SDTM Intervention Model Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C99076"
+        },
+        {
+            "alt_label": "Intervention Type Response",
+            "definition": "A terminology codelist relevant to the kind of product or procedure studied in a trial.",
+            "extensible": "false",
+            "identifier": "C99078",
+            "label": "Intervention Type Response",
+            "notation": "INTTYPE",
+            "pref_label": "CDISC SDTM Intervention Type Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C99078"
+        },
+        {
+            "alt_label": "No Yes Response",
+            "definition": "A term that is used to indicate a question with permissible values of yes/no/unknown/not applicable.",
+            "extensible": "false",
+            "identifier": "C66742",
+            "label": "No Yes Response",
+            "notation": "NY",
+            "pref_label": "CDISC SDTM Yes No Unknown or Not Applicable Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66742"
+        },
+        {
+            "alt_label": "Observational Study Model",
+            "definition": "The terminology relevant to the trial design for observational studies.",
+            "extensible": "true",
+            "identifier": "C127259",
+            "label": "Observational Study Model",
+            "notation": "OBSSMO",
+            "pref_label": "CDISC SDTM Observational Study Model Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C127259"
+        },
+        {
+            "alt_label": "Outcome Measure Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the outcome measure entity.",
+            "extensible": false,
+            "identifier": "C165641",
+            "label": "Outcome Measure Attribute Terminology",
+            "notation": "Outcome Measure Attribute Terminology",
+            "pref_label": "CDISC Protocol Outcome Measure Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C165641"
+        },
+        {
+            "alt_label": "Outcome Measure Type Value Set Terminology",
+            "definition": "The terminology relevant to the type of outcome measure for the study.",
+            "extensible": false,
+            "identifier": "C170442",
+            "label": "Outcome Measure Type Value Set Terminology",
+            "notation": "Outcome Measure Type Value Set Terminology",
+            "pref_label": "CDISC Protocol Outcome Measure Type Value Set Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C170442"
+        },
+        {
+            "alt_label": "Oversight Entity Value Set",
+            "definition": "The terminology relevant to the type of oversight entity for the study.",
+            "extensible": false,
+            "identifier": "C165642",
+            "label": "Oversight Entity Value Set",
+            "notation": "Oversight Entity Value Set",
+            "pref_label": "CDISC Protocol Oversight Entity Value Set Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C165642"
+        },
+        {
+            "alt_label": "Participant Allocation Value Set",
+            "definition": "A terminology codelist for the method of assigning participants, or subjects, to groups or categories within a clinical study.",
+            "extensible": false,
+            "identifier": "C147068",
+            "label": "Participant Allocation Value Set",
+            "notation": "Participant Allocation Value Set",
+            "pref_label": "CDISC Protocol Subject Allocation Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147068"
+        },
+        {
+            "alt_label": "Physical Address Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the physical address entity.",
+            "extensible": false,
+            "identifier": "C132308",
+            "label": "Physical Address Attribute Terminology",
+            "notation": "Physical Address Attribute Terminology",
+            "pref_label": "CDISC Protocol Entities Physical Address Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132308"
+        },
+        {
+            "alt_label": "Protocol Amendment Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the protocol amendment.",
+            "extensible": false,
+            "identifier": "C181167",
+            "label": "Protocol Amendment Attribute Terminology",
+            "notation": "Protocol Amendment Attribute Terminology",
+            "pref_label": "CDISC Protocol Amendment Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C181167"
+        },
+        {
+            "alt_label": "Protocol Contact Role Value Set",
+            "definition": "The terminology relevant to the role that the individual or entity plays with respect to being a contact within a study protocol.",
+            "extensible": false,
+            "identifier": "C154681",
+            "label": "Protocol Contact Role Value Set",
+            "notation": "Protocol Contact Role Value Set",
+            "pref_label": "CDISC Protocol Entities Protocol Contact Role Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154681"
+        },
+        {
+            "alt_label": "Protocol Entity Terminology",
+            "definition": "A terminology value set relevant to the entities within a protocol.",
+            "extensible": false,
+            "identifier": "C132310",
+            "label": "Protocol Entity Terminology",
+            "notation": "Protocol Entity Terminology",
+            "pref_label": "CDISC Protocol Entities Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310"
+        },
+        {
+            "alt_label": "Protocol Statement Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the protocol statement.",
+            "extensible": false,
+            "identifier": "C181168",
+            "label": "Protocol Statement Attribute Terminology",
+            "notation": "Protocol Statement Attribute Terminology",
+            "pref_label": "CDISC Protocol Statement Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C181168"
+        },
+        {
+            "alt_label": "Randomization Type Value Set",
+            "definition": "A terminology codelist relevant to the types of randomization schemas associated with a randomized controlled trial.",
+            "extensible": false,
+            "identifier": "C147069",
+            "label": "Randomization Type Value Set",
+            "notation": "Randomization Type Value Set",
+            "pref_label": "CDISC Protocol Randomization Type Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147069"
+        },
+        {
+            "alt_label": "Reference Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the reference.",
+            "extensible": false,
+            "identifier": "C184333",
+            "label": "Reference Attribute Terminology",
+            "notation": "Reference Attribute Terminology",
+            "pref_label": "CDISC Protocol Reference Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C184333"
+        },
+        {
+            "alt_label": "Study Arm Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the study arm entity.",
+            "extensible": false,
+            "identifier": "C172329",
+            "label": "Study Arm Attribute Terminology",
+            "notation": "Study Arm Attribute Terminology",
+            "pref_label": "CDISC Protocol Study Arm Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C172329"
+        },
+        {
+            "alt_label": "Study Arm Type Value Set Terminology",
+            "definition": "The terminology relevant to the identification of the kind of arm.",
+            "extensible": false,
+            "identifier": "C174222",
+            "label": "Study Arm Type Value Set Terminology",
+            "notation": "Study Arm Type Value Set Terminology",
+            "pref_label": "CDISC Protocol Study Arm Type Value Set Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174222"
+        },
+        {
+            "alt_label": "Study Contact Information Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the study contact information entity.",
+            "extensible": false,
+            "identifier": "C154682",
+            "label": "Study Contact Information Attribute Terminology",
+            "notation": "Study Contact Information Attribute Terminology",
+            "pref_label": "CDISC Protocol Entities Study Contact Information Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C154682"
+        },
+        {
+            "alt_label": "Study Design Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the study design entity.",
+            "extensible": false,
+            "identifier": "C147066",
+            "label": "Study Design Attribute Terminology",
+            "notation": "Study Design Attribute Terminology",
+            "pref_label": "CDISC Protocol Entities Study Design Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147066"
+        },
+        {
+            "alt_label": "Study Monitoring Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the study monitoring entity.",
+            "extensible": false,
+            "identifier": "C163026",
+            "label": "Study Monitoring Attribute Terminology",
+            "notation": "Study Monitoring Attribute Terminology",
+            "pref_label": "CDISC Protocol Study Monitoring Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C163026"
+        },
+        {
+            "alt_label": "Study Oversight Entity Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the study oversight entity.",
+            "extensible": false,
+            "identifier": "C165640",
+            "label": "Study Oversight Entity Attribute Terminology",
+            "notation": "Study Oversight Entity Attribute Terminology",
+            "pref_label": "CDISC Protocol Study Oversight Entity Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C165640"
+        },
+        {
+            "alt_label": "Study Population Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the study population entity.",
+            "extensible": false,
+            "identifier": "C160921",
+            "label": "Study Population Attribute Terminology",
+            "notation": "Study Population Attribute Terminology",
+            "pref_label": "CDISC Protocol Study Population Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921"
+        },
+        {
+            "alt_label": "Study Product Administration Attribute",
+            "definition": "A terminology value set relevant to the attributes of the study product administration.",
+            "extensible": false,
+            "identifier": "C177904",
+            "label": "Study Product Administration Attribute",
+            "notation": "Study Product Administration Attribute",
+            "pref_label": "CDISC Protocol Study Product Administration Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C177904"
+        },
+        {
+            "alt_label": "Study Product Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the study product.",
+            "extensible": false,
+            "identifier": "C174220",
+            "label": "Study Product Attribute Terminology",
+            "notation": "Study Product Attribute Terminology",
+            "pref_label": "CDISC Protocol Study Product Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174220"
+        },
+        {
+            "alt_label": "Study Product Type Value Set Terminology",
+            "definition": "The terminology relevant to the identification of the kind of study product.",
+            "extensible": false,
+            "identifier": "C174221",
+            "label": "Study Product Type Value Set Terminology",
+            "notation": "Study Product Type Value Set Terminology",
+            "pref_label": "CDISC Protocol Study Product Type Value Set Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174221"
+        },
+        {
+            "alt_label": "Study Protocol Attribute Terminology",
+            "definition": "A terminology value set relevant to the attributes of the study protocol entity.",
+            "extensible": false,
+            "identifier": "C132309",
+            "label": "Study Protocol Attribute Terminology",
+            "notation": "Study Protocol Attribute Terminology",
+            "pref_label": "CDISC Protocol Entities Study Protocol Attribute Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132309"
+        },
+        {
+            "alt_label": "Study Purpose Value Set",
+            "definition": "A terminology codelist relevant to the reason(s) or intention(s) for the execution of an interventional or non-interventional clinical study.",
+            "extensible": false,
+            "identifier": "C147067",
+            "label": "Study Purpose Value Set",
+            "notation": "Study Purpose Value Set",
+            "pref_label": "CDISC Protocol Study Purpose Response Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147067"
+        },
+        {
+            "alt_label": "Study Type Response",
+            "definition": "A terminology codelist relevant to the role the study plays in determining the interventions a subject receives.",
+            "extensible": "false",
+            "identifier": "C99077",
+            "label": "Study Type Response",
+            "notation": "STYPE",
+            "pref_label": "CDISC SDTM Study Type Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C99077"
+        },
+        {
+            "alt_label": "Trial Intent Type Response",
+            "definition": "A terminology codelist relevant to the responses for the planned purpose of the therapy, device, or agent under study in the clinical trial.",
+            "extensible": "true",
+            "identifier": "C66736",
+            "label": "Trial Intent Type Response",
+            "notation": "TINDTP",
+            "pref_label": "CDISC SDTM Trial Indication Type Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736"
+        },
+        {
+            "alt_label": "Trial Phase Response",
+            "definition": "A terminology codelist relevant to the phase, or stage, of the clinical trial.",
+            "extensible": "true",
+            "identifier": "C66737",
+            "label": "Trial Phase Response",
+            "notation": "TPHASE",
+            "pref_label": "CDISC SDTM Trial Phase Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66737"
+        },
+        {
+            "alt_label": "Trial Type Response",
+            "definition": "A terminology codelist relevant to the type of primary outcome or endpoint that the protocol is designed to evaluate.",
+            "extensible": "true",
+            "identifier": "C66739",
+            "label": "Trial Type Response",
+            "notation": "TTYPE",
+            "pref_label": "CDISC SDTM Trial Type Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66739"
+        }
+    ],
+    "SKOS_CONCEPT_SCHEME": [
+        {
+            "description": "CDISC Controlled Terminology for Protocol is the set of CDISC-developed or CDISC-adopted standard expressions (values) used with data items within CDISC-defined PROTOCOL datasets.",
+            "effective_date": "2021-12-17",
+            "label": "Protocol Controlled Terminology Package 48 Effective 2021-12-17",
+            "name": "Protocol CT 2021-12-17",
+            "source": "Protocol Controlled Terminology developed by the CDISC Terminology Team in collaboration with the National Cancer Institute's Enterprise Vocabulary Services (EVS)",
+            "status": "Final",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol",
+            "version": "2021-12-17"
+        }
+    ]
+}

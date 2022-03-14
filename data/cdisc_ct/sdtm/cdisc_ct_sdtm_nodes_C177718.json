@@ -1,0 +1,252 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "SF124-In General You Say Your Health Is",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - In general, would you say your health is.",
+            "identifier": "C177871",
+            "notation": "SF12401",
+            "pref_label": "SF12 v2.0 Acute - In General You Say Your Health Is",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177871"
+        },
+        {
+            "alt_label": "SF124-Limit Moderate Activities",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - The following questions are about activities you might do during a typical day. Does your health now limit you in these activities?",
+            "identifier": "C177872",
+            "notation": "SF12402A",
+            "pref_label": "SF12 v2.0 Acute - Limit Moderate Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177872"
+        },
+        {
+            "alt_label": "SF124-Limit Climbing Several Flights",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - How much does your health now limit you in - climbing several flights of stairs.",
+            "identifier": "C177873",
+            "notation": "SF12402B",
+            "pref_label": "SF12 v2.0 Acute - Limit Climbing Several Flights",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177873"
+        },
+        {
+            "alt_label": "SF124-Physical: Accomplished Less",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - During the past week, how much of the time have you had any of the following problems with your work or other regular daily activities as a result of your physical health - accomplished less than you would like.",
+            "identifier": "C177874",
+            "notation": "SF12403A",
+            "pref_label": "SF12 v2.0 Acute - Physical: Accomplished Less",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177874"
+        },
+        {
+            "alt_label": "SF124-Physical: Limited Kind of Work",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - During the past week, how much of the time have you had any of the following problems with your work or other regular daily activities as a result of your physical health - were limited in the kind of work or other activities.",
+            "identifier": "C177875",
+            "notation": "SF12403B",
+            "pref_label": "SF12 v2.0 Acute - Physical: Limited Kind of Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177875"
+        },
+        {
+            "alt_label": "SF124-Emotional: Accomplished Less",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - During the past week, how much of the time have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious) - accomplished less than you would like.",
+            "identifier": "C177876",
+            "notation": "SF12404A",
+            "pref_label": "SF12 v2.0 Acute - Emotional: Accomplished Less",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177876"
+        },
+        {
+            "alt_label": "SF124-Emotional: Did Work Less Carefully",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - During the past week, how much of the time have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious) - did work or other activities less carefully than usual.",
+            "identifier": "C177877",
+            "notation": "SF12404B",
+            "pref_label": "SF12 v2.0 Acute - Emotional: Did Work Less Carefully",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177877"
+        },
+        {
+            "alt_label": "SF124-Pain Interfere With Normal Work",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - During the past week, how much did pain interfere with your normal work (including both work outside the home and housework)?",
+            "identifier": "C177878",
+            "notation": "SF12405",
+            "pref_label": "SF12 v2.0 Acute - Pain Interfere With Normal Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177878"
+        },
+        {
+            "alt_label": "SF124-Have You Felt Calm and Peaceful",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past week - have you felt calm and peaceful?",
+            "identifier": "C177879",
+            "notation": "SF12406A",
+            "pref_label": "SF12 v2.0 Acute - Have You Felt Calm and Peaceful",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177879"
+        },
+        {
+            "alt_label": "SF124-Did You Have a Lot of Energy",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past week - did you have a lot of energy?",
+            "identifier": "C177880",
+            "notation": "SF12406B",
+            "pref_label": "SF12 v2.0 Acute - Did You Have a Lot of Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177880"
+        },
+        {
+            "alt_label": "SF124-You Felt Downhearted and Depressed",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past week - have you felt downhearted and depressed?",
+            "identifier": "C177881",
+            "notation": "SF12406C",
+            "pref_label": "SF12 v2.0 Acute - You Felt Downhearted and Depressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177881"
+        },
+        {
+            "alt_label": "SF124-Time Phys/Emotional Interfered",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - During the past week, how much of the time has your physical health or emotional problems interfered with your social activities (like visiting friends, relatives, etc.)?",
+            "identifier": "C177882",
+            "notation": "SF12407",
+            "pref_label": "SF12 v2.0 Acute - Time Physical Health, Emotional Interfered",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C177882"
+        },
+        {
+            "alt_label": "SF124-Physical Functioning 0-100 Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Physical functioning 0-100 score.",
+            "identifier": "C180460",
+            "notation": "SF12408",
+            "pref_label": "SF12 v2.0 Acute - Physical Functioning 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180460"
+        },
+        {
+            "alt_label": "SF124-Role Physical 0-100 Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Role physical 0-100 score.",
+            "identifier": "C180461",
+            "notation": "SF12409",
+            "pref_label": "SF12 v2.0 Acute - Role Physical 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180461"
+        },
+        {
+            "alt_label": "SF124-Bodily Pain 0-100 Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Bodily pain 0-100 score.",
+            "identifier": "C180462",
+            "notation": "SF12410",
+            "pref_label": "SF12 v2.0 Acute - Bodily Pain 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180462"
+        },
+        {
+            "alt_label": "SF124-General Health 0-100 Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - General health 0-100 score.",
+            "identifier": "C180463",
+            "notation": "SF12411",
+            "pref_label": "SF12 v2.0 Acute - General Health 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180463"
+        },
+        {
+            "alt_label": "SF124-Vitality 0-100 Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Vitality 0-100 score.",
+            "identifier": "C180464",
+            "notation": "SF12412",
+            "pref_label": "SF12 v2.0 Acute - Vitality 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180464"
+        },
+        {
+            "alt_label": "SF124-Social Functioning 0-100 Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Social functioning 0-100 score.",
+            "identifier": "C180465",
+            "notation": "SF12413",
+            "pref_label": "SF12 v2.0 Acute - Social Functioning 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180465"
+        },
+        {
+            "alt_label": "SF124-Role Emotional 0-100 Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Role emotional 0-100 score.",
+            "identifier": "C180466",
+            "notation": "SF12414",
+            "pref_label": "SF12 v2.0 Acute - Role Emotional 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180466"
+        },
+        {
+            "alt_label": "SF124-Mental Health 0-100 Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Mental health 0-100 score.",
+            "identifier": "C180467",
+            "notation": "SF12415",
+            "pref_label": "SF12 v2.0 Acute - Mental Health 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180467"
+        },
+        {
+            "alt_label": "SF124-Phys Functioning Norm-Based Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Physical functioning norm-based score.",
+            "identifier": "C180468",
+            "notation": "SF12416",
+            "pref_label": "SF12 v2.0 Acute - Phys Functioning Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180468"
+        },
+        {
+            "alt_label": "SF124-Role Physical Norm-Based Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Role physical norm-based score.",
+            "identifier": "C180469",
+            "notation": "SF12417",
+            "pref_label": "SF12 v2.0 Acute - Role Physical Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180469"
+        },
+        {
+            "alt_label": "SF124-Bodily Pain Norm-Based Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Bodily pain norm-based score.",
+            "identifier": "C180470",
+            "notation": "SF12418",
+            "pref_label": "SF12 v2.0 Acute - Bodily Pain Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180470"
+        },
+        {
+            "alt_label": "SF124-General Health Norm-Based Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - General health norm-based score.",
+            "identifier": "C180471",
+            "notation": "SF12419",
+            "pref_label": "SF12 v2.0 Acute - General Health Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180471"
+        },
+        {
+            "alt_label": "SF124-Vitality Norm-Based Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Vitality norm-based score.",
+            "identifier": "C180472",
+            "notation": "SF12420",
+            "pref_label": "SF12 v2.0 Acute - Vitality Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180472"
+        },
+        {
+            "alt_label": "SF124-Social Function Norm-Based Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Social function norm-based score.",
+            "identifier": "C180473",
+            "notation": "SF12421",
+            "pref_label": "SF12 v2.0 Acute - Social Function Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180473"
+        },
+        {
+            "alt_label": "SF124-Role Emotional Norm-Based Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Role emotional norm-based score.",
+            "identifier": "C180474",
+            "notation": "SF12422",
+            "pref_label": "SF12 v2.0 Acute - Role Emotional Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180474"
+        },
+        {
+            "alt_label": "SF124-Mental Health Norm-Based Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Mental health norm-based score.",
+            "identifier": "C180475",
+            "notation": "SF12423",
+            "pref_label": "SF12 v2.0 Acute - Mental Health Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180475"
+        },
+        {
+            "alt_label": "SF124-Physical Component Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Physical component score.",
+            "identifier": "C180476",
+            "notation": "SF12424",
+            "pref_label": "SF12 v2.0 Acute - Physical Component Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180476"
+        },
+        {
+            "alt_label": "SF124-Mental Component Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - Mental component score.",
+            "identifier": "C180477",
+            "notation": "SF12425",
+            "pref_label": "SF12 v2.0 Acute - Mental Component Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180477"
+        },
+        {
+            "alt_label": "SF124-SF-6D_R2 (Util Index Rel 2) Score",
+            "definition": "The Short Form 12 Health Survey Acute, US Version 2.0 - SF-6D_R2 (utility index release 2) score.",
+            "identifier": "C180478",
+            "notation": "SF12426",
+            "pref_label": "SF12 v2.0 Acute - SF-6D_R2 (Util Index Rel 2) Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C177718-C180478"
+        }
+    ]
+}

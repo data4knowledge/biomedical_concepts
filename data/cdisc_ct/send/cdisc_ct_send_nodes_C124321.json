@@ -1,0 +1,41 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The protocol defined period of time beginning with evidence of mating observation until cesarean section or delivery.",
+            "identifier": "C124602",
+            "notation": "GESTATION",
+            "pref_label": "Non-Clinical Gestation Trial Phase",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124321-C124602"
+        },
+        {
+            "definition": "The protocol defined period of time from the start of cohabitation until evidence of mating is observed or the animals are separated.",
+            "identifier": "C124603",
+            "notation": "PAIRING",
+            "pref_label": "Non-Clinical Pairing Trial Phase",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124321-C124603"
+        },
+        {
+            "definition": "The protocol defined period of time in a study that begins immediately after the birth of the subject.",
+            "identifier": "C124604",
+            "notation": "POSTNATAL",
+            "pref_label": "Non-Clinical Postnatal Trial Phase",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124321-C124604"
+        },
+        {
+            "alt_label": "Post-cohabitation",
+            "definition": "The protocol defined period of time in a study that occurs after the paired subjects are separated. This includes all males and females with no evidence of mating.",
+            "identifier": "C124605",
+            "notation": "POSTPAIRING",
+            "pref_label": "Non-Clinical Postpairing Trial Phase",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124321-C124605"
+        },
+        {
+            "alt_label": "Pre-pairing",
+            "definition": "The protocol defined period of time in a study prior to cohabitation.",
+            "identifier": "C124606",
+            "notation": "PREMATING",
+            "pref_label": "Non-Clinical Premating Trial Phase",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124321-C124606"
+        }
+    ]
+}

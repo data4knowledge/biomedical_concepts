@@ -1,0 +1,1303 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "aer",
+            "definition": "A product that is packaged under pressure and contains therapeutically active ingredients that are released upon activation of an appropriate valve system; it is intended for topical application to the skin as well as local application into the nose (nasal aerosols), mouth (lingual aerosols), or lungs (inhalation aerosols).",
+            "identifier": "C42887",
+            "notation": "AEROSOL",
+            "pref_label": "Aerosol Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42887"
+        },
+        {
+            "definition": "A dosage form containing one or more active ingredients, surfactants, aqueous or non-aqueous liquids, and the propellants; if the propellant is in the internal (discontinuous) phase (i.e., of the oil-in-water type), a stable foam is discharged, and if the propellant is in the external (continuous) phase (i.e., of the water-in-oil type), a spray or a quick-breaking foam is discharged.",
+            "identifier": "C42888",
+            "notation": "AEROSOL, FOAM",
+            "pref_label": "Aerosol Foam Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42888"
+        },
+        {
+            "definition": "A pressurized dosage form consisting of metered dose valves which allow for the delivery of a uniform quantity of spray upon each activation. (NCI)",
+            "identifier": "C42960",
+            "notation": "AEROSOL, METERED",
+            "pref_label": "Metered Aerosol Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42960"
+        },
+        {
+            "definition": "A product that is packaged under pressure and contains therapeutically active ingredients, in the form of a powder, that are released upon activation of an appropriate valve system. (NCI)",
+            "identifier": "C42971",
+            "notation": "AEROSOL, POWDER",
+            "pref_label": "Powder Aerosol Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42971"
+        },
+        {
+            "definition": "An aerosol product which utilizes a compressed gas as the propellant to provide the force necessary to expel the product as a wet spray; it is applicable to solutions of medicinal agents in aqueous solvents. (NCI)",
+            "identifier": "C42889",
+            "notation": "AEROSOL, SPRAY",
+            "pref_label": "Aerosol Spray Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42889"
+        },
+        {
+            "definition": "A solid dosage form usually in the form of a rectangle that is meant to be chewed. (NCI)",
+            "identifier": "C42892",
+            "notation": "BAR, CHEWABLE",
+            "pref_label": "Chewable Bar Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42892"
+        },
+        {
+            "definition": "A solid dosage form in the shape of a small ball. (NCI)",
+            "identifier": "C42890",
+            "notation": "BEAD",
+            "pref_label": "Bead Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42890"
+        },
+        {
+            "definition": "A small sterile solid mass consisting of a highly purified drug intended for implantation in the body which would allow at least a reduction in dosing frequency as compared to that drug presented as a conventional dosage form. (NCI)",
+            "identifier": "C43451",
+            "notation": "BEAD, IMPLANT, EXTENDED RELEASE",
+            "pref_label": "Extended Release Bead Implant Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C43451"
+        },
+        {
+            "definition": "Solid dosage form, usually in the shape of a square or rectangle. (NCI)",
+            "identifier": "C42891",
+            "notation": "BLOCK",
+            "pref_label": "Block Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42891"
+        },
+        {
+            "definition": "A solid dosage form in which a tablet has been compacted into capsule shape.",
+            "identifier": "C97197",
+            "notation": "CAPLET",
+            "pref_label": "Caplet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C97197"
+        },
+        {
+            "alt_label": "cap",
+            "definition": "A solid pharmaceutical dosage form that contains medicinal agent within either a hard or soft soluble container or shell, usually used for the oral administration of medicine. The shells are made of a suitable form of gelatin or other substance. (NCI)",
+            "identifier": "C25158",
+            "notation": "CAPSULE",
+            "pref_label": "Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C25158"
+        },
+        {
+            "definition": "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container or 'shell' made from a suitable form of gelatin; the drug itself is in the form of granules to which varying amounts of coating have been applied. (NCI)",
+            "identifier": "C42896",
+            "notation": "CAPSULE, COATED PELLETS",
+            "pref_label": "Coated Pellet in Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42896"
+        },
+        {
+            "definition": "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container or \"shell\" made from a suitable form of gelatin; additionally, the capsule is covered in a designated coating.",
+            "identifier": "C42895",
+            "notation": "CAPSULE, COATED",
+            "pref_label": "Coated Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42895"
+        },
+        {
+            "definition": "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container or \"shell\" made from a suitable form of gelatin; additionally, the capsule is covered in a designated coating, and which releases a drug (or drugs) in such a manner to allow at least a reduction in dosing frequency as compared to that drug (or drugs) presented as a conventional dosage form.",
+            "identifier": "C42917",
+            "notation": "CAPSULE, COATED, EXTENDED RELEASE",
+            "pref_label": "Extended Release Coated Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42917"
+        },
+        {
+            "definition": "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container or \"shell\" made from a suitable form of gelatin; the drug itself is in the form of granules to which enteric coating has been applied, thus delaying release of the drug until its passage into the intestines.",
+            "identifier": "C42904",
+            "notation": "CAPSULE, DELAYED RELEASE PELLETS",
+            "pref_label": "Delayed Release Pellet in Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42904"
+        },
+        {
+            "definition": "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container made from a suitable form of gelatin, and which releases a drug (or drugs) at a time other than promptly after administration. Enteric-coated articles are delayed release dosage forms. (NCI)",
+            "identifier": "C42902",
+            "notation": "CAPSULE, DELAYED RELEASE",
+            "pref_label": "Delayed Release Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42902"
+        },
+        {
+            "definition": "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container made from a suitable form of gelatin, and which releases a drug (or drugs) in such a manner to allow a reduction in dosing frequency as compared to that drug (or drugs) presented as a conventional dosage form. (NCI)",
+            "identifier": "C42916",
+            "notation": "CAPSULE, EXTENDED RELEASE",
+            "pref_label": "Extended Release Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42916"
+        },
+        {
+            "definition": "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container or 'shell' made from a suitable form of gelatin; additionally, the capsule is covered in a designated film coating, and which releases a drug (or drugs) in such a manner to allow at least a reduction in dosing frequency as compared to that drug (or drugs) presented as a conventional dosage form.",
+            "identifier": "C42928",
+            "notation": "CAPSULE, FILM COATED, EXTENDED RELEASE",
+            "pref_label": "Extended Release Film Coated Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42928"
+        },
+        {
+            "definition": "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container made from a suitable form of gelatin; through a banding process, the capsule is coated with additional layers of gelatin so as to form a complete seal. (NCI)",
+            "identifier": "C42936",
+            "notation": "CAPSULE, GELATIN COATED",
+            "pref_label": "Gelatin Coated Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42936"
+        },
+        {
+            "definition": "A capsule, covered with a rigid outer shell, that is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.",
+            "identifier": "C158214",
+            "notation": "CAPSULE, HARD, EXTENDED RELEASE",
+            "pref_label": "Extended Release Capsule, Hard Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C158214"
+        },
+        {
+            "definition": "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container, which is designed to release its active and/or inert ingredient(s) immediately upon administration.",
+            "identifier": "C142247",
+            "notation": "CAPSULE, IMMEDIATE RELEASE",
+            "pref_label": "Immediate Release Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C142247"
+        },
+        {
+            "definition": "A solid dosage form in which the drug is enclosed within a soluble, gelatin shell which is plasticized by the addition of a polyol, such as sorbitol or glycerin, and is therefore of a somewhat thicker consistency than that of a hard shell capsule; typically, the active ingredients are dissolved or suspended in a liquid vehicle. (NCI)",
+            "identifier": "C42954",
+            "notation": "CAPSULE, LIQUID FILLED",
+            "pref_label": "Liquid Filled Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42954"
+        },
+        {
+            "definition": "A capsule, covered with a soft gelatin shell and containing a liquid, suspension, or semisolid, that is designed to release active and/or inert ingredient(s).",
+            "identifier": "C184506",
+            "notation": "CAPSULE, SOFTGEL",
+            "pref_label": "Capsule Softgel Pharmaceutical Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C184506"
+        },
+        {
+            "definition": "A capsule, covered with a soft gelatin shell and containing a liquid, suspension, or semisolid, that is designed to release active and/or inert ingredient(s) at a controlled, prolonged rate so as to reduce dosing frequency.",
+            "identifier": "C158215",
+            "notation": "CAPSULE, SOFTGEL, EXTENDED RELEASE",
+            "pref_label": "Extended Release Capsule, Softgel Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C158215"
+        },
+        {
+            "definition": "A substance that serves to produce solid union between two surfaces. (NCI)",
+            "identifier": "C45414",
+            "notation": "CEMENT",
+            "pref_label": "Cement Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C45414"
+        },
+        {
+            "definition": "A narrow tube filled with material that is capable to burn with release of therapeutically-active substance(s) during the process of smoking. Cigarette is a very efficient drug-delivery inhaler system for fast-acting substances.",
+            "identifier": "C42678",
+            "notation": "CIGARETTE",
+            "pref_label": "Cigarette Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42678"
+        },
+        {
+            "definition": "A large piece of relatively flat, absorbent material that contains a drug. It is typically used for applying medication or for cleansing.",
+            "identifier": "C60884",
+            "notation": "CLOTH",
+            "pref_label": "Cloth Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60884"
+        },
+        {
+            "definition": "A liquid preparation of increased strength and reduced volume which is usually diluted prior to administration. (NCI)",
+            "identifier": "C60891",
+            "notation": "CONCENTRATE",
+            "pref_label": "Concentrated Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60891"
+        },
+        {
+            "definition": "A solid dosage form bounded by a circular base and the surface formed by line segments joining every point of the boundary of the base to a common vertex. A cone (usually containing antibiotics) is normally placed below the gingiva after a dental extraction. (NCI)",
+            "identifier": "C42900",
+            "notation": "CONE",
+            "pref_label": "Cone Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42900"
+        },
+        {
+            "definition": "An ocular system placed in the eye from which the drug diffuses through a membrane at a constant rate over a specified period. (NCI)",
+            "identifier": "C42919",
+            "notation": "CORE, EXTENDED RELEASE",
+            "pref_label": "Extended Release Core Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42919"
+        },
+        {
+            "definition": "A semisolid emulsion of either the oil-in-water or the water-in-oil type, ordinarily intended for topical use. (NCI)",
+            "identifier": "C28944",
+            "notation": "CREAM",
+            "pref_label": "Cream Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C28944"
+        },
+        {
+            "definition": "A cream dosage form that enhances drug delivery. Augmentation does not refer to the strength of the drug in the dosage form. NOTE: CDER has decided to refrain from expanding the use of this dosage form due to difficulties in setting specific criteria that must be met to be considered augmented.",
+            "identifier": "C60897",
+            "notation": "CREAM, AUGMENTED",
+            "pref_label": "Augmented Cream Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60897"
+        },
+        {
+            "definition": "A naturally produced angular solid of definite form in which the ultimate units from which it is built up are systematically arranged; they are usually evenly spaced on a regular space lattice.",
+            "identifier": "C42901",
+            "notation": "CRYSTAL",
+            "pref_label": "Crystal Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42901"
+        },
+        {
+            "definition": "The propagation of microorganisms or of living tissue cells in special media conducive to their growth. (NCI)",
+            "identifier": "C45415",
+            "notation": "CULTURE",
+            "pref_label": "Culture Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C45415"
+        },
+        {
+            "alt_label": "Depot Extended Release Dosage Form",
+            "definition": "Parenteral sustained-release systems of microparticles, implants, or biodegradable polymer-excipients designed to release their active pharmaceutical ingredient over a prolonged period of time.",
+            "identifier": "C106178",
+            "notation": "DEPOT",
+            "pref_label": "Extended Release Depot Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C106178"
+        },
+        {
+            "definition": "A device usually dome-shaped, worn during copulation over the cervical mouth for prevention of conception or infection. (NCI)",
+            "identifier": "C47890",
+            "notation": "DIAPHRAGM",
+            "pref_label": "Vaginal Diaphragm Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C47890"
+        },
+        {
+            "definition": "A circular plate-like organ or structure.",
+            "identifier": "C43525",
+            "notation": "DISC",
+            "pref_label": "Disc Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C43525"
+        },
+        {
+            "definition": "A liquid preparation, intended for the irrigative cleansing of the vagina, that is prepared from powders, liquid solutions, or liquid concentrates and contains one or more chemical substances dissolved in a suitable solvent or mutually miscible solvents. (NCI)",
+            "identifier": "C42679",
+            "notation": "DOUCHE",
+            "pref_label": "Douche Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42679"
+        },
+        {
+            "definition": "The application of various materials for protecting a wound.",
+            "identifier": "C42763",
+            "notation": "DRESSING",
+            "pref_label": "Dressing Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42763"
+        },
+        {
+            "definition": "Modern technology, distributed with or as a part of a drug product that allows for the uniform release or targeting of drugs to the body.",
+            "identifier": "C17423",
+            "notation": "DRUG DELIVERY SYSTEM",
+            "pref_label": "Drug Delivery System",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C17423"
+        },
+        {
+            "definition": "A clear, pleasantly flavored, sweetened hydroalcoholic liquid containing dissolved medicinal agents; it is intended for oral use. (NCI)",
+            "identifier": "C42912",
+            "notation": "ELIXIR",
+            "pref_label": "Elixir Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42912"
+        },
+        {
+            "definition": "A dosage form consisting of a two-phase system comprised of at least two immiscible liquids (1), one of which is dispersed as droplets (internal or dispersed phase) within the other liquid (external or continuous phase), generally stabilized with one or more emulsifying agents. Note 1: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. Note 2: Emulsion is used as a dosage form term unless a more specific term is applicable, e.g. cream, lotion, ointment. (NCI)",
+            "identifier": "C42913",
+            "notation": "EMULSION",
+            "pref_label": "Emulsion Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42913"
+        },
+        {
+            "definition": "A rectal preparation for therapeutic, diagnostic, or nutritive purposes. (NCI)",
+            "identifier": "C42915",
+            "notation": "ENEMA",
+            "pref_label": "Enema Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42915"
+        },
+        {
+            "definition": "A concentrated preparation of vegetable or animal drugs obtained by removal of the active constituents of the respective drugs with a suitable menstrua, evaporation of all or nearly all of the solvent, and adjustment of the residual masses or powders to the prescribed standards. (NCI)",
+            "identifier": "C42929",
+            "notation": "EXTRACT",
+            "pref_label": "Extract Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42929"
+        },
+        {
+            "definition": "A slender and elongated solid thread-like substance that delivers drug in such a manner to allow a reduction in dosing frequency as compared to that drug (or drugs) presented as a conventional dosage form.",
+            "identifier": "C60926",
+            "notation": "FIBER, EXTENDED RELEASE",
+            "pref_label": "Extended Release Fiber Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60926"
+        },
+        {
+            "definition": "A thin layer or coating. (NCI)",
+            "identifier": "C42932",
+            "notation": "FILM",
+            "pref_label": "Film Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42932"
+        },
+        {
+            "definition": "A drug delivery system in the form of a film that releases the drug over an extended period in such a way as to maintain constant drug levels in the blood or target tissue. (NCI)",
+            "identifier": "C42920",
+            "notation": "FILM, EXTENDED RELEASE",
+            "pref_label": "Extended Release Film Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42920"
+        },
+        {
+            "definition": "A thin layer or coating which is susceptible to being dissolved when in contact with a liquid. (NCI)",
+            "identifier": "C42984",
+            "notation": "FILM, SOLUBLE",
+            "pref_label": "Soluble Film Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42984"
+        },
+        {
+            "definition": "A product, usually a solid, intended for solution prior to administration.",
+            "identifier": "C60927",
+            "notation": "FOR SOLUTION",
+            "pref_label": "Dosage Form for Solution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60927"
+        },
+        {
+            "definition": "A product, usually a solid, intended for suspension prior to administration.",
+            "identifier": "C60928",
+            "notation": "FOR SUSPENSION",
+            "pref_label": "Dosage Form for Suspension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60928"
+        },
+        {
+            "definition": "A product, usually a solid, intended for suspension prior to administration; once the suspension is administered, the drug will be released at a constant rate over a specified period.",
+            "identifier": "C60929",
+            "notation": "FOR SUSPENSION, EXTENDED RELEASE",
+            "pref_label": "Extended Release Dosage Form for Suspension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60929"
+        },
+        {
+            "definition": "Any elastic aeriform fluid in which the molecules are separated from one another and have free paths. (NCI)",
+            "identifier": "C42933",
+            "notation": "GAS",
+            "pref_label": "Gas Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42933"
+        },
+        {
+            "definition": "A semisolid (1) dosage form that contains a gelling agent to provide stiffness to a solution or a colloidal dispersion (2). A gel may contain suspended particles. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: A colloidal dispersion is a system in which particles of colloidal dimension (i.e., typically between 1 nm and 1 micrometer) are distributed uniformly throughout a liquid.",
+            "identifier": "C42934",
+            "notation": "GEL",
+            "pref_label": "Gel Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42934"
+        },
+        {
+            "alt_label": "Gummie;Gummy",
+            "definition": "A formed or molded oral gel dosage form that maintains its shape, is elastic, and yields to mastication. (NCI)",
+            "identifier": "C134876",
+            "notation": "GEL, CHEWABLE",
+            "pref_label": "Chewable Gel Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C134876"
+        },
+        {
+            "definition": "A combination of a dentifrice (formulation intended to clean and/or polish the teeth, and which may contain certain additional agents), and a gel. It is used with a toothbrush for the purpose of cleaning and polishing the teeth. (NCI)",
+            "identifier": "C42906",
+            "notation": "GEL, DENTIFRICE",
+            "pref_label": "Dentifrice Gel Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42906"
+        },
+        {
+            "definition": "A gel preparation, with metered dose valves, which allow for the delivery of a uniform quantity of gel upon each activation.",
+            "identifier": "C60930",
+            "notation": "GEL, METERED",
+            "pref_label": "Metered Gel Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60930"
+        },
+        {
+            "definition": "An apparatus for the formation of vapor or gas from a liquid or solid by heat or chemical action. The term GENERATOR also applies to radioactive columns from which radionuclides are provided. (NCI)",
+            "identifier": "C48193",
+            "notation": "GENERATOR",
+            "pref_label": "Generator Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C48193"
+        },
+        {
+            "definition": "Also called pellets or pilules, are made of pure sucrose, lactose, or other polysaccharides. They are formed into small globular masses of various sizes, and are medicated by placing them in a vial and adding the liquid drug attenuation in the proportion not less than one percent (v/w). After shaking, the medicated globules are dried at temperatures not to exceed 40 degrees Centigrade. (NCI)",
+            "identifier": "C42937",
+            "notation": "GLOBULE",
+            "pref_label": "Globule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42937"
+        },
+        {
+            "definition": "A slip of skin or of other tissue for implantation. (NCI)",
+            "identifier": "C45416",
+            "notation": "GRAFT",
+            "pref_label": "Graft Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C45416"
+        },
+        {
+            "definition": "A small particle or grain. (NCI)",
+            "identifier": "C42938",
+            "notation": "GRANULE",
+            "pref_label": "Granule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42938"
+        },
+        {
+            "definition": "A small medicinal particle or grain to which an enteric or other coating has been applied, thus delaying release of the drug until its passage into the intestines. (NCI)",
+            "identifier": "C42903",
+            "notation": "GRANULE, DELAYED RELEASE",
+            "pref_label": "Delayed Release Granule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42903"
+        },
+        {
+            "definition": "A small particle or grain containing a medicinal agent in a dry mixture usually composed of sodium bicarbonate, citric acid, and tartaric acid which, when in contact with water, has the capability to release gas, resulting in effervescence. (NCI)",
+            "identifier": "C42909",
+            "notation": "GRANULE, EFFERVESCENT",
+            "pref_label": "Effervescent Granule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42909"
+        },
+        {
+            "definition": "A small medicinal particle or grain made available in its more stable dry form, to be reconstituted with solvent just before dispensing; the granules are so prepared to contain not only the medicinal agent, but the colorants, flavorants, and any other desired pharmaceutic ingredient. (NCI)",
+            "identifier": "C42939",
+            "notation": "GRANULE, FOR SOLUTION",
+            "pref_label": "Granule for Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42939"
+        },
+        {
+            "definition": "A small medicinal particle or grain made available in its more stable dry form, to be reconstituted with solvent just before dispensing to form a suspension; the granules are so prepared to contain not only the medicinal agent, but the colorants, flavorants, and any other desired pharmaceutic ingredient. (NCI)",
+            "identifier": "C42940",
+            "notation": "GRANULE, FOR SUSPENSION",
+            "pref_label": "Granule for Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42940"
+        },
+        {
+            "definition": "A small medicinal particle or grain made available in its more stable dry form, to be reconstituted with solvent just before dispensing to form a suspension; the extended release system achieves slow release of the drug over an extended period of time and maintains constant drug levels in the blood or target tissue. (NCI)",
+            "identifier": "C42921",
+            "notation": "GRANULE, FOR SUSPENSION, EXTENDED RELEASE",
+            "pref_label": "Extended Release Granule for Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42921"
+        },
+        {
+            "definition": "A mucilaginous excretion from various plants. (NCI)",
+            "identifier": "C42941",
+            "notation": "GUM",
+            "pref_label": "Gum Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42941"
+        },
+        {
+            "definition": "A sweetened and flavored insoluble plastic material of various shapes which when chewed, releases a drug substance into the oral cavity. (NCI)",
+            "identifier": "C42894",
+            "notation": "GUM, CHEWING",
+            "pref_label": "Chewing Gum Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42894"
+        },
+        {
+            "definition": "Natural mixture of gum and resin, usually obtained as exudations from plants. (NCI)",
+            "identifier": "C42978",
+            "notation": "GUM, RESIN",
+            "pref_label": "Resin Gum Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42978"
+        },
+        {
+            "definition": "A material containing drug intended to be inserted securely and deeply in a living site for growth, slow release, or formation of an organic union. (NCI)",
+            "identifier": "C42942",
+            "notation": "IMPLANT",
+            "pref_label": "Implant Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42942"
+        },
+        {
+            "definition": "A special class of inhalations consisting of a drug or combination of drugs, that by virtue of their high vapor pressure, can be carried by an air current into the nasal passage where they exert their effect; the container from which the inhalant generally is administered is known as an inhaler. (NCI)",
+            "identifier": "C42944",
+            "notation": "INHALANT",
+            "pref_label": "Inhalant Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42944"
+        },
+        {
+            "alt_label": "Capsule for Inhalation",
+            "definition": "Solid preparation consisting of a capsule formulation intended for generation of vapor to be inhaled to obtain a local effect. The vapor is usually generated by adding the whole capsule or the capsule contents to hot water. (EDQM)",
+            "identifier": "C149582",
+            "notation": "INHALATION VAPOR, CAPSULE",
+            "pref_label": "Inhalation Vapor, Capsule Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C149582"
+        },
+        {
+            "definition": "An injection, which either consists of or forms liposomes (a lipid bilayer vesicle usually composed of phospholipids which is used to encapsulate an active drug substance).",
+            "identifier": "C60931",
+            "notation": "INJECTABLE, LIPOSOMAL",
+            "pref_label": "Liposomal Injection Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60931"
+        },
+        {
+            "definition": "A sterile preparation intended for parenteral use; five distinct classes of injections exist as defined by the USP. (NCI)",
+            "identifier": "C42946",
+            "notation": "INJECTION",
+            "pref_label": "Injectable Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42946"
+        },
+        {
+            "definition": "An emulsion consisting of a sterile, pyrogen-free preparation intended to be administered parenterally.",
+            "identifier": "C42914",
+            "notation": "INJECTION, EMULSION",
+            "pref_label": "Emulsion for Injection Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42914"
+        },
+        {
+            "definition": "A substance composed of complexed active and/or inert ingredient(s) with natural or synthetic lipids that is intended for injection. (NCI)",
+            "identifier": "C42950",
+            "notation": "INJECTION, LIPID COMPLEX",
+            "pref_label": "Injectable Lipid Complex Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42950"
+        },
+        {
+            "definition": "A sterile preparation intended for reconstitution to form a solution for parenteral use. (NCI)",
+            "identifier": "C42974",
+            "notation": "INJECTION, POWDER, FOR SOLUTION",
+            "pref_label": "Powder for Injectable Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42974"
+        },
+        {
+            "definition": "A sterile preparation intended for reconstitution to form a suspension for parenteral use. (NCI)",
+            "identifier": "C42976",
+            "notation": "INJECTION, POWDER, FOR SUSPENSION",
+            "pref_label": "Powder for Injectable Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42976"
+        },
+        {
+            "definition": "A dried preparation intended for reconstitution to form a suspension for parenteral use which has been formulated in a manner to allow at least a reduction in dosing frequency as compared to that drug presented as a conventional dosage form (e.g., as a solution).",
+            "identifier": "C42977",
+            "notation": "INJECTION, POWDER, FOR SUSPENSION, EXTENDED RELEASE",
+            "pref_label": "Powder for Injectable Extended Release Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42977"
+        },
+        {
+            "definition": "A sterile freeze dried preparation intended for reconstitution for parenteral use which has been formulated in a manner that would allow liposomes (a lipid bilayer vesicle usually composed of phospholipids which is used to encapsulate an active drug substance, either within a lipid bilayer or in an aqueous space) to be formed upon reconstitution. (NCI)",
+            "identifier": "C42959",
+            "notation": "INJECTION, POWDER, LYOPHILIZED, FOR LIPOSOMAL SUSPENSION",
+            "pref_label": "Lyophilized Powder for Injectable Liposomal Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42959"
+        },
+        {
+            "definition": "A dosage form intended for the solution prepared by lyophilization ('freeze drying'), a process which involves the removal of water from products in the frozen state at extremely low pressures; this is intended for subsequent addition of liquid to create a solution that conforms in all respects to the requirements for Injections. (NCI)",
+            "identifier": "C42957",
+            "notation": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+            "pref_label": "Lyophilized Powder for Injectable Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42957"
+        },
+        {
+            "definition": "A liquid preparation, intended for parenteral use, that contains solids suspended in a suitable fluid medium and conforms in all respects to the requirements for Sterile Suspensions; the medicinal agents intended for the suspension are prepared by lyophilization (\"freeze drying\"), a process which involves the removal of water from products in the frozen state at extremely low pressures.",
+            "identifier": "C42958",
+            "notation": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION",
+            "pref_label": "Lyophilized Powder for Injectable Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42958"
+        },
+        {
+            "definition": "A sterile freeze dried preparation intended for reconstitution for parenteral use which has been formulated in a manner to allow at least a reduction in dosing frequency as compared to that drug presented as a conventional dosage form (e.g., as a solution). (NCI)",
+            "identifier": "C42956",
+            "notation": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION, EXTENDED RELEASE",
+            "pref_label": "Lyophilized Powder for Extended Release Injectable Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42956"
+        },
+        {
+            "definition": "A liquid preparation containing one or more drug substances dissolved in a suitable solvent or mixture of mutually miscible solvents that is suitable for injection. (NCI)",
+            "identifier": "C42945",
+            "notation": "INJECTION, SOLUTION",
+            "pref_label": "Injectable Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42945"
+        },
+        {
+            "definition": "A sterile preparation for parenteral use which, upon the addition of suitable solvents, yields a solution conforming in all respects to the requirements for Injections. (NCI)",
+            "identifier": "C42899",
+            "notation": "INJECTION, SOLUTION, CONCENTRATE",
+            "pref_label": "Concentrated Injectable Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42899"
+        },
+        {
+            "definition": "A liquid preparation, suitable for injection, which consists of solid particles dispersed throughout a liquid phase in which the particles are not soluble. It can also consist of an oil phase dispersed throughout an aqueous phase, or vice-versa. (NCI)",
+            "identifier": "C42995",
+            "notation": "INJECTION, SUSPENSION",
+            "pref_label": "Injectable Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42995"
+        },
+        {
+            "definition": "A sterile preparation intended for parenteral use which has been formulated in a manner to allow at least a reduction in dosing frequency as compared to that drug presented as a conventional dosage form (e.g., as a solution or a prompt drug-releasing, conventional solid dosage form). (NCI)",
+            "identifier": "C42926",
+            "notation": "INJECTION, SUSPENSION, EXTENDED RELEASE",
+            "pref_label": "Injectable Extended Release Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42926"
+        },
+        {
+            "definition": "A liquid parenteral pharmaceutical dosage form structured as a multilamellar composition of concentric phospholipid spheres that encapsulate the drug (drug delivery systems) separated by layers of water. Drug release is facilitated and controlled by in vivo erosion of the liposomes. To further increase the in vivo circulation time, liposomes in some preparations are covalently derivatized with PEG to produce PEGylated or stealth liposomes. Covalent attachment of drugs to the outer surface of liposomes can potentially serve as a delayed-release product. (NCI)",
+            "identifier": "C42951",
+            "notation": "INJECTION, SUSPENSION, LIPOSOMAL",
+            "pref_label": "Injectable Liposomal Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42951"
+        },
+        {
+            "definition": "A liquid preparation, suitable for injection, which consists of solid particles dispersed throughout a liquid phase in which the particles are not soluble. In addition, the product is sonicated while a gas is bubbled through the suspension, and this results in the formation of microspheres by the solid particles. (NCI)",
+            "identifier": "C42988",
+            "notation": "INJECTION, SUSPENSION, SONICATED",
+            "pref_label": "Injectable Sonicated Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42988"
+        },
+        {
+            "definition": "A specially formulated and shaped non-encapsulated solid preparation intended to be placed into a non-rectal orifice of the body, where drug is released, generally for localized effects.",
+            "identifier": "C60933",
+            "notation": "INSERT",
+            "pref_label": "Insert Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60933"
+        },
+        {
+            "definition": "A specially formulated and shaped solid preparation (e.g., ring, tablet, or stick) intended to be placed in the vagina by special inserters, where the medication is released, generally for localized effects; the extended release preparation is designed to allow a reduction in dosing frequency. (NCI)",
+            "identifier": "C42922",
+            "notation": "INSERT, EXTENDED RELEASE",
+            "pref_label": "Extended Release Insert Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42922"
+        },
+        {
+            "definition": "A device inserted and left in the uterus to prevent effective conception. (NCI)",
+            "identifier": "C47915",
+            "notation": "INTRAUTERINE DEVICE",
+            "pref_label": "Intrauterine Device Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C47915"
+        },
+        {
+            "definition": "A sterile solution intended to bathe or flush open wounds or body cavities; they're used topically, never parenterally. (NCI)",
+            "identifier": "C42947",
+            "notation": "IRRIGANT",
+            "pref_label": "Irrigant Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42947"
+        },
+        {
+            "definition": "A class of gels--semisolid systems which consist of suspensions made up of either small inorganic particles or large organic molecules interpenetrated by a liquid--in which the structural coherent matrix contains a high portion of liquid, usually water. (NCI)",
+            "identifier": "C42948",
+            "notation": "JELLY",
+            "pref_label": "Jelly Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42948"
+        },
+        {
+            "definition": "A packaged collection of related material. (NCI)",
+            "identifier": "C47916",
+            "notation": "KIT",
+            "pref_label": "Kit Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C47916"
+        },
+        {
+            "definition": "A material applied to the inside of the dental cavity, for protection or insulation of the surface.",
+            "identifier": "C45413",
+            "notation": "LINER, DENTAL",
+            "pref_label": "Dental Liner Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C45413"
+        },
+        {
+            "definition": "A solution or mixture of various substances in oil, alcoholic solutions of soap, or emulsions intended for external application. (NCI)",
+            "identifier": "C42949",
+            "notation": "LINIMENT",
+            "pref_label": "Liniment Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42949"
+        },
+        {
+            "definition": "A waxy solid, usually colored cosmetic, in stick form for the lips. (NCI)",
+            "identifier": "C42952",
+            "notation": "LIPSTICK",
+            "pref_label": "Lipstick Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42952"
+        },
+        {
+            "definition": "A dosage form consisting of a pure chemical in its liquid state. This dosage form term should not be applied to solutions. Note: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior.",
+            "identifier": "C42953",
+            "notation": "LIQUID",
+            "pref_label": "Liquid Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42953"
+        },
+        {
+            "definition": "A liquid that delivers a drug in such a manner to allow a reduction in dosing frequency as compared to that drug (or drugs) presented as a conventional dosage form.",
+            "identifier": "C60934",
+            "notation": "LIQUID, EXTENDED RELEASE",
+            "pref_label": "Extended Release Liquid Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60934"
+        },
+        {
+            "definition": "An emulsion, liquid (1) dosage form. This dosage form is generally for external application to the skin (2). Note 1: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. Note 2: Previously the definition of a lotion was: The term lotion has been used to categorize many topical suspensions, solutions, and emulsions intended for application to the skin. The current definition of a lotion is restricted to an emulsion.",
+            "identifier": "C29167",
+            "notation": "LOTION",
+            "pref_label": "Lotion Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C29167"
+        },
+        {
+            "definition": "A lotion dosage form that enhances drug delivery. Augmentation does not refer to the strength of the drug in the dosage form. NOTE: CDER has decided to refrain from expanding the use of this dosage form due to difficulties in setting specific criteria that must be met to be considered augmented.",
+            "identifier": "C60957",
+            "notation": "LOTION, AUGMENTED",
+            "pref_label": "Augmented Lotion Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60957"
+        },
+        {
+            "definition": "A lotion dosage form which has a soap or detergent that is usually used to clean the hair and scalp; it is often used as a vehicle for dermatologic agents.",
+            "identifier": "C60958",
+            "notation": "LOTION/SHAMPOO",
+            "pref_label": "Lotion Shampoo Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60958"
+        },
+        {
+            "definition": "A solid preparation containing one or more medicaments, usually in a flavored, sweetened base which is intended to dissolve or disintegrate slowly in the mouth. A lollipop is a lozenge on a stick.",
+            "identifier": "C42955",
+            "notation": "LOZENGE",
+            "pref_label": "Lozenge Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42955"
+        },
+        {
+            "definition": "An aqueous solution which is most often used for its deodorant, refreshing, or antiseptic effect. (NCI)",
+            "identifier": "C29269",
+            "notation": "MOUTHWASH",
+            "pref_label": "Mouthwash Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C29269"
+        },
+        {
+            "definition": "The use of a dosage form term is not relevant or appropriate. (NCI)",
+            "identifier": "C48624",
+            "notation": "NOT APPLICABLE",
+            "pref_label": "Dosage Form Not Applicable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C48624"
+        },
+        {
+            "definition": "An unctuous, combustible substance which is liquid, or easily liquefiable, on warming, and is soluble in ether but insoluble in water. Such substances, depending on their origin, are classified as animal, mineral, or vegetable oils. (NCI)",
+            "identifier": "C42965",
+            "notation": "OIL",
+            "pref_label": "Oil Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42965"
+        },
+        {
+            "alt_label": "oint",
+            "definition": "A suspension or emulsion, semisolid (1) dosage form, usually containing less than 20 percent water and volatiles (2) and greater than 50 percent hydrocarbons, waxes, or polyols as the vehicle. This dosage form is generally for external application to the skin or mucous membranes. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: Percent water and volatiles are measured by a loss on drying test in which the sample is heated at 105 degrees C until constant weight is achieved.",
+            "identifier": "C42966",
+            "notation": "OINTMENT",
+            "pref_label": "Ointment Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42966"
+        },
+        {
+            "definition": "An ointment dosage form that enhances drug delivery. Augmentation does not refer to the strength of the drug in the dosage form. NOTE: CDER has decided to refrain from expanding the use of this dosage form due to difficulties in setting specific criteria that must be met to be considered augmented.",
+            "identifier": "C60984",
+            "notation": "OINTMENT, AUGMENTED",
+            "pref_label": "Augmented Ointment Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60984"
+        },
+        {
+            "definition": "A material, usually covered by or impregnated with a drug, that is inserted into a body cavity or between the tooth enamel and the gingival margin.",
+            "identifier": "C47887",
+            "notation": "PACKING",
+            "pref_label": "Packing Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C47887"
+        },
+        {
+            "definition": "A semisolid dosage form, containing a large proportion (20 - 50%) of solids finely dispersed in a fatty vehicle. This dosage form is generally for external application to the skin or mucous membranes. Note: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. (NCI)",
+            "identifier": "C42967",
+            "notation": "PASTE",
+            "pref_label": "Paste Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42967"
+        },
+        {
+            "definition": "A paste formulation intended to clean and/or polish the teeth, and which may contain certain additional agents. (NCI)",
+            "identifier": "C42907",
+            "notation": "PASTE, DENTIFRICE",
+            "pref_label": "Dentifrice Paste Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42907"
+        },
+        {
+            "definition": "An aromatic preparation, often with a pleasing flavor, usually intended to dissolve in the mouth.",
+            "identifier": "C60985",
+            "notation": "PASTILLE",
+            "pref_label": "Pastille Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60985"
+        },
+        {
+            "definition": "A drug delivery system that often contains an adhesive backing that is usually applied to an external site on the body. Its ingredients either passively diffuse from, or are actively transported from, some portion of the patch. Depending upon the patch, the ingredients are either delivered to the outer surface of the body or into the body. A patch is sometimes synonymous with the terms Extended Release Film and System.",
+            "identifier": "C42968",
+            "notation": "PATCH",
+            "pref_label": "Patch Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42968"
+        },
+        {
+            "definition": "A drug delivery system in the form of a patch that releases the drug in such a manner that a reduction in dosing frequency compared to that drug presented as a conventional dosage form (e.g., a solution or a prompt drug-releasing, conventional solid dosage form). (NCI)",
+            "identifier": "C42923",
+            "notation": "PATCH, EXTENDED RELEASE",
+            "pref_label": "Extended Release Patch Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42923"
+        },
+        {
+            "definition": "A drug delivery system in the form of a patch which is controlled by an electric current that releases the drug in such a manner that a reduction in dosing frequency compared to that drug presented as a conventional dosage form (e.g., a solution or a prompt drug-releasing, conventional solid dosage form). (NCI)",
+            "identifier": "C42911",
+            "notation": "PATCH, EXTENDED RELEASE, ELECTRICALLY CONTROLLED",
+            "pref_label": "Electrically Controlled Extended Release Patch Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42911"
+        },
+        {
+            "definition": "A small sterile solid mass consisting of a highly purified drug (with or without excipients) made by the formation of granules, or by compression and molding. (NCI)",
+            "identifier": "C42969",
+            "notation": "PELLET",
+            "pref_label": "Pellet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42969"
+        },
+        {
+            "definition": "A small sterile solid mass consisting of a highly purified drug (with or without excipients) made by the formation of granules, or by compression and molding; they are intended for implantation in the body (usually subcutaneously) for the purpose of providing continuous release of the drug over long periods of time.",
+            "identifier": "C42943",
+            "notation": "PELLET, IMPLANTABLE",
+            "pref_label": "Implantable Pellet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42943"
+        },
+        {
+            "definition": "A solid dosage form in which the drug itself is in the form of granules to which varying amounts of coating have been applied, and which releases a drug (or drugs) in such a manner to allow a reduction in dosing frequency as compared to that drug (or drugs) presented as a conventional dosage form. (NCI)",
+            "identifier": "C42918",
+            "notation": "PELLETS, COATED, EXTENDED RELEASE",
+            "pref_label": "Extended Release Coated Pellet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42918"
+        },
+        {
+            "definition": "A dose of medicine in the form of a small pellet. (NCI)",
+            "identifier": "C25394",
+            "notation": "PILL",
+            "pref_label": "Pill Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C25394"
+        },
+        {
+            "definition": "Substance intended for external application made of such materials and of such consistency as to adhere to the skin and attach to a dressing; plasters are intended to afford protection and support and/or to furnish an occlusion and macerating action and to bring medication into close contact with the skin.",
+            "identifier": "C42970",
+            "notation": "PLASTER",
+            "pref_label": "Plaster Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42970"
+        },
+        {
+            "definition": "A soft, moist mass of meal, herbs, seed, etc., usually applied hot in cloth that consists of gruel-like consistency. (NCI)",
+            "identifier": "C47913",
+            "notation": "POULTICE",
+            "pref_label": "Poultice Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C47913"
+        },
+        {
+            "definition": "An intimate mixture of dry, finely divided drugs and/or chemicals that may be intended for internal or external use. (NCI)",
+            "identifier": "C42972",
+            "notation": "POWDER",
+            "pref_label": "Powder Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42972"
+        },
+        {
+            "definition": "A powder formulation intended to clean and/or polish the teeth, and which may contain certain additional agents. (NCI)",
+            "identifier": "C42908",
+            "notation": "POWDER, DENTIFRICE",
+            "pref_label": "Dentifrice Powder Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42908"
+        },
+        {
+            "definition": "An intimate mixture of dry, finely divided drugs and/or chemicals, which, upon the addition of suitable vehicles, yields a solution. (NCI)",
+            "identifier": "C42973",
+            "notation": "POWDER, FOR SOLUTION",
+            "pref_label": "Powder for Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42973"
+        },
+        {
+            "definition": "An intimate mixture of dry, finely divided drugs and/or chemicals, which, upon the addition of suitable vehicles, yields a suspension (a liquid preparation containing the solid particles dispersed in the liquid vehicle). (NCI)",
+            "identifier": "C42975",
+            "notation": "POWDER, FOR SUSPENSION",
+            "pref_label": "Powder for Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42975"
+        },
+        {
+            "definition": "A powder dosage form that is situated inside a container that has a mechanism to deliver a specified quantity. (NCI)",
+            "identifier": "C42961",
+            "notation": "POWDER, METERED",
+            "pref_label": "Metered Powder Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42961"
+        },
+        {
+            "definition": "A small circular object with a vacant circular center that is usually intended to be placed in the body by special inserters, where the medication is released, generally for localized effects.",
+            "identifier": "C60988",
+            "notation": "RING",
+            "pref_label": "Ring Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60988"
+        },
+        {
+            "definition": "A liquid used to cleanse by flushing. (NCI)",
+            "identifier": "C42979",
+            "notation": "RINSE",
+            "pref_label": "Rinse Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42979"
+        },
+        {
+            "definition": "A thick ointment or cerate (a fat or wax based preparation with a consistency between an ointment and a plaster). (NCI)",
+            "identifier": "C42980",
+            "notation": "SALVE",
+            "pref_label": "Salve Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42980"
+        },
+        {
+            "definition": "A liquid soap or detergent used to clean the hair and scalp and is often used as a vehicle for dermatologic agents. (NCI)",
+            "identifier": "C42981",
+            "notation": "SHAMPOO",
+            "pref_label": "Shampoo Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42981"
+        },
+        {
+            "definition": "A liquid soap or detergent containing one or more solid, insoluble substances dispersed in a liquid vehicle that is used to clean the hair and scalp and is often used as a vehicle for dermatologic agents. (NCI)",
+            "identifier": "C42982",
+            "notation": "SHAMPOO, SUSPENSION",
+            "pref_label": "Shampoo Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42982"
+        },
+        {
+            "definition": "Any compound of one or more fatty acids, or their equivalents, with an alkali; soap is detergent and is much employed in liniments, enemas, and in making pills. It is also a mild aperient, antacid and antiseptic. (NCI)",
+            "identifier": "C42983",
+            "notation": "SOAP",
+            "pref_label": "Soap Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42983"
+        },
+        {
+            "definition": "A substance having definite shape and volume manufactured for the administration of active and/or inert ingredient(s). Solids may include, but are not limited to, tablets, capsules, powders, granules, and certain suppositories.",
+            "identifier": "C45235",
+            "notation": "SOLID",
+            "pref_label": "Solid Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C45235"
+        },
+        {
+            "definition": "A clear, homogeneous liquid dosage form that contains one or more chemical substances dissolved in a solvent or mixture of mutually miscible solvents. Note: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior.",
+            "identifier": "C42986",
+            "notation": "SOLUTION",
+            "pref_label": "Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42986"
+        },
+        {
+            "definition": "A liquid preparation (i.e., a substance that flows readily in its natural state) that contains a drug dissolved in a suitable solvent or mixture of mutually miscible solvents; the drug has been strengthened by the evaporation of its non-active parts. (NCI)",
+            "identifier": "C42898",
+            "notation": "SOLUTION, CONCENTRATE",
+            "pref_label": "Concentrated Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42898"
+        },
+        {
+            "definition": "A solution for the preparation of an iced saline slush, which is administered by irrigation and used to induce regional hypothermia (in conditions such as certain open heart and kidney surgical procedures) by its direct application. (NCI)",
+            "identifier": "C42987",
+            "notation": "SOLUTION, FOR SLUSH",
+            "pref_label": "Solution for Slush Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42987"
+        },
+        {
+            "definition": "A solution, which after usually being administered in a drop-wise fashion, forms a gel.",
+            "identifier": "C60994",
+            "notation": "SOLUTION, GEL FORMING / DROPS",
+            "pref_label": "Gel Forming Drop Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60994"
+        },
+        {
+            "definition": "A solution that forms a gel when it comes in contact with ocular fluid, and which allows at least a reduction in dosing frequency.",
+            "identifier": "C42935",
+            "notation": "SOLUTION, GEL FORMING, EXTENDED RELEASE",
+            "pref_label": "Extended Release Gel Forming Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42935"
+        },
+        {
+            "definition": "A solution which is usually administered in a drop-wise fashion.",
+            "identifier": "C60992",
+            "notation": "SOLUTION/ DROPS",
+            "pref_label": "Drop Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60992"
+        },
+        {
+            "definition": "A porous, interlacing, absorbent material that contains a drug. It is typically used for applying or introducing medication, or for cleansing. A sponge usually retains its shape.",
+            "identifier": "C47912",
+            "notation": "SPONGE",
+            "pref_label": "Sponge Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C47912"
+        },
+        {
+            "definition": "A liquid minutely divided as by a jet of air or steam. (NCI)",
+            "identifier": "C42989",
+            "notation": "SPRAY",
+            "pref_label": "Spray Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42989"
+        },
+        {
+            "definition": "A non-pressurized dosage form consisting of valves which allow the dispensing of a specified quantity of spray upon each activation. (NCI)",
+            "identifier": "C42962",
+            "notation": "SPRAY, METERED",
+            "pref_label": "Metered Spray Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42962"
+        },
+        {
+            "definition": "A liquid preparation containing solid particles dispersed in a liquid vehicle and in the form of coarse droplets or as finely divided solids to be applied locally, most usually to the nasal-pharyngeal tract, or topically to the skin. (NCI)",
+            "identifier": "C42990",
+            "notation": "SPRAY, SUSPENSION",
+            "pref_label": "Spray Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42990"
+        },
+        {
+            "definition": "A dosage form prepared in a relatively long and slender often cylindrical form. (NCI)",
+            "identifier": "C42991",
+            "notation": "STICK",
+            "pref_label": "Stick Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42991"
+        },
+        {
+            "definition": "A long narrow piece of material.",
+            "identifier": "C47914",
+            "notation": "STRIP",
+            "pref_label": "Strip Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C47914"
+        },
+        {
+            "alt_label": "supp",
+            "definition": "A solid body of various weights and shapes, adapted for introduction into the rectal, vaginal, or urethral orifice of the human body; they usually melt, soften, or dissolve at body temperature.",
+            "identifier": "C42993",
+            "notation": "SUPPOSITORY",
+            "pref_label": "Suppository Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42993"
+        },
+        {
+            "definition": "A drug delivery system in the form of a suppository that allows at least a reduction in dosing frequency. (NCI)",
+            "identifier": "C42924",
+            "notation": "SUPPOSITORY, EXTENDED RELEASE",
+            "pref_label": "Extended Release Suppository Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42924"
+        },
+        {
+            "alt_label": "Ready to Use Suspension;susp",
+            "definition": "A liquid dosage form that contains solid particles dispersed in a liquid vehicle. Note: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior.",
+            "identifier": "C42994",
+            "notation": "SUSPENSION",
+            "pref_label": "Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42994"
+        },
+        {
+            "definition": "A liquid preparation consisting of solid particles dispersed throughout a liquid phase in which the particles are not soluble; the suspension has been formulated in a manner to allow at least a reduction in dosing frequency as compared to that drug presented as a conventional dosage form (e.g., as a solution or a prompt drug-releasing, conventional solid dosage form). (NCI)",
+            "identifier": "C42925",
+            "notation": "SUSPENSION, EXTENDED RELEASE",
+            "pref_label": "Extended Release Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42925"
+        },
+        {
+            "definition": "A suspension which is usually administered in a dropwise fashion.",
+            "identifier": "C60995",
+            "notation": "SUSPENSION/DROPS",
+            "pref_label": "Drop Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60995"
+        },
+        {
+            "definition": "A strand or fiber used to hold wound edges in apposition during healing. (NCI)",
+            "identifier": "C47889",
+            "notation": "SUTURE",
+            "pref_label": "Suture Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C47889"
+        },
+        {
+            "definition": "A small piece of relatively flat absorbent material that contains a drug. A swab may also be attached to one end of a small stick. A swab is typically used for applying medication or for cleansing.",
+            "identifier": "C47898",
+            "notation": "SWAB",
+            "pref_label": "Swab Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C47898"
+        },
+        {
+            "definition": "An oral solution containing high concentrations of sucrose or other sugars; the term has also been used to include any other liquid dosage form prepared in a sweet and viscid vehicle, including oral suspensions. (NCI)",
+            "identifier": "C42996",
+            "notation": "SYRUP",
+            "pref_label": "Syrup Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42996"
+        },
+        {
+            "alt_label": "tab",
+            "definition": "A solid dosage form containing medicinal substances with or without suitable diluents. (NCI)",
+            "identifier": "C42998",
+            "notation": "TABLET",
+            "pref_label": "Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42998"
+        },
+        {
+            "definition": "A solid dosage form containing medicinal substances with or without suitable diluents that is intended to be chewed, producing a pleasant tasting residue in the oral cavity that is easily swallowed and does not leave a bitter or unpleasant after-taste. (NCI)",
+            "identifier": "C42893",
+            "notation": "TABLET, CHEWABLE",
+            "pref_label": "Chewable Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42893"
+        },
+        {
+            "definition": "A solid dosage form containing a conglomerate of medicinal particles that have each been covered with a coating.",
+            "identifier": "C60997",
+            "notation": "TABLET, COATED PARTICLES",
+            "pref_label": "Tablet Coated Particle Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C60997"
+        },
+        {
+            "definition": "A solid dosage form that contains medicinal substances with or without suitable diluents and is covered with a designated coating. (NCI)",
+            "identifier": "C42897",
+            "notation": "TABLET, COATED",
+            "pref_label": "Coated Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42897"
+        },
+        {
+            "definition": "A solid dosage form containing a conglomerate of medicinal particles that have been covered with a coating which releases a drug (or drugs) at a time other than promptly after administration. Enteric-coated articles are delayed release dosage forms. (NCI)",
+            "identifier": "C42997",
+            "notation": "TABLET, DELAYED RELEASE PARTICLES",
+            "pref_label": "Delayed Release Particle Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42997"
+        },
+        {
+            "alt_label": "Tablet, Gastro-Resistant",
+            "definition": "A solid dosage form which releases a drug (or drugs) at a time other than promptly after administration. Enteric-coated articles are delayed release dosage forms. (NCI)",
+            "identifier": "C42905",
+            "notation": "TABLET, DELAYED RELEASE",
+            "pref_label": "Delayed Release Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42905"
+        },
+        {
+            "definition": "A solid dosage form containing mixtures of acids (e.g., citric acid, tartaric acid) and sodium bicarbonate, which release carbon dioxide when dissolved in water; it is intended to be dissolved or dispersed in water before administration.",
+            "identifier": "C42910",
+            "notation": "TABLET, EFFERVESCENT",
+            "pref_label": "Effervescent Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42910"
+        },
+        {
+            "alt_label": "Tablet, Prolonged Release",
+            "definition": "A solid dosage form containing a drug which allows at least a reduction in dosing frequency as compared to that drug presented in conventional dosage form. (NCI)",
+            "identifier": "C42927",
+            "notation": "TABLET, EXTENDED RELEASE",
+            "pref_label": "Extended Release Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42927"
+        },
+        {
+            "definition": "A solid dosage form that contains medicinal substances with or without suitable diluents and is coated with a thin layer of a water-insoluble or water-soluble polymer. (NCI)",
+            "identifier": "C42931",
+            "notation": "TABLET, FILM COATED",
+            "pref_label": "Film Coated Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42931"
+        },
+        {
+            "definition": "A solid dosage form that contains medicinal substances with or without suitable diluents and is coated with a thin layer of a water-insoluble or water-soluble polymer; the tablet is formulated in such manner as to make the contained medicament available over an extended period of time following ingestion.",
+            "identifier": "C42930",
+            "notation": "TABLET, FILM COATED, EXTENDED RELEASE",
+            "pref_label": "Film Coated Extended Release Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42930"
+        },
+        {
+            "definition": "A tablet that forms a solution when placed in a liquid.",
+            "identifier": "C61004",
+            "notation": "TABLET, FOR SOLUTION",
+            "pref_label": "Tablet for Solution Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C61004"
+        },
+        {
+            "definition": "A tablet that forms a suspension when placed in a liquid (formerly referred to as a Dispersible Tablet).",
+            "identifier": "C61005",
+            "notation": "TABLET, FOR SUSPENSION",
+            "pref_label": "Tablet for Suspension Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C61005"
+        },
+        {
+            "definition": "A solid dosage form containing medicinal substances with or without suitable diluents, which is designed to release its active and/or inert ingredient(s) immediately upon administration.",
+            "identifier": "C142248",
+            "notation": "TABLET, IMMEDIATE RELEASE",
+            "pref_label": "Immediate Release Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C142248"
+        },
+        {
+            "definition": "A solid dosage form containing one or more active pharmaceutical ingredient which can be dispersed in a carrier at solid state, and immediately released upon administration. (NCI)",
+            "identifier": "C162112",
+            "notation": "TABLET, IMMEDIATE RELEASE, SOLID DISPERSION",
+            "pref_label": "Solid Dispersion Immediate Release Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C162112"
+        },
+        {
+            "definition": "A solid dosage form exhibiting an altered inherent rate of release of active and/or inert ingredient(s).",
+            "identifier": "C170453",
+            "notation": "TABLET, MODIFIED RELEASE",
+            "pref_label": "Modified Release Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C170453"
+        },
+        {
+            "definition": "A solid dosage form exhibiting an altered inherent rate of release of active and/or inert ingredient(s) that is classified as long.",
+            "identifier": "C170573",
+            "notation": "TABLET, MODIFIED RELEASE, LONG DURATION",
+            "pref_label": "Long Modified Release Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C170573"
+        },
+        {
+            "definition": "A solid dosage form exhibiting an altered inherent rate of release of active and/or inert ingredient(s) that is classified as short.",
+            "identifier": "C170574",
+            "notation": "TABLET, MODIFIED RELEASE, SHORT DURATION",
+            "pref_label": "Short Modified Release Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C170574"
+        },
+        {
+            "definition": "A solid dosage form containing medicinal substances that have been compressed to form a multiple-layered tablet or a tablet-within-a-tablet, the inner tablet being the core and the outer portion being the shell. (NCI)",
+            "identifier": "C42964",
+            "notation": "TABLET, MULTILAYER",
+            "pref_label": "Multilayered Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42964"
+        },
+        {
+            "definition": "A solid dosage form containing medicinal substances that have been compressed to form a multiple-layered tablet or a tablet-within-a-tablet, the inner tablet being the core and the outer portion being the shell, which, additionally, is covered in a designated coating; the tablet is formulated in such manner as to allow at least a reduction in dosing frequency as compared to that drug presented as a conventional dosage form. (NCI)",
+            "identifier": "C42963",
+            "notation": "TABLET, MULTILAYER, EXTENDED RELEASE",
+            "pref_label": "Multilayered Extended Release Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42963"
+        },
+        {
+            "definition": "A solid dosage form containing medicinal substances which disintegrates rapidly, usually within a matter of seconds, when placed upon the tongue. (NCI)",
+            "identifier": "C42999",
+            "notation": "TABLET, ORALLY DISINTEGRATING",
+            "pref_label": "Orally Disintegrating Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42999"
+        },
+        {
+            "definition": "A solid dosage form containing medicinal substances which disintegrates rapidly, usually within a matter of seconds, when placed upon the tongue, but which releases a drug (or drugs) at a time other than promptly after administration.",
+            "identifier": "C61006",
+            "notation": "TABLET, ORALLY DISINTEGRATING, DELAYED RELEASE",
+            "pref_label": "Orally Disintegrating Delayed Release Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C61006"
+        },
+        {
+            "definition": "A solid dosage form that contains medicinal substances with or without suitable diluents and possesses the ability to dissolve in fluids. (NCI)",
+            "identifier": "C42985",
+            "notation": "TABLET, SOLUBLE",
+            "pref_label": "Soluble Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42985"
+        },
+        {
+            "definition": "A solid dosage form that contains medicinal substances with or without suitable diluents and is coated with a colored or an uncolored water-soluble sugar. (NCI)",
+            "identifier": "C42992",
+            "notation": "TABLET, SUGAR COATED",
+            "pref_label": "Sugar Coated Tablet Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C42992"
+        },
+        {
+            "definition": "A plug made of cotton, sponge, or oakum variously used in surgery to plug the nose, vagina, etc., for the control of hemorrhage or the absorption of secretions. (NCI)",
+            "identifier": "C47892",
+            "notation": "TAMPON",
+            "pref_label": "Tampon Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C47892"
+        },
+        {
+            "definition": "A narrow woven fabric, or a narrow extruded synthetic (such as plastic), usually with an adhesive on one or both sides. (NCI)",
+            "identifier": "C47897",
+            "notation": "TAPE",
+            "pref_label": "Tape Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C47897"
+        },
+        {
+            "definition": "An alcoholic or hydroalcoholic solution prepared from vegetable materials or from chemical substances. (NCI)",
+            "identifier": "C43000",
+            "notation": "TINCTURE",
+            "pref_label": "Tincture Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C43000"
+        },
+        {
+            "definition": "A discoid-shaped solid containing the medicinal agent in a suitably flavored base; troches are placed in the mouth where they slowly dissolve, liberating the active ingredients. (NCI)",
+            "identifier": "C43001",
+            "notation": "TROCHE",
+            "pref_label": "Troche Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C43001"
+        },
+        {
+            "definition": "A dosage form has yet to be assigned. (NCI)",
+            "identifier": "C43002",
+            "notation": "UNASSIGNED",
+            "pref_label": "Unassigned Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C43002"
+        },
+        {
+            "definition": "The type of pharmaceutical dose form is unknown, or has unspecified or variable physical characteristics. (EDQM)",
+            "identifier": "C150001",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown Dosage Form Category",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C150001"
+        },
+        {
+            "definition": "A ring composed of active and/or inert ingredient(s), intended for administration in or around the vagina.",
+            "identifier": "C91199",
+            "notation": "VAGINAL RING",
+            "pref_label": "Vaginal Ring Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C91199"
+        },
+        {
+            "definition": "A thin slice of material containing a medicinal agent. (NCI)",
+            "identifier": "C43003",
+            "notation": "WAFER",
+            "pref_label": "Wafer Dosage Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66726-C43003"
+        }
+    ]
+}

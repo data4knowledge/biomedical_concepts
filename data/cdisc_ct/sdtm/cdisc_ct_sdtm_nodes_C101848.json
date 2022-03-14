@@ -1,0 +1,40 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The potential future harm that may arise from some present action or attribute or condition is almost certain.",
+            "identifier": "C102401",
+            "notation": "HIGH RISK",
+            "pref_label": "High Risk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101848-C102401"
+        },
+        {
+            "definition": "The potential future harm that may arise from some present action or attribute or condition is moderate.",
+            "identifier": "C102402",
+            "notation": "INTERMEDIATE RISK",
+            "pref_label": "Intermediate Risk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101848-C102402"
+        },
+        {
+            "definition": "The potential future harm that may arise from some present action or attribute or condition is small.",
+            "identifier": "C102403",
+            "notation": "LOW RISK",
+            "pref_label": "Low Risk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101848-C102403"
+        },
+        {
+            "definition": "The potential future harm that may arise from some present action or attribute or condition is minimal.",
+            "identifier": "C139268",
+            "notation": "MINIMAL RISK",
+            "pref_label": "Minimal Risk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101848-C139268"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101848-C17998"
+        }
+    ]
+}

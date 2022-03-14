@@ -1,0 +1,57 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "BA",
+            "definition": "Testing activities to measure the amount of biotics and/or xenobiotics for the purpose of characterizing absorption, distribution, metabolism, and excretion (ADME) properties.",
+            "identifier": "C181560",
+            "notation": "BIOANALYSIS",
+            "pref_label": "Bioanalytical Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C181166-C181560"
+        },
+        {
+            "definition": "All testing activities involving clinical pathology within the study.",
+            "identifier": "C181558",
+            "notation": "CLINICAL PATHOLOGY FOR ALL ENDPOINTS",
+            "pref_label": "Clinical Pathology For All Endpoints",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C181166-C181558"
+        },
+        {
+            "definition": "Testing activities involving clinical pathology for certain endpoints within the study.",
+            "identifier": "C181559",
+            "notation": "CLINICAL PATHOLOGY FOR SELECTED ENDPOINTS",
+            "pref_label": "Clinical Pathology For Selected Endpoints",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C181166-C181559"
+        },
+        {
+            "alt_label": "Electrocardiogram Analysis",
+            "definition": "Data analysis activities to interpret electrocardiograms.",
+            "identifier": "C181655",
+            "notation": "ECG ANALYSIS",
+            "pref_label": "Electrocardiogram Analysis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C181166-C181655"
+        },
+        {
+            "alt_label": "Gross Pathological Examination",
+            "definition": "An assessment of macroscopic pathological findings.",
+            "identifier": "C90390",
+            "notation": "GROSS PATHOLOGY",
+            "pref_label": "Gross Pathologic Examination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C181166-C90390"
+        },
+        {
+            "definition": "Microscopic evaluation of tissues for detection of abnormalities.",
+            "identifier": "C18190",
+            "notation": "HISTOPATHOLOGY",
+            "pref_label": "Histopathologic Examination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C181166-C18190"
+        },
+        {
+            "alt_label": "TK",
+            "definition": "Data analysis that results in the characterization of the in vivo exposure to a substance/analyte, which may be used to characterize one or more ADME (absorption, distribution, metabolism, and excretion) properties.",
+            "identifier": "C181561",
+            "notation": "TOXICOKINETIC ANALYSIS",
+            "pref_label": "Toxicokinetic Analysis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C181166-C181561"
+        }
+    ]
+}

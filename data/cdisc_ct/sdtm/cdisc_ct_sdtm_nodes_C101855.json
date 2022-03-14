@@ -1,0 +1,49 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Cardiac arrest which occurs before a percutaneous coronary intervention can take place.",
+            "identifier": "C99920",
+            "notation": "CARDIAC ARREST BEFORE PCI",
+            "pref_label": "Cardiac Arrest Prior to Percutaneous Coronary Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101855-C99920"
+        },
+        {
+            "definition": "Access to the subject's vasculature is troublesome or formidable.",
+            "identifier": "C99945",
+            "notation": "DIFFICULT VASCULAR ACCESS",
+            "pref_label": "Difficult Vascular Access",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101855-C99945"
+        },
+        {
+            "definition": "Placement of intracoronary devices across the coronary stenosis is troublesome or formidable.",
+            "identifier": "C99946",
+            "notation": "DIFFICULTY CROSSING THE CULPRIT LESION DURING THE PCI PROCEDURE",
+            "pref_label": "Difficulty Crossing Culprit Lesion During Percutaneous Coronary Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101855-C99946"
+        },
+        {
+            "alt_label": "Intubation before PCI",
+            "definition": "Endotracheal intubation which occurs before a percutaneous coronary intervention can take place.",
+            "identifier": "C99950",
+            "notation": "ENDOTRACHEAL INTUBATION BEFORE PCI",
+            "pref_label": "Endotracheal Intubation before Percutaneous Coronary Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101855-C99950"
+        },
+        {
+            "alt_label": "Other",
+            "definition": "Different than the one(s) previously specified or mentioned. (NCI)",
+            "identifier": "C17649",
+            "notation": "OTHER",
+            "pref_label": "Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101855-C17649"
+        },
+        {
+            "alt_label": "Patient Delay in Providing Consent",
+            "definition": "The subject has not provided consent in a timely manner for the procedure to take place.",
+            "identifier": "C100016",
+            "notation": "SUBJECT DELAY IN PROVIDING CONSENT",
+            "pref_label": "Subject Delay in Providing Consent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101855-C100016"
+        }
+    ]
+}

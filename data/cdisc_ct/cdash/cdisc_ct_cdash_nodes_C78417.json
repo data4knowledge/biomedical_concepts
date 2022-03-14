@@ -1,0 +1,68 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "cap;Capsule Dosing Unit",
+            "definition": "A dosing measurement based on the capsule unit.(NCI)",
+            "identifier": "C48480",
+            "notation": "CAPSULE",
+            "pref_label": "Capsule Dosing Unit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78417-C48480"
+        },
+        {
+            "alt_label": "Gram",
+            "definition": "A unit of mass equal to one thousandth (1E-3) of a kilogram, the kilogram being the base unit of mass in the International System of Units (SI).",
+            "identifier": "C48155",
+            "notation": "g",
+            "pref_label": "Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78417-C48155"
+        },
+        {
+            "alt_label": "IE;International Unit",
+            "definition": "The unitage assigned by the WHO (World Health Organization) to International Biological Standards - substances, classed as biological according to the criteria provided by WHO Expert Committee on Biological Standardization, to enable the results of biological and immunological assay procedures to be expressed in the same way throughout the world. The definition of an international unit is generally arbitrary and technical, and has to be officially approved by the International Conference for Unification of Formulae.(NCI)",
+            "identifier": "C48579",
+            "notation": "IU",
+            "pref_label": "International Unit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78417-C48579"
+        },
+        {
+            "alt_label": "Milligram",
+            "definition": "A unit of mass equal to one thousandth (1E-3) of a gram.",
+            "identifier": "C28253",
+            "notation": "mg",
+            "pref_label": "Milligram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78417-C28253"
+        },
+        {
+            "alt_label": "cm3;Milliliter",
+            "definition": "A unit of volume equal to one thousandth (1E-3) of a liter.",
+            "identifier": "C28254",
+            "notation": "mL",
+            "pref_label": "Milliliter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78417-C28254"
+        },
+        {
+            "alt_label": "Puff Dosing Unit",
+            "definition": "A means of delivering a defined dose of a therapeutic aerolized solution into either the upper or lower respiratory tract. Metered-dose inhalers or spray pumps are devices that provide a puff dose for delivery into either the oral or the nasal cavity.(NCI)",
+            "identifier": "C65060",
+            "notation": "PUFF",
+            "pref_label": "Puff Dosing Unit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78417-C65060"
+        },
+        {
+            "alt_label": "tab;Tablet Dosing Unit",
+            "definition": "A dosing measurement based on the tablet unit.(NCI)",
+            "identifier": "C48542",
+            "notation": "TABLET",
+            "pref_label": "Tablet Dosing Unit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78417-C48542"
+        },
+        {
+            "alt_label": "mcg;Microgram",
+            "definition": "A unit of mass equal to one millionth (1E-6) of a gram.",
+            "identifier": "C48152",
+            "notation": "ug",
+            "pref_label": "Microgram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78417-C48152"
+        }
+    ]
+}

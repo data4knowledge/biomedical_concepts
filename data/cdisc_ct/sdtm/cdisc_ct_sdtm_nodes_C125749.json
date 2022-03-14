@@ -1,0 +1,476 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "PHQ03-Stomach Pain",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by stomach pain?",
+            "identifier": "C125829",
+            "notation": "PHQ0301A",
+            "pref_label": "PHQ Screener Version - Stomach Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125829"
+        },
+        {
+            "alt_label": "PHQ03-Back Pain",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by back pain?",
+            "identifier": "C125830",
+            "notation": "PHQ0301B",
+            "pref_label": "PHQ Screener Version - Back Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125830"
+        },
+        {
+            "alt_label": "PHQ03-Pain in Your Arms/Legs/Joints",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by pain in your arms, legs, or joints (knees, hips, etc.)?",
+            "identifier": "C125831",
+            "notation": "PHQ0301C",
+            "pref_label": "PHQ Screener Version - Pain in Arms, Legs, Joints",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125831"
+        },
+        {
+            "alt_label": "PHQ03-Menstrual Cramp/Problem",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by menstrual cramps or other problems with your periods?",
+            "identifier": "C125832",
+            "notation": "PHQ0301D",
+            "pref_label": "PHQ Screener Version - Menstrual Cramp or Other Problem",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125832"
+        },
+        {
+            "alt_label": "PHQ03-Pain/Problems During Intercourse",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by pain or problems during sexual intercourse?",
+            "identifier": "C125833",
+            "notation": "PHQ0301E",
+            "pref_label": "PHQ Screener Version - Pain During Intercourse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125833"
+        },
+        {
+            "alt_label": "PHQ03-Headaches",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by headaches?",
+            "identifier": "C125834",
+            "notation": "PHQ0301F",
+            "pref_label": "PHQ Screener Version - Headaches",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125834"
+        },
+        {
+            "alt_label": "PHQ03-Chest Pain",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by chest pain?",
+            "identifier": "C125835",
+            "notation": "PHQ0301G",
+            "pref_label": "PHQ Screener Version - Chest Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125835"
+        },
+        {
+            "alt_label": "PHQ03-Dizziness",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by dizziness?",
+            "identifier": "C125836",
+            "notation": "PHQ0301H",
+            "pref_label": "PHQ Screener Version - Dizziness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125836"
+        },
+        {
+            "alt_label": "PHQ03-Fainting Spells",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by fainting spells?",
+            "identifier": "C125837",
+            "notation": "PHQ0301I",
+            "pref_label": "PHQ Screener Version - Fainting Spells",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125837"
+        },
+        {
+            "alt_label": "PHQ03-Feeling Your Heart Pound/Race",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by feeling your heart pound/race?",
+            "identifier": "C125838",
+            "notation": "PHQ0301J",
+            "pref_label": "PHQ Screener Version - Feeling Your Heart Pound or Race",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125838"
+        },
+        {
+            "alt_label": "PHQ03-Shortness of Breath",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by shortness of breath?",
+            "identifier": "C125839",
+            "notation": "PHQ0301K",
+            "pref_label": "PHQ Screener Version - Shortness of Breath",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125839"
+        },
+        {
+            "alt_label": "PHQ03-Constipation/Diarrhea",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by constipation, loose bowels, or diarrhea?",
+            "identifier": "C125840",
+            "notation": "PHQ0301L",
+            "pref_label": "PHQ Screener Version - Constipation or Diarrhea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125840"
+        },
+        {
+            "alt_label": "PHQ03-Nausea/Gas/Indigestion",
+            "definition": "Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by nausea, gas, indigestion?",
+            "identifier": "C125841",
+            "notation": "PHQ0301M",
+            "pref_label": "PHQ Screener Version - Nausea, Gas or Indigestion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125841"
+        },
+        {
+            "alt_label": "PHQ03-Little Interest in Doing Things",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by little interest or pleasure in doing things?",
+            "identifier": "C125842",
+            "notation": "PHQ0302A",
+            "pref_label": "PHQ Screener Version - Little Interest in Doing Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125842"
+        },
+        {
+            "alt_label": "PHQ03-Feeling Down/Depressed",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by feeling down, depressed, or hopeless?",
+            "identifier": "C125843",
+            "notation": "PHQ0302B",
+            "pref_label": "PHQ Screener Version - Feeling Down or Depressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125843"
+        },
+        {
+            "alt_label": "PHQ03-Last 2 Week Trouble Falling Asleep",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by trouble falling or staying asleep, or sleeping too much?",
+            "identifier": "C125844",
+            "notation": "PHQ0302C",
+            "pref_label": "PHQ Screener Version - Last 2 Weeks, Trouble Falling or Staying Asleep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125844"
+        },
+        {
+            "alt_label": "PHQ03-Feeling Tired/Little Energy",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by feeling tired or having little energy?",
+            "identifier": "C125845",
+            "notation": "PHQ0302D",
+            "pref_label": "PHQ Screener Version - Feeling Tired or Little Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125845"
+        },
+        {
+            "alt_label": "PHQ03-Poor Appetite or Overeating",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by poor appetite or overeating?",
+            "identifier": "C125846",
+            "notation": "PHQ0302E",
+            "pref_label": "PHQ Screener Version - Poor Appetite or Overeating",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125846"
+        },
+        {
+            "alt_label": "PHQ03-Feeling Bad About Yourself",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by feeling bad about yourself - or that you are a failure or have let yourself or your family down?",
+            "identifier": "C125847",
+            "notation": "PHQ0302F",
+            "pref_label": "PHQ Screener Version - Feeling Bad About Yourself",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125847"
+        },
+        {
+            "alt_label": "PHQ03-Last 2 Week Trouble Concentrating",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by trouble concentrating on things, such as reading the newspaper or watching television?",
+            "identifier": "C125848",
+            "notation": "PHQ0302G",
+            "pref_label": "PHQ Screener Version - Last 2 Weeks, Trouble Concentrating",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125848"
+        },
+        {
+            "alt_label": "PHQ03-Moving Slowly/Fidgety/Restless",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?",
+            "identifier": "C125849",
+            "notation": "PHQ0302H",
+            "pref_label": "PHQ Screener Version - Moving Slowly or Moving More",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125849"
+        },
+        {
+            "alt_label": "PHQ03-Thoughts Be Better Off Dead",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by thoughts that you would be better off dead or of hurting yourself in some way?",
+            "identifier": "C125850",
+            "notation": "PHQ0302I",
+            "pref_label": "PHQ Screener Version - Thoughts Be Better Off Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125850"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack",
+            "definition": "Patient Health Questionnaire Screener Version - In the last 4 weeks, have you had an anxiety attack - suddenly feeling fear or panic?",
+            "identifier": "C125851",
+            "notation": "PHQ0303A",
+            "pref_label": "PHQ Screener Version - Anxiety Attack",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125851"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Happened Before",
+            "definition": "Patient Health Questionnaire Screener Version - Has this ever happened before?",
+            "identifier": "C125852",
+            "notation": "PHQ0303B",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Happened Before",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125852"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attacks Come Suddenly",
+            "definition": "Patient Health Questionnaire Screener Version - Do some of these attacks come suddenly out of the blue - that is, in situations where you don't expect to be nervous or uncomfortable?",
+            "identifier": "C125853",
+            "notation": "PHQ0303C",
+            "pref_label": "PHQ Screener Version - Anxiety Attacks Come Suddenly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125853"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attacks Bother a Lot",
+            "definition": "Patient Health Questionnaire Screener Version - Do these attacks bother you a lot or are you worried about having another attack?",
+            "identifier": "C125854",
+            "notation": "PHQ0303D",
+            "pref_label": "PHQ Screener Version - Anxiety Attacks Bother a Lot",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125854"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Short of Breath",
+            "definition": "Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Were you short of breath?",
+            "identifier": "C125855",
+            "notation": "PHQ0304A",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Short of Breath",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125855"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Heart Race/Pound",
+            "definition": "Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did your heart race, pound, or skip?",
+            "identifier": "C125856",
+            "notation": "PHQ0304B",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Heart Race or Pound",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125856"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Chest Pain",
+            "definition": "Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you have chest pain or pressure?",
+            "identifier": "C125857",
+            "notation": "PHQ0304C",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Chest Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125857"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Sweat",
+            "definition": "Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you sweat?",
+            "identifier": "C125858",
+            "notation": "PHQ0304D",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Sweat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125858"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Choking",
+            "definition": "Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you feel as if you were choking?",
+            "identifier": "C125859",
+            "notation": "PHQ0304E",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Choking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125859"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Hot Flash/Chill",
+            "definition": "Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you have hot flashes or chills?",
+            "identifier": "C125860",
+            "notation": "PHQ0304F",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Hot Flash or Chill",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125860"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Nausea/Diarrhea",
+            "definition": "Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you have nausea or an upset stomach, or the feeling that you were going to have diarrhea?",
+            "identifier": "C125861",
+            "notation": "PHQ0304G",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Nausea or Diarrhea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125861"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Dizzy/Faint",
+            "definition": "Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you feel dizzy, unsteady, or faint?",
+            "identifier": "C125862",
+            "notation": "PHQ0304H",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Dizzy or Faint",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125862"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Tingling/Numbness",
+            "definition": "Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you have tingling or numbness in parts of your body?",
+            "identifier": "C125863",
+            "notation": "PHQ0304I",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Tingling or Numbness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125863"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Tremble/Shake",
+            "definition": "Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you tremble or shake?",
+            "identifier": "C125864",
+            "notation": "PHQ0304J",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Tremble or Shake",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125864"
+        },
+        {
+            "alt_label": "PHQ03-Anxiety Attack Afraid You Dying",
+            "definition": "Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Were you afraid you were dying?",
+            "identifier": "C125865",
+            "notation": "PHQ0304K",
+            "pref_label": "PHQ Screener Version - Anxiety Attack Afraid You Were Dying",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125865"
+        },
+        {
+            "alt_label": "PHQ03-Feeling Nervous/Anxious",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by feeling nervous, anxious, on edge, or worrying a lot about different things?",
+            "identifier": "C125866",
+            "notation": "PHQ0305A",
+            "pref_label": "PHQ Screener Version - Feeling Nervous or Anxious",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125866"
+        },
+        {
+            "alt_label": "PHQ03-Feeling Restless",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by feeling restless so that it is hard to sit still?",
+            "identifier": "C125867",
+            "notation": "PHQ0305B",
+            "pref_label": "PHQ Screener Version - Feeling Restless",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125867"
+        },
+        {
+            "alt_label": "PHQ03-Getting Tired Easily",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by getting tired very easily?",
+            "identifier": "C125868",
+            "notation": "PHQ0305C",
+            "pref_label": "PHQ Screener Version - Getting Tired Easily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125868"
+        },
+        {
+            "alt_label": "PHQ03-Muscle Tension/Aches/Soreness",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by muscle tension, aches, or soreness?",
+            "identifier": "C125869",
+            "notation": "PHQ0305D",
+            "pref_label": "PHQ Screener Version - Muscle Tension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125869"
+        },
+        {
+            "alt_label": "PHQ03-Last 4 Week Trouble Falling Asleep",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by trouble falling asleep or staying asleep?",
+            "identifier": "C125870",
+            "notation": "PHQ0305E",
+            "pref_label": "PHQ Screener Version - Last 4 Weeks, Trouble Falling or Staying Asleep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125870"
+        },
+        {
+            "alt_label": "PHQ03-Last 4 Week Trouble Concentrating",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by trouble concentrating on things, such as reading a book or watching TV?",
+            "identifier": "C125871",
+            "notation": "PHQ0305F",
+            "pref_label": "PHQ Screener Version - Last 4 Weeks, Trouble Concentrating",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125871"
+        },
+        {
+            "alt_label": "PHQ03-Becoming Easily Annoyed",
+            "definition": "Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by becoming easily annoyed or irritable?",
+            "identifier": "C125872",
+            "notation": "PHQ0305G",
+            "pref_label": "PHQ Screener Version - Becoming Easily Annoyed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125872"
+        },
+        {
+            "alt_label": "PHQ03-No Control What/How Much Eat",
+            "definition": "Patient Health Questionnaire Screener Version - Do you often feel that you can't control what or how much you eat?",
+            "identifier": "C125873",
+            "notation": "PHQ0306A",
+            "pref_label": "PHQ Screener Version - No Control What or How Much Eat",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125873"
+        },
+        {
+            "alt_label": "PHQ03-Eat 2-Hours Large Amount Food",
+            "definition": "Patient Health Questionnaire Screener Version - Do you often eat, within any 2 - hour period, what most people would regard as an unusually large amount of food?",
+            "identifier": "C125874",
+            "notation": "PHQ0306B",
+            "pref_label": "PHQ Screener Version - Often Eat Large Amount Food",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125874"
+        },
+        {
+            "alt_label": "PHQ03-Eat a Lot Twice Week",
+            "definition": "Patient Health Questionnaire Screener Version - Has this been as often, on average, as twice a week for the last 3 months?",
+            "identifier": "C125875",
+            "notation": "PHQ0306C",
+            "pref_label": "PHQ Screener Version - Eat a Lot Twice Week",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125875"
+        },
+        {
+            "alt_label": "PHQ03-Made Yourself Vomit",
+            "definition": "Patient Health Questionnaire Screener Version - In the last 3 months have you often done any of the following in order to avoid gaining weight: Made yourself vomit?",
+            "identifier": "C125876",
+            "notation": "PHQ0307A",
+            "pref_label": "PHQ Screener Version - Avoid Gaining Weight, Made Yourself Vomit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125876"
+        },
+        {
+            "alt_label": "PHQ03-Took Twice Dose of Laxatives",
+            "definition": "Patient Health Questionnaire Screener Version - In the last 3 months have you often done any of the following in order to avoid gaining weight: Took more than twice the recommended dose of laxatives to avoid gaining weight?",
+            "identifier": "C125877",
+            "notation": "PHQ0307B",
+            "pref_label": "PHQ Screener Version - Avoid Gaining Weight, Took Twice Dose of Laxatives",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125877"
+        },
+        {
+            "alt_label": "PHQ03-Fasted at Least 24 Hours",
+            "definition": "Patient Health Questionnaire Screener Version - In the last 3 months have you often done any of the following in order to avoid gaining weight: Fasted - not eaten anything at all for at least 24 hours to avoid gaining weight?",
+            "identifier": "C125878",
+            "notation": "PHQ0307C",
+            "pref_label": "PHQ Screener Version - Avoid Gaining Weight, Fasted at Least 24 Hours",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125878"
+        },
+        {
+            "alt_label": "PHQ03-Exercised Avoid Gaining Weight",
+            "definition": "Patient Health Questionnaire Screener Version - In the last 3 months have you often done any of the following in order to avoid gaining weight: Exercised for more than an hour specifically to avoid gaining weight after binge eating?",
+            "identifier": "C125879",
+            "notation": "PHQ0307D",
+            "pref_label": "PHQ Screener Version - Avoid Gaining Weight, Exercise",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125879"
+        },
+        {
+            "alt_label": "PHQ03-Avoid Gaining Weight Twice Week",
+            "definition": "Patient Health Questionnaire Screener Version - If you checked \"YES\" to any of these ways of avoiding gaining weight, were any as often, on average, as twice a week?",
+            "identifier": "C125880",
+            "notation": "PHQ0308",
+            "pref_label": "PHQ Screener Version - Avoid Gaining Weight Twice Week",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125880"
+        },
+        {
+            "alt_label": "PHQ03-Drink Alcohol",
+            "definition": "Patient Health Questionnaire Screener Version - Do you ever drink alcohol (including beer or wine)?",
+            "identifier": "C125881",
+            "notation": "PHQ0309",
+            "pref_label": "PHQ Screener Version - Drink Alcohol",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125881"
+        },
+        {
+            "alt_label": "PHQ03-Drank Alcohol With Health Problem",
+            "definition": "Patient Health Questionnaire Screener Version - Have any of the following happened to you more than once in the last 6 months: You drank alcohol even though a doctor suggested that you stop drinking because of a problem with your health?",
+            "identifier": "C125882",
+            "notation": "PHQ0310A",
+            "pref_label": "PHQ Screener Version - Drank Alcohol With Health Problem",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125882"
+        },
+        {
+            "alt_label": "PHQ03-Alcohol at Work/School",
+            "definition": "Patient Health Questionnaire Screener Version - Have any of the following happened to you more than once in the last 6 months: You drank alcohol, were high from alcohol, or hung over while you were working, or going to school, or taking care of children or other responsibilities?",
+            "identifier": "C125883",
+            "notation": "PHQ0310B",
+            "pref_label": "PHQ Screener Version - Drank Alcohol at Work or School",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125883"
+        },
+        {
+            "alt_label": "PHQ03-Missed Work Because of Drinking",
+            "definition": "Patient Health Questionnaire Screener Version - Have any of the following happened to you more than once in the last 6 months: You missed or were late for work, school, or other activities because you were drinking or hung over?",
+            "identifier": "C125884",
+            "notation": "PHQ0310C",
+            "pref_label": "PHQ Screener Version - Missed Work Because of Drinking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125884"
+        },
+        {
+            "alt_label": "PHQ03-Problem With People While Drinking",
+            "definition": "Patient Health Questionnaire Screener Version - Have any of the following happened to you more than once in the last 6 months: You had a problem getting along with other people while you were drinking?",
+            "identifier": "C125885",
+            "notation": "PHQ0310D",
+            "pref_label": "PHQ Screener Version - Problem Getting Along With People While Drinking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125885"
+        },
+        {
+            "alt_label": "PHQ03-Drove After Several Drinks",
+            "definition": "Patient Health Questionnaire Screener Version - Have any of the following happened to you more than once in the last 6 months: You drove a car after having several drinks or after drinking too much?",
+            "identifier": "C125886",
+            "notation": "PHQ0310E",
+            "pref_label": "PHQ Screener Version - Drove Car After Several Drinks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125886"
+        },
+        {
+            "alt_label": "PHQ03-Problems Made It Difficult to Work",
+            "definition": "Patient Health Questionnaire Screener Version - If you checked off any problems on this questionnaire, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?",
+            "identifier": "C125887",
+            "notation": "PHQ0311",
+            "pref_label": "PHQ Screener Version - Problems Made It Difficult to Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125749-C125887"
+        }
+    ]
+}

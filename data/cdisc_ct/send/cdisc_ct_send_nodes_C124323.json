@@ -1,0 +1,46 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Loss of all or part of the products of conception prior to the scheduled c-section date or expected delivery date.",
+            "identifier": "C124616",
+            "notation": "ABORTED",
+            "pref_label": "Experimental Organism Aborted",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124323-C124616"
+        },
+        {
+            "definition": "A birth event that occurs prior to the scheduled c-section date or expected delivery date.",
+            "identifier": "C124617",
+            "notation": "EARLY DELIVERY",
+            "pref_label": "Early Delivery of Experimental Organism",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124323-C124617"
+        },
+        {
+            "definition": "Observed to be negative for a pregnancy test or not pregnant.",
+            "identifier": "C82475",
+            "notation": "NOT PREGNANT",
+            "pref_label": "Not Pregnant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124323-C82475"
+        },
+        {
+            "definition": "Observed to be or have been pregnant or positive for a pregnancy test.",
+            "identifier": "C124295",
+            "notation": "PREGNANT",
+            "pref_label": "Pregnant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124323-C124295"
+        },
+        {
+            "definition": "A pregnancy result for a female that had all intrauterine deaths.",
+            "identifier": "C124618",
+            "notation": "RESORBED OR DEAD LITTER",
+            "pref_label": "Resorbed or Dead Litter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124323-C124618"
+        },
+        {
+            "definition": "A term referring to the lack of definitive criteria for classification of a finding.",
+            "identifier": "C124294",
+            "notation": "UNDETERMINED",
+            "pref_label": "Undetermined",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C124323-C124294"
+        }
+    ]
+}

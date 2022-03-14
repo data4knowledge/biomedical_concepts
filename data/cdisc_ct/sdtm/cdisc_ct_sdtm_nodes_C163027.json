@@ -1,0 +1,908 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Action Taken With Device",
+            "definition": "Action taken with respect to a device in a study, which may or may not be the device under study.",
+            "identifier": "C117037",
+            "notation": "ACNDEV",
+            "pref_label": "Action Taken with Device",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C117037"
+        },
+        {
+            "alt_label": "Action Taken With Subject",
+            "definition": "Action taken with respect to a subject in a study.",
+            "identifier": "C163412",
+            "notation": "ACNSBJ",
+            "pref_label": "Action Taken With Subject",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C163412"
+        },
+        {
+            "alt_label": "Number of Alcoholic Drinks",
+            "definition": "The total number of alcoholic drinks.",
+            "identifier": "C184464",
+            "notation": "ALCDRKN",
+            "pref_label": "Number of Alcoholic Drinks Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184464"
+        },
+        {
+            "alt_label": "Calories Burned",
+            "definition": "A measurement of the number of calories expended.",
+            "identifier": "C172476",
+            "notation": "CALBURN",
+            "pref_label": "Calories Burned",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172476"
+        },
+        {
+            "alt_label": "Cumulative Exposure",
+            "definition": "The total amount that a subject is exposed to over time.",
+            "identifier": "C94596",
+            "notation": "CUMEXP",
+            "pref_label": "Cumulative Exposure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C94596"
+        },
+        {
+            "alt_label": "Dietary Alpha Carotene",
+            "definition": "A determination of the alpha carotene in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184449",
+            "notation": "DACARO",
+            "pref_label": "Dietary Alpha Carotene Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184449"
+        },
+        {
+            "alt_label": "Dietary Added Sugar",
+            "definition": "A determination of the total added sugars in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172463",
+            "notation": "DADDSUG",
+            "pref_label": "Dietary Added Sugar Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172463"
+        },
+        {
+            "alt_label": "Dietary Alcohol;Dietary Ethanol",
+            "definition": "A determination of the total amount of alcohol in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184463",
+            "notation": "DALCOHOL",
+            "pref_label": "Dietary Alcohol Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184463"
+        },
+        {
+            "alt_label": "Dietary 20:4 Arachidonate;Dietary 20:4 Arachidonic Acid;Dietary Arachidonic Acid",
+            "definition": "A determination of the total 20:4 arachidonic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184441",
+            "notation": "DARAC",
+            "pref_label": "Dietary Arachidonic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184441"
+        },
+        {
+            "alt_label": "Dietary Alpha Tocopherol",
+            "definition": "A determination of the alpha tocopherol in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184450",
+            "notation": "DATOCO",
+            "pref_label": "Dietary Alpha Tocopherol Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184450"
+        },
+        {
+            "alt_label": "Dietary Added Vitamin B12",
+            "definition": "A determination of the total added vitamin B12 in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184461",
+            "notation": "DAVITB12",
+            "pref_label": "Dietary Added Vitamin B12 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184461"
+        },
+        {
+            "alt_label": "Dietary Added Vitamin E",
+            "definition": "A determination of the total added vitamin E in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184462",
+            "notation": "DAVITE",
+            "pref_label": "Dietary Added Vitamin E Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184462"
+        },
+        {
+            "alt_label": "Dietary Beta Carotene",
+            "definition": "A determination of the beta carotene in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184451",
+            "notation": "DBCARO",
+            "pref_label": "Dietary Beta Carotene Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184451"
+        },
+        {
+            "alt_label": "Dietary Beans and Peas",
+            "definition": "A determination of the total beans and peas in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184465",
+            "notation": "DBEANPEA",
+            "pref_label": "Dietary Beans and Peas Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184465"
+        },
+        {
+            "alt_label": "Dietary 4:0 Butyrate;Dietary 4:0 Butyric Acid;Dietary Butyric Acid",
+            "definition": "A determination of the total 4:0 butyric acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184446",
+            "notation": "DBUTR",
+            "pref_label": "Dietary Butyric Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184446"
+        },
+        {
+            "alt_label": "Dietary Calcium",
+            "definition": "A determination of the total calcium in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184453",
+            "notation": "DCA",
+            "pref_label": "Dietary Calcium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184453"
+        },
+        {
+            "alt_label": "Dietary Caffeine",
+            "definition": "A determination of the caffeine in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184452",
+            "notation": "DCAFFEIN",
+            "pref_label": "Dietary Caffeine Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184452"
+        },
+        {
+            "alt_label": "Dietary Calories",
+            "definition": "A determination of the total dietary calories in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172464",
+            "notation": "DCAL",
+            "pref_label": "Dietary Calories Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172464"
+        },
+        {
+            "alt_label": "Dietary 6:0 Caproate;Dietary 6:0 Caproic Acid;Dietary Caproic Acid",
+            "definition": "A determination of the total 6:0 caproic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184447",
+            "notation": "DCAPO",
+            "pref_label": "Dietary Caproic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184447"
+        },
+        {
+            "alt_label": "Dietary 10:0 Caprate;Dietary 10:0 Capric Acid;Dietary Capric Acid",
+            "definition": "A determination of the total 10:0 capric acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184430",
+            "notation": "DCAPR",
+            "pref_label": "Dietary Capric Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184430"
+        },
+        {
+            "alt_label": "Dietary 8:0 Caprylate;Dietary 8:0 Caprylic Acid;Dietary Caprylic Acid",
+            "definition": "A determination of the total 8:0 caprylic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184448",
+            "notation": "DCAPY",
+            "pref_label": "Dietary Caprylic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184448"
+        },
+        {
+            "alt_label": "Dietary Total Carbohydrate",
+            "definition": "A determination of the total carbohydrate in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172461",
+            "notation": "DCARBT",
+            "pref_label": "Total Dietary Carbohydrate Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172461"
+        },
+        {
+            "alt_label": "Dietary Cheese",
+            "definition": "A determination of the total cheese in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184454",
+            "notation": "DCHEESE",
+            "pref_label": "Dietary Cheese Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184454"
+        },
+        {
+            "alt_label": "Dietary Cholesterol",
+            "definition": "A determination of the total cholesterol in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184466",
+            "notation": "DCHOLEST",
+            "pref_label": "Dietary Cholesterol Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184466"
+        },
+        {
+            "alt_label": "Dietary Choline",
+            "definition": "A determination of the choline in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184467",
+            "notation": "DCHOLINE",
+            "pref_label": "Dietary Choline Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184467"
+        },
+        {
+            "alt_label": "Dietary Citrus, Melons, and Berries",
+            "definition": "A determination of the total citrus, melons, and berries in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184468",
+            "notation": "DCITMELB",
+            "pref_label": "Dietary Citrus, Melons, and Berries Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184468"
+        },
+        {
+            "alt_label": "Dietary 22:5 Clupanodonate;Dietary 22:5 Clupanodonic Acid;Dietary Clupanodonic Acid",
+            "definition": "A determination of the total 22:5 clupanodonic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184444",
+            "notation": "DCPND",
+            "pref_label": "Dietary Clupanodonic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184444"
+        },
+        {
+            "alt_label": "Dietary Copper",
+            "definition": "A determination of the total copper in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184455",
+            "notation": "DCU",
+            "pref_label": "Dietary Copper Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184455"
+        },
+        {
+            "alt_label": "Dietary Total Dairy",
+            "definition": "A determination of the total dairy (food products produced from or containing milk) in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184337",
+            "notation": "DDAIRYT",
+            "pref_label": "Dietary Dairy Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184337"
+        },
+        {
+            "alt_label": "Dietary 22:6 Docosahexaenoate;Dietary 22:6 Docosahexaenoic Acid;Dietary Docosahexaenoic Acid",
+            "definition": "A determination of the total 22:6 docosahexaenoic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184445",
+            "notation": "DDCHX",
+            "pref_label": "Dietary Docosahexaenoic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184445"
+        },
+        {
+            "alt_label": "Dietary Eggs",
+            "definition": "A determination of the eggs in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184471",
+            "notation": "DEGGS",
+            "pref_label": "Dietary Eggs Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184471"
+        },
+        {
+            "alt_label": "Dietary 22:1 Erucate;Dietary 22:1 Erucic Acid;Dietary Erucic Acid",
+            "definition": "A determination of the total 22:1 erucic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184443",
+            "notation": "DERUC",
+            "pref_label": "Dietary Erucic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184443"
+        },
+        {
+            "alt_label": "Dietary Fat, Monounsaturated",
+            "definition": "A determination of the total monounsaturated fat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172471",
+            "notation": "DFATM",
+            "pref_label": "Dietary Monounsaturated Fat Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172471"
+        },
+        {
+            "alt_label": "Dietary Fat, Polyunsaturated",
+            "definition": "A determination of the total polyunsaturated fat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172472",
+            "notation": "DFATP",
+            "pref_label": "Dietary Polyunsaturated Fat Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172472"
+        },
+        {
+            "alt_label": "Dietary Fat, Saturated",
+            "definition": "A determination of the total saturated fat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172470",
+            "notation": "DFATS",
+            "pref_label": "Dietary Saturated Fat Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172470"
+        },
+        {
+            "alt_label": "Dietary Fat, Total",
+            "definition": "A determination of the total fat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172460",
+            "notation": "DFATT",
+            "pref_label": "Total Dietary Fat Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172460"
+        },
+        {
+            "alt_label": "Dietary Iron",
+            "definition": "A determination of the total iron in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184456",
+            "notation": "DFE",
+            "pref_label": "Dietary Iron Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184456"
+        },
+        {
+            "alt_label": "Dietary Fiber",
+            "definition": "A determination of the total fiber in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172469",
+            "notation": "DFIBER",
+            "pref_label": "Dietary Fiber Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172469"
+        },
+        {
+            "alt_label": "Dietary Fruit Juice",
+            "definition": "A determination of the fruit juice in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184472",
+            "notation": "DFRTJUCE",
+            "pref_label": "Dietary Fruit Juice Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184472"
+        },
+        {
+            "alt_label": "Dietary Fruit",
+            "definition": "A determination of the total fruit in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172465",
+            "notation": "DFRUIT",
+            "pref_label": "Dietary Fruit Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172465"
+        },
+        {
+            "alt_label": "Dietary 20:1 Gadoleate;Dietary 20:1 Gadoleic Acid;Dietary Gadoleic Acid",
+            "definition": "A determination of the total 20:1 gadoleic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184440",
+            "notation": "DGADL",
+            "pref_label": "Dietary Gadoleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184440"
+        },
+        {
+            "alt_label": "Dietary Grain",
+            "definition": "A determination of the total grain in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172467",
+            "notation": "DGRAIN",
+            "pref_label": "Dietary Grain Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172467"
+        },
+        {
+            "alt_label": "Dietary Grain, Refined",
+            "definition": "A determination of the total refined grains in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184484",
+            "notation": "DGRAINRF",
+            "pref_label": "Dietary Grain, Refined Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184484"
+        },
+        {
+            "alt_label": "Dietary Whole Grains",
+            "definition": "A determination of the whole grains in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184502",
+            "notation": "DGRAINWH",
+            "pref_label": "Dietary Whole Grains Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184502"
+        },
+        {
+            "alt_label": "Dispensed Amount",
+            "definition": "The quantity of a product that has been dispensed. (NCI)",
+            "identifier": "C78721",
+            "notation": "DISPAMT",
+            "pref_label": "Dispensed Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C78721"
+        },
+        {
+            "alt_label": "Distance",
+            "definition": "The actual or calculated span between two points (real or virtual).",
+            "identifier": "C25167",
+            "notation": "DISTANCE",
+            "pref_label": "Distance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C25167"
+        },
+        {
+            "alt_label": "Dietary Potassium",
+            "definition": "A determination of the total potassium in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184457",
+            "notation": "DK",
+            "pref_label": "Dietary Potassium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184457"
+        },
+        {
+            "alt_label": "Dietary 12:0 Laurate;Dietary 12:0 Lauric Acid;Dietary Lauric Acid",
+            "definition": "A determination of the total 12:0 lauric acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184431",
+            "notation": "DLAUR",
+            "pref_label": "Dietary Lauric Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184431"
+        },
+        {
+            "alt_label": "Dietary 18:2 Linoleate;Dietary 18:2 Linoleic Acid;Dietary Linoleic Acid",
+            "definition": "A determination of the total 18:2 linoleic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184437",
+            "notation": "DLINO",
+            "pref_label": "Dietary Linoleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184437"
+        },
+        {
+            "alt_label": "Dietary 18:3 Linolenate;Dietary 18:3 Linolenic Acid;Dietary Linolenic Acid",
+            "definition": "A determination of the total 18:3 linolenic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184438",
+            "notation": "DLINOL",
+            "pref_label": "Dietary Linolenic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184438"
+        },
+        {
+            "alt_label": "Dietary Lutein and Zeaxanthin",
+            "definition": "A determination of the lutein and zeaxanthin in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184473",
+            "notation": "DLUTZXAN",
+            "pref_label": "Dietary Lutein and Zeaxanthin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184473"
+        },
+        {
+            "alt_label": "Dietary Lycopene",
+            "definition": "A determination of the lycopene in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184474",
+            "notation": "DLYCOP",
+            "pref_label": "Dietary Lycopene Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184474"
+        },
+        {
+            "alt_label": "Dietary Meat",
+            "definition": "A determination of the total meat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172468",
+            "notation": "DMEAT",
+            "pref_label": "Dietary Meat Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172468"
+        },
+        {
+            "alt_label": "Dietary Meat, Cured",
+            "definition": "A determination of the cured meat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184469",
+            "notation": "DMEATCUR",
+            "pref_label": "Dietary Meat, Cured Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184469"
+        },
+        {
+            "alt_label": "Dietary Meat, Organ",
+            "definition": "A determination of the organ meat in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184480",
+            "notation": "DMEATORG",
+            "pref_label": "Dietary Meat, Organ Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184480"
+        },
+        {
+            "alt_label": "Dietary Meat, Poultry, and Seafood",
+            "definition": "A determination of the total meat, poultry, and seafood in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184504",
+            "notation": "DMEATPLS",
+            "pref_label": "Dietary Meat, Poultry, and Seafood Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184504"
+        },
+        {
+            "alt_label": "Dietary Magnesium",
+            "definition": "A determination of the total magnesium in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172462",
+            "notation": "DMG",
+            "pref_label": "Dietary Magnesium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172462"
+        },
+        {
+            "alt_label": "Dietary Milk",
+            "definition": "A determination of the milk in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184475",
+            "notation": "DMILK",
+            "pref_label": "Dietary Milk Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184475"
+        },
+        {
+            "alt_label": "Dietary Moisture",
+            "definition": "A determination of the moisture content in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184476",
+            "notation": "DMOISTUR",
+            "pref_label": "Dietary Moisture Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184476"
+        },
+        {
+            "alt_label": "Dietary 14:0 Myristate;Dietary 14:0 Myristic Acid;Dietary Myristic Acid",
+            "definition": "A determination of the total 14:0 myristic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184432",
+            "notation": "DMYRST",
+            "pref_label": "Dietary Myristic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184432"
+        },
+        {
+            "alt_label": "Dietary Sodium",
+            "definition": "A determination of the total sodium in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184459",
+            "notation": "DNA",
+            "pref_label": "Dietary Sodium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184459"
+        },
+        {
+            "alt_label": "Dietary Niacin;Dietary Vitamin B3",
+            "definition": "A determination of the niacin in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184477",
+            "notation": "DNIACIN",
+            "pref_label": "Dietary Niacin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184477"
+        },
+        {
+            "alt_label": "Dietary Nuts and Seeds",
+            "definition": "A determination of the total nuts and seeds in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184478",
+            "notation": "DNUTSEED",
+            "pref_label": "Dietary Nuts and Seeds Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184478"
+        },
+        {
+            "alt_label": "Dietary Oils",
+            "definition": "A determination of the oils in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184479",
+            "notation": "DOILS",
+            "pref_label": "Dietary Oils Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184479"
+        },
+        {
+            "alt_label": "Dietary 18:1 Oleate;Dietary 18:1 Oleic Acid;Dietary Oleic Acid",
+            "definition": "A determination of the total 18:1 oleic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184436",
+            "notation": "DOLE",
+            "pref_label": "Dietary Oleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184436"
+        },
+        {
+            "alt_label": "Dietary Phosphorus",
+            "definition": "A determination of the phosphorus in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184481",
+            "notation": "DP",
+            "pref_label": "Dietary Phosphorus Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184481"
+        },
+        {
+            "alt_label": "Dietary 16:0 Palmitate;Dietary 16:0 Palmitic Acid;Dietary Palmitic Acid",
+            "definition": "A determination of the total 16:0 palmitic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184433",
+            "notation": "DPALM",
+            "pref_label": "Dietary Palmitic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184433"
+        },
+        {
+            "alt_label": "Dietary 16:1 Palmitoleate;Dietary 16:1 Palmitoleic Acid;Dietary Palmitoleic Acid",
+            "definition": "A determination of the total 16:1 palmitoleic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184434",
+            "notation": "DPALMO",
+            "pref_label": "Dietary Palmitoleic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184434"
+        },
+        {
+            "alt_label": "Dietary 18:4 Parinarate;Dietary 18:4 Parinaric Acid;Dietary Parinaric Acid",
+            "definition": "A determination of the total 18:4 parinaric acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184439",
+            "notation": "DPARN",
+            "pref_label": "Dietary Parinaric Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184439"
+        },
+        {
+            "alt_label": "Dietary Potatoes",
+            "definition": "A determination of the potatoes in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184482",
+            "notation": "DPOTATO",
+            "pref_label": "Dietary Potatoes Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184482"
+        },
+        {
+            "alt_label": "Dietary Poultry",
+            "definition": "A determination of the poultry in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184483",
+            "notation": "DPOULTRY",
+            "pref_label": "Dietary Poultry Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184483"
+        },
+        {
+            "alt_label": "Dietary Protein",
+            "definition": "A determination of the total protein in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172459",
+            "notation": "DPROT",
+            "pref_label": "Dietary Protein Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172459"
+        },
+        {
+            "alt_label": "Dietary Protein Foods",
+            "definition": "A determination of the protein-rich food in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184494",
+            "notation": "DPROTFD",
+            "pref_label": "Dietary Protein Foods Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184494"
+        },
+        {
+            "alt_label": "Dietary Retinol;Dietary Vitamin A",
+            "definition": "A determination of the retinol in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184485",
+            "notation": "DRETINOL",
+            "pref_label": "Dietary Retinol Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184485"
+        },
+        {
+            "alt_label": "Dietary Riboflavin;Dietary Vitamin B2",
+            "definition": "A determination of the riboflavin in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184486",
+            "notation": "DRIBFLVN",
+            "pref_label": "Dietary Riboflavin Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184486"
+        },
+        {
+            "alt_label": "Dietary Selenium",
+            "definition": "A determination of the total selenium in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184458",
+            "notation": "DSE",
+            "pref_label": "Dietary Selenium Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184458"
+        },
+        {
+            "alt_label": "Dietary Seafood High in n-3 Fatty Acids",
+            "definition": "A determination of the seafood high in n-3 fatty acids in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184487",
+            "notation": "DSFHN3FA",
+            "pref_label": "Dietary Seafood High in n-3 Fatty Acids Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184487"
+        },
+        {
+            "alt_label": "Dietary Seafood Low in n-3 Fatty Acids",
+            "definition": "A determination of the seafood low in n-3 fatty acids in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184488",
+            "notation": "DSFLN3FA",
+            "pref_label": "Dietary Seafood Low in n-3 Fatty Acids Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184488"
+        },
+        {
+            "alt_label": "Dietary Solid Fats",
+            "definition": "A determination of the solid fats in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184489",
+            "notation": "DSLDFAT",
+            "pref_label": "Dietary Solid Fats Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184489"
+        },
+        {
+            "alt_label": "Dietary Soy Products",
+            "definition": "A determination of the soy-containing products in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184490",
+            "notation": "DSOYPROD",
+            "pref_label": "Dietary Soy Products Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184490"
+        },
+        {
+            "alt_label": "Dietary 18:0 Stearate;Dietary 18:0 Stearic Acid;Dietary Stearic Acid",
+            "definition": "A determination of the total 18:0 stearic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184435",
+            "notation": "DSTER",
+            "pref_label": "Dietary Stearic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184435"
+        },
+        {
+            "alt_label": "Dietary Total Sugars",
+            "definition": "A determination of the total sugars in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184338",
+            "notation": "DSUGART",
+            "pref_label": "Dietary Sugar Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184338"
+        },
+        {
+            "alt_label": "Dietary Theobromine",
+            "definition": "A determination of the theobromine in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184491",
+            "notation": "DTHEOBR",
+            "pref_label": "Dietary Theobromine Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184491"
+        },
+        {
+            "alt_label": "Dietary Thiamin;Dietary Thiamine;Dietary Vitamin B1",
+            "definition": "A determination of the thiamine in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184492",
+            "notation": "DTHIAMIN",
+            "pref_label": "Dietary Thiamine Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184492"
+        },
+        {
+            "alt_label": "Dietary 20:5 Timnodonate;Dietary 20:5 Timnodonic Acid;Dietary Timnodonic Acid",
+            "definition": "A determination of the total 20:5 timnodonic acid in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184442",
+            "notation": "DTMND",
+            "pref_label": "Dietary Timnodonic Acid Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184442"
+        },
+        {
+            "alt_label": "Dietary Tomatoes",
+            "definition": "A determination of the tomatoes in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184493",
+            "notation": "DTOMATO",
+            "pref_label": "Dietary Tomatoes Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184493"
+        },
+        {
+            "alt_label": "Dietary Vegetable",
+            "definition": "A determination of the total vegetables in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C172466",
+            "notation": "DVEG",
+            "pref_label": "Dietary Vegetable Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172466"
+        },
+        {
+            "alt_label": "Dietary Vegetables, Dark Green",
+            "definition": "A determination of the total dark green vegetables in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184470",
+            "notation": "DVEGDG",
+            "pref_label": "Dietary Vegetables, Dark Green Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184470"
+        },
+        {
+            "alt_label": "Dietary Vegetables, Red and Orange",
+            "definition": "A determination of the total red and orange vegetables in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184495",
+            "notation": "DVEGRO",
+            "pref_label": "Dietary Vegetables, Red and Orange Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184495"
+        },
+        {
+            "alt_label": "Dietary Vegetables, Starchy",
+            "definition": "A determination of the total starchy vegetables in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184496",
+            "notation": "DVEGSTAR",
+            "pref_label": "Dietary Vegetables, Starchy Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184496"
+        },
+        {
+            "alt_label": "Dietary Vitamin A",
+            "definition": "A determination of the total vitamin A in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184497",
+            "notation": "DVITA",
+            "pref_label": "Dietary Vitamin A Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184497"
+        },
+        {
+            "alt_label": "Dietary Vitamin B12",
+            "definition": "A determination of the total vitamin B12 in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184353",
+            "notation": "DVITB12",
+            "pref_label": "Dietary Vitamin B12 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184353"
+        },
+        {
+            "alt_label": "Dietary Vitamin B6",
+            "definition": "A determination of the total vitamin B6 in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184498",
+            "notation": "DVITB6",
+            "pref_label": "Dietary Vitamin B6 Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184498"
+        },
+        {
+            "alt_label": "Dietary Vitamin C",
+            "definition": "A determination of the total vitamin C in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184499",
+            "notation": "DVITC",
+            "pref_label": "Dietary Vitamin C Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184499"
+        },
+        {
+            "alt_label": "Dietary Vitamin D",
+            "definition": "A determination of the total vitamin D in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184500",
+            "notation": "DVITD",
+            "pref_label": "Dietary Vitamin D Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184500"
+        },
+        {
+            "alt_label": "Dietary Vitamin K",
+            "definition": "A determination of the total vitamin K in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184501",
+            "notation": "DVITK",
+            "pref_label": "Dietary Vitamin K Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184501"
+        },
+        {
+            "alt_label": "Dietary Yogurt",
+            "definition": "A determination of the yogurt in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184503",
+            "notation": "DYOGURT",
+            "pref_label": "Dietary Yogurt Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184503"
+        },
+        {
+            "alt_label": "Dietary Zinc",
+            "definition": "A determination of the total Zinc in a nutritional product or meal, or a portion thereof.",
+            "identifier": "C184460",
+            "notation": "DZN",
+            "pref_label": "Dietary Zinc Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C184460"
+        },
+        {
+            "alt_label": "Number of Episodes",
+            "definition": "The total number of episodes that have occurred for the condition.",
+            "identifier": "C124281",
+            "notation": "EPSDNUM",
+            "pref_label": "Number of Episodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C124281"
+        },
+        {
+            "alt_label": "Estimated Entity Weight;Estimated Weight",
+            "definition": "An approximate determination of the weight of the entity.",
+            "identifier": "C174282",
+            "notation": "ESTWT",
+            "pref_label": "Estimated Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C174282"
+        },
+        {
+            "alt_label": "Exercise Duration",
+            "definition": "The length of time an individual spends exercising.",
+            "identifier": "C172475",
+            "notation": "EXCDUR",
+            "pref_label": "Exercise Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172475"
+        },
+        {
+            "alt_label": "Exercise Intensity",
+            "definition": "A determination or assessment of the degree or magnitude of an individual's exertion during physical activity.",
+            "identifier": "C172473",
+            "notation": "EXCINTSY",
+            "pref_label": "Exercise Intensity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172473"
+        },
+        {
+            "alt_label": "Exercise Compliance",
+            "definition": "A determination or assessment of the extent to which an individual adheres to a fitness program.",
+            "identifier": "C172474",
+            "notation": "EXCMPLNC",
+            "pref_label": "Exercise Compliance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172474"
+        },
+        {
+            "alt_label": "Number of Laps Completed",
+            "definition": "The number of laps completed around a course or circuit.",
+            "identifier": "C172478",
+            "notation": "LAPCOMPN",
+            "pref_label": "Number of Laps Completed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172478"
+        },
+        {
+            "alt_label": "Precipitating Factor",
+            "definition": "The factor that causes or triggers the onset of an occurrence.",
+            "identifier": "C163413",
+            "notation": "PPTFCT",
+            "pref_label": "Precipitating Factor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C163413"
+        },
+        {
+            "alt_label": "Prepared Amount",
+            "definition": "The quantity of a product that has been made ready for use.",
+            "identifier": "C170562",
+            "notation": "PREPAMT",
+            "pref_label": "Prepared Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C170562"
+        },
+        {
+            "alt_label": "Remaining Amount",
+            "definition": "The quantity of a product that remains after dosing, consumption, or use.",
+            "identifier": "C170563",
+            "notation": "REMAMT",
+            "pref_label": "Remaining Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C170563"
+        },
+        {
+            "alt_label": "Returned Amount",
+            "definition": "The quantity of a product that has been returned. (NCI)",
+            "identifier": "C78722",
+            "notation": "RETAMT",
+            "pref_label": "Returned Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C78722"
+        },
+        {
+            "alt_label": "Relationship to Device",
+            "definition": "The relationship of an event to a device, which may or may not be a device under study.",
+            "identifier": "C163414",
+            "notation": "RLDEV",
+            "pref_label": "Relationship to Device",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C163414"
+        },
+        {
+            "alt_label": "Speed",
+            "definition": "A scalar measure of the rate of movement of the object expressed as the distance traveled divided by the elapsed time.",
+            "identifier": "C41146",
+            "notation": "SPEED",
+            "pref_label": "Speed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C41146"
+        },
+        {
+            "alt_label": "Number of Steps Taken",
+            "definition": "The number of footsteps taken by an individual.",
+            "identifier": "C172479",
+            "notation": "STEPSTN",
+            "pref_label": "Number of Steps Taken",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172479"
+        },
+        {
+            "alt_label": "Total Time Paused",
+            "definition": "The total amount of time during which an event, operation or activity has been interrupted or stopped.",
+            "identifier": "C172477",
+            "notation": "TTIMPAUS",
+            "pref_label": "Total Time Paused",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172477"
+        },
+        {
+            "alt_label": "Total Time Physically Active",
+            "definition": "The total amount of time during which an individual was actively engaged in physical activity.",
+            "identifier": "C172480",
+            "notation": "TTIMPHAC",
+            "pref_label": "Total Time Physically Active",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C163027-C172480"
+        }
+    ]
+}

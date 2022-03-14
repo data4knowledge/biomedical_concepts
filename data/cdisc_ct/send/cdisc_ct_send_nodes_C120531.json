@@ -1,0 +1,2209 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An inflammatory response represented by a focal collection of leukocytes (predominantly neutrophils) that can be encapsulated.",
+            "identifier": "C26686",
+            "notation": "ABSCESS",
+            "pref_label": "Abscess",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C26686"
+        },
+        {
+            "definition": "A supernumerary tissue in addition to normal tissues.",
+            "identifier": "C120859",
+            "notation": "ACCESSORY TISSUE",
+            "pref_label": "Accessory Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120859"
+        },
+        {
+            "definition": "An increase of substance (e.g., proteinaceous fluid and glycogen) in either the intracellular space, extracellular space, or within a hollow organ or structure.",
+            "identifier": "C120860",
+            "notation": "ACCUMULATION",
+            "pref_label": "Accumulation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120860"
+        },
+        {
+            "definition": "An increase in adipocytes in a given tissue, within which they may occur but don't normally accumulate. Accumulation may be accompanied by a disruption of the adjacent tissue.",
+            "identifier": "C132483",
+            "notation": "ACCUMULATION, ADIPOCYTES",
+            "pref_label": "Adipocyte Accumulation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C132483"
+        },
+        {
+            "definition": "The presence of fibrin in a given tissue or body cavity.",
+            "identifier": "C174382",
+            "notation": "ACCUMULATION, FIBRIN",
+            "pref_label": "Fibrin Accumulation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C174382"
+        },
+        {
+            "alt_label": "Increased Hyaline Droplets",
+            "definition": "An increase in eosinophilic cytoplasmic droplets that appear glassy or translucent.",
+            "identifier": "C181557",
+            "notation": "ACCUMULATION, HYALINE DROPLETS",
+            "pref_label": "Hyaline Droplet Accumulation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C181557"
+        },
+        {
+            "definition": "The growth of endometrial tissue inside the muscular wall of the uterus.",
+            "identifier": "C6996",
+            "notation": "ADENOMYOSIS",
+            "pref_label": "Uterine Corpus Adenomyosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C6996"
+        },
+        {
+            "definition": "The presence of small collections of epithelial cells with or without microlumens in the stroma adjacent to ducts or acini in glandular tissues.",
+            "identifier": "C120861",
+            "notation": "ADENOSIS",
+            "pref_label": "Adenosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120861"
+        },
+        {
+            "definition": "A fibrinous or fibrous connection between two surfaces or tissues, connecting tissues or organs that are not normally attached.",
+            "identifier": "C54685",
+            "notation": "ADHESION",
+            "pref_label": "Tissue Adhesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C54685"
+        },
+        {
+            "definition": "Decrease in the amount of adipose tissue.",
+            "identifier": "C174378",
+            "notation": "ADIPOSE TISSUE, DECREASED",
+            "pref_label": "Decreased Adipose Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C174378"
+        },
+        {
+            "definition": "Increase in the amount of adipose tissue.",
+            "identifier": "C174379",
+            "notation": "ADIPOSE TISSUE, INCREASED",
+            "pref_label": "Increased Adipose Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C174379"
+        },
+        {
+            "definition": "Abnormal development of the adnexal appendages of the skin. (INHAND)",
+            "identifier": "C120862",
+            "notation": "ADNEXAL DYSPLASIA",
+            "pref_label": "Adnexal Dysplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120862"
+        },
+        {
+            "alt_label": "Aggregates;Aggregation",
+            "definition": "A collection of cells or particles forming a cohesive mass or cluster.",
+            "identifier": "C62344",
+            "notation": "AGGREGATE",
+            "pref_label": "Aggregation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C62344"
+        },
+        {
+            "definition": "Increase in the number or size of aggregates.",
+            "identifier": "C176398",
+            "notation": "AGGREGATES, INCREASED",
+            "pref_label": "Increased Cellular Aggregates",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176398"
+        },
+        {
+            "definition": "Increase in eosinophilic cytoplasmic droplets of alpha 2u-globulin in the S2 segment of the proximal tubules in the cortex with exfoliation of cells, an increase in mitotic figures in affected portions of the proximal tubules, tubular basophilia in some cases, and formation of granular casts at the junction of the inner and outer stripes of the medulla. (INHAND)",
+            "identifier": "C120863",
+            "notation": "ALPHA 2U-GLOBULIN NEPHROPATHY",
+            "pref_label": "Alpha 2u-Globulin Nephropathy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120863"
+        },
+        {
+            "definition": "Increased number or size of alveolar macrophages in terminal air spaces. (Nikula KJ, McCartney JE, McGovern T, Miller GK, Odin M, Pino MV, Reed MD. STP position paper: interpreting the significance of increased alveolar macrophages in rodents following inhalation of pharmaceutical materials. Toxicol Pathol. 2014;42(3):472-86.)",
+            "identifier": "C158332",
+            "notation": "ALVEOLAR MACROPHAGES, INCREASED",
+            "pref_label": "Increased Alveolar Macrophages",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C158332"
+        },
+        {
+            "alt_label": "Amyloidosis",
+            "definition": "An accumulation of amyloid protein.",
+            "identifier": "C2868",
+            "notation": "AMYLOID",
+            "pref_label": "Amyloidosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C2868"
+        },
+        {
+            "definition": "Localized dilatation of a blood vessel wall.",
+            "identifier": "C26693",
+            "notation": "ANEURYSM",
+            "pref_label": "Aneurysm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C26693"
+        },
+        {
+            "alt_label": "Hemangiectasis",
+            "definition": "Dilatation of the blood vessels or endothelial lined sinusoids.",
+            "identifier": "C132484",
+            "notation": "ANGIECTASIS",
+            "pref_label": "Hemangiectasis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C132484"
+        },
+        {
+            "definition": "A marked deviation from the normal morphology of a tissue or organ frequently related to congenital defects or disorders. An anomaly may or may not be perceived as a problem condition and may not affect the health status or/and the survival of the animal or species.",
+            "identifier": "C9440",
+            "notation": "ANOMALY",
+            "pref_label": "Abnormality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C9440"
+        },
+        {
+            "alt_label": "Agenesis",
+            "definition": "A congenital abnormality resulting in the absence of an anatomical structure. (NCI)",
+            "identifier": "C120864",
+            "notation": "APLASIA",
+            "pref_label": "Agenesis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120864"
+        },
+        {
+            "definition": "A finding that generally has features of aplasia and hypoplasia.",
+            "identifier": "C163720",
+            "notation": "APLASIA/HYPOPLASIA",
+            "pref_label": "Aplasia/Hypoplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163720"
+        },
+        {
+            "definition": "A form of programmed cell death triggered by internal or external signals that results in a series of characteristic morphological changes.",
+            "identifier": "C17557",
+            "notation": "APOPTOSIS",
+            "pref_label": "Apoptosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C17557"
+        },
+        {
+            "definition": "Increase in the amount of apoptosis.",
+            "identifier": "C176399",
+            "notation": "APOPTOSIS, INCREASED",
+            "pref_label": "Increased Apoptosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176399"
+        },
+        {
+            "definition": "A finding that generally has features of apoptosis and single cell necrosis.",
+            "identifier": "C163721",
+            "notation": "APOPTOSIS/SINGLE CELL NECROSIS",
+            "pref_label": "Apoptosis and Single Cell Necrosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163721"
+        },
+        {
+            "definition": "Arteriole emerging from the central retinal artery, coursing through the posterior vitreous and reconnecting to the inner retina. (INHAND)",
+            "identifier": "C161569",
+            "notation": "ARTERIOLAR LOOP, PRE-RETINAL",
+            "pref_label": "Pre-Retinal Arteriolar Loop",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161569"
+        },
+        {
+            "definition": "A structure or appearance that is not naturally present, but has been introduced though manipulation.",
+            "identifier": "C75603",
+            "notation": "ARTIFACT",
+            "pref_label": "Artifact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C75603"
+        },
+        {
+            "definition": "Intracytoplasmic accumulation of fluid in an astrocyte.",
+            "identifier": "C161540",
+            "notation": "ASTROCYTE SWELLING",
+            "pref_label": "Astrocyte Swelling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161540"
+        },
+        {
+            "definition": "A finding that generally has features of astrocyte swelling and vacuolation.",
+            "identifier": "C161541",
+            "notation": "ASTROCYTE SWELLING/VACUOLATION",
+            "pref_label": "Astrocyte Swelling And Vacuolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161541"
+        },
+        {
+            "alt_label": "Astrogliosis;Gemistocytosis",
+            "definition": "Reactive astrocytic proliferation often associated with degenerative, inflammatory or neoplastic changes in the central nervous system.",
+            "identifier": "C120865",
+            "notation": "ASTROCYTOSIS",
+            "pref_label": "Experimental Organism Astrocytosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120865"
+        },
+        {
+            "definition": "The partial or total collapse of alveoli and/or airways.",
+            "identifier": "C2888",
+            "notation": "ATELECTASIS",
+            "pref_label": "Atelectasis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C2888"
+        },
+        {
+            "definition": "Increased number of atretic follicles.",
+            "identifier": "C158338",
+            "notation": "ATRETIC FOLLICLES, INCREASED",
+            "pref_label": "Increased Atretic Follicles",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C158338"
+        },
+        {
+            "definition": "A decrease in size of organ, tissue or cell. (INHAND)",
+            "identifier": "C79748",
+            "notation": "ATROPHY",
+            "pref_label": "Atrophy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C79748"
+        },
+        {
+            "definition": "Individual endothelial cells flatten and spread out to cover spatial defects created by endothelial cell loss. (INHAND)",
+            "identifier": "C161545",
+            "notation": "ATTENUATION, ENDOTHELIUM",
+            "pref_label": "Endothelial Attenuation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161545"
+        },
+        {
+            "definition": "Flattening or spreading out of epithelial cells to cover spatial defects.",
+            "identifier": "C184725",
+            "notation": "ATTENUATION, EPITHELIUM",
+            "pref_label": "Epithelium Attenuation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C184725"
+        },
+        {
+            "definition": "Abnormally large, misshapen and/or clumped vacuoles containing cell debris in the testis, or present in stages of spermatogenesis when not normally seen.",
+            "identifier": "C120866",
+            "notation": "ATYPICAL RESIDUAL BODIES",
+            "pref_label": "Atypical Residual Bodies",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120866"
+        },
+        {
+            "definition": "Post-mortem degradation of cells and tissues.",
+            "identifier": "C99673",
+            "notation": "AUTOLYSIS",
+            "pref_label": "Autolysis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C99673"
+        },
+        {
+            "definition": "Vacuoles containing segregated cytoplasmic organelles or contents, characterized by intracytoplasmic globules surrounded by a thin, clear halo. (INHAND)",
+            "identifier": "C32167",
+            "notation": "AUTOPHAGIC VACUOLES",
+            "pref_label": "Autophagosome",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C32167"
+        },
+        {
+            "alt_label": "Bacterium",
+            "definition": "The presence of bacteria.",
+            "identifier": "C120867",
+            "notation": "BACTERIA",
+            "pref_label": "Bacteria Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120867"
+        },
+        {
+            "definition": "A blue-purple tinctorial change associated with staining with basic dyes.",
+            "identifier": "C34414",
+            "notation": "BASOPHILIA",
+            "pref_label": "Basophilia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C34414"
+        },
+        {
+            "definition": "A localized group of cells that exhibit some type of cytologic alteration resulting in basophilia.",
+            "identifier": "C138968",
+            "notation": "BASOPHILIC FOCUS",
+            "pref_label": "Basophilic Focus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C138968"
+        },
+        {
+            "definition": "Intracytoplasmic phagolysosomes that are strongly basophilic. These structures are typically seen in response to oligonucleotides.",
+            "identifier": "C120868",
+            "notation": "BASOPHILIC GRANULES",
+            "pref_label": "Basophilic Phagolysosome",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120868"
+        },
+        {
+            "definition": "Discrete unencapsulated noncompressing focus/foci involving one or more acini with enlarged basophilic cells and occasionally enlarged nuclei.",
+            "identifier": "C139137",
+            "notation": "BASOPHILIC HYPERTROPHIC FOCUS",
+            "pref_label": "Basophilic Hypertrophic Focus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139137"
+        },
+        {
+            "alt_label": "Basophilia, Tubule",
+            "definition": "A basophilic tinctorial change in renal tubular epithelium that is often associated with enlarged cells.",
+            "identifier": "C161544",
+            "notation": "BASOPHILIC TUBULE",
+            "pref_label": "Basophilic Tubule",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161544"
+        },
+        {
+            "definition": "Increase in the removal of mineralized bone matrix and/or mature bone and the formation of new bone.",
+            "identifier": "C166104",
+            "notation": "BONE REMODELING, INCREASED",
+            "pref_label": "Increased Bone Remodeling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C166104"
+        },
+        {
+            "definition": "Decrease in the amount of bone tissue.",
+            "identifier": "C139139",
+            "notation": "BONE, DECREASED",
+            "pref_label": "Decreased Bone Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139139"
+        },
+        {
+            "definition": "Increase in the amount of bone tissue.",
+            "identifier": "C139140",
+            "notation": "BONE, INCREASED",
+            "pref_label": "Increased Bone Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139140"
+        },
+        {
+            "definition": "Segmental dilation of the bronchial tree.",
+            "identifier": "C84475",
+            "notation": "BRONCHIECTASIS",
+            "pref_label": "Bronchiectasis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C84475"
+        },
+        {
+            "alt_label": "Calculi",
+            "definition": "A concretion of material in the body, usually composed of mineral salts. Representative examples include gallbladder stones, kidney stones, and salivary gland stones.",
+            "identifier": "C35708",
+            "notation": "CALCULUS",
+            "pref_label": "Stone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C35708"
+        },
+        {
+            "definition": "An unorganized meshwork of woven bone developed on the pattern of the original clot, which is formed following fracture of the bone.",
+            "identifier": "C79624",
+            "notation": "CALLUS",
+            "pref_label": "Callus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C79624"
+        },
+        {
+            "alt_label": "Casts",
+            "definition": "A mold of a hollow structure (e.g. renal tubule, bronchiole). The casts may be composed of various materials (e.g. protein, granular substance, cellular debris). (INHAND)",
+            "identifier": "C38095",
+            "notation": "CAST",
+            "pref_label": "Urine Casts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C38095"
+        },
+        {
+            "alt_label": "Cellular Debris",
+            "definition": "An accumulation of cell fragments.",
+            "identifier": "C120869",
+            "notation": "CELL DEBRIS",
+            "pref_label": "Cellular Debris",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120869"
+        },
+        {
+            "definition": "Decreased number of cells, which may also be accompanied by a change in cell size.",
+            "identifier": "C139138",
+            "notation": "CELLULARITY, DECREASED",
+            "pref_label": "Decreased Cellularity Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139138"
+        },
+        {
+            "definition": "Increased number of cells, which may also be accompanied by a change in cell size.",
+            "identifier": "C41428",
+            "notation": "CELLULARITY, INCREASED",
+            "pref_label": "Increased Cellularity Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C41428"
+        },
+        {
+            "definition": "A hepatotoxin-induced finding in the liver consisting of dilated/cystic bile ducts filled with mucus and cellular debris and surrounded by inflammatory cell infiltrates and often sclerotic connective tissue. Epithelium is pleomorphic and, in cystic glands, may be partially lost resulting in crescent shaped structures. (INHAND)",
+            "identifier": "C60373",
+            "notation": "CHOLANGIOFIBROSIS",
+            "pref_label": "Rat Cholangiofibrosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C60373"
+        },
+        {
+            "definition": "A squamous cyst that may contain cholesterol clefts and granulomatous inflammation. (INHAND)",
+            "identifier": "C2944",
+            "notation": "CHOLESTEATOMA",
+            "pref_label": "Cholesteatoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C2944"
+        },
+        {
+            "alt_label": "Acicular Cleft;Cholesterol Clefts",
+            "definition": "Presence of flat, thin, rhomboid spaces in tissue created by the dissolution of cholesterol crystals during processing.",
+            "identifier": "C120870",
+            "notation": "CHOLESTEROL CLEFT",
+            "pref_label": "Cholesterol Cleft",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120870"
+        },
+        {
+            "definition": "The disintegration of the chromophil substance (Nissl bodies) in a nerve cell body which may occur after injury to the cell.",
+            "identifier": "C120871",
+            "notation": "CHROMATOLYSIS",
+            "pref_label": "Chromatolysis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120871"
+        },
+        {
+            "definition": "A spontaneous, age-related renal disease of rats and mice, characterized by morphological changes such as degeneration of the epithelium lining of the tubules, cast formation, thickening of glomerulus, Bowman and proximal tubular basement membranes, and lesions in the glomeruli leading to mesangial overload and glomerulosclerosis. (NCI)",
+            "identifier": "C120872",
+            "notation": "CHRONIC PROGRESSIVE NEPHROPATHY",
+            "pref_label": "Chronic Progressive Nephropathy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120872"
+        },
+        {
+            "definition": "Stippled, granular or clumped colloid, and/or variable staining characteristics, and often contains mineralized material and desquamated follicular cells. (INHAND)",
+            "identifier": "C163722",
+            "notation": "COLLOID ALTERATION",
+            "pref_label": "Colloid Alteration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163722"
+        },
+        {
+            "definition": "Decrease in the amount of colloid.",
+            "identifier": "C163723",
+            "notation": "COLLOID, DECREASED",
+            "pref_label": "Decreased Colloid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163723"
+        },
+        {
+            "definition": "Increase in the amount of colloid.",
+            "identifier": "C163724",
+            "notation": "COLLOID, INCREASED",
+            "pref_label": "Increased Colloid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163724"
+        },
+        {
+            "definition": "A deformation of tissues or organs by an external force (e.g., fractures, tumors, blood clots, abscesses, etc.).",
+            "identifier": "C41208",
+            "notation": "COMPRESSION",
+            "pref_label": "Compression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C41208"
+        },
+        {
+            "definition": "Increased number of erythrocytes in the capillary bed or larger vessels of an organ. (INHAND)",
+            "identifier": "C82971",
+            "notation": "CONGESTION",
+            "pref_label": "Tissue Congestion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C82971"
+        },
+        {
+            "definition": "A finding that generally has features of congestion and hemorrhage.",
+            "identifier": "C170640",
+            "notation": "CONGESTION/HEMORRHAGE",
+            "pref_label": "Congestion and Hemorrhage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C170640"
+        },
+        {
+            "alt_label": "Concretion",
+            "definition": "Accumulation of compacted hyaline masses, which may appear mineralized.",
+            "identifier": "C36021",
+            "notation": "CORPORA AMYLACEA",
+            "pref_label": "Corpora Amylacea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C36021"
+        },
+        {
+            "definition": "Decreased number of corpora lutea.",
+            "identifier": "C147494",
+            "notation": "CORPORA LUTEA, DECREASED NUMBER",
+            "pref_label": "Decreased Corpora Lutea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C147494"
+        },
+        {
+            "definition": "Increased number of corpora lutea.",
+            "identifier": "C147495",
+            "notation": "CORPORA LUTEA, INCREASED NUMBER",
+            "pref_label": "Increased Corpora Lutea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C147495"
+        },
+        {
+            "definition": "Decrease in the size of the cortex relative to the medulla.",
+            "identifier": "C176401",
+            "notation": "CORTICOMEDULLARY RATIO, DECREASED",
+            "pref_label": "Decreased Corticomedullary Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176401"
+        },
+        {
+            "definition": "Increase in the size of the cortex relative to the medulla.",
+            "identifier": "C176402",
+            "notation": "CORTICOMEDULLARY RATIO, INCREASED",
+            "pref_label": "Increased Corticomedullary Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176402"
+        },
+        {
+            "alt_label": "Pseudoglandular Formation",
+            "definition": "Formation of epithelial pseudoglandular structures with lumens.",
+            "identifier": "C35920",
+            "notation": "CRIBRIFORM CHANGE",
+            "pref_label": "Cribriform Pattern",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C35920"
+        },
+        {
+            "alt_label": "Scab",
+            "definition": "A covering or layer of solid matter formed by dried bodily exudate or secretion.",
+            "identifier": "C120873",
+            "notation": "CRUST",
+            "pref_label": "Cutaneous Crust",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120873"
+        },
+        {
+            "alt_label": "Crystal;Crystal Formation",
+            "definition": "A clear or pale solid having a highly regular structure, which may present as a crystal profile.",
+            "identifier": "C61303",
+            "notation": "CRYSTALS",
+            "pref_label": "Crystal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C61303"
+        },
+        {
+            "definition": "A sac-like closed pocket of tissue that may be empty or may be filled with fluid, gas, semisolid, or amorphous material. It typically has an outer epithelial-lined capsule.",
+            "identifier": "C2978",
+            "notation": "CYST",
+            "pref_label": "Cyst",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C2978"
+        },
+        {
+            "definition": "A finding consisting of multilocular cysts lined by fine septa containing fine flocculent eosinophilic material or, in some tissues, blood. The cysts are not lined by endothelial cells and do not compress the surrounding parenchyma. This does not include congenital polycystic change. (INHAND)",
+            "identifier": "C41454",
+            "notation": "CYSTIC DEGENERATION",
+            "pref_label": "Cystic Change",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C41454"
+        },
+        {
+            "definition": "A cytoplasmic change that may be characterized by, but is not limited to, increased cytoplasmic granularity, eosinophilia, and/or cell swelling.",
+            "identifier": "C154895",
+            "notation": "CYTOPLASMIC ALTERATION",
+            "pref_label": "Cytoplasmic Alteration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C154895"
+        },
+        {
+            "definition": "A primarily uterine reaction with generally indistinct borders and two recognizable regions. These regions are an antimesometrial region containing closely packed mesenchymal cells and a mesometrial region containing mesometrial cells with long cytoplasmic processes and abundant glycogen. (INHAND)",
+            "identifier": "C123636",
+            "notation": "DECIDUAL REACTION",
+            "pref_label": "Experimental Organism Decidual Reaction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C123636"
+        },
+        {
+            "definition": "A focal lesion within the uterus consisting of markedly hypertrophied stromal cells with cytoplasmic glycogen and prominent nuclei.",
+            "identifier": "C123637",
+            "notation": "DECIDUALIZATION",
+            "pref_label": "Experimental Organism Decidualization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C123637"
+        },
+        {
+            "definition": "Disturbance of cell integrity and deterioration of normal tissue, cells or organs.",
+            "identifier": "C50774",
+            "notation": "DEGENERATION",
+            "pref_label": "Tissue Degeneration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C50774"
+        },
+        {
+            "alt_label": "Atrophy/Degeneration",
+            "definition": "A finding that generally has features of degeneration and atrophy.",
+            "identifier": "C120874",
+            "notation": "DEGENERATION/ATROPHY",
+            "pref_label": "Degeneration and Atrophy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120874"
+        },
+        {
+            "alt_label": "Necrosis/Degeneration",
+            "definition": "A finding that generally has features of degeneration and necrosis.",
+            "identifier": "C120875",
+            "notation": "DEGENERATION/NECROSIS",
+            "pref_label": "Degeneration and Necrosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120875"
+        },
+        {
+            "alt_label": "Regeneration/Degeneration",
+            "definition": "A finding that generally has features of degeneration and regeneration.",
+            "identifier": "C120876",
+            "notation": "DEGENERATION/REGENERATION",
+            "pref_label": "Degeneration and Regeneration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120876"
+        },
+        {
+            "definition": "A finding that generally has features of degeneration and vacuolation.",
+            "identifier": "C161563",
+            "notation": "DEGENERATION/VACUOLATION",
+            "pref_label": "Degeneration And Vacuolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161563"
+        },
+        {
+            "definition": "A disease process characterized by degeneration of the articular cartilage, hypertrophy of bone at the margins and changes in the synovial membrane. (INHAND)",
+            "identifier": "C3293",
+            "notation": "DEGENERATIVE JOINT DISEASE",
+            "pref_label": "Osteoarthritis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3293"
+        },
+        {
+            "definition": "Loss of cytoplasmic granules.",
+            "identifier": "C163725",
+            "notation": "DEGRANULATION",
+            "pref_label": "Degranulation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163725"
+        },
+        {
+            "definition": "Loss of myelin with relative preservation of the ensheathed axon, characterized by the presence of myelin ovoids and reduced myelin staining.",
+            "identifier": "C117277",
+            "notation": "DEMYELINATION",
+            "pref_label": "Demyelination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C117277"
+        },
+        {
+            "definition": "Aberrant development of odontogenic tissues without accompanying fracture. (INHAND)",
+            "identifier": "C139141",
+            "notation": "DENTAL DYSPLASIA",
+            "pref_label": "Dental Dysplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139141"
+        },
+        {
+            "definition": "Tooth-like structure formed from displaced odontogenic tissue, which may include dental papilla. (NCI)",
+            "identifier": "C139142",
+            "notation": "DENTICLE",
+            "pref_label": "Denticle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139142"
+        },
+        {
+            "definition": "A change to the dentin matrix characterized by abnormal dentin appearance, such as tubules being arranged in disorderly fashion and/or cells or inclusions trapped in the dentin matrix.",
+            "identifier": "C139143",
+            "notation": "DENTIN MATRIX ALTERATION",
+            "pref_label": "Dentin Matrix Alteration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139143"
+        },
+        {
+            "definition": "Focal or multi-focal recesses within the dentin. (INHAND)",
+            "identifier": "C139144",
+            "notation": "DENTIN NICHES",
+            "pref_label": "Dentin Niche Formation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139144"
+        },
+        {
+            "definition": "Decrease in the amount of dentin.",
+            "identifier": "C139145",
+            "notation": "DENTIN, DECREASED",
+            "pref_label": "Decreased Dentin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139145"
+        },
+        {
+            "definition": "Increase in the amount of dentin.",
+            "identifier": "C161562",
+            "notation": "DENTIN, INCREASED",
+            "pref_label": "Increased Dentin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161562"
+        },
+        {
+            "alt_label": "Drusen",
+            "definition": "Extracellular deposits of irregular, amorphous material located between the retinal pigment epithelium and Bruch's membrane. (INHAND)",
+            "identifier": "C161546",
+            "notation": "DEPOSITS, EXTRACELLULAR MATRIX, SUBRETINA",
+            "pref_label": "Subretinal Extracellular Matrix Deposit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161546"
+        },
+        {
+            "definition": "Choristomatous tissue arising from an ectodermal anlage.",
+            "identifier": "C161547",
+            "notation": "DERMOID, OCULAR",
+            "pref_label": "Ocular Dermoid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161547"
+        },
+        {
+            "definition": "Separation of the photoreceptor outer segment from the retinal pigmented epithelium. (INHAND)",
+            "identifier": "C26874",
+            "notation": "DETACHMENT, RETINA",
+            "pref_label": "Retinal Detachment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C26874"
+        },
+        {
+            "alt_label": "Dilation",
+            "definition": "Expansion of the cavity, ducts or lumen of a hollow organ or vessel.",
+            "identifier": "C113136",
+            "notation": "DILATATION",
+            "pref_label": "Dilation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C113136"
+        },
+        {
+            "alt_label": "Dilation/Diverticulum",
+            "definition": "A finding that generally has features of dilatation and a diverticulum.",
+            "identifier": "C161548",
+            "notation": "DILATATION/DIVERTICULUM",
+            "pref_label": "Dilatation and Diverticulum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161548"
+        },
+        {
+            "definition": "Displacement of the crystalline lens into the anterior or posterior chambers.",
+            "identifier": "C118864",
+            "notation": "DISLOCATION, LENS",
+            "pref_label": "Crystalline Lens Dislocation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C118864"
+        },
+        {
+            "definition": "Photoreceptor cell located external to the retinal outer limiting membrane. (INHAND)",
+            "identifier": "C161566",
+            "notation": "DISPLACEMENT, PHOTORECEPTOR NUCLEI",
+            "pref_label": "Photoreceptor Nuclei Displacement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161566"
+        },
+        {
+            "definition": "A sac-like protrusion in the wall of a hollow organ or tissue.",
+            "identifier": "C26753",
+            "notation": "DIVERTICULUM",
+            "pref_label": "Diverticulum",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C26753"
+        },
+        {
+            "definition": "Abnormal maturation of erythroid, myeloid, and/or megakaryocytic lineages. (INHAND)",
+            "identifier": "C36235",
+            "notation": "DYSHEMATOPOIESIS",
+            "pref_label": "Bone Marrow Dysplasia Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C36235"
+        },
+        {
+            "definition": "Intracellular accumulation of cytoskeletal elements, characterized by large, eosinophilic, fusiform, or torpedo-shaped swellings (spheroids) in axons. (INHAND)",
+            "identifier": "C161542",
+            "notation": "DYSTROPHY, AXONAL",
+            "pref_label": "Neuroaxonal Dystrophy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161542"
+        },
+        {
+            "definition": "Expansion of substructures (such as ducts, glands, sinuses, alveoli) within the tissue.",
+            "identifier": "C120877",
+            "notation": "ECTASIA",
+            "pref_label": "Ectasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120877"
+        },
+        {
+            "alt_label": "Ectopia;Heterotopia",
+            "definition": "An otherwise normal tissue or portion of tissue that forms in a location of the body at or in which it is not normally present.",
+            "identifier": "C132486",
+            "notation": "ECTOPIC TISSUE",
+            "pref_label": "Ectopic Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C132486"
+        },
+        {
+            "definition": "Excessive amount of watery fluid in tissues or cavities, generally characterized microscopically as clear spaces separating tissue components.",
+            "identifier": "C3002",
+            "notation": "EDEMA",
+            "pref_label": "Edema",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3002"
+        },
+        {
+            "definition": "Degeneration of elastin with accumulation of irregular, thickened elastic fibers.",
+            "identifier": "C120878",
+            "notation": "ELASTOSIS",
+            "pref_label": "Elastosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120878"
+        },
+        {
+            "alt_label": "Emboli",
+            "definition": "An intravascular mass, such as clotted blood or other elements, that was carried in the blood and occludes distal vessels.",
+            "identifier": "C50547",
+            "notation": "EMBOLUS",
+            "pref_label": "Embolus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C50547"
+        },
+        {
+            "definition": "Penetration or engulfment of one cell (neutrophils or other hematopoietic cells), which remains intact, by another (often megakaryocyte) cell. (INHAND)",
+            "identifier": "C35987",
+            "notation": "EMPERIPOLESIS",
+            "pref_label": "Emperipolesis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C35987"
+        },
+        {
+            "definition": "Abnormal enlargement of the air space distal to the terminal bronchiole accompanied by destructive changes in the alveolar septa.",
+            "identifier": "C3348",
+            "notation": "EMPHYSEMA",
+            "pref_label": "Pulmonary Emphysema",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3348"
+        },
+        {
+            "definition": "Decrease in the amount of enamel.",
+            "identifier": "C163726",
+            "notation": "ENAMEL, DECREASED",
+            "pref_label": "Decreased Enamel",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163726"
+        },
+        {
+            "definition": "Intracytoplasmic droplets that are strongly eosinophilic.",
+            "identifier": "C132487",
+            "notation": "EOSINOPHILIC GLOBULES",
+            "pref_label": "Eosinophilic Globules",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C132487"
+        },
+        {
+            "alt_label": "Respiratory Tract Epithelial Alteration",
+            "definition": "A change or slight modification in respiratory and/or cuboidal/transitional epithelial cells in the respiratory system, characterized mainly by loss of cilia (respiratory epithelium), flattening and horizontal orientation of epithelial cells and a slight increase in cell layers.",
+            "identifier": "C120879",
+            "notation": "EPITHELIAL ALTERATION",
+            "pref_label": "Respiratory Tract Epithelial Alteration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120879"
+        },
+        {
+            "definition": "Increase in the amount of surface erosion.",
+            "identifier": "C147496",
+            "notation": "ERODED SURFACE, INCREASED",
+            "pref_label": "Increased Eroded Surface",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C147496"
+        },
+        {
+            "definition": "A shallow or superficial destruction of a surface, without destruction of the basement membrane. (INHAND)",
+            "identifier": "C50443",
+            "notation": "EROSION",
+            "pref_label": "Erosion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C50443"
+        },
+        {
+            "alt_label": "Erosion/Ulceration;Ulcer/Erosion",
+            "definition": "A finding that generally has features of erosion and ulceration.",
+            "identifier": "C120880",
+            "notation": "EROSION/ULCER",
+            "pref_label": "Eroded and Ulcerated Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120880"
+        },
+        {
+            "definition": "Macrophages containing phagocytized intact or fragmented erythrocytes, with or without nuclei, and/or erythrocyte ghosts. (INHAND)",
+            "identifier": "C35584",
+            "notation": "ERYTHROPHAGOCYTOSIS",
+            "pref_label": "Erythrophagocytosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C35584"
+        },
+        {
+            "definition": "Shedding or sloughing of cells from an epithelial surface, including skin, mucosa and testis.",
+            "identifier": "C111657",
+            "notation": "EXFOLIATION",
+            "pref_label": "Desquamation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C111657"
+        },
+        {
+            "definition": "Formation of blood cells that occurs outside of the bone marrow.",
+            "identifier": "C41235",
+            "notation": "EXTRAMEDULLARY HEMATOPOIESIS",
+            "pref_label": "Extramedullary Hematopoiesis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C41235"
+        },
+        {
+            "definition": "Accumulation of extravasated fluid containing inflammatory cells and fibrin. Necrotic debris and/or other cellular and extracellular components may also be present.",
+            "identifier": "C13233",
+            "notation": "EXUDATE",
+            "pref_label": "Exudate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C13233"
+        },
+        {
+            "definition": "Increased lipid within the cytoplasm of cells.",
+            "identifier": "C36185",
+            "notation": "FATTY CHANGE",
+            "pref_label": "Steatosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C36185"
+        },
+        {
+            "definition": "Accumulation of a mixed cell population of non-neoplastic mesenchymal cells along endosteal surfaces which may be associated with focal osteoclastic bone resorption and marrow fibroplasia. (INHAND)",
+            "identifier": "C139146",
+            "notation": "FIBRO-OSSEOUS LESION",
+            "pref_label": "Experimental Organism Fibro-osseous Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139146"
+        },
+        {
+            "definition": "The formation of fibrous tissue characterized by an increased number of active, plump fibroblasts and variable amounts of collagen.",
+            "identifier": "C120881",
+            "notation": "FIBROPLASIA",
+            "pref_label": "Fibroplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120881"
+        },
+        {
+            "definition": "Increase in collagen and low numbers of fibrocytes.",
+            "identifier": "C3044",
+            "notation": "FIBROSIS",
+            "pref_label": "Fibrosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3044"
+        },
+        {
+            "definition": "The replacement of cortical bone by fibrous connective tissue and stromal cells.",
+            "identifier": "C139147",
+            "notation": "FIBROUS OSTEODYSTROPHY",
+            "pref_label": "Fibrous Osteodystrophy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139147"
+        },
+        {
+            "alt_label": "Foci of Cellular Alteration;Focus/foci of Cellular Alteration",
+            "definition": "A localized proliferation of hepatocytes phenotypically different from surrounding hepatocyte parenchyma with no or minimal compression of surrounding tissue.",
+            "identifier": "C120882",
+            "notation": "FOCUS OF CELLULAR ALTERATION",
+            "pref_label": "Focus of Cellular Alteration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120882"
+        },
+        {
+            "definition": "Absence of follicles.",
+            "identifier": "C163727",
+            "notation": "FOLLICLES, ABSENT",
+            "pref_label": "Absent Follicles",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163727"
+        },
+        {
+            "definition": "Decreased number and/or size of follicles.",
+            "identifier": "C163728",
+            "notation": "FOLLICLES, DECREASED",
+            "pref_label": "Decreased Follicles",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163728"
+        },
+        {
+            "alt_label": "Follicles, Decreased/Absent",
+            "definition": "A finding that generally has features of decreased follicles and absent follicles.",
+            "identifier": "C163729",
+            "notation": "FOLLICLES, DECREASED/FOLLICLES, ABSENT",
+            "pref_label": "Decreased Follicles and Absent Follicles",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163729"
+        },
+        {
+            "definition": "Increased number and/or size of follicles.",
+            "identifier": "C163730",
+            "notation": "FOLLICLES, INCREASED",
+            "pref_label": "Increased Follicles",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163730"
+        },
+        {
+            "alt_label": "Foreign Body",
+            "definition": "An occurrence where any object originating inside or outside the body is not in it's physiological or intended location.",
+            "identifier": "C34620",
+            "notation": "FOREIGN MATERIAL",
+            "pref_label": "Foreign Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C34620"
+        },
+        {
+            "definition": "Localized disruption of bone or tooth structure resulting in partial or complete discontinuity. (INHAND)",
+            "identifier": "C3046",
+            "notation": "FRACTURE",
+            "pref_label": "Fracture",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3046"
+        },
+        {
+            "alt_label": "Fungi",
+            "definition": "The presence of fungi.",
+            "identifier": "C120883",
+            "notation": "FUNGUS",
+            "pref_label": "Fungus Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120883"
+        },
+        {
+            "definition": "Disturbance of cell integrity and deterioration of germ cells.",
+            "identifier": "C120884",
+            "notation": "GERM CELL DEGENERATION",
+            "pref_label": "Germ Cell Degeneration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120884"
+        },
+        {
+            "definition": "Partial or complete absence of germ cell layer(s). (INHAND)",
+            "identifier": "C120885",
+            "notation": "GERM CELL DEPLETION",
+            "pref_label": "Germ Cell Depletion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120885"
+        },
+        {
+            "alt_label": "Germ Cell Degeneration/Germ Cell Depletion",
+            "definition": "A finding that generally has features of germ cell depletion and germ cell degeneration.",
+            "identifier": "C120886",
+            "notation": "GERM CELL DEPLETION/GERM CELL DEGENERATION",
+            "pref_label": "Germ Cell Depletion and Germ Cell Degeneration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120886"
+        },
+        {
+            "definition": "Increase in the number of glial cells.",
+            "identifier": "C161564",
+            "notation": "GLIAL CELLS, INCREASED NUMBER",
+            "pref_label": "Experimental Organism Increased Number of Glial Cells",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161564"
+        },
+        {
+            "definition": "Nonspecific reactive response of nervous system glial cells, chiefly astrocytes and microglia rather than oligodendroglia.",
+            "identifier": "C26783",
+            "notation": "GLIOSIS",
+            "pref_label": "Gliosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C26783"
+        },
+        {
+            "alt_label": "Glomerular Nephritis",
+            "definition": "Inflammatory changes in the renal glomeruli characterized by thickening of the glomerular basement membrane, mesangial cell proliferation and/or mononuclear inflammatory cell infiltration. In some forms, the glomerular epithelial cells may also proliferate and form adhesions.",
+            "identifier": "C26784",
+            "notation": "GLOMERULONEPHRITIS",
+            "pref_label": "Glomerulonephritis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C26784"
+        },
+        {
+            "definition": "Chronic degenerative changes in the glomeruli characterized by loss of cellularity of glomerular capillary tufts and acellular deposition of immunoglobulins.",
+            "identifier": "C120887",
+            "notation": "GLOMERULOPATHY",
+            "pref_label": "Glomerulopathy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120887"
+        },
+        {
+            "alt_label": "Glomerular Sclerosis",
+            "definition": "Hyaline deposits or scarring within the renal glomeruli. (INHAND)",
+            "identifier": "C120888",
+            "notation": "GLOMERULOSCLEROSIS",
+            "pref_label": "Glomerulosclerosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120888"
+        },
+        {
+            "definition": "A finding associated with tissue repair, characterized by the presence of ingrowth of fibroblasts and new blood vessels.",
+            "identifier": "C34652",
+            "notation": "GRANULATION TISSUE",
+            "pref_label": "Granulation Tissue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C34652"
+        },
+        {
+            "definition": "Increased number and/or size of granules in the cytoplasm of cells.",
+            "identifier": "C158333",
+            "notation": "GRANULES, INCREASED",
+            "pref_label": "Increased Granules",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C158333"
+        },
+        {
+            "definition": "An organized chronic inflammatory reaction characterized by the presence of epithelioid macrophages. Giant cells and/or necrosis can be observed.",
+            "identifier": "C3064",
+            "notation": "GRANULOMA",
+            "pref_label": "Granuloma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3064"
+        },
+        {
+            "alt_label": "Physis Closed",
+            "definition": "Cartilage of the physis is replaced by bone.",
+            "identifier": "C139148",
+            "notation": "GROWTH PLATE CLOSED",
+            "pref_label": "Growth Plate Closed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139148"
+        },
+        {
+            "alt_label": "Physis Open",
+            "definition": "A physis consisting of hyaline cartilage, without complete osseous fusion.",
+            "identifier": "C154893",
+            "notation": "GROWTH PLATE OPEN",
+            "pref_label": "Growth Plate Open",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C154893"
+        },
+        {
+            "alt_label": "Physis Partially Closed",
+            "definition": "Cartilage of the physis is incompletely replaced by bone.",
+            "identifier": "C163731",
+            "notation": "GROWTH PLATE PARTIALLY CLOSED",
+            "pref_label": "Growth Plate Partially Closed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163731"
+        },
+        {
+            "definition": "Decreased number of hair cells.",
+            "identifier": "C161549",
+            "notation": "HAIR CELL, DECREASED NUMBER",
+            "pref_label": "Sensory Hair Cell Loss",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161549"
+        },
+        {
+            "definition": "An excessive but focal overgrowth of cells and tissues native to the organ in which it occurs.",
+            "identifier": "C3075",
+            "notation": "HAMARTOMA",
+            "pref_label": "Hamartoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3075"
+        },
+        {
+            "definition": "The presence of any species of Helicobacter.",
+            "identifier": "C132488",
+            "notation": "HELICOBACTER",
+            "pref_label": "Helicobacter Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C132488"
+        },
+        {
+            "definition": "An endothelial lined cyst-like structure filled with blood, which typically occurs on a cardiac valve.",
+            "identifier": "C75548",
+            "notation": "HEMATOCYST",
+            "pref_label": "Hemorrhagic Cyst",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C75548"
+        },
+        {
+            "definition": "A large, localized, space-occupying collection of extravasated blood in a tissue or organ.",
+            "identifier": "C50579",
+            "notation": "HEMATOMA",
+            "pref_label": "Hematoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C50579"
+        },
+        {
+            "definition": "The presence of extravascular erythrocytes.",
+            "identifier": "C26791",
+            "notation": "HEMORRHAGE",
+            "pref_label": "Hemorrhage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C26791"
+        },
+        {
+            "alt_label": "Fibrosiderosis",
+            "definition": "Yellow-brown, small, firm nodules composed of fibrous tissue and collagenous and/or elastic fibers that are impregnated with bilirubin, hemosiderin, and/or calcium salts.",
+            "identifier": "C184726",
+            "notation": "HEMOSIDEROTIC PLAQUE",
+            "pref_label": "Hemosiderotic Plaque",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C184726"
+        },
+        {
+            "definition": "Presence of normal hepatocytes in hepatic veins and within the contour of the vessel. (INHAND)",
+            "identifier": "C161539",
+            "notation": "HEPATOCYTES, SUBINTIMAL",
+            "pref_label": "Vascular Infiltration by Hepatocytes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161539"
+        },
+        {
+            "definition": "A congenital abnormality of the liver, characterized by grossly visible nodule(s) usually located on the median lobe. (INHAND)",
+            "identifier": "C120889",
+            "notation": "HEPATODIAPHRAGMATIC NODULE",
+            "pref_label": "Hepatodiaphragmatic Nodule",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120889"
+        },
+        {
+            "definition": "Presence of exogenous or endogenous eosinophilic hyaline material within an organ, tissue or cell.",
+            "identifier": "C176405",
+            "notation": "HYALINE MATERIAL",
+            "pref_label": "Hyaline Material",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176405"
+        },
+        {
+            "definition": "An enlargement of the ventricles relative to brain tissue.",
+            "identifier": "C3111",
+            "notation": "HYDROCEPHALUS",
+            "pref_label": "Hydrocephalus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3111"
+        },
+        {
+            "definition": "Dilation of the central canal of the spinal cord.",
+            "identifier": "C123638",
+            "notation": "HYDROMYELIA",
+            "pref_label": "Hydromyelia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C123638"
+        },
+        {
+            "alt_label": "Increased Keratinization",
+            "definition": "Thickening of the outermost layer of stratified squamous epithelium.",
+            "identifier": "C35541",
+            "notation": "HYPERKERATOSIS",
+            "pref_label": "Hyperkeratosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C35541"
+        },
+        {
+            "definition": "Increase in the number of resident cells, generally with an increase in mitotic figures present, per unit area in an organ or tissue.",
+            "identifier": "C3113",
+            "notation": "HYPERPLASIA",
+            "pref_label": "Hyperplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3113"
+        },
+        {
+            "definition": "A finding that generally has features of hyperplasia and hyperkeratosis.",
+            "identifier": "C170641",
+            "notation": "HYPERPLASIA/HYPERKERATOSIS",
+            "pref_label": "Hyperplasia and Hyperkeratosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C170641"
+        },
+        {
+            "alt_label": "Metaplasia/Hyperplasia",
+            "definition": "A finding that generally has features of hyperplasia and metaplasia.",
+            "identifier": "C120890",
+            "notation": "HYPERPLASIA/METAPLASIA",
+            "pref_label": "Hyperplasia and Metaplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120890"
+        },
+        {
+            "definition": "Increase in the number of cells with nuclear hypersegmentation.",
+            "identifier": "C176406",
+            "notation": "HYPERSEGMENTATION, GRANULOCYTE",
+            "pref_label": "Increased Number of Hypersegmented Neutrophils Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176406"
+        },
+        {
+            "definition": "Cell size enlargement due to the increase in the amount of cytoplasm and its constituent organelles. The cells are larger but otherwise the appearance is unchanged.",
+            "identifier": "C3124",
+            "notation": "HYPERTROPHY",
+            "pref_label": "Hypertrophy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3124"
+        },
+        {
+            "alt_label": "Hyperplasia/Hypertrophy",
+            "definition": "A finding that generally has features of hypertrophy and hyperplasia.",
+            "identifier": "C120891",
+            "notation": "HYPERTROPHY/HYPERPLASIA",
+            "pref_label": "Hypertrophy and Hyperplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120891"
+        },
+        {
+            "alt_label": "Karyomegaly/Hypertrophy",
+            "definition": "A finding that generally has features of hypertrophy and karyomegaly.",
+            "identifier": "C120892",
+            "notation": "HYPERTROPHY/KARYOMEGALY",
+            "pref_label": "Hypertrophy and Karyomegaly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120892"
+        },
+        {
+            "definition": "Incomplete or underdevelopment of a tissue or organ. (NCI)",
+            "identifier": "C120893",
+            "notation": "HYPOPLASIA",
+            "pref_label": "Hypoplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120893"
+        },
+        {
+            "definition": "Transient failure of spermatogenesis affecting a segment of the seminiferous tubule resulting in partial or complete absence of one or more generations of germ cells, occurring in the absence of significant degeneration of germ cells.",
+            "identifier": "C166105",
+            "notation": "HYPOSPERMATOGENESIS",
+            "pref_label": "Hypospermatogenesis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C166105"
+        },
+        {
+            "definition": "In an early period of life or development or growth; not fully developed.",
+            "identifier": "C25531",
+            "notation": "IMMATURITY",
+            "pref_label": "Immature",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C25531"
+        },
+        {
+            "definition": "Embryologic remnant consisting of a persistent connective tissue membrane within the vaginal vault.",
+            "identifier": "C123639",
+            "notation": "IMPERFORATE VAGINA",
+            "pref_label": "Imperforate Vagina",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C123639"
+        },
+        {
+            "definition": "The persistence of implantation site material after pregnancy.",
+            "identifier": "C181555",
+            "notation": "IMPLANTATION SITE REMNANT",
+            "pref_label": "Implantation Site Remnant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C181555"
+        },
+        {
+            "alt_label": "Inclusion Bodies;Inclusion Body;Inclusions",
+            "definition": "A general term used to describe abnormal structures present within the cytoplasm or nucleus of a cell. (INHAND)",
+            "identifier": "C120945",
+            "notation": "INCLUSION",
+            "pref_label": "Inclusion Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120945"
+        },
+        {
+            "alt_label": "Infarction;Infarcts",
+            "definition": "Localized necrosis of tissue resulting from obstruction of the blood supply usually by a thrombus, an embolus, or vascular torsion.",
+            "identifier": "C25738",
+            "notation": "INFARCT",
+            "pref_label": "Infarction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C25738"
+        },
+        {
+            "alt_label": "Cellular Infiltration;Infiltration",
+            "definition": "An influx of cells, generally leukocytes, in locations or numbers not normally found, without other features of inflammation.",
+            "identifier": "C42077",
+            "notation": "INFILTRATE",
+            "pref_label": "Cellular Infiltrate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C42077"
+        },
+        {
+            "definition": "A finding that generally has features of infiltrate and fibrosis.",
+            "identifier": "C139155",
+            "notation": "INFILTRATE/FIBROSIS",
+            "pref_label": "Infiltrate and Fibrosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139155"
+        },
+        {
+            "definition": "A response to an injury or abnormal stimuli characterized by inflammatory cell infiltration and varying degrees of vascular and tissue reactions (hyperemia, edema, fibrin, and/or fibrosis).",
+            "identifier": "C3137",
+            "notation": "INFLAMMATION",
+            "pref_label": "Inflammation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3137"
+        },
+        {
+            "definition": "Generalized inflammation of the renal interstitium characterized by a diffuse or patchy distribution of lymphocytes, plasma cells and/or macrophages and variable degrees of edema.",
+            "identifier": "C26834",
+            "notation": "INTERSTITIAL NEPHRITIS",
+            "pref_label": "Interstitial Nephritis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C26834"
+        },
+        {
+            "definition": "An increase in matrix, without an increase in cell numbers, between the endothelium and the internal elastic lamina. (INHAND)",
+            "identifier": "C139156",
+            "notation": "INTIMAL THICKENING",
+            "pref_label": "Pathologic Intimal Thickening",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139156"
+        },
+        {
+            "definition": "The presence of red blood cells within hepatocytes.",
+            "identifier": "C147497",
+            "notation": "INTRAHEPATOCELLULAR ERYTHROCYTES",
+            "pref_label": "Intrahepatocellular Erythrocytes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C147497"
+        },
+        {
+            "definition": "A plaque located in the tunica intima of vessels characterized by the presence of granular material, collagenous fibers with interspersed spindle cells, and focal protrusion of a variably mineralized matrix into the vascular lumen. (INHAND)",
+            "identifier": "C139157",
+            "notation": "INTRAMURAL PLAQUE",
+            "pref_label": "Intramural Plaque",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139157"
+        },
+        {
+            "alt_label": "Erythrocytes, Intrasinusoidal",
+            "definition": "The presence of red blood cells within lymph node sinuses.",
+            "identifier": "C166106",
+            "notation": "INTRASINUSOIDAL ERYTHROCYTES",
+            "pref_label": "Lymph Node Intrasinusoidal Erythrocytes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C166106"
+        },
+        {
+            "definition": "Telescoping or invagination of a portion of a tubuluar organ into an adjacent segment.",
+            "identifier": "C113484",
+            "notation": "INTUSSUSCEPTION",
+            "pref_label": "Intussusception",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C113484"
+        },
+        {
+            "definition": "An increase in nuclear size and amount of cytoplasm of a cell. The cells or nucleus may be slightly irregular and/or may be polyploid.",
+            "identifier": "C120894",
+            "notation": "KARYOCYTOMEGALY",
+            "pref_label": "Karyocytomegaly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120894"
+        },
+        {
+            "alt_label": "Multinucleated Hepatocytes/Karyocytomegaly",
+            "definition": "A finding that generally has features of karyocytomegaly and multinucleated hepatocytes.",
+            "identifier": "C120895",
+            "notation": "KARYOCYTOMEGALY/MULTINUCLEATED HEPATOCYTES",
+            "pref_label": "Karyocytomegaly and Multinucleated Hepatocytes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120895"
+        },
+        {
+            "alt_label": "Nuclear Enlargement",
+            "definition": "An increase in the size of a cellular nucleus. (NCI)",
+            "identifier": "C120896",
+            "notation": "KARYOMEGALY",
+            "pref_label": "Karyomegaly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120896"
+        },
+        {
+            "definition": "The presence of keratin in an epithelial tissue where it is not normally found.",
+            "identifier": "C161550",
+            "notation": "KERATINIZATION",
+            "pref_label": "Keratinization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161550"
+        },
+        {
+            "definition": "A thin, uniform cyst wall composed of well differentiated, flattened squamous epithelium undergoing orderly maturation and filled with large amounts of keratin.",
+            "identifier": "C161543",
+            "notation": "KERATINIZING CYST",
+            "pref_label": "Experimental Organism Keratinizing Cyst",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161543"
+        },
+        {
+            "definition": "The abnormal, excessive accumulation of acellular, periodic acid-Schiff positive, pale eosinophilic material (lipoprotein-type). This is typically found in the pulmonary alveoli.",
+            "identifier": "C84829",
+            "notation": "LIPOPROTEINOSIS",
+            "pref_label": "Lipoid Proteinosis of Urbach and Wiethe",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C84829"
+        },
+        {
+            "definition": "Decrease in corticomedullary distinction due to changes in lymphocyte cellularity.",
+            "identifier": "C176404",
+            "notation": "LOSS OF CORTICOMEDULLARY DISTINCTION",
+            "pref_label": "Loss of Corticomedullary Distinction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176404"
+        },
+        {
+            "alt_label": "Luteinized Unruptured Follicle",
+            "definition": "A corpus luteum-like structure with a retained oocyte and variably luteinized granulosa cells.",
+            "identifier": "C123640",
+            "notation": "LUTEINIZED FOLLICLE",
+            "pref_label": "Experimental Organism Luteinized Unruptured Follicle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C123640"
+        },
+        {
+            "definition": "Dilatation of the lymphatic vessels. (NCI)",
+            "identifier": "C97087",
+            "notation": "LYMPHANGIECTASIS",
+            "pref_label": "Lymphangiectasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C97087"
+        },
+        {
+            "definition": "A permanent structural change that is likely to adversely affect the form, survival or health of the species under study. (Gupta, R. C. ed. (2011) Reproductive and Developmental Toxicology. London, UK: Elsevier, Inc.)",
+            "identifier": "C36287",
+            "notation": "MALFORMATION",
+            "pref_label": "Congenital or Acquired Anatomic Abnormality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C36287"
+        },
+        {
+            "definition": "A finding in the glomerulus of the kidney, characterized by the degeneration of mesangial cells and the dissolution of the mesangial matrix.",
+            "identifier": "C120897",
+            "notation": "MESANGIOLYSIS",
+            "pref_label": "Mesangiolysis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120897"
+        },
+        {
+            "definition": "A proliferative lesion composed of large eosinophilic epithelioid and spindle cells.",
+            "identifier": "C124611",
+            "notation": "MESENCHYMAL PROLIFERATIVE LESION",
+            "pref_label": "Experimental Organism Mesenchymal Proliferative Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C124611"
+        },
+        {
+            "definition": "The persistence of the mesonephric duct beyond embryogenesis. (NCI)",
+            "identifier": "C61581",
+            "notation": "MESONEPHRIC DUCT REMNANT",
+            "pref_label": "Mesonephric Remnants",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C61581"
+        },
+        {
+            "definition": "Conversion of a mature, normal cell or groups of mature cells to other forms of mature cells.",
+            "identifier": "C3236",
+            "notation": "METAPLASIA",
+            "pref_label": "Metaplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3236"
+        },
+        {
+            "definition": "A very small, circumscribed collection of white blood cells, predominantly neutrophils.",
+            "identifier": "C96272",
+            "notation": "MICROABSCESS",
+            "pref_label": "Microabscess",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C96272"
+        },
+        {
+            "definition": "An accumulation of microglial cells in nervous system tissue.",
+            "identifier": "C120898",
+            "notation": "MICROGLIOSIS",
+            "pref_label": "Microgliosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120898"
+        },
+        {
+            "alt_label": "Calcification;Mineral",
+            "definition": "Basophilic, granular deposits of inorganic material in tissue.",
+            "identifier": "C120899",
+            "notation": "MINERALIZATION",
+            "pref_label": "Mineralization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120899"
+        },
+        {
+            "definition": "An increase in the number of mitotic figures.",
+            "identifier": "C163732",
+            "notation": "MITOTIC FIGURES, INCREASED",
+            "pref_label": "Increased Mitotic Figures",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163732"
+        },
+        {
+            "definition": "Increase in the number of mucus-producing epithelial cells, which may form a distinct mucified layer.",
+            "identifier": "C129004",
+            "notation": "MUCIFICATION, INCREASED",
+            "pref_label": "Increased Mucification Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C129004"
+        },
+        {
+            "definition": "An abnormally large cell with more than one nucleus. (INHAND)",
+            "identifier": "C12607",
+            "notation": "MULTINUCLEATED GIANT CELL",
+            "pref_label": "Giant Cell",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C12607"
+        },
+        {
+            "definition": "Hepatocytes that have multiple nuclei present.",
+            "identifier": "C120900",
+            "notation": "MULTINUCLEATED HEPATOCYTES",
+            "pref_label": "Multinucleated Hepatocyte",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120900"
+        },
+        {
+            "alt_label": "Mouse Urological Syndrome (MUS)",
+            "definition": "A constellation of findings in male mice characterized by ulceration and/or inflammation of the penis and prepuce, proteinaceous material with inflammatory cells, spermatozoa or desquamated urothelial cells forming a plug in the urethra and generally dilatation of the bladder, hydroureter and hydronephrosis.",
+            "identifier": "C127195",
+            "notation": "MURINE OBSTRUCTIVE UROPATHY",
+            "pref_label": "Mouse Urological Syndrome",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C127195"
+        },
+        {
+            "definition": "Increase in the amount of myelin.",
+            "identifier": "C161567",
+            "notation": "MYELIN, INCREASED",
+            "pref_label": "Myelin Sheath Regeneration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161567"
+        },
+        {
+            "definition": "Displacement, compression or collapse of the trabecular beams, reducing or obliterating the spaces between the beams in the trabecular meshwork. (INHAND)",
+            "identifier": "C161551",
+            "notation": "NARROWED FILTRATION ANGLE",
+            "pref_label": "Narrowed Filtration Angle of Trabecular Meshwork",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161551"
+        },
+        {
+            "definition": "Death of a group of cells in an organ or tissue. (INHAND)",
+            "identifier": "C16897",
+            "notation": "NECROSIS",
+            "pref_label": "Necrotic Process",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C16897"
+        },
+        {
+            "definition": "A finding that generally has features of necrosis and infiltrate.",
+            "identifier": "C139158",
+            "notation": "NECROSIS/INFILTRATE",
+            "pref_label": "Necrosis and Infiltrate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139158"
+        },
+        {
+            "definition": "A finding that generally has features of necrosis and inflammation.",
+            "identifier": "C139159",
+            "notation": "NECROSIS/INFLAMMATION",
+            "pref_label": "Necrosis and Inflammation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139159"
+        },
+        {
+            "definition": "Focal lesion in the tissue due to insertion and/or withdrawal of the needle.",
+            "identifier": "C126089",
+            "notation": "NEEDLE TRACT LESION",
+            "pref_label": "Needle Tract Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C126089"
+        },
+        {
+            "definition": "The formation of new blood vessels.",
+            "identifier": "C16900",
+            "notation": "NEOVASCULARIZATION",
+            "pref_label": "Neovascularization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C16900"
+        },
+        {
+            "definition": "Small, focal or locally extensive basophilic cell mass of blast cells with ill-defined cytoplasm and nuclei, which may be present in one or both kidneys. May arise from remnant of developing metanephric blastema.",
+            "identifier": "C66851",
+            "notation": "NEPHROBLASTEMATOSIS",
+            "pref_label": "Diffuse Hyperplastic Perilobar Nephroblastomatosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C66851"
+        },
+        {
+            "definition": "A degradative change in neurons that is typically spontaneous, and is characterized by distinct membrane bound pale eosinophilic cytoplasm, dark eosinophilic globular material, and usually occurs with no discernable reaction of surrounding cells and a lack of infiltrating inflammatory cells.",
+            "identifier": "C176396",
+            "notation": "NEURONAL AUTOPHAGY",
+            "pref_label": "Neuronal Autophagy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176396"
+        },
+        {
+            "definition": "Presence of normal-appearing neurons in an unexpected position, due to abnormal migration of precursor cells during development. (INHAND)",
+            "identifier": "C174383",
+            "notation": "NEURONAL HETEROTOPIA",
+            "pref_label": "Neuronal Heterotopia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C174383"
+        },
+        {
+            "definition": "The phagocytosis of degenerating neurons.",
+            "identifier": "C120901",
+            "notation": "NEURONOPHAGIA",
+            "pref_label": "Neuronophagia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120901"
+        },
+        {
+            "definition": "Complete or partial blockage of the lumen of a tubular structure.",
+            "identifier": "C3284",
+            "notation": "OBSTRUCTION",
+            "pref_label": "Obstruction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3284"
+        },
+        {
+            "definition": "Renal damage secondary to crystal deposition in the tubular lumen or blockage of urinary outflow in the bladder or urethra. Lesion is characterized by interstitial granulomatous inflammation often with epithelioid cells and multinucleated giant cells, crystal deposition or evidence of blockage of the ureters (e.g. proteinaceous plug in male mice). (INHAND)",
+            "identifier": "C120902",
+            "notation": "OBSTRUCTIVE NEPHROPATHY",
+            "pref_label": "Obstructive Nephropathy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120902"
+        },
+        {
+            "definition": "Increase in the remodeling or modeling-based bone formation. (INHAND)",
+            "identifier": "C139149",
+            "notation": "OSTEOBLASTIC SURFACE, INCREASED",
+            "pref_label": "Increased Osteoblastic Surface",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139149"
+        },
+        {
+            "definition": "Increase in the prominence of osteoclasts.",
+            "identifier": "C147498",
+            "notation": "OSTEOCLASTS, INCREASED",
+            "pref_label": "Increased Osteoclasts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C147498"
+        },
+        {
+            "definition": "Increase in the amount of unmineralized bone matrix.",
+            "identifier": "C139150",
+            "notation": "OSTEOID, INCREASED",
+            "pref_label": "Increased Osteoid",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139150"
+        },
+        {
+            "definition": "Periarticular non-neoplastic osseous protuberance with or without a cartilage cap located along the epiphyseal margins. (INHAND)",
+            "identifier": "C139151",
+            "notation": "OSTEOPHYTE",
+            "pref_label": "Osteophyte",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139151"
+        },
+        {
+            "definition": "Displacement or loss of the otoliths within the inner ear.",
+            "identifier": "C161552",
+            "notation": "OTOLITH LOSS OR DISORGANIZATION",
+            "pref_label": "Otolith Loss Or Disorganization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161552"
+        },
+        {
+            "definition": "A rare condition characterized by the unequivocal presence of both testicular and ovarian tissues in a gonad.",
+            "identifier": "C85207",
+            "notation": "OVOTESTIS",
+            "pref_label": "True Hermaphroditism",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C85207"
+        },
+        {
+            "definition": "Reduction in Paneth cell granules and loss of Paneth cells in small intestine. (INHAND)",
+            "identifier": "C158336",
+            "notation": "PANETH CELL REDUCTION",
+            "pref_label": "Paneth Cell Reduction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C158336"
+        },
+        {
+            "alt_label": "Parasites",
+            "definition": "The presence of parasites and/or parasitic ova.",
+            "identifier": "C120903",
+            "notation": "PARASITE",
+            "pref_label": "Parasite Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120903"
+        },
+        {
+            "definition": "A hole or opening through a membrane or other tissue that is not normally present.",
+            "identifier": "C4080",
+            "notation": "PERFORATION",
+            "pref_label": "Perforation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C4080"
+        },
+        {
+            "definition": "Decreased number and/or size of peri-insular halos.",
+            "identifier": "C158334",
+            "notation": "PERI-INSULAR HALOS, DECREASED",
+            "pref_label": "Decreased Peri-Insular Halos",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C158334"
+        },
+        {
+            "definition": "Increased number and/or size of peri-insular halos.",
+            "identifier": "C158335",
+            "notation": "PERI-INSULAR HALOS, INCREASED",
+            "pref_label": "Increased Peri-Insular Halos",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C158335"
+        },
+        {
+            "definition": "An abnormal dilation and/or expansion of the periodontium resulting in destruction of the supporting periodontal tissue.",
+            "identifier": "C62547",
+            "notation": "PERIODONTAL POCKET",
+            "pref_label": "Periodontal Pocket",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C62547"
+        },
+        {
+            "definition": "A congenital abnormality of the eye caused by failure of regression of the fetal eye vasculature.",
+            "identifier": "C161553",
+            "notation": "PERSISTENT HYALOID VESSELS",
+            "pref_label": "Persistent Hyaloid Vessels",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161553"
+        },
+        {
+            "definition": "A congenital abnormality of the eye caused by failure of regression of the primary vitreous and hyaloid vasculature anteriorly and/or posteriorly.",
+            "identifier": "C161554",
+            "notation": "PERSISTENT HYPERPLASTIC PRIMARY VITREOUS",
+            "pref_label": "Persistent Hyperplastic Primary Vitreous",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161554"
+        },
+        {
+            "definition": "A congenital abnormality of the eye caused by incomplete regression of the tunica vasculosa lentis, which is the blood supply for the developing lens of the fetus.",
+            "identifier": "C161555",
+            "notation": "PERSISTENT PUPILLARY MEMBRANE",
+            "pref_label": "Persistent Pupillary Membrane",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161555"
+        },
+        {
+            "definition": "Congenital finding/remnant of thyroglossal duct. (INHAND)",
+            "identifier": "C163733",
+            "notation": "PERSISTENT THYROGLOSSAL DUCT",
+            "pref_label": "Persistent Thyroglossal Duct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163733"
+        },
+        {
+            "definition": "Incomplete regression of the X-zone in the adrenal gland. (INHAND)",
+            "identifier": "C163734",
+            "notation": "PERSISTENT X-ZONE",
+            "pref_label": "Persistent X-Zone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163734"
+        },
+        {
+            "definition": "Disorder caused by defects in the function of the lysosomes resulting in the presence of small clear vacuoles containing phospholipids within the cytoplasm of various cells. (INHAND)",
+            "identifier": "C61250",
+            "notation": "PHOSPHOLIPIDOSIS",
+            "pref_label": "Lysosomal Storage Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C61250"
+        },
+        {
+            "definition": "Disorganization of the physeal chondrocytes with or without increased thickness of physis.",
+            "identifier": "C170642",
+            "notation": "PHYSEAL DYSPLASIA",
+            "pref_label": "Physeal Dysplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C170642"
+        },
+        {
+            "definition": "Decrease in the thickness of the physis of a bone.",
+            "identifier": "C139153",
+            "notation": "PHYSIS THICKNESS, DECREASED",
+            "pref_label": "Decreased Physis Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139153"
+        },
+        {
+            "definition": "Increase in the thickness of the physis of a bone.",
+            "identifier": "C139154",
+            "notation": "PHYSIS THICKNESS, INCREASED",
+            "pref_label": "Increased Physis Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139154"
+        },
+        {
+            "alt_label": "Pigmentation;Pigments",
+            "definition": "Accumulation of exogenous or endogenous colored material within an organ, tissue or cell. (INHAND)",
+            "identifier": "C38005",
+            "notation": "PIGMENT",
+            "pref_label": "Pigmentation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C38005"
+        },
+        {
+            "definition": "Decrease in the amount of pigment.",
+            "identifier": "C161560",
+            "notation": "PIGMENT, DECREASED",
+            "pref_label": "Decreased Pigmentation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161560"
+        },
+        {
+            "definition": "Increase in the amount of pigment.",
+            "identifier": "C161559",
+            "notation": "PIGMENT, INCREASED",
+            "pref_label": "Increased Pigmentation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161559"
+        },
+        {
+            "definition": "The persistence of placental material after pregnancy.",
+            "identifier": "C181554",
+            "notation": "PLACENTAL REMNANT",
+            "pref_label": "Placental Remnant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C181554"
+        },
+        {
+            "definition": "A finding that generally has features of placental remnants and implantation site remnants.",
+            "identifier": "C181556",
+            "notation": "PLACENTAL REMNANT/IMPLANTATION SITE REMNANT",
+            "pref_label": "Placental Remnant and Implantation Site Remnant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C181556"
+        },
+        {
+            "definition": "A disruption of the intrinsic asymmetrical organization of cells within a structure.",
+            "identifier": "C161556",
+            "notation": "POLARITY, LOSS",
+            "pref_label": "Loss of Cell Polarity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161556"
+        },
+        {
+            "definition": "An ovarian follicle that contains more than one oocyte.",
+            "identifier": "C123641",
+            "notation": "POLYOVULAR FOLLICLE",
+            "pref_label": "Polyovular Follicle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C123641"
+        },
+        {
+            "definition": "Increase in the amount of porphyrin.",
+            "identifier": "C161557",
+            "notation": "PORPHYRIN, INCREASED",
+            "pref_label": "Increased Porphyrin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161557"
+        },
+        {
+            "definition": "A condition in which an organ drops or bulges out of place. (NCI)",
+            "identifier": "C36173",
+            "notation": "PROLAPSE",
+            "pref_label": "Prolapse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C36173"
+        },
+        {
+            "definition": "Thickening of the tunica intima of a vessel by smooth muscle cells or, less commonly, fibroblasts.",
+            "identifier": "C139160",
+            "notation": "PROLIFERATION, INTIMA",
+            "pref_label": "Intimal Hyperplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139160"
+        },
+        {
+            "definition": "A noninflammatory increase in valvular stromal cells accompanied by increased matrix.",
+            "identifier": "C139161",
+            "notation": "PROLIFERATION, STROMA, VALVE",
+            "pref_label": "Valve-Derived Stromal Cell Proliferation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139161"
+        },
+        {
+            "definition": "Activation of abnormal cell growth within the trabecular meshwork of the eye, usually due to injury.",
+            "identifier": "C161558",
+            "notation": "PROLIFERATION, TRABECULAR MESHWORK",
+            "pref_label": "Trabecular Meshwork Proliferation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161558"
+        },
+        {
+            "definition": "An embryological structure composed of epithelial cells surrounded by mesenchyme that gives rise, in the male, to the prostate gland.",
+            "identifier": "C123642",
+            "notation": "PROSTATIC RUDIMENT",
+            "pref_label": "Prostatic Rudiment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C123642"
+        },
+        {
+            "definition": "A higher than normal amount of protein in the aqueous humor.",
+            "identifier": "C163735",
+            "notation": "PROTEINACEOUS FLUID, AQUEOUS HUMOR",
+            "pref_label": "Proteinaceous Fluid in the Aqueous Humor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163735"
+        },
+        {
+            "alt_label": "Seminal Plug",
+            "definition": "Eosinophilic proteinaceous material in male urinary bladder or urethra. (INHAND)",
+            "identifier": "C120904",
+            "notation": "PROTEINACEOUS PLUG",
+            "pref_label": "Proteinaceous Plug",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120904"
+        },
+        {
+            "definition": "A cyst-like structure that appears as an irregular space between cells, which lacks an epithelial lining and may contain proteinaceous fluid. (INHAND)",
+            "identifier": "C97117",
+            "notation": "PSEUDOCYST",
+            "pref_label": "Pseudocyst",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C97117"
+        },
+        {
+            "definition": "Concentric layers of mineralized tissue surrounding dead/injured cells or collagen fibers in the dental pulp. (INHAND)",
+            "identifier": "C139152",
+            "notation": "PULP CONCRETION",
+            "pref_label": "Dental Pulp Concretion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139152"
+        },
+        {
+            "definition": "A circumscribed skin or mucosal epithelial lesion filled with purulent material.",
+            "identifier": "C78582",
+            "notation": "PUSTULE",
+            "pref_label": "Pustular Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C78582"
+        },
+        {
+            "definition": "A tubulointerstitial inflammatory disease involving a spectrum of lesions affecting the tubules, interstitium and/or the pelvis of the kidney. Pyelonephritis can result from infections, both ascending and descending and following papillary necrosis and urothelial ulceration. Certain strains of rodents are particularly susceptible to developing spontaneous pyelonephritis and are used as animal models to assess antibiotic therapy. (INHAND)",
+            "identifier": "C34965",
+            "notation": "PYELONEPHRITIS",
+            "pref_label": "Pyelonephritis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C34965"
+        },
+        {
+            "definition": "The accumulation of inflammatory cells, predominantly neutrophils, within the uterus and lumen.",
+            "identifier": "C121207",
+            "notation": "PYOMETRA",
+            "pref_label": "Pyometra",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C121207"
+        },
+        {
+            "definition": "A spontaneous, age-related change characterized by primary segmental demyelination with secondary axonal degeneration in the large myelinated fibers of the spinal nerve roots. (INHAND)",
+            "identifier": "C174377",
+            "notation": "RADICULONEUROPATHY",
+            "pref_label": "Radiculoneuropathy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C174377"
+        },
+        {
+            "definition": "Intracytoplasmic accumulation of material such as glycogen or xenobiotics, characterized by clear, not well defined spaces in the cytoplasm around a centrally located nucleus. (INHAND)",
+            "identifier": "C139136",
+            "notation": "RAREFACTION",
+            "pref_label": "Tissue Rarefaction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C139136"
+        },
+        {
+            "definition": "A reparative process to replace lost or damaged cells, commonly characterized by cellular basophilia, increased nuclear cytoplasmic ratio and/or irregular architecture.",
+            "identifier": "C17083",
+            "notation": "REGENERATION",
+            "pref_label": "Regeneration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C17083"
+        },
+        {
+            "definition": "A finding of congenital malformations in the kidney characterized by the presence of cysts of various sizes, primitive ducts, islands of metaplastic cartilage and undifferentiated mesenchyme, and the absence of cortico-medullary demarcation.",
+            "identifier": "C3847",
+            "notation": "RENAL DYSPLASIA",
+            "pref_label": "Renal Cell Dysplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3847"
+        },
+        {
+            "definition": "The presence of round or ellipsoid, variably layered, pale structures located among nerve fascicles, not associated with axons or Schwann cells.",
+            "identifier": "C176397",
+            "notation": "RENAUT BODY",
+            "pref_label": "Renaut Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176397"
+        },
+        {
+            "definition": "A process in which tissue is absorbed by the body.",
+            "identifier": "C93204",
+            "notation": "RESORPTION",
+            "pref_label": "Resorption",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C93204"
+        },
+        {
+            "alt_label": "Retinal Folds",
+            "definition": "Undulation of retinal layers. (Makris S, Solomon HM, Clark R, Shiota K, Barbellion S, Buschmann J, Ema M, Fujiwara M, Grote K, Hazelden KP, Hew KW, Horimoto M, Ooshima Y, Parkinson M, Wise LD. Terminology of developmental abnormalities in common laboratory mammals (Version 2). Part B. Birth Defects Res B Dev Reprod Toxicol. 2009 Aug;86(4):227-327.)",
+            "identifier": "C124578",
+            "notation": "RETINAL FOLD",
+            "pref_label": "Retinal Fold",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C124578"
+        },
+        {
+            "alt_label": "Retinal Rosettes",
+            "definition": "Focal to multifocal rosette-like and tubular structures expanding and distorting the inner and outer nuclear layers. (INHAND)",
+            "identifier": "C161565",
+            "notation": "RETINAL ROSETTE",
+            "pref_label": "Retinal Rosette",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161565"
+        },
+        {
+            "definition": "Constellation of tubule changes extending from papilla to cortex. In the cortex, the lesions consist of linear patches of tubular basophilia coupled with tubular dilation and tracts of basophilic, hyperplastic collecting ducts, often with mitotic figures. Inflammation is usually not a prominent component. Differentiated from obstructive nephropathy by absence of granulomatous inflammation and crystals.",
+            "identifier": "C120905",
+            "notation": "RETROGRADE NEPHROPATHY",
+            "pref_label": "Reflux Nephropathy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120905"
+        },
+        {
+            "definition": "A spontaneous, age-related cardiac disease of rats and mice, characterized by myocardial changes presenting a continuum that begins as focal to multifocal individual cardiomyocyte necrosis attended by a few inflammatory cells progressing at different rates in different animals to include multifocal mononuclear cell inflammation and even fibrosis for larger lesions. (INHAND)",
+            "identifier": "C161561",
+            "notation": "RODENT PROGRESSIVE CARDIOMYOPATHY",
+            "pref_label": "Rodent Progressive Cardiomyopathy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161561"
+        },
+        {
+            "definition": "Traumatic or spontaneous breakage of tissue.",
+            "identifier": "C9445",
+            "notation": "RUPTURE",
+            "pref_label": "Rupture",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C9445"
+        },
+        {
+            "definition": "Nodules and diverticuli in the isthmus of the fallopian tube.",
+            "identifier": "C40119",
+            "notation": "SALPINGITIS ISTHMICA NODOSA",
+            "pref_label": "Salpingitis Isthmica Nodosa",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C40119"
+        },
+        {
+            "definition": "A finding characterized by the presence of rings or clusters of primarily oligodendroglia near a degenerating neuron cell body.",
+            "identifier": "C98382",
+            "notation": "SATELLITOSIS",
+            "pref_label": "Perineuronal Satellitosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C98382"
+        },
+        {
+            "definition": "Decreased amount of a secretory content present in the glandular lumen.",
+            "identifier": "C166107",
+            "notation": "SECRETION, DECREASED",
+            "pref_label": "Decreased Secretion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C166107"
+        },
+        {
+            "definition": "Increased amount of a secretory content present in the glandular lumen.",
+            "identifier": "C166108",
+            "notation": "SECRETION, INCREASED",
+            "pref_label": "Increased Secretion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C166108"
+        },
+        {
+            "definition": "Decreased secretory content (e.g., mucus or granules) in secretory cells.",
+            "identifier": "C158337",
+            "notation": "SECRETORY DEPLETION",
+            "pref_label": "Secretory Depletion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C158337"
+        },
+        {
+            "definition": "An alteration of the septum from the midline. This is typically seen in the nasal cavity.",
+            "identifier": "C120906",
+            "notation": "SEPTAL DEVIATION",
+            "pref_label": "Septal Deviation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120906"
+        },
+        {
+            "alt_label": "Increased Serosa-Associated Lymphoid Clusters;SALCS, Increased",
+            "definition": "Increase in clusters of lymphocytes (including innate lymphoid cells), macrophages, plasma cells, and mast cells located immediately below, and covered by, the mesothelium. (INHAND)",
+            "identifier": "C176407",
+            "notation": "SEROSA-ASSOCIATED LYMPHOID CLUSTERS, INCREASED",
+            "pref_label": "Experimental Organism Increased Serosa-Associated Lymphoid Clusters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176407"
+        },
+        {
+            "definition": "Focal or diffuse depletion of adipocytes with a replacement of adipose tissue by eosinophilic substance. (INHAND)",
+            "identifier": "C176409",
+            "notation": "SEROUS ATROPHY OF FAT",
+            "pref_label": "Gelatinous Bone Marrow Transformation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176409"
+        },
+        {
+            "definition": "Death of an individual cell(s) in an organ or tissue, generally associated with cellular debris and inflammation.",
+            "identifier": "C60880",
+            "notation": "SINGLE CELL NECROSIS",
+            "pref_label": "Single Cell Necrosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C60880"
+        },
+        {
+            "definition": "An aggregate of extravasated sperm in the paratesticular region surrounded by granulomatous inflammation.",
+            "identifier": "C80355",
+            "notation": "SPERM GRANULOMA",
+            "pref_label": "Sperm Granuloma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C80355"
+        },
+        {
+            "definition": "Luminal aggregation of released sperm generally within an atrophic tubule. (INHAND)",
+            "identifier": "C120907",
+            "notation": "SPERM STASIS",
+            "pref_label": "Spermatic Stasis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120907"
+        },
+        {
+            "alt_label": "Reduced Sperm",
+            "definition": "A reduction in sperm content is generally the result of reduced sperm output by the testis due to germ cell injury, decreased androgen support or rarely, secondary to congenital testicular hypoplasia/agenesis. (INHAND)",
+            "identifier": "C61050",
+            "notation": "SPERM, DECREASED",
+            "pref_label": "Decreased Sperm Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C61050"
+        },
+        {
+            "definition": "Persistence of mature elongating spermatids in the seminiferous tubule after the normal stage of physiologic release.",
+            "identifier": "C120908",
+            "notation": "SPERMATID RETENTION",
+            "pref_label": "Spermatid Retention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120908"
+        },
+        {
+            "definition": "A benign cystic dilatation in the epididymis or testis that contains fluid and spermatozoa.",
+            "identifier": "C120909",
+            "notation": "SPERMATOCELE",
+            "pref_label": "Spermatocele",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120909"
+        },
+        {
+            "alt_label": "Contracted Spleen",
+            "definition": "The process by which the spleen becomes smaller in size or scope.",
+            "identifier": "C176400",
+            "notation": "SPLENIC CONTRACTION",
+            "pref_label": "Splenic Contraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176400"
+        },
+        {
+            "definition": "A sac-like structure lined by stratified squamous epithelium. (INHAND)",
+            "identifier": "C3134",
+            "notation": "SQUAMOUS CYST",
+            "pref_label": "Epidermal Inclusion Cyst",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3134"
+        },
+        {
+            "definition": "A focus of squamous epithelium in or near the surface of the heart, generally believed to be an embryonic rest.",
+            "identifier": "C154894",
+            "notation": "SQUAMOUS PLAQUE/CYST",
+            "pref_label": "Squamous Plaque/Cyst",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C154894"
+        },
+        {
+            "definition": "A type of multinucleated cell formed by the fusion of multiple uninucleated cells.",
+            "identifier": "C158331",
+            "notation": "SYNCYTIA",
+            "pref_label": "Experimental Organism Syncytium",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C158331"
+        },
+        {
+            "definition": "Cavitation of the spinal cord parenchyma.",
+            "identifier": "C85179",
+            "notation": "SYRINGOMYELIA",
+            "pref_label": "Syringomyelia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C85179"
+        },
+        {
+            "definition": "A finding that generally has features of syringomyelia and hydromyelia.",
+            "identifier": "C123643",
+            "notation": "SYRINGOMYELIA/HYDROMYELIA",
+            "pref_label": "Syringomyelia and Hydromyelia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C123643"
+        },
+        {
+            "definition": "A focus of hepatocytes containing well delineated circular clear spaces in the liver, often near mesenteric attachments such as the falciform ligament.",
+            "identifier": "C120910",
+            "notation": "TENSION LIPIDOSIS",
+            "pref_label": "Tension Lipidosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120910"
+        },
+        {
+            "alt_label": "TLS",
+            "definition": "The formation of follicular structures, preferably with some germinal center development, with distinct high endothelial venules (HEVs) and inflammation in an atypical location. (INHAND)",
+            "identifier": "C176410",
+            "notation": "TERTIARY LYMPHOID STRUCTURES",
+            "pref_label": "Tertiary Lymphoid Structure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176410"
+        },
+        {
+            "definition": "A decrease in the thickness of a structure.",
+            "identifier": "C174380",
+            "notation": "THICKNESS, DECREASED",
+            "pref_label": "Decreased Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C174380"
+        },
+        {
+            "definition": "An increase in the thickness of a structure.",
+            "identifier": "C174381",
+            "notation": "THICKNESS, INCREASED",
+            "pref_label": "Increased Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C174381"
+        },
+        {
+            "alt_label": "Thrombi;Thrombosis",
+            "definition": "An intravascular aggregation of blood components, primarily platelets and fibrin with entrapment of cellular elements, which is attached to the vessel wall.",
+            "identifier": "C27083",
+            "notation": "THROMBUS",
+            "pref_label": "Blood Clot",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C27083"
+        },
+        {
+            "alt_label": "Increased Hassall's Corpuscles",
+            "definition": "Increase in the amount of thymic corpuscles.",
+            "identifier": "C176411",
+            "notation": "THYMIC CORPUSCLES, INCREASED",
+            "pref_label": "Increased Hassall's Corpuscles",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176411"
+        },
+        {
+            "definition": "Increase in the amount of epithelium-free areas in the thymic cortex.",
+            "identifier": "C176403",
+            "notation": "THYMIC EPITHELIUM-FREE AREAS, INCREASED",
+            "pref_label": "Increased Thymic Epithelium-Free Areas",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176403"
+        },
+        {
+            "definition": "Lymphocyte populations in the thymus gradually decline with age beginning at puberty. (INHAND)",
+            "identifier": "C176408",
+            "notation": "THYMIC INVOLUTION, AGE-RELATED",
+            "pref_label": "Age-Related Thymic Involution",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C176408"
+        },
+        {
+            "definition": "Abnormal development of thyroid follicular cells.",
+            "identifier": "C163736",
+            "notation": "THYROID DYSPLASIA",
+            "pref_label": "Thyroid Dysplasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163736"
+        },
+        {
+            "definition": "Macrophages scattered among lymphocytes and containing intracytoplasmic apoptotic bodies. (INHAND)",
+            "identifier": "C166109",
+            "notation": "TINGIBLE BODY MACROPHAGES, INCREASED",
+            "pref_label": "Increased Tingible Body Macrophages",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C166109"
+        },
+        {
+            "definition": "Cytotoxic response of astrocytes characterized by swollen nuclei with central clearing, marginated heterochromatin, prominent/swollen nucleoli and indistinct cytoplasm.",
+            "identifier": "C120911",
+            "notation": "TYPE II ASTROCYTES",
+            "pref_label": "Alzheimer Type II Astrocyte",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120911"
+        },
+        {
+            "alt_label": "Ulceration",
+            "definition": "Destruction of an epithelial surface extending into or beyond the basement membrane.",
+            "identifier": "C3426",
+            "notation": "ULCER",
+            "pref_label": "Ulcer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C3426"
+        },
+        {
+            "definition": "Congenital finding/remnant of embryonic ultimobranchial duct. (INHAND)",
+            "identifier": "C163737",
+            "notation": "ULTIMOBRANCHIAL CYST",
+            "pref_label": "Ultimobranchial Cyst",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C163737"
+        },
+        {
+            "alt_label": "Cytoplasmic Vacuolation;Vacuoles",
+            "definition": "The presence of vacuoles within the cytoplasm of cells.",
+            "identifier": "C96302",
+            "notation": "VACUOLATION",
+            "pref_label": "Cytoplasmic Vacuolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C96302"
+        },
+        {
+            "definition": "Presence of extracellular clear spaces.",
+            "identifier": "C161568",
+            "notation": "VACUOLATION, EXTRACELLULAR",
+            "pref_label": "Extracellular Vacuolation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C161568"
+        },
+        {
+            "definition": "An abnormal fluid-filled cleft (e.g. as in the epidermis) or membrane-bound space.",
+            "identifier": "C120912",
+            "notation": "VESICLE",
+            "pref_label": "Vesicle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120912"
+        },
+        {
+            "definition": "The presence of yeast.",
+            "identifier": "C120913",
+            "notation": "YEAST",
+            "pref_label": "Yeast Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C120531-C120913"
+        }
+    ]
+}

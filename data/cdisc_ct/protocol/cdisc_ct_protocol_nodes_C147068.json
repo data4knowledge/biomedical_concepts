@@ -1,0 +1,27 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Participants are expressly assigned to intervention groups through a non-random method. (clinicaltrials.gov)",
+            "identifier": "C93043",
+            "notation": "Nonrandomized",
+            "pref_label": "Nonrandomized Clinical Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147068-C93043"
+        },
+        {
+            "alt_label": "NA;Not Applicable",
+            "definition": "Determination of a value is not relevant in the current context. (NCI)",
+            "identifier": "C48660",
+            "notation": "Not Applicable",
+            "pref_label": "Not Applicable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147068-C48660"
+        },
+        {
+            "alt_label": "Trial is Randomized",
+            "definition": "The process of assigning trial subjects to treatment or control groups using an element of chance to determine the assignments in order to reduce bias. NOTE: Unequal randomization is used to allocate subjects into groups at a differential rate; for example, three subjects may be assigned to a treatment group for every one assigned to the control group. [ICH E6 1.48] See also balanced study. (CDISC glossary)",
+            "identifier": "C25196",
+            "notation": "Randomized",
+            "pref_label": "Randomization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147068-C25196"
+        }
+    ]
+}

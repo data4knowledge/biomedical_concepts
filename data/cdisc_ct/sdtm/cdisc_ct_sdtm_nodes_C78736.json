@@ -1,0 +1,32 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Reported values outside the typical or expected range. (NCI)",
+            "identifier": "C78802",
+            "notation": "ABNORMAL",
+            "pref_label": "Abnormal Reference Range",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78736-C78802"
+        },
+        {
+            "definition": "Reported values above the typical or expected range. (NCI)",
+            "identifier": "C78800",
+            "notation": "HIGH",
+            "pref_label": "Value Above Reference Range",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78736-C78800"
+        },
+        {
+            "definition": "Reported values below the typical or expected range. (NCI)",
+            "identifier": "C78801",
+            "notation": "LOW",
+            "pref_label": "Value Below Reference Range",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78736-C78801"
+        },
+        {
+            "definition": "Reported values within the typical or expected range. (NCI)",
+            "identifier": "C78727",
+            "notation": "NORMAL",
+            "pref_label": "Normal Reference Range",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78736-C78727"
+        }
+    ]
+}

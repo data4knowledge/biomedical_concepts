@@ -1,0 +1,84 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Basic Research",
+            "definition": "A type of study designed to examine the basic mechanism of action (e.g., physiology, biomechanics) of an intervention. (ClinicalTrials.gov)",
+            "identifier": "C15714",
+            "notation": "BASIC SCIENCE",
+            "pref_label": "Basic Research",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736-C15714"
+        },
+        {
+            "definition": "A type of study designed to evaluate intervention(s) aimed to cure a disease or condition.",
+            "identifier": "C49654",
+            "notation": "CURE",
+            "pref_label": "Cure Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736-C49654"
+        },
+        {
+            "definition": "An intervention of a device product is being evaluated to determine the feasibility of the product or to test a prototype device and not health outcomes. Such studies are conducted to confirm the design and operating specifications of a device before beginning a full clinical trial. (ClinicalTrials.gov)",
+            "identifier": "C139174",
+            "notation": "DEVICE FEASIBILITY",
+            "pref_label": "Device Feasibility Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736-C139174"
+        },
+        {
+            "definition": "A type of study designed to evaluate intervention(s) aimed at identifying a disease or condition.",
+            "identifier": "C49653",
+            "notation": "DIAGNOSIS",
+            "pref_label": "Diagnosis Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736-C49653"
+        },
+        {
+            "definition": "A type of study designed to evaluate the effects of treatment(s) intended to cause a change in disease, syndrome, or condition beyond the point of treatment administration.",
+            "identifier": "C170629",
+            "notation": "DISEASE MODIFYING",
+            "pref_label": "Disease Modifying Treatment Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736-C170629"
+        },
+        {
+            "definition": "A type of study designed to evaluate the delivery, processes, management, organization or financing of health care. (ClinicalTrials.gov)",
+            "identifier": "C15245",
+            "notation": "HEALTH SERVICES RESEARCH",
+            "pref_label": "Health Services Research",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736-C15245"
+        },
+        {
+            "definition": "A type of study designed to identify actions necessary to eliminate or reduce the risk to human life or well-being as a result of a particular medication or treatment regimen. (NCI)",
+            "identifier": "C49655",
+            "notation": "MITIGATION",
+            "pref_label": "Adverse Effect Mitigation Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736-C49655"
+        },
+        {
+            "alt_label": "Prophylaxis Study",
+            "definition": "A type of study designed to identify actions necessary to permanently eliminate or reduce the long-term risk to human life as a result of a particular medication or treatment regimen.",
+            "identifier": "C49657",
+            "notation": "PREVENTION",
+            "pref_label": "Prevention Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736-C49657"
+        },
+        {
+            "definition": "A type of study designed to assess or examine methods of identifying a condition (or risk factors for a condition) in people who are not yet known to have the condition (or risk factor). (Clinicaltrials.gov)",
+            "identifier": "C71485",
+            "notation": "SCREENING",
+            "pref_label": "Screening Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736-C71485"
+        },
+        {
+            "definition": "A type of study designed to evaluate one or more interventions where the primary intent is to maximize comfort, minimize side effects or mitigate against a decline in the subject's health or function. In general, supportive care interventions are not intended to cure a disease. (ClinicalTrials.gov)",
+            "identifier": "C71486",
+            "notation": "SUPPORTIVE CARE",
+            "pref_label": "Supportive Care Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736-C71486"
+        },
+        {
+            "alt_label": "Therapy Trial",
+            "definition": "A type of study designed to evaluate intervention(s) for treatment of disease, syndrome or condition.",
+            "identifier": "C49656",
+            "notation": "TREATMENT",
+            "pref_label": "Treatment Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C66736-C49656"
+        }
+    ]
+}

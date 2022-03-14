@@ -1,0 +1,100 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Batch Identifier;Batch Number",
+            "definition": "A distinctive alpha-numeric identification code assigned by the manufacturer or distributor to a specific quantity of manufactured material or product that is produced in a manner that is expected to render it homogeneous.",
+            "identifier": "C104504",
+            "notation": "Batch Number",
+            "pref_label": "Batch Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C104504"
+        },
+        {
+            "alt_label": "Catalog Number",
+            "definition": "A unique manufacturer-assigned identifier used to distinguish a specific product from others in a catalog of products offered.",
+            "identifier": "C99286",
+            "notation": "Catalog Number",
+            "pref_label": "Catalog Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C99286"
+        },
+        {
+            "alt_label": "Device Type",
+            "definition": "Generic category of medical device within the device classification established by a regulatory authority.",
+            "identifier": "C53265",
+            "notation": "Device Type",
+            "pref_label": "Type of Device",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C53265"
+        },
+        {
+            "alt_label": "FDA Unique Device Identification",
+            "definition": "A UDI is a unique numeric or alphanumeric code that includes a device identifier, which is specific to a device model, and a production identifier, which includes the current production information for that specific device, such as the lot or batch number, the serial number and/or expiration date. (FDA)",
+            "identifier": "C112279",
+            "notation": "FDA Unique Device Identification",
+            "pref_label": "FDA Unique Device Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C112279"
+        },
+        {
+            "alt_label": "Lot Identifier;Lot Number",
+            "definition": "A distinctive alpha-numeric identification code assigned by the manufacturer or distributor to a specific quantity of manufactured material or product within a batch.",
+            "identifier": "C70848",
+            "notation": "Lot Number",
+            "pref_label": "Lot Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C70848"
+        },
+        {
+            "alt_label": "Manufacturer",
+            "definition": "The organization defined as being responsible for creating the product as stated on the package in which the product is supplied. (BRIDG)",
+            "identifier": "C25392",
+            "notation": "Manufacturer",
+            "pref_label": "Manufacturer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C25392"
+        },
+        {
+            "alt_label": "Model Identifier;Model Number",
+            "definition": "The identifier assigned to a particular design of a device, usually an alphanumeric text string.",
+            "identifier": "C99285",
+            "notation": "Model Number",
+            "pref_label": "Model Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C99285"
+        },
+        {
+            "alt_label": "Secure Lead Type",
+            "definition": "The type of locking device used to securely fasten the electrical leads to the device. (NCI)",
+            "identifier": "C111191",
+            "notation": "Secure Lead Type",
+            "pref_label": "Electrical Lead Locking Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C111191"
+        },
+        {
+            "alt_label": "Serial Number",
+            "definition": "A unique identifier assigned to an individual object.",
+            "identifier": "C73518",
+            "notation": "Serial Number",
+            "pref_label": "Serial Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C73518"
+        },
+        {
+            "alt_label": "Sponsor Device Description",
+            "definition": "The free-text description of the characteristics of a device provided by a sponsor.",
+            "identifier": "C170568",
+            "notation": "Sponsor Device Description",
+            "pref_label": "Sponsor Device Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C170568"
+        },
+        {
+            "alt_label": "Stereotactic Surgery Frame Type",
+            "definition": "The classification of the cage structure used to immobilize the head or other body part in preparation for stereotactic surgery. (NCI)",
+            "identifier": "C106570",
+            "notation": "Stereotactic Surgery Frame Type",
+            "pref_label": "Stereotactic Surgery Frame Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C106570"
+        },
+        {
+            "alt_label": "Trade Name",
+            "definition": "The part of the name or logo associated with a specific product or service identifying and distinguishing it from varieties of the same product or service marketed by competing companies.",
+            "identifier": "C71898",
+            "notation": "Trade Name",
+            "pref_label": "Proprietary Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106480-C71898"
+        }
+    ]
+}

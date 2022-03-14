@@ -1,0 +1,884 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Commands",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for commands.",
+            "identifier": "C100209",
+            "notation": "ADCCMD",
+            "pref_label": "CDISC ADAS-Cog - Commands Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100209"
+        },
+        {
+            "alt_label": "Commands: Fist",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Commands task for making a fist.",
+            "identifier": "C100210",
+            "notation": "ADCCMD01",
+            "pref_label": "CDISC ADAS-Cog - Commands: Fist",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100210"
+        },
+        {
+            "alt_label": "Commands: Ceiling",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Commands task for pointing to the ceiling then to the floor.",
+            "identifier": "C100211",
+            "notation": "ADCCMD02",
+            "pref_label": "CDISC ADAS-Cog - Commands: Ceiling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100211"
+        },
+        {
+            "alt_label": "Commands: Pencil",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Commands task for put the pencil on top of the card and then put it back.",
+            "identifier": "C100212",
+            "notation": "ADCCMD03",
+            "pref_label": "CDISC ADAS-Cog - Commands: Pencil",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100212"
+        },
+        {
+            "alt_label": "Commands: Watch",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Commands task for put the watch on the other side of the pencil and then turn over the card.",
+            "identifier": "C100213",
+            "notation": "ADCCMD04",
+            "pref_label": "CDISC ADAS-Cog - Commands: Watch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100213"
+        },
+        {
+            "alt_label": "Commands: Shoulder",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Commands task for tap each shoulder twice with two fingers keeping your eyes shut.",
+            "identifier": "C100214",
+            "notation": "ADCCMD05",
+            "pref_label": "CDISC ADAS-Cog - Commands: Shoulder",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100214"
+        },
+        {
+            "alt_label": "Comprehension",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ability to comprehend speech.",
+            "identifier": "C100278",
+            "notation": "ADCCMP",
+            "pref_label": "CDISC ADAS-Cog - Comprehension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100278"
+        },
+        {
+            "alt_label": "Concentration/Distractibility",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ability to concentrate or easily be distracted.",
+            "identifier": "C100279",
+            "notation": "ADCCON",
+            "pref_label": "CDISC ADAS-Cog - Concentration/Distractibility",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100279"
+        },
+        {
+            "alt_label": "Constructional Praxis",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for constructional praxis.",
+            "identifier": "C100226",
+            "notation": "ADCCP",
+            "pref_label": "CDISC ADAS-Cog - Constructional Praxis Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100226"
+        },
+        {
+            "alt_label": "Constructional Praxis: Circle",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Constructional praxis task for copying a circle.",
+            "identifier": "C100227",
+            "notation": "ADCCP01",
+            "pref_label": "CDISC ADAS-Cog - Constructional Praxis: Circle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100227"
+        },
+        {
+            "alt_label": "Constructional Praxis: 2 Rectangles",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Constructional praxis task for copying two overlapping rectangles.",
+            "identifier": "C100228",
+            "notation": "ADCCP02",
+            "pref_label": "CDISC ADAS-Cog - Constructional Praxis: 2 Rectangles",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100228"
+        },
+        {
+            "alt_label": "Constructional Praxis: Diamond",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Constructional praxis task for copying a diamond.",
+            "identifier": "C100229",
+            "notation": "ADCCP03",
+            "pref_label": "CDISC ADAS-Cog - Constructional Praxis: Diamond",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100229"
+        },
+        {
+            "alt_label": "Constructional Praxis: Cube",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Constructional praxis task for copying a cube.",
+            "identifier": "C100230",
+            "notation": "ADCCP04",
+            "pref_label": "CDISC ADAS-Cog - Constructional Praxis: Cube",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100230"
+        },
+        {
+            "alt_label": "Attempt to Draw",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Constructional praxis attempted to draw, but drew no forms correctly.",
+            "identifier": "C100231",
+            "notation": "ADCCPS",
+            "pref_label": "CDISC ADAS-Cog - Attempt to Draw",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100231"
+        },
+        {
+            "alt_label": "Word Finding Difficulty in Spont Speech",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Difficulty finding the desired word in spontaneous speech.",
+            "identifier": "C100277",
+            "notation": "ADCDIF",
+            "pref_label": "CDISC ADAS-Cog - Word Difficulty in Spontaneous Speech",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100277"
+        },
+        {
+            "alt_label": "Delayed Word Recall",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for delayed word recall.",
+            "identifier": "C100215",
+            "notation": "ADCDRL",
+            "pref_label": "CDISC ADAS-Cog - Delayed Word Recall Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100215"
+        },
+        {
+            "alt_label": "Delayed Word Recall: Word [1]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 1.",
+            "identifier": "C100216",
+            "notation": "ADCDRL01",
+            "pref_label": "CDISC ADAS-Cog - Delayed Word Recall: Word 1",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100216"
+        },
+        {
+            "alt_label": "Delayed Word Recall: Word [2]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 2.",
+            "identifier": "C100217",
+            "notation": "ADCDRL02",
+            "pref_label": "CDISC ADAS-Cog - Delayed Word Recall: Word 2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100217"
+        },
+        {
+            "alt_label": "Delayed Word Recall: Word [3]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 3.",
+            "identifier": "C100218",
+            "notation": "ADCDRL03",
+            "pref_label": "CDISC ADAS-Cog - Delayed Word Recall: Word 3",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100218"
+        },
+        {
+            "alt_label": "Delayed Word Recall: Word [4]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 4.",
+            "identifier": "C100219",
+            "notation": "ADCDRL04",
+            "pref_label": "CDISC ADAS-Cog - Delayed Word Recall: Word 4",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100219"
+        },
+        {
+            "alt_label": "Delayed Word Recall: Word [5]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 5.",
+            "identifier": "C100220",
+            "notation": "ADCDRL05",
+            "pref_label": "CDISC ADAS-Cog - Delayed Word Recall: Word 5",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100220"
+        },
+        {
+            "alt_label": "Delayed Word Recall: Word [6]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 6.",
+            "identifier": "C100221",
+            "notation": "ADCDRL06",
+            "pref_label": "CDISC ADAS-Cog - Delayed Word Recall: Word 6",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100221"
+        },
+        {
+            "alt_label": "Delayed Word Recall: Word [7]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 7.",
+            "identifier": "C100222",
+            "notation": "ADCDRL07",
+            "pref_label": "CDISC ADAS-Cog - Delayed Word Recall: Word 7",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100222"
+        },
+        {
+            "alt_label": "Delayed Word Recall: Word [8]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 8.",
+            "identifier": "C100223",
+            "notation": "ADCDRL08",
+            "pref_label": "CDISC ADAS-Cog - Delayed Word Recall: Word 8",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100223"
+        },
+        {
+            "alt_label": "Delayed Word Recall: Word [9]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 9.",
+            "identifier": "C100224",
+            "notation": "ADCDRL09",
+            "pref_label": "CDISC ADAS-Cog - Delayed Word Recall: Word 9",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100224"
+        },
+        {
+            "alt_label": "Delayed Word Recall: Word [10]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 10.",
+            "identifier": "C100225",
+            "notation": "ADCDRL10",
+            "pref_label": "CDISC ADAS-Cog - Delayed Word Recall: Word 10",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100225"
+        },
+        {
+            "alt_label": "Ideational Praxis",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for ideational praxis.",
+            "identifier": "C100232",
+            "notation": "ADCIP",
+            "pref_label": "CDISC ADAS-Cog - Ideational Praxis Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100232"
+        },
+        {
+            "alt_label": "Ideational Praxis: Fold",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ideational praxis task for folding the paper.",
+            "identifier": "C100233",
+            "notation": "ADCIP01",
+            "pref_label": "CDISC ADAS-Cog - Ideational Praxis: Fold",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100233"
+        },
+        {
+            "alt_label": "Ideational Praxis: Insert",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ideational praxis task for put the paper in the envelop.",
+            "identifier": "C100234",
+            "notation": "ADCIP02",
+            "pref_label": "CDISC ADAS-Cog - Ideational Praxis: Insert",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100234"
+        },
+        {
+            "alt_label": "Ideational Praxis: Seal",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ideational praxis task for seal the envelop.",
+            "identifier": "C100235",
+            "notation": "ADCIP03",
+            "pref_label": "CDISC ADAS-Cog - Ideational Praxis: Seal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100235"
+        },
+        {
+            "alt_label": "Ideational Praxis: Address",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ideational praxis task for address the envelop to yourself.",
+            "identifier": "C100236",
+            "notation": "ADCIP04",
+            "pref_label": "CDISC ADAS-Cog - Ideational Praxis: Address",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100236"
+        },
+        {
+            "alt_label": "Ideational Praxis: Stamp",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ideational praxis task for showing where the stamp goes.",
+            "identifier": "C100237",
+            "notation": "ADCIP05",
+            "pref_label": "CDISC ADAS-Cog - Ideational Praxis: Stamp",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100237"
+        },
+        {
+            "alt_label": "Executive Function Maze",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for the executive function maze tasks.",
+            "identifier": "C100284",
+            "notation": "ADCMZ",
+            "pref_label": "CDISC ADAS-Cog - Executive Function Maze Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100284"
+        },
+        {
+            "alt_label": "Executive Function Maze: Errors",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Number of errors during the executive function maze task.",
+            "identifier": "C100285",
+            "notation": "ADCMZ01",
+            "pref_label": "CDISC ADAS-Cog - Executive Function Maze: Errors",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100285"
+        },
+        {
+            "alt_label": "Executive Function Maze: Time",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - The time in seconds stored in ISO 8601 time for the executive function maze task.",
+            "identifier": "C100286",
+            "notation": "ADCMZ02",
+            "pref_label": "CDISC ADAS-Cog - Executive Function Maze: Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100286"
+        },
+        {
+            "alt_label": "Number Cancellation",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for the number cancellation tasks.",
+            "identifier": "C100280",
+            "notation": "ADCNC",
+            "pref_label": "CDISC ADAS-Cog - Number Cancellation Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100280"
+        },
+        {
+            "alt_label": "Number Cancellation: Correct",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Number of targets hit during the number cancellation task.",
+            "identifier": "C100281",
+            "notation": "ADCNC01",
+            "pref_label": "CDISC ADAS-Cog - Number Cancellation: Correct",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100281"
+        },
+        {
+            "alt_label": "Number Cancellation: Errors",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Number of errors during the number cancellation task.",
+            "identifier": "C100282",
+            "notation": "ADCNC02",
+            "pref_label": "CDISC ADAS-Cog - Number Cancellation: Errors",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100282"
+        },
+        {
+            "alt_label": "Number Cancellation: Remind",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Number of times reminded for the number cancellation task.",
+            "identifier": "C100283",
+            "notation": "ADCNC03",
+            "pref_label": "CDISC ADAS-Cog - Number Cancellation: Remind",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100283"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task summary score for object and fingers.",
+            "identifier": "C100191",
+            "notation": "ADCOF",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100191"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: Thumb",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for fingers of the dominant hand, thumb.",
+            "identifier": "C100204",
+            "notation": "ADCOFF01",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: Thumb",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100204"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: Pointer",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for fingers of the dominant hand, index, or pointer finger.",
+            "identifier": "C100205",
+            "notation": "ADCOFF02",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: Pointer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100205"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: Middle",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for fingers of the dominant hand, middle finger.",
+            "identifier": "C100206",
+            "notation": "ADCOFF03",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: Middle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100206"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: Ring",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for fingers of the dominant hand, ring finger.",
+            "identifier": "C100207",
+            "notation": "ADCOFF04",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: Ring",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100207"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: Pinky",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for fingers of the dominant hand, little finger or pinky.",
+            "identifier": "C100208",
+            "notation": "ADCOFF05",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: Pinky",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100208"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 1",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 1.",
+            "identifier": "C100192",
+            "notation": "ADCOFO01",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 1",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100192"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 2",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 2.",
+            "identifier": "C100193",
+            "notation": "ADCOFO02",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100193"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 3",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 3.",
+            "identifier": "C100194",
+            "notation": "ADCOFO03",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 3",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100194"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 4",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 4.",
+            "identifier": "C100195",
+            "notation": "ADCOFO04",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 4",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100195"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 5",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 5.",
+            "identifier": "C100196",
+            "notation": "ADCOFO05",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 5",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100196"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 6",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 6.",
+            "identifier": "C100197",
+            "notation": "ADCOFO06",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 6",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100197"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 7",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 7.",
+            "identifier": "C100198",
+            "notation": "ADCOFO07",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 7",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100198"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 8",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 8.",
+            "identifier": "C100199",
+            "notation": "ADCOFO08",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 8",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100199"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 9",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 9.",
+            "identifier": "C100200",
+            "notation": "ADCOFO09",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 9",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100200"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 10",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 10.",
+            "identifier": "C100201",
+            "notation": "ADCOFO10",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 10",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100201"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 11",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 11.",
+            "identifier": "C100202",
+            "notation": "ADCOFO11",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 11",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100202"
+        },
+        {
+            "alt_label": "Naming Objects and Fingers: 12",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 12.",
+            "identifier": "C100203",
+            "notation": "ADCOFO12",
+            "pref_label": "CDISC ADAS-Cog - Naming Objects and Fingers: 12",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100203"
+        },
+        {
+            "alt_label": "Orientation",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for orientation.",
+            "identifier": "C100238",
+            "notation": "ADCOR",
+            "pref_label": "CDISC ADAS-Cog - Orientation Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100238"
+        },
+        {
+            "alt_label": "Orientation: Full Name",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing one's own full name.",
+            "identifier": "C100239",
+            "notation": "ADCOR01",
+            "pref_label": "CDISC ADAS-Cog - Orientation: Full Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100239"
+        },
+        {
+            "alt_label": "Orientation: Month",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current month.",
+            "identifier": "C100240",
+            "notation": "ADCOR02",
+            "pref_label": "CDISC ADAS-Cog - Orientation: Month",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100240"
+        },
+        {
+            "alt_label": "Orientation: Date",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current day.",
+            "identifier": "C100241",
+            "notation": "ADCOR03",
+            "pref_label": "CDISC ADAS-Cog - Orientation: Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100241"
+        },
+        {
+            "alt_label": "Orientation: Year",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current year.",
+            "identifier": "C100242",
+            "notation": "ADCOR04",
+            "pref_label": "CDISC ADAS-Cog - Orientation: Year",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100242"
+        },
+        {
+            "alt_label": "Orientation: Day of Week",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current day of the week.",
+            "identifier": "C100243",
+            "notation": "ADCOR05",
+            "pref_label": "CDISC ADAS-Cog - Orientation: Day of Week",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100243"
+        },
+        {
+            "alt_label": "Orientation: Season",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current season.",
+            "identifier": "C100244",
+            "notation": "ADCOR06",
+            "pref_label": "CDISC ADAS-Cog - Orientation: Season",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100244"
+        },
+        {
+            "alt_label": "Orientation: Place",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current place.",
+            "identifier": "C100245",
+            "notation": "ADCOR07",
+            "pref_label": "CDISC ADAS-Cog - Orientation: Place",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100245"
+        },
+        {
+            "alt_label": "Orientation: Time",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the approximate current clock time.",
+            "identifier": "C100246",
+            "notation": "ADCOR08",
+            "pref_label": "CDISC ADAS-Cog - Orientation: Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100246"
+        },
+        {
+            "alt_label": "Word Recognition",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for word recognition across trials 1-3.",
+            "identifier": "C100247",
+            "notation": "ADCRG",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100247"
+        },
+        {
+            "alt_label": "Word Recognition Trial 1",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recognition trial 1.",
+            "identifier": "C100248",
+            "notation": "ADCRGT01",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition Trial 1 Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100248"
+        },
+        {
+            "alt_label": "Word Recognition Trial 2",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recognition trial 2.",
+            "identifier": "C100249",
+            "notation": "ADCRGT02",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition Trial 2 Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100249"
+        },
+        {
+            "alt_label": "Word Recognition Trial 3",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recognition trial 3.",
+            "identifier": "C100250",
+            "notation": "ADCRGT03",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition Trial 3 Summary Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100250"
+        },
+        {
+            "alt_label": "Word Recognition: Word [1]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 1 Trials 1, 2, 3.",
+            "identifier": "C100251",
+            "notation": "ADCRGW01",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 1",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100251"
+        },
+        {
+            "alt_label": "Word Recognition: Word [2]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 2 Trials 1, 2, 3.",
+            "identifier": "C100252",
+            "notation": "ADCRGW02",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100252"
+        },
+        {
+            "alt_label": "Word Recognition: Word [3]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 3 Trials 1, 2, 3.",
+            "identifier": "C100253",
+            "notation": "ADCRGW03",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 3",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100253"
+        },
+        {
+            "alt_label": "Word Recognition: Word [4]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 4 Trials 1, 2, 3.",
+            "identifier": "C100254",
+            "notation": "ADCRGW04",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 4",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100254"
+        },
+        {
+            "alt_label": "Word Recognition: Word [5]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 5 Trials 1, 2, 3.",
+            "identifier": "C100255",
+            "notation": "ADCRGW05",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 5",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100255"
+        },
+        {
+            "alt_label": "Word Recognition: Word [6]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 6 Trials 1, 2, 3.",
+            "identifier": "C100256",
+            "notation": "ADCRGW06",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 6",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100256"
+        },
+        {
+            "alt_label": "Word Recognition: Word [7]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 7 Trials 1, 2, 3.",
+            "identifier": "C100257",
+            "notation": "ADCRGW07",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 7",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100257"
+        },
+        {
+            "alt_label": "Word Recognition: Word [8]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 8 Trials 1, 2, 3.",
+            "identifier": "C100258",
+            "notation": "ADCRGW08",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 8",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100258"
+        },
+        {
+            "alt_label": "Word Recognition: Word [9]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 9 Trials 1, 2, 3.",
+            "identifier": "C100259",
+            "notation": "ADCRGW09",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 9",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100259"
+        },
+        {
+            "alt_label": "Word Recognition: Word [10]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 10 Trials 1, 2, 3.",
+            "identifier": "C100260",
+            "notation": "ADCRGW10",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 10",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100260"
+        },
+        {
+            "alt_label": "Word Recognition: Word [11]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 11 Trials 1, 2, 3.",
+            "identifier": "C100261",
+            "notation": "ADCRGW11",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 11",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100261"
+        },
+        {
+            "alt_label": "Word Recognition: Word [12]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 12 Trials 1, 2, 3.",
+            "identifier": "C100262",
+            "notation": "ADCRGW12",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 12",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100262"
+        },
+        {
+            "alt_label": "Word Recognition: Word [13]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 13 Trials 1, 2, 3.",
+            "identifier": "C100263",
+            "notation": "ADCRGW13",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 13",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100263"
+        },
+        {
+            "alt_label": "Word Recognition: Word [14]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 14 Trials 1, 2, 3.",
+            "identifier": "C100264",
+            "notation": "ADCRGW14",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 14",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100264"
+        },
+        {
+            "alt_label": "Word Recognition: Word [15]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 15 Trials 1, 2, 3.",
+            "identifier": "C100265",
+            "notation": "ADCRGW15",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 15",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100265"
+        },
+        {
+            "alt_label": "Word Recognition: Word [16]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 16 Trials 1, 2, 3.",
+            "identifier": "C100266",
+            "notation": "ADCRGW16",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 16",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100266"
+        },
+        {
+            "alt_label": "Word Recognition: Word [17]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 17 Trials 1, 2, 3.",
+            "identifier": "C100267",
+            "notation": "ADCRGW17",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 17",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100267"
+        },
+        {
+            "alt_label": "Word Recognition: Word [18]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 18 Trials 1, 2, 3.",
+            "identifier": "C100268",
+            "notation": "ADCRGW18",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 18",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100268"
+        },
+        {
+            "alt_label": "Word Recognition: Word [19]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 19 Trials 1, 2, 3.",
+            "identifier": "C100269",
+            "notation": "ADCRGW19",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 19",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100269"
+        },
+        {
+            "alt_label": "Word Recognition: Word [20]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 20 Trials 1, 2, 3.",
+            "identifier": "C100270",
+            "notation": "ADCRGW20",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 20",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100270"
+        },
+        {
+            "alt_label": "Word Recognition: Word [21]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 21 Trials 1, 2, 3.",
+            "identifier": "C100271",
+            "notation": "ADCRGW21",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 21",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100271"
+        },
+        {
+            "alt_label": "Word Recognition: Word [22]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 22 Trials 1, 2, 3.",
+            "identifier": "C100272",
+            "notation": "ADCRGW22",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 22",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100272"
+        },
+        {
+            "alt_label": "Word Recognition: Word [23]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 23 Trials 1, 2, 3.",
+            "identifier": "C100273",
+            "notation": "ADCRGW23",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 23",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100273"
+        },
+        {
+            "alt_label": "Word Recognition: Word [24]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 24 Trials 1, 2, 3.",
+            "identifier": "C100274",
+            "notation": "ADCRGW24",
+            "pref_label": "CDISC ADAS-Cog - Word Recognition: Word 24",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100274"
+        },
+        {
+            "alt_label": "Remembering Test Instructions",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Remembering test instructions.",
+            "identifier": "C100275",
+            "notation": "ADCRI",
+            "pref_label": "CDISC ADAS-Cog - Remembering Test Instructions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100275"
+        },
+        {
+            "alt_label": "Word Recall",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word average score of trials 1, 2, 3.",
+            "identifier": "C100177",
+            "notation": "ADCRL",
+            "pref_label": "CDISC ADAS-Cog - Word Recall Average Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100177"
+        },
+        {
+            "alt_label": "Word Recall Trial 1",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recall task trial 1.",
+            "identifier": "C100178",
+            "notation": "ADCRLT01",
+            "pref_label": "CDISC ADAS-Cog - Word Recall Trial 1 Subscore",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100178"
+        },
+        {
+            "alt_label": "Word Recall Trial 2",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recall task trial 2.",
+            "identifier": "C100179",
+            "notation": "ADCRLT02",
+            "pref_label": "CDISC ADAS-Cog - Word Recall Trial 2 Subscore",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100179"
+        },
+        {
+            "alt_label": "Word Recall Trial 3",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recall task trial 3.",
+            "identifier": "C100180",
+            "notation": "ADCRLT03",
+            "pref_label": "CDISC ADAS-Cog - Word Recall Trial 3 Subscore",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100180"
+        },
+        {
+            "alt_label": "Word Recall: Word [1]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 1 for trial 1, 2, 3.",
+            "identifier": "C100181",
+            "notation": "ADCRLW01",
+            "pref_label": "CDISC ADAS-Cog - Word Recall: Word 1",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100181"
+        },
+        {
+            "alt_label": "Word Recall: Word [2]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 2 for trial 1, 2, 3.",
+            "identifier": "C100182",
+            "notation": "ADCRLW02",
+            "pref_label": "CDISC ADAS-Cog - Word Recall: Word 2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100182"
+        },
+        {
+            "alt_label": "Word Recall: Word [3]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 3 for trial 1, 2, 3.",
+            "identifier": "C100183",
+            "notation": "ADCRLW03",
+            "pref_label": "CDISC ADAS-Cog - Word Recall: Word 3",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100183"
+        },
+        {
+            "alt_label": "Word Recall: Word [4]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 4 for trial 1, 2, 3.",
+            "identifier": "C100184",
+            "notation": "ADCRLW04",
+            "pref_label": "CDISC ADAS-Cog - Word Recall: Word 4",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100184"
+        },
+        {
+            "alt_label": "Word Recall: Word [5]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 5 for trial 1, 2, 3.",
+            "identifier": "C100185",
+            "notation": "ADCRLW05",
+            "pref_label": "CDISC ADAS-Cog - Word Recall: Word 5",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100185"
+        },
+        {
+            "alt_label": "Word Recall: Word [6]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 6 for trial 1, 2, 3.",
+            "identifier": "C100186",
+            "notation": "ADCRLW06",
+            "pref_label": "CDISC ADAS-Cog - Word Recall: Word 6",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100186"
+        },
+        {
+            "alt_label": "Word Recall: Word [7]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 7 for trial 1, 2, 3.",
+            "identifier": "C100187",
+            "notation": "ADCRLW07",
+            "pref_label": "CDISC ADAS-Cog - Word Recall: Word 7",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100187"
+        },
+        {
+            "alt_label": "Word Recall: Word [8]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 8 for trial 1, 2, 3.",
+            "identifier": "C100188",
+            "notation": "ADCRLW08",
+            "pref_label": "CDISC ADAS-Cog - Word Recall: Word 8",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100188"
+        },
+        {
+            "alt_label": "Word Recall: Word [9]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 9 for trial 1, 2, 3.",
+            "identifier": "C100189",
+            "notation": "ADCRLW09",
+            "pref_label": "CDISC ADAS-Cog - Word Recall: Word 9",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100189"
+        },
+        {
+            "alt_label": "Word Recall: Word [10]",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 10 for trial 1, 2, 3.",
+            "identifier": "C100190",
+            "notation": "ADCRLW10",
+            "pref_label": "CDISC ADAS-Cog - Word Recall: Word 10",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100190"
+        },
+        {
+            "alt_label": "Spoken Language Ability",
+            "definition": "Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Global rating of the quality of speech, or difficulty in making oneself understood.",
+            "identifier": "C100276",
+            "notation": "ADCSL",
+            "pref_label": "CDISC ADAS-Cog - Spoken Language Ability",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100132-C100276"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "High Coronary Artery Disease Risk",
+            "definition": "The likelihood an individual will develop coronary artery disease is almost certain or greater than 90%. (Gibbons RJ, Balady GJ, Bricker JT, Chaitman BR, Fletcher GF, Froelicher VF, Mark DB, McCallister BD, Mooss AN, O'Reilly MG, Winters WL Jr. ACC/AHA 2002 guideline update for exercise testing: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee on Exercise Testing). 2002. American College of Cardiology Web site. Available at: www.acc.org/clinical/guidelines/exercise/dirIndex.htm.)",
+            "identifier": "C99955",
+            "notation": "HIGH CAD RISK",
+            "pref_label": "High Coronary Artery Disease Risk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101849-C99955"
+        },
+        {
+            "alt_label": "Intermediate Coronary Artery Disease Risk",
+            "definition": "The likelihood an individual will develop coronary artery disease (CAD) is moderate or between 10% and 90%. (Gibbons RJ, Balady GJ, Bricker JT, Chaitman BR, Fletcher GF, Froelicher VF, Mark DB, McCallister BD, Mooss AN, O'Reilly MG, Winters WL Jr. ACC/AHA 2002 guideline update for exercise testing: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee on Exercise Testing). 2002. American College of Cardiology Web site. Available at: www.acc.org/clinical/guidelines/exercise/dirIndex.htm.)",
+            "identifier": "C99966",
+            "notation": "INTERMEDIATE CAD RISK",
+            "pref_label": "Intermediate Coronary Artery Disease Risk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101849-C99966"
+        },
+        {
+            "alt_label": "Known Coronary Artery Disease",
+            "definition": "The individual has coronary artery disease (CAD). (Gibbons RJ, Balady GJ, Bricker JT, Chaitman BR, Fletcher GF, Froelicher VF, Mark DB, McCallister BD, Mooss AN, O'Reilly MG, Winters WL Jr. ACC/AHA 2002 guideline update for exercise testing: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee on Exercise Testing). 2002. American College of Cardiology Web site. Available at: www.acc.org/clinical/guidelines/exercise/dirIndex.htm.)",
+            "identifier": "C99968",
+            "notation": "KNOWN CAD",
+            "pref_label": "Known Coronary Artery Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101849-C99968"
+        },
+        {
+            "alt_label": "Low Coronary Artery Disease Risk",
+            "definition": "The likelihood an individual will develop coronary artery disease (CAD) is minimal or less than10%.(Gibbons RJ, Balady GJ, Bricker JT, Chaitman BR, Fletcher GF, Froelicher VF, Mark DB, McCallister BD, Mooss AN, O'Reilly MG, Winters WL Jr. ACC/AHA 2002 guideline update for exercise testing: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee on Exercise Testing). 2002. American College of Cardiology Web site. Available at: www.acc.org/clinical/guidelines/exercise/dirIndex.htm.)",
+            "identifier": "C99978",
+            "notation": "LOW CAD RISK",
+            "pref_label": "Low Coronary Artery Disease Risk",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101849-C99978"
+        }
+    ]
+}

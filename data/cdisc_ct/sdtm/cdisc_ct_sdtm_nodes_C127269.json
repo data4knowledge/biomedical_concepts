@@ -1,0 +1,388 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Area",
+            "definition": "The extent of a 2-dimensional surface enclosed within a boundary. (NCI)",
+            "identifier": "C25244",
+            "notation": "AREA",
+            "pref_label": "Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C25244"
+        },
+        {
+            "alt_label": "Appendicular Skeletal Muscle Mass;ASMM",
+            "definition": "A measurement of the mass of the muscles of the arms and legs.",
+            "identifier": "C178018",
+            "notation": "ASMMASS",
+            "pref_label": "Appendicular Skeletal Muscle Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C178018"
+        },
+        {
+            "alt_label": "Bone Mineral Content",
+            "definition": "An assessment of the quantity of minerals within a specific bone(s) or segments.",
+            "identifier": "C147472",
+            "notation": "BMC",
+            "pref_label": "Bone Mineral Content",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C147472"
+        },
+        {
+            "alt_label": "Bone Mineral Density",
+            "definition": "A measurement of the amount of minerals contained in a specified volume or area of bone(s) or segments.",
+            "identifier": "C61545",
+            "notation": "BMD",
+            "pref_label": "Bone Mineral Density Test",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C61545"
+        },
+        {
+            "alt_label": "Bone Mineral Density T-Score",
+            "definition": "The standard deviation of the subject's bone mineral density score in comparison to the normal bone mineral density of a healthy 30-year old adult.",
+            "identifier": "C147473",
+            "notation": "BMDT",
+            "pref_label": "Bone Mineral Density T-Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C147473"
+        },
+        {
+            "alt_label": "Bone Mineral Density Z-Score",
+            "definition": "A statistical score representing the number of standard deviations above or below what is expected for an individual's bone mineral density based on his age, sex, weight, and race.",
+            "identifier": "C139217",
+            "notation": "BMDZ",
+            "pref_label": "Bone Mineral Density Z-Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139217"
+        },
+        {
+            "alt_label": "Brooke mMRC MMT Score, Abduction;Brooke Modified Medical Research Council Manual Muscle Test Score, Abduction",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during abduction that is based on the Brooke Modified Medical Research Council Manual Muscle Test. (Brooke MH, Griggs RC, Mendell JR, Fenichel GM, et al. Clinical trial in Duchenne dystrophy. I. The design of the protocol. Muscle Nerve. 1981 May-Jun;4(3):186-97. doi:10.1002/mus.880040304).",
+            "identifier": "C139223",
+            "notation": "BMMTABDT",
+            "pref_label": "Brooke Modified Medical Research Council Manual Muscle Test Score, Abduction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139223"
+        },
+        {
+            "alt_label": "Brooke mMRC MMT Score, Dorsiflexion;Brooke Modified Medical Research Council Manual Muscle Test Score, Dorsiflexion",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during dorsiflexion that is based on the Brooke Modified Medical Research Council Manual Muscle Test. (Brooke MH, Griggs RC, Mendell JR, Fenichel GM, et al. Clinical trial in Duchenne dystrophy. I. The design of the protocol. Muscle Nerve. 1981 May-Jun;4(3):186-97. doi:10.1002/mus.880040304).",
+            "identifier": "C139225",
+            "notation": "BMMTDORS",
+            "pref_label": "Brooke Modified Medical Research Council Manual Muscle Test Score, Dorsiflexion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139225"
+        },
+        {
+            "alt_label": "Brooke mMRC MMT Score, Eversion;Brooke Modified Medical Research Council Manual Muscle Test Score, Eversion",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during eversion that is based on the Brooke Modified Medical Research Council Manual Muscle Test. (Brooke MH, Griggs RC, Mendell JR, Fenichel GM, et al. Clinical trial in Duchenne dystrophy. I. The design of the protocol. Muscle Nerve. 1981 May-Jun;4(3):186-97. doi:10.1002/mus.880040304).",
+            "identifier": "C139227",
+            "notation": "BMMTEVE",
+            "pref_label": "Brooke Modified Medical Research Council Manual Muscle Test Score, Eversion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139227"
+        },
+        {
+            "alt_label": "Brooke mMRC MMT Score, Extension;Brooke Modified Medical Research Council Manual Muscle Test Score, Extension",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during extension that is based on the Brooke Modified Medical Research Council Manual Muscle Test. (Brooke MH, Griggs RC, Mendell JR, Fenichel GM, et al. Clinical trial in Duchenne dystrophy. I. The design of the protocol. Muscle Nerve. 1981 May-Jun;4(3):186-97. doi:10.1002/mus.880040304).",
+            "identifier": "C139220",
+            "notation": "BMMTEXT",
+            "pref_label": "Brooke Modified Medical Research Council Manual Muscle Test Score, Extension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139220"
+        },
+        {
+            "alt_label": "Brooke mMRC MMT Score, Flexion;Brooke Modified Medical Research Council Manual Muscle Test Score, Flexion",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during flexion that is based on the Brooke Modified Medical Research Council Manual Muscle Test. (Brooke MH, Griggs RC, Mendell JR, Fenichel GM, et al. Clinical trial in Duchenne dystrophy. I. The design of the protocol. Muscle Nerve. 1981 May-Jun;4(3):186-97. doi:10.1002/mus.880040304).",
+            "identifier": "C139222",
+            "notation": "BMMTFLX",
+            "pref_label": "Brooke Modified Medical Research Council Manual Muscle Test Score, Flexion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139222"
+        },
+        {
+            "alt_label": "Brooke mMRC MMT Score, Inversion;Brooke Modified Medical Research Council Manual Muscle Test Score, Inversion",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during inversion that is based on the Brooke Modified Medical Research Council Manual Muscle Test. (Brooke MH, Griggs RC, Mendell JR, Fenichel GM, et al. Clinical trial in Duchenne dystrophy. I. The design of the protocol. Muscle Nerve. 1981 May-Jun;4(3):186-97. doi:10.1002/mus.880040304).",
+            "identifier": "C139226",
+            "notation": "BMMTINV",
+            "pref_label": "Brooke Modified Medical Research Council Manual Muscle Test Score, Inversion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139226"
+        },
+        {
+            "alt_label": "Brooke mMRC MMT Score, Lat. Rotat.;Brooke Modified Medical Research Council Manual Muscle Test Score, Lateral Rotation",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during lateral rotation that is based on the Brooke Modified Medical Research Council Manual Muscle Test. (Brooke MH, Griggs RC, Mendell JR, Fenichel GM, et al. Clinical trial in Duchenne dystrophy. I. The design of the protocol. Muscle Nerve. 1981 May-Jun;4(3):186-97. doi:10.1002/mus.880040304).",
+            "identifier": "C139224",
+            "notation": "BMMTLR",
+            "pref_label": "Brooke Modified Medical Research Council Manual Muscle Test Score, Lateral Rotation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139224"
+        },
+        {
+            "alt_label": "Brooke mMRC MMT Score, Plantar Flex;Brooke Modified Medical Research Council Manual Muscle Test Score, Plantar Flexion",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during plantar flexion that is based on the Brooke Modified Medical Research Council Manual Muscle Test. (Brooke MH, Griggs RC, Mendell JR, Fenichel GM, et al. Clinical trial in Duchenne dystrophy. I. The design of the protocol. Muscle Nerve. 1981 May-Jun;4(3):186-97. doi:10.1002/mus.880040304).",
+            "identifier": "C139221",
+            "notation": "BMMTPF",
+            "pref_label": "Brooke Modified Medical Research Council Manual Muscle Test Score, Plantar Flexion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139221"
+        },
+        {
+            "alt_label": "Body Fat Percentage",
+            "definition": "The amount of an individual's total body mass that is fat, expressed as a percent.",
+            "identifier": "C139218",
+            "notation": "BODYFATP",
+            "pref_label": "Body Fat Percentage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139218"
+        },
+        {
+            "alt_label": "Muscle Endurance",
+            "definition": "A measurement of a muscle's ability to perform repetitive contractions against a force.",
+            "identifier": "C181501",
+            "notation": "ENDURM",
+            "pref_label": "Muscle Endurance Measurement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C181501"
+        },
+        {
+            "alt_label": "Fat Mass",
+            "definition": "A measurement of the fat weight associated with a body part or whole body.",
+            "identifier": "C158256",
+            "notation": "FATMASS",
+            "pref_label": "Fat Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C158256"
+        },
+        {
+            "alt_label": "Fontanelle Closure Indicator",
+            "definition": "An indication as to whether the fontanelle is closed.",
+            "identifier": "C154909",
+            "notation": "FOCLOIND",
+            "pref_label": "Fontanelle Closure Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C154909"
+        },
+        {
+            "alt_label": "Greulich and Pyle Bone Age Estimation;Greulich and Pyle Skeletal Maturity Estimation",
+            "definition": "An estimated assessment of an individual's skeletal maturity (bone age) based on comparison of standard radiographic images of the bones of the hand and wrist. (Greulich WW, Pyle SI. Radiographic atlas of skeletal development of the hand and wrist. The American Journal of the Medical Sciences. 1959;238(3):393.)",
+            "identifier": "C181502",
+            "notation": "GPBAEST",
+            "pref_label": "Greulich and Pyle Bone Age Estimation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C181502"
+        },
+        {
+            "alt_label": "Grip Strength",
+            "definition": "An assessment of muscle strength that measures that force with which one holds or grasps.",
+            "identifier": "C139210",
+            "notation": "GRIPSTR",
+            "pref_label": "Grip Strength",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139210"
+        },
+        {
+            "alt_label": "Isometric Muscle Strength, Abduction",
+            "definition": "An assessment of muscle strength that measures the force produced by static muscle contraction during the movement of a body part away from the midline of the body.",
+            "identifier": "C181496",
+            "notation": "ISOMSABD",
+            "pref_label": "Isometric Muscle Strength, Abduction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C181496"
+        },
+        {
+            "alt_label": "Isometric Muscle Strength, Adduction",
+            "definition": "An assessment of muscle strength that measures the force produced by static muscle contraction during the movement of a body part toward the midline of the body.",
+            "identifier": "C181500",
+            "notation": "ISOMSADD",
+            "pref_label": "Isometric Muscle Strength, Adduction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C181500"
+        },
+        {
+            "alt_label": "Isometric Muscle Strength, Dorsiflexion",
+            "definition": "An assessment of muscle strength that measures the force produced by static muscle contraction during the movement of a body part bending upwards towards the dorsal surface of the body.",
+            "identifier": "C181497",
+            "notation": "ISOMSDOR",
+            "pref_label": "Isometric Muscle Strength, Dorsiflexion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C181497"
+        },
+        {
+            "alt_label": "Isometric Muscle Strength, Extern Rotat;Isometric Muscle Strength, External Rotation",
+            "definition": "An assessment of muscle strength that measures the force produced by static muscle contraction during the rotational movement of a body part outward, away from the body.",
+            "identifier": "C181499",
+            "notation": "ISOMSER",
+            "pref_label": "Isometric Muscle Strength, External Rotation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C181499"
+        },
+        {
+            "alt_label": "Isometric Muscle Strength, Extension",
+            "definition": "An assessment of muscle strength that measures the force produced by static muscle contraction during the straightening (unbending) movement between body parts. (NCI)",
+            "identifier": "C139215",
+            "notation": "ISOMSEXT",
+            "pref_label": "Isometric Muscle Strength, Extension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139215"
+        },
+        {
+            "alt_label": "Isometric Muscle Strength, Flexion",
+            "definition": "An assessment of muscle strength that measures the force produced by static muscle contraction during the bending movement between body parts. (NCI)",
+            "identifier": "C139216",
+            "notation": "ISOMSFL",
+            "pref_label": "Isometric Muscle Strength, Flexion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139216"
+        },
+        {
+            "alt_label": "Isometric Muscle Strength, Intern Rotat;Isometric Muscle Strength, Internal Rotation",
+            "definition": "An assessment of muscle strength that measures the force produced by static muscle contraction during the rotational movement of a body part inward, toward the body.",
+            "identifier": "C181498",
+            "notation": "ISOMSIR",
+            "pref_label": "Isometric Muscle Strength, Internal Rotation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C181498"
+        },
+        {
+            "alt_label": "Lean Body Mass to Total Body Mass Ratio",
+            "definition": "The proportion of an individual's lean body mass to his total body weight. Lean body mass is calculated by subtracting body fat from total body weight.",
+            "identifier": "C139219",
+            "notation": "LBMTBMR",
+            "pref_label": "Lean Body Mass to Total Body Mass Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139219"
+        },
+        {
+            "alt_label": "Lean Mass",
+            "definition": "A measurement of the weight of a body part or whole body, minus the weight of the fat associated with that body part or whole body.",
+            "identifier": "C158257",
+            "notation": "LEANMASS",
+            "pref_label": "Lean Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C158257"
+        },
+        {
+            "alt_label": "Medical Research Council Manual Muscle Test Score, Abduction;MRC MMT Score, Abduction",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during abduction that is based on the Medical Research Council Manual Muscle Test. (Medical Research Council. Aids to examination of the peripheral nervous system. Memorandum no. 45, superseding War Memorandum No. 7. London: Her Majesty's Stationary Office; 1976. doi:10.1016/0022-510X(77)90205-2).",
+            "identifier": "C139231",
+            "notation": "MMTABDT",
+            "pref_label": "Medical Research Council Manual Muscle Test Score, Abduction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139231"
+        },
+        {
+            "alt_label": "Medical Research Council Manual Muscle Test Score, Dorsiflexion;MRC MMT Score, Dorsiflexion",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during dorsiflexion that is based on the Medical Research Council Manual Muscle Test. (Medical Research Council. Aids to examination of the peripheral nervous system. Memorandum no. 45, superseding War Memorandum No. 7. London: Her Majesty's Stationary Office; 1976. doi:10.1016/0022-510X(77)90205-2).",
+            "identifier": "C139233",
+            "notation": "MMTDORS",
+            "pref_label": "Medical Research Council Manual Muscle Test Score, Dorsiflexion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139233"
+        },
+        {
+            "alt_label": "Medical Research Council Manual Muscle Test Score, Eversion;MRC MMT Score, Eversion",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during eversion that is based on the Medical Research Council Manual Muscle Test. (Medical Research Council. Aids to examination of the peripheral nervous system. Memorandum no. 45, superseding War Memorandum No. 7. London: Her Majesty's Stationary Office; 1976. doi:10.1016/0022-510X(77)90205-2).",
+            "identifier": "C139235",
+            "notation": "MMTEVE",
+            "pref_label": "Medical Research Council Manual Muscle Test Score, Eversion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139235"
+        },
+        {
+            "alt_label": "Medical Research Council Manual Muscle Test Score, Extension;MRC MMT Score, Extension",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during extension that is based on the Medical Research Council Manual Muscle Test. (Medical Research Council. Aids to examination of the peripheral nervous system. Memorandum no. 45, superseding War Memorandum No. 7. London: Her Majesty's Stationary Office; 1976. doi:10.1016/0022-510X(77)90205-2).",
+            "identifier": "C139228",
+            "notation": "MMTEXT",
+            "pref_label": "Medical Research Council Manual Muscle Test Score, Extension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139228"
+        },
+        {
+            "alt_label": "Medical Research Council Manual Muscle Test Score, Flexion;MRC MMT Score, Flexion",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during flexion that is based on the Medical Research Council Manual Muscle. (Medical Research Council. Aids to examination of the peripheral nervous system. Memorandum no. 45, superseding War Memorandum No. 7. London: Her Majesty's Stationary Office; 1976. doi:10.1016/0022-510X(77)90205-2).",
+            "identifier": "C139230",
+            "notation": "MMTFLX",
+            "pref_label": "Medical Research Council Manual Muscle Test Score, Flexion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139230"
+        },
+        {
+            "alt_label": "Medical Research Council Manual Muscle Test Score, Inversion;MRC MMT Score, Inversion",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during inversion that is based on the Medical Research Council Manual Muscle Test. (Medical Research Council. Aids to examination of the peripheral nervous system. Memorandum no. 45, superseding War Memorandum No. 7. London: Her Majesty's Stationary Office; 1976. doi:10.1016/0022-510X(77)90205-2).",
+            "identifier": "C139234",
+            "notation": "MMTINV",
+            "pref_label": "Medical Research Council Manual Muscle Test Score, Inversion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139234"
+        },
+        {
+            "alt_label": "Medical Research Council Manual Muscle Test Score, Lateral Rotation;MRC MMT Score, Lat. Rotat.",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during lateral rotation that is based on the Medical Research Council Manual Muscle Test. (Medical Research Council. Aids to examination of the peripheral nervous system. Memorandum no. 45, superseding War Memorandum No. 7. London: Her Majesty's Stationary Office; 1976. doi:10.1016/0022-510X(77)90205-2).",
+            "identifier": "C139232",
+            "notation": "MMTLR",
+            "pref_label": "Medical Research Council Manual Muscle Test Score, Lateral Rotation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139232"
+        },
+        {
+            "alt_label": "Medical Research Council Manual Muscle Test Score, Plantar Flexion;MRC MMT Score, Plantar Flex",
+            "definition": "The numerical value that represents the result of a clinical assessment of muscle strength and function during plantar flexion that is based on the Medical Research Council Manual Muscle Test. (Medical Research Council. Aids to examination of the peripheral nervous system. Memorandum no. 45, superseding War Memorandum No. 7. London: Her Majesty's Stationary Office; 1976. doi:10.1016/0022-510X(77)90205-2).",
+            "identifier": "C139229",
+            "notation": "MMTPF",
+            "pref_label": "Medical Research Council Manual Muscle Test Score, Plantar Flexion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139229"
+        },
+        {
+            "alt_label": "Pinch Strength",
+            "definition": "An assessment of hand muscle strength that measures the force with which an individual can squeeze or compress an object using his thumb and one or multiple fingers from the same hand.",
+            "identifier": "C139211",
+            "notation": "PINCHSTR",
+            "pref_label": "Pinch Strength",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139211"
+        },
+        {
+            "alt_label": "Range of Motion, Abduction",
+            "definition": "An assessment of joint flexibility that measures the movement of a body part pulling away from the midline of the body, in number of degrees. (NCI)",
+            "identifier": "C139212",
+            "notation": "ROMABDT",
+            "pref_label": "Range of Motion, Abduction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139212"
+        },
+        {
+            "alt_label": "Range of Motion, Dorsiflexion",
+            "definition": "An assessment of joint flexibility that measures the movement of a body part bending towards its dorsal surface, in number of degrees. (NCI)",
+            "identifier": "C139214",
+            "notation": "ROMDORFL",
+            "pref_label": "Range of Motion, Dorsiflexion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139214"
+        },
+        {
+            "alt_label": "Range of Motion, Extension",
+            "definition": "An assessment of joint flexibility that measures the straightening (unbending) movement between body parts, in number of degrees. (NCI)",
+            "identifier": "C139213",
+            "notation": "ROMEXT",
+            "pref_label": "Range of Motion, Extension",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C139213"
+        },
+        {
+            "alt_label": "Sharp/Genant Bone Erosion Score",
+            "definition": "The numerical value that represents the result of a clinical assessment of bone erosion based on the Genant modification of the Sharp Joint Erosion Assessment (Genant HK. Methods of assessing radiographic change in rheumatoid arthritis. Am J Med. 1983 Dec 30;75(6A):35-47).",
+            "identifier": "C128986",
+            "notation": "SGBESCR",
+            "pref_label": "Sharp Genant Bone Erosion Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C128986"
+        },
+        {
+            "alt_label": "Sharp/Genant JSN Score",
+            "definition": "The numerical value that represents the result of a clinical assessment of joint space narrowing based on the Genant modification of the Sharp Joint Space Narrowing Assessment (Genant HK. Methods of assessing radiographic change in rheumatoid arthritis. Am J Med. 1983 Dec 30;75(6A):35-47).",
+            "identifier": "C128987",
+            "notation": "SGJSNSCR",
+            "pref_label": "Sharp Genant Joint Space Narrowing Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C128987"
+        },
+        {
+            "alt_label": "Skeletal Muscle Mass",
+            "definition": "A measurement of the total mass of the skeletal muscle.",
+            "identifier": "C178017",
+            "notation": "SMMASS",
+            "pref_label": "Skeletal Muscle Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C178017"
+        },
+        {
+            "alt_label": "Sharp/Van der Heijde Bone Erosion Score",
+            "definition": "The numerical value that represents the result of a clinical assessment of bone erosion based on the Van der Heijde modification of the Sharp Joint Erosion Assessment (Van der Heijde DM, van Riel PL, Nuver-Zwart IH, Gribnau FW, van de Putte LB. Effects of hydroxychloroquine and sulphasalazine on progression of joint damage in rheumatoid arthritis. Lancet 1989;1:1036-8).",
+            "identifier": "C128988",
+            "notation": "SVBESCR",
+            "pref_label": "Sharp van der Heijde Bone Erosion Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C128988"
+        },
+        {
+            "alt_label": "Sharp/Van der Heijde JSN Score",
+            "definition": "The numerical value that represents the result of a clinical assessment of joint space narrowing based on the Van der Heijde modification of the Sharp Joint Space Narrowing Assessment (Van der Heijde DM, van Riel PL, Nuver-Zwart IH, Gribnau FW, van de Putte LB. Effects of hydroxychloroquine and sulphasalazine on progression of joint damage in rheumatoid arthritis. Lancet 1989;1:1036-8).",
+            "identifier": "C128989",
+            "notation": "SVJSNSCR",
+            "pref_label": "Sharp van der Heijde Joint Space Narrowing Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C128989"
+        },
+        {
+            "alt_label": "Swollen Indicator",
+            "definition": "An indication as to whether there are symptoms of swelling.",
+            "identifier": "C127774",
+            "notation": "SWLLIND",
+            "pref_label": "Swollen Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C127774"
+        },
+        {
+            "alt_label": "Tenderness Indicator",
+            "definition": "An indication as to whether there are symptoms of tenderness.",
+            "identifier": "C127775",
+            "notation": "TNDRIND",
+            "pref_label": "Tenderness Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127269-C127775"
+        }
+    ]
+}

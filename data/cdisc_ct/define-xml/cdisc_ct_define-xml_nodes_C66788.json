@@ -1,0 +1,108 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CDISC Controlled Terminology;Clinical Data Interchange Standards Consortium Controlled Terminology",
+            "definition": "A standard terminology developed and maintained by Clinical Data Interchange Standards Consortium (CDISC) and the National Cancer Institute Enterprise Vocabulary Services (NCI-EVS) to support CDISC models, domains and specifications for data representation in regulated research.",
+            "identifier": "C163415",
+            "notation": "CDISC CT",
+            "pref_label": "Clinical Data Interchange Standards Consortium Controlled Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C163415"
+        },
+        {
+            "alt_label": "Coding Symbols for a Thesaurus of Adverse Reaction Terms",
+            "definition": "A terminology developed and used by the Food and Drug Administration (FDA) for the coding, filing and retrieving of post marketing adverse reaction reports. (NCI)",
+            "identifier": "C49471",
+            "notation": "COSTART",
+            "pref_label": "Thesaurus of Adverse Reaction Term Coding Symbols",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C49471"
+        },
+        {
+            "alt_label": "Common Terminology Criteria for Adverse Events",
+            "definition": "A standard terminology developed and maintained by the National Cancer Institute to report adverse events occurring in clinical trials. The CTCAE contains a grading scale for each adverse event term representing the severity of the event.",
+            "identifier": "C49704",
+            "notation": "CTCAE",
+            "pref_label": "Common Terminology Criteria for Adverse Events",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C49704"
+        },
+        {
+            "alt_label": "Data Universal Number System;DUNS Numbers",
+            "definition": "A proprietary system developed and regulated by Dun & Bradstreet that assigns a unique nine digit numeric identifier to a single business entity location.",
+            "identifier": "C134003",
+            "notation": "D-U-N-S NUMBER",
+            "pref_label": "Data Universal Numbering System",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C134003"
+        },
+        {
+            "alt_label": "International Classification of Diseases",
+            "definition": "A system of categories to which morbid entries are assigned according to established criteria. Included is the entire range of conditions in a manageable number of categories, grouped to facilitate mortality reporting. It is produced by the World Health Organization (from ICD-10, p1). The Clinical Modifications, produced by the United States Dept. of Health and Human Services, are larger extensions used for morbidity and general epidemiological purposes, primarily in the U.S. (MSH2005_2004_10_12)",
+            "identifier": "C49474",
+            "notation": "ICD",
+            "pref_label": "International Classification of Diseases",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C49474"
+        },
+        {
+            "alt_label": "Logical Observation Identifiers Names and Codes",
+            "definition": "Published by The Regenstrief Institute, the Logical Observation Identifiers Names and Codes covers clinical and clinical laboratory terminology. (NCI)",
+            "identifier": "C49476",
+            "notation": "LOINC",
+            "pref_label": "Logical Observation Identifiers Names and Codes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C49476"
+        },
+        {
+            "alt_label": "Medication Reference Terminology;NDF-RT",
+            "definition": "A standard terminology developed and maintained by the Veterans Health Administration (VHA) that includes terminology to support the mechanism of action, physiologic effect, and asserted pharmacologic classification relationships of medications. MED-RT incorporates terminology from RxNORM, MeSH, and SNOMED CT.",
+            "identifier": "C163416",
+            "notation": "MED-RT",
+            "pref_label": "Medication Reference Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C163416"
+        },
+        {
+            "alt_label": "Medical Dictionary for Regulatory Activities",
+            "definition": "MedDRA is an international medical terminology designed to support the classification, retrieval, presentation, and communication of medical information throughout the medical product regulatory cycle. MedDRA was developed under the auspices of the International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH). The MedDRA Maintenance and Support Services Organization (MSSO) holds a contract with the International Federation of Pharmaceutical Manufacturers Associations (IFPMA) to maintain and support the implementation of the terminology. (NCI)",
+            "identifier": "C43820",
+            "notation": "MedDRA",
+            "pref_label": "MedDRA",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C43820"
+        },
+        {
+            "alt_label": "Systematized Nomenclature of Medicine",
+            "definition": "A multiaxial, hierarchical classification system for diseases in man developed by the College of American Pathologists. (NCI)",
+            "identifier": "C53489",
+            "notation": "SNOMED",
+            "pref_label": "Systematized Nomenclature of Medicine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C53489"
+        },
+        {
+            "alt_label": "SRS-UNII;Substance Registration System-Unique Ingredient Identifier",
+            "definition": "A standard terminology developed and maintained by the Department of Veterans Affairs/Veterans Health Administration designated federal collaborative Structured Product Labeling Interagency Expert Panel (SPLIEP). It contains terminology to support the mechanism of action, physiologic effect, and asserted pharmacologic classification relationships of drug ingredients and food allergens.",
+            "identifier": "C163417",
+            "notation": "UNII",
+            "pref_label": "Substance Registration System-Unique Ingredient Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C163417"
+        },
+        {
+            "alt_label": "Anatomical Therapeutic Chemical Classification System",
+            "definition": "A World Health Organization (WHO) classification system, developed and maintained by the WHO Collaborating Centre for Drug Statistics Methodology, for medicinal substances where active substances are divided into different groups according to the organ or system on which they act and their therapeutic, pharmacological, and chemical properties.",
+            "identifier": "C154331",
+            "notation": "WHO ATC CLASSIFICATION SYSTEM",
+            "pref_label": "Anatomical Therapeutic Chemical Classification System",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C154331"
+        },
+        {
+            "alt_label": "World Health Organization Adverse Reaction Terms",
+            "definition": "A terminology implemented by the World Health Organization to describe adverse reactions to a prescribed medication or treatment regimen. (NCI)",
+            "identifier": "C49468",
+            "notation": "WHOART",
+            "pref_label": "World Health Organization Adverse Reaction Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C49468"
+        },
+        {
+            "alt_label": "WHODrug Global;World Health Organization Drug Dictionary",
+            "definition": "A reference source of drugs and drug associated information maintained by the World Health Organization. (NCI)",
+            "identifier": "C49475",
+            "notation": "WHODD",
+            "pref_label": "World Health Organization Drug Dictionary",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788-C49475"
+        }
+    ]
+}

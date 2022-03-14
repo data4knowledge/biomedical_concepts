@@ -1,0 +1,33 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A lesion that demonstrates both cystic and solid components; the solid components can range from thin walls (septae) to a solid tissue mass.",
+            "identifier": "C127606",
+            "notation": "COMPLEX CYSTIC LESION",
+            "pref_label": "Complex Cystic Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127268-C127606"
+        },
+        {
+            "definition": "Abnormal collection of fluid in a body cavity.",
+            "identifier": "C3003",
+            "notation": "EFFUSION",
+            "pref_label": "Effusion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127268-C3003"
+        },
+        {
+            "alt_label": "Ascites",
+            "definition": "Abnormal collection of fluid in the peritoneal cavity.",
+            "identifier": "C2885",
+            "notation": "INCREASING ABDOMINAL DISTENTION OR ASCITES",
+            "pref_label": "Ascites",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127268-C2885"
+        },
+        {
+            "definition": "A malignant neoplasm that has spread from its original site to the arachnoid mater and the pia mater, the two innermost layers of tissue that cover the brain and spinal cord.",
+            "identifier": "C4958",
+            "notation": "LEPTOMENINGEAL DISEASE",
+            "pref_label": "Leptomeningeal Neoplasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127268-C4958"
+        }
+    ]
+}

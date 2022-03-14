@@ -1,0 +1,212 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "EPIC1-How Often Have You Leaked Urine",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - Over the past 4 weeks, how often have you leaked urine?",
+            "identifier": "C127373",
+            "notation": "EPIC101",
+            "pref_label": "EPIC-26 - How Often Have You Leaked Urine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127373"
+        },
+        {
+            "alt_label": "EPIC1-Best Describes Urinary Control",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - Which of the following best describes your urinary control during the last 4 weeks?",
+            "identifier": "C127374",
+            "notation": "EPIC102",
+            "pref_label": "EPIC-26 - Best Describes Urinary Control",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127374"
+        },
+        {
+            "alt_label": "EPIC1-Pads or Adult Diapers per Day",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How many pads or adult diapers per day did you usually use to control leakage during the last 4 weeks?",
+            "identifier": "C127375",
+            "notation": "EPIC103",
+            "pref_label": "EPIC-26 - Pads or Adult Diapers per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127375"
+        },
+        {
+            "alt_label": "EPIC1-Problem Dripping or Leaking Urine",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you during the last 4 weeks? Dripping or leaking urine.",
+            "identifier": "C127376",
+            "notation": "EPIC104A",
+            "pref_label": "EPIC-26 - Dripping or Leaking Urine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127376"
+        },
+        {
+            "alt_label": "EPIC1-Problem Pain/Burning on Urination",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you during the last 4 weeks? Pain or burning on urination.",
+            "identifier": "C127377",
+            "notation": "EPIC104B",
+            "pref_label": "EPIC-26 - Pain or Burning on Urination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127377"
+        },
+        {
+            "alt_label": "EPIC1-Problem Bleeding With Urination",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you during the last 4 weeks? Bleeding with urination.",
+            "identifier": "C127378",
+            "notation": "EPIC104C",
+            "pref_label": "EPIC-26 - Bleeding With Urination",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127378"
+        },
+        {
+            "alt_label": "EPIC1-Problem Weak Urine Stream/Emptying",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you during the last 4 weeks? Weak urine stream or incomplete emptying.",
+            "identifier": "C127379",
+            "notation": "EPIC104D",
+            "pref_label": "EPIC-26 - Weak Urine Stream or Incomplete Emptying",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127379"
+        },
+        {
+            "alt_label": "EPIC1-Problem Need to Urinate Frequently",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you during the last 4 weeks? Need to urinate frequently during the day.",
+            "identifier": "C127380",
+            "notation": "EPIC104E",
+            "pref_label": "EPIC-26 - Urinate Frequently During the Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127380"
+        },
+        {
+            "alt_label": "EPIC1-Overall Problem Urinary Function",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - Overall, how big a problem has your urinary function been for you during the last 4 weeks?",
+            "identifier": "C127381",
+            "notation": "EPIC105",
+            "pref_label": "EPIC-26 - Overall Problem Urinary Function",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127381"
+        },
+        {
+            "alt_label": "EPIC1-Problem Urgency of Bowel Movement",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you? Urgency to have a bowel movement.",
+            "identifier": "C127382",
+            "notation": "EPIC106A",
+            "pref_label": "EPIC-26 - Urgency to Have a Bowel Movement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127382"
+        },
+        {
+            "alt_label": "EPIC1-Problem Increased Freq Bowel Move",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you? Increased frequency of bowel movements.",
+            "identifier": "C127383",
+            "notation": "EPIC106B",
+            "pref_label": "EPIC-26 - Increased Frequency of Bowel Movements",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127383"
+        },
+        {
+            "alt_label": "EPIC1-Problem Losing Control of Stools",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you? Losing control of your stools.",
+            "identifier": "C127384",
+            "notation": "EPIC106C",
+            "pref_label": "EPIC-26 - Losing Control of Stools",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127384"
+        },
+        {
+            "alt_label": "EPIC1-Problem Bloody Stools",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you? Bloody stools.",
+            "identifier": "C127385",
+            "notation": "EPIC106D",
+            "pref_label": "EPIC-26 - Bloody Stools",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127385"
+        },
+        {
+            "alt_label": "EPIC1-Problem Abdom/Pelvic/Rectal Pain",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you? Abdominal/pelvic/rectal pain.",
+            "identifier": "C127386",
+            "notation": "EPIC106E",
+            "pref_label": "EPIC-26 - Abdominal or Pelvic or Rectal Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127386"
+        },
+        {
+            "alt_label": "EPIC1-Overall Problem Bowel Habits",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - Overall, how big a problem have your bowel habits been for you during the last 4 weeks?",
+            "identifier": "C127387",
+            "notation": "EPIC107",
+            "pref_label": "EPIC-26 - Overall Problem Bowel Habits",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127387"
+        },
+        {
+            "alt_label": "EPIC1-Rate Ability to Have an Erection",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How would you rate each of the following during the last 4 weeks? Your ability to have an erection?",
+            "identifier": "C127388",
+            "notation": "EPIC108A",
+            "pref_label": "EPIC-26 - Ability to Have an Erection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127388"
+        },
+        {
+            "alt_label": "EPIC1-Rate Ability to Reach Orgasm",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How would you rate each of the following during the last 4 weeks? Your ability to reach orgasm (climax)?",
+            "identifier": "C127389",
+            "notation": "EPIC108B",
+            "pref_label": "EPIC-26 - Ability to Reach Orgasm",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127389"
+        },
+        {
+            "alt_label": "EPIC1-Quality of Your Erections",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How would you describe the usual quality of your erections during the last 4 weeks?",
+            "identifier": "C127390",
+            "notation": "EPIC109",
+            "pref_label": "EPIC-26 - Quality of Erections",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127390"
+        },
+        {
+            "alt_label": "EPIC1-Frequency of Your Erections",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How would you describe the frequency of your erections during the last 4 weeks?",
+            "identifier": "C127391",
+            "notation": "EPIC110",
+            "pref_label": "EPIC-26 - Frequency of Erections",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127391"
+        },
+        {
+            "alt_label": "EPIC1-Rate Ability to Function Sexually",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - Overall, how would you rate your ability to function sexually during the last 4 weeks?",
+            "identifier": "C127392",
+            "notation": "EPIC111",
+            "pref_label": "EPIC-26 - Ability to Function Sexually",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127392"
+        },
+        {
+            "alt_label": "EPIC1-Overall Problem Sexual Function",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - Overall, how big a problem has your sexual function or lack of sexual function been for you during the last 4 weeks?",
+            "identifier": "C127393",
+            "notation": "EPIC112",
+            "pref_label": "EPIC-26 - Overall Problem Sexual Function",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127393"
+        },
+        {
+            "alt_label": "EPIC1-Problem Hot Flashes",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem during the last 4 weeks, if any, has each of the following been for you? Hot flashes.",
+            "identifier": "C127394",
+            "notation": "EPIC113A",
+            "pref_label": "EPIC-26 - Hot Flashes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127394"
+        },
+        {
+            "alt_label": "EPIC1-Problem Breast Tender/Enlargement",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem during the last 4 weeks, if any, has each of the following been for you? Breast tenderness/enlargement.",
+            "identifier": "C127395",
+            "notation": "EPIC113B",
+            "pref_label": "EPIC-26 - Breast Tender or Enlargement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127395"
+        },
+        {
+            "alt_label": "EPIC1-Problem Feeling Depressed",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem during the last 4 weeks, if any, has each of the following been for you? Feeling depressed.",
+            "identifier": "C127396",
+            "notation": "EPIC113C",
+            "pref_label": "EPIC-26 - Feeling Depressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127396"
+        },
+        {
+            "alt_label": "EPIC1-Problem Lack of Energy",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem during the last 4 weeks, if any, has each of the following been for you? Lack of energy.",
+            "identifier": "C127397",
+            "notation": "EPIC113D",
+            "pref_label": "EPIC-26 - Lack of Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127397"
+        },
+        {
+            "alt_label": "EPIC1-Problem Change in Body Weight",
+            "definition": "The Expanded Prostate Cancer Index Composite Short Form - How big a problem during the last 4 weeks, if any, has each of the following been for you? Change in body weight.",
+            "identifier": "C127398",
+            "notation": "EPIC113E",
+            "pref_label": "EPIC-26 - Change in Body Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127350-C127398"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Brief Rationale for Protocol Modification;Brief Rationale for Protocol Revision",
+            "definition": "A concise explanation justifying an individual change in the protocol.",
+            "identifier": "C181233",
+            "notation": "Brief Rationale for Protocol Change",
+            "pref_label": "Brief Rationale for Protocol Change",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C181167-C181233"
+        },
+        {
+            "alt_label": "Overall Justification for Amendment",
+            "definition": "A summarized explanation justifying a protocol amendment.",
+            "identifier": "C181234",
+            "notation": "Overall Rationale for Protocol Amendment",
+            "pref_label": "Overall Rationale for Protocol Amendment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C181167-C181234"
+        },
+        {
+            "alt_label": "Protocol Amendment Approval by Sponsor Date;Study Protocol Version Approval Date",
+            "definition": "The date on which a version of the protocol was finalized or approved by the sponsor.",
+            "identifier": "C132352",
+            "notation": "Study Protocol Version Approval by Sponsor Date",
+            "pref_label": "Protocol Approval by Sponsor Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C181167-C132352"
+        },
+        {
+            "alt_label": "Study Protocol Amendment Number",
+            "definition": "A string of numerals that uniquely identifies a specific version of a study protocol.",
+            "identifier": "C181232",
+            "notation": "Study Protocol Version Number",
+            "pref_label": "Study Protocol Version Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C181167-C181232"
+        }
+    ]
+}

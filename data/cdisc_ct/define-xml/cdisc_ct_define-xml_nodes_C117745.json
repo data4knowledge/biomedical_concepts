@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Exploratory Outcome Measure",
+            "definition": "The outcome measure(s) that is part of a pre-specified analysis plan used to evaluate the exploratory endpoint(s) associated with exploratory study objective(s) and/or any other measures, excluding post-hoc measures, that are a focus of the study. (After clinicaltrials.gov)",
+            "identifier": "C98724",
+            "notation": "EXPLORATORY OUTCOME MEASURE",
+            "pref_label": "Exploratory Outcome Measure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C117745-C98724"
+        },
+        {
+            "alt_label": "Primary Outcome Measure",
+            "definition": "The outcome measure(s) of greatest importance specified in the protocol, usually the one(s) used in the power calculation, to evaluate the primary endpoint(s) associated with the primary study objective(s). (After Clinicaltrials.gov)",
+            "identifier": "C98772",
+            "notation": "PRIMARY OUTCOME MEASURE",
+            "pref_label": "Primary Outcome Measure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C117745-C98772"
+        },
+        {
+            "alt_label": "Secondary Outcome Measure",
+            "definition": "The outcome measure(s) that is part of a pre-specified analysis plan used to evaluate the secondary endpoint(s) associated with secondary study objective(s) and/or used to evaluate any measure(s) ancillary to the primary or secondary endpoint(s). (After Clinicaltrials.gov).",
+            "identifier": "C98781",
+            "notation": "SECONDARY OUTCOME MEASURE",
+            "pref_label": "Secondary Outcome Measure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C117745-C98781"
+        }
+    ]
+}

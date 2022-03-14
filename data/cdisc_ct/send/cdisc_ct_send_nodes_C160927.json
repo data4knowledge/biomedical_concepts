@@ -1,0 +1,71 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A procedure involving irradiation of a specific, limited area of the skin.",
+            "identifier": "C161507",
+            "notation": "CUTANEOUS IRRADIATION",
+            "pref_label": "Focal Cutaneous Irradiation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160927-C161507"
+        },
+        {
+            "definition": "A procedure involving irradiation of the whole lung while the heart is covered and protected from radiation exposure.",
+            "identifier": "C161510",
+            "notation": "LUNG WITH HEART-SHIELDED IRRADIATION",
+            "pref_label": "Lung with Heart Shielded Irradiation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160927-C161510"
+        },
+        {
+            "definition": "A procedure involving irradiation of a single lung.",
+            "identifier": "C161509",
+            "notation": "SINGLE LUNG IRRADIATION",
+            "pref_label": "Single Lung Irradiation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160927-C161509"
+        },
+        {
+            "alt_label": "Top-Off Model Irradiation",
+            "definition": "A procedure involving irradiation of the whole body either before or after irradiation at a focal site.",
+            "identifier": "C161506",
+            "notation": "TOP-UP MODEL IRRADIATON",
+            "pref_label": "Top-Up Model Irradiation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160927-C161506"
+        },
+        {
+            "alt_label": "WAI;Whole Abdominal Irradiation",
+            "definition": "A procedure involving irradiation of the entire abdominal region.",
+            "identifier": "C51991",
+            "notation": "TOTAL ABDOMINAL IRRADIATION",
+            "pref_label": "Whole-Abdominal Irradiation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160927-C51991"
+        },
+        {
+            "definition": "A procedure involving irradiation of the whole body followed by bone marrow transplant.",
+            "identifier": "C161505",
+            "notation": "TOTAL BODY IRRADIATION PLUS BONE MARROW TRANSPLANT",
+            "pref_label": "Total Body Irradiation Plus Bone Marrow Transplant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160927-C161505"
+        },
+        {
+            "definition": "A procedure involving irradiation of the whole body while a proportion of bone marrow is not irradiated, i.e., shielded or removed from field.",
+            "identifier": "C161511",
+            "notation": "TOTAL BODY IRRADIATION WITH BONE MARROW NOT IRRADIATED",
+            "pref_label": "Total Body Irradiation with Bone Marrow Not Irradiated",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160927-C161511"
+        },
+        {
+            "alt_label": "TBI;Whole Body Irradiation",
+            "definition": "A procedure involving irradiation of the whole body.",
+            "identifier": "C15350",
+            "notation": "TOTAL BODY IRRADIATION",
+            "pref_label": "Total-Body Irradiation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160927-C15350"
+        },
+        {
+            "alt_label": "Bilateral Lungs Irradiation;Right and Left Lung Irradiation;TLI;Total Lung Irradiation;Whole Thorax Lung Irradiation;WLI;WTLI",
+            "definition": "A procedure involving irradiation of the whole lung.",
+            "identifier": "C161508",
+            "notation": "WHOLE LUNG IRRADIATION",
+            "pref_label": "Right and Left Lung Irradiation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C160927-C161508"
+        }
+    ]
+}

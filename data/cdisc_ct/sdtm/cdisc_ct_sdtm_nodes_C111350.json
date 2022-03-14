@@ -1,0 +1,52 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "SDS01-Work/School",
+            "definition": "Sheehan Disability Scale - The symptoms have disrupted your work/school work.",
+            "identifier": "C111521",
+            "notation": "SDS0101",
+            "pref_label": "SDS - Symptoms Disrupted Work/School Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111350-C111521"
+        },
+        {
+            "alt_label": "SDS01-No Work/Study - Unrelated Disorder",
+            "definition": "Sheehan Disability Scale - I have not worked/studied at all during the past week for reasons unrelated to the disorder.",
+            "identifier": "C111522",
+            "notation": "SDS0101A",
+            "pref_label": "SDS - Not Worked/Studied in Past Week for Reason Unrelated to Disorder",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111350-C111522"
+        },
+        {
+            "alt_label": "SDS01-Social Life",
+            "definition": "Sheehan Disability Scale - The symptoms have disrupted your social life/leisure activities.",
+            "identifier": "C111523",
+            "notation": "SDS0102",
+            "pref_label": "SDS - Symptoms Disrupted Social Life/Leisure Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111350-C111523"
+        },
+        {
+            "alt_label": "SDS01-Family Life/Home Responsibilities",
+            "definition": "Sheehan Disability Scale - The symptoms have disrupted your family life/home responsibilities.",
+            "identifier": "C111524",
+            "notation": "SDS0103",
+            "pref_label": "SDS - Symptoms Disrupted Family Life/Home Responsibilities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111350-C111524"
+        },
+        {
+            "alt_label": "SDS01-Days Lost",
+            "definition": "Sheehan Disability Scale - On how many days in the last week did your symptoms cause you to miss school or work or leave you unable to carry out your normal daily responsibilities?",
+            "identifier": "C111525",
+            "notation": "SDS0104",
+            "pref_label": "SDS - Days Lost",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111350-C111525"
+        },
+        {
+            "alt_label": "SDS01-Days Unproductive",
+            "definition": "Sheehan Disability Scale - On how many days in the last week did you feel so impaired by your symptoms, that even though you went to school or work or had other daily responsibilities, your productivity was reduced?",
+            "identifier": "C111526",
+            "notation": "SDS0105",
+            "pref_label": "SDS - Days Unproductive",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111350-C111526"
+        }
+    ]
+}

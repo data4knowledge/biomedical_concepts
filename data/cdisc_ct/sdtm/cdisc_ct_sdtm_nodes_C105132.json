@@ -1,0 +1,412 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CSS03-Wish to be Dead-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you wished you were dead or wished you could go to sleep and not wake up? (Lifetime).",
+            "identifier": "C105210",
+            "notation": "CSS0301A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Wish to be Dead (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105210"
+        },
+        {
+            "alt_label": "CSS03-Wish to be Dead-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you wished you were dead or wished you could go to sleep and not wake up? (Past 6 Months).",
+            "identifier": "C105211",
+            "notation": "CSS0301B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Wish to be Dead (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105211"
+        },
+        {
+            "alt_label": "CSS03-Wish to be Dead, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of wishing to be dead.",
+            "identifier": "C105212",
+            "notation": "CSS0301C",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Description of Wish to be Dead (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105212"
+        },
+        {
+            "alt_label": "CSS03-Non-Spec Suicid Thought-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you actually had any thoughts of killing yourself? (Lifetime).",
+            "identifier": "C105213",
+            "notation": "CSS0302A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Non-Specific Active Suicidal Thoughts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105213"
+        },
+        {
+            "alt_label": "CSS03-Non-Spec Suicid Thought-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you actually had any thoughts of killing yourself? (Past 6 Months).",
+            "identifier": "C105214",
+            "notation": "CSS0302B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Non-Specific Active Suicidal Thoughts (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105214"
+        },
+        {
+            "alt_label": "CSS03-Non-Spec Suicid Thought, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of non-specific active suicidal thoughts.",
+            "identifier": "C105215",
+            "notation": "CSS0302C",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Description of Non-Specific Active Suicidal Thoughts (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105215"
+        },
+        {
+            "alt_label": "CSS03-Idea, No Intent, No Plan-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you been thinking about how you might do this? (Lifetime).",
+            "identifier": "C105216",
+            "notation": "CSS0303A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105216"
+        },
+        {
+            "alt_label": "CSS03-Idea, No Intent, No Plan-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you been thinking about how you might do this? (Past 6 Months).",
+            "identifier": "C105217",
+            "notation": "CSS0303B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105217"
+        },
+        {
+            "alt_label": "CSS03-Idea, No Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of active suicidal ideation with any methods (not plan) without intent to act.",
+            "identifier": "C105218",
+            "notation": "CSS0303C",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Description of Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105218"
+        },
+        {
+            "alt_label": "CSS03-Idea, Intent, No Plan-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you had these thoughts and had some intention of acting on them? (Lifetime).",
+            "identifier": "C105219",
+            "notation": "CSS0304A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105219"
+        },
+        {
+            "alt_label": "CSS03-Idea, Intent, No Plan-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you had these thoughts and had some intention of acting on them? (Past 6 Months).",
+            "identifier": "C105220",
+            "notation": "CSS0304B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105220"
+        },
+        {
+            "alt_label": "CSS03-Idea, Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of active suicidal ideation with some intent to act, without specific plan.",
+            "identifier": "C105221",
+            "notation": "CSS0304C",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Description of Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105221"
+        },
+        {
+            "alt_label": "CSS03-Idea, Plan, Intent-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Lifetime).",
+            "identifier": "C105222",
+            "notation": "CSS0305A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Specific Plan and Intent (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105222"
+        },
+        {
+            "alt_label": "CSS03-Idea, Plan, Intent-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Past 6 Months).",
+            "identifier": "C105223",
+            "notation": "CSS0305B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Specific Plan and Intent (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105223"
+        },
+        {
+            "alt_label": "CSS03-Idea, Plan, Intent, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of active suicidal ideation with specific plan and intent.",
+            "identifier": "C105224",
+            "notation": "CSS0305C",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Description of Active Suicidal Ideation with Specific Plan and Intent (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105224"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most severe ideation. (Lifetime).",
+            "identifier": "C105225",
+            "notation": "CSS0306A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105225"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Desc-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of most severe ideation. (Lifetime).",
+            "identifier": "C105226",
+            "notation": "CSS0306B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Describe Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105226"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most severe ideation. (Past 6 Months).",
+            "identifier": "C105227",
+            "notation": "CSS0306C",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Most Severe Ideation (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105227"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Desc-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of most severe ideation. (Past 6 Months).",
+            "identifier": "C105228",
+            "notation": "CSS0306D",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Describe Most Severe Ideation (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105228"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Frequency-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - How many times have you had these thoughts? (Lifetime).",
+            "identifier": "C105229",
+            "notation": "CSS0307A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Frequency of Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105229"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Frequency-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - How many times have you had these thoughts? (Past 6 Months).",
+            "identifier": "C105230",
+            "notation": "CSS0307B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Frequency of Most Severe Ideation (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105230"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Duration-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - When you have the thoughts how long do they last? (Lifetime).",
+            "identifier": "C105231",
+            "notation": "CSS0308A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Duration of Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105231"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Duration-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - When you have the thoughts how long do they last? (Past 6 Months).",
+            "identifier": "C105232",
+            "notation": "CSS0308B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Duration of Most Severe Ideation (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105232"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Control-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Lifetime).",
+            "identifier": "C105233",
+            "notation": "CSS0309A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Controllability of Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105233"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Control-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Past 6 Months).",
+            "identifier": "C105234",
+            "notation": "CSS0309B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Controllability of Most Severe Ideation (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105234"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Deterrents-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Are there things-anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Lifetime).",
+            "identifier": "C105235",
+            "notation": "CSS0310A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Deterrents to Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105235"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Deterrents-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Are there things-anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Past 6 Months).",
+            "identifier": "C105236",
+            "notation": "CSS0310B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Deterrents to Most Severe Ideation (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105236"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Reasons-Life",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Lifetime).",
+            "identifier": "C105237",
+            "notation": "CSS0311A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Reasons for Most Severe Ideation (Lifetime)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105237"
+        },
+        {
+            "alt_label": "CSS03-Most Severe Idea, Reasons-P6M",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Past 6 Months).",
+            "identifier": "C105238",
+            "notation": "CSS0311B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Reasons for Most Severe Ideation (Past 6 Months)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105238"
+        },
+        {
+            "alt_label": "CSS03-Actual Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died?",
+            "identifier": "C105239",
+            "notation": "CSS0312",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Actual Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105239"
+        },
+        {
+            "alt_label": "CSS03-Number of Actual Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Total number of actual attempts.",
+            "identifier": "C105240",
+            "notation": "CSS0313",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Number of Actual Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105240"
+        },
+        {
+            "alt_label": "CSS03-Actual Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of actual attempt.",
+            "identifier": "C105241",
+            "notation": "CSS0313A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Description of Actual Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105241"
+        },
+        {
+            "alt_label": "CSS03-Non-suicidal Self-injurious Behav",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Has the subject engaged in non-suicidal self-injurious behavior.",
+            "identifier": "C105242",
+            "notation": "CSS0314",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Non-suicidal Self-injurious Behavior",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105242"
+        },
+        {
+            "alt_label": "CSS03-Interrupted Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Has there been a time when you started to do something to try to end your life but someone or something stopped you before you actually did anything?",
+            "identifier": "C105243",
+            "notation": "CSS0315",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105243"
+        },
+        {
+            "alt_label": "CSS03-Number of Interrupted Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Total number of interrupted attempts.",
+            "identifier": "C105244",
+            "notation": "CSS0316",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Number of Interrupted Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105244"
+        },
+        {
+            "alt_label": "CSS03-Interrupted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of interrupted attempt.",
+            "identifier": "C105245",
+            "notation": "CSS0316A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Description of Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105245"
+        },
+        {
+            "alt_label": "CSS03-Aborted Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything?",
+            "identifier": "C105246",
+            "notation": "CSS0317",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105246"
+        },
+        {
+            "alt_label": "CSS03-Number of Aborted Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Total number of aborted attempts.",
+            "identifier": "C105247",
+            "notation": "CSS0318",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Number of Aborted Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105247"
+        },
+        {
+            "alt_label": "CSS03-Aborted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of aborted attempt.",
+            "identifier": "C105248",
+            "notation": "CSS0318A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Description of Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105248"
+        },
+        {
+            "alt_label": "CSS03-Preparatory Acts/Behavior",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)?",
+            "identifier": "C105249",
+            "notation": "CSS0319",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105249"
+        },
+        {
+            "alt_label": "CSS03-Preparatory Acts/Behavior, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of preparatory acts or behavior.",
+            "identifier": "C105250",
+            "notation": "CSS0319A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Description of Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105250"
+        },
+        {
+            "alt_label": "CSS03-Suicidal Behavior",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Suicidal behavior was present during the assessment period?",
+            "identifier": "C105251",
+            "notation": "CSS0320",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Suicidal Behavior",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105251"
+        },
+        {
+            "alt_label": "CSS03-Most Recent Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most recent attempt date.",
+            "identifier": "C105252",
+            "notation": "CSS0321A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Most Recent Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105252"
+        },
+        {
+            "alt_label": "CSS03-Most Recent Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most recent attempt actual lethality/medical damage.",
+            "identifier": "C105253",
+            "notation": "CSS0321B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Most Recent Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105253"
+        },
+        {
+            "alt_label": "CSS03-Most Recent Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most recent attempt potential lethality.",
+            "identifier": "C105254",
+            "notation": "CSS0321C",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Most Recent Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105254"
+        },
+        {
+            "alt_label": "CSS03-Most Lethal Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most lethal attempt date.",
+            "identifier": "C105255",
+            "notation": "CSS0322A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Most Lethal Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105255"
+        },
+        {
+            "alt_label": "CSS03-Most Lethal Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most lethal attempt actual lethality/medical damage.",
+            "identifier": "C105256",
+            "notation": "CSS0322B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Most Lethal Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105256"
+        },
+        {
+            "alt_label": "CSS03-Most Lethal Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most lethal attempt potential lethality.",
+            "identifier": "C105257",
+            "notation": "CSS0322C",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - Most Lethal Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105257"
+        },
+        {
+            "alt_label": "CSS03-First Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Initial/first attempt date.",
+            "identifier": "C105258",
+            "notation": "CSS0323A",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - First Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105258"
+        },
+        {
+            "alt_label": "CSS03-First Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Initial/first attempt actual lethality/medical damage.",
+            "identifier": "C105259",
+            "notation": "CSS0323B",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - First Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105259"
+        },
+        {
+            "alt_label": "CSS03-First Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Initial/first attempt potential lethality.",
+            "identifier": "C105260",
+            "notation": "CSS0323C",
+            "pref_label": "C-SSRS Baseline/Screening Version Phase 1 Study - First Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C105132-C105260"
+        }
+    ]
+}

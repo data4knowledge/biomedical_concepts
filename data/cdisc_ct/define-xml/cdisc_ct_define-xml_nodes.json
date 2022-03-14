@@ -1,0 +1,162 @@
+{
+    "API_SOURCE": [
+        {
+            "uri": "http://id.d4k.dk/dataset/source/cdisc/ct/define-xml",
+            "url": "https://api.library.cdisc.org/api/mdr/ct/packages/define-xmlct-2021-12-17"
+        }
+    ],
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "ADaM Basic Data Structure Subclass",
+            "definition": "Terminology relevant to the subclasses of the ADaM basic data structure.",
+            "extensible": "false",
+            "identifier": "C165635",
+            "label": "ADaM Basic Data Structure Subclass",
+            "notation": "BDSSC",
+            "pref_label": "CDISC Define-XML ADaM Basic Data Structure Subclass Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C165635"
+        },
+        {
+            "alt_label": "ADaM Medical Device Basic Data Structure Subclass",
+            "definition": "Terminology relevant to the subclasses of the ADaM device level basic data structure.",
+            "extensible": "false",
+            "identifier": "C177903",
+            "label": "ADaM Medical Device Basic Data Structure Subclass",
+            "notation": "MDBDSSC",
+            "pref_label": "CDISC Define-XML ADaM Medical Device Basic Data Structure Subclass Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C177903"
+        },
+        {
+            "alt_label": "ADaM Occurrence Data Structure Subclass",
+            "definition": "Terminology relevant to the subclasses of the ADaM occurrence data structure.",
+            "extensible": "false",
+            "identifier": "C176227",
+            "label": "ADaM Occurrence Data Structure Subclass",
+            "notation": "OCCSC",
+            "pref_label": "CDISC Define-XML ADaM Occurrence Data Structure Subclass Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C176227"
+        },
+        {
+            "alt_label": "Analysis Purpose",
+            "definition": "Purpose of a specific analysis result described in Define-XML analysis results metadata.",
+            "extensible": "true",
+            "identifier": "C117745",
+            "label": "Analysis Purpose",
+            "notation": "ANLPURP",
+            "pref_label": "CDISC Define-XML Analysis Purpose Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C117745"
+        },
+        {
+            "alt_label": "Analysis Reason",
+            "definition": "Reason for reporting a specific analysis result described in Define-XML analysis results metadata.",
+            "extensible": "true",
+            "identifier": "C117744",
+            "label": "Analysis Reason",
+            "notation": "ANLREAS",
+            "pref_label": "CDISC Define-XML Analysis Reason Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C117744"
+        },
+        {
+            "alt_label": "CDISC Controlled Terminology Standard Type",
+            "definition": "Terminology relevant to the classification of the CDISC controlled terminology standard described in the Define-XML document.",
+            "extensible": "false",
+            "identifier": "C172331",
+            "label": "CDISC Controlled Terminology Standard Type",
+            "notation": "CTSTDTYP",
+            "pref_label": "CDISC Define-XML CDISC Controlled Terminology Standard Type Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C172331"
+        },
+        {
+            "alt_label": "Dictionary Name",
+            "definition": "A name given to a reference source that lists words and gives their meaning. (NCI)",
+            "extensible": "true",
+            "identifier": "C66788",
+            "label": "Dictionary Name",
+            "notation": "DICTNAM",
+            "pref_label": "CDISC Dictionary Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C66788"
+        },
+        {
+            "alt_label": "General Observation Class",
+            "definition": "Terminology related to the classification of a CDISC domain.",
+            "extensible": "false",
+            "identifier": "C103329",
+            "label": "General Observation Class",
+            "notation": "GNRLOBSC",
+            "pref_label": "CDISC Define-XML General Observation Class Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C103329"
+        },
+        {
+            "alt_label": "ODM Context",
+            "definition": "Terminology relevant to the context in which the Define-XML document is used.",
+            "extensible": "false",
+            "identifier": "C170448",
+            "label": "ODM Context",
+            "notation": "ODMCNTX",
+            "pref_label": "CDISC Define-XML ODM Context Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170448"
+        },
+        {
+            "alt_label": "Origin Source",
+            "definition": "Terminology relevant to the origin source for datasets in the Define-XML document.",
+            "extensible": "false",
+            "identifier": "C170450",
+            "label": "Origin Source",
+            "notation": "ORIGINS",
+            "pref_label": "CDISC Define-XML Origin Source Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170450"
+        },
+        {
+            "alt_label": "Origin Type",
+            "definition": "Terminology relevant to the origin type for datasets in the Define-XML document.",
+            "extensible": "false",
+            "identifier": "C170449",
+            "label": "Origin Type",
+            "notation": "ORIGINT",
+            "pref_label": "CDISC Define-XML Origin Type Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449"
+        },
+        {
+            "alt_label": "Standard Name",
+            "definition": "Terminology relevant to the name of the standard described in the Define-XML document.",
+            "extensible": "false",
+            "identifier": "C170452",
+            "label": "Standard Name",
+            "notation": "STDNAM",
+            "pref_label": "CDISC Define-XML Standard Name Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170452"
+        },
+        {
+            "alt_label": "Standard Status",
+            "definition": "Terminology relevant to the development or publication status of the standard.",
+            "extensible": "true",
+            "identifier": "C172332",
+            "label": "Standard Status",
+            "notation": "STDSTAT",
+            "pref_label": "CDISC Define-XML Standard Status Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C172332"
+        },
+        {
+            "alt_label": "Standard Type",
+            "definition": "Terminology relevant to the classification of the standard described in the Define-XML document.",
+            "extensible": "false",
+            "identifier": "C170451",
+            "label": "Standard Type",
+            "notation": "STDTYP",
+            "pref_label": "CDISC Define-XML Standard Type Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170451"
+        }
+    ],
+    "SKOS_CONCEPT_SCHEME": [
+        {
+            "description": "CDISC Controlled Terminology for Define-XML is the set of CDISC-developed or CDISC-adopted standard expressions (values) used with data items within CDISC-defined DEFINE-XML datasets.",
+            "effective_date": "2021-12-17",
+            "label": "Define-XML Controlled Terminology Package 48 Effective 2021-12-17",
+            "name": "Define-XML CT 2021-12-17",
+            "source": "Define-XML Controlled Terminology developed by the CDISC Terminology Team in collaboration with the National Cancer Institute's Enterprise Vocabulary Services (EVS)",
+            "status": "Final",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml",
+            "version": "2021-12-17"
+        }
+    ]
+}

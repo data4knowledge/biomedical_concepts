@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "XDR",
+            "definition": "Resistance to nearly all known drugs, particularly the most efficacious or non-first line drugs, used in the treatment of a particular disease.",
+            "identifier": "C102633",
+            "notation": "EXTENSIVE DRUG RESISTANCE",
+            "pref_label": "Extensively Drug Resistance Process",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102577-C102633"
+        },
+        {
+            "alt_label": "MDR",
+            "definition": "Simultaneous resistance to a spectrum of unrelated drugs following exposure to a single agent. Mechanisms involve expression of multidrug efflux pumps (p-glycoprotein), altered glutathione metabolism, decreased topoisomerase II activity, and changes in various cellular proteins.",
+            "identifier": "C17745",
+            "notation": "MULTIPLE DRUG RESISTANCE",
+            "pref_label": "Multidrug Resistance Process",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102577-C17745"
+        },
+        {
+            "alt_label": "Susceptible",
+            "definition": "The growth of microorganisms are inhibited by the usually achievable concentrations of antimicrobial agent when the recommended dosage is used for the site of infection.",
+            "identifier": "C85563",
+            "notation": "SUSCEPTIBLE",
+            "pref_label": "Antimicrobial Susceptibility Result",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102577-C85563"
+        }
+    ]
+}

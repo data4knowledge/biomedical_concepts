@@ -1,0 +1,572 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Number of Abortions",
+            "definition": "A measurement of the total number of instances in which there has been a spontaneous termination of pregnancy (miscarriage) or elective termination of pregnancy.",
+            "identifier": "C106550",
+            "notation": "ABORTN",
+            "pref_label": "Number of Abortions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C106550"
+        },
+        {
+            "alt_label": "Actual Date of Delivery",
+            "definition": "The date on which the delivery event occurred.",
+            "identifier": "C178050",
+            "notation": "ADLVRDTC",
+            "pref_label": "Actual Date of Delivery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C178050"
+        },
+        {
+            "alt_label": "Birth Control Method",
+            "definition": "The method by which conception or impregnation is prevented.",
+            "identifier": "C106501",
+            "notation": "BCMETHOD",
+            "pref_label": "Birth Control Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C106501"
+        },
+        {
+            "alt_label": "Number of Continuous Days of Bleed/Spot",
+            "definition": "The number of days one has experienced continuous menstrual bleeding and/or spotting.",
+            "identifier": "C181528",
+            "notation": "BLDSPNUM",
+            "pref_label": "Number of Continuous Days of Menstrual Bleeding and/or Spotting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C181528"
+        },
+        {
+            "alt_label": "Abnormal Bleeding Indicator",
+            "definition": "An indication as to whether there is the presence of abnormal bleeding.",
+            "identifier": "C154889",
+            "notation": "BLEEDIND",
+            "pref_label": "Abnormal Bleeding Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154889"
+        },
+        {
+            "alt_label": "Blistering Indicator",
+            "definition": "An indication as to whether blistering occurred.",
+            "identifier": "C122195",
+            "notation": "BLISTIND",
+            "pref_label": "Blistering Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C122195"
+        },
+        {
+            "alt_label": "Number Full Term Live Births",
+            "definition": "A measurement of the total number of live birth events at which the gestational age of the neonate is 39 weeks and 0 days through 40 weeks and 6 days.",
+            "identifier": "C139265",
+            "notation": "BRTHFTN",
+            "pref_label": "Number of Full Term Live Births",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C139265"
+        },
+        {
+            "alt_label": "Number of Live Births",
+            "definition": "A measurement of the total number of live-born offspring a female has delivered.",
+            "identifier": "C178141",
+            "notation": "BRTHLVN",
+            "pref_label": "Number of Live Births",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C178141"
+        },
+        {
+            "alt_label": "Number of Births",
+            "definition": "A measurement of the total number of birth events experienced by a female.",
+            "identifier": "C158275",
+            "notation": "BRTHN",
+            "pref_label": "Number of Births",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C158275"
+        },
+        {
+            "alt_label": "Number of Premature Live Births",
+            "definition": "A measurement of the total number of live birth events at which the gestational age of the neonate is less than 37 weeks and 0 days.",
+            "identifier": "C139266",
+            "notation": "BRTHPRN",
+            "pref_label": "Number of Premature Live Births",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C139266"
+        },
+        {
+            "alt_label": "Number of Stillbirths",
+            "definition": "A measurement of the total number of birth events at which the fetus is of at least 20 weeks gestation, or of a birth weight of at least 350 grams if the gestational age is unknown, which is born without signs of life at the time of delivery, and with an Apgar score of zero at both one and five minutes.",
+            "identifier": "C139267",
+            "notation": "BRTHSTN",
+            "pref_label": "Number of Stillbirths",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C139267"
+        },
+        {
+            "alt_label": "Live Birth Indicator",
+            "definition": "An indication as to whether the subject has ever delivered live-born offspring.",
+            "identifier": "C156589",
+            "notation": "BRTLVIND",
+            "pref_label": "Live Birth Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C156589"
+        },
+        {
+            "alt_label": "Bartholin's Gland Abnormality Indicator",
+            "definition": "An indication as to whether the Bartholin's gland is abnormal.",
+            "identifier": "C154880",
+            "notation": "BTHGLIND",
+            "pref_label": "Bartholin's Gland Abnormality Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154880"
+        },
+        {
+            "alt_label": "Congenital Abnormality Indicator",
+            "definition": "An indication as to whether any abnormality was present at birth or during the neonatal period.",
+            "identifier": "C122187",
+            "notation": "CABNIND",
+            "pref_label": "Congenital Abnormality Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C122187"
+        },
+        {
+            "alt_label": "Childbearing Potential",
+            "definition": "An indicator as to whether the female subject has the potential to become pregnant. (NCI)",
+            "identifier": "C106508",
+            "notation": "CHILDPOT",
+            "pref_label": "Childbearing Potential",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C106508"
+        },
+        {
+            "alt_label": "Condom Use for Most Recent Sexual Intercourse Indicator;Condom Use Most Recent Sex Interc Ind",
+            "definition": "An indication as to whether a condom was used during the most recent occurrence of sexual intercourse.",
+            "identifier": "C181526",
+            "notation": "CNDMIND",
+            "pref_label": "Condom Use for Most Recent Sexual Intercourse Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C181526"
+        },
+        {
+            "alt_label": "Condom Use Frequency Desc;Condom Use Frequency Description",
+            "definition": "A description of the regularity with which a condom is used during sexual activity.",
+            "identifier": "C181527",
+            "notation": "CNDUFRQD",
+            "pref_label": "Condom Use Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C181527"
+        },
+        {
+            "alt_label": "Mode of Delivery",
+            "definition": "Description of the method by which a fetus is delivered.",
+            "identifier": "C81179",
+            "notation": "DLVRMODE",
+            "pref_label": "Delivery Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C81179"
+        },
+        {
+            "alt_label": "Discharge Indicator",
+            "definition": "An indication as to whether there is the presence of discharge.",
+            "identifier": "C154888",
+            "notation": "DSCHGIND",
+            "pref_label": "Discharge Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154888"
+        },
+        {
+            "alt_label": "Ecchymosis Indicator",
+            "definition": "An indication as to whether ecchymosis is present.",
+            "identifier": "C154884",
+            "notation": "ECCHYIND",
+            "pref_label": "Ecchymosis Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154884"
+        },
+        {
+            "alt_label": "Number of Ectopic Pregnancies",
+            "definition": "A measurement of the total number of ectopic pregnancies experienced by a female subject.",
+            "identifier": "C120832",
+            "notation": "ECTPREGN",
+            "pref_label": "Number of Ectopic Pregnancies",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C120832"
+        },
+        {
+            "alt_label": "Estimated Date of Conception",
+            "definition": "An approximate calculated date at which the conception event took place.",
+            "identifier": "C120833",
+            "notation": "EDCDTC",
+            "pref_label": "Estimated Date of Conception",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C120833"
+        },
+        {
+            "alt_label": "Edema Indicator",
+            "definition": "An indication as to whether edema is present.",
+            "identifier": "C154885",
+            "notation": "EDEMAIND",
+            "pref_label": "Edema Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154885"
+        },
+        {
+            "alt_label": "Estimated Date of Delivery",
+            "definition": "An approximate calculation of the delivery date.",
+            "identifier": "C81247",
+            "notation": "EDLVRDTC",
+            "pref_label": "Expected Date of Confinement",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C81247"
+        },
+        {
+            "alt_label": "Estimated Gestational Age",
+            "definition": "An approximate calculation of the gestational age of the fetus.",
+            "identifier": "C122188",
+            "notation": "EGESTAGE",
+            "pref_label": "Estimated Gestational Age",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C122188"
+        },
+        {
+            "alt_label": "Est Next Menstrual Period Start Date;Estimated Next Menstrual Period Start Date",
+            "definition": "The approximate date of the first day of the next menstrual cycle.",
+            "identifier": "C158276",
+            "notation": "ENMPSDTC",
+            "pref_label": "Estimated Next Menstrual Period Start Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C158276"
+        },
+        {
+            "alt_label": "Number of Early Term Births",
+            "definition": "A measurement of the total number of birth events at which the gestational age of the neonate is 37 weeks and 0 days through 38 weeks and 6 days.",
+            "identifier": "C122189",
+            "notation": "ERLYTRMN",
+            "pref_label": "Number of Early Term Births",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C122189"
+        },
+        {
+            "alt_label": "Erythema Indicator;Redness Indicator",
+            "definition": "An indication as to whether erythema is present.",
+            "identifier": "C154877",
+            "notation": "ERYTHIND",
+            "pref_label": "Erythema Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154877"
+        },
+        {
+            "alt_label": "Number of Late Fetal Deaths",
+            "definition": "A measurement of the total number of fetal deaths (death of a fetus at 16 weeks, 0 days to 19 weeks, 6 days of gestation)  experienced by a female subject.",
+            "identifier": "C120834",
+            "notation": "FETLDTHN",
+            "pref_label": "Number of Late Fetal Deaths",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C120834"
+        },
+        {
+            "alt_label": "Number of Full Term Births",
+            "definition": "A measurement of the total number of birth events (both live and dead) at which the gestational age of the neonate is 39 weeks and 0 days through 40 weeks and 6 days.",
+            "identifier": "C122190",
+            "notation": "FULLTRMN",
+            "pref_label": "Number of Full Term Births",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C122190"
+        },
+        {
+            "alt_label": "Fundal Height",
+            "definition": "A measurement of the distance between the pubic symphysis and the top of the palpable uterus.",
+            "identifier": "C154876",
+            "notation": "FUNDHT",
+            "pref_label": "Fundal Height",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154876"
+        },
+        {
+            "alt_label": "Gravida;Gravida Indicator",
+            "definition": "An indication as to whether the subject is or has ever been pregnant.",
+            "identifier": "C73435",
+            "notation": "GRAVIND",
+            "pref_label": "Gravida",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C73435"
+        },
+        {
+            "alt_label": "Has Menstrual Periods Indicator",
+            "definition": "An indication as to whether the subject experiences menstrual cycles.",
+            "identifier": "C184708",
+            "notation": "HMPIND",
+            "pref_label": "Has Menstrual Periods Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C184708"
+        },
+        {
+            "alt_label": "Hosp Due to Pregnancy Complication Ind;Hospitalized Due to Pregnancy Complication Indicator",
+            "definition": "An indication as to whether the individual was hospitalized due to a pregnancy complication.",
+            "identifier": "C176360",
+            "notation": "HSPGCIND",
+            "pref_label": "Hospitalized Due to Pregnancy Complication Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C176360"
+        },
+        {
+            "alt_label": "Induced Abortion Indicator",
+            "definition": "An indication as to whether the female subject has ever had an induced abortion procedure.",
+            "identifier": "C156588",
+            "notation": "INABOIND",
+            "pref_label": "Induced Abortion Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C156588"
+        },
+        {
+            "alt_label": "Number of Induced Abortions",
+            "definition": "A measurement of the total number of induced abortions experienced by a female subject.",
+            "identifier": "C120835",
+            "notation": "INABORTN",
+            "pref_label": "Number of Induced Abortions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C120835"
+        },
+        {
+            "alt_label": "Interpretation",
+            "definition": "An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.",
+            "identifier": "C41255",
+            "notation": "INTP",
+            "pref_label": "Interpretation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C41255"
+        },
+        {
+            "alt_label": "Last Menstrual Period Start Date",
+            "definition": "The first day of the most recent menstrual cycle.",
+            "identifier": "C81257",
+            "notation": "LMPSTDTC",
+            "pref_label": "Last Menstrual Period",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C81257"
+        },
+        {
+            "alt_label": "Mass Indicator",
+            "definition": "An indication as to whether a mass is present.",
+            "identifier": "C154886",
+            "notation": "MASSIND",
+            "pref_label": "Mass Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154886"
+        },
+        {
+            "alt_label": "Menarche Age",
+            "definition": "The age at which the first menstruation event occurred. (NCI)",
+            "identifier": "C19666",
+            "notation": "MENARAGE",
+            "pref_label": "Age at Menarche",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C19666"
+        },
+        {
+            "alt_label": "Menses Flow Duration",
+            "definition": "The length of time during which menses is expelled from the uterus.",
+            "identifier": "C156586",
+            "notation": "MENFDUR",
+            "pref_label": "Menses Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C156586"
+        },
+        {
+            "alt_label": "Menses Flow Rate Description",
+            "definition": "A subjective description of the menstrual flow rate during a menstrual cycle.",
+            "identifier": "C156585",
+            "notation": "MENFRD",
+            "pref_label": "Menses Flow Rate Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C156585"
+        },
+        {
+            "alt_label": "Menopause Age",
+            "definition": "The age at which permanent cessation of menses occurred. (NCI)",
+            "identifier": "C106497",
+            "notation": "MENOAGE",
+            "pref_label": "Age at Menopause",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C106497"
+        },
+        {
+            "alt_label": "Menopause Status",
+            "definition": "The status of a female with respect to menopause.",
+            "identifier": "C106541",
+            "notation": "MENOSTAT",
+            "pref_label": "Menopause Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C106541"
+        },
+        {
+            "alt_label": "Menstrual Cycle Regularity",
+            "definition": "A description of how an individual's menstrual cycle conforms to a consistent temporal pattern.",
+            "identifier": "C156587",
+            "notation": "MENREG",
+            "pref_label": "Menstrual Cycle Regularity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C156587"
+        },
+        {
+            "alt_label": "Menstrual Cycle Duration",
+            "definition": "The length of time of the menses cycle, measured from the beginning of one menstrual period to the beginning of the next.",
+            "identifier": "C119549",
+            "notation": "MENSDUR",
+            "pref_label": "Menstrual Cycle Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C119549"
+        },
+        {
+            "alt_label": "Date of Most Recent Sexual Intercourse",
+            "definition": "The date of the most recent occurrence of sexual intercourse.",
+            "identifier": "C181524",
+            "notation": "MRSXIDTC",
+            "pref_label": "Date of Last Sexual Intercourse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C181524"
+        },
+        {
+            "alt_label": "Miscarriage Indicator",
+            "definition": "An indication as to whether any pregnancies resulted in miscarriages.",
+            "identifier": "C122191",
+            "notation": "MSCRGIND",
+            "pref_label": "Miscarriage Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C122191"
+        },
+        {
+            "alt_label": "Motion Tenderness Indicator",
+            "definition": "An indication as to whether there are symptoms of motion tenderness.",
+            "identifier": "C154887",
+            "notation": "MTENDIND",
+            "pref_label": "Motion Tenderness Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154887"
+        },
+        {
+            "alt_label": "Parity",
+            "definition": "The number of pregnancies reaching 20 weeks and 0 days of gestation or beyond, regardless of the number of fetuses or outcomes. (NICHD)",
+            "identifier": "C16955",
+            "notation": "PARITY",
+            "pref_label": "Parity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C16955"
+        },
+        {
+            "alt_label": "Pregnancy Confirmed Indicator",
+            "definition": "An indication as to whether the subject's pregnancy has been confirmed.",
+            "identifier": "C122192",
+            "notation": "PCONFIND",
+            "pref_label": "Pregnancy Confirmed Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C122192"
+        },
+        {
+            "alt_label": "Peeling Indicator",
+            "definition": "An indication as to whether there is the presence of peeling.",
+            "identifier": "C154883",
+            "notation": "PEELIND",
+            "pref_label": "Peeling Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154883"
+        },
+        {
+            "alt_label": "Products of Conception Examined Ind;Products of Conception Examined Indicator",
+            "definition": "An indication as to whether the products of conception have been examined.",
+            "identifier": "C163557",
+            "notation": "PRDCEIND",
+            "pref_label": "Products of Conception Examined Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C163557"
+        },
+        {
+            "alt_label": "Pregnant Indicator",
+            "definition": "An indication as to whether the subject or associated person is pregnant at the time the question is asked.",
+            "identifier": "C139264",
+            "notation": "PREGIND",
+            "pref_label": "Pregnancy Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C139264"
+        },
+        {
+            "alt_label": "Number of Pregnancies",
+            "definition": "A measurement of the total number of pregnancy events experienced by a female.",
+            "identifier": "C106551",
+            "notation": "PREGNN",
+            "pref_label": "Number of Pregnancies",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C106551"
+        },
+        {
+            "alt_label": "Pregnant During the Study",
+            "definition": "An indicator as to whether a female is pregnant during the study period. (NCI)",
+            "identifier": "C106561",
+            "notation": "PREGST",
+            "pref_label": "Pregnant During the Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C106561"
+        },
+        {
+            "alt_label": "Number of Premature Births",
+            "definition": "A measurement of the total number of birth events (both live and dead) at which the gestational age of the neonate is less than 37 weeks and 0 days.",
+            "identifier": "C122193",
+            "notation": "PREMBTHN",
+            "pref_label": "Number of Premature Births",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C122193"
+        },
+        {
+            "alt_label": "Date Pregnancy Ended",
+            "definition": "The date on which the pregnancy ended.",
+            "identifier": "C163558",
+            "notation": "PRGENDTC",
+            "pref_label": "Pregnancy End Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C163558"
+        },
+        {
+            "alt_label": "Pregnancy Outcome",
+            "definition": "Findings observed at the end of a pregnancy.",
+            "identifier": "C90491",
+            "notation": "PRGOUT",
+            "pref_label": "Pregnancy Outcome",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C90491"
+        },
+        {
+            "alt_label": "Number of Previous Pregnancies",
+            "definition": "A measurement of the total number of pregnancy events experienced by the female subject prior to the current pregnancy.",
+            "identifier": "C120836",
+            "notation": "PRVPREGN",
+            "pref_label": "Number of Previous Pregnancies",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C120836"
+        },
+        {
+            "alt_label": "Pustule Indicator",
+            "definition": "An indication as to whether a pustule is present.",
+            "identifier": "C154882",
+            "notation": "PUSTIND",
+            "pref_label": "Pustule Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154882"
+        },
+        {
+            "alt_label": "Rash Indicator",
+            "definition": "An indication as to whether rash is present.",
+            "identifier": "C154878",
+            "notation": "RASHIND",
+            "pref_label": "Rash Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154878"
+        },
+        {
+            "alt_label": "Skene's Gland Abnormality Indicator",
+            "definition": "An indication as to whether the Skene's gland is abnormal.",
+            "identifier": "C154879",
+            "notation": "SKGLAIND",
+            "pref_label": "Skene's Gland Abnormality Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154879"
+        },
+        {
+            "alt_label": "Number of Spontaneous Abortions",
+            "definition": "A measurement of the total number of spontaneous abortions (in which the fetus is less than 20 weeks gestational age) experienced by a female subject.",
+            "identifier": "C120837",
+            "notation": "SPABORTN",
+            "pref_label": "Number of Spontaneous Abortions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C120837"
+        },
+        {
+            "alt_label": "Stillbirth Indicator",
+            "definition": "An indication as to whether any pregnancies resulted in stillbirths.",
+            "identifier": "C122194",
+            "notation": "STILBIND",
+            "pref_label": "Stillbirth Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C122194"
+        },
+        {
+            "alt_label": "Thickness",
+            "definition": "The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.",
+            "identifier": "C41145",
+            "notation": "THICK",
+            "pref_label": "Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C41145"
+        },
+        {
+            "alt_label": "Tenderness Indicator",
+            "definition": "An indication as to whether there are symptoms of tenderness.",
+            "identifier": "C127775",
+            "notation": "TNDRIND",
+            "pref_label": "Tenderness Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C127775"
+        },
+        {
+            "alt_label": "Term Pregnancy Category",
+            "definition": "A classification of the gestation duration of the pregnancy at the time of delivery.",
+            "identifier": "C176361",
+            "notation": "TRMPGCAT",
+            "pref_label": "Term Pregnancy Category",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C176361"
+        },
+        {
+            "alt_label": "Total Number of Sexual Partners",
+            "definition": "The total number of individuals with whom one has engaged in sexual activity.",
+            "identifier": "C181525",
+            "notation": "TSXPARTN",
+            "pref_label": "Total Number of Sexual Partners",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C181525"
+        },
+        {
+            "alt_label": "Ulcer Indicator",
+            "definition": "An indication as to whether an ulcer is present.",
+            "identifier": "C154881",
+            "notation": "ULCERIND",
+            "pref_label": "Ulcer Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C154881"
+        },
+        {
+            "alt_label": "Vaginal Bleeding/Spotting Freq Desc;Vaginal Bleeding/Spotting Frequency Description",
+            "definition": "A description of the frequency at which vaginal bleeding and/or spotting has occurred.",
+            "identifier": "C176359",
+            "notation": "VBSFRQD",
+            "pref_label": "Vaginal Bleeding and/or Spotting Frequency Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C106479-C176359"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "ECOG101-0",
+            "definition": "Eastern Cooperative Oncology Group Performance Status standardized character result for ECOG101-Fully active, able to carry on all pre-disease performance without restriction.",
+            "identifier": "C180255",
+            "notation": "0",
+            "pref_label": "Eastern Cooperative Oncology Group Performance Status ECOG101 Standardized Character Result 0",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179944-C180255"
+        },
+        {
+            "alt_label": "ECOG101-1",
+            "definition": "Eastern Cooperative Oncology Group Performance Status standardized character result for ECOG101-Restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature, e.g., light house work, office work.",
+            "identifier": "C180256",
+            "notation": "1",
+            "pref_label": "Eastern Cooperative Oncology Group Performance Status ECOG101 Standardized Character Result 1",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179944-C180256"
+        },
+        {
+            "alt_label": "ECOG101-2",
+            "definition": "Eastern Cooperative Oncology Group Performance Status standardized character result for ECOG101-Ambulatory and capable of all selfcare but unable to carry out any work activities. Up and about more than 50% of waking hours.",
+            "identifier": "C180257",
+            "notation": "2",
+            "pref_label": "Eastern Cooperative Oncology Group Performance Status ECOG101 Standardized Character Result 2",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179944-C180257"
+        },
+        {
+            "alt_label": "ECOG101-3",
+            "definition": "Eastern Cooperative Oncology Group Performance Status standardized character result for ECOG101-Capable of only limited selfcare, confined to bed or chair more than 50% of waking hours.",
+            "identifier": "C180258",
+            "notation": "3",
+            "pref_label": "Eastern Cooperative Oncology Group Performance Status ECOG101 Standardized Character Result 3",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179944-C180258"
+        },
+        {
+            "alt_label": "ECOG101-4",
+            "definition": "Eastern Cooperative Oncology Group Performance Status standardized character result for ECOG101-Completely disabled. Cannot carry on any selfcare. Totally confined to bed or chair.",
+            "identifier": "C180259",
+            "notation": "4",
+            "pref_label": "Eastern Cooperative Oncology Group Performance Status ECOG101 Standardized Character Result 4",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179944-C180259"
+        },
+        {
+            "alt_label": "ECOG101-5",
+            "definition": "Eastern Cooperative Oncology Group Performance Status standardized character result for ECOG101-Dead.",
+            "identifier": "C180260",
+            "notation": "5",
+            "pref_label": "Eastern Cooperative Oncology Group Performance Status ECOG101 Standardized Character Result 5",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179944-C180260"
+        }
+    ]
+}

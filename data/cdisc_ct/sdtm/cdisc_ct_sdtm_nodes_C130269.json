@@ -1,0 +1,396 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "WD5-Sex as Observed",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Record sex as observed.",
+            "identifier": "C130722",
+            "notation": "WD5A1",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Sex as Observed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130722"
+        },
+        {
+            "alt_label": "WD5-How Old Are You Now",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - How old are you now?",
+            "identifier": "C130723",
+            "notation": "WD5A2",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - How Old Are You Now",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130723"
+        },
+        {
+            "alt_label": "WD5-Years Studying in School/College",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - How many years in all did you spend studying in school, college or university?",
+            "identifier": "C130724",
+            "notation": "WD5A3",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Years Studying in School or College",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130724"
+        },
+        {
+            "alt_label": "WD5-Current Marital Status",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - What is your current marital status?",
+            "identifier": "C130725",
+            "notation": "WD5A4",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Current Marital Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130725"
+        },
+        {
+            "alt_label": "WD5-Describes Main Work Status Best",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Which describes your main work status best?",
+            "identifier": "C130726",
+            "notation": "WD5A5",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Describes Main Work Status Best",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130726"
+        },
+        {
+            "alt_label": "WD5-Concentrating for Ten Minutes",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Concentrating on doing something for ten minutes?",
+            "identifier": "C130727",
+            "notation": "WD5D1_1",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Concentrating for Ten Minutes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130727"
+        },
+        {
+            "alt_label": "WD5-Remembering to Do Important Things",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Remembering to do important things?",
+            "identifier": "C130728",
+            "notation": "WD5D1_2",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Remembering to Do Important Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130728"
+        },
+        {
+            "alt_label": "WD5-Finding Solutions to Problems",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Analysing and finding solutions to problems in day-to-day life?",
+            "identifier": "C130729",
+            "notation": "WD5D1_3",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Finding Solutions to Problems",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130729"
+        },
+        {
+            "alt_label": "WD5-Learning a New Task",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Learning a new task, for example, learning how to get to a new place?",
+            "identifier": "C130730",
+            "notation": "WD5D1_4",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Learning a New Task",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130730"
+        },
+        {
+            "alt_label": "WD5-Understanding What People Say",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Generally understanding what people say?",
+            "identifier": "C130731",
+            "notation": "WD5D1_5",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Understanding What People Say",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130731"
+        },
+        {
+            "alt_label": "WD5-Starting/Maintaining Conversation",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Starting and maintaining a conversation?",
+            "identifier": "C130732",
+            "notation": "WD5D1_6",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Starting or Maintaining Conversation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130732"
+        },
+        {
+            "alt_label": "WD5-Standing for Long Periods",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Standing for long periods such as 30 minutes?",
+            "identifier": "C130733",
+            "notation": "WD5D2_1",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Standing for Long Periods",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130733"
+        },
+        {
+            "alt_label": "WD5-Standing Up From Sitting Down",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Standing up from sitting down?",
+            "identifier": "C130734",
+            "notation": "WD5D2_2",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Standing Up From Sitting Down",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130734"
+        },
+        {
+            "alt_label": "WD5-Moving Around Inside Your Home",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Moving around inside your home?",
+            "identifier": "C130735",
+            "notation": "WD5D2_3",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Moving Around Inside Your Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130735"
+        },
+        {
+            "alt_label": "WD5-Washing Your Whole Body",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Washing your whole body?",
+            "identifier": "C130738",
+            "notation": "WD5D3_1",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Washing Your Whole Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130738"
+        },
+        {
+            "alt_label": "WD5-Getting Dressed",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Getting dressed?",
+            "identifier": "C130739",
+            "notation": "WD5D3_2",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Getting Dressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130739"
+        },
+        {
+            "alt_label": "WD5-Eating",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Eating?",
+            "identifier": "C130740",
+            "notation": "WD5D3_3",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Eating",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130740"
+        },
+        {
+            "alt_label": "WD5-Staying by Yourself for a Few Days",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Staying by yourself for a few days?",
+            "identifier": "C130741",
+            "notation": "WD5D3_4",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Staying by Yourself for a Few Days",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130741"
+        },
+        {
+            "alt_label": "WD5-Dealing With People You Do Not Know",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Dealing with people you do not know?",
+            "identifier": "C130742",
+            "notation": "WD5D4_1",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Dealing With People You Do Not Know",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130742"
+        },
+        {
+            "alt_label": "WD5-Maintaining a Friendship",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Maintaining a friendship?",
+            "identifier": "C130743",
+            "notation": "WD5D4_2",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Maintaining a Friendship",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130743"
+        },
+        {
+            "alt_label": "WD5-Get Along With People Close to You",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Getting along with people who are close to you?",
+            "identifier": "C130744",
+            "notation": "WD5D4_3",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Get Along With People Close to You",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130744"
+        },
+        {
+            "alt_label": "WD5-Making New Friends",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Making new friends?",
+            "identifier": "C130745",
+            "notation": "WD5D4_4",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Making New Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130745"
+        },
+        {
+            "alt_label": "WD5-Sexual Activities",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Sexual activities?",
+            "identifier": "C130746",
+            "notation": "WD5D4_5",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Sexual Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130746"
+        },
+        {
+            "alt_label": "WD5-Days Reduce or Miss Household Work",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, on how many days did you reduce or completely miss household work because of your health condition?",
+            "identifier": "C130751",
+            "notation": "WD5D5_01",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Days Reduce or Miss Household Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130751"
+        },
+        {
+            "alt_label": "WD5-How Many Days Did You Miss Work",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, on how many days did you miss work for half a day or more because of your health condition?",
+            "identifier": "C130758",
+            "notation": "WD5D5_02",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - How Many Days Did You Miss Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130758"
+        },
+        {
+            "alt_label": "WD5-Care of Household Responsibilities",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Because of your health condition, in the past 30 days, how much difficulty did you have in: Taking care of your household responsibilities?",
+            "identifier": "C130747",
+            "notation": "WD5D5_1",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Care of Household Responsibilities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130747"
+        },
+        {
+            "alt_label": "WD5-Earn Less Money",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Because of your health condition, in the past 30 days how much difficulty did you have in: Did you earn less money as the result of a health condition?",
+            "identifier": "C130757",
+            "notation": "WD5D5_10",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Earn Less Money",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130757"
+        },
+        {
+            "alt_label": "WD5-Doing Important Household Tasks",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Because of your health condition, in the past 30 days, how much difficulty did you have in: Doing your most important household tasks well?",
+            "identifier": "C130748",
+            "notation": "WD5D5_2",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Doing Important Household Tasks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130748"
+        },
+        {
+            "alt_label": "WD5-Getting Household Work Done Needed",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Because of your health condition, in the past 30 days, how much difficulty did you have in: Getting all the household work done that you needed to do?",
+            "identifier": "C130749",
+            "notation": "WD5D5_3",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Getting Household Work Done Needed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130749"
+        },
+        {
+            "alt_label": "WD5-Getting Household Work Done Quickly",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Because of your health condition, in the past 30 days, how much difficulty did you have in: Getting your household work done as quickly as needed?",
+            "identifier": "C130750",
+            "notation": "WD5D5_4",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Getting Household Work Done Quickly",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130750"
+        },
+        {
+            "alt_label": "WD5-Your Day-to-Day Work/School",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Because of your health condition, in the past 30 days how much difficulty did you have in: Your day-to-day work/school?",
+            "identifier": "C130752",
+            "notation": "WD5D5_5",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Your Day-to-Day Work or School",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130752"
+        },
+        {
+            "alt_label": "WD5-Doing Important Work/School Tasks",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Because of your health condition, in the past 30 days how much difficulty did you have in: Doing your most important work/school tasks well?",
+            "identifier": "C130753",
+            "notation": "WD5D5_6",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Doing Important Work or School Tasks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130753"
+        },
+        {
+            "alt_label": "WD5-Getting All Work Done You Need",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Because of your health condition, in the past 30 days how much difficulty did you have in: Getting all the work done that you need to do?",
+            "identifier": "C130754",
+            "notation": "WD5D5_7",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Getting All Work Done You Need to Do",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130754"
+        },
+        {
+            "alt_label": "WD5-Getting Work Done Quickly as Needed",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Because of your health condition, in the past 30 days how much difficulty did you have in: Getting your work done as quickly as needed?",
+            "identifier": "C130755",
+            "notation": "WD5D5_8",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Getting Work Done Quickly as Needed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130755"
+        },
+        {
+            "alt_label": "WD5-Had to Work at a Lower Level",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Because of your health condition, in the past 30 days how much difficulty did you have in: Have you had to work at a lower level because of a health condition?",
+            "identifier": "C130756",
+            "notation": "WD5D5_9",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Had to Work at a Lower Level",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130756"
+        },
+        {
+            "alt_label": "WD5-Problem Joining Community Activities",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days: How much of a problem did you have joining in community activities (for example, festivities, religious or other activities) in the same way as anyone else can?",
+            "identifier": "C130759",
+            "notation": "WD5D6_1",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Problem Joining Community Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130759"
+        },
+        {
+            "alt_label": "WD5-Problem Because of Barriers in World",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days: How much of a problem did you have because of barriers or hindrances in the world around you?",
+            "identifier": "C130760",
+            "notation": "WD5D6_2",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Problem Because of Barriers in World",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130760"
+        },
+        {
+            "alt_label": "WD5-Problem Living with Dignity",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days: How much of a problem did you have living with dignity because of the attitudes and actions of others?",
+            "identifier": "C130761",
+            "notation": "WD5D6_3",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Problem Living with Dignity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130761"
+        },
+        {
+            "alt_label": "WD5-Time Spend on Your Health Condition",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days: How much time did you spend on your health condition or its consequences?",
+            "identifier": "C130762",
+            "notation": "WD5D6_4",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Time Spend on Your Health Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130762"
+        },
+        {
+            "alt_label": "WD5-Emotionally Affected by Health",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days: How much have you been emotionally affected by your health condition?",
+            "identifier": "C130763",
+            "notation": "WD5D6_5",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Emotionally Affected by Health",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130763"
+        },
+        {
+            "alt_label": "WD5-Drain on Financial Resources",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days: How much has your health been a drain on the financial resources of you or your family?",
+            "identifier": "C130764",
+            "notation": "WD5D6_6",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Drain on Financial Resources",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130764"
+        },
+        {
+            "alt_label": "WD5-Problem Did Your Family Have",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days: How much of a problem did your family have because of your health problems?",
+            "identifier": "C130765",
+            "notation": "WD5D6_7",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - How Much Problem Did Your Family Have",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130765"
+        },
+        {
+            "alt_label": "WD5-Problem Doing Things for Relaxation",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days: How much of a problem did you have in doing things by yourself for relaxation or pleasure?",
+            "identifier": "C130766",
+            "notation": "WD5D6_8",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Problem Doing Things for Relaxation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130766"
+        },
+        {
+            "alt_label": "WD5-Living Situation at Interview",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Living situation at time of interview.",
+            "identifier": "C130721",
+            "notation": "WD5F5",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Living Situation at Interview",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130721"
+        },
+        {
+            "alt_label": "WD5-How Many Days Difficulties Present",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - Overall, in the past 30 days, how many days were these difficulties present?",
+            "identifier": "C130767",
+            "notation": "WD5H1",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - How Many Days Difficulties Present",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130767"
+        },
+        {
+            "alt_label": "WD5-Days Unable to Carry Out Activities",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, for how many days were you totally unable to carry out your usual activities or work because of any health condition?",
+            "identifier": "C130768",
+            "notation": "WD5H2",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Days Unable to Carry Out Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130768"
+        },
+        {
+            "alt_label": "WD5-How Many Days Reduce Activities",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, not counting the days that you were totally unable, for how many days did you cut back or reduce your usual activities or work because of any health condition?",
+            "identifier": "C130769",
+            "notation": "WD5H3",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - How Many Days Reduce Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130769"
+        },
+        {
+            "alt_label": "WD5-Getting Out of Your Home",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Getting out of your home?",
+            "identifier": "C130736",
+            "notation": "WD5SD2_4",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Getting Out of Your Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130736"
+        },
+        {
+            "alt_label": "WD5-Walking a Long Distance",
+            "definition": "World Health Organization Disability Assessment Schedule 2.0 - 36-Item Interviewer - In the past 30 days, how much difficulty did you have in: Walking a long distance such as a kilometre [or equivalent]?",
+            "identifier": "C130737",
+            "notation": "WD5SD2_5",
+            "pref_label": "WHODAS 2.0 36-item Version Interviewer-administered - Walking a Long Distance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C130269-C130737"
+        }
+    ]
+}

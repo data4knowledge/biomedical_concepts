@@ -1,0 +1,316 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CSS09-Wish to be Dead",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Have you wished you were dead or wished you could go to sleep and not wake up?",
+            "identifier": "C111460",
+            "notation": "CSS0901",
+            "pref_label": "C-SSRS Screening - Wish to be Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111460"
+        },
+        {
+            "alt_label": "CSS09-Wish to be Dead, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Description of wishing to be dead.",
+            "identifier": "C111461",
+            "notation": "CSS0901A",
+            "pref_label": "C-SSRS Screening - Description of Wish to be Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111461"
+        },
+        {
+            "alt_label": "CSS09-Non-Spec Suicid Thought",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Have you actually had any thoughts of killing yourself?",
+            "identifier": "C111462",
+            "notation": "CSS0902",
+            "pref_label": "C-SSRS Screening - Non-Specific Active Suicidal Thoughts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111462"
+        },
+        {
+            "alt_label": "CSS09-Non-Spec Suicid Thought, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Description of non-specific active suicidal thoughts.",
+            "identifier": "C111463",
+            "notation": "CSS0902A",
+            "pref_label": "C-SSRS Screening - Description of Non-Specific Active Suicidal Thoughts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111463"
+        },
+        {
+            "alt_label": "CSS09-Idea, No Intent, No Plan",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Have you been thinking about how you might do this?",
+            "identifier": "C111464",
+            "notation": "CSS0903",
+            "pref_label": "C-SSRS Screening - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111464"
+        },
+        {
+            "alt_label": "CSS09-Idea, No Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Description of active suicidal ideation with any methods (not plan) without intent to act.",
+            "identifier": "C111465",
+            "notation": "CSS0903A",
+            "pref_label": "C-SSRS Screening - Description of Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111465"
+        },
+        {
+            "alt_label": "CSS09-Idea, Intent, No Plan",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Have you had these thoughts and had some intention of acting on them?",
+            "identifier": "C111466",
+            "notation": "CSS0904",
+            "pref_label": "C-SSRS Screening - Active Suicidal Ideation with Some Intent to Act, without Specific Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111466"
+        },
+        {
+            "alt_label": "CSS09-Idea, Intent, No Plan, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Description of active suicidal ideation with some intent to act, without specific plan.",
+            "identifier": "C111467",
+            "notation": "CSS0904A",
+            "pref_label": "C-SSRS Screening - Description of Active Suicidal Ideation with Some Intent to Act, without Specific Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111467"
+        },
+        {
+            "alt_label": "CSS09-Idea, Plan, Intent",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan?",
+            "identifier": "C111468",
+            "notation": "CSS0905",
+            "pref_label": "C-SSRS Screening - Active Suicidal Ideation with Specific Plan and Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111468"
+        },
+        {
+            "alt_label": "CSS09-Idea, Plan, Intent, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Description of active suicidal ideation with specific plan and intent.",
+            "identifier": "C111469",
+            "notation": "CSS0905A",
+            "pref_label": "C-SSRS Screening - Description of Active Suicidal Ideation with Specific Plan and Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111469"
+        },
+        {
+            "alt_label": "CSS09-Most Severe Idea",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Most severe ideation.",
+            "identifier": "C111470",
+            "notation": "CSS0906",
+            "pref_label": "C-SSRS Screening - Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111470"
+        },
+        {
+            "alt_label": "CSS09-Most Severe Idea, Desc",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Description of most severe ideation.",
+            "identifier": "C111471",
+            "notation": "CSS0906A",
+            "pref_label": "C-SSRS Screening - Describe Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111471"
+        },
+        {
+            "alt_label": "CSS09-Most Severe Idea, Frequency",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - How many times have you had these thoughts?",
+            "identifier": "C111472",
+            "notation": "CSS0907",
+            "pref_label": "C-SSRS Screening - Frequency of Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111472"
+        },
+        {
+            "alt_label": "CSS09-Most Severe Idea, Duration",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - When you have the thoughts, how long do they last?",
+            "identifier": "C111473",
+            "notation": "CSS0908",
+            "pref_label": "C-SSRS Screening - Duration of Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111473"
+        },
+        {
+            "alt_label": "CSS09-Most Severe Idea, Controllability",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Could/can you stop thinking about killing yourself or wanting to die if you want to?",
+            "identifier": "C111474",
+            "notation": "CSS0909",
+            "pref_label": "C-SSRS Screening - Controllability of Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111474"
+        },
+        {
+            "alt_label": "CSS09-Most Severe Idea, Deterrents",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Are there things-anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide?",
+            "identifier": "C111475",
+            "notation": "CSS0910",
+            "pref_label": "C-SSRS Screening - Deterrents to Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111475"
+        },
+        {
+            "alt_label": "CSS09-Most Severe Idea, Reasons",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both?",
+            "identifier": "C111476",
+            "notation": "CSS0911",
+            "pref_label": "C-SSRS Screening - Reasons for Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111476"
+        },
+        {
+            "alt_label": "CSS09-Actual Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died?",
+            "identifier": "C111477",
+            "notation": "CSS0912",
+            "pref_label": "C-SSRS Screening - Actual Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111477"
+        },
+        {
+            "alt_label": "CSS09-Number of Actual Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Total number of actual attempts.",
+            "identifier": "C111478",
+            "notation": "CSS0913",
+            "pref_label": "C-SSRS Screening - Number of Actual Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111478"
+        },
+        {
+            "alt_label": "CSS09-Actual Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Description of actual attempt.",
+            "identifier": "C111479",
+            "notation": "CSS0913A",
+            "pref_label": "C-SSRS Screening - Description of Actual Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111479"
+        },
+        {
+            "alt_label": "CSS09-Non-suicidal Self-injur Behav",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Has subject engaged in non-suicidal self-injurious behavior?",
+            "identifier": "C111480",
+            "notation": "CSS0914",
+            "pref_label": "C-SSRS Screening - Non-suicidal Self-injurious Behavior",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111480"
+        },
+        {
+            "alt_label": "CSS09-Interrupted Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Has there been a time when you started to do something to end your life but someone or something stopped you before you actually did anything?",
+            "identifier": "C111481",
+            "notation": "CSS0915",
+            "pref_label": "C-SSRS Screening - Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111481"
+        },
+        {
+            "alt_label": "CSS09-Number of Interrupt Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Total number of interrupted attempts.",
+            "identifier": "C111482",
+            "notation": "CSS0916",
+            "pref_label": "C-SSRS Screening - Number of Interrupted Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111482"
+        },
+        {
+            "alt_label": "CSS09-Interrupted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Description of interrupted attempt.",
+            "identifier": "C111483",
+            "notation": "CSS0916A",
+            "pref_label": "C-SSRS Screening - Description of Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111483"
+        },
+        {
+            "alt_label": "CSS09-Aborted Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything?",
+            "identifier": "C111484",
+            "notation": "CSS0917",
+            "pref_label": "C-SSRS Screening - Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111484"
+        },
+        {
+            "alt_label": "CSS09-Number of Aborted Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Total number of aborted attempts.",
+            "identifier": "C111485",
+            "notation": "CSS0918",
+            "pref_label": "C-SSRS Screening - Number of Aborted Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111485"
+        },
+        {
+            "alt_label": "CSS09-Aborted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Description of aborted attempt.",
+            "identifier": "C111486",
+            "notation": "CSS0918A",
+            "pref_label": "C-SSRS Screening - Description of Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111486"
+        },
+        {
+            "alt_label": "CSS09-Preparatory Acts/Behavior",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)?",
+            "identifier": "C111487",
+            "notation": "CSS0919",
+            "pref_label": "C-SSRS Screening - Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111487"
+        },
+        {
+            "alt_label": "CSS09-Preparatory Acts/Behavior, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Description of preparatory acts or behavior.",
+            "identifier": "C111488",
+            "notation": "CSS0919A",
+            "pref_label": "C-SSRS Screening - Description of Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111488"
+        },
+        {
+            "alt_label": "CSS09-Suicidal Behavior",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Suicidal behavior was present during the assessment period?",
+            "identifier": "C111489",
+            "notation": "CSS0920",
+            "pref_label": "C-SSRS Screening - Suicidal Behavior",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111489"
+        },
+        {
+            "alt_label": "CSS09-Most Recent Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Most recent attempt date.",
+            "identifier": "C111490",
+            "notation": "CSS0921A",
+            "pref_label": "C-SSRS Screening - Most Recent Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111490"
+        },
+        {
+            "alt_label": "CSS09-Most Recent Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Most recent attempt actual lethality/medical damage.",
+            "identifier": "C111491",
+            "notation": "CSS0921B",
+            "pref_label": "C-SSRS Screening - Most Recent Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111491"
+        },
+        {
+            "alt_label": "CSS09-Most Recent Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Most recent attempt potential lethality.",
+            "identifier": "C111492",
+            "notation": "CSS0921C",
+            "pref_label": "C-SSRS Screening - Most Recent Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111492"
+        },
+        {
+            "alt_label": "CSS09-Most Lethal Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Most lethal attempt date.",
+            "identifier": "C111493",
+            "notation": "CSS0922A",
+            "pref_label": "C-SSRS Screening - Most Lethal Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111493"
+        },
+        {
+            "alt_label": "CSS09-Most Lethal Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Most lethal attempt actual lethality/medical damage.",
+            "identifier": "C111494",
+            "notation": "CSS0922B",
+            "pref_label": "C-SSRS Screening - Most Lethal Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111494"
+        },
+        {
+            "alt_label": "CSS09-Most Lethal Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Most lethal attempt potential lethality.",
+            "identifier": "C111495",
+            "notation": "CSS0922C",
+            "pref_label": "C-SSRS Screening - Most Lethal Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111495"
+        },
+        {
+            "alt_label": "CSS09-First Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Initial/first attempt date.",
+            "identifier": "C111496",
+            "notation": "CSS0923A",
+            "pref_label": "C-SSRS Screening - First Suicide Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111496"
+        },
+        {
+            "alt_label": "CSS09-First Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Initial/first attempt actual lethality/medical damage.",
+            "identifier": "C111497",
+            "notation": "CSS0923B",
+            "pref_label": "C-SSRS Screening - First Suicide Attempt Actual Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111497"
+        },
+        {
+            "alt_label": "CSS09-First Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Screening - Initial/first attempt potential lethality.",
+            "identifier": "C111498",
+            "notation": "CSS0923C",
+            "pref_label": "C-SSRS Screening - First Suicide Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111342-C111498"
+        }
+    ]
+}

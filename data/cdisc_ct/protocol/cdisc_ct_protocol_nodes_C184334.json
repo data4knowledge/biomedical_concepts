@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Informed Assent",
+            "definition": "Assent given by a minor or adult who is unable to give informed consent on their own behalf, to participate in a clinical trial. Assent must be accompanied by consent from a parent or legal guardian for full participation in the study.",
+            "identifier": "C161418",
+            "notation": "Assent",
+            "pref_label": "Informed Assent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C184334-C161418"
+        },
+        {
+            "alt_label": "Informed Consent Document",
+            "definition": "A formal document explaining the potential risks and benefits of participation in a study and the rights and responsibilities of the parties involved, in a manner that is understandable to the subject or their legally authorized representative.",
+            "identifier": "C16468",
+            "notation": "Informed Consent Form",
+            "pref_label": "Consent Form",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C184334-C16468"
+        },
+        {
+            "alt_label": "Informed Consent Procedure",
+            "definition": "The procedure by which informed consent is obtained and documented by means of a written, signed, and dated informed consent form. This process may include obtaining assent from subjects with legally authorized representatives. (ICH GCP)",
+            "identifier": "C184390",
+            "notation": "Informed Consent Process",
+            "pref_label": "Informed Consent Process",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C184334-C184390"
+        }
+    ]
+}

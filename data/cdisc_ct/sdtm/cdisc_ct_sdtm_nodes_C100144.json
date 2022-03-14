@@ -1,0 +1,1228 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "NPI1-Beliefs Untrue",
+            "definition": "Neuropsychiatric Inventory - Does the patient have beliefs that you know are not true? (for example, insisting that people are trying to harm him/her or steal from him/her)? Has he/she said that family members are not who they say they are or that the house is not their home? I'm not asking about mere suspiciousness; I am interested if the patient is convinced that these things are happening to him/her.",
+            "identifier": "C100622",
+            "notation": "NPI1A",
+            "pref_label": "NPI - Have Beliefs That You Know are Not True",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100622"
+        },
+        {
+            "alt_label": "NPI1-In Danger",
+            "definition": "Neuropsychiatric Inventory - Does the patient believe that he/she is in danger - that others are planning to hurt him/her?",
+            "identifier": "C100623",
+            "notation": "NPI1A01",
+            "pref_label": "NPI - He/She is in Danger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100623"
+        },
+        {
+            "alt_label": "NPI1-Others Are Stealing",
+            "definition": "Neuropsychiatric Inventory - Does the patient believe that others are stealing from him/her?",
+            "identifier": "C100624",
+            "notation": "NPI1A02",
+            "pref_label": "NPI - Others are Stealing From Him/Her",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100624"
+        },
+        {
+            "alt_label": "NPI1-Spouse Having Affair",
+            "definition": "Neuropsychiatric Inventory - Does the patient believe that his/her spouse is having an affair?",
+            "identifier": "C100625",
+            "notation": "NPI1A03",
+            "pref_label": "NPI - His/Her Spouse is Having an Affair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100625"
+        },
+        {
+            "alt_label": "NPI1-Unwelcome Guests in House",
+            "definition": "Neuropsychiatric Inventory - Does the patient believe that unwelcome guests are living in his/her house?",
+            "identifier": "C100626",
+            "notation": "NPI1A04",
+            "pref_label": "NPI - Unwelcome Guests are Living in His/Her House",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100626"
+        },
+        {
+            "alt_label": "NPI1-People Not Who They Claim",
+            "definition": "Neuropsychiatric Inventory - Does the patient believe that his/her spouse or others are not who they claim to be?",
+            "identifier": "C100627",
+            "notation": "NPI1A05",
+            "pref_label": "NPI - His/Her Spouse or Others Are Not Who They Claim To Be",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100627"
+        },
+        {
+            "alt_label": "NPI1-House Not Their Home",
+            "definition": "Neuropsychiatric Inventory - Does the patient believe that his/her house is not his/her home?",
+            "identifier": "C100628",
+            "notation": "NPI1A06",
+            "pref_label": "NPI - His/Her House Is Not His/Her Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100628"
+        },
+        {
+            "alt_label": "NPI1-Family Plans to Abandon",
+            "definition": "Neuropsychiatric Inventory - Does the patient believe that family members plan to abandon him/her?",
+            "identifier": "C100629",
+            "notation": "NPI1A07",
+            "pref_label": "NPI - Family Members Plan to Abandon Him/Her",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100629"
+        },
+        {
+            "alt_label": "NPI1-TV/Magazine Figures Present",
+            "definition": "Neuropsychiatric Inventory - Does the patient believe that television or magazine figures are actually present in the home? (Does he/she try to talk or interact with them?)",
+            "identifier": "C100630",
+            "notation": "NPI1A08",
+            "pref_label": "NPI - Television or Magazine Figures Are Actually Present In the Home",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100630"
+        },
+        {
+            "alt_label": "NPI1-Other Unusual Beliefs",
+            "definition": "Neuropsychiatric Inventory - Does the patient believe any other unusual things that I haven't asked about?",
+            "identifier": "C100631",
+            "notation": "NPI1A09",
+            "pref_label": "NPI - Any Other Unusual Things That I Haven't Asked About",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100631"
+        },
+        {
+            "alt_label": "NPI1-Delusions Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the delusions.",
+            "identifier": "C103602",
+            "notation": "NPI1A10",
+            "pref_label": "NPI - Delusions Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103602"
+        },
+        {
+            "alt_label": "NPI1-Delusions Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the delusions.",
+            "identifier": "C103603",
+            "notation": "NPI1A11",
+            "pref_label": "NPI - Delusions Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103603"
+        },
+        {
+            "alt_label": "NPI1-Delusions Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103604",
+            "notation": "NPI1A12",
+            "pref_label": "NPI - Delusions Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103604"
+        },
+        {
+            "alt_label": "NPI1-Delusions FxS Score",
+            "definition": "Neuropsychiatric Inventory - Delusions: (frequency score x severity score).",
+            "identifier": "C112469",
+            "notation": "NPI1AFS",
+            "pref_label": "NPI - Delusions FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112469"
+        },
+        {
+            "alt_label": "NPI1-False Visions or Voices",
+            "definition": "Neuropsychiatric Inventory - Does the patient have hallucinations such as seeing false visions or hearing false voices? Does he/she seem to see, hear or experience things that are not present? By this question we do not mean just mistaken beliefs such as stating that someone who has died is still alive; rather we are asking if the patient actually has abnormal experiences of sounds or visions.",
+            "identifier": "C100632",
+            "notation": "NPI1B",
+            "pref_label": "NPI - Hallucinations Such as Seeing False Visions or Hearing False Voices",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100632"
+        },
+        {
+            "alt_label": "NPI1-Hearing Voices",
+            "definition": "Neuropsychiatric Inventory - Does the patient describe hearing voices or act as if he/she hears voices?",
+            "identifier": "C100633",
+            "notation": "NPI1B01",
+            "pref_label": "NPI - Describe Hearing Voices or Act as if He/She Hears Voices",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100633"
+        },
+        {
+            "alt_label": "NPI1-Talk to People Not There",
+            "definition": "Neuropsychiatric Inventory - Does the patient talk to people who are not there?",
+            "identifier": "C100634",
+            "notation": "NPI1B02",
+            "pref_label": "NPI - Talk to People Who Are Not There",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100634"
+        },
+        {
+            "alt_label": "NPI1-See Things Not Seen by Others",
+            "definition": "Neuropsychiatric Inventory - Does the patient describe seeing things not seen by others or behave as if he/she is seeing things not seen by others (people, animals, lights, etc.)?",
+            "identifier": "C100635",
+            "notation": "NPI1B03",
+            "pref_label": "NPI - Describe Seeing Things Not Seen by Others",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100635"
+        },
+        {
+            "alt_label": "NPI1-Smell Odors Others Do Not Smell",
+            "definition": "Neuropsychiatric Inventory - Does the patient report smelling odors not smelled by others?",
+            "identifier": "C100636",
+            "notation": "NPI1B04",
+            "pref_label": "NPI - Report Smelling Odors Not Smelled by Others",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100636"
+        },
+        {
+            "alt_label": "NPI1-Feel Things on Skin",
+            "definition": "Neuropsychiatric Inventory - Does the patient describe feeling things on his/her skin or otherwise appear to be feeling things crawling or touching him/her?",
+            "identifier": "C100637",
+            "notation": "NPI1B05",
+            "pref_label": "NPI - Describe Feeling Things on His/Her Skin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100637"
+        },
+        {
+            "alt_label": "NPI1-Taste without Known Cause",
+            "definition": "Neuropsychiatric Inventory - Does the patient describe tastes that are without any known cause?",
+            "identifier": "C100638",
+            "notation": "NPI1B06",
+            "pref_label": "NPI - Describe Tastes That Are Without Any Known Cause",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100638"
+        },
+        {
+            "alt_label": "NPI1-Other Unusual Sensory Experience",
+            "definition": "Neuropsychiatric Inventory - Does the patient describe any other unusual sensory experiences?",
+            "identifier": "C100639",
+            "notation": "NPI1B07",
+            "pref_label": "NPI - Describe Any Other Unusual Sensory Experiences",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100639"
+        },
+        {
+            "alt_label": "NPI1-Hallucinations Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the hallucinations.",
+            "identifier": "C103605",
+            "notation": "NPI1B08",
+            "pref_label": "NPI - Hallucinations Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103605"
+        },
+        {
+            "alt_label": "NPI1-Hallucinations Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the hallucinations.",
+            "identifier": "C103606",
+            "notation": "NPI1B09",
+            "pref_label": "NPI - Hallucinations Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103606"
+        },
+        {
+            "alt_label": "NPI1-Hallucinations Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103607",
+            "notation": "NPI1B10",
+            "pref_label": "NPI - Hallucinations Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103607"
+        },
+        {
+            "alt_label": "NPI1-Hallucinations FxS Score",
+            "definition": "Neuropsychiatric Inventory - Hallucinations: (frequency score x severity score).",
+            "identifier": "C112470",
+            "notation": "NPI1BFS",
+            "pref_label": "NPI - Hallucinations FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112470"
+        },
+        {
+            "alt_label": "NPI1-Refuse to Cooperate",
+            "definition": "Neuropsychiatric Inventory - Does the patient have periods when he/she refuses to cooperate or won't let people help him/her? Is he/she hard to handle?",
+            "identifier": "C100640",
+            "notation": "NPI1C",
+            "pref_label": "NPI - Periods When He/She Refuses to Cooperate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100640"
+        },
+        {
+            "alt_label": "NPI1-Get Upset with Caregiver",
+            "definition": "Neuropsychiatric Inventory - Does the patient get upset with those trying to care for him/her or resist activities such as bathing or changing clothes?",
+            "identifier": "C100641",
+            "notation": "NPI1C01",
+            "pref_label": "NPI - Get Upset with Those Trying to Care for Him/Her",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100641"
+        },
+        {
+            "alt_label": "NPI1-Stubborn",
+            "definition": "Neuropsychiatric Inventory - Is the patient stubborn, having to have things his/her way?",
+            "identifier": "C100642",
+            "notation": "NPI1C02",
+            "pref_label": "NPI - Stubborn",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100642"
+        },
+        {
+            "alt_label": "NPI1-Uncooperative",
+            "definition": "Neuropsychiatric Inventory - Is the patient uncooperative, resistive to help from others?",
+            "identifier": "C100643",
+            "notation": "NPI1C03",
+            "pref_label": "NPI - Uncooperative",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100643"
+        },
+        {
+            "alt_label": "NPI1-Other Behaviors Hard to Handle",
+            "definition": "Neuropsychiatric Inventory - Does the patient have any other behaviors that make him/her hard to handle?",
+            "identifier": "C100644",
+            "notation": "NPI1C04",
+            "pref_label": "NPI - Any Other Behaviors That Make Him/Her Hard to Handle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100644"
+        },
+        {
+            "alt_label": "NPI1-Shout or Curse Angrily",
+            "definition": "Neuropsychiatric Inventory - Does the patient shout or curse angrily?",
+            "identifier": "C100645",
+            "notation": "NPI1C05",
+            "pref_label": "NPI - Shout or Curse Angrily",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100645"
+        },
+        {
+            "alt_label": "NPI1-Slam, Kick or Throw Things",
+            "definition": "Neuropsychiatric Inventory - Does the patient slam doors, kick furniture, throw things?",
+            "identifier": "C100646",
+            "notation": "NPI1C06",
+            "pref_label": "NPI - Slam doors, Kick Furniture, Throw Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100646"
+        },
+        {
+            "alt_label": "NPI1-Hurt or Hit Others",
+            "definition": "Neuropsychiatric Inventory - Does the patient attempt to hurt or hit others?",
+            "identifier": "C100647",
+            "notation": "NPI1C07",
+            "pref_label": "NPI - Attempt to Hurt or Hit Others",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100647"
+        },
+        {
+            "alt_label": "NPI1-Other Aggressive Behavior",
+            "definition": "Neuropsychiatric Inventory - Does the patient have any other aggressive or agitated behaviors?",
+            "identifier": "C100648",
+            "notation": "NPI1C08",
+            "pref_label": "NPI - Any Other Aggressive or Agitated Behaviors",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100648"
+        },
+        {
+            "alt_label": "NPI1-Agitation/Aggression Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the agitation/aggression.",
+            "identifier": "C103608",
+            "notation": "NPI1C09",
+            "pref_label": "NPI - Agitation/Aggression Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103608"
+        },
+        {
+            "alt_label": "NPI1-Agitation/Aggression Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the agitation/aggression.",
+            "identifier": "C103609",
+            "notation": "NPI1C10",
+            "pref_label": "NPI - Agitation/Aggression Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103609"
+        },
+        {
+            "alt_label": "NPI1-Agitation/Aggression Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103610",
+            "notation": "NPI1C11",
+            "pref_label": "NPI - Agitation/Aggression Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103610"
+        },
+        {
+            "alt_label": "NPI1-Agitation/Aggression FxS Score",
+            "definition": "Neuropsychiatric Inventory - Agitation/Aggression: (frequency score x severity score).",
+            "identifier": "C112471",
+            "notation": "NPI1CFS",
+            "pref_label": "NPI - Agitation/Aggression FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112471"
+        },
+        {
+            "alt_label": "NPI1-Sad or Depressed",
+            "definition": "Neuropsychiatric Inventory - Does the patient seem sad or depressed? Does he/she say that he/she feels sad or depressed?",
+            "identifier": "C100649",
+            "notation": "NPI1D",
+            "pref_label": "NPI - Seem Sad or Depressed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100649"
+        },
+        {
+            "alt_label": "NPI1-Tearfulness or Sobbing",
+            "definition": "Neuropsychiatric Inventory - Does the patient have periods of tearfulness or sobbing that seem to indicate sadness?",
+            "identifier": "C100650",
+            "notation": "NPI1D01",
+            "pref_label": "NPI - Periods of Tearfulness or Sobbing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100650"
+        },
+        {
+            "alt_label": "NPI1-Say or Act in Low Spirits",
+            "definition": "Neuropsychiatric Inventory - Does the patient say, or act as if he/she is sad or in low spirits?",
+            "identifier": "C100651",
+            "notation": "NPI1D02",
+            "pref_label": "NPI - Say, or Act as if He/She is Sad or in Low Spirits",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100651"
+        },
+        {
+            "alt_label": "NPI1-Feel Like a Failure",
+            "definition": "Neuropsychiatric Inventory - Does the patient put him/herself down or say that he/she feels like a failure?",
+            "identifier": "C100652",
+            "notation": "NPI1D03",
+            "pref_label": "NPI - Put Him/Herself Down or Say That He/She Feels Like a Failure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100652"
+        },
+        {
+            "alt_label": "NPI1-Bad Person",
+            "definition": "Neuropsychiatric Inventory - Does the patient say that he/she is a bad person or deserves to be punished?",
+            "identifier": "C100653",
+            "notation": "NPI1D04",
+            "pref_label": "NPI - Say That He/She is a Bad Person",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100653"
+        },
+        {
+            "alt_label": "NPI1-Discouraged",
+            "definition": "Neuropsychiatric Inventory - Does the patient seem very discouraged or say that he/she has no future?",
+            "identifier": "C100654",
+            "notation": "NPI1D05",
+            "pref_label": "NPI - Seem Very Discouraged",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100654"
+        },
+        {
+            "alt_label": "NPI1-Burden to Family",
+            "definition": "Neuropsychiatric Inventory - Does the patient say he/she is a burden to the family or that the family would be better off without him/her?",
+            "identifier": "C100655",
+            "notation": "NPI1D06",
+            "pref_label": "NPI - Say He/She is a Burden to the Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100655"
+        },
+        {
+            "alt_label": "NPI1-Wish for Death",
+            "definition": "Neuropsychiatric Inventory - Does the patient express a wish for death or talk about killing himself/herself?",
+            "identifier": "C100656",
+            "notation": "NPI1D07",
+            "pref_label": "NPI - Express a Wish for Death",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100656"
+        },
+        {
+            "alt_label": "NPI1-Other Signs of Depression",
+            "definition": "Neuropsychiatric Inventory - Does the patient show any other signs of depression or sadness?",
+            "identifier": "C100657",
+            "notation": "NPI1D08",
+            "pref_label": "NPI - Show Any Other Signs of Depression or Sadness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100657"
+        },
+        {
+            "alt_label": "NPI1-Depression/Dysphoria Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the depression/dysphoria.",
+            "identifier": "C103611",
+            "notation": "NPI1D09",
+            "pref_label": "NPI - Depression/Dysphoria Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103611"
+        },
+        {
+            "alt_label": "NPI1-Depression/Dysphoria Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the depression/dysphoria.",
+            "identifier": "C103612",
+            "notation": "NPI1D10",
+            "pref_label": "NPI - Depression/Dysphoria Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103612"
+        },
+        {
+            "alt_label": "NPI1-Depression/Dysphoria Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103613",
+            "notation": "NPI1D11",
+            "pref_label": "NPI - Depression/Dysphoria Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103613"
+        },
+        {
+            "alt_label": "NPI1-Depression/Dysphoria FxS Score",
+            "definition": "Neuropsychiatric Inventory - Depression/Dysphoria: (frequency score x severity score).",
+            "identifier": "C112472",
+            "notation": "NPI1DFS",
+            "pref_label": "NPI - Depression/Dysphoria FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112472"
+        },
+        {
+            "alt_label": "NPI1-NPI Total Distress Score",
+            "definition": "Neuropsychiatric Inventory - Sub-total of distress score.",
+            "identifier": "C112482",
+            "notation": "NPI1DIST",
+            "pref_label": "NPI - NPI Total Distress Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112482"
+        },
+        {
+            "alt_label": "NPI1-Nervous or Worried",
+            "definition": "Neuropsychiatric Inventory - Is the patient very nervous, worried, or frightened for no apparent reason? Does he/she seem very tense or fidgety? Is the patient afraid to be apart from you?",
+            "identifier": "C100658",
+            "notation": "NPI1E",
+            "pref_label": "NPI - Very Nervous, Worried, or Frightened for No Apparent Reason",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100658"
+        },
+        {
+            "alt_label": "NPI1-Worried about Planned Event",
+            "definition": "Neuropsychiatric Inventory - Does the patient say that he/she is worried about planned events?",
+            "identifier": "C100659",
+            "notation": "NPI1E01",
+            "pref_label": "NPI - Say That He/She is Worried About Planned Events",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100659"
+        },
+        {
+            "alt_label": "NPI1-Shaky or Unable to Relax",
+            "definition": "Neuropsychiatric Inventory - Does the patient have periods of feeling shaky, unable to relax, or feeling excessively tense?",
+            "identifier": "C100660",
+            "notation": "NPI1E02",
+            "pref_label": "NPI - Periods of Feeling Shaky, Unable to Relax, or Feeling Excessively Tense",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100660"
+        },
+        {
+            "alt_label": "NPI1-Short of Breath, Gasp, Sigh",
+            "definition": "Neuropsychiatric Inventory - Does the patient have periods of (or complain of) shortness of breath, gasping, or sighing for no apparent reason other than nervousness?",
+            "identifier": "C100661",
+            "notation": "NPI1E03",
+            "pref_label": "NPI - Periods of Shortness of Breath, Gasping, or Sighing for No Apparent Reason",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100661"
+        },
+        {
+            "alt_label": "NPI1-Butterflies or Racing Heart",
+            "definition": "Neuropsychiatric Inventory - Does the patient complain of butterflies in his/her stomach, or of racing or pounding of the heart in association with nervousness? (Symptoms not explained by ill health).",
+            "identifier": "C100662",
+            "notation": "NPI1E04",
+            "pref_label": "NPI - Complain of Butterflies, Racing or Pounding Heart",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100662"
+        },
+        {
+            "alt_label": "NPI1-Avoid Places or Situations",
+            "definition": "Neuropsychiatric Inventory - Does the patient avoid certain places or situations that make him/her more nervous such as riding in the car, meeting with friends, or being in crowds?",
+            "identifier": "C100663",
+            "notation": "NPI1E05",
+            "pref_label": "NPI - Avoid Certain Places or Situations That Make Him/Her More Nervous",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100663"
+        },
+        {
+            "alt_label": "NPI1-Nervous when Separated",
+            "definition": "Neuropsychiatric Inventory - Does the patient become nervous and upset when separated from you (or his/her caregiver)? (Does he/she cling to you to keep from being separated?).",
+            "identifier": "C100664",
+            "notation": "NPI1E06",
+            "pref_label": "NPI - Become Nervous and Upset When Separated From You",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100664"
+        },
+        {
+            "alt_label": "NPI1-Other Signs of Anxiety",
+            "definition": "Neuropsychiatric Inventory - Does the patient show any other signs of anxiety?",
+            "identifier": "C100665",
+            "notation": "NPI1E07",
+            "pref_label": "NPI - Show Any Other Signs of Anxiety",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100665"
+        },
+        {
+            "alt_label": "NPI1-Anxiety Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the anxiety.",
+            "identifier": "C103614",
+            "notation": "NPI1E08",
+            "pref_label": "NPI - Anxiety Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103614"
+        },
+        {
+            "alt_label": "NPI1-Anxiety Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the anxiety.",
+            "identifier": "C103615",
+            "notation": "NPI1E09",
+            "pref_label": "NPI - Anxiety Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103615"
+        },
+        {
+            "alt_label": "NPI1-Anxiety Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103616",
+            "notation": "NPI1E10",
+            "pref_label": "NPI - Anxiety Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103616"
+        },
+        {
+            "alt_label": "NPI1-Anxiety FxS Score",
+            "definition": "Neuropsychiatric Inventory - Anxiety: (frequency score x severity score).",
+            "identifier": "C112473",
+            "notation": "NPI1EFS",
+            "pref_label": "NPI - Anxiety FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112473"
+        },
+        {
+            "alt_label": "NPI1-Too Cheerful or Happy",
+            "definition": "Neuropsychiatric Inventory - Does the patient seem too cheerful or too happy for no reason? I don't mean the normal happiness that comes from seeing friends, receiving presents, or spending time with family members. I am asking if the patient has a persistent and abnormally good mood or finds humor where others do not.",
+            "identifier": "C100666",
+            "notation": "NPI1F",
+            "pref_label": "NPI - Seem Too Cheerful or Too Happy for No Reason",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100666"
+        },
+        {
+            "alt_label": "NPI1-Feel Good or Too Happy",
+            "definition": "Neuropsychiatric Inventory - Does the patient appear to feel good or to be too happy, different from his/her usual self?",
+            "identifier": "C100667",
+            "notation": "NPI1F01",
+            "pref_label": "NPI - Appear to Feel Good or to Be Too Happy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100667"
+        },
+        {
+            "alt_label": "NPI1-Humor Others Do Not Find Funny",
+            "definition": "Neuropsychiatric Inventory - Does the patient find humor and laugh at things that others do not find funny?",
+            "identifier": "C100668",
+            "notation": "NPI1F02",
+            "pref_label": "NPI - Fine Humor and Laugh at Things That Others Do Not Find Funny",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100668"
+        },
+        {
+            "alt_label": "NPI1-Childish Sense of Humor",
+            "definition": "Neuropsychiatric Inventory - Does the patient seem to have a childish sense of humor with a tendency to giggle or laugh inappropriately (such as when something unfortunate happens to others)?",
+            "identifier": "C100669",
+            "notation": "NPI1F03",
+            "pref_label": "NPI - Seem to Have a Childish Sense of Humor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100669"
+        },
+        {
+            "alt_label": "NPI1-Jokes Others Do Not Find Funny",
+            "definition": "Neuropsychiatric Inventory - Does the patient tell jokes or make remarks that are not funny to others but seem funny to him/her?",
+            "identifier": "C100670",
+            "notation": "NPI1F04",
+            "pref_label": "NPI - Tell Jokes or Make Remarks That are Not Funny to Others",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100670"
+        },
+        {
+            "alt_label": "NPI1-Childish Pranks",
+            "definition": "Neuropsychiatric Inventory - Does he/she play childish pranks such as pinching or playing \"keep away\" for the fun of it?",
+            "identifier": "C100671",
+            "notation": "NPI1F05",
+            "pref_label": "NPI - Play Childish Pranks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100671"
+        },
+        {
+            "alt_label": "NPI1-Talk Big",
+            "definition": "Neuropsychiatric Inventory - Does the patient \"talk big\" or claim to have more abilities or wealth than is true?",
+            "identifier": "C100672",
+            "notation": "NPI1F06",
+            "pref_label": "NPI - Talk Big or Claim to Have More Abilities or Wealth Than is True",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100672"
+        },
+        {
+            "alt_label": "NPI1-Other Signs of Feeling Too Happy",
+            "definition": "Neuropsychiatric Inventory - Does the patient show any other signs of feeling too good or being too happy?",
+            "identifier": "C100673",
+            "notation": "NPI1F07",
+            "pref_label": "NPI - Show Any Other Signs of Feeling Too Good or Being Too Happy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100673"
+        },
+        {
+            "alt_label": "NPI1-Elation/Euphoria Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the elation/euphoria.",
+            "identifier": "C103617",
+            "notation": "NPI1F08",
+            "pref_label": "NPI - Elation/Euphoria Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103617"
+        },
+        {
+            "alt_label": "NPI1-Elation/Euphoria Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the elation/euphoria.",
+            "identifier": "C103618",
+            "notation": "NPI1F09",
+            "pref_label": "NPI - Elation/Euphoria Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103618"
+        },
+        {
+            "alt_label": "NPI1-Elation/Euphoria Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103619",
+            "notation": "NPI1F10",
+            "pref_label": "NPI - Elation/Euphoria Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103619"
+        },
+        {
+            "alt_label": "NPI1-Elation/Euphoria FxS Score",
+            "definition": "Neuropsychiatric Inventory - Elation/Euphoria: (frequency score x severity score).",
+            "identifier": "C112474",
+            "notation": "NPI1FFS",
+            "pref_label": "NPI - Elation/Euphoria FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112474"
+        },
+        {
+            "alt_label": "NPI1-Lost Interest in World",
+            "definition": "Neuropsychiatric Inventory - Has the patient lost interest in the world around him/her? Has he/she lost interest in doing things or does he/she lack motivation for starting new activities? Is he/she more difficult to engage in conversation or in doing chores? Is the patient apathetic or indifferent?",
+            "identifier": "C100674",
+            "notation": "NPI1G",
+            "pref_label": "NPI - Lost Interest in the World Around Him/Her",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100674"
+        },
+        {
+            "alt_label": "NPI1-Less Spontaneous or Active",
+            "definition": "Neuropsychiatric Inventory - Does the patient seem less spontaneous and less active than usual?",
+            "identifier": "C100675",
+            "notation": "NPI1G01",
+            "pref_label": "NPI - Seem Less Spontaneous and Less Active Than Usual",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100675"
+        },
+        {
+            "alt_label": "NPI1-Less Likely Initiate Conversation",
+            "definition": "Neuropsychiatric Inventory - Is the patient less likely to initiate a conversation?",
+            "identifier": "C100676",
+            "notation": "NPI1G02",
+            "pref_label": "NPI - Less Likely Initiate to Initiate a Conversation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100676"
+        },
+        {
+            "alt_label": "NPI1-Less Affectionate",
+            "definition": "Neuropsychiatric Inventory - Is the patient less affectionate or lacking in emotions when compared to his/her usual self?",
+            "identifier": "C100677",
+            "notation": "NPI1G03",
+            "pref_label": "NPI - Less Affectionate or Lacking in Emotions",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100677"
+        },
+        {
+            "alt_label": "NPI1-Contribute Less to Chores",
+            "definition": "Neuropsychiatric Inventory - Does the patient contribute less to household chores?",
+            "identifier": "C100678",
+            "notation": "NPI1G04",
+            "pref_label": "NPI - Contribute Less to Household Chores",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100678"
+        },
+        {
+            "alt_label": "NPI1-Less Interest in Activities",
+            "definition": "Neuropsychiatric Inventory - Does the patient seem less interested in the activities and plans of others?",
+            "identifier": "C100679",
+            "notation": "NPI1G05",
+            "pref_label": "NPI - Less Interested in the Activities and Plans of Others",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100679"
+        },
+        {
+            "alt_label": "NPI1-Lost Interest in Friends",
+            "definition": "Neuropsychiatric Inventory - Has the patient lost interest in friends and family members?",
+            "identifier": "C100680",
+            "notation": "NPI1G06",
+            "pref_label": "NPI - Lost Interest in Friends and Family Members",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100680"
+        },
+        {
+            "alt_label": "NPI1-Less Enthusiastic",
+            "definition": "Neuropsychiatric Inventory - Is the patient less enthusiastic about his/her usual interests?",
+            "identifier": "C100681",
+            "notation": "NPI1G07",
+            "pref_label": "NPI - Less Enthusiastic About His/Her Usual Interests",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100681"
+        },
+        {
+            "alt_label": "NPI1-Other Signs of Not Caring",
+            "definition": "Neuropsychiatric Inventory - Does the patient show any other signs that he/she doesn't care about doing new things?",
+            "identifier": "C100682",
+            "notation": "NPI1G08",
+            "pref_label": "NPI - Show Any Other Signs That He/She Doesn't Care About Doing New Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100682"
+        },
+        {
+            "alt_label": "NPI1-Apathy/Indifference Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the apathy/indifference.",
+            "identifier": "C103620",
+            "notation": "NPI1G09",
+            "pref_label": "NPI - Apathy/Indifference Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103620"
+        },
+        {
+            "alt_label": "NPI1-Apathy/Indifference Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the apathy/indifference.",
+            "identifier": "C103621",
+            "notation": "NPI1G10",
+            "pref_label": "NPI - Apathy/Indifference Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103621"
+        },
+        {
+            "alt_label": "NPI1-Apathy/Indifference Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103622",
+            "notation": "NPI1G11",
+            "pref_label": "NPI - Apathy/Indifference Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103622"
+        },
+        {
+            "alt_label": "NPI1-Apathy/Indifference FxS Score",
+            "definition": "Neuropsychiatric Inventory - Apathy/Indifference: (frequency score x severity score).",
+            "identifier": "C112475",
+            "notation": "NPI1GFS",
+            "pref_label": "NPI - Apathy/Indifference FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112475"
+        },
+        {
+            "alt_label": "NPI1-Act Impulsively",
+            "definition": "Neuropsychiatric Inventory - Does the patient seem to act impulsively without thinking? Does he/she do or say things that are not usually done or said in public? Does he/she do things that are embarrassing to you or others?",
+            "identifier": "C100683",
+            "notation": "NPI1H",
+            "pref_label": "NPI - Seem to Act Impulsively Without Thinking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100683"
+        },
+        {
+            "alt_label": "NPI1-Act Impulsively without Care",
+            "definition": "Neuropsychiatric Inventory - Does the patient act impulsively without appearing to consider the consequences?",
+            "identifier": "C100684",
+            "notation": "NPI1H01",
+            "pref_label": "NPI - Act Impulsively without Appearing to Consider the Consequences",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100684"
+        },
+        {
+            "alt_label": "NPI1-Talk to Strangers",
+            "definition": "Neuropsychiatric Inventory - Does the patient talk to total strangers as if he/she knew them?",
+            "identifier": "C100685",
+            "notation": "NPI1H02",
+            "pref_label": "NPI - Talk to Total Strangers as if He/She Knew Them",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100685"
+        },
+        {
+            "alt_label": "NPI1-Say Insensitive Things",
+            "definition": "Neuropsychiatric Inventory - Does the patient say things to people that are insensitive or hurt their feelings?",
+            "identifier": "C100686",
+            "notation": "NPI1H03",
+            "pref_label": "NPI - Say Things to People that are Insensitive",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100686"
+        },
+        {
+            "alt_label": "NPI1-Make Crude Remarks",
+            "definition": "Neuropsychiatric Inventory - Does the patient say crude things or make sexual remarks that he/she would not usually have said?",
+            "identifier": "C100687",
+            "notation": "NPI1H04",
+            "pref_label": "NPI - Say Crude Things or Make Sexual Remarks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100687"
+        },
+        {
+            "alt_label": "NPI1-Talk Openly about Private Matters",
+            "definition": "Neuropsychiatric Inventory - Does the patient talk openly about very personal or private matters not usually discussed in public?",
+            "identifier": "C100688",
+            "notation": "NPI1H05",
+            "pref_label": "NPI - Talk Openly About Very Personal or Private Matters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100688"
+        },
+        {
+            "alt_label": "NPI1-Take Liberties or Touch Others",
+            "definition": "Neuropsychiatric Inventory - Does the patient take liberties or touch or hug others in a way that is out of character for him/her?",
+            "identifier": "C100689",
+            "notation": "NPI1H06",
+            "pref_label": "NPI - Take Liberties or Touch or Hug Others",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100689"
+        },
+        {
+            "alt_label": "NPI1-Other Signs of Impulses",
+            "definition": "Neuropsychiatric Inventory - Does the patient show any other signs of loss of control of his/her impulses?",
+            "identifier": "C100690",
+            "notation": "NPI1H07",
+            "pref_label": "NPI - Show Any Other Signs of Loss of Control of His/Her Impulses",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100690"
+        },
+        {
+            "alt_label": "NPI1-Disinhibition Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the disinhibition.",
+            "identifier": "C103623",
+            "notation": "NPI1H08",
+            "pref_label": "NPI - Disinhibition Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103623"
+        },
+        {
+            "alt_label": "NPI1-Disinhibition Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the disinhibition.",
+            "identifier": "C103624",
+            "notation": "NPI1H09",
+            "pref_label": "NPI - Disinhibition Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103624"
+        },
+        {
+            "alt_label": "NPI1-Disinhibition Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103625",
+            "notation": "NPI1H10",
+            "pref_label": "NPI - Disinhibition Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103625"
+        },
+        {
+            "alt_label": "NPI1-Disinhibition FxS Score",
+            "definition": "Neuropsychiatric Inventory - Disinhibition: (frequency score x severity score).",
+            "identifier": "C112476",
+            "notation": "NPI1HFS",
+            "pref_label": "NPI - Disinhibition FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112476"
+        },
+        {
+            "alt_label": "NPI1-Irritated and Easily Disturbed",
+            "definition": "Neuropsychiatric Inventory - Does the patient get irritated and easily disturbed? Are his/her moods very changeable? Is he/she abnormally impatient? We do not mean frustration over memory loss or inability to perform usual tasks; we are interested to know if the patient has abnormal irritability, impatience, or rapid emotional changes different from his/her usual self.",
+            "identifier": "C100691",
+            "notation": "NPI1I",
+            "pref_label": "NPI - Get Irritated and Easily Disturbed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100691"
+        },
+        {
+            "alt_label": "NPI1-Bad Temper",
+            "definition": "Neuropsychiatric Inventory - Does the patient have a bad temper, flying \"off the handle\" easily over little things?",
+            "identifier": "C100692",
+            "notation": "NPI1I01",
+            "pref_label": "NPI - Bad Temper, Flying 'Off the Handle' Easily Over Little Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100692"
+        },
+        {
+            "alt_label": "NPI1-Rapidly Change Moods",
+            "definition": "Neuropsychiatric Inventory - Does the patient rapidly change moods from one to another, being fine one minute and angry the next?",
+            "identifier": "C100693",
+            "notation": "NPI1I02",
+            "pref_label": "NPI - Rapidly Change Moods From One to Another",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100693"
+        },
+        {
+            "alt_label": "NPI1-Sudden Anger",
+            "definition": "Neuropsychiatric Inventory - Does the patient have sudden flashes of anger?",
+            "identifier": "C100694",
+            "notation": "NPI1I03",
+            "pref_label": "NPI - Sudden Flares of Anger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100694"
+        },
+        {
+            "alt_label": "NPI1-Impatient",
+            "definition": "Neuropsychiatric Inventory - Is the patient impatient, having trouble coping with delays or waiting for planned activities?",
+            "identifier": "C100695",
+            "notation": "NPI1I04",
+            "pref_label": "NPI - Impatient, Having Trouble Coping with Delays",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100695"
+        },
+        {
+            "alt_label": "NPI1-Cranky and Irritable",
+            "definition": "Neuropsychiatric Inventory - Is the patient cranky and irritable?",
+            "identifier": "C100696",
+            "notation": "NPI1I05",
+            "pref_label": "NPI - Cranky and Irritable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100696"
+        },
+        {
+            "alt_label": "NPI1-Argumentative",
+            "definition": "Neuropsychiatric Inventory - Is the patient argumentative and difficult to get along with?",
+            "identifier": "C100697",
+            "notation": "NPI1I06",
+            "pref_label": "NPI - Argumentative and Difficult to Get Along With",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100697"
+        },
+        {
+            "alt_label": "NPI1-Other Signs of Irritability",
+            "definition": "Neuropsychiatric Inventory - Does the patient show any other signs of irritability?",
+            "identifier": "C100698",
+            "notation": "NPI1I07",
+            "pref_label": "NPI - Show Any Other Signs of Irritability",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100698"
+        },
+        {
+            "alt_label": "NPI1-Irritability/Lability Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the irritability/lability.",
+            "identifier": "C103626",
+            "notation": "NPI1I08",
+            "pref_label": "NPI - Irritability/Lability Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103626"
+        },
+        {
+            "alt_label": "NPI1-Irritability/Lability Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the irritability/lability.",
+            "identifier": "C103627",
+            "notation": "NPI1I09",
+            "pref_label": "NPI - Irritability/Lability Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103627"
+        },
+        {
+            "alt_label": "NPI1-Irritability/Lability Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103628",
+            "notation": "NPI1I10",
+            "pref_label": "NPI - Irritability/Lability Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103628"
+        },
+        {
+            "alt_label": "NPI1-Irritability/Lability FxS Score",
+            "definition": "Neuropsychiatric Inventory - Irritability/Lability: (frequency score x severity score).",
+            "identifier": "C112477",
+            "notation": "NPI1IFS",
+            "pref_label": "NPI - Irritability/Lability FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112477"
+        },
+        {
+            "alt_label": "NPI1-Do Things Repeatedly",
+            "definition": "Neuropsychiatric Inventory - Does the patient pace, do things over and over such as opening closets or drawers, or repeatedly pick at things or wind string or threads?",
+            "identifier": "C100699",
+            "notation": "NPI1J",
+            "pref_label": "NPI - Pace, Do Things Over and Over, Repeatedly Pick at Things",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100699"
+        },
+        {
+            "alt_label": "NPI1-Pace",
+            "definition": "Neuropsychiatric Inventory - Does the patient pace around the house without apparent purpose?",
+            "identifier": "C100700",
+            "notation": "NPI1J01",
+            "pref_label": "NPI - Pace Around the House Without Apparent Purpose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100700"
+        },
+        {
+            "alt_label": "NPI1-Rummage Around and Unpack",
+            "definition": "Neuropsychiatric Inventory - Does the patient rummage around opening and unpacking drawers or closets?",
+            "identifier": "C100701",
+            "notation": "NPI1J02",
+            "pref_label": "NPI - Rummage Around Opening and Unpacking Drawers or Closets",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100701"
+        },
+        {
+            "alt_label": "NPI1-Repeatedly Change Clothing",
+            "definition": "Neuropsychiatric Inventory - Does the patient repeatedly put on and take off clothing?",
+            "identifier": "C100702",
+            "notation": "NPI1J03",
+            "pref_label": "NPI - Repeatedly Put On and Take Off Clothing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100702"
+        },
+        {
+            "alt_label": "NPI1-Repetitive Activities or Habits",
+            "definition": "Neuropsychiatric Inventory - Does the patient have repetitive activities or \"habits\" that he/she performs over and over?",
+            "identifier": "C100703",
+            "notation": "NPI1J04",
+            "pref_label": "NPI - Repetitive Activities or 'Habits'",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100703"
+        },
+        {
+            "alt_label": "NPI1-Repetitive Activities",
+            "definition": "Neuropsychiatric Inventory - Does the patient engage in repetitive activities such as handling buttons, picking, wrapping string, etc.?",
+            "identifier": "C100704",
+            "notation": "NPI1J05",
+            "pref_label": "NPI - Engage in Repetitive Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100704"
+        },
+        {
+            "alt_label": "NPI1-Fidget Excessively",
+            "definition": "Neuropsychiatric Inventory - Does the patient fidget excessively, seem unable to sit still, or bounce his/her feet or tap his/her fingers a lot?",
+            "identifier": "C100705",
+            "notation": "NPI1J06",
+            "pref_label": "NPI - Fidget Excessively, Seem Unable to Sit Still",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100705"
+        },
+        {
+            "alt_label": "NPI1-Other Repetitive Activities",
+            "definition": "Neuropsychiatric Inventory - Does the patient do any other activities over and over?",
+            "identifier": "C100706",
+            "notation": "NPI1J07",
+            "pref_label": "NPI - Do Any Other Activities Over and Over",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100706"
+        },
+        {
+            "alt_label": "NPI1-Aberrant Motor Behavior Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the aberrant motor behavior.",
+            "identifier": "C103629",
+            "notation": "NPI1J08",
+            "pref_label": "NPI - Aberrant Motor Behavior Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103629"
+        },
+        {
+            "alt_label": "NPI1-Aberrant Motor Behavior Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the aberrant motor behavior.",
+            "identifier": "C103630",
+            "notation": "NPI1J09",
+            "pref_label": "NPI - Aberrant Motor Behavior Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103630"
+        },
+        {
+            "alt_label": "NPI1-Aberrant Motor Behavior Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103631",
+            "notation": "NPI1J10",
+            "pref_label": "NPI - Aberrant Motor Behavior Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103631"
+        },
+        {
+            "alt_label": "NPI1-Aberrant Motor Behavior FxS Score",
+            "definition": "Neuropsychiatric Inventory - Aberrant Motor Behavior: (frequency score x severity score).",
+            "identifier": "C112478",
+            "notation": "NPI1JFS",
+            "pref_label": "NPI - Aberrant Motor Behavior FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112478"
+        },
+        {
+            "alt_label": "NPI1-Difficulty Sleeping",
+            "definition": "Neuropsychiatric Inventory - Does the patient have difficulty sleeping (do not count as present if the patient simply gets up once or twice per night to go the bathroom and falls back asleep immediately)? Is he/she up at night? Does he/she wander at night, get dressed, or disturb your sleep?",
+            "identifier": "C100707",
+            "notation": "NPI1K",
+            "pref_label": "NPI - Difficulty Sleeping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100707"
+        },
+        {
+            "alt_label": "NPI1-Difficulty Falling Asleep",
+            "definition": "Neuropsychiatric Inventory - Does the patient have difficulty falling asleep?",
+            "identifier": "C100708",
+            "notation": "NPI1K01",
+            "pref_label": "NPI - Difficulty Falling Asleep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100708"
+        },
+        {
+            "alt_label": "NPI1-Get Up during Night",
+            "definition": "Neuropsychiatric Inventory - Does the patient get up during the night (do not count if the patient gets up once or twice per night only to go to the bathroom and falls back asleep immediately)?",
+            "identifier": "C100709",
+            "notation": "NPI1K02",
+            "pref_label": "NPI - Get Up During the Night",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100709"
+        },
+        {
+            "alt_label": "NPI1-Wander or Pace at Night",
+            "definition": "Neuropsychiatric Inventory - Does the patient wander, pace or get involved in inappropriate activities at night?",
+            "identifier": "C100710",
+            "notation": "NPI1K03",
+            "pref_label": "NPI - Wander, Pace or Get Involved in Inappropriate Activities at Night",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100710"
+        },
+        {
+            "alt_label": "NPI1-Awaken Caregiver during Night",
+            "definition": "Neuropsychiatric Inventory - Does the patient awaken you during the night?",
+            "identifier": "C100711",
+            "notation": "NPI1K04",
+            "pref_label": "NPI - Awaken You During the Night",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100711"
+        },
+        {
+            "alt_label": "NPI1-Wake at Night and Think Morning",
+            "definition": "Neuropsychiatric Inventory - Does the patient wake up at night, dress, and plan to go out thinking that it is morning and time to start the day?",
+            "identifier": "C100712",
+            "notation": "NPI1K05",
+            "pref_label": "NPI - Wake Up at Night, Dress, and Plan to Go Out",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100712"
+        },
+        {
+            "alt_label": "NPI1-Awaken Too Early in Morning",
+            "definition": "Neuropsychiatric Inventory - Does the patient awaken too early in the morning (earlier than was his/her habit)?",
+            "identifier": "C100713",
+            "notation": "NPI1K06",
+            "pref_label": "NPI - Awaken Too Early in Morning",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100713"
+        },
+        {
+            "alt_label": "NPI1-Excessive Sleep during Day",
+            "definition": "Neuropsychiatric Inventory - Does the patient sleep excessively during the day?",
+            "identifier": "C100714",
+            "notation": "NPI1K07",
+            "pref_label": "NPI - Sleep Excessively During the Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100714"
+        },
+        {
+            "alt_label": "NPI1-Other Nighttime Behaviors",
+            "definition": "Neuropsychiatric Inventory - Does the patient have any other nighttime behaviors that bother you that we haven't talked about?",
+            "identifier": "C100715",
+            "notation": "NPI1K08",
+            "pref_label": "NPI - Any Other Nighttime Behaviors That Bother You",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100715"
+        },
+        {
+            "alt_label": "NPI1-Sleep/Nighttime Behavior Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the nighttime behavior.",
+            "identifier": "C103632",
+            "notation": "NPI1K09",
+            "pref_label": "NPI - Sleep and Nighttime Behavior Disorders Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103632"
+        },
+        {
+            "alt_label": "NPI1-Sleep/Nighttime Behavior Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the nighttime behavior.",
+            "identifier": "C103633",
+            "notation": "NPI1K10",
+            "pref_label": "NPI - Sleep and Nighttime Behavior Disorders Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103633"
+        },
+        {
+            "alt_label": "NPI1-Sleep/Nighttime Behavior Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103634",
+            "notation": "NPI1K11",
+            "pref_label": "NPI - Sleep and Nighttime Behavior Disorders Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103634"
+        },
+        {
+            "alt_label": "NPI1-Sleep/Night Behav Disord FxS Score",
+            "definition": "Neuropsychiatric Inventory - Sleep and Nighttime Behavior Disorders: (frequency score x severity score).",
+            "identifier": "C112479",
+            "notation": "NPI1KFS",
+            "pref_label": "NPI - Sleep/Night Behavior Disorder FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112479"
+        },
+        {
+            "alt_label": "NPI1-Change in Appetite or Weight",
+            "definition": "Neuropsychiatric Inventory - Has he/she had any change in appetite, weight, or eating habits (count as NA if the patient is incapacitated and has to be fed)? Has there been any change in the type of food he/she prefers?",
+            "identifier": "C100716",
+            "notation": "NPI1L",
+            "pref_label": "NPI - Change in Appetite, Weight, or Eating Habits",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100716"
+        },
+        {
+            "alt_label": "NPI1-Loss of Appetite",
+            "definition": "Neuropsychiatric Inventory - Has he/she had a loss of appetite?",
+            "identifier": "C100717",
+            "notation": "NPI1L01",
+            "pref_label": "NPI - Loss of Appetite",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100717"
+        },
+        {
+            "alt_label": "NPI1-Increase in Appetite",
+            "definition": "Neuropsychiatric Inventory - Has he/she had an increase in appetite?",
+            "identifier": "C100718",
+            "notation": "NPI1L02",
+            "pref_label": "NPI - Increase in Appetite",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100718"
+        },
+        {
+            "alt_label": "NPI1-Weight Loss",
+            "definition": "Neuropsychiatric Inventory - Has he/she had a loss of weight?",
+            "identifier": "C100719",
+            "notation": "NPI1L03",
+            "pref_label": "NPI - Loss of Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100719"
+        },
+        {
+            "alt_label": "NPI1-Weight Gain",
+            "definition": "Neuropsychiatric Inventory - Has he/she gained weight?",
+            "identifier": "C100720",
+            "notation": "NPI1L04",
+            "pref_label": "NPI - Gained Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100720"
+        },
+        {
+            "alt_label": "NPI1-Change in Eating Behavior",
+            "definition": "Neuropsychiatric Inventory - Has he/she had a change in eating behavior such as putting too much food in his/her mouth at once?",
+            "identifier": "C100721",
+            "notation": "NPI1L05",
+            "pref_label": "NPI - Change in Eating Behavior",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100721"
+        },
+        {
+            "alt_label": "NPI1-Change in Kind of Food",
+            "definition": "Neuropsychiatric Inventory - Has he/she had a change in the kind of food he/she likes such as eating too many sweets or other specific types of food?",
+            "identifier": "C100722",
+            "notation": "NPI1L06",
+            "pref_label": "NPI - Change in Kind of Food He/She Likes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100722"
+        },
+        {
+            "alt_label": "NPI1-Develop Eating Behaviors",
+            "definition": "Neuropsychiatric Inventory - Has he/she developed eating behaviors such as eating exactly the same types of food each day or eating the food in exactly the same order?",
+            "identifier": "C100723",
+            "notation": "NPI1L07",
+            "pref_label": "NPI - Developed Eating Behaviors Such as Eating Exactly the Same Types of Food",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100723"
+        },
+        {
+            "alt_label": "NPI1-Other Changes in Eating",
+            "definition": "Neuropsychiatric Inventory - Have there been any other changes in appetite or eating that I haven't asked about?",
+            "identifier": "C100724",
+            "notation": "NPI1L08",
+            "pref_label": "NPI - Any Other Changes in Appetite or Eating",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C100724"
+        },
+        {
+            "alt_label": "NPI1-Appetite/Eating Disorder Frequency",
+            "definition": "Neuropsychiatric Inventory - Frequency of the changes in eating habits or appetite.",
+            "identifier": "C103635",
+            "notation": "NPI1L09",
+            "pref_label": "NPI - Appetite and Eating Disorders Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103635"
+        },
+        {
+            "alt_label": "NPI1-Appetite/Eating Disorder Severity",
+            "definition": "Neuropsychiatric Inventory - Severity of the changes in eating habits or appetite.",
+            "identifier": "C103636",
+            "notation": "NPI1L10",
+            "pref_label": "NPI - Appetite and Eating Disorders Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103636"
+        },
+        {
+            "alt_label": "NPI1-Appetite/Eating Disorder Distress",
+            "definition": "Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?",
+            "identifier": "C103637",
+            "notation": "NPI1L11",
+            "pref_label": "NPI - Appetite and Eating Disorders Distress",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C103637"
+        },
+        {
+            "alt_label": "NPI1-Appetite/Eating Disorders FxS Score",
+            "definition": "Neuropsychiatric Inventory - Appetite and Eating Disorders: (frequency score x severity score).",
+            "identifier": "C112480",
+            "notation": "NPI1LFS",
+            "pref_label": "NPI - Appetite/Eating Disorders FxS Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112480"
+        },
+        {
+            "alt_label": "NPI1-NPI Total Score",
+            "definition": "Neuropsychiatric Inventory - Total of (Frequency Sub-total) x (Severity Sub-total).",
+            "identifier": "C112481",
+            "notation": "NPI1TOT",
+            "pref_label": "NPI - NPI Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100144-C112481"
+        }
+    ]
+}

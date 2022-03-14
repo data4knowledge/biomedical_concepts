@@ -1,0 +1,380 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Appropriate Development For Age Indicator;Appropriate Developmental Age Indicator",
+            "definition": "An indication as to whether the subject's chronological age matches their physical, emotional, social, and cognitive functioning.",
+            "identifier": "C171499",
+            "notation": "Appropriate Developmental Age Indicator",
+            "pref_label": "Appropriate Developmental Age Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C171499"
+        },
+        {
+            "alt_label": "Breast Fed Indicator",
+            "definition": "An indication as to whether the subject was breast fed (received mother's milk) as an infant.",
+            "identifier": "C112233",
+            "notation": "Breast Fed Indicator",
+            "pref_label": "Breast Fed Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C112233"
+        },
+        {
+            "alt_label": "CDC HIV High Risk Donor Indicator",
+            "definition": "An indication as to whether an organ donor may fall into one or more behavioral categories associated with increased risk of human immunodeficiency virus (HIV) infection, as defined by the 1994 Centers for Disease Control (CDC) Public Health Service Criteria for High Risk Behavior (Guidelines for preventing transmission of human immunodeficiency virus through transplantation of human tissue and organs. Centers for Disease Control and Prevention. MMWR Recomm Rep 1994; 43: 1-17).",
+            "identifier": "C139271",
+            "notation": "CDC HIV High Risk Donor Indicator",
+            "pref_label": "CDC HIV High Risk Donor Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C139271"
+        },
+        {
+            "alt_label": "Contact Investigation",
+            "definition": "A public health activity whereby individuals who have been exposed to a person with a suspected or confirmed contagious illness are identified, usually for the purpose of identifying additional cases of the illness, or to offer some form of prophylactic intervention to either prevent or ameliorate disease in the exposed individual.",
+            "identifier": "C102625",
+            "notation": "Contact Investigation",
+            "pref_label": "Disease Contact Investigation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C102625"
+        },
+        {
+            "alt_label": "Country of Permanent Address",
+            "definition": "The country identified as the individual's permanent residence.",
+            "identifier": "C176365",
+            "notation": "Country of Permanent Address",
+            "pref_label": "Country of Permanent Address",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C176365"
+        },
+        {
+            "alt_label": "Country of Potential Disease Exposure",
+            "definition": "System of classification based on the nation in which an individual was exposed to a disease, regardless of the nation in which he/she currently resides.",
+            "identifier": "C102612",
+            "notation": "Country of Potential Disease Exposure",
+            "pref_label": "Country of Potential Disease Exposure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C102612"
+        },
+        {
+            "alt_label": "County of Permanent Address",
+            "definition": "The county identified as the individual's permanent residence.",
+            "identifier": "C176362",
+            "notation": "County of Permanent Address",
+            "pref_label": "County of Permanent Address",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C176362"
+        },
+        {
+            "alt_label": "Deceased Donor Donation Type",
+            "definition": "The conditions under which an organ is harvested from a dead donor, including the condition of the donor and the environment.",
+            "identifier": "C139270",
+            "notation": "Deceased Donor Donation Type",
+            "pref_label": "Deceased Donor Donation Condition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C139270"
+        },
+        {
+            "alt_label": "District of Permanent Address",
+            "definition": "The district identified as the individual's permanent residence.",
+            "identifier": "C176363",
+            "notation": "District of Permanent Address",
+            "pref_label": "District of Permanent Address",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C176363"
+        },
+        {
+            "alt_label": "District of Potential Disease Exposure",
+            "definition": "The district in which the individual was potentially exposed to a disease.",
+            "identifier": "C174364",
+            "notation": "District of Potential Disease Exposure",
+            "pref_label": "District of Potential Disease Exposure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C174364"
+        },
+        {
+            "alt_label": "Dominant Hand",
+            "definition": "The preferred hand of use for controlled and efficient performance of motor tasks.",
+            "identifier": "C114182",
+            "notation": "Dominant Hand",
+            "pref_label": "Dominant Hand",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C114182"
+        },
+        {
+            "alt_label": "Donor Status at Time of Organ Donation",
+            "definition": "The donor's state or condition of being either living or brain dead at the time of organ harvesting.",
+            "identifier": "C139269",
+            "notation": "Donor Status at Time of Organ Donation",
+            "pref_label": "Donor Status at Time of Organ Donation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C139269"
+        },
+        {
+            "alt_label": "Employee Job Class;Employment Status",
+            "definition": "A code qualifying the employment in various ways, such as, full-time vs. part time, etc.",
+            "identifier": "C74565",
+            "notation": "Employee Job Class",
+            "pref_label": "Employee Job Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C74565"
+        },
+        {
+            "alt_label": "Employee Job",
+            "definition": "A code specifying the job performed by the employee for the employer. For example, accountant, programmer analyst, patient care associate, staff nurse, etc.",
+            "identifier": "C25193",
+            "notation": "Employee Job",
+            "pref_label": "Occupation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C25193"
+        },
+        {
+            "alt_label": "Employee Salary Type",
+            "definition": "A code specifying the method used by the employer to compute the employee's salary or wages. For example, hourly, annual, or commission.",
+            "identifier": "C74566",
+            "notation": "Employee Salary Type",
+            "pref_label": "Employee Salary Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C74566"
+        },
+        {
+            "alt_label": "Entry Date from Ptntl Cntry Disease Exp",
+            "definition": "The date on which the subject arrived in the reporting country from the country of potential disease exposure.",
+            "identifier": "C102631",
+            "notation": "Entry Date from Ptntl Cntry Disease Exp",
+            "pref_label": "Entry Date from Country of Potential Disease Exposure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C102631"
+        },
+        {
+            "alt_label": "Estimated Gestational Age",
+            "definition": "An approximate calculation of the gestational age of the fetus.",
+            "identifier": "C122188",
+            "notation": "Estimated Gestational Age",
+            "pref_label": "Estimated Gestational Age",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C122188"
+        },
+        {
+            "alt_label": "Gender Identity",
+            "definition": "A person's internally held sense of their gender, which may or may not correspond to the individual's genotypic or phenotypic sex.",
+            "identifier": "C158277",
+            "notation": "Gender Identity",
+            "pref_label": "Gender Identity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C158277"
+        },
+        {
+            "alt_label": "Gestational Age at Birth",
+            "definition": "The gestational age of the subject at birth.",
+            "identifier": "C124435",
+            "notation": "Gestational Age at Birth",
+            "pref_label": "Gestational Age at Birth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C124435"
+        },
+        {
+            "alt_label": "GPS Coord of Potential Disease Exposure;GPS Coordinates of Potential Disease Exposure",
+            "definition": "The global position system (GPS) coordinates for the location at which an individual was potentially exposed to a disease.",
+            "identifier": "C174365",
+            "notation": "GPS Coord of Potential Disease Exposure",
+            "pref_label": "GPS Coordinates of Potential Disease Exposure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C174365"
+        },
+        {
+            "alt_label": "Income Level",
+            "definition": "An indication of the position on a scale measuring revenue or monetary support.",
+            "identifier": "C154890",
+            "notation": "Income Level",
+            "pref_label": "Income Level",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C154890"
+        },
+        {
+            "alt_label": "Infant Less Than One Year Indicator",
+            "definition": "An indication as to whether the subject is less than one year of age.",
+            "identifier": "C171513",
+            "notation": "Infant Less Than One Year Indicator",
+            "pref_label": "Infant Less Than One Year Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C171513"
+        },
+        {
+            "alt_label": "Level of Education Attained",
+            "definition": "Highest level of education that a person has attained.",
+            "identifier": "C17953",
+            "notation": "Level of Education Attained",
+            "pref_label": "Education Level",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C17953"
+        },
+        {
+            "alt_label": "Living with Subject Indicator",
+            "definition": "An indication as to whether the associated person is living with the subject. (NCI)",
+            "identifier": "C135502",
+            "notation": "Living with Subject Indicator",
+            "pref_label": "Living with Subject Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C135502"
+        },
+        {
+            "alt_label": "Marital Status",
+            "definition": "A demographic parameter indicating a person's current conjugal status.",
+            "identifier": "C25188",
+            "notation": "Marital Status",
+            "pref_label": "Marital Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C25188"
+        },
+        {
+            "alt_label": "Member of High Risk Population",
+            "definition": "An indication that a subject is part of a population group that has a greater chance of contracting a disease or disorder.",
+            "identifier": "C102666",
+            "notation": "Member of High Risk Population",
+            "pref_label": "Member of High Risk Population",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C102666"
+        },
+        {
+            "alt_label": "National Origin",
+            "definition": "System of classification based on nation from which a person originates, regardless of the nation in which he/she currently resides.",
+            "identifier": "C28407",
+            "notation": "National Origin",
+            "pref_label": "National Origin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C28407"
+        },
+        {
+            "alt_label": "Number of Brothers, Biological",
+            "definition": "The number of brothers that are biologically related to the subject. (NCI)",
+            "identifier": "C135500",
+            "notation": "Number of Brothers, Biological",
+            "pref_label": "Number of Biological Brothers",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C135500"
+        },
+        {
+            "alt_label": "Number of Sisters, Biological",
+            "definition": "The number of sisters that are biologically related to the subject. (NCI)",
+            "identifier": "C135501",
+            "notation": "Number of Sisters, Biological",
+            "pref_label": "Number of Biological Sisters",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C135501"
+        },
+        {
+            "alt_label": "Number of Years of Education",
+            "definition": "The number of years of education that a person has completed.",
+            "identifier": "C122393",
+            "notation": "Number of Years of Education",
+            "pref_label": "Number of Years of Education",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C122393"
+        },
+        {
+            "alt_label": "Physical Activity Lifestyle",
+            "definition": "A description of the subject's lifestyle with respect to physical activity.",
+            "identifier": "C179818",
+            "notation": "Physical Activity Lifestyle",
+            "pref_label": "Physical Activity Lifestyle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C179818"
+        },
+        {
+            "alt_label": "Premature Birth Indicator",
+            "definition": "An indication as to whether the subject was born prior to 38 weeks gestation.",
+            "identifier": "C112400",
+            "notation": "Premature Birth Indicator",
+            "pref_label": "Premature Birth Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C112400"
+        },
+        {
+            "alt_label": "Primary Language Spoken",
+            "definition": "The main language that is spoken by the subject most frequently or dominantly.",
+            "identifier": "C132459",
+            "notation": "Primary Language Spoken",
+            "pref_label": "Primary Language Spoken",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C132459"
+        },
+        {
+            "alt_label": "Priority of Disease Contact",
+            "definition": "The categorization of individuals with or without the potential for having a particular disease.",
+            "identifier": "C102699",
+            "notation": "Priority of Disease Contact",
+            "pref_label": "Priority of Disease Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C102699"
+        },
+        {
+            "alt_label": "Secondary Language Spoken",
+            "definition": "Additional language(s) that is spoken by the subject but not considered the primary language.",
+            "identifier": "C132460",
+            "notation": "Secondary Language Spoken",
+            "pref_label": "Secondary Language Spoken",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C132460"
+        },
+        {
+            "alt_label": "Setting of Contact",
+            "definition": "The environment within which the person may have come into contact with a disease carrier, or played the role of a disease carrier.",
+            "identifier": "C102708",
+            "notation": "Setting of Contact",
+            "pref_label": "Setting of Disease Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C102708"
+        },
+        {
+            "alt_label": "Sex Reported at Birth",
+            "definition": "The physical sexual characteristics of the neonate at birth.",
+            "identifier": "C124436",
+            "notation": "Sex Reported at Birth",
+            "pref_label": "Sex at Birth",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C124436"
+        },
+        {
+            "alt_label": "Fitzpatrick Skin Classification;Skin Classification",
+            "definition": "Test to categorize the sensitivity of a subject's skin to sunlight. (Fitzpatrick TB. The validity and practicality of sun-reactive skin types I through VI. Arch. Dermatol. 1998 124: 869-871.)",
+            "identifier": "C74563",
+            "notation": "Skin Classification",
+            "pref_label": "Fitzpatrick Classification Scale",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C74563"
+        },
+        {
+            "alt_label": "Skin Type",
+            "definition": "A distinctive characteristic of the skin marked by the amount of sebum secreted by sebaceous glands.",
+            "identifier": "C74580",
+            "notation": "Skin Type",
+            "pref_label": "Skin Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C74580"
+        },
+        {
+            "alt_label": "Small for Gestational Age Indicator",
+            "definition": "An indication as to whether the fetus or infant is small for the gestational age.",
+            "identifier": "C156662",
+            "notation": "Small for Gestational Age Indicator",
+            "pref_label": "Small for Gestational Age Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C156662"
+        },
+        {
+            "alt_label": "Social Risk Factor",
+            "definition": "Social factors such as personal behavior, lifestyle, or environment belonging to the subject which are known to increase the likelihood of infection and disease.",
+            "identifier": "C102711",
+            "notation": "Social Risk Factor",
+            "pref_label": "Social Risk Factor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C102711"
+        },
+        {
+            "alt_label": "Source Case Investigation",
+            "definition": "A public health activity for the determination of who transmitted a disease to another subject and whether this person: is still infectious; was reported to the health department as a disease case or suspect; or has infected others.",
+            "identifier": "C102713",
+            "notation": "Source Case Investigation",
+            "pref_label": "Source Case Investigation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C102713"
+        },
+        {
+            "alt_label": "Student Indicator",
+            "definition": "An indication as to whether the subject or associated person is enrolled in school.",
+            "identifier": "C147485",
+            "notation": "Student Indicator",
+            "pref_label": "Student Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C147485"
+        },
+        {
+            "alt_label": "Symptom",
+            "definition": "Subjective evidence of disease perceived by the patient.",
+            "identifier": "C4876",
+            "notation": "Symptom",
+            "pref_label": "Symptom",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C4876"
+        },
+        {
+            "alt_label": "Twin Type",
+            "definition": "The classification of the two offspring born from the same pregnancy.",
+            "identifier": "C112424",
+            "notation": "Twin Type",
+            "pref_label": "Twin Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C112424"
+        },
+        {
+            "alt_label": "Type of Contact",
+            "definition": "Identification and clinical investigation of disease contacts.",
+            "identifier": "C102723",
+            "notation": "Type of Contact",
+            "pref_label": "Type of Contagion Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C102723"
+        },
+        {
+            "alt_label": "Village of Permanent Address",
+            "definition": "The village identified as the individual's permanent residence.",
+            "identifier": "C176364",
+            "notation": "Village of Permanent Address",
+            "pref_label": "Village of Permanent Address",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103330-C176364"
+        }
+    ]
+}

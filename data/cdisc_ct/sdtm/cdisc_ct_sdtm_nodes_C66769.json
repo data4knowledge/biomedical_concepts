@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "1;Grade 1",
+            "definition": "A type of adverse event that is usually transient and may require only minimal treatment or therapeutic intervention. The event does not generally interfere with usual activities of daily living.",
+            "identifier": "C41338",
+            "notation": "MILD",
+            "pref_label": "Mild Adverse Event",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66769-C41338"
+        },
+        {
+            "alt_label": "2;Grade 2",
+            "definition": "A type of adverse event that is usually alleviated with additional specific therapeutic intervention. The event interferes with usual activities of daily living, causing discomfort but poses no significant or permanent risk of harm to the research participant.",
+            "identifier": "C41339",
+            "notation": "MODERATE",
+            "pref_label": "Moderate Adverse Event",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66769-C41339"
+        },
+        {
+            "alt_label": "3;Grade 3",
+            "definition": "A type of adverse event that interrupts usual activities of daily living, or significantly affects clinical status, or may require intensive therapeutic intervention.",
+            "identifier": "C41340",
+            "notation": "SEVERE",
+            "pref_label": "Severe Adverse Event",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66769-C41340"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The person responsible for the competent authority application.",
+            "identifier": "C127522",
+            "notation": "CA APPLICANT",
+            "pref_label": "Competent Authority Applicant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127522"
+        },
+        {
+            "definition": "The secondary contact person providing centralized, coordinated recruitment information for the entire study. (clinicaltrials.gov)",
+            "identifier": "C127524",
+            "notation": "CENTRAL CONTACT FOR RECRUITMENT BACKUP",
+            "pref_label": "Central Contact for Recruitment Backup",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127524"
+        },
+        {
+            "definition": "The contact person providing centralized, coordinated recruitment information for the entire study. (clinicaltrials.gov)",
+            "identifier": "C127523",
+            "notation": "CENTRAL CONTACT FOR RECRUITMENT",
+            "pref_label": "Central Contact for Recruitment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127523"
+        },
+        {
+            "definition": "The main or principal contact person for the clinical investigator network.",
+            "identifier": "C127525",
+            "notation": "CLINICAL NETWORK CONTACT",
+            "pref_label": "Clinical Investigator Network Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127525"
+        },
+        {
+            "definition": "The study contact person who is responsible for questions from the public.",
+            "identifier": "C127526",
+            "notation": "CONTACT FOR PUBLIC QUERIES",
+            "pref_label": "Public Queries Study Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127526"
+        },
+        {
+            "definition": "The study contact person who is responsible for questions from the scientific community.",
+            "identifier": "C127527",
+            "notation": "CONTACT FOR SCIENTIFIC QUERIES",
+            "pref_label": "Scientific Queries Study Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127527"
+        },
+        {
+            "definition": "The secondary contact person at the facility.",
+            "identifier": "C127529",
+            "notation": "FACILITY CONTACT BACKUP",
+            "pref_label": "Facility Contact Backup",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127529"
+        },
+        {
+            "definition": "The main or principal contact person at the facility.",
+            "identifier": "C127528",
+            "notation": "FACILITY CONTACT",
+            "pref_label": "Facility Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127528"
+        },
+        {
+            "definition": "The contact person responsible for disseminating additional information about the study.",
+            "identifier": "C127530",
+            "notation": "FURTHER INFORMATION CONTACT",
+            "pref_label": "Study Further Information Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127530"
+        },
+        {
+            "definition": "The person responsible for the independent ethics committee application.",
+            "identifier": "C127531",
+            "notation": "IEC APPLICANT",
+            "pref_label": "Independent Ethics Committee Applicant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127531"
+        },
+        {
+            "definition": "A person responsible for the conduct of the clinical trial at a trial site. If a trial is conducted by a team of individuals at the trial site, the investigator is the responsible leader of the team and may be called the principal investigator.",
+            "identifier": "C25936",
+            "notation": "INVESTIGATOR",
+            "pref_label": "Investigator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C25936"
+        },
+        {
+            "definition": "An individual with expertise in the law who provides legal counsel and representation for a study.",
+            "identifier": "C127532",
+            "notation": "LEGAL REPRESENTATIVE FOR THE STUDY",
+            "pref_label": "Legal Representative for the Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127532"
+        },
+        {
+            "definition": "The main or principal contact person for the study.",
+            "identifier": "C127533",
+            "notation": "PRIMARY CONTACT",
+            "pref_label": "Primary Study Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127533"
+        },
+        {
+            "definition": "A person who has the primary responsibility for the conduct of a clinical study and study-related personnel at a study site. While a single-center study would not include a coordinating investigator, the investigator at the site would fulfill the same responsibilities as a principal investigator.",
+            "identifier": "C19924",
+            "notation": "PRINCIPAL INVESTIGATOR",
+            "pref_label": "Principal Investigator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C19924"
+        },
+        {
+            "alt_label": "Study Director",
+            "definition": "A person who has overall responsibility for the technical conduct of a study, as well as for the interpretation, analysis, documentation and reporting of results, and represents the single point of study control. (FDA)",
+            "identifier": "C51878",
+            "notation": "STUDY CHAIR",
+            "pref_label": "Study Chair",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C51878"
+        },
+        {
+            "definition": "The main or principal contact person for the subcontractor or subcontracting organization.",
+            "identifier": "C127534",
+            "notation": "SUBCONTRACTOR CONTACT",
+            "pref_label": "Subcontractor Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C127534"
+        },
+        {
+            "definition": "Any member of the clinical trial team designated and supervised by the investigator at a trial site to perform critical trial-related procedures and/or to make important trial-related decisions (e.g., associates, residents, research fellows). (ICH)",
+            "identifier": "C54622",
+            "notation": "SUBINVESTIGATOR",
+            "pref_label": "Subinvestigator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127257-C54622"
+        }
+    ]
+}

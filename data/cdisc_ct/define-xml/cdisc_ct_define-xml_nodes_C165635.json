@@ -1,0 +1,20 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "NCA",
+            "definition": "A dataset containing data that is used for non-compartmental analyses.",
+            "identifier": "C172452",
+            "notation": "NON-COMPARTMENTAL ANALYSIS",
+            "pref_label": "Non-Compartmental Analysis Dataset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C165635-C172452"
+        },
+        {
+            "alt_label": "TTE",
+            "definition": "A dataset containing data that is used for Time-to-Event analyses.",
+            "identifier": "C165637",
+            "notation": "TIME-TO-EVENT",
+            "pref_label": "Time-to-Event Dataset",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C165635-C165637"
+        }
+    ]
+}

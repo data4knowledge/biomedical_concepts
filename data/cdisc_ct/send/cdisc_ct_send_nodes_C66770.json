@@ -1,0 +1,185 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Percentage",
+            "definition": "One hundred times the quotient of one quantity divided by another, with the same units of measurement.",
+            "identifier": "C25613",
+            "notation": "%",
+            "pref_label": "Percentage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C25613"
+        },
+        {
+            "alt_label": "Beats per Minute;bpm;BPM",
+            "definition": "The number of heartbeats measured per minute time. (NCI)",
+            "identifier": "C49673",
+            "notation": "beats/min",
+            "pref_label": "Beats per Minute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C49673"
+        },
+        {
+            "alt_label": "Breaths per Minute",
+            "definition": "The number of breaths (inhalation and exhalation) taken per minute time. (NCI)",
+            "identifier": "C49674",
+            "notation": "breaths/min",
+            "pref_label": "Breaths per Minute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C49674"
+        },
+        {
+            "alt_label": "Degree Celsius",
+            "definition": "A unit of temperature of the temperature scale designed so that the freezing point of water is 0 degrees and the boiling point is 100 degrees at standard atmospheric pressure. The current official definition of the Celsius sets 0.01 C to be at the triple point of water and a degree to be 1/273.16 of the difference in temperature between the triple point of water and absolute zero. One degree Celsius represents the same temperature difference as one Kelvin. (NCI)",
+            "identifier": "C42559",
+            "notation": "C",
+            "pref_label": "Degree Celsius",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C42559"
+        },
+        {
+            "alt_label": "Centimeter",
+            "definition": "A basic unit of length equal to one hundredth of a meter or approximately 0.393700787 inch.",
+            "identifier": "C49668",
+            "notation": "cm",
+            "pref_label": "Centimeter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C49668"
+        },
+        {
+            "alt_label": "Centimeter of Mercury",
+            "definition": "A unit of pressure equal to 0.001316 atmosphere and equal to the pressure indicated by one centimeter rise of mercury in a barometer at the Earth's surface.",
+            "identifier": "C147129",
+            "notation": "cmHg",
+            "pref_label": "Centimeters of Mercury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C147129"
+        },
+        {
+            "alt_label": "Degree Fahrenheit",
+            "definition": "The Fahrenheit temperature scale is named after the German physicist Gabriel Fahrenheit (1686-1736), who proposed it in 1724. In this scale, the freezing point of water is 32 degrees Fahrenheit and the boiling point is 212 degrees, placing the boiling and melting points of water 180 degrees apart. In this scale a degree Fahrenheit is 5/9ths of a Kelvin (or of a degree Celsius), and minus 40 degrees Fahrenheit is equal to minus 40 degrees Celsius. (NCI)",
+            "identifier": "C44277",
+            "notation": "F",
+            "pref_label": "Degree Fahrenheit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C44277"
+        },
+        {
+            "alt_label": "Gram",
+            "definition": "A unit of mass equal to one thousandth (1E-3) of a kilogram, the kilogram being the base unit of mass in the International System of Units (SI).",
+            "identifier": "C48155",
+            "notation": "g",
+            "pref_label": "Gram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C48155"
+        },
+        {
+            "alt_label": "Cycle per Second;cycle/sec;Hertz",
+            "definition": "A unit of frequency equal to one cycle per second.(NCI)",
+            "identifier": "C42545",
+            "notation": "Hz",
+            "pref_label": "Hertz",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C42545"
+        },
+        {
+            "alt_label": "Inch",
+            "definition": "A traditional unit of length equal to 2.54 centimeters. (NCI)",
+            "identifier": "C48500",
+            "notation": "in",
+            "pref_label": "Inch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C48500"
+        },
+        {
+            "alt_label": "Kelvin",
+            "definition": "A basic unit of thermodynamic temperature, one of the seven base units of the International System of Units (Systeme International d'Unites, SI). It is 1/273.16th of the thermodynamic temperature of the triple point of water. This sets the size of the kelvin unit for temperature differences and defines the thermodynamic temperature of an equilibrium mixture of waters ice-liquid-vapor as 273.16 K, where 0 K is the lowest possible temperature (\"absolute zero\").",
+            "identifier": "C42537",
+            "notation": "K",
+            "pref_label": "Kelvin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C42537"
+        },
+        {
+            "definition": "A unit of energy equal to one kilocalorie per day. (NCI)",
+            "identifier": "C139135",
+            "notation": "kcal/day",
+            "pref_label": "Kilocalorie per Day",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C139135"
+        },
+        {
+            "alt_label": "Kilogram",
+            "definition": "The base unit of mass in the International System of Units (SI) equal to the mass of the international prototype kilogram, a platinum-iridium cylinder in the custody of the International Bureau of Weights and Measures.",
+            "identifier": "C28252",
+            "notation": "kg",
+            "pref_label": "Kilogram",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C28252"
+        },
+        {
+            "alt_label": "Kilogram per Square Meter",
+            "definition": "A unit expressed as kilogram of mass per square meter of area.(NCI)",
+            "identifier": "C49671",
+            "notation": "kg/m2",
+            "pref_label": "Kilogram per Square Meter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C49671"
+        },
+        {
+            "alt_label": "Pound",
+            "definition": "A traditional unit of mass. By international agreement, one avoirdupois pound is equal to exactly 0.453 592 37 kilogram, 16 ounces, or 1.215 28 troy pounds. (NCI)",
+            "identifier": "C48531",
+            "notation": "LB",
+            "pref_label": "Pound",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C48531"
+        },
+        {
+            "alt_label": "Meter",
+            "definition": "A meter is defined as the length of the path traveled by light in a vacuum during a time interval of 1/299 792 458 of a second and is equal to 1.093 61 yards.(NCI)",
+            "identifier": "C41139",
+            "notation": "m",
+            "pref_label": "Meter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C41139"
+        },
+        {
+            "alt_label": "Square Meter",
+            "definition": "The standard derived unit of area in the International System of Units (SI) equal to the area of a square whose sides are one meter long.",
+            "identifier": "C42569",
+            "notation": "m2",
+            "pref_label": "Square Meter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C42569"
+        },
+        {
+            "alt_label": "Metabolic Equivalent of Task",
+            "definition": "A unit of energy expenditure equal to the ratio of metabolic rate during physical activity versus a reference metabolic rate.",
+            "identifier": "C127805",
+            "notation": "MET",
+            "pref_label": "Metabolic Equivalent of Task Unit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C127805"
+        },
+        {
+            "alt_label": "Millimeter",
+            "definition": "A unit of measure equal to one thousandth of a meter. (NCI)",
+            "identifier": "C28251",
+            "notation": "mm",
+            "pref_label": "Millimeter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C28251"
+        },
+        {
+            "alt_label": "Millimeter of Mercury",
+            "definition": "A unit of pressure equal to 0.001316 atmosphere and equal to the pressure indicated by one millimeter rise of mercury in a barometer at the Earth's surface. (NCI)",
+            "identifier": "C49670",
+            "notation": "mmHg",
+            "pref_label": "Millimeter of Mercury",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C49670"
+        },
+        {
+            "alt_label": "Pascal",
+            "definition": "A unit of pressure equivalent to one Newton per square meter or 10 bars or to 1.45x10(E-4) pounds per square inch.(NCI)",
+            "identifier": "C42547",
+            "notation": "Pa",
+            "pref_label": "Pascal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C42547"
+        },
+        {
+            "definition": "The quotient of one quantity divided by another, with the same units of measurement.",
+            "identifier": "C44256",
+            "notation": "RATIO",
+            "pref_label": "Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C44256"
+        },
+        {
+            "definition": "A unit of power equal to the power which in one second produces or transfers the energy of one joule. The unit is used in measurements of power emitted, transferred or received as radiation, sound waves, heat flow rate, and rate of energy transfer. Equal to 1/746 of horsepower.(NCI)",
+            "identifier": "C42549",
+            "notation": "Watt",
+            "pref_label": "Watt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66770-C42549"
+        }
+    ]
+}

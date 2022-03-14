@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "An assay type that examines a cellular pathway or biological process.",
+            "identifier": "C181251",
+            "notation": "CELL FUNCTION",
+            "pref_label": "Cell Function Assay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181171-C181251"
+        },
+        {
+            "definition": "An assay type that examines the types of markers or antigens associated with the cell surface, nucleus, or cytoplasm.",
+            "identifier": "C181250",
+            "notation": "IMMUNOPHENOTYPING",
+            "pref_label": "Immunophenotyping Assay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181171-C181250"
+        },
+        {
+            "definition": "An assay type that examines the interaction of ligands with their target biomolecules.",
+            "identifier": "C181182",
+            "notation": "TARGET ENGAGEMENT",
+            "pref_label": "Target Engagement Assay",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181171-C181182"
+        }
+    ]
+}

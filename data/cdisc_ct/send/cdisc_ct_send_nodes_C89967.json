@@ -1,0 +1,40 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Participants receive one of two or more alternative intervention(s) during the initial epoch of the study and receive other intervention(s) during the subsequent epoch(s) of the study.",
+            "identifier": "C82637",
+            "notation": "CROSSOVER",
+            "pref_label": "Crossover Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89967-C82637"
+        },
+        {
+            "alt_label": "Rising Dose",
+            "definition": "A study in which the dosage of the test article is increased until the desired physiological effect or toxicity is seen. In some instances, the maximum dose may be pre-determined.",
+            "identifier": "C90475",
+            "notation": "DOSE ESCALATION",
+            "pref_label": "Titration Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89967-C90475"
+        },
+        {
+            "definition": "Two or more interventions, each alone or in combination, are evaluated in parallel against a control group. This study design allows for the comparison of active drug to placebo, presence of drug-drug interactions, and comparison of active drugs against each other.",
+            "identifier": "C82638",
+            "notation": "FACTORIAL",
+            "pref_label": "Factorial Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89967-C82638"
+        },
+        {
+            "definition": "A type of crossover study in which the subject receives every treatment during the study. The treatments are administered in a prespecified order in such a way that each subject receives each treatment and each treatment is in each study phase.",
+            "identifier": "C90402",
+            "notation": "LATIN SQUARE",
+            "pref_label": "Latin Square Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89967-C90402"
+        },
+        {
+            "definition": "Participants are assigned to one of two or more treatment groups in parallel for the duration of the study.",
+            "identifier": "C82639",
+            "notation": "PARALLEL",
+            "pref_label": "Parallel Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89967-C82639"
+        }
+    ]
+}

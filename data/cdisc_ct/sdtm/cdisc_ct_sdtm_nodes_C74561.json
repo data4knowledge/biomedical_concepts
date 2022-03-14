@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The pores are generally fine with a papery thin texture that feels dry to the touch. Usually flaky and dull looking.",
+            "identifier": "C74592",
+            "notation": "DRY",
+            "pref_label": "Dry Skin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C74561-C74592"
+        },
+        {
+            "definition": "The pores are visible but not large. The texture is neither fine or thick and it neither feels dry or oily to the touch.",
+            "identifier": "C74593",
+            "notation": "NORMAL",
+            "pref_label": "Normal Skin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C74561-C74593"
+        },
+        {
+            "definition": "The pores of the skin are generally large and visible with a coarse or thick texture. It has a tendency to look dull and greasy and feels oily to the touch.",
+            "identifier": "C74591",
+            "notation": "OILY",
+            "pref_label": "Oily Skin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C74561-C74591"
+        }
+    ]
+}

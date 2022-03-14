@@ -1,0 +1,34 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Active Control",
+            "definition": "A type of control, which has a demonstrated effect, administered as a comparator to subjects in a clinical trial. [From ICH E10]",
+            "identifier": "C49649",
+            "notation": "ACTIVE",
+            "pref_label": "Active Control",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66785-C49649"
+        },
+        {
+            "definition": "A type of control using different doses or regimens of the same treatment across the treatment arms.",
+            "identifier": "C120841",
+            "notation": "DOSE RESPONSE",
+            "pref_label": "Dose Response Control",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66785-C120841"
+        },
+        {
+            "definition": "No person or thing, nobody, not any. (NCI)",
+            "identifier": "C41132",
+            "notation": "NONE",
+            "pref_label": "None",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66785-C41132"
+        },
+        {
+            "alt_label": "Placebo;Placebo Control",
+            "definition": "An inactive, identical-appearing drug or treatment that does not contain the test product.",
+            "identifier": "C49648",
+            "notation": "PLACEBO",
+            "pref_label": "Placebo Control",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66785-C49648"
+        }
+    ]
+}

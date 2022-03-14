@@ -1,0 +1,55 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Inconclusive",
+            "definition": "Cannot distinguish between two or more possible values in the current context. (NCI)",
+            "identifier": "C48658",
+            "notation": "INDETERMINATE",
+            "pref_label": "Indeterminate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101850-C48658"
+        },
+        {
+            "definition": "A finding of stenosis of less than 70 percent reduction in diameter (or 50 percent reduction in cross-sectional area) in a major epicardial vessel, without stenosis of greater than or equal to 70 percent reduction in diameter (or 50 percent reduction in cross-sectional area) in any major epicardial vessel. (NCI)",
+            "identifier": "C119244",
+            "notation": "INSIGNIFICANT DISEASE",
+            "pref_label": "Insignificant Disease by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101850-C119244"
+        },
+        {
+            "definition": "There was no stenosis in any coronary artery or branch vessel.",
+            "identifier": "C99993",
+            "notation": "NO DISEASE",
+            "pref_label": "No Evidence of Coronary Artery Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101850-C99993"
+        },
+        {
+            "definition": "There was stenosis of greater than or equal to 70 percent reduction in diameter (or 50 percent reduction in cross-sectional area) in one major epicardial vessel or its major branches.",
+            "identifier": "C99997",
+            "notation": "ONE VESSEL DISEASE",
+            "pref_label": "One Vessel Coronary Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101850-C99997"
+        },
+        {
+            "definition": "There was one of the following: Stenosis of greater than or equal to 70 percent reduction in diameter (or 50 percent reduction in cross-sectional area) in all three major epicardial vessels (anterior descending, posterior descending, circumflex) or their major branches; Stenosis of greater than or equal to 50 percent reduction in diameter of the left main and greater than or equal to 70 percent reduction in diameter, or 50 percent reduction in cross-sectional area of the right coronary artery with a right dominant or co-dominant circulation; Stenosis of greater than or equal to 50 percent reduction in diameter of the left main with a left dominant circulation.",
+            "identifier": "C100020",
+            "notation": "THREE VESSEL DISEASE",
+            "pref_label": "Three Vessel Coronary Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101850-C100020"
+        },
+        {
+            "definition": "There was one of the following: Stenosis of greater than or equal to 70 percent reduction in diameter (or 50 percent reduction in cross-sectional area) in two major epicardial vessels or their major branches; Stenosis of greater than or equal to 50 percent reduction in diameter of the left main with a right dominant or co-dominant circulation, and no stenosis of greater than or equal to 70 percent reduction in diameter, or 50 percent reduction in cross-sectional area in the right coronary artery.",
+            "identifier": "C100023",
+            "notation": "TWO VESSEL DISEASE",
+            "pref_label": "Two Vessel Coronary Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101850-C100023"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101850-C17998"
+        }
+    ]
+}

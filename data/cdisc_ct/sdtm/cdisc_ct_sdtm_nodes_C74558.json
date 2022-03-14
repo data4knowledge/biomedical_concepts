@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Disposition Event",
+            "definition": "The group of incidents that occur during a clinical trial and describe whether a subject completed the study epoch or the reason this event did not occur. The subject's disposition is often described for each phase of the study.",
+            "identifier": "C74590",
+            "notation": "DISPOSITION EVENT",
+            "pref_label": "Protocol Disposition Event",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C74558-C74590"
+        },
+        {
+            "alt_label": "Other Event",
+            "definition": "Other important events that occur during a trial but are not driven by protocol requirements.",
+            "identifier": "C150824",
+            "notation": "OTHER EVENT",
+            "pref_label": "Non-Protocol Disposition Event",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C74558-C150824"
+        },
+        {
+            "alt_label": "Protocol Milestone",
+            "definition": "Occurrences within some epochs that are initiated by a protocol-specified event. The most common protocol milestone is \"Informed Consent Obtained\" which usually documents the start of the study.",
+            "identifier": "C74588",
+            "notation": "PROTOCOL MILESTONE",
+            "pref_label": "Protocol Milestone",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C74558-C74588"
+        }
+    ]
+}

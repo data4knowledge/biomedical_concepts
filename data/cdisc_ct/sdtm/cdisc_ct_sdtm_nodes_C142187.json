@@ -1,0 +1,60 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Number of Episodes",
+            "definition": "The total number of episodes that have occurred for the condition.",
+            "identifier": "C124281",
+            "notation": "EPSDNUM",
+            "pref_label": "Number of Episodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C142187-C124281"
+        },
+        {
+            "alt_label": "Longest Diameter",
+            "definition": "The longest possible length of a straight line passing through the center of a circular or spheroid object that connects two points on the circumference.",
+            "identifier": "C96684",
+            "notation": "LDIAM",
+            "pref_label": "Longest Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C142187-C96684"
+        },
+        {
+            "alt_label": "Needle Gauge",
+            "definition": "A number representing the outer diameter of a needle. (NCI)",
+            "identifier": "C101687",
+            "notation": "NDLGAUGE",
+            "pref_label": "Needle Gauge",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C142187-C101687"
+        },
+        {
+            "alt_label": "Occurrence Indicator",
+            "definition": "An indication as to whether something has happened, such as an event or incident.",
+            "identifier": "C127786",
+            "notation": "OCCUR",
+            "pref_label": "Occurrence Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C142187-C127786"
+        },
+        {
+            "alt_label": "Prevents Daily Activities Indicator",
+            "definition": "An indication as to whether the event or intervention prevents or has prevented the performance of daily activities.",
+            "identifier": "C184724",
+            "notation": "PDAIND",
+            "pref_label": "Prevents Daily Activities Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C142187-C184724"
+        },
+        {
+            "alt_label": "Severity/Intensity",
+            "definition": "The degree of something undesirable.",
+            "identifier": "C25676",
+            "notation": "SEV",
+            "pref_label": "Severity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C142187-C25676"
+        },
+        {
+            "alt_label": "Toxicity Grade",
+            "definition": "A standardized categorical classification of the severity of an event or finding.",
+            "identifier": "C82528",
+            "notation": "TOXGR",
+            "pref_label": "Toxicity Grade",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C142187-C82528"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Drug Resistance Status",
+            "definition": "The state or condition of not responding to a pharmacological agent.",
+            "identifier": "C102626",
+            "notation": "DRSTAT",
+            "pref_label": "Drug Resistance Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127266-C102626"
+        },
+        {
+            "alt_label": "Longest Diameter",
+            "definition": "The longest possible length of a straight line passing through the center of a circular or spheroid object that connects two points on the circumference.",
+            "identifier": "C96684",
+            "notation": "LDIAM",
+            "pref_label": "Longest Diameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127266-C96684"
+        },
+        {
+            "alt_label": "Occurrence Indicator",
+            "definition": "An indication as to whether something has happened, such as an event or incident.",
+            "identifier": "C127786",
+            "notation": "OCCUR",
+            "pref_label": "Occurrence Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127266-C127786"
+        },
+        {
+            "alt_label": "Total Number",
+            "definition": "A measurement of the total number of entities.",
+            "identifier": "C127787",
+            "notation": "TOTNUM",
+            "pref_label": "Total Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127266-C127787"
+        }
+    ]
+}

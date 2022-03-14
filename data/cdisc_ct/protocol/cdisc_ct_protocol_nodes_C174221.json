@@ -1,0 +1,43 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Active Control",
+            "definition": "A type of control, which has a demonstrated effect, administered as a comparator to subjects in a clinical trial. [From ICH E10]",
+            "identifier": "C68609",
+            "notation": "Active Comparator",
+            "pref_label": "Active Comparator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174221-C68609"
+        },
+        {
+            "definition": "A comparator product against which the study treatment is evaluated [e.g., concurrent (placebo, no treatment, dose-response, active), and external (historical, published literature)]. [After ICH E10]",
+            "identifier": "C142703",
+            "notation": "Control Product",
+            "pref_label": "Study Control",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174221-C142703"
+        },
+        {
+            "alt_label": "Experimental Product",
+            "definition": "A material (such as a drug, biologic, or device) produced by or resulting from a process, which is being tested in a study. This may also include a product with a marketing authorization when used or assembled (formulated or packaged) in a way different from the approved form, or when used for an unapproved indication, or when used to gain further information about an approved use. [After ICH]",
+            "identifier": "C142587",
+            "notation": "Investigational Product",
+            "pref_label": "Investigational Product",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174221-C142587"
+        },
+        {
+            "alt_label": "Placebo;Placebo Control",
+            "definition": "An inactive, identical-appearing drug or treatment that does not contain the test product.",
+            "identifier": "C49648",
+            "notation": "Placebo Comparator",
+            "pref_label": "Placebo Control",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174221-C49648"
+        },
+        {
+            "alt_label": "Sham Intervention",
+            "definition": "A procedure or device that appears to be the same as the actual procedure or device being studied but does not contain active processes or components.",
+            "identifier": "C116527",
+            "notation": "Sham Comparator",
+            "pref_label": "Sham Intervention",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174221-C116527"
+        }
+    ]
+}

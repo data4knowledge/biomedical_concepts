@@ -1,0 +1,227 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Average",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's average value over a defined set of records.",
+            "identifier": "C81209",
+            "notation": "AVERAGE",
+            "pref_label": "Average of Value Derivation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C81209"
+        },
+        {
+            "alt_label": "Best Case",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the best possible outcome.",
+            "identifier": "C92225",
+            "notation": "BC",
+            "pref_label": "Best Case Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C92225"
+        },
+        {
+            "alt_label": "Baseline Observation Carried Forward",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's non-missing baseline observation.",
+            "identifier": "C81201",
+            "notation": "BLOCF",
+            "pref_label": "Baseline Observation Carried Forward Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C81201"
+        },
+        {
+            "alt_label": "Best Observed Case",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the best outcome recorded within a subject.",
+            "identifier": "C132340",
+            "notation": "BOC",
+            "pref_label": "Best Observed Case Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C132340"
+        },
+        {
+            "alt_label": "Best Observation Carried Forward",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's previous best-case non-missing value.",
+            "identifier": "C92226",
+            "notation": "BOCF",
+            "pref_label": "Best Observation Carried Forward Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C92226"
+        },
+        {
+            "definition": "A technique that uses assignment logic to duplicate an analysis value to be used in additional evaluations.",
+            "identifier": "C184383",
+            "notation": "COPY",
+            "pref_label": "Copy Duplication Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C184383"
+        },
+        {
+            "alt_label": "Extrapolation",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to an estimation of a value based on extending a known sequence of values.",
+            "identifier": "C139176",
+            "notation": "EXTRAP",
+            "pref_label": "Extrapolation Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C139176"
+        },
+        {
+            "alt_label": "One Half of Lower Limit of Quantification",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to one half of the lower limit of quantification of a test.",
+            "identifier": "C170546",
+            "notation": "HALFLLOQ",
+            "pref_label": "One Half of Lower Limit of Quantification Derivation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C170546"
+        },
+        {
+            "alt_label": "Interpolation",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to a function of known values to estimate a value within the range.",
+            "identifier": "C81208",
+            "notation": "INTERP",
+            "pref_label": "Interpolation Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C81208"
+        },
+        {
+            "alt_label": "Lower Limit of Detection",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the lower limit of detection of a test.",
+            "identifier": "C105701",
+            "notation": "LLOD",
+            "pref_label": "Detection Limit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C105701"
+        },
+        {
+            "alt_label": "Lower Limit of Quantification",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the lower limit of quantification of a test.",
+            "identifier": "C170543",
+            "notation": "LLOQ",
+            "pref_label": "Lower Limit of Quantification Derivation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C170543"
+        },
+        {
+            "alt_label": "Last Observation Carried Forward",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's previous non-missing value.",
+            "identifier": "C81198",
+            "notation": "LOCF",
+            "pref_label": "Last Observation Carried Forward Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C81198"
+        },
+        {
+            "alt_label": "Last Observed Value",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's last recorded non-missing observation.",
+            "identifier": "C132341",
+            "notation": "LOV",
+            "pref_label": "Last Observed Value Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C132341"
+        },
+        {
+            "alt_label": "Last Value Prior to Dosing",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's last observed value prior to the start of study treatment.",
+            "identifier": "C132342",
+            "notation": "LVPD",
+            "pref_label": "Last Value Prior to Dosing Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C132342"
+        },
+        {
+            "alt_label": "Maximum",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's maximum value over a defined set of records.",
+            "identifier": "C82868",
+            "notation": "MAXIMUM",
+            "pref_label": "Maximum Value Derivation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C82868"
+        },
+        {
+            "alt_label": "Minimum",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's minimum value over a defined set of records.",
+            "identifier": "C82867",
+            "notation": "MINIMUM",
+            "pref_label": "Minimum Value Derivation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C82867"
+        },
+        {
+            "alt_label": "Maximum Likelihood",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the estimate that maximizes the probability of observing what has in fact been observed.",
+            "identifier": "C53331",
+            "notation": "ML",
+            "pref_label": "Maximum Likelihood Estimation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C53331"
+        },
+        {
+            "alt_label": "Mean of Other Group",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the mean value from a comparator or reference group.",
+            "identifier": "C81204",
+            "notation": "MOTH",
+            "pref_label": "Mean of Other Group Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C81204"
+        },
+        {
+            "alt_label": "Mean Observed Value in a Group",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the mean value observed in a group of subjects.",
+            "identifier": "C81207",
+            "notation": "MOV",
+            "pref_label": "Mean Observed Value in a Group Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C81207"
+        },
+        {
+            "alt_label": "Phantom Record",
+            "definition": "A technique that creates a record with a missing analysis value when there is no observed record for a given analysis visit or analysis timepoint.",
+            "identifier": "C170545",
+            "notation": "PHANTOM",
+            "pref_label": "Phantom Record Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C170545"
+        },
+        {
+            "alt_label": "Penultimate Observation Carried Forward",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's next-to-last non-missing value.",
+            "identifier": "C81205",
+            "notation": "POCF",
+            "pref_label": "Penultimate Observation Carried Forward Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C81205"
+        },
+        {
+            "alt_label": "Screening Observation Carried Forward",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's non-missing screening observation.",
+            "identifier": "C81200",
+            "notation": "SOCF",
+            "pref_label": "Screening Observation Carried Forward Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C81200"
+        },
+        {
+            "alt_label": "Upper Limit of Detection",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the upper limit of detection of a test.",
+            "identifier": "C174264",
+            "notation": "ULOD",
+            "pref_label": "Upper Limit of Detection Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C174264"
+        },
+        {
+            "alt_label": "Upper Limit of Quantification",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the upper limit of quantification of a test.",
+            "identifier": "C170544",
+            "notation": "ULOQ",
+            "pref_label": "Upper Limit of Quantification Derivation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C170544"
+        },
+        {
+            "alt_label": "Worst Case",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the worst possible outcome.",
+            "identifier": "C81203",
+            "notation": "WC",
+            "pref_label": "Worst Case Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C81203"
+        },
+        {
+            "alt_label": "Worst Observed Case",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the worst recorded outcome within a subject.",
+            "identifier": "C132343",
+            "notation": "WOC",
+            "pref_label": "Worst Observed Case Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C132343"
+        },
+        {
+            "alt_label": "Worst Observed Value Carried Forward",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's worst-case non-missing observation.",
+            "identifier": "C81199",
+            "notation": "WOCF",
+            "pref_label": "Worst Observation Carried Forward Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C81199"
+        },
+        {
+            "alt_label": "Worst Observed Value in a Group",
+            "definition": "A data derivation or imputation technique which sets the analysis value on the record to the worst value observed in a group of subjects.",
+            "identifier": "C81206",
+            "notation": "WOV",
+            "pref_label": "Worst Observed Value in a Group Imputation Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/adam/C81224-C81206"
+        }
+    ]
+}

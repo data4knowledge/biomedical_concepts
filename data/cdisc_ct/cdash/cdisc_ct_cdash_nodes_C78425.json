@@ -1,0 +1,92 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Administration within or introduced directly into a localized lesion. (FDA)",
+            "identifier": "C38250",
+            "notation": "INTRALESIONAL",
+            "pref_label": "Intralesional Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C38250"
+        },
+        {
+            "definition": "Administration within a muscle. (FDA)",
+            "identifier": "C28161",
+            "notation": "INTRAMUSCULAR",
+            "pref_label": "Intramuscular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C28161"
+        },
+        {
+            "definition": "Administration within the eye. (FDA)",
+            "identifier": "C38255",
+            "notation": "INTRAOCULAR",
+            "pref_label": "Intraocular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C38255"
+        },
+        {
+            "definition": "Administration within the peritoneal cavity. (FDA)",
+            "identifier": "C38258",
+            "notation": "INTRAPERITONEAL",
+            "pref_label": "Intraperitoneal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C38258"
+        },
+        {
+            "alt_label": "Intranasal Route of Administration",
+            "definition": "Administration to the nose; administered by way of the nose. (FDA)",
+            "identifier": "C38284",
+            "notation": "NASAL",
+            "pref_label": "Nasal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C38284"
+        },
+        {
+            "alt_label": "Intraoral Route of Administration;PO",
+            "definition": "Administration to or by way of the mouth. (FDA)",
+            "identifier": "C38288",
+            "notation": "ORAL",
+            "pref_label": "Oral Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C38288"
+        },
+        {
+            "definition": "Administration to the rectum. (FDA)",
+            "identifier": "C38295",
+            "notation": "RECTAL",
+            "pref_label": "Rectal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C38295"
+        },
+        {
+            "definition": "Administration within the respiratory tract by inhaling orally or nasally for local or systemic effect. (FDA)",
+            "identifier": "C38216",
+            "notation": "RESPIRATORY (INHALATION)",
+            "pref_label": "Inhalation Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C38216"
+        },
+        {
+            "alt_label": "SC;Subdermal Route of Administration",
+            "definition": "Administration beneath the skin; hypodermic. Synonymous with the term SUBDERMAL. (FDA)",
+            "identifier": "C38299",
+            "notation": "SUBCUTANEOUS",
+            "pref_label": "Subcutaneous Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C38299"
+        },
+        {
+            "alt_label": "TOP",
+            "definition": "Administration to a particular spot on the outer surface of the body. The E2B term TRANSMAMMARY is a subset of the term TOPICAL. (FDA)",
+            "identifier": "C38304",
+            "notation": "TOPICAL",
+            "pref_label": "Topical Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C38304"
+        },
+        {
+            "definition": "Administration through the dermal layer of the skin to the systemic circulation by diffusion. (FDA)",
+            "identifier": "C38305",
+            "notation": "TRANSDERMAL",
+            "pref_label": "Transdermal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C38305"
+        },
+        {
+            "definition": "Administration into the vagina. (FDA)",
+            "identifier": "C38313",
+            "notation": "VAGINAL",
+            "pref_label": "Vaginal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78425-C38313"
+        }
+    ]
+}

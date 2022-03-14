@@ -1,0 +1,146 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The country in which participants are located when enrolling in a trial or study.",
+            "identifier": "C139170",
+            "notation": "Country of Recruitment",
+            "pref_label": "Country of Recruitment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139170"
+        },
+        {
+            "definition": "Date or date and time of first subject enrollment into a study, as verifiable by a convention that is consistent with authoritative regulatory criteria. Compare with study start. [Modified from ICH E3] (CDISC Glossary)",
+            "identifier": "C139171",
+            "notation": "Date of First Enrollment",
+            "pref_label": "Date of First Enrollment into Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139171"
+        },
+        {
+            "definition": "List of characteristics in a protocol, any one of which may exclude a potential subject from participation in a study. (CDISC glossary)",
+            "identifier": "C25370",
+            "notation": "Exclusion Criteria",
+            "pref_label": "Exclusion Criteria",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C25370"
+        },
+        {
+            "definition": "The criteria in a protocol that prospective subjects must meet to be eligible for participation in a study. NOTE: Exclusion and inclusion criteria define the study population. See also exclusion criteria. (CDISC glossary)",
+            "identifier": "C25532",
+            "notation": "Inclusion Criteria",
+            "pref_label": "Inclusion Criteria",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C25532"
+        },
+        {
+            "alt_label": "Planned Trial Duration",
+            "definition": "The approximate period of time over which the clinical trial is expected to occur.",
+            "identifier": "C127796",
+            "notation": "Planned Trial Duration",
+            "pref_label": "Planned Trial Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C127796"
+        },
+        {
+            "definition": "The name of the entity that is considered the primary sponsor for the trial or study. (NCI)",
+            "identifier": "C139168",
+            "notation": "Primary Sponsor Name",
+            "pref_label": "Primary Study Sponsor Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139168"
+        },
+        {
+            "definition": "The name of the entity that is considered the secondary sponsor for the trial or study. (NCI)",
+            "identifier": "C139169",
+            "notation": "Secondary Sponsor Name",
+            "pref_label": "Secondary Study Sponsor Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139169"
+        },
+        {
+            "definition": "The major organizations providing monetary or material support for the conduct of the trial, including, but not limited to, funding, design, implementation, data analysis and reporting. (EudraCT)",
+            "identifier": "C139167",
+            "notation": "Source of Monetary or Material Support for Study",
+            "pref_label": "Source of Monetary or Material Support for Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139167"
+        },
+        {
+            "definition": "The total number of planned participants in a study or trial.",
+            "identifier": "C139172",
+            "notation": "Target Sample Size",
+            "pref_label": "Target Sample Size",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139172"
+        },
+        {
+            "alt_label": "Therapeutic Area",
+            "definition": "A knowledge field that focuses on research and development of specific treatments for diseases and pathologic findings, as well as prevention of conditions that negatively impact the health of an individual. (NCI)",
+            "identifier": "C101302",
+            "notation": "Therapeutic Area",
+            "pref_label": "Therapeutic Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C101302"
+        },
+        {
+            "definition": "The detailed planning of a study of the safety, efficacy, or optimum dosage schedule (if appropriate) of one or more diagnostic, therapeutic, or prophylactic drugs, devices, or techniques selected according to predetermined criteria of eligibility and observed for predefined evidence of favorable and unfavorable effects. (NCI)",
+            "identifier": "C15787",
+            "notation": "Trial Design",
+            "pref_label": "Clinical Trials Design",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C15787"
+        },
+        {
+            "alt_label": "Trial Disease/Condition Indication",
+            "definition": "The condition, disease or disorder that the clinical trial is intended to investigate or address.",
+            "identifier": "C112038",
+            "notation": "Trial Disease/Condition Indication",
+            "pref_label": "Trial Indication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C112038"
+        },
+        {
+            "alt_label": "Trial Intent Type",
+            "definition": "The planned purpose of the therapy, device, or agent under study in the clinical trial.",
+            "identifier": "C49652",
+            "notation": "Trial Intent",
+            "pref_label": "Clinical Study by Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C49652"
+        },
+        {
+            "alt_label": "Trial Phase Classification",
+            "definition": "Any defined stage in the lifecycle of a clinical trial.",
+            "identifier": "C48281",
+            "notation": "Trial Phase",
+            "pref_label": "Trial Phase",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C48281"
+        },
+        {
+            "alt_label": "Trial Primary Objective",
+            "definition": "The principal purpose of the trial.",
+            "identifier": "C85826",
+            "notation": "Trial Primary Objective",
+            "pref_label": "Trial Primary Objective",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C85826"
+        },
+        {
+            "definition": "An indication as to whether the clinical trial has been registered with a trial registry system.",
+            "identifier": "C139166",
+            "notation": "Trial Registration Indicator",
+            "pref_label": "Trial Registration Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139166"
+        },
+        {
+            "alt_label": "Trial Secondary Objective",
+            "definition": "The auxiliary purpose of the trial.",
+            "identifier": "C85827",
+            "notation": "Trial Secondary Objective",
+            "pref_label": "Trial Secondary Objective",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C85827"
+        },
+        {
+            "alt_label": "Investigative Site;Investigator Site",
+            "definition": "Any healthcare organization, institution, facility or provider directly involved in conducting or facilitating a particular clinical trial. (NCI)",
+            "identifier": "C85838",
+            "notation": "Trial Site",
+            "pref_label": "Clinical Trial Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C85838"
+        },
+        {
+            "alt_label": "Trial Scope;Trial Type",
+            "definition": "The nature of the interventional study for which information is being collected.",
+            "identifier": "C49660",
+            "notation": "Trial Type",
+            "pref_label": "Trial Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C49660"
+        }
+    ]
+}

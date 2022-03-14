@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Body Weight",
+            "definition": "The weight of a subject. (NCI)",
+            "identifier": "C81328",
+            "notation": "Body Weight",
+            "pref_label": "Body Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89961-C81328"
+        },
+        {
+            "alt_label": "Gravid Uterus Adjusted Body Weight",
+            "definition": "The maternal body weight adjusted for the weight of the gravid uterus. This is derived by subtracting the gravid uterus weight from the total maternal body weight.",
+            "identifier": "C124477",
+            "notation": "Gravid Uterus Adjusted Body Weight",
+            "pref_label": "Gravid Uterus Adjusted Maternal Body Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89961-C124477"
+        },
+        {
+            "alt_label": "Terminal Body Weight",
+            "definition": "The weight of a subject at a specified end point. (NCI)",
+            "identifier": "C90464",
+            "notation": "Terminal Body Weight",
+            "pref_label": "Terminal Body Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89961-C90464"
+        }
+    ]
+}

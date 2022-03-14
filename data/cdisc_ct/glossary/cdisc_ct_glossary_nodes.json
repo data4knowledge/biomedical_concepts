@@ -1,0 +1,32 @@
+{
+    "API_SOURCE": [
+        {
+            "uri": "http://id.d4k.dk/dataset/source/cdisc/ct/glossary",
+            "url": "https://api.library.cdisc.org/api/mdr/ct/packages/glossaryct-2021-12-17"
+        }
+    ],
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CDISC Glossary",
+            "definition": "The terminology of the Clinical Data Interchange Standards Consortium (CDISC) glossary.",
+            "extensible": false,
+            "identifier": "C67497",
+            "label": "CDISC Glossary",
+            "notation": "CDISC Glossary",
+            "pref_label": "CDISC Glossary Terminology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/glossary/C67497"
+        }
+    ],
+    "SKOS_CONCEPT_SCHEME": [
+        {
+            "description": "CDISC Controlled Terminology for Glossary is the set of CDISC-developed or CDISC-adopted standard expressions (values) used with data items within CDISC-defined GLOSSARY datasets.",
+            "effective_date": "2021-12-17",
+            "label": "Glossary Controlled Terminology Package 48 Effective 2021-12-17",
+            "name": "Glossary CT 2021-12-17",
+            "source": "Glossary Controlled Terminology developed by the CDISC Terminology Team in collaboration with the National Cancer Institute's Enterprise Vocabulary Services (EVS)",
+            "status": "Final",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/glossary",
+            "version": "2021-12-17"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Benign",
+            "definition": "For neoplasms, a non-infiltrating and non-metastasizing neoplastic process that is characterized by the absence of morphologic features associated with malignancy (e.g., severe atypia, nuclear pleomorphism, tumor cell necrosis, and abnormal mitoses). For other conditions, a process that is mild in nature and not dangerous to health. (NCI)",
+            "identifier": "C14172",
+            "notation": "BENIGN",
+            "pref_label": "Benign",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C14172"
+        },
+        {
+            "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of the bone.",
+            "identifier": "C132466",
+            "notation": "BONE LESION",
+            "pref_label": "Bone Lesion Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C132466"
+        },
+        {
+            "alt_label": "Site of Disease",
+            "definition": "The anatomical location at which the disease is present.",
+            "identifier": "C173263",
+            "notation": "DISEASE SITE",
+            "pref_label": "Disease Involvement Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C173263"
+        },
+        {
+            "definition": "Of or belonging to an area on the body that is far apart in relation to a point of origin.",
+            "identifier": "C25321",
+            "notation": "DISTANT",
+            "pref_label": "Distant",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C25321"
+        },
+        {
+            "definition": "Of or belonging to a restricted area on the body in relation to a point of origin.",
+            "identifier": "C67263",
+            "notation": "LOCAL",
+            "pref_label": "Local",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C67263"
+        },
+        {
+            "definition": "The identification of an anatomical location that may contain a tumor, lesion or site of disease, and is part of the assessment of the response to the therapeutic intervention.",
+            "identifier": "C161481",
+            "notation": "LOCATION OF INTEREST",
+            "pref_label": "Anatomical Location of Interest",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C161481"
+        },
+        {
+            "definition": "Of or belonging to either a local and/or regional area of the body in relation to a point of origin.",
+            "identifier": "C25388",
+            "notation": "LOCOREGIONAL",
+            "pref_label": "Local-Regional",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C25388"
+        },
+        {
+            "definition": "The identification of a tumor, lesion, or site of disease that is present at baseline and will be quantifiably measured.",
+            "identifier": "C103416",
+            "notation": "MEASURED",
+            "pref_label": "Measured Tumor Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C103416"
+        },
+        {
+            "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of the bone, which has not been previously seen or characterized.",
+            "identifier": "C132467",
+            "notation": "NEW BONE LESION",
+            "pref_label": "New Bone Lesion Lesion Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C132467"
+        },
+        {
+            "alt_label": "New Non-Index",
+            "definition": "The identification of a tumor, lesion, or site of disease that will be assessed qualitatively over time, and which was not detected at baseline.",
+            "identifier": "C139126",
+            "notation": "NEW NON-TARGET",
+            "pref_label": "New Non-Target Lesion Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C139126"
+        },
+        {
+            "alt_label": "New Index",
+            "definition": "The identification of a tumor, lesion, or site of disease that will be assessed quantitatively over time, and which was not detected at baseline.",
+            "identifier": "C139127",
+            "notation": "NEW TARGET",
+            "pref_label": "New Target Lesion Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C139127"
+        },
+        {
+            "definition": "The identification of a tumor, lesion, or site of disease which has not been previously seen or characterized.",
+            "identifier": "C94522",
+            "notation": "NEW",
+            "pref_label": "New Lesion Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C94522"
+        },
+        {
+            "definition": "The identification of a tumor, lesion, or site of disease that is incapable of being measured at baseline.",
+            "identifier": "C103423",
+            "notation": "NON-MEASURABLE",
+            "pref_label": "Non-Measurable Tumor Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C103423"
+        },
+        {
+            "definition": "The identification of a contrast-enhancing tumor, lesion, or site of disease that is present at baseline and not considered a target, but may be part of the objective assessment of the response to the therapeutic intervention.",
+            "identifier": "C132468",
+            "notation": "NON-TARGET ENHANCING",
+            "pref_label": "Non-target Enhancing Lesion Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C132468"
+        },
+        {
+            "definition": "The identification of a tumor or lesion located outside of or independent of any lymph nodes that is present at baseline and not considered a target, but may be part of the assessment of the response to the therapeutic intervention.",
+            "identifier": "C132469",
+            "notation": "NON-TARGET EXTRA NODAL",
+            "pref_label": "Non-Target Extra Nodal Lesion Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C132469"
+        },
+        {
+            "definition": "The identification of a tumor or lesion located at or near the lymph node that is present at baseline and not considered a target, but may be part of the assessment of the response to the therapeutic intervention.",
+            "identifier": "C132470",
+            "notation": "NON-TARGET NODAL",
+            "pref_label": "Non-Target Nodal Lesion Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C132470"
+        },
+        {
+            "definition": "The identification of a non-contrast-enhancing tumor, lesion, or site of disease that is present at baseline and not considered a target, but may be part of the assessment of the response to the therapeutic intervention.",
+            "identifier": "C132471",
+            "notation": "NON-TARGET NON-ENHANCING",
+            "pref_label": "Non-target Non-enhancing Lesion Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C132471"
+        },
+        {
+            "alt_label": "Non-Index",
+            "definition": "The identification of a tumor, lesion or site of disease that is present at baseline and not considered a target, but may be part of the objective assessment of the response to the therapeutic intervention.",
+            "identifier": "C94521",
+            "notation": "NON-TARGET",
+            "pref_label": "Non-Target Lesion Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C94521"
+        },
+        {
+            "definition": "The identification of a tumor, lesion, or site of disease that is present at baseline and will not be quantifiably measured.",
+            "identifier": "C103425",
+            "notation": "NOT MEASURED",
+            "pref_label": "Not Measured Tumor Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C103425"
+        },
+        {
+            "definition": "The identification of a tumor, lesion, or site of disease that is present at the site of origin.",
+            "identifier": "C40558",
+            "notation": "PRIMARY",
+            "pref_label": "Primary Lesion",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C40558"
+        },
+        {
+            "definition": "Of or belonging to a broader area or region of the body in relation to a point of origin.",
+            "identifier": "C25643",
+            "notation": "REGIONAL",
+            "pref_label": "Regional",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C25643"
+        },
+        {
+            "definition": "The identification of a tumor or lesion that is present at baseline, located outside of or independent of any lymph nodes, and is the target of the therapeutic intervention.",
+            "identifier": "C103442",
+            "notation": "TARGET EXTRA NODAL",
+            "pref_label": "Target Extra Nodal Tumor Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C103442"
+        },
+        {
+            "definition": "The identification of a tumor or lesion located at or near the lymph node that is present at baseline and is the target of the therapeutic intervention.",
+            "identifier": "C103443",
+            "notation": "TARGET NODAL",
+            "pref_label": "Target Nodal Tumor Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C103443"
+        },
+        {
+            "definition": "The identification of a nodule that is the target of the therapeutic intervention.",
+            "identifier": "C103444",
+            "notation": "TARGET NODULE",
+            "pref_label": "Target Nodule Tumor Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C103444"
+        },
+        {
+            "alt_label": "Index",
+            "definition": "The identification of a tumor, lesion, or site of disease that is present at baseline and is the target of the therapeutic intervention.",
+            "identifier": "C94520",
+            "notation": "TARGET",
+            "pref_label": "Target Lesion Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C94520"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C123650-C17998"
+        }
+    ]
+}

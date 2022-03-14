@@ -1,0 +1,876 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Antimicrobial Acidified/Chlor H20 Ind;Antimicrobial or Acidified/Chlorinated Water At Test Facility Indicator",
+            "definition": "An indication as to whether the animal received antimicrobials or acidified and/or chlorinated water at the test facility (e.g., as part of conventional husbandry and/or per protocol).",
+            "identifier": "C158363",
+            "notation": "AACHIND",
+            "pref_label": "Antimicrobial or Acidified/Chlorinated Water During Husbandry Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158363"
+        },
+        {
+            "alt_label": "Age",
+            "definition": "How long something has existed; elapsed time since birth. (NCI)",
+            "identifier": "C25150",
+            "notation": "AGE",
+            "pref_label": "Age",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C25150"
+        },
+        {
+            "alt_label": "Age Text",
+            "definition": "A textual representation of a chronological age. (NCI)",
+            "identifier": "C90352",
+            "notation": "AGETXT",
+            "pref_label": "Age Text",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90352"
+        },
+        {
+            "alt_label": "Age Unit",
+            "definition": "Those units of time that are routinely used to express the age of a person. (NCI)",
+            "identifier": "C50400",
+            "notation": "AGEU",
+            "pref_label": "Age Unit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C50400"
+        },
+        {
+            "alt_label": "Alternate Study ID",
+            "definition": "A backup sequence of characters used to identify a study. (NCI)",
+            "identifier": "C90354",
+            "notation": "ALTSTDID",
+            "pref_label": "Alternate Study Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90354"
+        },
+        {
+            "alt_label": "FDA Qualified Animal Model Indicator",
+            "definition": "An indication as to whether the study was performed using an animal model that has been qualified through the FDA's Animal Model Qualification Program (AMQP).",
+            "identifier": "C158367",
+            "notation": "AMQPIND",
+            "pref_label": "Qualified Animal Model Use Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158367"
+        },
+        {
+            "alt_label": "Arm Code",
+            "definition": "A character or string that represents a planned arm of a trial or study.",
+            "identifier": "C83216",
+            "notation": "ARMCD",
+            "pref_label": "Planned Arm Code",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C83216"
+        },
+        {
+            "alt_label": "Associated Study",
+            "definition": "An indication that one study is related to another. (NCI)",
+            "identifier": "C90359",
+            "notation": "ASOCSTDY",
+            "pref_label": "Associated Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90359"
+        },
+        {
+            "alt_label": "Bedding Change;Planned Bedding Change Frequency",
+            "definition": "The planned frequency of bedding changes.",
+            "identifier": "C172326",
+            "notation": "BEDCHNG",
+            "pref_label": "Planned Bedding Change Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C172326"
+        },
+        {
+            "alt_label": "Bedding",
+            "definition": "That which comprises the place where a subject sleeps. (NCI)",
+            "identifier": "C90366",
+            "notation": "BEDDING",
+            "pref_label": "Bedding Material",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90366"
+        },
+        {
+            "alt_label": "Challenge Agent Multiple Route Indicator",
+            "definition": "An indication as to whether the challenge agent is administered by more than one route for any animal(s).",
+            "identifier": "C158371",
+            "notation": "CAMRTIND",
+            "pref_label": "Challenge Agent Multiple Route Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158371"
+        },
+        {
+            "alt_label": "Contributing Scientist",
+            "definition": "The name of a scientist involved in study activities, which may include but is not limited to preparation of a contributor report. This role does not imply regulatory responsibilities or oversight.",
+            "identifier": "C132489",
+            "notation": "CNTRBSC",
+            "pref_label": "Non-clinical Contributing Scientist Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C132489"
+        },
+        {
+            "alt_label": "Define-XML Version",
+            "definition": "The version of the CDISC Define-XML specification associated with the study submission.",
+            "identifier": "C177919",
+            "notation": "DFXMLVER",
+            "pref_label": "CDISC Define-XML Version For Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C177919"
+        },
+        {
+            "alt_label": "Basal Diet",
+            "definition": "The fundamental nutritional components that constitute an organism's daily intake of foodstuffs. (NCI)",
+            "identifier": "C90364",
+            "notation": "DIET",
+            "pref_label": "Basal Diet",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90364"
+        },
+        {
+            "alt_label": "Dosing Duration",
+            "definition": "The interval of time over which a course of doses occurs. (NCI)",
+            "identifier": "C90378",
+            "notation": "DOSDUR",
+            "pref_label": "Duration of Dosing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90378"
+        },
+        {
+            "alt_label": "End Date/Time of Dose Interval",
+            "definition": "The date and time at which the dosing interval concludes. (NCI)",
+            "identifier": "C90379",
+            "notation": "DOSENDTC",
+            "pref_label": "End Date Time Of Dose Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90379"
+        },
+        {
+            "alt_label": "Dosing Frequency",
+            "definition": "The number of doses administered per a specific interval.",
+            "identifier": "C89081",
+            "notation": "DOSFRQ",
+            "pref_label": "Dose Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C89081"
+        },
+        {
+            "alt_label": "Start Date/Time of Dose Interval",
+            "definition": "The date and time of the beginning of a dosing interval. (NCI)",
+            "identifier": "C90459",
+            "notation": "DOSSTDTC",
+            "pref_label": "Start Date Time Of Dose Interval",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90459"
+        },
+        {
+            "alt_label": "Environmental Temperature",
+            "definition": "The temperature of the surroundings. (NCI)",
+            "identifier": "C90380",
+            "notation": "ENVTEMP",
+            "pref_label": "Environmental Temperature",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90380"
+        },
+        {
+            "alt_label": "Environmental Temperature Units",
+            "definition": "The units of measure that are used to express the temperature of the surroundings. (NCI)",
+            "identifier": "C90381",
+            "notation": "ENVTEMPU",
+            "pref_label": "Environmental Temperature Units",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90381"
+        },
+        {
+            "alt_label": "Experimental End Date",
+            "definition": "Experimental completion date means the last date on which data are collected from the study. (OECD)",
+            "identifier": "C90382",
+            "notation": "EXPENDTC",
+            "pref_label": "Experiment End Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90382"
+        },
+        {
+            "alt_label": "Experimental Start Date",
+            "definition": "Experimental starting date means the date on which the first study specific data are collected. (OECD)",
+            "identifier": "C90487",
+            "notation": "EXPSTDTC",
+            "pref_label": "Experiment Start Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90487"
+        },
+        {
+            "alt_label": "Feeding Regimen",
+            "definition": "A plan that specifies a diet, amount and schedule of nutritional intake.",
+            "identifier": "C90383",
+            "notation": "FEEDREG",
+            "pref_label": "Feeding Regimen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90383"
+        },
+        {
+            "alt_label": "Factor for Toxic/Physiologic Dose Descr;Factor for Toxicologic/Physiologic Dose Description",
+            "definition": "The quantity given for the multiplier of the toxicologic/physiologic dose description (TDOSD).",
+            "identifier": "C158373",
+            "notation": "FTDOSD",
+            "pref_label": "Factor for Toxicological Dose Descriptor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158373"
+        },
+        {
+            "alt_label": "GLP Flag;Good Laboratory Practice Flag",
+            "definition": "Indicates whether a study is conducted according to Good Laboratory Practices (GLP).",
+            "identifier": "C120944",
+            "notation": "GLPFL",
+            "pref_label": "Good Laboratory Practice Indicator Flag",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C120944"
+        },
+        {
+            "alt_label": "Good Laboratory Practice Type",
+            "definition": "A quality system concerned with the organizational process and the conditions under which non-clinical health and environmental safety studies are planned, performed, monitored, recorded, archived and reported. (OECD)",
+            "identifier": "C90389",
+            "notation": "GLPTYP",
+            "pref_label": "Good Laboratory Practice Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90389"
+        },
+        {
+            "alt_label": "Genetically Modified Subject Indicator",
+            "definition": "An indication as to whether the study or set contains test subjects that have been genetically modified in some way (e.g., transgenic knock-in, knock-down, etc.).",
+            "identifier": "C158369",
+            "notation": "GMSIND",
+            "pref_label": "Genetically Modified Subject Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158369"
+        },
+        {
+            "alt_label": "Group Label",
+            "definition": "Alpha-numeric character(s) assigned to identify a particular collection of subjects possessing common characteristic(s).",
+            "identifier": "C90391",
+            "notation": "GRPLBL",
+            "pref_label": "Group Label",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90391"
+        },
+        {
+            "alt_label": "Housing Group",
+            "definition": "A classification of a group of animals based upon their shared living space.",
+            "identifier": "C90394",
+            "notation": "HOUSEGRP",
+            "pref_label": "Housing Group",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90394"
+        },
+        {
+            "alt_label": "Housing Type",
+            "definition": "The classification of a living space.",
+            "identifier": "C90397",
+            "notation": "HOUSETYP",
+            "pref_label": "Housing Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90397"
+        },
+        {
+            "alt_label": "Housing Humidity",
+            "definition": "The amount of water vapor in the air of a living space.",
+            "identifier": "C90395",
+            "notation": "HUMIDT",
+            "pref_label": "Housing Humidity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90395"
+        },
+        {
+            "alt_label": "Housing Humidity Units",
+            "definition": "The units of measure that are used to express the humidity of a living space.",
+            "identifier": "C90396",
+            "notation": "HUMIDTU",
+            "pref_label": "Housing Humidity Units",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90396"
+        },
+        {
+            "alt_label": "IACUC Number",
+            "definition": "The animal welfare assurance number issued by the NIH Office of Laboratory Animal Welfare (OLAW) after research protocols and evaluations are reviewed by the Institutional Animal Care and Use Committee (IACUC). (NCI)",
+            "identifier": "C90398",
+            "notation": "IACUC",
+            "pref_label": "IACUC Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90398"
+        },
+        {
+            "alt_label": "Method of Identification",
+            "definition": "The mechanism by which the test subject is identified.",
+            "identifier": "C90422",
+            "notation": "IDMETH",
+            "pref_label": "Method Of Identification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90422"
+        },
+        {
+            "alt_label": "Time to Interim Sacrifice",
+            "definition": "The planned duration from the start of dosing to the interim sacrifice of the subject. (NCI)",
+            "identifier": "C90399",
+            "notation": "INTSAC",
+            "pref_label": "Interim Sacrifice Period",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90399"
+        },
+        {
+            "alt_label": "Light Cycle",
+            "definition": "The period of light that a subject is exposed to in a period of time, usually expressed as the amount of time in a 24 hour cycle.",
+            "identifier": "C90419",
+            "notation": "LIGHT",
+            "pref_label": "Light Cycle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90419"
+        },
+        {
+            "alt_label": "Method of Termination",
+            "definition": "The mechanism or means by which a life is ended.",
+            "identifier": "C90423",
+            "notation": "MTHTRM",
+            "pref_label": "Method of Termination of Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90423"
+        },
+        {
+            "alt_label": "Pathogen Exclusion",
+            "definition": "The pathogen for which the animal(s) have been verified to be free.",
+            "identifier": "C158365",
+            "notation": "PATHEX",
+            "pref_label": "Excluded Pathogen",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158365"
+        },
+        {
+            "alt_label": "Pathogen Exclusion Verification Method",
+            "definition": "The technique by which the animal supplier or test facility ensures that the animals are free from specified pathogens.",
+            "identifier": "C158366",
+            "notation": "PATHEXVM",
+            "pref_label": "Pathogen Exclusion Verification Method",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158366"
+        },
+        {
+            "alt_label": "Planned Challenge Agent Exposure",
+            "definition": "The planned total amount of challenge agent to which the subject is exposed at one time.",
+            "identifier": "C161572",
+            "notation": "PCAEX",
+            "pref_label": "Planned Challenge Agent Exposure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C161572"
+        },
+        {
+            "alt_label": "Planned Challenge Agent Exposure Freq;Planned Challenge Agent Exposure Frequency",
+            "definition": "The planned number of challenge agent exposures per unit of time.",
+            "identifier": "C161574",
+            "notation": "PCAEXFRQ",
+            "pref_label": "Planned Challenge Agent Exposure Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C161574"
+        },
+        {
+            "alt_label": "Planned Challenge Agent Exposure Rate",
+            "definition": "The planned amount of challenge agent per unit of time during a single exposure.",
+            "identifier": "C161575",
+            "notation": "PCAEXRTE",
+            "pref_label": "Planned Challenge Agent Exposure Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C161575"
+        },
+        {
+            "alt_label": "Planned Challenge Agent Exposure Units",
+            "definition": "The unit of measure for the planned challenge agent exposure.",
+            "identifier": "C161573",
+            "notation": "PCAEXU",
+            "pref_label": "Planned Challenge Agent Exposure Units",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C161573"
+        },
+        {
+            "alt_label": "Planned Challenge Agent Exposure Route",
+            "definition": "The planned route of exposure for the challenge agent.",
+            "identifier": "C161576",
+            "notation": "PCAROUTE",
+            "pref_label": "Planned Challenge Agent Exposure Route",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C161576"
+        },
+        {
+            "alt_label": "Pharmacologic Class",
+            "definition": "The pharmacological class of the investigational product.",
+            "identifier": "C98768",
+            "notation": "PCLASS",
+            "pref_label": "Pharmacological Class of Investigational Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C98768"
+        },
+        {
+            "alt_label": "Planned Dose Frequency",
+            "definition": "The planned number of doses administered per a specific interval.",
+            "identifier": "C147513",
+            "notation": "PDOSFRQ",
+            "pref_label": "Planned Dose Frequency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C147513"
+        },
+        {
+            "alt_label": "Principal Investigator",
+            "definition": "The name of the investigator who is responsible for defined aspects of a study, as specified in the study protocol.",
+            "identifier": "C129943",
+            "notation": "PINV",
+            "pref_label": "Non-Clinical Principal Investigator Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C129943"
+        },
+        {
+            "alt_label": "Pharmacokinetic Analysis Indicator",
+            "definition": "An indication as to whether the study includes a pharmacokinetic assessment.",
+            "identifier": "C158370",
+            "notation": "PKANIND",
+            "pref_label": "Pharmacokinetic Analysis Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158370"
+        },
+        {
+            "alt_label": "Planned Number of Female Subjects",
+            "definition": "The intended quantity of female subjects.",
+            "identifier": "C90437",
+            "notation": "PLANFSUB",
+            "pref_label": "Planned Number of Female Subjects",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90437"
+        },
+        {
+            "alt_label": "Planned Number of Male Subjects",
+            "definition": "The intended quantity of male subjects.",
+            "identifier": "C90438",
+            "notation": "PLANMSUB",
+            "pref_label": "Planned Number of Male Subjects",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90438"
+        },
+        {
+            "alt_label": "Project License Number",
+            "definition": "The identifier assigned to a project that conveys a particular authorization. (NCI)",
+            "identifier": "C90439",
+            "notation": "PPL",
+            "pref_label": "Project License Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90439"
+        },
+        {
+            "alt_label": "Planned Pharm Target Common Name;Planned Pharmacologic Target Common Name",
+            "definition": "The disease, gene, protein, or pathway that is the intended target of the therapeutic intervention.",
+            "identifier": "C147514",
+            "notation": "PPTCNAM",
+            "pref_label": "Planned Pharmacologic Target Common Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C147514"
+        },
+        {
+            "alt_label": "Planned Pharm Target Entrez Gene ID;Planned Pharmacologic Target Entrez Gene Identifier",
+            "definition": "The accession number maintained within the Entrez Gene database for the intended gene target of the pharmacologic intervention.",
+            "identifier": "C147515",
+            "notation": "PPTEGID",
+            "pref_label": "Planned Pharmacologic Target Entrez Gene Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C147515"
+        },
+        {
+            "alt_label": "Planned Pharm Target Entrez Gene Symbol;Planned Pharmacologic Target Entrez Gene Symbol",
+            "definition": "The official alpha-numeric name maintained within the Entrez Gene database for the intended gene target of the pharmacologic intervention.",
+            "identifier": "C147516",
+            "notation": "PPTEGSYM",
+            "pref_label": "Planned Pharmacologic Target Entrez Gene Symbol",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C147516"
+        },
+        {
+            "alt_label": "Planned Pharm Target Mode of Action;Planned Pharmacologic Target Mode of Action",
+            "definition": "A description of the functional change at the level of the intended target of the pharmacologic intervention.",
+            "identifier": "C147517",
+            "notation": "PPTMDA",
+            "pref_label": "Planned Pharmacologic Target Mode of Action",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C147517"
+        },
+        {
+            "alt_label": "Previous Research Experience Indicator",
+            "definition": "An indication as to whether the study subject has been in a previous study.",
+            "identifier": "C158348",
+            "notation": "PRVRSIND",
+            "pref_label": "Previous Research Experience Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158348"
+        },
+        {
+            "alt_label": "Planned Treatment Administration Rate",
+            "definition": "The planned amount of treatment per unit of time during a single administration.",
+            "identifier": "C161577",
+            "notation": "PTRTRTE",
+            "pref_label": "Planned Treatment Administration Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C161577"
+        },
+        {
+            "alt_label": "Recovery Period;Recovery Sacrifice Period",
+            "definition": "The duration from the end of dosing to the final sacrifice of the subject. (NCI)",
+            "identifier": "C90446",
+            "notation": "RECSAC",
+            "pref_label": "Recovery Sacrifice Period",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90446"
+        },
+        {
+            "alt_label": "Route of Administration",
+            "definition": "The pathway by which a substance is administered in order to reach the site of action in the body.",
+            "identifier": "C38114",
+            "notation": "ROUTE",
+            "pref_label": "Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C38114"
+        },
+        {
+            "alt_label": "Strain/Substrain Details",
+            "definition": "Additional clarifying details regarding the test system under study, such as a description of a phenotypic alteration associated with the specific genetic modification captured or collected in the STRAIN/SUBSTRAIN variable.",
+            "identifier": "C90460",
+            "notation": "SBSTRAIN",
+            "pref_label": "Strain Substrain Details",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90460"
+        },
+        {
+            "alt_label": "Study Design",
+            "definition": "A plan detailing how a trial or study will be performed in order to represent the phenomenon under examination, to answer the research questions that have been asked, and defining the methods of data analysis. Study design is driven by the research hypothesis being posed, study subject/population/sample available, logistics/resources: technology, support, networking, collaborative support, etc.",
+            "identifier": "C95082",
+            "notation": "SDESIGN",
+            "pref_label": "Nonclinical Study Design",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C95082"
+        },
+        {
+            "alt_label": "Set Label",
+            "definition": "Character(s) assigned to identify a particular set of subjects or ideas. (NCI)",
+            "identifier": "C90455",
+            "notation": "SETLBL",
+            "pref_label": "Set Label",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90455"
+        },
+        {
+            "alt_label": "Sex of Participants",
+            "definition": "The specific sex, either male, female, or mixed of the subject group being studied. (NCI)",
+            "identifier": "C49696",
+            "notation": "SEXPOP",
+            "pref_label": "Sex of Study Group",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C49696"
+        },
+        {
+            "alt_label": "Study Length",
+            "definition": "The anticipated length of a nonclinical study measured as a unit of time. (NCI)",
+            "identifier": "C95105",
+            "notation": "SLENGTH",
+            "pref_label": "Nonclinical Study Length",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C95105"
+        },
+        {
+            "alt_label": "SEND Controlled Terminology Version",
+            "definition": "The version of the Standard for the Exchange of Nonclinical Data Controlled Terminology that is being used in the study.",
+            "identifier": "C96370",
+            "notation": "SNDCTVER",
+            "pref_label": "Standard for the Exchange of Nonclinical Data Controlled Terminology Version",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C96370"
+        },
+        {
+            "alt_label": "SEND IG Version;SEND Implementation Guide Version",
+            "definition": "The version of the Standard for the Exchange of Nonclinical Data Implementation Guide that is being used in the study submission.",
+            "identifier": "C90458",
+            "notation": "SNDIGVER",
+            "pref_label": "Standard for the Exchange of Nonclinical Data Implementation Guide Version",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90458"
+        },
+        {
+            "alt_label": "Species",
+            "definition": "The common name for an animal used as the test system on a study (e.g., dog, monkey, mouse, rabbit, rat).",
+            "identifier": "C96433",
+            "notation": "SPECIES",
+            "pref_label": "SEND Test System Common Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C96433"
+        },
+        {
+            "alt_label": "Specific Pathogen Free Indicator",
+            "definition": "An indication as to whether the animals have been shown to be free of a specific pathogen(s).",
+            "identifier": "C158368",
+            "notation": "SPFIND",
+            "pref_label": "Specific Pathogen Free Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158368"
+        },
+        {
+            "alt_label": "Sponsor-Defined Group Code",
+            "definition": "Alpha-numeric character(s) assigned by the sponsor to identify a particular collection of subjects possessing common characteristic(s).",
+            "identifier": "C90456",
+            "notation": "SPGRPCD",
+            "pref_label": "Sponsor Defined Group Code",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90456"
+        },
+        {
+            "alt_label": "Planned Number of Subjects",
+            "definition": "The planned number of subjects to be entered in a nonclinical study.",
+            "identifier": "C95106",
+            "notation": "SPLANSUB",
+            "pref_label": "Planned Number of Nonclinical Subjects",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C95106"
+        },
+        {
+            "alt_label": "Test Subject Supplier Site",
+            "definition": "The geographic location of the organization that supplied the test subjects.",
+            "identifier": "C90474",
+            "notation": "SPLRLOC",
+            "pref_label": "Test Subject Supplier Site",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90474"
+        },
+        {
+            "alt_label": "Test Subject Supplier;Test Subject Supplier Name",
+            "definition": "The name of the organization that supplied the test subjects. (NCI)",
+            "identifier": "C90473",
+            "notation": "SPLRNAM",
+            "pref_label": "Test Subject Supplier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90473"
+        },
+        {
+            "alt_label": "Sponsor's Study Reference ID",
+            "definition": "The reference identifier by which the study is known to the sponsor. This may be different from the STUDYID if the data were collected under a different identifier (e.g., used in a situation where a contract facility performs the study and provides a final report).",
+            "identifier": "C135009",
+            "notation": "SPREFID",
+            "pref_label": "Sponsor Study Reference Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C135009"
+        },
+        {
+            "alt_label": "Study Is Randomized",
+            "definition": "The process of assigning nonclinical study subjects to treatment or control groups using an element of chance to determine the assignments in order to reduce bias. (NCI)",
+            "identifier": "C95104",
+            "notation": "SRANDOM",
+            "pref_label": "Nonclinical Randomization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C95104"
+        },
+        {
+            "alt_label": "Sponsoring Organization",
+            "definition": "The name of the entity that is responsible for the initiation, management, and/or financing of a nonclinical study. (NCI)",
+            "identifier": "C129946",
+            "notation": "SSPONSOR",
+            "pref_label": "Nonclinical Study Sponsor Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C129946"
+        },
+        {
+            "alt_label": "Study Type",
+            "definition": "The type of nonclinical study performed e.g. Single Dose, Repeat Dose. (NCI)",
+            "identifier": "C92644",
+            "notation": "SSTYP",
+            "pref_label": "Nonclinical Study Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C92644"
+        },
+        {
+            "alt_label": "Study Category",
+            "definition": "The classification of the study. (NCI)",
+            "identifier": "C90461",
+            "notation": "STCAT",
+            "pref_label": "Study Category",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90461"
+        },
+        {
+            "alt_label": "Study Director",
+            "definition": "The name of the person who has overall responsibility for the technical conduct of a study, as well as for the interpretation, analysis, documentation and reporting of results, and represents the single point of study control. (FDA)",
+            "identifier": "C129944",
+            "notation": "STDIR",
+            "pref_label": "Study Chair Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C129944"
+        },
+        {
+            "alt_label": "Study Completion Date;Study End Date",
+            "definition": "The date on which the final report is signed by the study director. Also known as Study Completion Date. (FDA)",
+            "identifier": "C99156",
+            "notation": "STENDTC",
+            "pref_label": "Nonclinical Study End Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C99156"
+        },
+        {
+            "alt_label": "Study Title",
+            "definition": "The name of a nonclinical study.",
+            "identifier": "C95108",
+            "notation": "STITLE",
+            "pref_label": "Nonclinical Study Title",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C95108"
+        },
+        {
+            "alt_label": "Sponsor's Monitor",
+            "definition": "The name of the individual working for the sponsor responsible for overseeing the activities of the study.",
+            "identifier": "C129945",
+            "notation": "STMON",
+            "pref_label": "Study Sponsor Monitor Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C129945"
+        },
+        {
+            "alt_label": "Strain/Substrain",
+            "definition": "The vendor-supplied species/strain/substrain designation for the test system under study. It may combine the species, background strain, substrain, and associated genetic modifications as supplied by the vendor (e.g. FISCHER 344, SPRAGUE-DAWLEY IGS, WISTAR Kyoto, BEAGLE, CYNOMOLGUS, RHESUS and CHIMPANZEE).",
+            "identifier": "C96373",
+            "notation": "STRAIN",
+            "pref_label": "SEND Test System Strain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C96373"
+        },
+        {
+            "alt_label": "Study Report Status",
+            "definition": "The status of the study report associated with the delivered datasets.",
+            "identifier": "C158364",
+            "notation": "STRPSTAT",
+            "pref_label": "Study Report Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158364"
+        },
+        {
+            "alt_label": "Study Initiation Date;Study Start Date",
+            "definition": "The date on which the protocol is signed by the study director. Also known as Study Initiation Date. (FDA)",
+            "identifier": "C99157",
+            "notation": "STSTDTC",
+            "pref_label": "Nonclinical Study Start Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C99157"
+        },
+        {
+            "alt_label": "Test Article Percent Purity",
+            "definition": "The fractional composition of the test article with respect to the active ingredient(s) (API), expressed as a percentage.",
+            "identifier": "C166110",
+            "notation": "TAPCTPUR",
+            "pref_label": "Test Article Percent Purity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C166110"
+        },
+        {
+            "alt_label": "Test Article Physical Substance Class;Test Article Physical Substance Classification",
+            "definition": "The general substance class of the test article, based on physical, biochemical, and/or other composition of matter properties.",
+            "identifier": "C154896",
+            "notation": "TAPHSCLS",
+            "pref_label": "Test Article Physical Class",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C154896"
+        },
+        {
+            "alt_label": "Control Type",
+            "definition": "Comparator against which the study treatment is evaluated.",
+            "identifier": "C49647",
+            "notation": "TCNTRL",
+            "pref_label": "Control Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C49647"
+        },
+        {
+            "alt_label": "Toxic/Physiologic Dose Descr;Toxicologic/Physiologic Dose Description",
+            "definition": "A description of a statistically derived estimate of a dose with a certain toxicological or physiologic effect in a population, based on data from a dose-response study. Examples include \"LD50\" and \"ED90\".",
+            "identifier": "C158372",
+            "notation": "TDOSD",
+            "pref_label": "Toxicological Dose Descriptor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158372"
+        },
+        {
+            "alt_label": "Telemetered Indicator;Telemeterized Indicator",
+            "definition": "An indication as to whether the subject(s) were telemetered during the study.",
+            "identifier": "C158350",
+            "notation": "TELMIND",
+            "pref_label": "Telemeterized Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C158350"
+        },
+        {
+            "alt_label": "Test Facility Country",
+            "definition": "The country of the place in which a nonclinical laboratory study takes place, i.e., actually uses the test article in a test system. Testing facility includes any establishment required to register under section 510 of the act that conducts nonclinical laboratory studies and any consulting laboratory described in section 704 of the act that conducts such studies. Testing facility encompasses only those operational units that are being or have been used to conduct nonclinical laboratory studies. (FDA)",
+            "identifier": "C90467",
+            "notation": "TFCNTRY",
+            "pref_label": "Test Facility Country",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90467"
+        },
+        {
+            "alt_label": "Toxicokinetic Description",
+            "definition": "Designation that a set will have samples drawn for toxicokinetic analysis.",
+            "identifier": "C90477",
+            "notation": "TKDESC",
+            "pref_label": "Toxicokinetic Description",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90477"
+        },
+        {
+            "alt_label": "Total Number of Study Animals Purchased",
+            "definition": "The total count of animals purchased for the conduct of a study.",
+            "identifier": "C130198",
+            "notation": "TOTANPCH",
+            "pref_label": "Total Number of Study Animals Purchased",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C130198"
+        },
+        {
+            "alt_label": "Trigger for Intervention",
+            "definition": "A defined criterion that, when met for a subject, results in initiating the administration of the study treatment to that subject.",
+            "identifier": "C161578",
+            "notation": "TRIGINT",
+            "pref_label": "Treatment Trigger",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C161578"
+        },
+        {
+            "alt_label": "Time to Terminal Sacrifice",
+            "definition": "The duration from the start of dosing to the final sacrifice of the subject. (NCI)",
+            "identifier": "C90466",
+            "notation": "TRMSAC",
+            "pref_label": "Terminal Sacrifice Period",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90466"
+        },
+        {
+            "alt_label": "Investigational Therapy or Treatment",
+            "definition": "The investigational product under study.",
+            "identifier": "C41161",
+            "notation": "TRT",
+            "pref_label": "Protocol Agent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C41161"
+        },
+        {
+            "alt_label": "Primary Treatment CAS Registry Number",
+            "definition": "The Chemical Abstract Service registry number of the investigational product (test article).",
+            "identifier": "C92645",
+            "notation": "TRTCAS",
+            "pref_label": "Study Agent CAS Registry Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C92645"
+        },
+        {
+            "alt_label": "Dose Level;Dose per Administration",
+            "definition": "The amount of study drug (or placebo) administered to a patient or test subject to be taken at one time or at stated intervals.",
+            "identifier": "C25488",
+            "notation": "TRTDOS",
+            "pref_label": "Dose",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C25488"
+        },
+        {
+            "alt_label": "Dose Units",
+            "definition": "The unit of measure for the dosage form.",
+            "identifier": "C73558",
+            "notation": "TRTDOSU",
+            "pref_label": "Dosage Form Unit",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C73558"
+        },
+        {
+            "alt_label": "Treatment's Chemical Structure as SMILES",
+            "definition": "The chemical structure of the investigational product (test article) represented as a SMILES string.",
+            "identifier": "C161571",
+            "notation": "TRTSMILE",
+            "pref_label": "Investigational Product SMILES String",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C161571"
+        },
+        {
+            "alt_label": "Primary Treatment Unique Ingredient ID",
+            "definition": "The Unique Ingredient Identifier of the investigational product (test article).",
+            "identifier": "C92646",
+            "notation": "TRTUNII",
+            "pref_label": "Study Agent Unique Ingredient Identifier",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C92646"
+        },
+        {
+            "alt_label": "Treatment Vehicle",
+            "definition": "A carrier or inert medium used as a solvent (or diluent) in which a medicinally active agent is formulated and or administered. (NCI)",
+            "identifier": "C927",
+            "notation": "TRTV",
+            "pref_label": "Drug Vehicle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C927"
+        },
+        {
+            "alt_label": "Test Site Activity",
+            "definition": "The general type of study activity performed at a test site.",
+            "identifier": "C176413",
+            "notation": "TSACTVY",
+            "pref_label": "Test Site Activity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C176413"
+        },
+        {
+            "alt_label": "Test Site Country",
+            "definition": "The country in which a phase(s) of a study is conducted. (OECD)",
+            "identifier": "C90470",
+            "notation": "TSCNTRY",
+            "pref_label": "Test Site Country",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90470"
+        },
+        {
+            "alt_label": "Test Site Location",
+            "definition": "The geographic location(s) at which a phase(s) of a study is conducted. (OECD)",
+            "identifier": "C90471",
+            "notation": "TSLOC",
+            "pref_label": "Test Site Location",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90471"
+        },
+        {
+            "alt_label": "Test Site Name",
+            "definition": "The name of the location(s) at which a phase(s) of a study is conducted. (OECD)",
+            "identifier": "C90472",
+            "notation": "TSNAM",
+            "pref_label": "Test Site Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90472"
+        },
+        {
+            "alt_label": "Test Facility Location",
+            "definition": "The geographic area of the place in which a nonclinical laboratory study takes place, i.e., actually uses the test article in a test system. Testing facility includes any establishment required to register under section 510 of the act that conducts nonclinical laboratory studies and any consulting laboratory described in section 704 of the act that conducts such studies. Testing facility encompasses only those operational units that are being or have been used to conduct nonclinical laboratory studies. (FDA)",
+            "identifier": "C90468",
+            "notation": "TSTFLOC",
+            "pref_label": "Test Facility Location",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90468"
+        },
+        {
+            "alt_label": "Test Facility Name",
+            "definition": "The name of the place in which a nonclinical laboratory study takes place, i.e., actually uses the test article in a test system. Testing facility includes any establishment required to register under section 510 of the act that conducts nonclinical laboratory studies and any consulting laboratory described in section 704 of the act that conducts such studies. Testing facility encompasses only those operational units that are being or have been used to conduct nonclinical laboratory studies. (FDA)",
+            "identifier": "C90469",
+            "notation": "TSTFNAM",
+            "pref_label": "Test Facility Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90469"
+        },
+        {
+            "alt_label": "Drinking Water",
+            "definition": "The type of drinking water that is planned to be provided to the subjects in a set (e.g., tap water, acidified, reverse osmosis, etc.).",
+            "identifier": "C90377",
+            "notation": "WATER",
+            "pref_label": "Drinking Water",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90377"
+        },
+        {
+            "alt_label": "Water Delivery",
+            "definition": "The mechanism by which water is made available. (NCI)",
+            "identifier": "C90486",
+            "notation": "WTRDLVRY",
+            "pref_label": "Water Delivery",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C90009-C90486"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A way of contracting a disease through everyday interactions (nonsexual) with an infected person.",
+            "identifier": "C102606",
+            "notation": "CASUAL CONTACT",
+            "pref_label": "Casual Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102575-C102606"
+        },
+        {
+            "definition": "A way of contracting a disease by interacting with an individual that has been exposed to the disease while undergoing a medical procedure.",
+            "identifier": "C102609",
+            "notation": "CONTACT WITH EXPOSURE DURING MEDICAL PROCEDURE",
+            "pref_label": "Contact With Exposure During Medical Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102575-C102609"
+        },
+        {
+            "definition": "A way of contracting a disease by physically associating with an infected group of individuals.",
+            "identifier": "C102610",
+            "notation": "CONTACT WITH EXPOSURE IN CROWD SETTING",
+            "pref_label": "Contact With Exposure In Crowd Setting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102575-C102610"
+        },
+        {
+            "definition": "A way of contracting a disease by interacting with an individual that is considered at high risk for having the disease.",
+            "identifier": "C102611",
+            "notation": "CONTACT WITH MEDICAL RISK FACTOR",
+            "pref_label": "Contact With Medical Risk Factor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102575-C102611"
+        },
+        {
+            "definition": "A way of contracting a disease through interactions with an infected person in the same residence.",
+            "identifier": "C102646",
+            "notation": "HOUSEHOLD CONTACT",
+            "pref_label": "Household Contact",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102575-C102646"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Living; showing characteristics of life.",
+            "identifier": "C37987",
+            "notation": "ALIVE",
+            "pref_label": "Alive",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124304-C37987"
+        },
+        {
+            "alt_label": "Died",
+            "definition": "The absence of life or state of being dead. (NCI)",
+            "identifier": "C28554",
+            "notation": "DEAD",
+            "pref_label": "Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124304-C28554"
+        },
+        {
+            "alt_label": "U;UNK;Unknown",
+            "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+            "identifier": "C17998",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124304-C17998"
+        }
+    ]
+}

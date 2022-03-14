@@ -1,0 +1,25 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Any inheritable variation in the DNA that is transmitted to the progeny with some frequency.",
+            "identifier": "C17666",
+            "notation": "GERMLINE VARIATION",
+            "pref_label": "Germline Variation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181177-C17666"
+        },
+        {
+            "definition": "Any inheritable variation that appears in mitochondrial DNA that is transmitted to the progeny with some frequency.",
+            "identifier": "C181352",
+            "notation": "MITOCHONDRIAL VARIATION",
+            "pref_label": "Mitochondrial DNA Variation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181177-C181352"
+        },
+        {
+            "definition": "Any non-inheritable variation in the DNA that is not transmitted to the progeny but will be maintained during any mitosis within the individual.",
+            "identifier": "C18060",
+            "notation": "SOMATIC VARIATION",
+            "pref_label": "Somatic Variation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181177-C18060"
+        }
+    ]
+}

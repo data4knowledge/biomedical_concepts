@@ -1,0 +1,300 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "MNSI1-Able to Sense Feet When Walking",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Are you able to sense your feet when you walk?",
+            "identifier": "C100599",
+            "notation": "MNSI1-Able to Sense Feet When Walking",
+            "pref_label": "MNSI - Able to Sense Feet When Walking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100599"
+        },
+        {
+            "alt_label": "MNSI1-Able to Tell Hot from Cold Water",
+            "definition": "Michigan Neuropathy Screening Instrument - History: When you get into the tub or shower, are you able to tell the hot water from the cold water?",
+            "identifier": "C100593",
+            "notation": "MNSI1-Able to Tell Hot from Cold Water",
+            "pref_label": "MNSI - Able to Tell Hot from Cold Water",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100593"
+        },
+        {
+            "alt_label": "MNSI1-Are Feet Too Sensitive to Touch",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Are your feet too sensitive to touch?",
+            "identifier": "C100589",
+            "notation": "MNSI1-Are Feet Too Sensitive to Touch",
+            "pref_label": "MNSI - Feet Too Sensitive to Touch",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100589"
+        },
+        {
+            "alt_label": "MNSI1-Are Your Legs and/or Feet Numb",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Are your legs and/or feet numb?",
+            "identifier": "C100587",
+            "notation": "MNSI1-Are Your Legs and/or Feet Numb",
+            "pref_label": "MNSI - Legs and/or Feet Numb",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100587"
+        },
+        {
+            "alt_label": "MNSI1-Doctor Says Diabetic Neuropathy",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Has your doctor ever told you that you have diabetic neuropathy?",
+            "identifier": "C100595",
+            "notation": "MNSI1-Doctor Says Diabetic Neuropathy",
+            "pref_label": "MNSI - Doctor Says Diabetic Neuropathy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100595"
+        },
+        {
+            "alt_label": "MNSI1-Ever Had Amputation",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Have you ever had an amputation?",
+            "identifier": "C100601",
+            "notation": "MNSI1-Ever Had Amputation",
+            "pref_label": "MNSI - Ever Had Amputation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100601"
+        },
+        {
+            "alt_label": "MNSI1-Ever Had Open Sore on Foot",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Have you ever had an open sore on your foot?",
+            "identifier": "C100594",
+            "notation": "MNSI1-Ever Had Open Sore on Foot",
+            "pref_label": "MNSI - Open Sore on Foot",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100594"
+        },
+        {
+            "alt_label": "MNSI1-Ever Have Burning Pain Legs/Feet",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Do you ever have any burning pain in your legs and/or feet?",
+            "identifier": "C100588",
+            "notation": "MNSI1-Ever Have Burning Pain Legs/Feet",
+            "pref_label": "MNSI - Burning Pain Legs/Feet",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100588"
+        },
+        {
+            "alt_label": "MNSI1-Ever Prickling Feelings Legs/Feet",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Do you ever have any prickling feelings in your legs or feet?",
+            "identifier": "C100591",
+            "notation": "MNSI1-Ever Prickling Feelings Legs/Feet",
+            "pref_label": "MNSI - Prickling Feelings Legs/Feet",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100591"
+        },
+        {
+            "alt_label": "MNSI1-Feel Weak All Over Most Times",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Do you feel weak all over most of the time?",
+            "identifier": "C100596",
+            "notation": "MNSI1-Feel Weak All Over Most Times",
+            "pref_label": "MNSI - Feel Weak All Over Most Times",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100596"
+        },
+        {
+            "alt_label": "MNSI1-Get Muscle Cramps Legs/Feet",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Do you get muscle cramps in your legs and/or feet?",
+            "identifier": "C100590",
+            "notation": "MNSI1-Get Muscle Cramps Legs/Feet",
+            "pref_label": "MNSI - Muscle Cramps Legs/Feet",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100590"
+        },
+        {
+            "alt_label": "MNSI1-Hurt When Bed Covers Touch Skin",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Does it hurt when the bed covers touch your skin?",
+            "identifier": "C100592",
+            "notation": "MNSI1-Hurt When Bed Covers Touch Skin",
+            "pref_label": "MNSI - Hurt When Bed Covers Touch Skin",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100592"
+        },
+        {
+            "alt_label": "MNSI1-Left Ankle Reflexes",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Left ankle reflexes.",
+            "identifier": "C100616",
+            "notation": "MNSI1-Left Ankle Reflexes",
+            "pref_label": "MNSI - Left Ankle Reflexes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100616"
+        },
+        {
+            "alt_label": "MNSI1-Left Foot Appears Normal",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - normal.",
+            "identifier": "C100608",
+            "notation": "MNSI1-Left Foot Appears Normal",
+            "pref_label": "MNSI - Left Foot Appears Normal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100608"
+        },
+        {
+            "alt_label": "MNSI1-Left Foot Deformities",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - deformities.",
+            "identifier": "C100609",
+            "notation": "MNSI1-Left Foot Deformities",
+            "pref_label": "MNSI - Left Foot Deformities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100609"
+        },
+        {
+            "alt_label": "MNSI1-Left Foot Dry Skin, Callus",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - dry skin, callus.",
+            "identifier": "C101020",
+            "notation": "MNSI1-Left Foot Dry Skin, Callus",
+            "pref_label": "MNSI - Left Foot Dry Skin, Callus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C101020"
+        },
+        {
+            "alt_label": "MNSI1-Left Foot Fissure",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - fissure.",
+            "identifier": "C100611",
+            "notation": "MNSI1-Left Foot Fissure",
+            "pref_label": "MNSI - Left Foot Fissure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100611"
+        },
+        {
+            "alt_label": "MNSI1-Left Foot Infection",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - infection.",
+            "identifier": "C100610",
+            "notation": "MNSI1-Left Foot Infection",
+            "pref_label": "MNSI - Left Foot Infection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100610"
+        },
+        {
+            "alt_label": "MNSI1-Left Foot Monofilament",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Left foot - monofilament.",
+            "identifier": "C100620",
+            "notation": "MNSI1-Left Foot Monofilament",
+            "pref_label": "MNSI - Left Foot Monofilament",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100620"
+        },
+        {
+            "alt_label": "MNSI1-Left Foot Other Abnormal Specify",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - other, specify.",
+            "identifier": "C100612",
+            "notation": "MNSI1-Left Foot Other Abnormal Specify",
+            "pref_label": "MNSI - Left Foot Other Abnormal Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100612"
+        },
+        {
+            "alt_label": "MNSI1-Left Foot Ulceration",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Left foot - ulceration.",
+            "identifier": "C100614",
+            "notation": "MNSI1-Left Foot Ulceration",
+            "pref_label": "MNSI - Left Foot Ulceration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100614"
+        },
+        {
+            "alt_label": "MNSI1-Left Foot Vibration Great Toe",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Left foot - vibration perception at great toe.",
+            "identifier": "C100618",
+            "notation": "MNSI1-Left Foot Vibration Great Toe",
+            "pref_label": "MNSI - Left Foot Vibration Great Toe",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100618"
+        },
+        {
+            "alt_label": "MNSI1-Legs Hurt When Walking",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Do your legs hurt when you walk?",
+            "identifier": "C100598",
+            "notation": "MNSI1-Legs Hurt When Walking",
+            "pref_label": "MNSI - Legs Hurt When Walking",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100598"
+        },
+        {
+            "alt_label": "MNSI1-Right Ankle Reflexes",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Right ankle reflexes.",
+            "identifier": "C100615",
+            "notation": "MNSI1-Right Ankle Reflexes",
+            "pref_label": "MNSI - Right Ankle Reflexes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100615"
+        },
+        {
+            "alt_label": "MNSI1-Right Foot Appears Normal",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - normal.",
+            "identifier": "C100603",
+            "notation": "MNSI1-Right Foot Appears Normal",
+            "pref_label": "MNSI - Right Foot Appears Normal",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100603"
+        },
+        {
+            "alt_label": "MNSI1-Right Foot Deformities",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - deformities.",
+            "identifier": "C100604",
+            "notation": "MNSI1-Right Foot Deformities",
+            "pref_label": "MNSI - Right Foot Deformities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100604"
+        },
+        {
+            "alt_label": "MNSI1-Right Foot Dry Skin, Callus",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - dry skin, callus.",
+            "identifier": "C101019",
+            "notation": "MNSI1-Right Foot Dry Skin, Callus",
+            "pref_label": "MNSI - Right Foot Dry Skin, Callus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C101019"
+        },
+        {
+            "alt_label": "MNSI1-Right Foot Fissure",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - fissure.",
+            "identifier": "C100606",
+            "notation": "MNSI1-Right Foot Fissure",
+            "pref_label": "MNSI - Right Foot Fissure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100606"
+        },
+        {
+            "alt_label": "MNSI1-Right Foot Infection",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - infection.",
+            "identifier": "C100605",
+            "notation": "MNSI1-Right Foot Infection",
+            "pref_label": "MNSI - Right Foot Infection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100605"
+        },
+        {
+            "alt_label": "MNSI1-Right Foot Monofilament",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Right foot - monofilament.",
+            "identifier": "C100619",
+            "notation": "MNSI1-Right Foot Monofilament",
+            "pref_label": "MNSI - Right Foot Monofilament",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100619"
+        },
+        {
+            "alt_label": "MNSI1-Right Foot Other Abnormal Specify",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - other, specify.",
+            "identifier": "C100607",
+            "notation": "MNSI1-Right Foot Other Abnormal Specify",
+            "pref_label": "MNSI - Right Foot Other Abnormal Specify",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100607"
+        },
+        {
+            "alt_label": "MNSI1-Right Foot Ulceration",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Right foot - ulceration.",
+            "identifier": "C100613",
+            "notation": "MNSI1-Right Foot Ulceration",
+            "pref_label": "MNSI - Right Foot Ulceration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100613"
+        },
+        {
+            "alt_label": "MNSI1-Right Foot Vibration Great Toe",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Right foot - vibration perception at great toe.",
+            "identifier": "C100617",
+            "notation": "MNSI1-Right Foot Vibration Great Toe",
+            "pref_label": "MNSI - Right Foot Vibration Great Toe",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100617"
+        },
+        {
+            "alt_label": "MNSI1-Skin So Dry That Feet Crack Open",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Is the skin on your feet so dry that it cracks open?",
+            "identifier": "C100600",
+            "notation": "MNSI1-Skin So Dry That Feet Crack Open",
+            "pref_label": "MNSI - Skin So Dry That Feet Crack Open",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100600"
+        },
+        {
+            "alt_label": "MNSI1-Symptoms Worse at Night",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Are your symptoms worse at night?",
+            "identifier": "C100597",
+            "notation": "MNSI1-Symptoms Worse at Night",
+            "pref_label": "MNSI - Symptoms Worse at Night",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100597"
+        },
+        {
+            "alt_label": "MNSI1-Total Score",
+            "definition": "Michigan Neuropathy Screening Instrument - Physical Assessment: Total Score.",
+            "identifier": "C100621",
+            "notation": "MNSI1-Total Score",
+            "pref_label": "MNSI - Physical Assessment Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100621"
+        },
+        {
+            "alt_label": "MNSI1-Total",
+            "definition": "Michigan Neuropathy Screening Instrument - History: Total.",
+            "identifier": "C100602",
+            "notation": "MNSI1-Total",
+            "pref_label": "MNSI - History Total",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100151-C100602"
+        }
+    ]
+}

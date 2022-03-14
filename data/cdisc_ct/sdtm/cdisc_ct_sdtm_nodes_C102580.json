@@ -1,0 +1,48 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Straddling the dividing line between two categories.",
+            "identifier": "C14157",
+            "notation": "BORDERLINE",
+            "pref_label": "Borderline",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102580-C14157"
+        },
+        {
+            "alt_label": "Inconclusive",
+            "definition": "Cannot distinguish between two or more possible values in the current context. (NCI)",
+            "identifier": "C48658",
+            "notation": "INDETERMINATE",
+            "pref_label": "Indeterminate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102580-C48658"
+        },
+        {
+            "alt_label": "INV",
+            "definition": "Not valid data.",
+            "identifier": "C50913",
+            "notation": "INVALID",
+            "pref_label": "Invalid Data",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102580-C50913"
+        },
+        {
+            "definition": "A finding of normality following an examination or investigation looking for the presence of a microorganism, disease, or condition.",
+            "identifier": "C38757",
+            "notation": "NEGATIVE",
+            "pref_label": "Negative Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102580-C38757"
+        },
+        {
+            "definition": "An observation confirming something, such as the presence of a disease, condition, or microorganism.",
+            "identifier": "C38758",
+            "notation": "POSITIVE",
+            "pref_label": "Positive Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102580-C38758"
+        },
+        {
+            "definition": "A barely detectable amount.",
+            "identifier": "C80218",
+            "notation": "TRACE",
+            "pref_label": "Trace",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102580-C80218"
+        }
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Aper",
+            "definition": "The outward or visible aspect of an entity.",
+            "identifier": "C25377",
+            "notation": "APPEARANCE",
+            "pref_label": "Appearance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C25377"
+        },
+        {
+            "alt_label": "ACnc",
+            "definition": "The quantity of a specified substance, which is subject to individual judgment, preference, or predetermined reference, in a unit volume or weight of another substance.",
+            "identifier": "C179790",
+            "notation": "ARBITRARY CONCENTRATION",
+            "pref_label": "Arbitrary Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179790"
+        },
+        {
+            "alt_label": "ArVRat",
+            "definition": "The volume consumed, produced, excreted, or otherwise changed per area per unit of time.",
+            "identifier": "C179791",
+            "notation": "AREIC VOLUME RATE",
+            "pref_label": "Areic Volume Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179791"
+        },
+        {
+            "alt_label": "CCnc",
+            "definition": "The quantity of a specified substance, which is based on catalytic activity, in a unit volume or weight of another substance.",
+            "identifier": "C179792",
+            "notation": "CATALYTIC CONCENTRATION",
+            "pref_label": "Catalytic Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179792"
+        },
+        {
+            "alt_label": "CCnt",
+            "definition": "The total amount of catalytic activity for a substance contained within an entity.",
+            "identifier": "C179793",
+            "notation": "CATALYTIC CONTENT",
+            "pref_label": "Catalytic Content",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179793"
+        },
+        {
+            "alt_label": "CFr",
+            "definition": "The catalytic activity of a component substance to the catalytic activity of the whole.",
+            "identifier": "C179794",
+            "notation": "CATALYTIC FRACTION",
+            "pref_label": "Catalytic Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179794"
+        },
+        {
+            "alt_label": "EntMass",
+            "definition": "The weight of a specified component divided by the number of entities.",
+            "identifier": "C179795",
+            "notation": "ENTITIC MASS",
+            "pref_label": "Entitic Mass",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179795"
+        },
+        {
+            "alt_label": "EntVol",
+            "definition": "The volume of a specified component divided by the number of the specified component.",
+            "identifier": "C179796",
+            "notation": "ENTITIC VOLUME",
+            "pref_label": "Entitic Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179796"
+        },
+        {
+            "alt_label": "Fluorescent Intensity",
+            "definition": "The degree or magnitude of fluorescent light emission.",
+            "identifier": "C184706",
+            "notation": "FLUORESCENCE INTENSITY",
+            "pref_label": "Fluorescence Intensity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C184706"
+        },
+        {
+            "alt_label": "Imp",
+            "definition": "A diagnostic statement that is an interpretation or abstraction of an observation(s).",
+            "identifier": "C131082",
+            "notation": "IMPRESSION",
+            "pref_label": "Impression",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C131082"
+        },
+        {
+            "alt_label": "LsCnc",
+            "definition": "The quantity, expressed as the log of the moles, of a specified substance in a unit volume or weight of another substance.",
+            "identifier": "C179797",
+            "notation": "LOG SUBSTANCE CONCENTRATION",
+            "pref_label": "Log Substance Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179797"
+        },
+        {
+            "alt_label": "MCnc",
+            "definition": "The quantity, expressed as a weight, of a specified substance in a unit volume or weight of another substance.",
+            "identifier": "C179798",
+            "notation": "MASS CONCENTRATION",
+            "pref_label": "Mass Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179798"
+        },
+        {
+            "alt_label": "MFr",
+            "definition": "The weight of a component substance to the weight of the whole.",
+            "identifier": "C67470",
+            "notation": "MASS FRACTION",
+            "pref_label": "Mass Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C67470"
+        },
+        {
+            "alt_label": "MRat",
+            "definition": "The weight consumed, produced, excreted, or otherwise changed per unit of time.",
+            "identifier": "C179799",
+            "notation": "MASS RATE",
+            "pref_label": "Mass Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179799"
+        },
+        {
+            "alt_label": "MRto",
+            "definition": "The quotient of the weight of one substance divided by the weight of another substance.",
+            "identifier": "C179800",
+            "notation": "MASS RATIO",
+            "pref_label": "Mass Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179800"
+        },
+        {
+            "alt_label": "Morph",
+            "definition": "A statement about the form and/or structure of a target entity.",
+            "identifier": "C17943",
+            "notation": "MORPHOLOGY",
+            "pref_label": "Morphology",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C17943"
+        },
+        {
+            "alt_label": "MoM",
+            "definition": "The individual test result relative to the median value of a reference set of test results.",
+            "identifier": "C179801",
+            "notation": "MULTIPLE OF THE MEDIAN",
+            "pref_label": "Multiple of the Median",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179801"
+        },
+        {
+            "alt_label": "Naric",
+            "definition": "The number of specified entities per unit of area.",
+            "identifier": "C179802",
+            "notation": "NUMBER AERIC",
+            "pref_label": "Number Aeric",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179802"
+        },
+        {
+            "alt_label": "NCnc",
+            "definition": "The number of specified entities in a unit volume or weight of a substance.",
+            "identifier": "C179803",
+            "notation": "NUMBER CONCENTRATION",
+            "pref_label": "Number Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179803"
+        },
+        {
+            "alt_label": "NFr",
+            "definition": "The number of component entities to the total number of entities.",
+            "identifier": "C179804",
+            "notation": "NUMBER FRACTION",
+            "pref_label": "Number Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179804"
+        },
+        {
+            "alt_label": "Count;Num;Number Count",
+            "definition": "An absolute count of the number of entities.",
+            "identifier": "C25463",
+            "notation": "NUMBER",
+            "pref_label": "Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C25463"
+        },
+        {
+            "alt_label": "Osmol",
+            "definition": "The number of solute particles per liter of solution.",
+            "identifier": "C179805",
+            "notation": "OSMOLARITY",
+            "pref_label": "Osmolarity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179805"
+        },
+        {
+            "alt_label": "PPres",
+            "definition": "The pressure exerted by a single component of a mixture of gases.",
+            "identifier": "C75755",
+            "notation": "PARTIAL PRESSURE",
+            "pref_label": "Partial Pressure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C75755"
+        },
+        {
+            "alt_label": "PctDiff",
+            "definition": "The difference between two numbers divided by the average of the two numbers, multiplied by 100.",
+            "identifier": "C179806",
+            "notation": "PERCENT DIFFERENCE",
+            "pref_label": "Percent Difference",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179806"
+        },
+        {
+            "alt_label": "Prid",
+            "definition": "An indication of the presence of an entity which, if present, is identified.",
+            "identifier": "C179807",
+            "notation": "PRESENCE OR IDENTITY",
+            "pref_label": "Presence and Identity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179807"
+        },
+        {
+            "alt_label": "PrThr",
+            "definition": "An indication of the presence of an entity which, if present, is in an amount above a predetermined threshold.",
+            "identifier": "C179808",
+            "notation": "PRESENCE OR THRESHOLD",
+            "pref_label": "Presence and Threshold",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179808"
+        },
+        {
+            "alt_label": "Ratio",
+            "definition": "The relationship in quantity, amount, or size between two entities or activities.",
+            "identifier": "C179809",
+            "notation": "RATIO",
+            "pref_label": "Ratio Result Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179809"
+        },
+        {
+            "alt_label": "RelCCnc",
+            "definition": "The quantity of a specified substance, which is based on catalytic activity, in a unit volume or weight of another substance, relative to a comparator.",
+            "identifier": "C179810",
+            "notation": "RELATIVE CATALYTIC CONCENTRATION",
+            "pref_label": "Relative Catalytic Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179810"
+        },
+        {
+            "alt_label": "Rden",
+            "definition": "The density of a specified substance, relative to a comparator.",
+            "identifier": "C179811",
+            "notation": "RELATIVE DENSITY",
+            "pref_label": "Relative Density",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179811"
+        },
+        {
+            "alt_label": "RelMCnc",
+            "definition": "The quantity, expressed as a weight, of a specified substance in a unit volume or weight of another substance, relative to a comparator.",
+            "identifier": "C179812",
+            "notation": "RELATIVE MASS CONCENTRATION",
+            "pref_label": "Relative Mass Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179812"
+        },
+        {
+            "alt_label": "RelTime",
+            "definition": "The time of a specified activity, relative to a comparator.",
+            "identifier": "C179813",
+            "notation": "RELATIVE TIME",
+            "pref_label": "Relative Time",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179813"
+        },
+        {
+            "alt_label": "Score",
+            "definition": "A number or range of numeric values that assess and order a result or response for purposes of comparison.",
+            "identifier": "C25338",
+            "notation": "SCORE",
+            "pref_label": "Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C25338"
+        },
+        {
+            "alt_label": "Molar Concentration;SCnc",
+            "definition": "The quantity, expressed in moles, of a specified substance in a unit volume or weight of another substance.",
+            "identifier": "C179814",
+            "notation": "SUBSTANCE CONCENTRATION",
+            "pref_label": "Molar Concentration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179814"
+        },
+        {
+            "alt_label": "Molar Fraction;SFr",
+            "definition": "The molar amount of a component substance to the molar amount of the whole.",
+            "identifier": "C179815",
+            "notation": "SUBSTANCE FRACTION",
+            "pref_label": "Molar Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179815"
+        },
+        {
+            "alt_label": "Molar Rate;SRat",
+            "definition": "The molar amount of substance consumed, produced, excreted, or otherwise changed per unit of time.",
+            "identifier": "C179816",
+            "notation": "SUBSTANCE RATE",
+            "pref_label": "Molar Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179816"
+        },
+        {
+            "alt_label": "Molar Ratio;SRto",
+            "definition": "The quotient of the molar amount of one substance, divided by the molar amount of another substance.",
+            "identifier": "C81268",
+            "notation": "SUBSTANCE RATIO",
+            "pref_label": "Molar Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C81268"
+        },
+        {
+            "alt_label": "TRto",
+            "definition": "The quotient of one activity time interval divided by another activity time interval.",
+            "identifier": "C179712",
+            "notation": "TIME RATIO",
+            "pref_label": "Time Ratio",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179712"
+        },
+        {
+            "alt_label": "Duration;Time;Time Duration",
+            "definition": "The length of time during which something continues.",
+            "identifier": "C25330",
+            "notation": "TIME",
+            "pref_label": "Duration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C25330"
+        },
+        {
+            "alt_label": "Titr;Titre",
+            "definition": "Concentration of a substance in a solution as determined by the quantitative reaction with added measured volume(s) of a solution of the precisely known concentration(s) of a standard reagent.",
+            "identifier": "C67454",
+            "notation": "TITER",
+            "pref_label": "Titer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C67454"
+        },
+        {
+            "alt_label": "Type",
+            "definition": "An identifiable class based on common distinguishable qualities.",
+            "identifier": "C25284",
+            "notation": "TYPE",
+            "pref_label": "Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C25284"
+        },
+        {
+            "alt_label": "Vel",
+            "definition": "The speed of an entity in a given direction.",
+            "identifier": "C179817",
+            "notation": "VELOCITY",
+            "pref_label": "Velocity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C179817"
+        },
+        {
+            "alt_label": "Visc;Viscosity",
+            "definition": "The resistance of a liquid to sheer forces and flow. (NCI)",
+            "identifier": "C75912",
+            "notation": "VISCOSITY",
+            "pref_label": "Viscosity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C75912"
+        },
+        {
+            "alt_label": "VFr",
+            "definition": "Quotient of the volume of a component substance to the sum of the volumes of all component substances.",
+            "identifier": "C67469",
+            "notation": "VOLUME FRACTION",
+            "pref_label": "Volume Fraction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C67469"
+        },
+        {
+            "alt_label": "VRat",
+            "definition": "The volume consumed, produced, excreted, or otherwise changed per unit of time.",
+            "identifier": "C75761",
+            "notation": "VOLUME RATE",
+            "pref_label": "Volume Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C75761"
+        },
+        {
+            "alt_label": "Vol",
+            "definition": "The amount of three dimensional space occupied by an object or the capacity of a space or container. (NCI)",
+            "identifier": "C25335",
+            "notation": "VOLUME",
+            "pref_label": "Volume",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C179588-C25335"
+        }
+    ]
+}

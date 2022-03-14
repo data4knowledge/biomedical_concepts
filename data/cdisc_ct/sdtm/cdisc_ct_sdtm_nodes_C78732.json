@@ -1,0 +1,36 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Dispensed Amount",
+            "definition": "The quantity of a product that has been dispensed. (NCI)",
+            "identifier": "C78721",
+            "notation": "DISPAMT",
+            "pref_label": "Dispensed Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78732-C78721"
+        },
+        {
+            "alt_label": "Prepared Amount",
+            "definition": "The quantity of a product that has been made ready for use.",
+            "identifier": "C170562",
+            "notation": "PREPAMT",
+            "pref_label": "Prepared Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78732-C170562"
+        },
+        {
+            "alt_label": "Remaining Amount",
+            "definition": "The quantity of a product that remains after dosing, consumption, or use.",
+            "identifier": "C170563",
+            "notation": "REMAMT",
+            "pref_label": "Remaining Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78732-C170563"
+        },
+        {
+            "alt_label": "Returned Amount",
+            "definition": "The quantity of a product that has been returned. (NCI)",
+            "identifier": "C78722",
+            "notation": "RETAMT",
+            "pref_label": "Returned Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C78732-C78722"
+        }
+    ]
+}

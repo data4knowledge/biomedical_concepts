@@ -1,0 +1,92 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Most Severe Acute Stressor",
+            "definition": "The agent, stimulus, activity, or event that causes stress with an acute frequency, which has the highest level of severity.",
+            "identifier": "C124437",
+            "notation": "ACUTSTRS",
+            "pref_label": "Most Severe Acute Stressor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124302-C124437"
+        },
+        {
+            "alt_label": "Age At First Episode",
+            "definition": "The age at which the first episode occurred.",
+            "identifier": "C124438",
+            "notation": "AGEEPSD1",
+            "pref_label": "Age at First Episode",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124302-C124438"
+        },
+        {
+            "alt_label": "Age At First Hospitalization",
+            "definition": "The age at which the first hospitalization event occurred.",
+            "identifier": "C124439",
+            "notation": "AGEHOSP1",
+            "pref_label": "Age at First Hospitalization",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124302-C124439"
+        },
+        {
+            "alt_label": "Age At First Treatment",
+            "definition": "The age at which the first treatment for the condition occurred.",
+            "identifier": "C124440",
+            "notation": "AGETRT1",
+            "pref_label": "Age at First Treatment",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124302-C124440"
+        },
+        {
+            "alt_label": "Most Severe Chronic Stressor",
+            "definition": "The agent, stimulus, activity, or event that causes stress with a chronic frequency, which has the highest level of severity.",
+            "identifier": "C124441",
+            "notation": "CHRNSTRS",
+            "pref_label": "Most Severe Chronic Stressor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124302-C124441"
+        },
+        {
+            "alt_label": "Clinic Stay Indicator",
+            "definition": "An indication as to whether the subject was admitted to a healthcare clinic.",
+            "identifier": "C124442",
+            "notation": "CLININD",
+            "pref_label": "Clinic Stay Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124302-C124442"
+        },
+        {
+            "alt_label": "Number of Episodes",
+            "definition": "The total number of episodes that have occurred for the condition.",
+            "identifier": "C124281",
+            "notation": "EPSDNUM",
+            "pref_label": "Number of Episodes",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124302-C124281"
+        },
+        {
+            "alt_label": "Number Of Hospitalizations",
+            "definition": "The total number of hospitalization events that have occurred for the condition.",
+            "identifier": "C124443",
+            "notation": "HOSPNUM",
+            "pref_label": "Number of Hospitalizations",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124302-C124443"
+        },
+        {
+            "alt_label": "Longitudinal Course",
+            "definition": "A description of the series of events, including signs and symptoms, that define the course of a chronic disease over time.",
+            "identifier": "C35461",
+            "notation": "LONGCRSE",
+            "pref_label": "Clinical Course of Disease",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124302-C35461"
+        },
+        {
+            "alt_label": "Occurrence Indicator",
+            "definition": "An indication as to whether something has happened, such as an event or incident.",
+            "identifier": "C127786",
+            "notation": "OCCUR",
+            "pref_label": "Occurrence Indicator",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124302-C127786"
+        },
+        {
+            "alt_label": "Treatment Setting",
+            "definition": "The surroundings or environment within which the subject receives therapeutic treatment for the condition.",
+            "identifier": "C124444",
+            "notation": "TRTSETT",
+            "pref_label": "Treatment Setting",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C124302-C124444"
+        }
+    ]
+}

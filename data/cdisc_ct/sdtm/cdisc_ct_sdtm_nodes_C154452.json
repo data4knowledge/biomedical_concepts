@@ -1,0 +1,388 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "FAC006-Able to Have/Maintain Erection",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: (For men only) I am able to have and maintain an erection.",
+            "identifier": "C155617",
+            "notation": "FAC006-Able to Have/Maintain Erection",
+            "pref_label": "FACT-BL Version 4 - Able to Have/Maintain Erection",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155617"
+        },
+        {
+            "alt_label": "FAC006-Additional Concern Subscale Score",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: Subscale score.",
+            "identifier": "C180206",
+            "notation": "FAC006-Additional Concern Subscale Score",
+            "pref_label": "FACT-BL Version 4 - Additional Concern Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C180206"
+        },
+        {
+            "alt_label": "FAC006-Bothered by Treatment Side Effect",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Physical Well-Being: I am bothered by side effects of treatment.",
+            "identifier": "C155585",
+            "notation": "FAC006-Bothered by Treatment Side Effect",
+            "pref_label": "FACT-BL Version 4 - Bothered by Treatment Side Effect",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155585"
+        },
+        {
+            "alt_label": "FAC006-Caring for Ostomy Is Difficult",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: Caring for my ostomy appliance is difficult.",
+            "identifier": "C155620",
+            "notation": "FAC006-Caring for Ostomy Is Difficult",
+            "pref_label": "FACT-BL Version 4 - Caring for Ostomy Appliance Is Difficult",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155620"
+        },
+        {
+            "alt_label": "FAC006-Content With Quality of My Life",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Functional Well-Being: I am content with the quality of my life right now.",
+            "identifier": "C155607",
+            "notation": "FAC006-Content With Quality of My Life",
+            "pref_label": "FACT-BL Version 4 - Content With Quality of My Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155607"
+        },
+        {
+            "alt_label": "FAC006-Do You Have an Ostomy Appliance",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: Do you have an ostomy appliance?",
+            "identifier": "C155618",
+            "notation": "FAC006-Do You Have an Ostomy Appliance",
+            "pref_label": "FACT-BL Version 4 - Do You Have an Ostomy Appliance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155618"
+        },
+        {
+            "alt_label": "FAC006-Embarrassed by Ostomy Appliance",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: I am embarrassed by my ostomy appliance.",
+            "identifier": "C155619",
+            "notation": "FAC006-Embarrassed by Ostomy Appliance",
+            "pref_label": "FACT-BL Version 4 - Embarrassed by Ostomy Appliance",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155619"
+        },
+        {
+            "alt_label": "FAC006-Emotional Subscale Score",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Emotional Well-Being: Subscale score.",
+            "identifier": "C180204",
+            "notation": "FAC006-Emotional Subscale Score",
+            "pref_label": "FACT-BL Version 4 - Emotional Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C180204"
+        },
+        {
+            "alt_label": "FAC006-Enjoy Things I Usually Do for Fun",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Functional Well-Being: I am enjoying the things I usually do for fun.",
+            "identifier": "C155606",
+            "notation": "FAC006-Enjoy Things I Usually Do for Fun",
+            "pref_label": "FACT-BL Version 4 - Enjoy Things I Usually Do for Fun",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155606"
+        },
+        {
+            "alt_label": "FAC006-FACT-G Total Score",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - FACT-G total score.",
+            "identifier": "C180208",
+            "notation": "FAC006-FACT-G Total Score",
+            "pref_label": "FACT-BL Version 4 - FACT-G Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C180208"
+        },
+        {
+            "alt_label": "FAC006-Functional Subscale Score",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Functional Well-Being: Subscale score.",
+            "identifier": "C180205",
+            "notation": "FAC006-Functional Subscale Score",
+            "pref_label": "FACT-BL Version 4 - Functional Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C180205"
+        },
+        {
+            "alt_label": "FAC006-Get Emotional Support From Family",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Social/Family Well-Being: I get emotional support from my family.",
+            "identifier": "C155589",
+            "notation": "FAC006-Get Emotional Support From Family",
+            "pref_label": "FACT-BL Version 4 - Get Emotional Support From Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155589"
+        },
+        {
+            "alt_label": "FAC006-I Am Able to Enjoy Life",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Functional Well-Being: I am able to enjoy life.",
+            "identifier": "C155603",
+            "notation": "FAC006-I Am Able to Enjoy Life",
+            "pref_label": "FACT-BL Version 4 - I Am Able to Enjoy Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155603"
+        },
+        {
+            "alt_label": "FAC006-I Am Able to Work",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Functional Well-Being: I am able to work (include work at home).",
+            "identifier": "C155601",
+            "notation": "FAC006-I Am Able to Work",
+            "pref_label": "FACT-BL Version 4 - I Am Able to Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155601"
+        },
+        {
+            "alt_label": "FAC006-I Am Forced to Spend Time in Bed",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Physical Well-Being: I am forced to spend time in bed.",
+            "identifier": "C155587",
+            "notation": "FAC006-I Am Forced to Spend Time in Bed",
+            "pref_label": "FACT-BL Version 4 - I Am Forced to Spend Time in Bed",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155587"
+        },
+        {
+            "alt_label": "FAC006-I Am Interested in Sex",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: I am interested in sex.",
+            "identifier": "C155616",
+            "notation": "FAC006-I Am Interested in Sex",
+            "pref_label": "FACT-BL Version 4 - I Am Interested in Sex",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155616"
+        },
+        {
+            "alt_label": "FAC006-I Am Losing Weight",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: I am losing weight.",
+            "identifier": "C155609",
+            "notation": "FAC006-I Am Losing Weight",
+            "pref_label": "FACT-BL Version 4 - I Am Losing Weight",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155609"
+        },
+        {
+            "alt_label": "FAC006-I Am Satisfied With My Sex Life",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Social/Family Well-Being: I am satisfied with my sex life.",
+            "identifier": "C155594",
+            "notation": "FAC006-I Am Satisfied With My Sex Life",
+            "pref_label": "FACT-BL Version 4 - I Am Satisfied With My Sex Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155594"
+        },
+        {
+            "alt_label": "FAC006-I Am Sleeping Well",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Functional Well-Being: I am sleeping well.",
+            "identifier": "C155605",
+            "notation": "FAC006-I Am Sleeping Well",
+            "pref_label": "FACT-BL Version 4 - I Am Sleeping Well",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155605"
+        },
+        {
+            "alt_label": "FAC006-I Feel Close to My Friends",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Social/Family Well-Being: I feel close to my friends.",
+            "identifier": "C155588",
+            "notation": "FAC006-I Feel Close to My Friends",
+            "pref_label": "FACT-BL Version 4 - I Feel Close to My Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155588"
+        },
+        {
+            "alt_label": "FAC006-I Feel Close to My Partner",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Social/Family Well-Being: I feel close to my partner (or the person who is my main support).",
+            "identifier": "C155593",
+            "notation": "FAC006-I Feel Close to My Partner",
+            "pref_label": "FACT-BL Version 4 - I Feel Close to My Partner",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155593"
+        },
+        {
+            "alt_label": "FAC006-I Feel Ill",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Physical Well-Being: I feel ill.",
+            "identifier": "C155586",
+            "notation": "FAC006-I Feel Ill",
+            "pref_label": "FACT-BL Version 4 - I Feel Ill",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155586"
+        },
+        {
+            "alt_label": "FAC006-I Feel Nervous",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Emotional Well-Being: I feel nervous.",
+            "identifier": "C155598",
+            "notation": "FAC006-I Feel Nervous",
+            "pref_label": "FACT-BL Version 4 - I Feel Nervous",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155598"
+        },
+        {
+            "alt_label": "FAC006-I Feel Sad",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Emotional Well-Being: I feel sad.",
+            "identifier": "C155595",
+            "notation": "FAC006-I Feel Sad",
+            "pref_label": "FACT-BL Version 4 - I Feel Sad",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155595"
+        },
+        {
+            "alt_label": "FAC006-I Get Support From My Friends",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Social/Family Well-Being: I get support from my friends.",
+            "identifier": "C155590",
+            "notation": "FAC006-I Get Support From My Friends",
+            "pref_label": "FACT-BL Version 4 - I Get Support From My Friends",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155590"
+        },
+        {
+            "alt_label": "FAC006-I Have a Good Appetite",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: I have a good appetite.",
+            "identifier": "C155613",
+            "notation": "FAC006-I Have a Good Appetite",
+            "pref_label": "FACT-BL Version 4 - I Have a Good Appetite",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155613"
+        },
+        {
+            "alt_label": "FAC006-I Have a Lack of Energy",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Physical Well-Being: I have a lack of energy.",
+            "identifier": "C155581",
+            "notation": "FAC006-I Have a Lack of Energy",
+            "pref_label": "FACT-BL Version 4 - I Have a Lack of Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155581"
+        },
+        {
+            "alt_label": "FAC006-I Have Accepted My Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Functional Well-Being: I have accepted my illness.",
+            "identifier": "C155604",
+            "notation": "FAC006-I Have Accepted My Illness",
+            "pref_label": "FACT-BL Version 4 - I Have Accepted My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155604"
+        },
+        {
+            "alt_label": "FAC006-I Have Control of My Bowels",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: I have control of my bowels.",
+            "identifier": "C155610",
+            "notation": "FAC006-I Have Control of My Bowels",
+            "pref_label": "FACT-BL Version 4 - I Have Control of My Bowels",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155610"
+        },
+        {
+            "alt_label": "FAC006-I Have Diarrhea",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: I have diarrhea (diarrhoea).",
+            "identifier": "C155612",
+            "notation": "FAC006-I Have Diarrhea",
+            "pref_label": "FACT-BL Version 4 - I Have Diarrhea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155612"
+        },
+        {
+            "alt_label": "FAC006-I Have Nausea",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Physical Well-Being: I have nausea.",
+            "identifier": "C155582",
+            "notation": "FAC006-I Have Nausea",
+            "pref_label": "FACT-BL Version 4 - I Have Nausea",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155582"
+        },
+        {
+            "alt_label": "FAC006-I Have Pain",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Physical Well-Being: I have pain.",
+            "identifier": "C155584",
+            "notation": "FAC006-I Have Pain",
+            "pref_label": "FACT-BL Version 4 - I Have Pain",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155584"
+        },
+        {
+            "alt_label": "FAC006-I Like the Appearance of My Body",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: I like the appearance of my body.",
+            "identifier": "C155614",
+            "notation": "FAC006-I Like the Appearance of My Body",
+            "pref_label": "FACT-BL Version 4 - I Like the Appearance of My Body",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155614"
+        },
+        {
+            "alt_label": "FAC006-I Urinate More Frequently",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: I urinate more frequently than usual.",
+            "identifier": "C155611",
+            "notation": "FAC006-I Urinate More Frequently",
+            "pref_label": "FACT-BL Version 4 - I Urinate More Frequently",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155611"
+        },
+        {
+            "alt_label": "FAC006-I Worry About Dying",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Emotional Well-Being: I worry about dying.",
+            "identifier": "C155599",
+            "notation": "FAC006-I Worry About Dying",
+            "pref_label": "FACT-BL Version 4 - I Worry About Dying",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155599"
+        },
+        {
+            "alt_label": "FAC006-It Burns When I Urinate",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: It burns when I urinate.",
+            "identifier": "C155615",
+            "notation": "FAC006-It Burns When I Urinate",
+            "pref_label": "FACT-BL Version 4 - It Burns When I Urinate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155615"
+        },
+        {
+            "alt_label": "FAC006-Losing Hope Against Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Emotional Well-Being: I am losing hope in the fight against my illness.",
+            "identifier": "C155597",
+            "notation": "FAC006-Losing Hope Against Illness",
+            "pref_label": "FACT-BL Version 4 - Losing Hope Against Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155597"
+        },
+        {
+            "alt_label": "FAC006-My Family Has Accepted My Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Social/Family Well-Being: My family has accepted my illness.",
+            "identifier": "C155591",
+            "notation": "FAC006-My Family Has Accepted My Illness",
+            "pref_label": "FACT-BL Version 4 - My Family Has Accepted My Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155591"
+        },
+        {
+            "alt_label": "FAC006-My Work Is Fulfilling",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Functional Well-Being: My work (include work at home) is fulfilling.",
+            "identifier": "C155602",
+            "notation": "FAC006-My Work Is Fulfilling",
+            "pref_label": "FACT-BL Version 4 - My Work Is Fulfilling",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155602"
+        },
+        {
+            "alt_label": "FAC006-Physical Subscale Score",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Physical Well-Being: Subscale score.",
+            "identifier": "C180202",
+            "notation": "FAC006-Physical Subscale Score",
+            "pref_label": "FACT-BL Version 4 - Physical Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C180202"
+        },
+        {
+            "alt_label": "FAC006-Satisfied Communication Illness",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Social/Family Well-Being: I am satisfied with family communication about my illness.",
+            "identifier": "C155592",
+            "notation": "FAC006-Satisfied Communication Illness",
+            "pref_label": "FACT-BL Version 4 - Satisfied Communication Illness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155592"
+        },
+        {
+            "alt_label": "FAC006-Satisfied With How I Am Coping",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Emotional Well-Being: I am satisfied with how I am coping with my illness.",
+            "identifier": "C155596",
+            "notation": "FAC006-Satisfied With How I Am Coping",
+            "pref_label": "FACT-BL Version 4 - Satisfied With How I Am Coping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155596"
+        },
+        {
+            "alt_label": "FAC006-Social/Family Subscale Score",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Social/Family Well-Being: Subscale score.",
+            "identifier": "C180203",
+            "notation": "FAC006-Social/Family Subscale Score",
+            "pref_label": "FACT-BL Version 4 - Social/Family Subscale Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C180203"
+        },
+        {
+            "alt_label": "FAC006-Total Score",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Total score.",
+            "identifier": "C180209",
+            "notation": "FAC006-Total Score",
+            "pref_label": "FACT-BL Version 4 - Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C180209"
+        },
+        {
+            "alt_label": "FAC006-Trial Outcome Index Score",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Trial outcome index score.",
+            "identifier": "C180207",
+            "notation": "FAC006-Trial Outcome Index Score",
+            "pref_label": "FACT-BL Version 4 - Trial Outcome Index Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C180207"
+        },
+        {
+            "alt_label": "FAC006-Trouble Controlling My Urine",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Additional Concerns: I have trouble controlling my urine.",
+            "identifier": "C155608",
+            "notation": "FAC006-Trouble Controlling My Urine",
+            "pref_label": "FACT-BL Version 4 - Trouble Controlling My Urine",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155608"
+        },
+        {
+            "alt_label": "FAC006-Trouble Meeting Needs of Family",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Physical Well-Being: Because of my physical condition, I have trouble meeting the needs of my family.",
+            "identifier": "C155583",
+            "notation": "FAC006-Trouble Meeting Needs of Family",
+            "pref_label": "FACT-BL Version 4 - Trouble Meeting Needs of Family",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155583"
+        },
+        {
+            "alt_label": "FAC006-Worry My Condition Will Get Worse",
+            "definition": "Functional Assessment of Cancer Therapy-Bladder Version 4 - Emotional Well-Being: I worry that my condition will get worse.",
+            "identifier": "C155600",
+            "notation": "FAC006-Worry My Condition Will Get Worse",
+            "pref_label": "FACT-BL Version 4 - Worry My Condition Will Get Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C154452-C155600"
+        }
+    ]
+}

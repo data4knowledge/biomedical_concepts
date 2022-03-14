@@ -1,0 +1,32 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The analysis was triggered by findings in the data.",
+            "identifier": "C117750",
+            "notation": "DATA DRIVEN",
+            "pref_label": "Data Driven Analysis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C117744-C117750"
+        },
+        {
+            "definition": "The analysis has been requested by a regulatory agency.",
+            "identifier": "C117751",
+            "notation": "REQUESTED BY REGULATORY AGENCY",
+            "pref_label": "Analysis Requested by Regulatory Agency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C117744-C117751"
+        },
+        {
+            "definition": "The analysis is specified in a protocol.",
+            "identifier": "C117752",
+            "notation": "SPECIFIED IN PROTOCOL",
+            "pref_label": "Analysis Specified in Protocol",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C117744-C117752"
+        },
+        {
+            "definition": "The analysis is specified in a statistical analysis plan.",
+            "identifier": "C117753",
+            "notation": "SPECIFIED IN SAP",
+            "pref_label": "Analysis Specified in Statistical Analysis Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C117744-C117753"
+        }
+    ]
+}

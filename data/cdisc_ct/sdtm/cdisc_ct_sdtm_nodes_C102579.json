@@ -1,0 +1,26 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Objective evidence of bacterial infection perceptible to the examiner by laboratory procedure.",
+            "identifier": "C102602",
+            "notation": "BACTERIOLOGICAL FINDING",
+            "pref_label": "Bacteriological Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102579-C102602"
+        },
+        {
+            "alt_label": "Clinical Signs",
+            "definition": "Objective evidence of disease perceptible to the examiner (sign) and subjective evidence of disease perceived by the subject (symptom).",
+            "identifier": "C100104",
+            "notation": "CLINICAL FINDING",
+            "pref_label": "Sign or Symptom",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102579-C100104"
+        },
+        {
+            "definition": "Objective evidence of disease perceptible to the examiner by radiological procedure.",
+            "identifier": "C35869",
+            "notation": "RADIOLOGIC FINDING",
+            "pref_label": "Radiologic Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102579-C35869"
+        }
+    ]
+}

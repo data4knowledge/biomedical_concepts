@@ -1,0 +1,236 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "Composition",
+            "definition": "The materials from which something is made.",
+            "identifier": "C53414",
+            "notation": "Composition",
+            "pref_label": "Composition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C53414"
+        },
+        {
+            "alt_label": "Device Output Blinding Status",
+            "definition": "The blinding condition or state of the information generated and provided by a device.",
+            "identifier": "C170567",
+            "notation": "Device Output Blinding Status",
+            "pref_label": "Device Data Blinded Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C170567"
+        },
+        {
+            "alt_label": "Digital Sampling Rate",
+            "definition": "The number of digital samples taken or recorded per unit of time.",
+            "identifier": "C142234",
+            "notation": "Digital Sampling Rate",
+            "pref_label": "Digital Sampling Rate",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C142234"
+        },
+        {
+            "alt_label": "Dinucleotide Marker Names",
+            "definition": "The literal identifier of the dinucleotide markers present in an assay kit.",
+            "identifier": "C154712",
+            "notation": "Dinucleotide Marker Names",
+            "pref_label": "Dinucleotide Marker Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C154712"
+        },
+        {
+            "alt_label": "Electrical Current Sensor Type",
+            "definition": "A description of the sensor used to detect electrical current.",
+            "identifier": "C142235",
+            "notation": "Electrical Current Sensor Type",
+            "pref_label": "Type of Electrical Current Sensor",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C142235"
+        },
+        {
+            "alt_label": "FDA Device Classification",
+            "definition": "The class of medical device as determined by the US Food and Drug Administration, based upon the level of control necessary to ensure safety and effectiveness (21 CFR 860).",
+            "identifier": "C112278",
+            "notation": "FDA Device Classification",
+            "pref_label": "FDA Device Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C112278"
+        },
+        {
+            "alt_label": "Indication for Use",
+            "definition": "A general description of the disease or condition the product will diagnose, treat, prevent, cure, or mitigate.",
+            "identifier": "C41184",
+            "notation": "Indication for Use",
+            "pref_label": "Indication",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C41184"
+        },
+        {
+            "alt_label": "Internal Orifice Area",
+            "definition": "The extent of a 2-dimensional surface enclosed within the boundary of an internal orifice.",
+            "identifier": "C154711",
+            "notation": "Internal Orifice Area",
+            "pref_label": "Internal Orifice Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C154711"
+        },
+        {
+            "alt_label": "Luminescence Type",
+            "definition": "A classification of light emission.",
+            "identifier": "C120606",
+            "notation": "Luminescence Type",
+            "pref_label": "Luminescence Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C120606"
+        },
+        {
+            "alt_label": "Magnetic Field Strength",
+            "definition": "A measurement of the force of magnetism that acts in the region around a magnetic material or a moving electrical charge.",
+            "identifier": "C156494",
+            "notation": "Magnetic Field Strength",
+            "pref_label": "Magnetic Field Strength",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C156494"
+        },
+        {
+            "alt_label": "Mononucleotide Marker Names",
+            "definition": "The literal identifier of the mononucleotide markers present in an assay kit.",
+            "identifier": "C150830",
+            "notation": "Mononucleotide Marker Names",
+            "pref_label": "Mononucleotide Marker Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C150830"
+        },
+        {
+            "alt_label": "MRI Coil Type",
+            "definition": "The classification of the coil that is used in an magnetic resonance imaging procedure. Usually refers to the anatomical location for where the coil is placed such as head, body or breast.",
+            "identifier": "C116119",
+            "notation": "MRI Coil Type",
+            "pref_label": "MRI Coil Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C116119"
+        },
+        {
+            "alt_label": "Multiplex Probe Parameter",
+            "definition": "A descriptor referring to the number of unique molecular probes contained in each assay component from which results are obtained, such as each well in a 96-well plate.",
+            "identifier": "C116118",
+            "notation": "Multiplex Probe Parameter",
+            "pref_label": "Multiplex Probe Parameter",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C116118"
+        },
+        {
+            "alt_label": "Number of Bulbs;Number of Light Bulbs",
+            "definition": "The total number of light bulbs associated with the entity.",
+            "identifier": "C172481",
+            "notation": "Number of Bulbs",
+            "pref_label": "Number of Bulbs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C172481"
+        },
+        {
+            "alt_label": "Pentanucleotide Marker Names",
+            "definition": "The literal identifier of the pentanucleotide markers present in an assay kit.",
+            "identifier": "C150831",
+            "notation": "Pentanucleotide Marker Names",
+            "pref_label": "Pentanucleotide Marker Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C150831"
+        },
+        {
+            "alt_label": "Pore Size",
+            "definition": "A quantitative or qualitative measurement of the physical dimensions of the pores in a material.",
+            "identifier": "C112332",
+            "notation": "Pore Size",
+            "pref_label": "Material Pore Size",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C112332"
+        },
+        {
+            "alt_label": "Reagent Lot",
+            "definition": "The lot number of the reagent.",
+            "identifier": "C112406",
+            "notation": "Reagent Lot",
+            "pref_label": "Reagent Lot Number",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C112406"
+        },
+        {
+            "alt_label": "Scintillation Crystal Type",
+            "definition": "The classification of the crystalline material, which emits light in response to radiation exposure, used in the imaging procedure.",
+            "identifier": "C116120",
+            "notation": "Scintillation Crystal Type",
+            "pref_label": "Scintillation Crystal Type",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C116120"
+        },
+        {
+            "alt_label": "Section Thickness",
+            "definition": "A measurement of the thickness of a sectioned slice (of tissue or mineral or other substance).",
+            "identifier": "C176286",
+            "notation": "Section Thickness",
+            "pref_label": "Section Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C176286"
+        },
+        {
+            "alt_label": "Shelf Life",
+            "definition": "The period during which a medical product retains its properties and stated performance within specified limits if stored under defined conditions. The stability period is determined from the date the product was manufactured.",
+            "identifier": "C70855",
+            "notation": "Shelf Life",
+            "pref_label": "Medical Product Shelf Life",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C70855"
+        },
+        {
+            "alt_label": "Size",
+            "definition": "The physical magnitude of something. (NCI)",
+            "identifier": "C25681",
+            "notation": "Size",
+            "pref_label": "Size",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C25681"
+        },
+        {
+            "alt_label": "Software Name",
+            "definition": "The literal identifier of the software program.",
+            "identifier": "C150832",
+            "notation": "Software Name",
+            "pref_label": "Software Name",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C150832"
+        },
+        {
+            "alt_label": "Software Version",
+            "definition": "A form or variant of software; one of a sequence of copies of a software program, each incorporating new modifications. (NCI)",
+            "identifier": "C111093",
+            "notation": "Software Version",
+            "pref_label": "Software Version",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C111093"
+        },
+        {
+            "alt_label": "Surgical Mesh Open Area",
+            "definition": "A quantitative or qualitative measurement of the physical dimensions of the open spaces in a loosely woven sheet of inorganic or biological materials, which is used to physically support organs or tissue during a surgical procedure.",
+            "identifier": "C112421",
+            "notation": "Surgical Mesh Open Area",
+            "pref_label": "Surgical Mesh Open Area",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C112421"
+        },
+        {
+            "alt_label": "Temperature",
+            "definition": "The property of a body or region of space that determines whether or not there will be a net flow of heat into it or out of it from a neighboring body or region and in which direction (if any) the heat will flow, perceptible by living organism as a somatic sensation of cold or heat. It is a measure of the average translational kinetic energy associated with the disordered microscopic motion of atoms and molecules. Temperature is measured in one of the three standard temperature scales: Celsius, Kelvin, and Fahrenheit. (NCI)",
+            "identifier": "C25206",
+            "notation": "Temperature",
+            "pref_label": "Temperature",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C25206"
+        },
+        {
+            "alt_label": "Thickness",
+            "definition": "The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.",
+            "identifier": "C41145",
+            "notation": "Thickness",
+            "pref_label": "Thickness",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C41145"
+        },
+        {
+            "alt_label": "Cp Number;Crossing point Number;Ct;Ct Number;Cycle Threshold;Cycle Threshold #;Cycle Threshold Number;Elbow Value;Take-off Point Number;Threshold Cycle;Threshold Cycle Number;TOP Number",
+            "definition": "The cycle number where the fluorescence of the target is detected above the background signal or a pre-set threshold. This value may be used for the computation of the concentration of a target in a polymerase chain reaction (PCR).",
+            "identifier": "C161328",
+            "notation": "Threshold Cycle",
+            "pref_label": "Threshold Cycle",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C161328"
+        },
+        {
+            "alt_label": "Treatment Amount",
+            "definition": "The concentration or quantity of the treatment.",
+            "identifier": "C158156",
+            "notation": "Treatment Amount",
+            "pref_label": "Treatment Amount",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C158156"
+        },
+        {
+            "alt_label": "Wavelength",
+            "definition": "The distance (measured in the direction of propagation) between two points in the same phase in consecutive cycles of a wave. (NCI)",
+            "identifier": "C48158",
+            "notation": "Wavelength",
+            "pref_label": "Wavelength",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C111112-C48158"
+        }
+    ]
+}

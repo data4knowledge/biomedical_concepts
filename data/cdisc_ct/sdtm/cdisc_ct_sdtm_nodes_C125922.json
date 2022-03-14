@@ -1,0 +1,281 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A grading system developed by the American Joint Committee on Cancer (AJCC) and assigned based on the degree of cellular differentiation within a tumor sample.",
+            "identifier": "C135461",
+            "notation": "AJCC TUMOR GRADE",
+            "pref_label": "AJCC Tumor Grade",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C135461"
+        },
+        {
+            "definition": "A score developed by Allred et al. (1998) and assigned based on the percent positivity of cells for a particular protein (Allred DC, Harvey JM, Berardo M, Clark GM. Prognostic and predictive factors in breast cancer by immunohistochemical analysis. Mod Pathol. 1998 Feb;11(2):155-68).",
+            "identifier": "C125985",
+            "notation": "ALLRED PROPORTION POSITIVE SCORE",
+            "pref_label": "Allred Proportion Positive Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C125985"
+        },
+        {
+            "definition": "A score developed by Allred et al. (1998) and assigned based on the average staining intensity of cells for a particular protein (Allred DC, Harvey JM, Berardo M, Clark GM. Prognostic and predictive factors in breast cancer by immunohistochemical analysis. Mod Pathol. 1998 Feb;11(2):155-68).",
+            "identifier": "C125986",
+            "notation": "ALLRED STAINING INTENSITY SCORE",
+            "pref_label": "Allred Average Staining Intensity Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C125986"
+        },
+        {
+            "definition": "The histopathological evaluation of staining in tissue based on the Allred scoring system (Allred DC, Harvey JM, Berardo M, Clark GM. Prognostic and predictive factors in breast cancer by immunohistochemical analysis. Mod Pathol. 1998 Feb;11(2):155-68).",
+            "identifier": "C125987",
+            "notation": "ALLRED TOTAL SCORE",
+            "pref_label": "Allred Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C125987"
+        },
+        {
+            "definition": "A score originally developed by Solez et al. (1993) and assigned based on the histologic evaluation of kidney allograft biopsies according to the Banff Working Classification of Renal Allograft Pathology.",
+            "identifier": "C135462",
+            "notation": "BANFF QUANTITATIVE CRITERIA SCORE RENAL",
+            "pref_label": "Banff Renal Quantitative Criteria Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C135462"
+        },
+        {
+            "alt_label": "Batts-Ludwig Fibrosis Score",
+            "definition": "The histopathological evaluation of the liver based on the Batts-Ludwig scoring system.",
+            "identifier": "C119570",
+            "notation": "BATTS-LUDWIG FIBROSIS SCORE",
+            "pref_label": "Batts-Ludwig Fibrosis Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C119570"
+        },
+        {
+            "definition": "A score based on the Bauermeister scale, a 6-point grading system used to rate the extent of myelofibrosis, based on the amount of reticulin and collagen fibers present in the bone marrow. (Bauermeister DE. Quantitation of bone marrow reticulin-a normal range. Am J Clin Pathol. 1971 Jul;56(1):24-31.)",
+            "identifier": "C154808",
+            "notation": "BAUERMEISTER SCORE",
+            "pref_label": "Bauermeister Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C154808"
+        },
+        {
+            "alt_label": "College of American Pathology Tumor Regression Grade",
+            "definition": "A grading system developed by the College of American Pathology to assess a decrease in tumor size or extent in the body. (College of American Pathology)",
+            "identifier": "C181467",
+            "notation": "CAP TUMOR REGRESSION GRADE",
+            "pref_label": "College of American Pathology Tumor Regression Grade",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181467"
+        },
+        {
+            "definition": "A microscopic measurement of the volumetric or area ratios of components (e.g. blood vessel-, macrophage-, or lymphatic vessel density) of tissues or organs. (Chalkley HW. Method for the quantitative morphological analysis of tissues. J Natl Cancer Inst; 4: 47-52)",
+            "identifier": "C158254",
+            "notation": "CHALKLEY SCORE",
+            "pref_label": "Chalkley Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C158254"
+        },
+        {
+            "alt_label": "ELF",
+            "definition": "The histopathological evaluation of the liver based on the enhanced liver fibrosis scoring system.",
+            "identifier": "C132429",
+            "notation": "ENHANCED LIVER FIBROSIS SCORE",
+            "pref_label": "Enhanced Liver Fibrosis Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C132429"
+        },
+        {
+            "definition": "A score based on the European Consensus scale, a 4-point grading system for the qualitative and quantitative evaluation of bone marrow fibrosis. (Thiele J, Kvasnicka HM, Facchetti F, Franco V, van der Walt J, Orazi A. European consensus on grading bone marrow fibrosis and assessment of cellularity. Haematologica. 2005 Aug;90(8):1128-32.)",
+            "identifier": "C154809",
+            "notation": "EUROPEAN CONSENSUS SCORE",
+            "pref_label": "European Consensus Score For Bone Marrow Fibrosis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C154809"
+        },
+        {
+            "definition": "A grading system developed by Evans et al (1992) to assess a decrease in tumor size or extent in the body. (Evans DB, Rich TA, Byrd DR, Cleary KR, Connelly JH, Levin B, et al. Preoperative chemoradiation and pancreaticoduodenectomy for adenocarcinoma of the pancreas. Arch Surg. (1992) 127:1335-9.)",
+            "identifier": "C181469",
+            "notation": "EVANS TUMOR REGRESSION GRADE 1992",
+            "pref_label": "Evans et al Tumor Regression Grade (1992)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181469"
+        },
+        {
+            "alt_label": "Global Histologic Disease Activity Score",
+            "definition": "A score originally developed by D'Haens et al. (1998) and assigned based on the histologic evaluation of acute and chronic inflammatory changes, epithelial damage, and the extent of inflammation in Crohn's disease mucosal biopsy specimens, according to the Global Histologic Disease Activity Score. (G R D'Haens, K Geboes, M Peeters, F Baert, F Penninckx, P Rutgeerts. Early lesions of recurrent Crohn's disease caused by infusion of intestinal contents in excluded ileum. Gastroenterology. 1998 Feb;114(2):262-7).",
+            "identifier": "C178033",
+            "notation": "GHAS SCORE",
+            "pref_label": "Global Histologic Disease Activity Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C178033"
+        },
+        {
+            "definition": "The most prevalent Gleason pattern in a prostate biopsy or prostatectomy specimen. (Gleason, D. F. (1977). The Veteran's Administration Cooperative Urologic Research Group: histologic grading and clinical staging of prostatic carcinoma. In Tannenbaum, M. Urologic Pathology: The Prostate. Philadelphia: Lea and Febiger. pp. 171-198.)",
+            "identifier": "C48603",
+            "notation": "GLEASON PRIMARY SCORE",
+            "pref_label": "Primary Gleason Pattern",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C48603"
+        },
+        {
+            "definition": "The second most prevalent Gleason pattern in a prostate biopsy or prostatectomy specimen. (Gleason, D. F. (1977). The Veteran's Administration Cooperative Urologic Research Group: histologic grading and clinical staging of prostatic carcinoma. In Tannenbaum, M. Urologic Pathology: The Prostate. Philadelphia: Lea and Febiger. pp. 171-198.)",
+            "identifier": "C48604",
+            "notation": "GLEASON SECONDARY SCORE",
+            "pref_label": "Secondary Gleason Pattern",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C48604"
+        },
+        {
+            "definition": "The sum of the primary and secondary Gleason scores. If three patterns are identified, it is the sum of the primary pattern score and the score of the least well-differentiated pattern. (Gleason, D. F. (1977). The Veteran's Administration Cooperative Urologic Research Group: histologic grading and clinical staging of prostatic carcinoma. In Tannenbaum, M. Urologic Pathology: The Prostate. Philadelphia: Lea and Febiger. pp. 171-198.)",
+            "identifier": "C48602",
+            "notation": "GLEASON TOTAL SUM",
+            "pref_label": "Total Gleason Score for Prostate Cancer",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C48602"
+        },
+        {
+            "definition": "A measurement of the amount or proportion of cells that have a staining intensity of 0, based on the H Score scoring system, in a biological specimen. (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).",
+            "identifier": "C181473",
+            "notation": "H SCORE STAINING INTENSITY 0",
+            "pref_label": "H Score Staining Intensity 0",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181473"
+        },
+        {
+            "definition": "A measurement of the amount or proportion of cells that have a staining intensity of 1+, based on the H Score scoring system, in a biological specimen. (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).",
+            "identifier": "C181474",
+            "notation": "H SCORE STAINING INTENSITY 1+",
+            "pref_label": "H Score Staining Intensity 1+",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181474"
+        },
+        {
+            "definition": "A measurement of the amount or proportion of cells that have a staining intensity of 2+, based on the H Score scoring system, in a biological specimen. (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).",
+            "identifier": "C181475",
+            "notation": "H SCORE STAINING INTENSITY 2+",
+            "pref_label": "H Score Staining Intensity 2+",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181475"
+        },
+        {
+            "definition": "A measurement of the amount or proportion of cells that have a staining intensity of 3+, based on the H Score scoring system, in a biological specimen. (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).",
+            "identifier": "C181476",
+            "notation": "H SCORE STAINING INTENSITY 3+",
+            "pref_label": "H Score Staining Intensity 3+",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181476"
+        },
+        {
+            "definition": "The histopathological evaluation of staining in tissue based on the H Score scoring system (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).",
+            "identifier": "C125988",
+            "notation": "H SCORE TOTAL SCORE",
+            "pref_label": "H Score Total Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C125988"
+        },
+        {
+            "definition": "A grading system developed by Hartman et al (2012) to assess a decrease in tumor size or extent in the body. (Hartman DJ, Krasinskas AM. Assessing treatment effect in pancreatic cancer. Arch Pathol Lab Med. (2012) 136:100-9.)",
+            "identifier": "C181470",
+            "notation": "HARTMAN TUMOR REGRESSION GRADE 2012",
+            "pref_label": "Hartman et al Tumor Regression Grade (2012)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181470"
+        },
+        {
+            "definition": "A grading system developed by Dworak et al (1997) to assess a decrease in tumor size or extent in the body. (Dworak O, Keilholz L, Hoffmann A. Pathological features of rectal cancer after preoperative radiochemotherapy. Int J Colorectal Dis. (1997) 12:19-23.)",
+            "identifier": "C181471",
+            "notation": "IDWORAK TUMOR REGRESSION GRADE 1997",
+            "pref_label": "iDworak et al Tumor Regression Grade (1997)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181471"
+        },
+        {
+            "alt_label": "Ishak Fibrosis Score",
+            "definition": "The histopathological evaluation of the liver based on the Ishak scoring system.",
+            "identifier": "C95149",
+            "notation": "ISHAK FIBROSIS SCORE",
+            "pref_label": "Ishak Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C95149"
+        },
+        {
+            "definition": "A grading system for prostatic adenocarcinoma based on cellular differentiation patterns and Gleason primary and secondary scores (Epstein JI, Egevad L, Amin MB, Delahunt B, Srigley JR, Humphrey PA; Grading Committee. The 2014 International Society of Urological Pathology (ISUP) Consensus Conference on Gleason Grading of Prostatic Carcinoma: Definition of Grading Patterns and Proposal for a New Grading System. Am J Surg Pathol. 2016 Feb;40(2):244-52.)",
+            "identifier": "C142346",
+            "notation": "ISUP GLEASON GRADE GROUP",
+            "pref_label": "International Society of Urological Pathology Gleason Grade Group",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C142346"
+        },
+        {
+            "alt_label": "Knodell Fibrosis Score",
+            "definition": "The histopathological evaluation of the liver based on the Knodell scoring system.",
+            "identifier": "C119571",
+            "notation": "KNODELL FIBROSIS SCORE",
+            "pref_label": "Knodell Fibrosis Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C119571"
+        },
+        {
+            "definition": "A grading system developed by Chatterjee et al (2012) to assess a decrease in tumor size or extent in the body. (Chatterjee D, Katz MH, Rashid A, Wolff RA, Wang H, Lee JE, et al. Histologic grading of the extent of residual carcinoma following neoadjuvant chemoradiation in pancreatic ductal adenocarcinoma: a predictor for patient outcome. Cancer. (2012) 118:3182-90.)",
+            "identifier": "C181468",
+            "notation": "MD ANDERSON TUMOR REGRESSION GRADE 2012",
+            "pref_label": "MD Anderson Tumor Regression Grade (2012)",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181468"
+        },
+        {
+            "alt_label": "Metavir Fibrosis Score",
+            "definition": "The histopathological evaluation of the liver based on the Meta-analysis of Histological Data in Viral Hepatitis (Metavir) scoring system.",
+            "identifier": "C119572",
+            "notation": "METAVIR FIBROSIS SCORE",
+            "pref_label": "METAVIR Fibrosis Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C119572"
+        },
+        {
+            "definition": "The histopathological evaluation of MET (Hepatocyte Growth Factor Receptor) staining in tissue based on the METMAB scoring system (Koeppen H, Yu W, Zha J, et al. Biomarker Analyses from a Placebo-Controlled Phase II Study Evaluating Erlotinib +/- Onartuzumab in Advanced Non-Small Cell Lung Cancer: MET Expression Levels Are Predictive of Patient Benefit. Clin Cancer Res. 2014 September 1; 20(17): 4488-4498.)",
+            "identifier": "C174344",
+            "notation": "METMAB SCORE",
+            "pref_label": "METMAB Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C174344"
+        },
+        {
+            "alt_label": "NAS;Non-Alcoholic Fatty Liver Disease Activity Score",
+            "definition": "The histopathological evaluation of nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis (NASH) based on the NAFLD activity scoring system (NAS). (Kleiner DE, Brunt EM, Van Natta M, Behling C, Contos MJ, Cummings OW, Ferrell LD, Liu YC, Torbenson MS, Unalp-Arida A, Yeh M, McCullough AJ, Sanyal AJ; Nonalcoholic Steatohepatitis Clinical Research Network. Design and validation of a histological scoring system for nonalcoholic fatty liver disease. Hepatology. 2005 Jun;41(6):1313-21.)",
+            "identifier": "C181472",
+            "notation": "NAFLD ACTIVITY SCORE",
+            "pref_label": "Non-Alcoholic Fatty Liver Disease Activity Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181472"
+        },
+        {
+            "alt_label": "Elston-Ellis modification of Scarff-Bloom-Richardson Grading System",
+            "definition": "A histologic grading system developed by Elston and Ellis as a modification of the Scarff-Bloom-Richardson grading system, based on tubule formation, nuclear pleomorphism, and mitotic counts of invasive adenocarcinomas. (CW Ellston, O Ellis. Pathological prognostic factors in breast cancer. I. The value of histological grade in breast cancer: experience from a large study with long-term follow-up. Histopathology. 1991 Nov;19(5):403-10.)",
+            "identifier": "C138986",
+            "notation": "NOTTINGHAM HISTOLOGIC GRADE",
+            "pref_label": "Nottingham Grade",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C138986"
+        },
+        {
+            "definition": "A measurement of the proportion of cells that are positive for a given protein.",
+            "identifier": "C70460",
+            "notation": "PERCENT POSITIVE CELL",
+            "pref_label": "Percent of Positive Cells",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C70460"
+        },
+        {
+            "definition": "A measurement of the total number of cells that stain positively in a biological specimen.",
+            "identifier": "C156548",
+            "notation": "POSITIVE CELL COUNT",
+            "pref_label": "Positive Cell Count",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C156548"
+        },
+        {
+            "definition": "An assessment of the status of a biological specimen with regards to a given receptor.",
+            "identifier": "C125989",
+            "notation": "RECEPTOR OVERALL STATUS",
+            "pref_label": "Receptor Overall Status",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C125989"
+        },
+        {
+            "alt_label": "Robarts Histopathology Index Score",
+            "definition": "A score developed by Mosli et al. (2017) and assigned based on the histologic evaluation of disease activity in ulcerative colitis. (Mahmoud H Mosli, Brian G Feagan, Guangyong Zou, et al. Development and validation of a histological index for UC. Gut. 2017 Jan;66(1):50-58.)",
+            "identifier": "C178034",
+            "notation": "RHI SCORE",
+            "pref_label": "Robarts Histopathology Index Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C178034"
+        },
+        {
+            "alt_label": "Scheuer Fibrosis Score",
+            "definition": "The histopathological evaluation of the liver based on the Scheuer scoring system.",
+            "identifier": "C119573",
+            "notation": "SCHEUER FIBROSIS SCORE",
+            "pref_label": "Scheuer Fibrosis Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C119573"
+        },
+        {
+            "definition": "The degree or magnitude of staining within a biological specimen.",
+            "identifier": "C127762",
+            "notation": "STAINING INTENSITY",
+            "pref_label": "Staining Intensity",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C127762"
+        },
+        {
+            "definition": "The percentage of viable tumor cells with partial or complete cell membrane staining.",
+            "identifier": "C154810",
+            "notation": "TUMOR PROPORTION SCORE",
+            "pref_label": "Tumor Proportion Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C154810"
+        }
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "CSS02-Wish to be Dead",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Have you wished you were dead or wished you could go to sleep and not wake up?",
+            "identifier": "C103772",
+            "notation": "CSS0201",
+            "pref_label": "C-SSRS Since Last Visit - Wish to be Dead or go to Sleep and not Wake Up",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103772"
+        },
+        {
+            "alt_label": "CSS02-Wish to be Dead, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Description of wishing to be dead.",
+            "identifier": "C103773",
+            "notation": "CSS0201A",
+            "pref_label": "C-SSRS Since Last Visit - Description of Wish to be Dead",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103773"
+        },
+        {
+            "alt_label": "CSS02-Non-Specific Suicidal Thought",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Have you actually had any thoughts of killing yourself?",
+            "identifier": "C103774",
+            "notation": "CSS0202",
+            "pref_label": "C-SSRS Since Last Visit - Non-Specific Suicidal Thought",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103774"
+        },
+        {
+            "alt_label": "CSS02-Non-Specific Suicid Thought, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Description of non-specific active suicidal thoughts.",
+            "identifier": "C103775",
+            "notation": "CSS0202A",
+            "pref_label": "C-SSRS Since Last Visit - Description of Non-Specific Suicide Thought",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103775"
+        },
+        {
+            "alt_label": "CSS02-Suicidal Ideation-No Intent",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Have you been thinking about how you might do this?",
+            "identifier": "C103776",
+            "notation": "CSS0203",
+            "pref_label": "C-SSRS Since Last Visit - Suicidal Ideation-No Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103776"
+        },
+        {
+            "alt_label": "CSS02-Suicidal Ideation-No Intent, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Description of active suicidal ideation with any methods (not plan) without intent to act.",
+            "identifier": "C103777",
+            "notation": "CSS0203A",
+            "pref_label": "C-SSRS Since Last Visit - Description of Suicidal Ideation-No Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103777"
+        },
+        {
+            "alt_label": "CSS02-Ideation With Intent, No Plan",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Have you had these thoughts and had some intention of acting on them?",
+            "identifier": "C103799",
+            "notation": "CSS0204",
+            "pref_label": "C-SSRS Since Last Visit - Ideation With Intent, No Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103799"
+        },
+        {
+            "alt_label": "CSS02-Ideation With Intent No Plan Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Description of active suicidal ideation with some intent to act, without specific plan.",
+            "identifier": "C103800",
+            "notation": "CSS0204A",
+            "pref_label": "C-SSRS Since Last Visit - Description of Ideation With Intent, No Plan",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103800"
+        },
+        {
+            "alt_label": "CSS02-Ideation With Plan/Intent",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan?",
+            "identifier": "C103801",
+            "notation": "CSS0205",
+            "pref_label": "C-SSRS Since Last Visit - Ideation With Plan/Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103801"
+        },
+        {
+            "alt_label": "CSS02-Ideation With Plan/Intent, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Description of active suicidal ideation with specific plan and intent.",
+            "identifier": "C103778",
+            "notation": "CSS0205A",
+            "pref_label": "C-SSRS Since Last Visit - Description of Ideation With Plan and Intent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103778"
+        },
+        {
+            "alt_label": "CSS02-Most Severe Ideation",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Most severe ideation.",
+            "identifier": "C103779",
+            "notation": "CSS0206",
+            "pref_label": "C-SSRS Since Last Visit - Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103779"
+        },
+        {
+            "alt_label": "CSS02-Most Severe Ideation, Description",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Description of most severe ideation.",
+            "identifier": "C103780",
+            "notation": "CSS0206A",
+            "pref_label": "C-SSRS Since Last Visit - Describe Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103780"
+        },
+        {
+            "alt_label": "CSS02-Most Severe Ideation, Frequency",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - How many times have you had these thoughts?",
+            "identifier": "C103781",
+            "notation": "CSS0207",
+            "pref_label": "C-SSRS Since Last Visit - Frequency of Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103781"
+        },
+        {
+            "alt_label": "CSS02-Most Severe Ideation, Duration",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - When you have the thoughts, how long do they last?",
+            "identifier": "C103782",
+            "notation": "CSS0208",
+            "pref_label": "C-SSRS Since Last Visit - Duration of Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103782"
+        },
+        {
+            "alt_label": "CSS02-Most Severe Ideation, Control",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Could/can you stop thinking about killing yourself or wanting to die if you want to?",
+            "identifier": "C103783",
+            "notation": "CSS0209",
+            "pref_label": "C-SSRS Since Last Visit - Control over Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103783"
+        },
+        {
+            "alt_label": "CSS02-Most Severe Ideation, Deterrents",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Are there things - anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide?",
+            "identifier": "C103784",
+            "notation": "CSS0210",
+            "pref_label": "C-SSRS Since Last Visit - Deterrents to Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103784"
+        },
+        {
+            "alt_label": "CSS02-Most Severe Ideation, Reasons",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both?",
+            "identifier": "C103785",
+            "notation": "CSS0211",
+            "pref_label": "C-SSRS Since Last Visit - Reasons for Most Severe Ideation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103785"
+        },
+        {
+            "alt_label": "CSS02-Actual Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died?",
+            "identifier": "C103786",
+            "notation": "CSS0212",
+            "pref_label": "C-SSRS Since Last Visit - Actual Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103786"
+        },
+        {
+            "alt_label": "CSS02-Number of Actual Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Total number of actual attempts.",
+            "identifier": "C103787",
+            "notation": "CSS0213",
+            "pref_label": "C-SSRS Since Last Visit - Number of Actual Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103787"
+        },
+        {
+            "alt_label": "CSS02-Actual Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Description of actual attempt.",
+            "identifier": "C103788",
+            "notation": "CSS0213A",
+            "pref_label": "C-SSRS Since Last Visit - Description of Actual Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103788"
+        },
+        {
+            "alt_label": "CSS02-Non-suicidal Self-injurious Behav",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Has the subject engaged in non-suicidal self-injurious behavior.",
+            "identifier": "C103789",
+            "notation": "CSS0214",
+            "pref_label": "C-SSRS Since Last Visit - Non-suicidal Self-injurious Behavior",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103789"
+        },
+        {
+            "alt_label": "CSS02-Interrupted Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Has there been a time when you started to do something to try to end your life but someone or something stopped you before you actually did anything?",
+            "identifier": "C103790",
+            "notation": "CSS0215",
+            "pref_label": "C-SSRS Since Last Visit - Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103790"
+        },
+        {
+            "alt_label": "CSS02-Number of Interrupted Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Total number of interrupted attempts.",
+            "identifier": "C103791",
+            "notation": "CSS0216",
+            "pref_label": "C-SSRS Since Last Visit - Number of Interrupted Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103791"
+        },
+        {
+            "alt_label": "CSS02-Interrupted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Description of interrupted attempt.",
+            "identifier": "C103792",
+            "notation": "CSS0216A",
+            "pref_label": "C-SSRS Since Last Visit - Description of Interrupted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103792"
+        },
+        {
+            "alt_label": "CSS02-Aborted Attempt",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything?",
+            "identifier": "C103793",
+            "notation": "CSS0217",
+            "pref_label": "C-SSRS Since Last Visit - Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103793"
+        },
+        {
+            "alt_label": "CSS02-Number of Aborted Attempts",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Total number of aborted attempts.",
+            "identifier": "C103794",
+            "notation": "CSS0218",
+            "pref_label": "C-SSRS Since Last Visit - Number of Aborted Suicide Attempts",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103794"
+        },
+        {
+            "alt_label": "CSS02-Aborted Attempt, Describe",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Description of aborted attempt.",
+            "identifier": "C103795",
+            "notation": "CSS0218A",
+            "pref_label": "C-SSRS Since Last Visit - Description of Aborted Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103795"
+        },
+        {
+            "alt_label": "CSS02-Preparatory Acts/Behavior",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)?",
+            "identifier": "C103796",
+            "notation": "CSS0219",
+            "pref_label": "C-SSRS Since Last Visit - Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103796"
+        },
+        {
+            "alt_label": "CSS02-Preparatory Acts/Behavior, Descr",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Description of preparatory acts or behavior.",
+            "identifier": "C103797",
+            "notation": "CSS0219A",
+            "pref_label": "C-SSRS Since Last Visit - Description of Preparatory Acts or Behaviors Toward Suicide Attempt",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103797"
+        },
+        {
+            "alt_label": "CSS02-Suicidal Behavior",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Suicidal behavior was present during the assessment period?",
+            "identifier": "C103798",
+            "notation": "CSS0220",
+            "pref_label": "C-SSRS Since Last Visit - Suicidal Behavior",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103798"
+        },
+        {
+            "alt_label": "CSS02-Suicide",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Suicide.",
+            "identifier": "C103532",
+            "notation": "CSS0221",
+            "pref_label": "C-SSRS Since Last Visit - Suicide",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103532"
+        },
+        {
+            "alt_label": "CSS02-Most Lethal Attempt Date",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Most lethal attempt date.",
+            "identifier": "C103533",
+            "notation": "CSS0222A",
+            "pref_label": "C-SSRS Since Last Visit - Most Lethal Attempt Date",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103533"
+        },
+        {
+            "alt_label": "CSS02-Most Lethal Attempt Damage",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Most lethal attempt actual lethality/medical damage.",
+            "identifier": "C103534",
+            "notation": "CSS0222B",
+            "pref_label": "C-SSRS Since Last Visit - Most Lethal Actual Attempt Lethality/Medical Damage",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103534"
+        },
+        {
+            "alt_label": "CSS02-Most Lethal Attempt Potential",
+            "definition": "Columbia-Suicide Severity Rating Scale Since Last Visit - Most lethal attempt potential lethality.",
+            "identifier": "C103535",
+            "notation": "CSS0222C",
+            "pref_label": "C-SSRS Since Last Visit - Most Lethal Actual Attempt Potential Lethality",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C103461-C103535"
+        }
+    ]
+}

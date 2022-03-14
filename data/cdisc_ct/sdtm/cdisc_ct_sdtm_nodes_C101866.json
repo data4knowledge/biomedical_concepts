@@ -1,0 +1,32 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "The cardiac rhythm device malfunction affected atrial pacing.",
+            "identifier": "C99921",
+            "notation": "ATRIAL PACING MALFUNCTION",
+            "pref_label": "Cardiac Atrial Pacing Malfunction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101866-C99921"
+        },
+        {
+            "definition": "The cardiac rhythm device malfunction affected the defibrillator.",
+            "identifier": "C99923",
+            "notation": "DEFIBRILLATION MALFUNCTION",
+            "pref_label": "Cardiac Defibrillator Malfunction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101866-C99923"
+        },
+        {
+            "definition": "The cardiac rhythm device malfunction affected the left ventricular (LV) pacing.",
+            "identifier": "C99973",
+            "notation": "LEFT VENTRICULAR PACING MALFUNCTION",
+            "pref_label": "Left Cardiac Ventricular Pacing Malfunction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101866-C99973"
+        },
+        {
+            "definition": "The cardiac rhythm device malfunction affected the right ventricular (RV) pacing.",
+            "identifier": "C100011",
+            "notation": "RIGHT VENTRICULAR PACING MALFUNCTION",
+            "pref_label": "Right Cardiac Ventricle Pacing Malfunction",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101866-C100011"
+        }
+    ]
+}

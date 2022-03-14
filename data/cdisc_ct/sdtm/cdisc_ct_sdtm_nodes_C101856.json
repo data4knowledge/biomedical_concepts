@@ -1,0 +1,32 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Elective procedures can be deferred without increased risk of compromised outcome. Patient's clinical condition is currently stable and has been stable in the days/weeks prior. The clinical situation does not demand that the procedure take place at a specified time.",
+            "identifier": "C51996",
+            "notation": "ELECTIVE",
+            "pref_label": "Elective Surgical Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101856-C51996"
+        },
+        {
+            "definition": "Emergency procedures must be performed as soon as possible because of substantial concerns that delay could lead to death. Clinical situation demands that procedure should be performed immediately or in next available room, even if it means another case must be rescheduled.",
+            "identifier": "C62648",
+            "notation": "EMERGENCY",
+            "pref_label": "Emergency",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101856-C62648"
+        },
+        {
+            "definition": "Performing a salvage procedure is the last resort. The clinical situation involves either ongoing life support measures, life support measures for more than 60 seconds during the prior 10 minutes, or unanticipated institution of extracorporeal circulatory support.",
+            "identifier": "C15359",
+            "notation": "SALVAGE",
+            "pref_label": "Salvage Therapy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101856-C15359"
+        },
+        {
+            "definition": "Deferring an urgent procedure increases risk of adverse outcome or clinical deterioration. Clinical situation warrants performing urgent procedures during the current episode of care to avoid compromising patient safety.",
+            "identifier": "C100031",
+            "notation": "URGENT",
+            "pref_label": "Urgent Procedure",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101856-C100031"
+        }
+    ]
+}

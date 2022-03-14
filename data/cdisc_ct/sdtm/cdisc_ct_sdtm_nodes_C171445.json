@@ -1,0 +1,48 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "In-Person",
+            "definition": "An interaction that takes place in the physical presence of someone else.",
+            "identifier": "C175574",
+            "notation": "IN PERSON",
+            "pref_label": "In Person",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171445-C175574"
+        },
+        {
+            "alt_label": "Interactive Voice Response System",
+            "definition": "A type of automated system in which individuals can access information menus containing pre-recorded or dynamically generated information with voice prompts, without the need for an agent or operator.",
+            "identifier": "C177933",
+            "notation": "IVRS",
+            "pref_label": "Interactive Voice Response System",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171445-C177933"
+        },
+        {
+            "definition": "A form of remote communication by audio video technology.",
+            "identifier": "C171525",
+            "notation": "REMOTE AUDIO VIDEO",
+            "pref_label": "Audio-Videoconferencing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171445-C171525"
+        },
+        {
+            "definition": "A form of remote communication by audio technology.",
+            "identifier": "C171524",
+            "notation": "REMOTE AUDIO",
+            "pref_label": "Audioconferencing",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171445-C171524"
+        },
+        {
+            "definition": "Receipt of shipped material was confirmed by signature.",
+            "identifier": "C171533",
+            "notation": "SHIPMENT CONFIRMED BY SIGNATURE",
+            "pref_label": "Shipment Confirmed by Signature",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171445-C171533"
+        },
+        {
+            "definition": "Communication by way of telephone.",
+            "identifier": "C171537",
+            "notation": "TELEPHONE CALL",
+            "pref_label": "Telephone Call",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C171445-C171537"
+        }
+    ]
+}

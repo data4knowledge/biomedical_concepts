@@ -1,0 +1,956 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "Administration to or by way of the ear. (FDA)",
+            "identifier": "C38192",
+            "notation": "AURICULAR (OTIC)",
+            "pref_label": "Auricular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38192"
+        },
+        {
+            "definition": "Administration directed toward the cheek, generally from within the mouth. (FDA)",
+            "identifier": "C38193",
+            "notation": "BUCCAL",
+            "pref_label": "Buccal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38193"
+        },
+        {
+            "definition": "Administration to the conjunctiva, the delicate membrane that lines the eyelids and covers the exposed surface of the eyeball. (FDA)",
+            "identifier": "C38194",
+            "notation": "CONJUNCTIVAL",
+            "pref_label": "Conjunctival Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38194"
+        },
+        {
+            "definition": "Administration to the skin. (FDA)",
+            "identifier": "C38675",
+            "notation": "CUTANEOUS",
+            "pref_label": "Cutaneous Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38675"
+        },
+        {
+            "definition": "Administration to a tooth or teeth. (FDA)",
+            "identifier": "C38197",
+            "notation": "DENTAL",
+            "pref_label": "Dental Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38197"
+        },
+        {
+            "definition": "Administration by way of food or water.",
+            "identifier": "C78373",
+            "notation": "DIETARY",
+            "pref_label": "Dietary Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C78373"
+        },
+        {
+            "definition": "Administration of through the diffusion of substance through a membrane in an electric field. (FDA)",
+            "identifier": "C38633",
+            "notation": "ELECTRO-OSMOSIS",
+            "pref_label": "Electro-osmosis Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38633"
+        },
+        {
+            "alt_label": "Intracervical Route of Administration",
+            "definition": "Administration within the canal of the cervix uteri. Synonymous with the term intracervical. (FDA)",
+            "identifier": "C38205",
+            "notation": "ENDOCERVICAL",
+            "pref_label": "Endocervical Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38205"
+        },
+        {
+            "definition": "Administration within the nasal sinuses of the head. (FDA)",
+            "identifier": "C38206",
+            "notation": "ENDOSINUSIAL",
+            "pref_label": "Endosinusial Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38206"
+        },
+        {
+            "alt_label": "Intratracheal Route of Administration",
+            "definition": "Administration directly into the trachea. Synonymous with the term intratracheal. (FDA)",
+            "identifier": "C38208",
+            "notation": "ENDOTRACHEAL",
+            "pref_label": "Endotracheal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38208"
+        },
+        {
+            "definition": "Administration directly into the intestines. (FDA)",
+            "identifier": "C38209",
+            "notation": "ENTERAL",
+            "pref_label": "Enteral Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38209"
+        },
+        {
+            "definition": "Administration upon or over the dura mater. (FDA)",
+            "identifier": "C38210",
+            "notation": "EPIDURAL",
+            "pref_label": "Epidural Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38210"
+        },
+        {
+            "definition": "Administration to the outside of the membrane enveloping the fetus. (FDA)",
+            "identifier": "C38211",
+            "notation": "EXTRA-AMNIOTIC",
+            "pref_label": "Extraamniotic Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38211"
+        },
+        {
+            "definition": "Administration outside of the body. (FDA)",
+            "identifier": "C38212",
+            "notation": "EXTRACORPOREAL",
+            "pref_label": "Extracorporeal Circulation Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38212"
+        },
+        {
+            "definition": "Administration through hemodialysate fluid. (FDA)",
+            "identifier": "C38200",
+            "notation": "HEMODIALYSIS",
+            "pref_label": "Administration via Hemodialysis",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38200"
+        },
+        {
+            "definition": "Administration that results in substances passing into tissue spaces or into cells. (FDA)",
+            "identifier": "C38215",
+            "notation": "INFILTRATION",
+            "pref_label": "Infiltration Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38215"
+        },
+        {
+            "definition": "Administration to or in the interstices of a tissue. (FDA)",
+            "identifier": "C38219",
+            "notation": "INTERSTITIAL",
+            "pref_label": "Interstitial Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38219"
+        },
+        {
+            "definition": "Administration within the abdomen. (FDA)",
+            "identifier": "C38220",
+            "notation": "INTRA-ABDOMINAL",
+            "pref_label": "Intraabdominal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38220"
+        },
+        {
+            "definition": "Administration within the amnion. (FDA)",
+            "identifier": "C38221",
+            "notation": "INTRA-AMNIOTIC",
+            "pref_label": "Intraamniotic Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38221"
+        },
+        {
+            "definition": "Administration within an artery or arteries. (FDA)",
+            "identifier": "C38222",
+            "notation": "INTRA-ARTERIAL",
+            "pref_label": "Intraarterial Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38222"
+        },
+        {
+            "definition": "Administration within a joint. (FDA)",
+            "identifier": "C38223",
+            "notation": "INTRA-ARTICULAR",
+            "pref_label": "Intraarticular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38223"
+        },
+        {
+            "definition": "Administration within the bile, bile ducts or gallbladder. (FDA)",
+            "identifier": "C38224",
+            "notation": "INTRABILIARY",
+            "pref_label": "Intrabiliary Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38224"
+        },
+        {
+            "definition": "Administration within a bronchus. (FDA)",
+            "identifier": "C38225",
+            "notation": "INTRABRONCHIAL",
+            "pref_label": "Intrabronchial Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38225"
+        },
+        {
+            "definition": "Administration within a bursa. (FDA)",
+            "identifier": "C38226",
+            "notation": "INTRABURSAL",
+            "pref_label": "Intrabursal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38226"
+        },
+        {
+            "definition": "Administration by injection directly into the anterior chamber of the eye.",
+            "identifier": "C64984",
+            "notation": "INTRACAMERAL",
+            "pref_label": "Intracameral Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C64984"
+        },
+        {
+            "definition": "Administration within the heart. (FDA)",
+            "identifier": "C38227",
+            "notation": "INTRACARDIAC",
+            "pref_label": "Intracardiac Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38227"
+        },
+        {
+            "definition": "Administration within a cartilage; endochondral. (FDA)",
+            "identifier": "C38228",
+            "notation": "INTRACARTILAGINOUS",
+            "pref_label": "Intracartilaginous Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38228"
+        },
+        {
+            "definition": "Administration within the cauda equina. (FDA)",
+            "identifier": "C38229",
+            "notation": "INTRACAUDAL",
+            "pref_label": "Intracaudal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38229"
+        },
+        {
+            "definition": "Administration within a pathologic cavity, such as occurs in the lung in tuberculosis. (FDA)",
+            "identifier": "C38230",
+            "notation": "INTRACAVERNOUS",
+            "pref_label": "Intracavernous Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38230"
+        },
+        {
+            "definition": "Administration within a non-pathologic cavity, such as that of the cervix, uterus, or penis, or such as that is formed as the result of a wound. (FDA)",
+            "identifier": "C38231",
+            "notation": "INTRACAVITARY",
+            "pref_label": "Intracavitary Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38231"
+        },
+        {
+            "definition": "Administration within the cerebrum. (FDA)",
+            "identifier": "C38232",
+            "notation": "INTRACEREBRAL",
+            "pref_label": "Intracerebral Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38232"
+        },
+        {
+            "definition": "Administration within the cisterna magna cerebellomedularis. (FDA)",
+            "identifier": "C38233",
+            "notation": "INTRACISTERNAL",
+            "pref_label": "Intracisternal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38233"
+        },
+        {
+            "definition": "Administration within the cochlea.",
+            "identifier": "C184707",
+            "notation": "INTRACOCHLEAR",
+            "pref_label": "Intracochlear Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C184707"
+        },
+        {
+            "definition": "Administration within the cornea (the transparent structure forming the anterior part of the fibrous tunic of the eye). (FDA)",
+            "identifier": "C38234",
+            "notation": "INTRACORNEAL",
+            "pref_label": "Intracorneal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38234"
+        },
+        {
+            "definition": "Administration of a drug within a portion of a tooth which is covered by enamel and which is separated from the roots by a slightly constricted region known as the neck. (FDA)",
+            "identifier": "C38217",
+            "notation": "INTRACORONAL, DENTAL",
+            "pref_label": "Intracoronal Dental Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38217"
+        },
+        {
+            "definition": "Administration within the coronary arteries. (FDA)",
+            "identifier": "C38218",
+            "notation": "INTRACORONARY",
+            "pref_label": "Intracoronary Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38218"
+        },
+        {
+            "definition": "Administration within the dilatable spaces of the corporus cavernosa of the penis. (FDA)",
+            "identifier": "C38235",
+            "notation": "INTRACORPORUS CAVERNOSUM",
+            "pref_label": "Intracorporus Cavernosum Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38235"
+        },
+        {
+            "definition": "Administration within the dermis. (FDA)",
+            "identifier": "C38238",
+            "notation": "INTRADERMAL",
+            "pref_label": "Intradermal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38238"
+        },
+        {
+            "definition": "Administration within a disc. (FDA)",
+            "identifier": "C38239",
+            "notation": "INTRADISCAL",
+            "pref_label": "Intradiscal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38239"
+        },
+        {
+            "definition": "Administration within the duct of a gland. (FDA)",
+            "identifier": "C38240",
+            "notation": "INTRADUCTAL",
+            "pref_label": "Intraductal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38240"
+        },
+        {
+            "definition": "Administration within the duodenum. (FDA)",
+            "identifier": "C38241",
+            "notation": "INTRADUODENAL",
+            "pref_label": "Intraduodenal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38241"
+        },
+        {
+            "definition": "Administration within or beneath the dura. (FDA)",
+            "identifier": "C38242",
+            "notation": "INTRADURAL",
+            "pref_label": "Intradural Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38242"
+        },
+        {
+            "definition": "Administration within the epidermis. (FDA)",
+            "identifier": "C38243",
+            "notation": "INTRAEPIDERMAL",
+            "pref_label": "Intraepidermal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38243"
+        },
+        {
+            "definition": "Administration within the esophagus. (FDA)",
+            "identifier": "C38245",
+            "notation": "INTRAESOPHAGEAL",
+            "pref_label": "Intraesophageal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38245"
+        },
+        {
+            "definition": "Administration within the stomach. (FDA)",
+            "identifier": "C38246",
+            "notation": "INTRAGASTRIC",
+            "pref_label": "Intragastric Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38246"
+        },
+        {
+            "definition": "Administration within the gingivae. (FDA)",
+            "identifier": "C38247",
+            "notation": "INTRAGINGIVAL",
+            "pref_label": "Intragingival Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38247"
+        },
+        {
+            "definition": "Administration into the liver.",
+            "identifier": "C38248",
+            "notation": "INTRAHEPATIC",
+            "pref_label": "Intrahepatic Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38248"
+        },
+        {
+            "definition": "Administration within the distal portion of the small intestine, from the jejunum to the cecum. (FDA)",
+            "identifier": "C38249",
+            "notation": "INTRAILEAL",
+            "pref_label": "Intraileal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38249"
+        },
+        {
+            "definition": "Administration into the jejunum.",
+            "identifier": "C102399",
+            "notation": "INTRAJEJUNAL",
+            "pref_label": "Intrajejunal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C102399"
+        },
+        {
+            "definition": "Administration within or introduced directly into a localized lesion. (FDA)",
+            "identifier": "C38250",
+            "notation": "INTRALESIONAL",
+            "pref_label": "Intralesional Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38250"
+        },
+        {
+            "definition": "Administration within the lumen of a tube. (FDA)",
+            "identifier": "C38251",
+            "notation": "INTRALUMINAL",
+            "pref_label": "Intraluminal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38251"
+        },
+        {
+            "definition": "Administration within the lymph. (FDA)",
+            "identifier": "C38252",
+            "notation": "INTRALYMPHATIC",
+            "pref_label": "Intralymphatic Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38252"
+        },
+        {
+            "definition": "Administration within the mandible.",
+            "identifier": "C156590",
+            "notation": "INTRAMANDIBULAR",
+            "pref_label": "Intramandibular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C156590"
+        },
+        {
+            "definition": "Administration within the marrow cavity of a bone. (FDA)",
+            "identifier": "C38253",
+            "notation": "INTRAMEDULLARY",
+            "pref_label": "Intramedullary Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38253"
+        },
+        {
+            "definition": "Administration within the meninges (the three membranes that envelope the brain and spinal cord). (FDA)",
+            "identifier": "C38254",
+            "notation": "INTRAMENINGEAL",
+            "pref_label": "Intrameningeal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38254"
+        },
+        {
+            "definition": "Administration within a muscle. (FDA)",
+            "identifier": "C28161",
+            "notation": "INTRAMUSCULAR",
+            "pref_label": "Intramuscular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C28161"
+        },
+        {
+            "definition": "Administration within a lymph node.",
+            "identifier": "C79141",
+            "notation": "INTRANODAL",
+            "pref_label": "Intranodal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C79141"
+        },
+        {
+            "definition": "Administration within the eye. (FDA)",
+            "identifier": "C38255",
+            "notation": "INTRAOCULAR",
+            "pref_label": "Intraocular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38255"
+        },
+        {
+            "definition": "Administration within the marrow of the bone.",
+            "identifier": "C64987",
+            "notation": "INTRAOSSEOUS",
+            "pref_label": "Intraosseous Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C64987"
+        },
+        {
+            "definition": "Administration within the ovary. (FDA)",
+            "identifier": "C38256",
+            "notation": "INTRAOVARIAN",
+            "pref_label": "Intraovarian Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38256"
+        },
+        {
+            "definition": "Administration into the palate.",
+            "identifier": "C102400",
+            "notation": "INTRAPALATAL",
+            "pref_label": "Intrapalatal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C102400"
+        },
+        {
+            "definition": "Administration within or into the parenchyma of a targeted organ.",
+            "identifier": "C119548",
+            "notation": "INTRAPARENCHYMAL",
+            "pref_label": "Intraparenchymal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C119548"
+        },
+        {
+            "definition": "Administration within the pericardium. (FDA)",
+            "identifier": "C38257",
+            "notation": "INTRAPERICARDIAL",
+            "pref_label": "Intrapericardial Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38257"
+        },
+        {
+            "definition": "Administration within the peritoneal cavity. (FDA)",
+            "identifier": "C38258",
+            "notation": "INTRAPERITONEAL",
+            "pref_label": "Intraperitoneal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38258"
+        },
+        {
+            "definition": "Administration within the pleura. (FDA)",
+            "identifier": "C38259",
+            "notation": "INTRAPLEURAL",
+            "pref_label": "Intrapleural Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38259"
+        },
+        {
+            "definition": "Administration within the prostate gland. (FDA)",
+            "identifier": "C38260",
+            "notation": "INTRAPROSTATIC",
+            "pref_label": "Intraprostatic Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38260"
+        },
+        {
+            "definition": "Administration within the lungs or its bronchi. (FDA)",
+            "identifier": "C38261",
+            "notation": "INTRAPULMONARY",
+            "pref_label": "Intrapulmonary Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38261"
+        },
+        {
+            "definition": "Administration within the nasal or periorbital sinuses. (FDA)",
+            "identifier": "C38262",
+            "notation": "INTRASINAL",
+            "pref_label": "Intrasinal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38262"
+        },
+        {
+            "definition": "Administration within the vertebral column. (FDA)",
+            "identifier": "C38263",
+            "notation": "INTRASPINAL",
+            "pref_label": "Intraspinal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38263"
+        },
+        {
+            "definition": "Administration into a stoma.",
+            "identifier": "C65138",
+            "notation": "INTRASTOMAL",
+            "pref_label": "Administration via Stoma",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C65138"
+        },
+        {
+            "definition": "Administration within the site of surgery.",
+            "identifier": "C142365",
+            "notation": "INTRASURGICAL SITE",
+            "pref_label": "Intrasurgical Site Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C142365"
+        },
+        {
+            "definition": "Administration within the synovial cavity of a joint. (FDA)",
+            "identifier": "C38264",
+            "notation": "INTRASYNOVIAL",
+            "pref_label": "Intrasynovial Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38264"
+        },
+        {
+            "definition": "Administration within a tendon. (FDA)",
+            "identifier": "C38265",
+            "notation": "INTRATENDINOUS",
+            "pref_label": "Intratendinous Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38265"
+        },
+        {
+            "definition": "Administration within the testicle. (FDA)",
+            "identifier": "C38266",
+            "notation": "INTRATESTICULAR",
+            "pref_label": "Intratesticular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38266"
+        },
+        {
+            "definition": "Administration within the thalamus.",
+            "identifier": "C128995",
+            "notation": "INTRATHALAMIC",
+            "pref_label": "Intrathalamic Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C128995"
+        },
+        {
+            "definition": "Administration within the cerebrospinal fluid at any level of the cerebrospinal axis, including injection into the cerebral ventricles. (FDA)",
+            "identifier": "C38267",
+            "notation": "INTRATHECAL",
+            "pref_label": "Intrathecal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38267"
+        },
+        {
+            "definition": "Administration within the thorax (internal to the ribs); synonymous with the term endothoracic. (FDA)",
+            "identifier": "C38207",
+            "notation": "INTRATHORACIC",
+            "pref_label": "Endothoracic Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38207"
+        },
+        {
+            "definition": "Administration within the tubules of an organ. (FDA)",
+            "identifier": "C38268",
+            "notation": "INTRATUBULAR",
+            "pref_label": "Intratubular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38268"
+        },
+        {
+            "alt_label": "Intratumor Route of Administration",
+            "definition": "Administration within a tumor. (FDA)",
+            "identifier": "C38269",
+            "notation": "INTRATUMOR",
+            "pref_label": "Intratumoral Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38269"
+        },
+        {
+            "definition": "Administration within the auris media. (FDA)",
+            "identifier": "C38270",
+            "notation": "INTRATYMPANIC",
+            "pref_label": "Intratympanic Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38270"
+        },
+        {
+            "definition": "Administration within the uterus. (FDA)",
+            "identifier": "C38272",
+            "notation": "INTRAUTERINE",
+            "pref_label": "Intrauterine Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38272"
+        },
+        {
+            "definition": "Administration within the vagina.",
+            "identifier": "C128996",
+            "notation": "INTRAVAGINAL",
+            "pref_label": "Intravaginal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C128996"
+        },
+        {
+            "definition": "Administration within a vessel or vessels. (FDA)",
+            "identifier": "C38273",
+            "notation": "INTRAVASCULAR",
+            "pref_label": "Intravascular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38273"
+        },
+        {
+            "definition": "Administration within or into a vein or veins all at once. (FDA)",
+            "identifier": "C38274",
+            "notation": "INTRAVENOUS BOLUS",
+            "pref_label": "Intravenous Bolus",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38274"
+        },
+        {
+            "definition": "Administration within or into a vein or veins over a sustained period of time. (FDA)",
+            "identifier": "C38279",
+            "notation": "INTRAVENOUS DRIP",
+            "pref_label": "Intravenous Drip",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38279"
+        },
+        {
+            "definition": "Administration within or into a vein or veins. (FDA)",
+            "identifier": "C38276",
+            "notation": "INTRAVENOUS",
+            "pref_label": "Intravenous Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38276"
+        },
+        {
+            "definition": "Administration within a ventricle. (FDA)",
+            "identifier": "C38277",
+            "notation": "INTRAVENTRICULAR",
+            "pref_label": "Intraventricular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38277"
+        },
+        {
+            "definition": "Administration within the bladder. (FDA)",
+            "identifier": "C38278",
+            "notation": "INTRAVESICAL",
+            "pref_label": "Intravesical Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38278"
+        },
+        {
+            "definition": "Administration within the vitreous body of the eye. (FDA)",
+            "identifier": "C38280",
+            "notation": "INTRAVITREAL",
+            "pref_label": "Intravitreal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38280"
+        },
+        {
+            "definition": "Administration by means of an electric current where ions of soluble salts migrate into the tissues of the body. (FDA)",
+            "identifier": "C38203",
+            "notation": "IONTOPHORESIS",
+            "pref_label": "Iontophoresis Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38203"
+        },
+        {
+            "definition": "Administration to bathe or flush open wounds or body cavities. (FDA)",
+            "identifier": "C38281",
+            "notation": "IRRIGATION",
+            "pref_label": "Irrigation Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38281"
+        },
+        {
+            "definition": "Administration directly upon the larynx. (FDA)",
+            "identifier": "C38282",
+            "notation": "LARYNGEAL",
+            "pref_label": "Laryngeal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38282"
+        },
+        {
+            "definition": "Administration through microdialysate fluid.",
+            "identifier": "C150889",
+            "notation": "MICRODIALYSIS",
+            "pref_label": "Microdialysis Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C150889"
+        },
+        {
+            "alt_label": "Intranasal Route of Administration",
+            "definition": "Administration to the nose; administered by way of the nose. (FDA)",
+            "identifier": "C38284",
+            "notation": "NASAL",
+            "pref_label": "Nasal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38284"
+        },
+        {
+            "definition": "Administration through the nose and into the stomach, usually by means of a tube. (FDA)",
+            "identifier": "C38285",
+            "notation": "NASOGASTRIC",
+            "pref_label": "Nasogastric Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38285"
+        },
+        {
+            "definition": "Routes of administration are not applicable. (FDA)",
+            "identifier": "C48623",
+            "notation": "NOT APPLICABLE",
+            "pref_label": "Route of Administration Not Applicable",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C48623"
+        },
+        {
+            "definition": "Administration by the topical route which is then covered by a dressing which occludes the area. (FDA)",
+            "identifier": "C38286",
+            "notation": "OCCLUSIVE DRESSING TECHNIQUE",
+            "pref_label": "Occlusive Dressing Technique",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38286"
+        },
+        {
+            "definition": "Administration to the external eye. (FDA)",
+            "identifier": "C38287",
+            "notation": "OPHTHALMIC",
+            "pref_label": "Ophthalmic Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38287"
+        },
+        {
+            "definition": "Administration through the mouth and into the stomach, usually by means of a tube. (NCI)",
+            "identifier": "C78374",
+            "notation": "ORAL GAVAGE",
+            "pref_label": "Oral Gavage Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C78374"
+        },
+        {
+            "alt_label": "Intraoral Route of Administration;PO",
+            "definition": "Administration to or by way of the mouth. (FDA)",
+            "identifier": "C38288",
+            "notation": "ORAL",
+            "pref_label": "Oral Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38288"
+        },
+        {
+            "definition": "Administration across the mucosa of the oral cavity.",
+            "identifier": "C64906",
+            "notation": "OROMUCOSAL",
+            "pref_label": "Oromucosal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C64906"
+        },
+        {
+            "definition": "Administration directly to the mouth and pharynx. (FDA)",
+            "identifier": "C38289",
+            "notation": "OROPHARYNGEAL",
+            "pref_label": "Oropharyngeal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38289"
+        },
+        {
+            "definition": "Administration by injection, infusion, or implantation. (FDA)",
+            "identifier": "C38291",
+            "notation": "PARENTERAL",
+            "pref_label": "Parenteral Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38291"
+        },
+        {
+            "definition": "Administration through the skin. (FDA)",
+            "identifier": "C38676",
+            "notation": "PERCUTANEOUS",
+            "pref_label": "Percutaneous Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38676"
+        },
+        {
+            "definition": "Administration around a joint. (FDA)",
+            "identifier": "C38292",
+            "notation": "PERIARTICULAR",
+            "pref_label": "Periarticular Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38292"
+        },
+        {
+            "definition": "Administration to the outside of the dura mater of the spinal cord. (FDA)",
+            "identifier": "C38677",
+            "notation": "PERIDURAL",
+            "pref_label": "Peridural Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38677"
+        },
+        {
+            "definition": "Administration surrounding a nerve or nerves. (FDA)",
+            "identifier": "C38293",
+            "notation": "PERINEURAL",
+            "pref_label": "Perineural Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38293"
+        },
+        {
+            "definition": "Administration around a tooth. (FDA)",
+            "identifier": "C38294",
+            "notation": "PERIODONTAL",
+            "pref_label": "Periodontal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38294"
+        },
+        {
+            "definition": "Administration into the area surrounding a vein. (NCI)",
+            "identifier": "C112396",
+            "notation": "PERIVENOUS",
+            "pref_label": "Perivenous Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C112396"
+        },
+        {
+            "definition": "Administration directly upon the pharynx.",
+            "identifier": "C172600",
+            "notation": "PHARYNGEAL",
+            "pref_label": "Pharyngeal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C172600"
+        },
+        {
+            "definition": "Administration to the rectum. (FDA)",
+            "identifier": "C38295",
+            "notation": "RECTAL",
+            "pref_label": "Rectal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38295"
+        },
+        {
+            "definition": "Administration within the respiratory tract by inhaling orally or nasally for local or systemic effect. (FDA)",
+            "identifier": "C38216",
+            "notation": "RESPIRATORY (INHALATION)",
+            "pref_label": "Inhalation Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38216"
+        },
+        {
+            "definition": "Administration behind the pons or behind the eyeball. (FDA)",
+            "identifier": "C38296",
+            "notation": "RETROBULBAR",
+            "pref_label": "Retrobulbar Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38296"
+        },
+        {
+            "definition": "Administration into any soft tissue. (FDA)",
+            "identifier": "C38198",
+            "notation": "SOFT TISSUE",
+            "pref_label": "Soft Tissue Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38198"
+        },
+        {
+            "definition": "Administration beneath the arachnoid. (FDA)",
+            "identifier": "C38297",
+            "notation": "SUBARACHNOID",
+            "pref_label": "Subarachnoid Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38297"
+        },
+        {
+            "definition": "Administration beneath the conjunctiva. (FDA)",
+            "identifier": "C38298",
+            "notation": "SUBCONJUNCTIVAL",
+            "pref_label": "Subconjunctival Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38298"
+        },
+        {
+            "alt_label": "SC;Subdermal Route of Administration",
+            "definition": "Administration beneath the skin; hypodermic. Synonymous with the term SUBDERMAL. (FDA)",
+            "identifier": "C38299",
+            "notation": "SUBCUTANEOUS",
+            "pref_label": "Subcutaneous Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38299"
+        },
+        {
+            "definition": "Administration between the dura mater and the arachnoid mater.",
+            "identifier": "C181523",
+            "notation": "SUBDURAL",
+            "pref_label": "Subdural Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C181523"
+        },
+        {
+            "definition": "Administration beneath the tongue. (FDA)",
+            "identifier": "C38300",
+            "notation": "SUBLINGUAL",
+            "pref_label": "Sublingual Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38300"
+        },
+        {
+            "definition": "Administration beneath the mucous membrane. (FDA)",
+            "identifier": "C38301",
+            "notation": "SUBMUCOSAL",
+            "pref_label": "Submucosal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38301"
+        },
+        {
+            "definition": "Administration beneath the retina.",
+            "identifier": "C79143",
+            "notation": "SUBRETINAL",
+            "pref_label": "Subretinal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C79143"
+        },
+        {
+            "definition": "Administration by injection through the membrane covering the muscles and nerves at the back of the eyeball.",
+            "identifier": "C94636",
+            "notation": "SUBTENON",
+            "pref_label": "Subtenon Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C94636"
+        },
+        {
+            "definition": "Administration above the choroid.",
+            "identifier": "C128997",
+            "notation": "SUPRACHOROIDAL",
+            "pref_label": "Suprachoroidal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C128997"
+        },
+        {
+            "alt_label": "TOP",
+            "definition": "Administration to a particular spot on the outer surface of the body. The E2B term TRANSMAMMARY is a subset of the term TOPICAL. (FDA)",
+            "identifier": "C38304",
+            "notation": "TOPICAL",
+            "pref_label": "Topical Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38304"
+        },
+        {
+            "definition": "Administration through the dermal layer of the skin to the systemic circulation by diffusion. (FDA)",
+            "identifier": "C38305",
+            "notation": "TRANSDERMAL",
+            "pref_label": "Transdermal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38305"
+        },
+        {
+            "definition": "Administration by ingestion of colostrum or breast milk.",
+            "identifier": "C111326",
+            "notation": "TRANSMAMMARY",
+            "pref_label": "Transmammary Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C111326"
+        },
+        {
+            "definition": "Administration across the mucosa. (FDA)",
+            "identifier": "C38283",
+            "notation": "TRANSMUCOSAL",
+            "pref_label": "Mucosal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38283"
+        },
+        {
+            "definition": "Administration through or across the placenta. (FDA)",
+            "identifier": "C38307",
+            "notation": "TRANSPLACENTAL",
+            "pref_label": "Transplacental Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38307"
+        },
+        {
+            "definition": "Administration through the wall of the trachea. (FDA)",
+            "identifier": "C38308",
+            "notation": "TRANSTRACHEAL",
+            "pref_label": "Transtracheal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38308"
+        },
+        {
+            "definition": "Administration across or through the tympanic cavity. (FDA)",
+            "identifier": "C38309",
+            "notation": "TRANSTYMPANIC",
+            "pref_label": "Transtympanic Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38309"
+        },
+        {
+            "definition": "Route of administration has not yet been assigned. (FDA)",
+            "identifier": "C38310",
+            "notation": "UNASSIGNED",
+            "pref_label": "Unassigned Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38310"
+        },
+        {
+            "definition": "Route of administration is unknown. (FDA)",
+            "identifier": "C38311",
+            "notation": "UNKNOWN",
+            "pref_label": "Unknown Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38311"
+        },
+        {
+            "definition": "Administration into the ureter. (FDA)",
+            "identifier": "C38312",
+            "notation": "URETERAL",
+            "pref_label": "Ureteral Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38312"
+        },
+        {
+            "definition": "Administration into the urethra. (FDA)",
+            "identifier": "C38271",
+            "notation": "URETHRAL",
+            "pref_label": "Intraurethral Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38271"
+        },
+        {
+            "definition": "Administration into the vagina. (FDA)",
+            "identifier": "C38313",
+            "notation": "VAGINAL",
+            "pref_label": "Vaginal Route of Administration",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C66729-C38313"
+        }
+    ]
+}

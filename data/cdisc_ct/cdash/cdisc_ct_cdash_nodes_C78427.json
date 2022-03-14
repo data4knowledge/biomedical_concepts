@@ -1,0 +1,28 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "h;Hours;hr",
+            "definition": "A unit of measurement of time equal to 60 minutes.",
+            "identifier": "C25529",
+            "notation": "HOURS",
+            "pref_label": "Hour",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78427-C25529"
+        },
+        {
+            "alt_label": "Minute",
+            "definition": "A unit of measurement of time equal to 60 seconds.",
+            "identifier": "C48154",
+            "notation": "min",
+            "pref_label": "Minute",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78427-C48154"
+        },
+        {
+            "alt_label": "Second",
+            "definition": "The base unit of time in the International System of Units (SI) equal to the duration of 9,192,631,770 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the cesium 133 atom in its ground state at 0 K.",
+            "identifier": "C42535",
+            "notation": "sec",
+            "pref_label": "Second",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C78427-C42535"
+        }
+    ]
+}

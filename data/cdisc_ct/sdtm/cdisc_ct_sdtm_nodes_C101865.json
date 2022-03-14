@@ -1,0 +1,42 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "NON-STEMI;NSTEMI",
+            "definition": "A myocardial infarction that does not produce elevation in the ST segments of the ECG.",
+            "identifier": "C80383",
+            "notation": "NON-ST ELEVATION MYOCARDIAL INFARCTION",
+            "pref_label": "Non-ST Elevation Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101865-C80383"
+        },
+        {
+            "alt_label": "Other",
+            "definition": "Different than the one(s) previously specified or mentioned. (NCI)",
+            "identifier": "C17649",
+            "notation": "OTHER",
+            "pref_label": "Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101865-C17649"
+        },
+        {
+            "alt_label": "STEMI",
+            "definition": "A myocardial infarction that produces elevation in the ST segments of the ECG.",
+            "identifier": "C101888",
+            "notation": "ST ELEVATION MYOCARDIAL INFARCTION",
+            "pref_label": "ST Elevation Myocardial Infarction by ECG Finding",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101865-C101888"
+        },
+        {
+            "definition": "Angina pectoris which has not recently changed in frequency, duration or intensity. Stable angina pectoris is relieved by rest or administration of oral, sublingual or transdermal antianginal medications.",
+            "identifier": "C66914",
+            "notation": "STABLE ANGINA",
+            "pref_label": "Stable Angina",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101865-C66914"
+        },
+        {
+            "definition": "Angina pectoris (or equivalent type of ischemic discomfort) which has recently changed in frequency, duration, intensity, or occurs at rest.",
+            "identifier": "C66911",
+            "notation": "UNSTABLE ANGINA",
+            "pref_label": "Unstable Angina",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101865-C66911"
+        }
+    ]
+}

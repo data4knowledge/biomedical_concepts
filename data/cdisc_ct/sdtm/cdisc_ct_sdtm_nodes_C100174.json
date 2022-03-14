@@ -1,0 +1,460 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "SF361-In General You Say Your Health Is",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - In general, would you say your health is.",
+            "identifier": "C100813",
+            "notation": "SF36101",
+            "pref_label": "SF36 v1.0 Standard - In General You Say Your Health Is",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100813"
+        },
+        {
+            "alt_label": "SF361-Comp Year Ago Rate Gen Health Now",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Compared to one year ago, how would you rate your health in general now?",
+            "identifier": "C100814",
+            "notation": "SF36102",
+            "pref_label": "SF36 v1.0 Standard - Comp Year Ago Rate Gen Health Now",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100814"
+        },
+        {
+            "alt_label": "SF361-Limit Vigorous Activities",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How much does your health now limit you in - vigorous activities, such as running, lifting heavy objects, participating in strenuous sports.",
+            "identifier": "C100815",
+            "notation": "SF36103A",
+            "pref_label": "SF36 v1.0 Standard - Limit Vigorous Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100815"
+        },
+        {
+            "alt_label": "SF361-Limit Moderate Activities",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How much does your health now limit you in - moderate activities, such as moving a table, pushing a vacuum cleaner, bowling, or playing golf.",
+            "identifier": "C100816",
+            "notation": "SF36103B",
+            "pref_label": "SF36 v1.0 Standard - Limit Moderate Activities",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100816"
+        },
+        {
+            "alt_label": "SF361-Limit Lifting or Carrying",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How much does your health now limit you in - lifting or carrying groceries.",
+            "identifier": "C100817",
+            "notation": "SF36103C",
+            "pref_label": "SF36 v1.0 Standard - Limit Lifting or Carrying",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100817"
+        },
+        {
+            "alt_label": "SF361-Limit Climbing Several Flights",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How much does your health now limit you in - climbing several flights of stairs.",
+            "identifier": "C100818",
+            "notation": "SF36103D",
+            "pref_label": "SF36 v1.0 Standard - Limit Climbing Several Flights",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100818"
+        },
+        {
+            "alt_label": "SF361-Limit Climbing One Flight Stairs",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How much does your health now limit you in - climbing one flight of stairs.",
+            "identifier": "C100819",
+            "notation": "SF36103E",
+            "pref_label": "SF36 v1.0 Standard - Limit Climbing One Flight Stairs",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100819"
+        },
+        {
+            "alt_label": "SF361-Limit Bending/Kneeling/Stooping",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How much does your health now limit you in - bending, kneeling, or stooping.",
+            "identifier": "C100820",
+            "notation": "SF36103F",
+            "pref_label": "SF36 v1.0 Standard - Limit Bending/Kneeling/Stooping",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100820"
+        },
+        {
+            "alt_label": "SF361-Limit Walking More Than a Mile",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How much does your health now limit you in - walking more than a mile.",
+            "identifier": "C100821",
+            "notation": "SF36103G",
+            "pref_label": "SF36 v1.0 Standard - Limit Walking More Than a Mile",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100821"
+        },
+        {
+            "alt_label": "SF361-Limit Walking Several Blocks",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How much does your health now limit you in - walking several blocks.",
+            "identifier": "C100822",
+            "notation": "SF36103H",
+            "pref_label": "SF36 v1.0 Standard - Limit Walking Several Blocks",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100822"
+        },
+        {
+            "alt_label": "SF361-Limit Walking One Block",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How much does your health now limit you in - walking one block.",
+            "identifier": "C100823",
+            "notation": "SF36103I",
+            "pref_label": "SF36 v1.0 Standard - Limit Walking One Block",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100823"
+        },
+        {
+            "alt_label": "SF361-Limit Bathing or Dressing Yourself",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How much does your health now limit you in - bathing or dressing yourself.",
+            "identifier": "C100824",
+            "notation": "SF36103J",
+            "pref_label": "SF36 v1.0 Standard - Limit Bathing or Dressing Yourself",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100824"
+        },
+        {
+            "alt_label": "SF361-Physical: Cut Down Time on Work",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much of the time have you had any problems with your work or other regular daily activities as a result of your physical health - cut down on the amount of time you spent on work or other activities.",
+            "identifier": "C100825",
+            "notation": "SF36104A",
+            "pref_label": "SF36 v1.0 Standard - Physical: Cut Down Time on Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100825"
+        },
+        {
+            "alt_label": "SF361-Physical: Accomplished Less",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much of the time have you had any problems with your work or other regular daily activities as a result of your physical health - accomplished less than you would like.",
+            "identifier": "C100826",
+            "notation": "SF36104B",
+            "pref_label": "SF36 v1.0 Standard - Physical: Accomplished Less",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100826"
+        },
+        {
+            "alt_label": "SF361-Physical: Limited Kind of Work",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much of the time have you had any problems with your work or other regular daily activities as a result of your physical health - were limited in the kind of work or other activities.",
+            "identifier": "C100827",
+            "notation": "SF36104C",
+            "pref_label": "SF36 v1.0 Standard - Physical: Limited Kind of Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100827"
+        },
+        {
+            "alt_label": "SF361-Physical: Difficulty Perform Work",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much of the time have you had any problems with your work or other regular daily activities as a result of your physical health - had difficulty performing the work or other activities (for example, it took extra effort).",
+            "identifier": "C100828",
+            "notation": "SF36104D",
+            "pref_label": "SF36 v1.0 Standard - Physical: Difficulty Perform Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100828"
+        },
+        {
+            "alt_label": "SF361-Emotional: Cut Down Time on Work",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much of the time have you had problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious) - cut down on the amount of time you spent on work or other activities.",
+            "identifier": "C100829",
+            "notation": "SF36105A",
+            "pref_label": "SF36 v1.0 Standard - Emotional: Cut Down Time on Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100829"
+        },
+        {
+            "alt_label": "SF361-Emotional: Accomplished Less",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much of the time have you had problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious) - accomplished less than you would like.",
+            "identifier": "C100830",
+            "notation": "SF36105B",
+            "pref_label": "SF36 v1.0 Standard - Emotional: Accomplished Less",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100830"
+        },
+        {
+            "alt_label": "SF361-Emotional: Did Work Less Carefully",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much of the time have you had problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious) - did work or other activities less carefully than usual.",
+            "identifier": "C100831",
+            "notation": "SF36105C",
+            "pref_label": "SF36 v1.0 Standard - Emotional: Did Work Less Carefully",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100831"
+        },
+        {
+            "alt_label": "SF361-Extent Phys/Emotional Interfered",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - During the past 4 weeks, to what extent has your physical health or emotional problems interfered with your normal social activities with family, friends, neighbors, or groups?",
+            "identifier": "C100832",
+            "notation": "SF36106",
+            "pref_label": "SF36 v1.0 Standard - Extent Phys/Emotional Interfered",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100832"
+        },
+        {
+            "alt_label": "SF361-How Much Bodily Pain Have You Had",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How much bodily pain have you had during the past 4 weeks?",
+            "identifier": "C100833",
+            "notation": "SF36107",
+            "pref_label": "SF36 v1.0 Standard - How Much Bodily Pain Have You Had",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100833"
+        },
+        {
+            "alt_label": "SF361-Pain Interfere With Normal Work",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much did pain interfere with your normal work (including both work outside the home and housework)?",
+            "identifier": "C100834",
+            "notation": "SF36108",
+            "pref_label": "SF36 v1.0 Standard - Pain Interfere With Normal Work",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100834"
+        },
+        {
+            "alt_label": "SF361-Did You Feel Full of Pep",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks - did you feel full of pep.",
+            "identifier": "C100835",
+            "notation": "SF36109A",
+            "pref_label": "SF36 v1.0 Standard - Did You Feel Full of Pep",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100835"
+        },
+        {
+            "alt_label": "SF361-Have You Been Very Nervous Person",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks - have you been a very nervous person.",
+            "identifier": "C100836",
+            "notation": "SF36109B",
+            "pref_label": "SF36 v1.0 Standard - Have You Been Very Nervous Person",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100836"
+        },
+        {
+            "alt_label": "SF361-Felt Down Nothing Cheer You Up",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks - have you felt so down in the dumps that nothing could cheer you up.",
+            "identifier": "C100837",
+            "notation": "SF36109C",
+            "pref_label": "SF36 v1.0 Standard - Felt Down Nothing Cheer You Up",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100837"
+        },
+        {
+            "alt_label": "SF361-Have You Felt Calm and Peaceful",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks - have you felt calm and peaceful.",
+            "identifier": "C100838",
+            "notation": "SF36109D",
+            "pref_label": "SF36 v1.0 Standard - Have You Felt Calm and Peaceful",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100838"
+        },
+        {
+            "alt_label": "SF361-Did You Have a Lot of Energy",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks - did you have a lot of energy.",
+            "identifier": "C100839",
+            "notation": "SF36109E",
+            "pref_label": "SF36 v1.0 Standard - Did You Have a Lot of Energy",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100839"
+        },
+        {
+            "alt_label": "SF361-You Felt Downhearted and Blue",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks - have you felt downhearted and blue.",
+            "identifier": "C100840",
+            "notation": "SF36109F",
+            "pref_label": "SF36 v1.0 Standard - You Felt Downhearted and Blue",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100840"
+        },
+        {
+            "alt_label": "SF361-Did You Feel Worn Out",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks - did you feel worn out.",
+            "identifier": "C100841",
+            "notation": "SF36109G",
+            "pref_label": "SF36 v1.0 Standard - Did You Feel Worn Out",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100841"
+        },
+        {
+            "alt_label": "SF361-Have You Been Happy Person",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks - have you been a happy person.",
+            "identifier": "C100842",
+            "notation": "SF36109H",
+            "pref_label": "SF36 v1.0 Standard - Have You Been Happy Person",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100842"
+        },
+        {
+            "alt_label": "SF361-Did You Feel Tired",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks - did you feel tired.",
+            "identifier": "C100843",
+            "notation": "SF36109I",
+            "pref_label": "SF36 v1.0 Standard - Did You Feel Tired",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100843"
+        },
+        {
+            "alt_label": "SF361-Time Phys/Emotional Interfered",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities (like visiting friends, relatives, etc.)?",
+            "identifier": "C100844",
+            "notation": "SF36110",
+            "pref_label": "SF36 v1.0 Standard - Time Phys/Emotional Interfered",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100844"
+        },
+        {
+            "alt_label": "SF361-Get Sick Little Easier Than Other",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How TRUE or FALSE is the following statement for you - I seem to get sick a little easier than other people.",
+            "identifier": "C100845",
+            "notation": "SF36111A",
+            "pref_label": "SF36 v1.0 Standard - Get Sick Little Easier Than Other",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100845"
+        },
+        {
+            "alt_label": "SF361-I Am as Healthy as Anybody I Know",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How TRUE or FALSE is the following statement for you - I am as healthy as anybody I know.",
+            "identifier": "C100846",
+            "notation": "SF36111B",
+            "pref_label": "SF36 v1.0 Standard - I Am as Healthy as Anybody I Know",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100846"
+        },
+        {
+            "alt_label": "SF361-I Expect My Health to Get Worse",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How TRUE or FALSE is the following statement for you - I expect my health to get worse.",
+            "identifier": "C100847",
+            "notation": "SF36111C",
+            "pref_label": "SF36 v1.0 Standard - I Expect My Health to Get Worse",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100847"
+        },
+        {
+            "alt_label": "SF361-My Health is Excellent",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - How TRUE or FALSE is the following statement for you - my health is excellent",
+            "identifier": "C100848",
+            "notation": "SF36111D",
+            "pref_label": "SF36 v1.0 Standard - My Health is Excellent",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C100848"
+        },
+        {
+            "alt_label": "SF361-Physical Functioning 0-100 Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Physical functioning 0-100 score.",
+            "identifier": "C176142",
+            "notation": "SF36112",
+            "pref_label": "SF36 v1.0 Standard - Physical Functioning 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176142"
+        },
+        {
+            "alt_label": "SF361-Role Physical 0-100 Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Role physical 0-100 score.",
+            "identifier": "C176143",
+            "notation": "SF36113",
+            "pref_label": "SF36 v1.0 Standard - Role Physical 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176143"
+        },
+        {
+            "alt_label": "SF361-Bodily Pain 0-100 Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Bodily pain 0-100 score.",
+            "identifier": "C176144",
+            "notation": "SF36114",
+            "pref_label": "SF36 v1.0 Standard - Bodily Pain 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176144"
+        },
+        {
+            "alt_label": "SF361-General Health 0-100 Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - General health 0-100 score.",
+            "identifier": "C176145",
+            "notation": "SF36115",
+            "pref_label": "SF36 v1.0 Standard - General Health 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176145"
+        },
+        {
+            "alt_label": "SF361-Vitality 0-100 Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Vitality 0-100 score.",
+            "identifier": "C176146",
+            "notation": "SF36116",
+            "pref_label": "SF36 v1.0 Standard - Vitality 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176146"
+        },
+        {
+            "alt_label": "SF361-Social Functioning 0-100 Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Social functioning 0-100 score.",
+            "identifier": "C176147",
+            "notation": "SF36117",
+            "pref_label": "SF36 v1.0 Standard - Social Functioning 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176147"
+        },
+        {
+            "alt_label": "SF361-Role Emotional 0-100 Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Role emotional 0-100 score.",
+            "identifier": "C176148",
+            "notation": "SF36118",
+            "pref_label": "SF36 v1.0 Standard - Role Emotional 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176148"
+        },
+        {
+            "alt_label": "SF361-Mental Health 0-100 Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Mental health 0-100 score.",
+            "identifier": "C176149",
+            "notation": "SF36119",
+            "pref_label": "SF36 v1.0 Standard - Mental Health 0-100 Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176149"
+        },
+        {
+            "alt_label": "SF361-Phys Functioning Norm-Based Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Phys functioning norm-based score.",
+            "identifier": "C176150",
+            "notation": "SF36120",
+            "pref_label": "SF36 v1.0 Standard - Phys Functioning Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176150"
+        },
+        {
+            "alt_label": "SF361-Role Physical Norm-Based Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Role physical norm-based score.",
+            "identifier": "C176151",
+            "notation": "SF36121",
+            "pref_label": "SF36 v1.0 Standard - Role Physical Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176151"
+        },
+        {
+            "alt_label": "SF361-Bodily Pain Norm-Based Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Bodily pain norm-based score.",
+            "identifier": "C176152",
+            "notation": "SF36122",
+            "pref_label": "SF36 v1.0 Standard - Bodily Pain Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176152"
+        },
+        {
+            "alt_label": "SF361-General Health Norm-Based Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - General health norm-based score.",
+            "identifier": "C176153",
+            "notation": "SF36123",
+            "pref_label": "SF36 v1.0 Standard - General Health Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176153"
+        },
+        {
+            "alt_label": "SF361-Vitality Norm-Based Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Vitality norm-based score.",
+            "identifier": "C176154",
+            "notation": "SF36124",
+            "pref_label": "SF36 v1.0 Standard - Vitality Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176154"
+        },
+        {
+            "alt_label": "SF361-Social Function Norm-Based Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Social function norm-based score.",
+            "identifier": "C176155",
+            "notation": "SF36125",
+            "pref_label": "SF36 v1.0 Standard - Social Function Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176155"
+        },
+        {
+            "alt_label": "SF361-Role Emotional Norm-Based Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Role emotional norm-based score.",
+            "identifier": "C176156",
+            "notation": "SF36126",
+            "pref_label": "SF36 v1.0 Standard - Role Emotional Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176156"
+        },
+        {
+            "alt_label": "SF361-Mental Health Norm-Based Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Mental health norm-based score.",
+            "identifier": "C176157",
+            "notation": "SF36127",
+            "pref_label": "SF36 v1.0 Standard - Mental Health Norm-Based Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176157"
+        },
+        {
+            "alt_label": "SF361-Physical Component Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Physical component score.",
+            "identifier": "C176158",
+            "notation": "SF36128",
+            "pref_label": "SF36 v1.0 Standard - Physical Component Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176158"
+        },
+        {
+            "alt_label": "SF361-Mental Component Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Mental component score.",
+            "identifier": "C176159",
+            "notation": "SF36129",
+            "pref_label": "SF36 v1.0 Standard - Mental Component Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176159"
+        },
+        {
+            "alt_label": "SF361-SF-6D (Utility Index) Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - 6D (utility index) score.",
+            "identifier": "C176160",
+            "notation": "SF36130",
+            "pref_label": "SF36 v1.0 Standard - SF-6D (Utility Index) Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176160"
+        },
+        {
+            "alt_label": "SF361-SF-6D_R2 (Util Index Rel 2) Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - 6D_R2 (util index rel 2) score.",
+            "identifier": "C176161",
+            "notation": "SF36131",
+            "pref_label": "SF36 v1.0 Standard - SF-6D_R2 (Util Index Rel 2) Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176161"
+        },
+        {
+            "alt_label": "SF361-Response Consistency Score",
+            "definition": "The Short Form 36 Health Survey Standard, US Version 1.0 - Response consistency score.",
+            "identifier": "C176162",
+            "notation": "SF36132",
+            "pref_label": "SF36 v1.0 Standard - Response Consistency Score",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C100174-C176162"
+        }
+    ]
+}

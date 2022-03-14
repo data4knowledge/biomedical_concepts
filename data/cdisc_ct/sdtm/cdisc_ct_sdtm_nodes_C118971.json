@@ -1,0 +1,564 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "AIMS01",
+            "definition": "Abnormal Involuntary Movement Scale (AIMS) (Guy W. Ed. ECDEU Assessment Manual for Psychopharmacology. Rockville MD: US Dept of Health, Education and Welfare. 1976, Publication No. (ADM) 76-338). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C102111",
+            "notation": "AIMS",
+            "pref_label": "Abnormal Involuntary Movement Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C102111"
+        },
+        {
+            "alt_label": "AJCC1",
+            "definition": "AJCC TNM Staging System 7th Edition (AJCC V7) (Edge SB, Byrd DR, Compton CC, Fritz AG, Greene FL, Trotti A, editors. AJCC cancer staging manual (7th ed). New York, NY: Springer; 2010). No part of the AJCC V7 may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of Springer and payment of any applicable fees. Copyright Springer 2010. All rights reserved.",
+            "identifier": "C125755",
+            "notation": "AJCC V7",
+            "pref_label": "AJCC Cancer Staging Manual 7th Edition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C125755"
+        },
+        {
+            "alt_label": "AJCC2",
+            "definition": "AJCC TNM Staging System 8th Edition (AJCC V8) (Amin, M.B., Edge, S.B., Greene, F.L., et al. (Eds.) AJCC Cancer Staging Manual. 8th Ed. New York: Springer; 2017. AJCC Cancer Staging Manual, Eighth Edition. Copyright 2017 American College of Surgeons. All rights reserved). No part of the AJCC V8 may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of Springer and payment of any applicable fees. Copyright American College of Surgeons 2017. All rights reserved.",
+            "identifier": "C146985",
+            "notation": "AJCC V8",
+            "pref_label": "AJCC Cancer Staging Manual 8th Edition",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C146985"
+        },
+        {
+            "alt_label": "APCH1",
+            "definition": "Acute Physiology and Chronic Health Evaluation II (APACHE II) (Knaus WA, Draper EA, Wagner DP, Zimmerman JE. APACHE II: a severity of disease classification system. Critical Care Medicine 1985; 13(10):818-29). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C121005",
+            "notation": "APACHE II",
+            "pref_label": "Acute Physiology and Chronic Health Evaluation II Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C121005"
+        },
+        {
+            "alt_label": "APGR01",
+            "definition": "Apgar Score V1 (APGAR SCORE V1) (Apgar, Virginia 1953. A Proposal for a New Method of Evaluation of the Newborn Infant. Cur Res in Anesth Analg. 1953 Jul-Aug;32(4):260-7. Butterfield J, Covey MJ. Practical Epigram of the Apgar Score. JAMA. 1962; 181(4):353). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C176057",
+            "notation": "APGAR SCORE V1",
+            "pref_label": "Apgar Score Version 1 Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C176057"
+        },
+        {
+            "alt_label": "STCG01",
+            "definition": "Stent Thrombosis Coronary ARC Grade (Cutlip DE, Windecker S, Mehran R, et al. Clinical End Points in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C119107",
+            "notation": "ARC STC GRADE",
+            "pref_label": "Stent Thrombosis Coronary ARC Grade Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C119107"
+        },
+        {
+            "alt_label": "ASCVD1",
+            "definition": "Atherosclerotic Cardiovascular Disease 10-Year Risk Estimator (Goff Jr DC et al. 2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk: A Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. Circulation 2014; 129: S49-S73). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C124705",
+            "notation": "ASCVD 10-YEAR RISK",
+            "pref_label": "Atherosclerotic Cardiovascular Disease 10-Year Risk Estimator Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124705"
+        },
+        {
+            "alt_label": "ASSG01",
+            "definition": "ASSIGN Cardiovascular Disease 10-Year Risk Score (Woodward M, Brindle P, Tunstall-Pedoe H, for the SIGN group on risk estimation. Adding social deprivation and family history to cardiovascular risk assessment: the ASSIGN score from the Scottish Heart Health Extended Cohort (SHHEC). Heart 2007; 93: 172-176). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C124706",
+            "notation": "ASSIGN CVD 10-YEAR RISK",
+            "pref_label": "ASSIGN Cardiovascular Disease 10-Year Risk Score Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124706"
+        },
+        {
+            "alt_label": "ATLAS1",
+            "definition": "Age, treatment with systemic antibiotics, leukocyte count, serum albumin, and serum creatinine as a measure of renal function (ATLAS) (Miller, M.A., Louie,T., Mullane, K., Weiss, K., Lentnek, A., Golan, Y., et al. (2013). Derivation and validation of a simple clinical bedside score (ATLAS) for Clostridium difficile infection which predicts response to therapy. BMC Infectious Diseases, 13: 148). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C147589",
+            "notation": "ATLAS",
+            "pref_label": "ATLAS Score Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C147589"
+        },
+        {
+            "alt_label": "AVPU01",
+            "definition": "Alert Verbal Painful Unresponsive (AVPU) Scale (American College of Surgeons Committee on Trauma. Advanced trauma life support course for physicians. Chicago, IL: American College of Surgeons; 1989. Kelly CA, Upex A, Bateman DN. Comparison of consciousness level assessment in the poisoned patient using the alert/verbal/painful/unresponsive scale and the Glasgow Coma Scale. Annals of Emergency Medicine 2004 Aug;44(2):108-13). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C161656",
+            "notation": "AVPU",
+            "pref_label": "Alert Verbal Painful Unresponsive Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C161656"
+        },
+        {
+            "alt_label": "BARS01",
+            "definition": "Barnes Akathisia Rating Scale (BARS) (Barnes TR: A Rating Scale for Drug-Induced Akathisia. British Journal of Psychiatry 154:672-676, 1989).",
+            "identifier": "C102113",
+            "notation": "BARS",
+            "pref_label": "Barnes Akathisia Rating Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C102113"
+        },
+        {
+            "alt_label": "BDI01",
+            "definition": "Baseline Dyspnea Index (BDI) (Mahler DA, Weinberg DH, Wells CK, Feinstein AR. The measurement of dyspnea. Contents, interobserver agreement, and physiologic correlates of two new clinical indexes. Chest 1984, 85: 751-758). No part of the BDI may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of Donald A. Mahler, MD and payment of any applicable fees. Copyright Donald A. Mahler. All rights reserved.",
+            "identifier": "C106693",
+            "notation": "BDI",
+            "pref_label": "Baseline Dyspnea Index Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C106693"
+        },
+        {
+            "alt_label": "BODE01",
+            "definition": "The Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index (BODE Index) (Bartolome R. Celli, M.D., Claudia G. Cote, M.D., Jose M. Marin, M.D., Ciro Casanova, M.D., Maria Montes de Oca, M.D., Reina A. Mendez, M.D., Victor Pinto Plata, M.D., and Howard J. Cabral, Ph.D.; N Engl J Med 2004;350:1005-12). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C121006",
+            "notation": "BODE INDEX",
+            "pref_label": "The Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C121006"
+        },
+        {
+            "alt_label": "BPRS01",
+            "definition": "Brief Psychiatric Rating Scale 1988 Version (BPRS 1988 VERSION) (Overall, JE, Gorham DR: The Brief Psychiatric Rating Scale (BPRS): recent developments in ascertainment and scaling. Psychopharmacology Bulletin 24:97-99, 1988). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C161657",
+            "notation": "BPRS 1988 VERSION",
+            "pref_label": "Brief Psychiatric Rating Scale 1988 Version Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C161657"
+        },
+        {
+            "alt_label": "BPRSA1",
+            "definition": "Brief Psychiatric Rating Scale - Anchored (BPRS-A) (Woerner MB, Mannuzza S, and Kane JM. Anchoring the BPRS: An Aid to Improved Reliability. Psychopharmacology Bulletin 1988; 24(1):112-117). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C100761",
+            "notation": "BPRS-A",
+            "pref_label": "Brief Psychiatric Rating Scale A Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C100761"
+        },
+        {
+            "alt_label": "BUERS1",
+            "definition": "Brooke Upper Extremity Rating Scale (BUERS) (Brooke MG, Griggs RC, Mendell JR, Fenichel, GM, Shumate JB and Peggegrino RJ (1981). Clinical trial in duchenne dystrophy. I The Design of the Protocol. Muscle and Nerve: 4:186-197). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C130304",
+            "notation": "BUERS",
+            "pref_label": "Brooke Upper Extremity Rating Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C130304"
+        },
+        {
+            "alt_label": "CDAI01",
+            "definition": "Crohn's Disease Activity Index Version 1 (CDAI V1) (Best WR, Becktel JM, Singleton JW, Kern F Jr. Development of a Crohn's disease activity index. National Cooperative Crohn's Disease Study. Gastroenterology. 1976 Mar;70(3):439-44). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C176059",
+            "notation": "CDAI V1",
+            "pref_label": "Crohn's Disease Activity Index Version 1 Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C176059"
+        },
+        {
+            "alt_label": "CHIVC1",
+            "definition": "CDC Classification System for HIV-Infected Adults and Adolescents (Centers for Disease Control and Prevention. 1993 Revised Classification System for HIV Infection and Expanded Surveillance Case Definition for AIDS Among Adolescents and Adults. MMWR Recomm Rep. 1992 Dec 18;41(RR-17):1-19). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C124715",
+            "notation": "CDC HIV CLASSIFICATION FOR ADULTS AND ADOLESCENTS",
+            "pref_label": "Center for Disease Control and Prevention Classification System for HIV-Infected Adults and Adolescents Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124715"
+        },
+        {
+            "alt_label": "CDRS1",
+            "definition": "Children's Depression Rating Scale, Revised (CDRS-R) (Copyright 1995 by WESTERN PSYCHOLOGICAL SERVICES. Not to be reproduced in whole or in part without written permission. All rights reserved). No part of the CDRS-R may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of WESTERN PSYCHOLOGICAL SERVICES and payment of any applicable fees. Copyright WESTERN PSYCHOLOGICAL SERVICES. All rights reserved.",
+            "identifier": "C155323",
+            "notation": "CDRS-R",
+            "pref_label": "Children's Depression Rating Scale, Revised Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C155323"
+        },
+        {
+            "alt_label": "CPS01",
+            "definition": "Child-Pugh Classification (Guidance for Industry Pharmacokinetics in Patients with Impaired Hepatic Function: Study Design, Data Analysis, and Impact on Dosing and Labeling. U.S. Department of Health and Human Services; Food and Drug Administration; Center for Drug Evaluation and Research (CDER); Center for Biologics Evaluation and Research (CBER). May 2003, Clinical Pharmacology. http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM072123.pdf; http://www.halaven.com/sites/default/files/ChildPugh_FlashCard.pdf). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C121007",
+            "notation": "CHILD-PUGH CLASSIFICATION",
+            "pref_label": "Child-Pugh Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C121007"
+        },
+        {
+            "alt_label": "COVI01",
+            "definition": "Covi Anxiety Scale (COVI) (Lipman RS. Differentiating anxiety and depression in anxiety disorders: use of rating scales. Psychopharmacol Bull 1982; 18(4):69-77). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C156675",
+            "notation": "COVI",
+            "pref_label": "Covi Anxiety Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C156675"
+        },
+        {
+            "alt_label": "CRSR01",
+            "definition": "JFK Coma Recovery Scale-Revised (CRS-R) (Joseph T. Giacino, Kathleen Kalmar, John Whyte. The JFK Coma Recovery Scale-Revised: Measurement Characteristics and Diagnostic Utility. Arch Phys Med Rehabil Vol 85, December 2004). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C124711",
+            "notation": "CRS-R",
+            "pref_label": "JFK Coma Recovery Scale-Revised Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124711"
+        },
+        {
+            "alt_label": "DS01",
+            "definition": "Disease Steps (DS) (Hohol MJ, Orav EJ, Weiner HL. Disease steps in multiple sclerosis: a simple approach to evaluate disease progression. Neurology. 1995 Feb;45(2):251-5). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C112519",
+            "notation": "DISEASE STEPS",
+            "pref_label": "Disease Steps Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C112519"
+        },
+        {
+            "alt_label": "DRS01",
+            "definition": "Disability Rating Scale (DRS) (Rappaport et al. (1982) Disability Rating Scale for Severe Head Trauma Patients: Coma to Community. Archives of Physical Medicine and Rehabilitation, 63:118-123).",
+            "identifier": "C115796",
+            "notation": "DRS",
+            "pref_label": "Disability Rating Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C115796"
+        },
+        {
+            "alt_label": "ETRP01",
+            "definition": "Emory Treatment Resistance Interview for PTSD (E-TRIP) (Dunlop BW, Kaye JL, Youngner C, Rothbaum B. Assessing Treatment-Resistant Posttraumatic Stress Disorder: The Emory Treatment Resistance Interview for PTSD (E-TRIP). Behav Sci (Basel) 2014; Dec 8; 4(4):511-527). No part of the E-TRIP may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of Boadie W. Dunlop, MD and payment of any applicable fees. Copyright Boadie W. Dunlop, MD, 2018. All rights reserved.",
+            "identifier": "C161658",
+            "notation": "E-TRIP",
+            "pref_label": "Emory Treatment Resistance Interview for PTSD Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C161658"
+        },
+        {
+            "alt_label": "ECOG1",
+            "definition": "Eastern Cooperative Oncology Group (ECOG) Performance Status (Oken MM, Creech RH, Tormey DC, Horton J, Davis TE, McFadden ET, Carbone PP. Toxicity and response criteria of the Eastern Cooperative Oncology Group. Am J Clin Oncol. 1982 Dec;5(6):649-55). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C102116",
+            "notation": "ECOG",
+            "pref_label": "Eastern Cooperative Oncology Group Performance Status Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C102116"
+        },
+        {
+            "alt_label": "EDSS01",
+            "definition": "Kurtzke Expanded Disability Status Scale (EDSS) (Kurtzke JF. Rating neurologic impairment in multiple sclerosis: an expanded disability status scale (EDSS). Neurology. 1983 Nov;33(11):1444-52).",
+            "identifier": "C112520",
+            "notation": "EDSS",
+            "pref_label": "Kurtzke Expanded Disability Status Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C112520"
+        },
+        {
+            "alt_label": "ESRSA1",
+            "definition": "Extrapyramidal Symptom Rating Scale-Abbreviated (ESRS-A) (Copyright 2006 Larry Alphs, MD, PhD, Guy Chouinard, MD, All Rights Reserved).",
+            "identifier": "C117997",
+            "notation": "ESRSA",
+            "pref_label": "Extrapyramidal Symptom Rating Scale-Abbreviated Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C117997"
+        },
+        {
+            "alt_label": "FAQ01",
+            "definition": "Functional Activities Questionnaire (FAQ) (Pfeiffer, RI.; Kurosaki, TT.; Harrah, CH. Jr.; Chance, JM.; and Filos, S. (1982). Measurement of functional activities in older adults in the community. Journal of Gerontology, 37(3), 323-329.). No part of the FAQ may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of Robert I Pfeffer and payment of any applicable fees. Copyright Robert I Pfeffer 1987. All rights reserved.",
+            "identifier": "C111381",
+            "notation": "FAQ",
+            "pref_label": "Functional Activities Questionnaire Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C111381"
+        },
+        {
+            "alt_label": "FAQNA1",
+            "definition": "Functional Assessment Questionnaire-NACC UDS V2.0 (FAQ-NACC UDS V2.0) (Pfeffer, RI.; Kurosaki, TT.; Harrah, CH. Jr.; Chance, JM.; and Filos, S. (1982). Measurement of functional activities in older adults in the community. Journal of Gerontology, 37(3), 323-329.). (Reproduced with permission. Copyright 2011 University of Washington. Created and published by the ADC Clinical Task Force. John C. Morris, MD, Chair, and the National Alzheimer's Coordinating Center. U01 AG016976 - Walter A. Kukull, PhD, Director). No part of the FAQ-NACC UDS V2.0 may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the University of Washington and payment of any applicable fees. Copyright University of Washington 2011. All rights reserved.",
+            "identifier": "C111382",
+            "notation": "FAQ-NACC UDS V2.0",
+            "pref_label": "Functional Assessment Questionnaire-NACC UDS Version 2.0 Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C111382"
+        },
+        {
+            "alt_label": "FASNA1",
+            "definition": "Functional Assessment Scale-NACC UDS v3.0 (FAS-NACC UDS V3.0) (These materials discuss and/or include NACC Functional Assessment Scale (FAS) v3.0 which is owned exclusively by the University of Washington. Copyright Reproduced with permission. Copyright 2006, 2008, 2015, 2017 University of Washington. Created and published by the ADC Clinical Task Force (John C. Morris, MD, Chair) and the National Alzheimer's Coordinating Center (U01 AG016976 - Walter A. Kukull, PhD, Director). All rights reserved). No part of the FAS-NACC UDS V3.0 may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without prior written permission of the University of Washington and payment of any applicable fees. Copyright 2006, 2008, 2015, 2017 University of Washington. All rights reserved.",
+            "identifier": "C170643",
+            "notation": "FAS-NACC UDS V3.0",
+            "pref_label": "Functional Assessment Scale-NACC UDS Version 3.0 Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C170643"
+        },
+        {
+            "alt_label": "FCVD1",
+            "definition": "Framingham Heart Study Cardiovascular Disease 10-Year Risk Score (D'Agostino Sr RB, Vasan RS, Pencina MJ, Wolf PA, Cobain M, Massaro JM, and Kannel WB. General Cardiovascular Risk Profile for Use in Primary Care: The Framingham Heart Study. Circulation 2008; 117: 743-753).",
+            "identifier": "C124707",
+            "notation": "FHS CVD 10-YEAR RISK",
+            "pref_label": "Framingham Heart Study Cardiovascular Disease 10-Year Risk Score Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124707"
+        },
+        {
+            "alt_label": "GCS01",
+            "definition": "Glasgow Coma Scale (GCS) The National Institute of Neurological Disorders and Stroke (NINDS) Version (Graham Teasdale and Bryan Jennett. Assessment of coma and impaired consciousness. A practical scale. Lancet. 1974 Jul 13; 2(7872):81-4).",
+            "identifier": "C124710",
+            "notation": "GCS NINDS VERSION",
+            "pref_label": "Glasgow Coma Scale-NINDS Version Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124710"
+        },
+        {
+            "alt_label": "HAMA1",
+            "definition": "The Hamilton Anxiety Rating Scale (HAM-A) (Hamilton M. The assessment of anxiety states by rating. Br J Med Psychol 1959; 32:50-55).",
+            "identifier": "C102118",
+            "notation": "HAM-A",
+            "pref_label": "Hamilton Anxiety Rating Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C102118"
+        },
+        {
+            "alt_label": "HAMD1",
+            "definition": "The Hamilton Depression Rating Scale 17-Item (HAMD 17) (Hamilton M. A rating scale for depression. J Neurol Neurosurg Psychiatry 1960; 23:56-62. Hamilton M. Development of a rating scale for primary depressive illness. Br J Soc Clin Psychol 1967; 6(4):278-96. Assessment Scales in Depression, Mania and Anxiety, Raymond W Lam, Erin E. Michalak, Richard P Swinson, Copyright 2005 Taylor & Francis, an imprint of the Taylor & Francis Group. Guy W, ECDEU Assessment Manual for Psychopharmacology. Rockville, MD: US Department of Health, Education, and Welfare, 1976. The Hamilton Rating Scale for Depression: The making of a ''gold standard'' and the unmaking of a chronic illness, 1960-1980).",
+            "identifier": "C100767",
+            "notation": "HAMD 17",
+            "pref_label": "Hamilton Depression Rating Scale 17 Item Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C100767"
+        },
+        {
+            "alt_label": "HAMD2",
+            "definition": "The Hamilton Depression Rating Scale 21-Item (HAMD 21) (Hedlund and Vieweg, The Hamilton rating scale for depression. Journal of Operational Psychiatry, 1979;10(2):149-165).",
+            "identifier": "C102119",
+            "notation": "HAMD 21",
+            "pref_label": "Hamilton Depression Rating Scale 21-Item Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C102119"
+        },
+        {
+            "alt_label": "HAMD3",
+            "definition": "The Hamilton Depression Rating Scale 24-Item (HAM-D24) (Clinical Psychometrics: Per Bech, MD; John Wiley & Sons, Ltd. 2012).",
+            "identifier": "C130307",
+            "notation": "HAMD 24",
+            "pref_label": "Hamilton Depression Rating Scale-24 Item Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C130307"
+        },
+        {
+            "alt_label": "HAMD4",
+            "definition": "The Hamilton Depression Rating Scale 6 - Clinician Version (HAM-D6 - Clinician Version) (Clinical Research: Rating scales in depression: limitations and pitfalls; Per Bech, MD; Copyright 2006 LLS SAS. All rights reserved).",
+            "identifier": "C130306",
+            "notation": "HAMD 6 CLINICIAN VERSION",
+            "pref_label": "Hamilton Depression Rating Scale 6 Clinician Version Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C130306"
+        },
+        {
+            "alt_label": "HSB01",
+            "definition": "HAS-BLED Bleeding Risk Score (HAS-BLED) (This image was published in Chest, 138 (5), Pisters R, Lane DA, Nieuwlaat R, de Vos CB, Crijns HJ, Lip GY, A Novel User-Friendly Score (HAS-BLED) To Assess 1-Year Risk of Major Bleeding in Patients With Atrial Fibrillation: The Euro Heart Survey, Copyright Elsevier (2010). http://www.sciencedirect.com/science/journal/00123692).",
+            "identifier": "C138332",
+            "notation": "HAS-BLED",
+            "pref_label": "HAS-BLED Bleeding Risk Score Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C138332"
+        },
+        {
+            "alt_label": "IDSC1",
+            "definition": "Inventory of Depressive Symptomatology - Clinician-Rated (IDS-C) (Copyright UT Southwestern Medical Center at Dallas. Rush, A.J., Giles, D.E., Schlesser, M.A., Fulton, C.L.,Weissenburger, J.E. and Burns, C.T. The Inventory of Depressive Symptomatology (IDS): Preliminary findings. Psychiatry Research, 18:65-87, 1986).",
+            "identifier": "C130308",
+            "notation": "IDS-C",
+            "pref_label": "Inventory of Depressive Symptomatology Clinician-Rated Version Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C130308"
+        },
+        {
+            "alt_label": "KDIGO1",
+            "definition": "Kidney Disease: Improving Global Outcomes Staging For Acute Kidney Injury (KDIGO AKI)  (Kidney Disease: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. KDIGO Clinical Practice Guideline for Acute Kidney Injury. Kidney inter., Suppl. 2012; 2:1-138). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C170645",
+            "notation": "KDIGO AKI",
+            "pref_label": "Kidney Disease Improving Global Outcomes Staging For Acute Kidney Injury Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C170645"
+        },
+        {
+            "alt_label": "KDPI01",
+            "definition": "Kidney Donor Profile Index (KDPI) (OPTN/UNOS. A guide to calculating and interpreting the Kidney Donor Profile Index (KDPI). [Accessed April 18, 2016]. Available at: https://optn.transplant.hrsa.gov/media/1512/guide_to_calculating_interpreting_kdpi.pdf. Rao PS, Schaubel DE, Guidinger MK, et al. A comprehensive risk quantification score for deceased donor kidneys: the kidney donor risk index. Transplantation 2009 Jul 27;88(2):231-6).",
+            "identifier": "C130310",
+            "notation": "KDPI",
+            "pref_label": "Kidney Donor Profile Index Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C130310"
+        },
+        {
+            "alt_label": "KFSS1",
+            "definition": "Kurtzke Functional Systems Scores (FSS) (Kurtzke JF. Rating neurologic impairment in multiple sclerosis: an expanded disability status scale (EDSS). Neurology. 1983 Nov;33(11):1444-52).",
+            "identifier": "C112522",
+            "notation": "KFSS",
+            "pref_label": "Kurtzke Functional Systems Scores Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C112522"
+        },
+        {
+            "alt_label": "KPSS01",
+            "definition": "The Karnofsky Performance Status Scale (KPSS) (Karnofsky DA, Burchenal JH. (1949). \"The Clinical Evaluation of Chemotherapeutic Agents in Cancer.\" In: MacLeod CM (Ed), Evaluation of Chemotherapeutic Agents. Columbia Univ Press. Page 196).",
+            "identifier": "C100768",
+            "notation": "KPS SCALE",
+            "pref_label": "Karnofsky Performance Status Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C100768"
+        },
+        {
+            "alt_label": "LPPSS1",
+            "definition": "The Lansky Play-Performance Status Scale (LPSS) (Lansky SB, List MA, Lansky LL, Ritter-Sterr C, Miller DR. The measurement of performance in childhood cancer patients. Cancer. 1987 Oct 1;60(7):1651-6).",
+            "identifier": "C138333",
+            "notation": "LPPS SCALE",
+            "pref_label": "The Lansky Play-Performance Status Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C138333"
+        },
+        {
+            "alt_label": "MELD01",
+            "definition": "Model for End Stage Liver Disease (MELD) (Malinchoc M, Kamath PS, Gordon FD, Peine CJ, Rank J, ter Borg PC (April 2000). A model to predict poor survival in patients undergoing transjugular intrahepatic portosystemic shunts. Hepatology 31 (4): 864-71).",
+            "identifier": "C121008",
+            "notation": "MELD",
+            "pref_label": "Model for End Stage Liver Disease Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C121008"
+        },
+        {
+            "alt_label": "NEWS1",
+            "definition": "National Early Warning Score 2 (NEWS2) (Royal College of Physicians. National Early Warning Score (NEWS) 2: Standardising the assessment of acute-illness severity in the NHS. Updated report of a working party. London: RCP, 2017).",
+            "identifier": "C171357",
+            "notation": "NEWS2",
+            "pref_label": "National Early Warning Score 2 Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C171357"
+        },
+        {
+            "alt_label": "CADG01",
+            "definition": "Coronary Artery Dissection NHLBI Grade (Coronary Artery angiographic changes after PTCA: Manual of Operations NHBLI PTCA Registry 1985-6:9).",
+            "identifier": "C119105",
+            "notation": "NHLBI CAD GRADE",
+            "pref_label": "Coronary Artery Dissection NHLBI Grade Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C119105"
+        },
+        {
+            "alt_label": "NSA01",
+            "definition": "Negative Symptom Assessment-16 (NSA-16) (Version 2.0, Copyright 2006, Larry Alphs, MD, PhD, All Right Reserved).",
+            "identifier": "C121009",
+            "notation": "NSA-16",
+            "pref_label": "Negative Symptom Assessment-16 Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C121009"
+        },
+        {
+            "alt_label": "NSAA1",
+            "definition": "North Star Ambulatory Assessment (NSAA) (Copyright the North Star Clinical Network UK. Scott E, Eagle M, Mayhew A, Freeman J, Main M, Sheehan J, Manzur A, Muntoni F; North Star Clinical Network for Paediatric Neuromuscular Disease. Development of a functional assessment scale for ambulatory boys with Duchenne muscular dystrophy. Physiother Res Int. 2012 Jun;17(2):101-9. The support of Muscular Dystrophy United Kingdom in developing the North Star Ambulatory Assessment is gratefully acknowledged).",
+            "identifier": "C132531",
+            "notation": "NSAA",
+            "pref_label": "North Star Ambulatory Assessment Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C132531"
+        },
+        {
+            "alt_label": "PANSS1",
+            "definition": "Positive and Negative Syndrome Scale (PANSS) (Copyright 1992 Multi-Health Systems Inc. All rights reserved).",
+            "identifier": "C124712",
+            "notation": "PANSS",
+            "pref_label": "Positive and Negative Syndrome Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124712"
+        },
+        {
+            "alt_label": "PASI02",
+            "definition": "Psoriasis Area and Severity Index Version 2 (PASI V2) (Feldman SR, Krueger GG. Psoriasis assessment tools in clinical trials. Ann Rheum Dis. 2005;64(Suppl 2):ii65-ii73). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C179972",
+            "notation": "PASI V2",
+            "pref_label": "Psoriasis Area and Severity Index Version 2 Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C179972"
+        },
+        {
+            "alt_label": "PASI01",
+            "definition": "Psoriasis Area and Severity Index (PASI) (Fredriksson T, Pettersson U. Severe psoriasis--Oral Therapy with a New Retinoid. Dermatologica. 1978;157(4):238-244. Feldman SR, Krueger GG. Psoriasis assessment tools in clinical trials. Ann Rheum Dis. 2005;64(Suppl 2):ii65-ii73).",
+            "identifier": "C135734",
+            "notation": "PASI",
+            "pref_label": "Psoriasis Area and Severity Index Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C135734"
+        },
+        {
+            "alt_label": "QIDSC1",
+            "definition": "Quick Inventory of Depressive Symptomatology - Clinician-Rated (QIDS-C) (Copyright UT Southwestern Medical Center at Dallas. Rush AJ, Trivedi MH, Ibrahim HM, Carmody TJ, Arnow B, Klein DN, Markowitz JC, Ninan PT, Kornstein S, Manber R, Thase ME, Kocsis JH, Keller MB. The 16-item Quick Inventory of Depressive Symptomatology (QIDS) Clinician Rating (QIDS-C) and Self-Report (QIDS-SR): A psychometric evaluation in patients with chronic major depression. Biological Psychiatry, 54:573-583, 2003).",
+            "identifier": "C130309",
+            "notation": "QIDS-C",
+            "pref_label": "Quick Inventory of Depressive Symptomatology Clinician-Rated Version Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C130309"
+        },
+        {
+            "alt_label": "RASS01",
+            "definition": "Richmond Agitation-Sedation Scale (RASS) (Sessler CN, Gosnell M, Grap MJ, Brophy GT, O'Neal PV, Keane KA et al. The Richmond Agitation-Sedation Scale: validity and reliability in adult intensive care patients. Am J Respir Crit Care Med. 2002 Nov 15;166:1338-1344. Copyright Virginia Commonwealth University 2000. All Rights Reserved).",
+            "identifier": "C171417",
+            "notation": "RASS",
+            "pref_label": "Richmond Agitation-Sedation Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C171417"
+        },
+        {
+            "alt_label": "RCVD01",
+            "definition": "Reynolds Cardiovascular Disease 10-Year Risk Score (Ridker PM, Buring JE, Rifai N, Cook NR. Development and Validation of Improved Algorithms for the Assessment of Global Cardiovascular Risk in Women: The Reynolds Risk Score. Jama 2007; 297: 611-619), (Ridker PM, Paynter NP, Rifai N, Gaziano JM, Cook NR. C-Reactive Protein and Parental History Improve Global Cardiovascular Risk Prediction: The Reynolds Risk Score for Men. Circulation2008; 118(22): 2243-2251).",
+            "identifier": "C124708",
+            "notation": "REYNOLDS CVD 10-YEAR RISK",
+            "pref_label": "Reynolds Cardiovascular Disease 10-Year Risk Score Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124708"
+        },
+        {
+            "alt_label": "RSSS01",
+            "definition": "Rett Syndrome Severity Scale (RSSS) (Kalkwarf HJ, Zemel BS, Gilsanz V, Lappe JM, Horlick M, Oberfield S, Mahboubi S, Fan B, Frederick MM, Winer K, Shepherd JA. The bone mineral density in childhood study: bone mineral content and density according to age, sex, and race. J Clin Endocrinol Metab. 2007 Jun;92(6):2087-99).",
+            "identifier": "C174061",
+            "notation": "RSSS",
+            "pref_label": "Rett Syndrome Severity Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C174061"
+        },
+        {
+            "alt_label": "SAS01",
+            "definition": "Riker Sedation-Agitation Scale (SAS) (Riker, Richard R. MD, FCCP; Picard, Jean T. BSN, CCRN; Fraser, Gilles L. PharmD. Prospective evaluation of the Sedation-Agitation Scale for adult critically ill patients. Critical Care Medicine. July 1999; 27:7:1325-1329. Copyright Lippincott Williams & Wilkins, Inc. 1999. All Rights Reserved).",
+            "identifier": "C171418",
+            "notation": "SAS",
+            "pref_label": "Riker Sedation-Agitation Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C171418"
+        },
+        {
+            "alt_label": "SES01",
+            "definition": "Simple Endoscopic Score for Crohn's Disease Version 1 (SES-CD V1) (Daperno M, D'Haens G, Van Assche G, Baert F, Bulois P, Maunoury V, Sostegni R, Rocca R, Pera A, Gevers A, Mary JY, Colombel JF, Rutgeerts P. Development and validation of a new, simplified endoscopic activity score for Crohn's disease: the SES-CD. Gastrointest Endosc 2004; 60 (4): 505-512). CDISC believes this instrument to be in the public domain, but you should perform your own assessment.",
+            "identifier": "C176060",
+            "notation": "SES-CD V1",
+            "pref_label": "Simple Endoscopic Score for Crohn's Disease Version 1 Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C176060"
+        },
+        {
+            "alt_label": "TANN02",
+            "definition": "Tanner Scale Boy (Marshall WA, Tanner JM. Variations in pattern of pubertal changes in boys. Arch Dis Child 1970 Feb;45(239):13-23).",
+            "identifier": "C124703",
+            "notation": "TANNER SCALE BOY",
+            "pref_label": "Tanner Scale Boy Version",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124703"
+        },
+        {
+            "alt_label": "TANN01",
+            "definition": "Tanner Scale Girl (Marshall WA, Tanner JM. Variations in pattern of pubertal changes in girls. Arch Dis Child 1969 Jun; 44(235): 291-303).",
+            "identifier": "C124704",
+            "notation": "TANNER SCALE GIRL",
+            "pref_label": "Tanner Scale Girl Version",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124704"
+        },
+        {
+            "alt_label": "TDI01",
+            "definition": "Transition Dyspnea Index (TDI) (Mahler DA, Weinberg DH, Wells CK, Feinstein AR. The measurement of dyspnea. Contents, interobserver agreement, and physiologic correlates of two new clinical indexes. Chest 1984, 85: 751-758).",
+            "identifier": "C106694",
+            "notation": "TDI",
+            "pref_label": "Transition Dyspnea Index Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C106694"
+        },
+        {
+            "alt_label": "TIMG01",
+            "definition": "Coronary Thrombus TIMI Grade (TIMI Definitions for Commonly Used Terms in Clinical Trials. Available at http://www.timi.org/wp-content/uploads/2010/10/TIMI-Definitions.pdf. Accessed November 30, 2013).",
+            "identifier": "C119104",
+            "notation": "TIMI THROMBUS GRADE",
+            "pref_label": "Coronary Thrombus TIMI Grade Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C119104"
+        },
+        {
+            "alt_label": "UHDR1",
+            "definition": "Unified Huntington's Disease Rating Scale '99 (UHDRS 1999) (Huntington Study Group. (1996). Unified Huntington's Disease Rating Scale: Reliability and Consistency. Movement Disorders, 11(2), 136-142).",
+            "identifier": "C155324",
+            "notation": "UHDRS 1999",
+            "pref_label": "Unified Huntington's Disease Rating Scale 1999 Version Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C155324"
+        },
+        {
+            "alt_label": "UPD1",
+            "definition": "Unified Parkinson's Disease Rating Scale (UPDRS) (Fahn S, Marsden CD, Calne DB, Goldstein M, eds. Recent Developments in Parkinson's Disease, Vol 2. Florham Park, NJ. Macmillan Health Care Information 1987, pp 153-163, 293-304).",
+            "identifier": "C100778",
+            "notation": "UPDRS",
+            "pref_label": "Unified Parkinson's Disease Rating Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C100778"
+        },
+        {
+            "alt_label": "VALG01",
+            "definition": "Veterans Administration Lung Study Group (VALG) (Staging small cell lung cancer: Veterans Administration Lung Study Group versus International Association for the Study of Lung Cancer--what limits limited disease? Micke P, Faldum A, Metz T, Beeh K.-M, Bittinger F, Hengstler J.-G, Buhl R, Lung Cancer 2002;37:271-276).",
+            "identifier": "C141685",
+            "notation": "VALG",
+            "pref_label": "Veterans Administration Lung Study Group Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C141685"
+        },
+        {
+            "alt_label": "VLERS1",
+            "definition": "Vignos Lower Extremity Rating Scale (VLERS) (Vignos PJ, Spencer CE, Archibald KC. (1963) Management of progressive muscular dystrophy in childhood.JAMA 184:389-96. Brooke MG, Griggs RC, Mendell JR, Fenichel, GM, Shumate JB and Peggegrino RJ (1981). Clinical trial in duchenne dystrophy. I The Design of the Protocol. Muscle and Nerve: 4:186-197).",
+            "identifier": "C130305",
+            "notation": "VLERS",
+            "pref_label": "Vignos Lower Extremity Rating Scale Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C130305"
+        },
+        {
+            "alt_label": "WHEG01",
+            "definition": "West Haven Hepatic Encephalopathy Grade (Blei AT, Cordoba J. Hepatic Encephalopathy. Am J Gastroenterol. 2001 Jul. 96(7):1968-76).",
+            "identifier": "C124709",
+            "notation": "WEST HAVEN HEPATIC ENCEPHALOPATHY GRADE",
+            "pref_label": "West Haven Hepatic Encephalopathy Grade Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124709"
+        },
+        {
+            "alt_label": "WHIVS1",
+            "definition": "WHO Clinical Staging of HIV/AIDS for Adults and Adolescents (Copyright World Health Organization 2007, World Health Organization. WHO case definitions of HIV for surveillance and revised clinical staging and immunological classification of HIV-related disease in adults and children; 2007. Retrieved from http://www.who.int/hiv/pub/vct/hivstaging/en/).",
+            "identifier": "C124713",
+            "notation": "WHO HIV STAGING FOR ADULTS AND ADOLESCENTS",
+            "pref_label": "World Health Organization Clinical Staging of HIV/AIDS for Adults and Adolescents Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124713"
+        },
+        {
+            "alt_label": "WHIVS2",
+            "definition": "WHO Clinical Staging of HIV/AIDS for Children (Copyright World Health Organization 2007, World Health Organization. WHO case definitions of HIV for surveillance and revised clinical staging and immunological classification of HIV-related disease in adults and children; 2007. Retrieved from http://www.who.int/hiv/pub/vct/hivstaging/en/).",
+            "identifier": "C124714",
+            "notation": "WHO HIV STAGING FOR CHILDREN",
+            "pref_label": "World Health Organization Clinical Staging of HIV/AIDS for Children Clinical Classification",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C118971-C124714"
+        }
+    ]
+}

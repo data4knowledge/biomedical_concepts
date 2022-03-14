@@ -1,0 +1,181 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A method of euthanasia whereby a subject is anesthetized and the spinal column is dislocated from the skull and brain.",
+            "identifier": "C90355",
+            "notation": "ANESTHETIZED CERVICAL DISLOCATION",
+            "pref_label": "Anesthesia and Cervical Dislocation Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C90355"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is anesthetized and the head is removed from the body.",
+            "identifier": "C90356",
+            "notation": "ANESTHETIZED DECAPITATION",
+            "pref_label": "Anesthesia and Decapitation Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C90356"
+        },
+        {
+            "alt_label": "Anesthetized Perfusion",
+            "definition": "A method of euthanasia whereby a subject is anesthetized and the blood of the body is replaced by a perfusate. (NCI)",
+            "identifier": "C106500",
+            "notation": "ANESTHETIZED EXSANGUINATION AND PERFUSION",
+            "pref_label": "Anesthetized Exsanguination and Perfusion Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C106500"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is anesthetized and the body is drained of blood.",
+            "identifier": "C90357",
+            "notation": "ANESTHETIZED EXSANGUINATION",
+            "pref_label": "Anesthesia and Exsanguination Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C90357"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is anesthetized, a lethal chemical is administered by injection and the body is drained of blood.",
+            "identifier": "C116221",
+            "notation": "ANESTHETIZED LETHAL INJECTION EXSANGUINATION",
+            "pref_label": "Anesthetized Lethal Injection Exsanguination Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116221"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is anesthetized, a lethal chemical is administered by intracardiac injection and the body is drained of blood.",
+            "identifier": "C116224",
+            "notation": "ANESTHETIZED LETHAL INJECTION INTRACARDIAC EXSANGUINATION",
+            "pref_label": "Anesthetized Intracardiac Lethal Injection and Exsanguination Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116224"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is anesthetized and a lethal chemical is administered by intracardiac injection to induce death.",
+            "identifier": "C116220",
+            "notation": "ANESTHETIZED LETHAL INJECTION INTRACARDIAC",
+            "pref_label": "Anesthetized Intracardiac Lethal Injection Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116220"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is anesthetized, a lethal chemical is administered by intraperitoneal injection and the body is drained of blood.",
+            "identifier": "C116223",
+            "notation": "ANESTHETIZED LETHAL INJECTION INTRAPERITONEAL EXSANGUINATION",
+            "pref_label": "Anesthetized Intraperitoneal Lethal Injection and Exsanguination Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116223"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is anesthetized and a lethal chemical is administered by intraperitoneal injection to induce death.",
+            "identifier": "C116219",
+            "notation": "ANESTHETIZED LETHAL INJECTION INTRAPERITONEAL",
+            "pref_label": "Anesthetized Intraperitoneal Lethal Injection Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116219"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is anesthetized, a lethal chemical is administered by intravenous injection and the body is drained of blood.",
+            "identifier": "C116222",
+            "notation": "ANESTHETIZED LETHAL INJECTION INTRAVENOUS EXSANGUINATION",
+            "pref_label": "Anesthetized Lethal Injection Intravenous Exsanguination Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116222"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is anesthetized and a lethal chemical is administered by intravenous injection to induce death.",
+            "identifier": "C116218",
+            "notation": "ANESTHETIZED LETHAL INJECTION INTRAVENOUS",
+            "pref_label": "Anesthetized Intravenous Lethal Injection Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116218"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is anesthetized and a lethal chemical is administered by injection to induce death.",
+            "identifier": "C116217",
+            "notation": "ANESTHETIZED LETHAL INJECTION",
+            "pref_label": "Anesthetized Lethal Injection Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116217"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is shot in the brain with a captive bolt pistol causing immediate and permanent unconsciousness or death, followed by draining the body of blood. (NCI)",
+            "identifier": "C106506",
+            "notation": "CAPTIVE BOLT EXSANGUINATION",
+            "pref_label": "Captive Bolt and Exsanguination Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C106506"
+        },
+        {
+            "alt_label": "Asphyxia Exsanguination",
+            "definition": "A method of euthanasia whereby a subject inhales carbon dioxide until asphyxiation occurs and then the body is immediately drained of blood. (NCI)",
+            "identifier": "C106507",
+            "notation": "CARBON DIOXIDE EXSANGUINATION",
+            "pref_label": "Carbon Dioxide and Exsanguination Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C106507"
+        },
+        {
+            "definition": "A method of euthanasia whereby the spinal column is dislocated from the skull and brain.",
+            "identifier": "C90371",
+            "notation": "CERVICAL DISLOCATION",
+            "pref_label": "Cervical Dislocation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C90371"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject inhales carbon dioxide until death occurs.",
+            "identifier": "C90369",
+            "notation": "CO2",
+            "pref_label": "Carbon Dioxide Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C90369"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject's head is removed from the body.",
+            "identifier": "C90375",
+            "notation": "DECAPITATION",
+            "pref_label": "Decapitation",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C90375"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is given a lethal injection and the body is drained of blood.",
+            "identifier": "C116114",
+            "notation": "LETHAL INJECTION EXSANGUINATION",
+            "pref_label": "Lethal Injection and Exsanguination Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116114"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is given a lethal intracardiac injection and the body is drained of blood.",
+            "identifier": "C116230",
+            "notation": "LETHAL INJECTION INTRACARDIAC EXSANGUINATION",
+            "pref_label": "Intracardiac Lethal Injection and Exsanguination Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116230"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is given a lethal intracardiac injection to induce death.",
+            "identifier": "C116227",
+            "notation": "LETHAL INJECTION INTRACARDIAC",
+            "pref_label": "Intracardiac Lethal Injection Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116227"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is given a lethal intraperitoneal injection and the body is drained of blood.",
+            "identifier": "C116229",
+            "notation": "LETHAL INJECTION INTRAPERITONEAL EXSANGUINATION",
+            "pref_label": "Intraperitoneal Lethal Injection and Exsanguination Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116229"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is given a lethal intraperitoneal injection to induce death.",
+            "identifier": "C116226",
+            "notation": "LETHAL INJECTION INTRAPERITONEAL",
+            "pref_label": "Intraperitoneal Lethal Injection Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116226"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is given a lethal intravenous injection and the body is drained of blood.",
+            "identifier": "C116228",
+            "notation": "LETHAL INJECTION INTRAVENOUS EXSANGUINATION",
+            "pref_label": "Intravenous Lethal Injection and Exsanguination Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116228"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is given a lethal intravenous injection to induce death.",
+            "identifier": "C116225",
+            "notation": "LETHAL INJECTION INTRAVENOUS",
+            "pref_label": "Intravenous Lethal Injection Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116225"
+        },
+        {
+            "definition": "A method of euthanasia whereby a subject is given a lethal injection to induce death.",
+            "identifier": "C116113",
+            "notation": "LETHAL INJECTION",
+            "pref_label": "Lethal Injection Euthanasia",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89975-C116113"
+        }
+    ]
+}

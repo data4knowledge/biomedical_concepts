@@ -1,0 +1,218 @@
+{
+    "SKOS_CONCEPT": [
+        {
+            "definition": "A type of study designed to evaluate the strength of the bond between an adhesive and the application surface.",
+            "identifier": "C158283",
+            "notation": "ADHESION PERFORMANCE",
+            "pref_label": "Adhesion Performance Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C158283"
+        },
+        {
+            "definition": "A type of study designed to evaluate the effects of alcohol on investigational product safety and/or efficacy.",
+            "identifier": "C158284",
+            "notation": "ALCOHOL EFFECT",
+            "pref_label": "Alcohol Effect Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C158284"
+        },
+        {
+            "definition": "A study of the degree to which or rate at which a drug or other substance is absorbed or becomes available at the site of physiological activity after administration. (NCI)",
+            "identifier": "C49664",
+            "notation": "BIO-AVAILABILITY",
+            "pref_label": "Bioavailability Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C49664"
+        },
+        {
+            "definition": "A study most often used to compare the efficacy of different formulations to treat a given disease. It is the testing of an old versus a new formulation in healthy volunteers or subjects with the disease under study and usually in one dose. (NCI)",
+            "identifier": "C49665",
+            "notation": "BIO-EQUIVALENCE",
+            "pref_label": "Therapeutic Equivalency Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C49665"
+        },
+        {
+            "definition": "A type of study designed to evaluate whether a biologic test article is highly similar in function and effect to an existing biologic that has already been clinically tested and approved for use.",
+            "identifier": "C158288",
+            "notation": "BIOSIMILARITY",
+            "pref_label": "Biosimilarity Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C158288"
+        },
+        {
+            "definition": "A type of study designed to evaluate the interaction between a device and a drug, where the use of one may affect the disposition, function, efficacy, or safety of the other.",
+            "identifier": "C158285",
+            "notation": "DEVICE-DRUG INTERACTION",
+            "pref_label": "Device-Drug Interaction Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C158285"
+        },
+        {
+            "definition": "A type of study designed to evaluate intervention(s) aimed at identifying a disease or condition.",
+            "identifier": "C49653",
+            "notation": "DIAGNOSIS",
+            "pref_label": "Diagnosis Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C49653"
+        },
+        {
+            "definition": "An early phase clinical study with the objective of determining the optimal dose of an investigational product.",
+            "identifier": "C158289",
+            "notation": "DOSE FINDING",
+            "pref_label": "Dose Finding Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C158289"
+        },
+        {
+            "definition": "A type of study designed to evaluate the relationship between dose and resulting exposure.",
+            "identifier": "C158290",
+            "notation": "DOSE PROPORTIONALITY",
+            "pref_label": "Dose Proportionality Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C158290"
+        },
+        {
+            "definition": "A study of the effect of dose changes on the efficacy of a drug in order to determine the dose-response relationship and optimal dose of a therapy.",
+            "identifier": "C127803",
+            "notation": "DOSE RESPONSE",
+            "pref_label": "Dose Response Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C127803"
+        },
+        {
+            "definition": "A type of study designed to evaluate the interaction between drugs, where the use of one may affect the disposition, efficacy, or safety of the other.",
+            "identifier": "C158286",
+            "notation": "DRUG-DRUG INTERACTION",
+            "pref_label": "Drug-Drug Interaction Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C158286"
+        },
+        {
+            "alt_label": "Electrocardiographic Study",
+            "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography.",
+            "identifier": "C178057",
+            "notation": "ECG",
+            "pref_label": "Electrocardiographic Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C178057"
+        },
+        {
+            "definition": "A study of the relative therapeutic efficacy of treatment of a disease. Usually this is a Phase II or III study. (NCI)",
+            "identifier": "C49666",
+            "notation": "EFFICACY",
+            "pref_label": "Efficacy Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C49666"
+        },
+        {
+            "definition": "Studies that are conducted to assess the effect of food on the rate and extent of absorption of a drug, either compared to a fasted state or to a reference drug.",
+            "identifier": "C98729",
+            "notation": "FOOD EFFECT",
+            "pref_label": "Food Effect Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C98729"
+        },
+        {
+            "definition": "A study that assesses an agent's ability to provoke an immune response.",
+            "identifier": "C120842",
+            "notation": "IMMUNOGENICITY",
+            "pref_label": "Immunogenicity Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C120842"
+        },
+        {
+            "definition": "A study of the biochemical and physiological effect of a drug and the mechanism of drug action and the relationship between drug concentration and effect. (NCI)",
+            "identifier": "C49662",
+            "notation": "PHARMACODYNAMIC",
+            "pref_label": "Pharmacodynamic Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C49662"
+        },
+        {
+            "definition": "A study that assesses the value associated with a given drug in therapeutic and economic terms. This type of study is multidisciplinary in nature and takes into consideration the social and economic costs (resource utilization costs including direct, indirect, and intangible costs) of drug therapy in addition to its direct therapeutic benefits. Analyses relate the difference in therapeutic benefits to the difference in costs between treatment alternatives. (NCI)",
+            "identifier": "C39493",
+            "notation": "PHARMACOECONOMIC",
+            "pref_label": "Pharmacoeconomic Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C39493"
+        },
+        {
+            "definition": "A study that assesses variation in DNA sequence, usually within a single gene, and its effect on drug response.",
+            "identifier": "C129001",
+            "notation": "PHARMACOGENETIC",
+            "pref_label": "Pharmacogenetic Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C129001"
+        },
+        {
+            "definition": "A study that identifies or assesses variations within the entire genome, including DNA, RNA, or transcriptional elements, and its effects on drug response.",
+            "identifier": "C49661",
+            "notation": "PHARMACOGENOMIC",
+            "pref_label": "Pharmacogenomic Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C49661"
+        },
+        {
+            "definition": "A study of the process by which a drug is absorbed, distributed, metabolized, and eliminated by the body. (NCI)",
+            "identifier": "C49663",
+            "notation": "PHARMACOKINETIC",
+            "pref_label": "Pharmacokinetic Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C49663"
+        },
+        {
+            "definition": "A type of study designed to evaluate the effect of body position during and/or after administration of the investigational product.",
+            "identifier": "C161477",
+            "notation": "POSITION EFFECT",
+            "pref_label": "Position Effect Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C161477"
+        },
+        {
+            "alt_label": "Prophylaxis Study",
+            "definition": "A type of study designed to identify actions necessary to permanently eliminate or reduce the long-term risk to human life as a result of a particular medication or treatment regimen.",
+            "identifier": "C49657",
+            "notation": "PREVENTION",
+            "pref_label": "Prevention Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C49657"
+        },
+        {
+            "definition": "A type of study designed to evaluate the expected, acute types of immunological responses, sometimes considered excessive, following agent administration.",
+            "identifier": "C174366",
+            "notation": "REACTOGENICITY",
+            "pref_label": "Reactogenicity Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C174366"
+        },
+        {
+            "definition": "A study that assesses the medical risks to a subject. Safety is usually assessed by examining a wide range of clinical parameters, including adverse events, vital signs, physical exam, laboratory tests.",
+            "identifier": "C49667",
+            "notation": "SAFETY",
+            "pref_label": "Safety Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C49667"
+        },
+        {
+            "definition": "A type of study designed to evaluate the effect of the investigational product on the physiologic act of swallowing.",
+            "identifier": "C161478",
+            "notation": "SWALLOWING FUNCTION",
+            "pref_label": "Swallowing Function Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C161478"
+        },
+        {
+            "alt_label": "TQT Study",
+            "definition": "A type of study designed to evaluate the ability of an investigational product and/or approved drug to delay cardiac ventricular repolarization as detected by QT prolongation and other ECG parameters.",
+            "identifier": "C158287",
+            "notation": "THOROUGH QT",
+            "pref_label": "Thorough QT Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C158287"
+        },
+        {
+            "definition": "A type of safety study that assesses the degree to which overt adverse effects can be tolerated by the subject.",
+            "identifier": "C98791",
+            "notation": "TOLERABILITY",
+            "pref_label": "Tolerability Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C98791"
+        },
+        {
+            "alt_label": "Therapy Trial",
+            "definition": "A type of study designed to evaluate intervention(s) for treatment of disease, syndrome or condition.",
+            "identifier": "C49656",
+            "notation": "TREATMENT",
+            "pref_label": "Treatment Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C49656"
+        },
+        {
+            "definition": "A type of study designed to evaluate the user experience with a product.",
+            "identifier": "C161479",
+            "notation": "USABILITY TESTING",
+            "pref_label": "Usability Testing Study",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C161479"
+        },
+        {
+            "definition": "A type of study designed to evaluate the effects of water on investigational product safety and/or efficacy.",
+            "identifier": "C161480",
+            "notation": "WATER EFFECT",
+            "pref_label": "Water Effect Trial",
+            "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66739-C161480"
+        }
+    ]
+}
