@@ -1,5 +1,9 @@
+from pathlib import Path
 import json
 import csv
+
+uri_to_id = {}
+id_number = 1
 
 stages = [
     [ 
@@ -49,42 +53,57 @@ stages = [
     [ 
         { "filename": "study/study_1_nodes.json", "type": "nodes" },
         { "filename": "study/study_1_relationships.json", "type": "relationships" },
-    ],
+    ]
+]
+code_lists = [
     [ 
         { "filename": "cdisc_ct/sdtm/cdisc_ct_sdtm_nodes_C66741.json", "type": "nodes" }
     ]
 ]
 
-uri_to_id = {}
-id_number = 1
+def process_file(file_item, csv_filename):
+    global id_number
+    file_type = file_item["type"]
+    with open(csv_filename, mode='w', newline='') as csv_file:
+        if file_type == "nodes":
+            fields = list(v[0].keys())
+            #print([s + ":STRING" for s in fields])
+            #fieldnames = ["id:ID"] + list(v[0].keys())
+            fieldnames = ["id:ID"] + fields
+        else:
+            fieldnames = [ ":START_ID", ":END_ID" ]
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames, quoting=csv.QUOTE_ALL, lineterminator="\n")
+        writer.writeheader()
+        for row in v:
+            if file_type == "nodes":
+                row["id:ID"] = id_number
+                uri_to_id[row["uri"]] = id_number
+                #print("%s = %s" % (row["uri"], id_number))
+                id_number += 1
+                writer.writerow(row)
+            else:
+                new_row = { ":START_ID": uri_to_id[row["from"]], ":END_ID": uri_to_id[row["to"]] }
+                writer.writerow(new_row)
+
 stage_number = 1
 for stage in stages:
     for file_item in stage:
-        file_type = file_item["type"]
         with open("../data/%s" % (file_item["filename"])) as json_file:
             print(file_item["filename"])
             data = json.load(json_file)
             for k, v in data.items():
-                csv_filename = "../data/csv_load/stage_%d_%s_%s.csv" % (stage_number, k.lower(), file_type)
-                with open(csv_filename, mode='w', newline='') as csv_file:
-                    if file_type == "nodes":
-                        fields = list(v[0].keys())
-                        #print([s + ":STRING" for s in fields])
-                        #fieldnames = ["id:ID"] + list(v[0].keys())
-                        fieldnames = ["id:ID"] + fields
-                    else:
-                        fieldnames = [ ":START_ID", ":END_ID" ]
-                    writer = csv.DictWriter(csv_file, fieldnames=fieldnames, quoting=csv.QUOTE_ALL, lineterminator="\n")
-                    writer.writeheader()
-                    for row in v:
-                        if file_type == "nodes":
-                            row["id:ID"] = id_number
-                            uri_to_id[row["uri"]] = id_number
-                            #print("%s = %s" % (row["uri"], id_number))
-                            id_number += 1
-                            writer.writerow(row)
-                        else:
-                            new_row = { ":START_ID": uri_to_id[row["from"]], ":END_ID": uri_to_id[row["to"]] }
-                            writer.writerow(new_row)
-
+                csv_filename = "../data/csv_load/stage_%d_%s_%s.csv" % (stage_number, k.lower(), file_item["type"])
+                process_file(file_item, csv_filename)
     stage_number += 1
+
+for code_list in code_lists:
+    for file_item in code_list:
+        filename = "../data/%s" % (file_item["filename"])
+        output_filename = file_item["filename"].split("/")[-1]
+        output_filename = output_filename.split(".")[0]
+        with open(filename) as json_file:
+            print(file_item["filename"])
+            data = json.load(json_file)
+            for k, v in data.items():
+                csv_filename = filename = "../data/csv_load/%s.csv" % (output_filename)
+                process_file(file_item, csv_filename)
