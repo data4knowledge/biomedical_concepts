@@ -49,6 +49,9 @@ stages = [
     [ 
         { "filename": "study/study_1_nodes.json", "type": "nodes" },
         { "filename": "study/study_1_relationships.json", "type": "relationships" },
+    ],
+    [ 
+        { "filename": "cdisc_ct/sdtm/cdisc_ct_sdtm_nodes_C66741.json", "type": "nodes" }
     ]
 ]
 
