@@ -57,7 +57,8 @@ stages = [
 ]
 code_lists = [
     [ 
-        { "filename": "cdisc_ct/sdtm/cdisc_ct_sdtm_nodes_C66741.json", "type": "nodes" }
+        { "filename": "cdisc_ct/sdtm/cdisc_ct_sdtm_nodes_C66741.json", "type": "nodes" },
+        { "filename": "cdisc_ct/sdtm/cdisc_ct_sdtm_nodes_C66770.json", "type": "nodes" }
     ]
 ]
 
