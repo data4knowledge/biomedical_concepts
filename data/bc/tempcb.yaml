@@ -1,0 +1,131 @@
+---
+#TEMP
+- :label: "Core Body Temperature"
+  :identifier: "TEMPCB"
+  :based_on: http://www.s-cubed.dk/BASIC_OBS_PQR/V1#BCT
+  :identified_by: 
+    :label: "Test"
+    :enabled: true  
+    :has_complex_datatype: 
+     - 
+      :short_name: CD 
+      :has_property: 
+      -
+        :label: "code"
+        :question_text: ""
+        :prompt_text: ""
+        :format: "8"
+        :has_coded_value:
+        - 
+          :cl: C66741
+          :cli: C174370
+      
+  :has_items:
+  - :label: "Date Time"
+    :enabled: true  
+    :has_complex_datatype: 
+    - :short_name: DATETIME
+      :has_property: 
+      - 
+        :label: "value"
+        :question_text: "Date and time"
+        :prompt_text: "Date Time"
+        :format: ""
+  - :label: "Category Code"
+    :enabled: false
+  - :label: "Subcategory Code"
+    :enabled: false
+  - :label: "Position"
+    :enabled: true
+    :has_complex_datatype: 
+    - 
+      :short_name: CD
+      :has_property: 
+      - 
+        :label: code
+        :question_text: "Body Position"
+        :prompt_text: "Position"
+        :format: "40"
+        :has_coded_value:
+        - 
+          :cl: C71148 
+          :cli: C62166
+        - 
+          :cl: C71148 
+          :cli: C62122
+        - 
+          :cl: C71148
+          :cli: C62167
+
+  - :label: "Site of Administration"
+    :enabled: true
+    :collet: false
+    :has_complex_datatype: 
+    - 
+      :short_name: CD
+      :has_property: 
+      - 
+        :label: code
+        :question_text: "Location of Measurement"
+        :prompt_text: "Location"
+        :format: "40"
+        :has_coded_value:
+        - 
+          :cl: C74456 
+          :cli: C32141 
+
+  - :label: "Laterality"
+    :enabled: true
+    :has_complex_datatype: 
+    - 
+      :short_name: CD
+      :has_property: 
+      - 
+        :label: code
+        :question_text: "Laterality"
+        :prompt_text: "Laterality"
+        :format: "40"
+        :has_coded_value:
+        - 
+          :cl: C99073 
+          :cli: C25229
+        - 
+          :cl: C99073 
+          :cli: C25228
+        - 
+          :cl: C99073
+          :cli: C13332
+
+  - :label: "Method"
+    :enabled: false 
+  - :label: "Not Done"
+    :enabled: false
+  - :label: "Reason Not Done"
+    :enabled: false 
+  - :label: "Result"
+    :enabled: true  
+    :has_complex_datatype: 
+    - 
+      :short_name: PQR
+      :has_property: 
+      - 
+        :label: "value"
+        :question_text: "Core Body Temperature"
+        :prompt_text: "Result"
+        :format: "5.2"
+        :has_coded_value: []
+      - 
+        :label: "code"
+        :question_text: "Unit"
+        :prompt_text: "Unit"
+        :format: "20"
+        :has_coded_value:
+        - 
+          :cl: C71620
+          :cli: C42559
+        - 
+          :cl: C66770
+          :cli: C44277
+        - 
+          :cl: C66770
+          :cli: C42537

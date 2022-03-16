@@ -1,0 +1,71 @@
+---
+#WEIGHT
+- :label: "Oxygen Saturation Measurement"
+  :identifier: "OXYSAT"
+  :based_on: http://www.s-cubed.dk/BASIC_OBS_PQR/V1#BCT
+  :identified_by: 
+    :label: "Test"
+    :enabled: true 
+    :collect: false 
+    :has_complex_datatype: 
+     - 
+      :short_name: CD 
+      :has_property: 
+      -
+        :label: "code"
+        :question_text: ""
+        :prompt_text: ""
+        :format: "8"
+        :has_coded_value:
+        - 
+          :cl: C66741
+          :cli: C60832
+      
+  :has_items:
+  - :label: "Date Time"
+    :enabled: true  
+    :has_complex_datatype: 
+    - :short_name: DATETIME
+      :has_property: 
+      - 
+        :label: "value"
+        :question_text: "Date and time"
+        :prompt_text: "Date Time"
+        :format: ""  
+  - :label: "Category Code"
+    :enabled: false
+  - :label: "Subcategory Code"
+    :enabled: false
+  - :label: "Position"
+    :enabled: false
+  - :label: "Site of Administration"
+    :enabled: false
+  - :label: "Laterality"
+    :enabled: false
+  - :label: "Method"
+    :enabled: false 
+  - :label: "Not Done"
+    :enabled: false
+  - :label: "Reason Not Done"
+    :enabled: false 
+  - :label: "Result"
+    :enabled: true  
+    :has_complex_datatype: 
+    - 
+      :short_name: PQR
+      :has_property: 
+      - 
+        :label: "value"
+        :question_text: "Oxygen Saturation Measurement"
+        :prompt_text: "Result"
+        :format: "5.1"
+        :has_coded_value: []
+      - 
+        :label: "code"
+        :question_text: "Unit"
+        :prompt_text: "Unit"
+        :format: "20"
+        :has_coded_value:
+        - 
+          :cl: C66770
+          :cli: C25613

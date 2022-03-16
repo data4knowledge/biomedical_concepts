@@ -1,0 +1,63 @@
+---
+#HBA1C
+- :label: "HbA1c"
+  :identifier: "HBA1C"
+  :based_on: http://www.s-cubed.dk/BASIC_OBS_PQR/V1#BCT
+  :identified_by: 
+    :label: "Test"
+    :enabled: true  
+    :has_complex_datatype: 
+     - 
+      :short_name: CD 
+      :has_property: 
+      -
+        :label: "code"
+        :question_text: ""
+        :prompt_text: ""
+        :format: "8"
+        :has_coded_value:
+        - 
+          :cl: C65047
+          :cli: C64849
+      
+  :has_items:
+  - :label: "Category Code"
+    :enabled: false
+  - :label: "Subcategory Code"
+    :enabled: false
+  - :label: "Position"
+    :enabled: false
+  - :label: "Site of Administration"
+    :enabled: false
+  - :label: "Laterality"
+    :enabled: false
+  - :label: "Method"
+    :enabled: false 
+  - :label: "Not Done"
+    :enabled: false
+  - :label: "Reason Not Done"
+    :enabled: false 
+  - :label: "Result"
+    :enabled: true  
+    :has_complex_datatype: 
+    - 
+      :short_name: PQR
+      :has_property: 
+      - 
+        :label: "value"
+        :question_text: "Result"
+        :prompt_text: "Result"
+        :format: "5.2"
+        :has_coded_value: []
+      - 
+        :label: "code"
+        :question_text: "Unit"
+        :prompt_text: "Unit"
+        :format: "20"
+        :has_coded_value:
+        - 
+          :cl: C71620
+          :cli: C25613
+        - 
+          :cl: C71620
+          :cli: C111253
