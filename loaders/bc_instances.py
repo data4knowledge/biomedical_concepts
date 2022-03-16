@@ -118,9 +118,9 @@ for filename in files:
                                 relationships["HAS_DATA_PROPERTY"].append({"from": data_type_uri, "to": property_uri})
                                 if ":value_set" in property:
                                     for term in property[":value_set"]: 
-                                        cl = format_name(term[":cl"])
-                                        cli = format_name(term[":cli"])
-                                        term_uri = "%s/%s-%s" % (property_uri, cl, cli)
+                                        cl = term[":cl"]
+                                        cli = term[":cli"]
+                                        term_uri = "%s/%s-%s" % (property_uri, cl.lower(), cli.lower())
                                         record = {
                                             "cl": cl,
                                             "cli": cli,
