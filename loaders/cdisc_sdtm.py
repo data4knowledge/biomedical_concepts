@@ -65,12 +65,12 @@ for ds in ig_body['_links']['datasets']:
     for item in ds_body['datasetVariables']:
         variable = { "uri": "%s%s/%s" % (instance_ns, domain.lower(), item['name'].lower()) }
         variable["name"] = item['name']
-        variable["name"] = item['ordinal']
-        variable["name"] = item['label']
-        variable["name"] = item['description']
-        variable["name"] = item['simpleDatatype']
-        variable["name"] = item['role']
-        variable["name"] = item['core']
+        variable["ordinal"] = item['ordinal']
+        variable["label"] = item['label']
+        variable["description"] = item['description']
+        variable["simple_data_type"] = item['simpleDatatype']
+        variable["role"] = item['role']
+        variable["core"] = item['core']
         variable["ct"] = ""
         if 'codelist' in item['_links']:
             # Horrid nasty fix to save time. Don't query the API to get the identifier of the linked codelist.

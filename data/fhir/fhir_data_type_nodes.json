@@ -20,9 +20,18 @@
         {
             "name": "quantity",
             "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity"
+        },
+        {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#date_time"
         }
     ],
     "FHIR_DATA_TYPE_PROPERTY": [
+        {
+            "name": "date_time", 
+            "simple_data_type": "string", 
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#date_time_date_time"
+        },
         {
             "name": "system", 
             "simple_data_type": "string", 
