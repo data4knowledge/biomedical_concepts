@@ -1,0 +1,254 @@
+{
+  "title": "Biomedical Concepts Treatise",
+  "version": "2.0",
+  "settings": {
+    "pagenumber": 6,
+    "editable": true,
+    "fullscreenEnabled": true
+  },
+  "pages": [
+    {
+      "title": "FHIR Data Types",
+      "reports": [
+        {
+          "title": "Detailed Graph",
+          "query": "MATCH (f:FHIR)-[s]->(t:FHIR_DATA_TYPE)-[r]->(p:FHIR_DATA_TYPE_PROPERTY) RETURN f,s,t,r,p\n\n\n",
+          "width": 3,
+          "type": "graph",
+          "height": 3,
+          "selection": {
+            "FHIR": "version",
+            "FHIR_DATA_TYPE": "name",
+            "FHIR_DATA_TYPE_PROPERTY": "name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "defaultNodeSize": 4,
+            "layout": "force-directed",
+            "frozen": false
+          }
+        },
+        {
+          "title": "Date Types In System",
+          "query": "MATCH (t:FHIR_DATA_TYPE) RETURN t.name as Name\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        }
+      ]
+    },
+    {
+      "title": "Canonical Model",
+      "reports": [
+        {
+          "title": "Top Level",
+          "query": "MATCH (n:CANONICAL_MODEL)-[r]->(m:CANONICAL_NODE) RETURN n,m,r\n\n\n",
+          "width": 3,
+          "type": "graph",
+          "height": 3,
+          "selection": {
+            "CANONICAL_MODEL": "name",
+            "CANONICAL_NODE": "name"
+          },
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "title": "Detailed Graph",
+          "query": "MATCH (n:CANONICAL_MODEL)-[r:HAS_SUB_MODEL|CONSISTS_OF*1..]->(m:CANONICAL_NODE)\nwith n,r,m\nOPTIONAL MATCH (m)-[t:HAS_DATA_TYPE]->(o:CANONICAL_DATA_TYPE) \nRETURN n,m,o,r,t\n\n\n",
+          "width": "9",
+          "type": "graph",
+          "height": "3",
+          "selection": {
+            "CANONICAL_MODEL": "name",
+            "CANONICAL_NODE": "name",
+            "CANONICAL_DATA_TYPE": "data_type"
+          },
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "title": "Data Types In System",
+          "query": "MATCH (n:CANONICAL_MODEL)-[r:HAS_SUB_MODEL]->(m:CANONICAL_NODE)-[s:CONSISTS_OF*1..]->(p:CANONICAL_NODE)-[t]->(d:CANONICAL_DATA_TYPE) RETURN m.name as Model, p.name as Name, d.data_type as Datatype\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biomedical Concepts",
+      "reports": [
+        {
+          "title": "BCs In System",
+          "query": "MATCH (n:BC_INSTANCE) RETURN n.name AS Name\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "title": "Detailed Graph",
+          "query": "MATCH (bc:BC_INSTANCE)-[r1:HAS_ITEM]->(i:BC_ITEM)\nWITH bc,i,r1\nOPTIONAL MATCH (i)-[r2:HAS_DATA_TYPE]->(dt:BC_DATA_TYPE)-[r3:HAS_DATA_PROPERTY]->(dp:BC_DATA_PROPERTY)\nWITH bc,r1,i,r2,dt,r3,dp\nOPTIONAL MATCH (dp)-[r4:HAS_RESPONSE]->(sc)\nRETURN bc,r1,i,r2,dt,r3,dp,r4,sc\n\n",
+          "width": "9",
+          "type": "graph",
+          "height": "3",
+          "selection": {
+            "BC_INSTANCE": "name",
+            "BC_ITEM": "name",
+            "BC_DATA_TYPE": "name",
+            "BC_DATA_PROPERTY": "name",
+            "SKOS_CONCEPT": "notation"
+          },
+          "settings": {
+            "nodePositions": {}
+          }
+        }
+      ]
+    },
+    {
+      "title": "SDTM Definitions",
+      "reports": [
+        {
+          "title": "SDTM Domains",
+          "query": "MATCH (n:SDTM_DATASET) RETURN n.name as Name, n.description as Description\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "title": "Graph",
+          "query": "MATCH (n:SDTM_IG)-[r1]->(m:SDTM_DATASET) RETURN n,m,r1\n",
+          "width": 3,
+          "type": "graph",
+          "height": 3,
+          "selection": {
+            "SDTM_IG": "label",
+            "SDTM_DATASET": "name"
+          },
+          "settings": {
+            "nodePositions": {}
+          }
+        }
+      ]
+    },
+    {
+      "title": "Studies",
+      "reports": []
+    },
+    {
+      "title": "CT",
+      "reports": [
+        {
+          "title": "Full Code Lists Loaded",
+          "query": "MATCH (cl:SKOS_CONCEPT)-[r1]->(cli:SKOS_CONCEPT) RETURN DISTINCT cl.identifier as C_Code, cl.notation as Submission, cl.pref_label as Preferred_Term\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        }
+      ]
+    },
+    {
+      "title": "Study Data",
+      "reports": [
+        {
+          "title": "Raw Data",
+          "query": "MATCH (n:STUDY_DATA_POINT)-[]->(m:STUDY_SUBJECT) RETURN n.value as Value, m.identifier as Subject_Id\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "title": "Study Data",
+          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[]->(sv:SDTM_VARIABLE)-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:FHIR_DATA_TYPE_PROPERTY)\n  <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM), \n  (wfi)-[:USED_IN_VISIT]->(v:VISIT), \n  (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n  (e:EPOCH)-[]->(v)\nRETURN sd.name as domain, sv.name as variable, sdp.value as data, v.name as visit, e.study_epoch_name as epoch, subj.identifier as subject\n\n",
+          "width": "9",
+          "type": "table",
+          "height": "3",
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "title": "Key Relationships I",
+          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[r1]->(sv:SDTM_VARIABLE)-[r2]->(cv:SDTM_MODEL_VARIABLE)-[r3:IS_CANONICAL_REF]->(fdt:FHIR_DATA_TYPE_PROPERTY)<-[r4:IS_CANONICAL_REF]-(bdt:BC_DATA_PROPERTY)\nRETURN sd, sv, cv, fdt, bdt, r1,r2,r3,r4\n\n\n",
+          "width": "6",
+          "type": "graph",
+          "height": "3",
+          "selection": {
+            "SDTM_DATASET": "name",
+            "SDTM_VARIABLE": "name",
+            "SDTM_MODEL_VARIABLE": "name",
+            "FHIR_DATA_TYPE_PROPERTY": "name",
+            "BC_DATA_PROPERTY": "name"
+          },
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "title": "Key Relationships II",
+          "query": "MATCH (sdp:STUDY_DATA_POINT)-[r6]->(wfi:WORKFLOW_ITEM), (wfi)-[r7:USED_IN_VISIT]->(v:VISIT), (sdp)-[r8:FOR_SUBJECT]->(subj:STUDY_SUBJECT)\nRETURN sdp, wfi, v, subj, r6, r7,r8\n\n\n\n\n\n",
+          "width": "6",
+          "type": "graph",
+          "height": "3",
+          "selection": {
+            "STUDY_DATA_POINT": "(label)",
+            "WORKFLOW_ITEM": "id",
+            "VISIT": "name",
+            "STUDY_SUBJECT": "(label)"
+          },
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "title": "The Overall Graph",
+          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[r1]->(sv:SDTM_VARIABLE)-[r2]->(cv:SDTM_MODEL_VARIABLE)-[r3:IS_CANONICAL_REF]->(fdt:FHIR_DATA_TYPE_PROPERTY)<-[r4:IS_CANONICAL_REF]-(bdt:BC_DATA_PROPERTY)<-[r5:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[r6]->(wfi:WORKFLOW_ITEM), (wfi)-[r7:USED_IN_VISIT]->(v:VISIT), (sdp)-[r8:FOR_SUBJECT]->(subj:STUDY_SUBJECT)\nRETURN sd, sv, cv, fdt, bdt, sdp, wfi, v, subj, r1,r2,r3,r4,r5,r6,r7,r8\n\n\n",
+          "width": "12",
+          "type": "graph",
+          "height": "3",
+          "selection": {
+            "SDTM_DATASET": "name",
+            "SDTM_VARIABLE": "name",
+            "SDTM_MODEL_VARIABLE": "name",
+            "FHIR_DATA_TYPE_PROPERTY": "name",
+            "BC_DATA_PROPERTY": "name",
+            "STUDY_DATA_POINT": "(label)",
+            "WORKFLOW_ITEM": "id",
+            "VISIT": "name",
+            "STUDY_SUBJECT": "(label)"
+          },
+          "settings": {
+            "nodePositions": {}
+          }
+        }
+      ]
+    }
+  ]
+}
