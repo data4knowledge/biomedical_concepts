@@ -1,0 +1,101 @@
+﻿---
+:root: 
+  :name: "CANONICAL MODEL"
+  :nodes:
+  - :name: "ADVERSE EVENT"
+    :nodes:
+    - :name: "PERIOD"
+    - :name: "SERIOUS"
+    - :name: "LOCATION"
+      :nodes:
+      - :name: "PORTION"
+        :data_types: 
+        - coding
+      - :name: "DIRECTIONALITY"
+        :data_types: 
+        - coding
+      - :name: "LATERALITY"
+        :data_types: 
+        - coding
+    - :name: "SEVERITY"
+    - :name: "CAUSALITY"
+      :nodes:
+      - :name: "NON STUDY TREATMENT"
+      - :name: "RELATED"
+      - :name: "DEVICE"
+    - :name: "TOXICITY"
+      :nodes:
+      - :name: "GRADE"
+    - :name: "RESPONSE"
+      :nodes:
+      - :name: "OTHER"
+      - :name: "CONCOMITANT TREATMENT"
+      - :name: "STUDY TREATMENT"
+      - :name: "DEVICE"
+    - :name: "TERM"
+    - :name: "CATEGORY"
+  - :name: "OBSERVATION"
+    :nodes:
+    - :name: "CONSCIOUS"
+    - :name: "REFERENCE RESULT"
+    - :name: "SENSITIVITY"
+    - :name: "TEST"
+      :data_types: 
+      - coding
+    - :name: "FASTING"
+    - :name: "SEVERITY"
+    - :name: "EPIDEMIC / PANDEMIC"
+    - :name: "REASON PERFORMED"
+    - :name: "LOCATION"
+    - :name: "BODY SYSTEM"
+    - :name: "LOINC REF"
+    - :name: "LEAD"
+    - :name: "METHOD"
+    - :name: "RUN ID"
+    - :name: "SPECIMEN"
+      :nodes:
+      - :name: "CONDITION"
+      - :name: "USABLE"
+      - :name: "ANATOMIC REGION"
+    - :name: "DATE TIME"
+      :data_types:
+      - date_time
+    - :name: "TOXICITY"
+      :nodes:
+      - :name: "GRADE"
+    - :name: "RANGE"
+      :nodes:
+      - :name: "LOW"
+      - :name: "HI"
+    - :name: "LAB"
+    - :name: "OBSERVATION RESULT"
+      :nodes:
+      - :name: "RESULT"
+      - :name: "DISTRIBUTION"
+      - :name: "CHRONICITY"
+      - :name: "CODED"
+      - :name: "TYPE"
+      - :name: "SCALE"
+  - :name: "THERAPEUTIC INTERVENTION"
+    :nodes:
+    - :name: "DESCRIPTION"
+    - :name: "DATE TIME"
+    - :name: "METHOD"
+    - :name: "EPIDEMIC / PANDEMIC"
+    - :name: "CATEGORY"
+    - :name: "ADJUSTMENT"
+    - :name: "DAILY DOSE"
+    - :name: "FREQUENCY"
+    - :name: "TREATMENT VEHICLE"
+      :nodes:
+        - :name: "CARRIER"
+        - :name: "AMOUNT"
+    - :name: "FORM"
+    - :name: "ROUTE"
+    - :name: "SINGLE DOSE"
+    - :name: "TREATMENT"
+      :nodes:
+        - :name: "CLASS"
+        - :name: "AMENDED"
+        - :name: "RAW"
+    - :name: "LOCATION"

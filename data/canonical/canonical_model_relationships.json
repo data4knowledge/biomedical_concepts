@@ -1,105 +1,330 @@
 {
     "CONSISTS_OF": [
-        { "from": "http://id.d4k.dk/dataset/canonical/n3", "to": "http://id.d4k.dk/dataset/canonical/n8" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n3", "to": "http://id.d4k.dk/dataset/canonical/n9" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n3", "to": "http://id.d4k.dk/dataset/canonical/n18" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n3" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n4" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n1" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n12" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n19" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n20" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n17" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n28" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n38" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n21", "to": "http://id.d4k.dk/dataset/canonical/n22" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n4", "to": "http://id.d4k.dk/dataset/canonical/n23" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n4", "to": "http://id.d4k.dk/dataset/canonical/n24" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n24", "to": "http://id.d4k.dk/dataset/canonical/n14" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n4", "to": "http://id.d4k.dk/dataset/canonical/n26" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n26", "to": "http://id.d4k.dk/dataset/canonical/n27" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n26", "to": "http://id.d4k.dk/dataset/canonical/n32" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n20", "to": "http://id.d4k.dk/dataset/canonical/n33" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n20", "to": "http://id.d4k.dk/dataset/canonical/n34" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n3" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n42" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n67" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n67", "to": "http://id.d4k.dk/dataset/canonical/n68" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n67", "to": "http://id.d4k.dk/dataset/canonical/n72" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n67", "to": "http://id.d4k.dk/dataset/canonical/n73" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n74", "to": "http://id.d4k.dk/dataset/canonical/n75" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n74", "to": "http://id.d4k.dk/dataset/canonical/n76" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n77" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n82" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n74" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n90" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n91" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n91", "to": "http://id.d4k.dk/dataset/canonical/n92" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n91", "to": "http://id.d4k.dk/dataset/canonical/n93" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n91", "to": "http://id.d4k.dk/dataset/canonical/n94" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n95", "to": "http://id.d4k.dk/dataset/canonical/n96" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n97" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n98" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n99" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n100" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n101" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n102" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n103" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n104" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n67", "to": "http://id.d4k.dk/dataset/canonical/n105" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n67", "to": "http://id.d4k.dk/dataset/canonical/n106" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n107", "to": "http://id.d4k.dk/dataset/canonical/n108" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n108", "to": "http://id.d4k.dk/dataset/canonical/n112" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n112", "to": "http://id.d4k.dk/dataset/canonical/n111" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n108", "to": "http://id.d4k.dk/dataset/canonical/n110" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n110", "to": "http://id.d4k.dk/dataset/canonical/n113" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n110", "to": "http://id.d4k.dk/dataset/canonical/n114" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n107", "to": "http://id.d4k.dk/dataset/canonical/n159" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n107", "to": "http://id.d4k.dk/dataset/canonical/n3" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n107", "to": "http://id.d4k.dk/dataset/canonical/n21" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n107", "to": "http://id.d4k.dk/dataset/canonical/n95" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n107", "to": "http://id.d4k.dk/dataset/canonical/n124" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n107", "to": "http://id.d4k.dk/dataset/canonical/n123" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n107", "to": "http://id.d4k.dk/dataset/canonical/n126" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n126", "to": "http://id.d4k.dk/dataset/canonical/n127" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n126", "to": "http://id.d4k.dk/dataset/canonical/n128" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n126", "to": "http://id.d4k.dk/dataset/canonical/n129" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n126", "to": "http://id.d4k.dk/dataset/canonical/n130" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n107", "to": "http://id.d4k.dk/dataset/canonical/n131" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n131", "to": "http://id.d4k.dk/dataset/canonical/n132" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n131", "to": "http://id.d4k.dk/dataset/canonical/n133" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n131", "to": "http://id.d4k.dk/dataset/canonical/n134" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n25" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n67", "to": "http://id.d4k.dk/dataset/canonical/n141" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n95" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n2" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n13" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n66" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n2" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n21" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n66" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n7", "to": "http://id.d4k.dk/dataset/canonical/n13" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n152", "to": "http://id.d4k.dk/dataset/canonical/n159" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n152", "to": "http://id.d4k.dk/dataset/canonical/n158" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n158", "to": "http://id.d4k.dk/dataset/canonical/n161" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n161", "to": "http://id.d4k.dk/dataset/canonical/n160" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n152", "to": "http://id.d4k.dk/dataset/canonical/n21" }
-    ],
-    "HAS_SUB_MODEL": [
-        { "from": "http://id.d4k.dk/dataset/canonical", "to": "http://id.d4k.dk/dataset/canonical/n7" },
-        { "from": "http://id.d4k.dk/dataset/canonical", "to": "http://id.d4k.dk/dataset/canonical/n43" },
-        { "from": "http://id.d4k.dk/dataset/canonical", "to": "http://id.d4k.dk/dataset/canonical/n107" }
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/serious"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/portion"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/directionality"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/laterality"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/severity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/causality"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/causality",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/causality/non_study_treatment"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/causality",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/causality/related"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/causality",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/causality/device"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/toxicity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/toxicity",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/toxicity/grade"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/response"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/response",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/response/other"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/response",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/response/concomitant_treatment"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/response",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/response/study_treatment"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/response",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/causality/device"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/term"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/category"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/conscious"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/reference_result"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/sensitivity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/fasting"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/severity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/epidemic_/_pandemic"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/reason_performed"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/body_system"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/loinc_ref"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/lead"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/method"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/run_id"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/specimen"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/specimen",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/specimen/condition"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/specimen",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/specimen/usable"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/specimen",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/specimen/anatomic_region"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/toxicity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/toxicity",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/toxicity/grade"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/range"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/range",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/range/low"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/range",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/range/hi"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/lab"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/observation_result"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/observation_result",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/observation_result",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/observation_result/distribution"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/observation_result",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/observation_result/chronicity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/observation_result",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/observation_result/coded"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/observation_result",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/observation_result/type"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/observation_result",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/observation_result/scale"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/description"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/method"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/epidemic_/_pandemic"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/category"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/adjustment"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/daily_dose"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/frequency"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment_vehicle"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment_vehicle",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment_vehicle/carrier"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment_vehicle",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment_vehicle/amount"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/form"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/route"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/single_dose"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment/class"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment/amended"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment/raw"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location"
+        }
     ],
     "FROM_SOURCE": [
-        { "from": "http://id.d4k.dk/dataset/canonical", "to": "http://id.d4k.dk/dataset/source/canonical" }
+        {
+            "from": "http://id.d4k.dk/dataset/canonical",
+            "to": "http://id.d4k.dk/dataset/source/canonical"
+        }
     ],
     "HAS_DATA_TYPE": [
-        { "from": "http://id.d4k.dk/dataset/canonical/n42", "to": "http://id.d4k.dk/dataset/canonical/n42/coding" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n8", "to": "http://id.d4k.dk/dataset/canonical/n8/coding" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n9", "to": "http://id.d4k.dk/dataset/canonical/n9/coding"  },
-        { "from": "http://id.d4k.dk/dataset/canonical/n18", "to": "http://id.d4k.dk/dataset/canonical/n18/coding" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n141", "to": "http://id.d4k.dk/dataset/canonical/n141/coding" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n141", "to": "http://id.d4k.dk/dataset/canonical/n141/quantity" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n2", "to": "http://id.d4k.dk/dataset/canonical/n2/date_time" }
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/portion/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/directionality/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/laterality/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/test/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/date_time/date_time"
+        }
+    ],
+    "HAS_SUB_MODEL": [
+        {
+            "from": "http://id.d4k.dk/dataset/canonical",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical",
+            "to": "http://id.d4k.dk/dataset/canonical/observation"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention"
+        }
     ]
 }
