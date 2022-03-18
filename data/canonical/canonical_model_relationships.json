@@ -23,7 +23,6 @@
         { "from": "http://id.d4k.dk/dataset/canonical/n20", "to": "http://id.d4k.dk/dataset/canonical/n34" },
         { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n3" },
         { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n42" },
-        { "from": "http://id.d4k.dk/dataset/canonical/n42", "to": "http://id.d4k.dk/dataset/canonical/n48" },
         { "from": "http://id.d4k.dk/dataset/canonical/n43", "to": "http://id.d4k.dk/dataset/canonical/n67" },
         { "from": "http://id.d4k.dk/dataset/canonical/n67", "to": "http://id.d4k.dk/dataset/canonical/n68" },
         { "from": "http://id.d4k.dk/dataset/canonical/n67", "to": "http://id.d4k.dk/dataset/canonical/n72" },
@@ -95,6 +94,7 @@
         { "from": "http://id.d4k.dk/dataset/canonical", "to": "http://id.d4k.dk/dataset/source/canonical" }
     ],
     "HAS_DATA_TYPE": [
+        { "from": "http://id.d4k.dk/dataset/canonical/n42", "to": "http://id.d4k.dk/dataset/canonical/n42/coding" },
         { "from": "http://id.d4k.dk/dataset/canonical/n8", "to": "http://id.d4k.dk/dataset/canonical/n8/coding" },
         { "from": "http://id.d4k.dk/dataset/canonical/n9", "to": "http://id.d4k.dk/dataset/canonical/n9/coding"  },
         { "from": "http://id.d4k.dk/dataset/canonical/n18", "to": "http://id.d4k.dk/dataset/canonical/n18/coding" },

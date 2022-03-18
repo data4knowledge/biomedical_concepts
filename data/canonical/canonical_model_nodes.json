@@ -125,10 +125,6 @@
             "name": "OBSERVATION"
         },
         {
-            "uri": "http://id.d4k.dk/dataset/canonical/n48",
-            "name": "STANDARD NAME"
-        },
-        {
             "uri": "http://id.d4k.dk/dataset/canonical/n66",
             "name": "EPIDEMIC / PANDEMIC"
         },
@@ -334,6 +330,10 @@
         }
     ],
     "CANONICAL_DATA_TYPE": [
+        {
+            "uri": "http://id.d4k.dk/dataset/canonical/n42/coding",
+            "data_type": "coding"
+        },
         {
             "uri": "http://id.d4k.dk/dataset/canonical/n8/coding",
             "data_type": "coding"
