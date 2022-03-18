@@ -2,7 +2,7 @@
   "title": "Biomedical Concepts Treatise",
   "version": "2.0",
   "settings": {
-    "pagenumber": 6,
+    "pagenumber": 1,
     "editable": true,
     "fullscreenEnabled": true
   },
@@ -29,7 +29,7 @@
           }
         },
         {
-          "title": "Date Types In System",
+          "title": "Date Types in the System",
           "query": "MATCH (t:FHIR_DATA_TYPE) RETURN t.name as Name\n\n\n",
           "width": 3,
           "type": "table",
@@ -83,6 +83,22 @@
           "settings": {
             "nodePositions": {}
           }
+        },
+        {
+          "title": "Example Canonical Definition - Observation Result, Coded or Quantity",
+          "query": "MATCH (n:CANONICAL_MODEL)-[r]->(m:CANONICAL_NODE)\n-[v]->(q:CANONICAL_NODE)-[w]->(x:CANONICAL_NODE {name: 'RESULT'})-[t]->(o:CANONICAL_DATA_TYPE)-[u]->(p:CANONICAL_DATA_TYPE_PROPERTY) \nRETURN n,r,m,v,q,w,x,t,o,p,u\n\n",
+          "width": "6",
+          "type": "graph",
+          "height": "3",
+          "selection": {
+            "CANONICAL_MODEL": "name",
+            "CANONICAL_NODE": "name",
+            "CANONICAL_DATA_TYPE": "data_type",
+            "CANONICAL_DATA_TYPE_PROPERTY": "name"
+          },
+          "settings": {
+            "nodePositions": {}
+          }
         }
       ]
     },
@@ -111,7 +127,7 @@
             "BC_ITEM": "name",
             "BC_DATA_TYPE": "name",
             "BC_DATA_PROPERTY": "name",
-            "SKOS_CONCEPT": "notation"
+            "SKOS_CONCEPT": "id"
           },
           "settings": {
             "nodePositions": {}
@@ -185,7 +201,7 @@
         },
         {
           "title": "Study Data",
-          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[]->(sv:SDTM_VARIABLE)-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:FHIR_DATA_TYPE_PROPERTY)\n  <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM), \n  (wfi)-[:USED_IN_VISIT]->(v:VISIT), \n  (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n  (e:EPOCH)-[]->(v)\nRETURN sd.name as domain, sv.name as variable, sdp.value as data, v.name as visit, e.study_epoch_name as epoch, subj.identifier as subject\n\n",
+          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[]->(sv:SDTM_VARIABLE)-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)\n  <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM), \n  (wfi)-[:USED_IN_VISIT]->(v:VISIT), \n  (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n  (e:EPOCH)-[]->(v)\nRETURN sd.name as domain, sv.name as variable, sdp.value as data, v.name as visit, e.study_epoch_name as epoch, subj.identifier as subject\n\n",
           "width": "9",
           "type": "table",
           "height": "3",
@@ -196,7 +212,7 @@
         },
         {
           "title": "Key Relationships I",
-          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[r1]->(sv:SDTM_VARIABLE)-[r2]->(cv:SDTM_MODEL_VARIABLE)-[r3:IS_CANONICAL_REF]->(fdt:FHIR_DATA_TYPE_PROPERTY)<-[r4:IS_CANONICAL_REF]-(bdt:BC_DATA_PROPERTY)\nRETURN sd, sv, cv, fdt, bdt, r1,r2,r3,r4\n\n\n",
+          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[r1]->(sv:SDTM_VARIABLE)-[r2]->(cv:SDTM_MODEL_VARIABLE)-[r3:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)<-[r4:IS_CANONICAL_REF]-(bdt:BC_DATA_PROPERTY)\nRETURN sd, sv, cv, fdt, bdt, r1,r2,r3,r4\n\n\n",
           "width": "6",
           "type": "graph",
           "height": "3",
@@ -204,7 +220,7 @@
             "SDTM_DATASET": "name",
             "SDTM_VARIABLE": "name",
             "SDTM_MODEL_VARIABLE": "name",
-            "FHIR_DATA_TYPE_PROPERTY": "name",
+            "CANONICAL_DATA_TYPE_PROPERTY": "name",
             "BC_DATA_PROPERTY": "name"
           },
           "settings": {
