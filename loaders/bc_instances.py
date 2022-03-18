@@ -8,8 +8,8 @@ def format_name(name):
     name = name.replace(" ", "_")
     return name
 
-nodes = { "BC_INSTANCE": [], "BC_ITEM": [], "BC_DATA_TYPE": [], "BC_DATA_PROPERTY": [], "BC_VALUE_SET": [], "OTHER_SOURCE": [] }
-relationships = { "HAS_ITEM": [], "HAS_IDENTIFIER": [], "HAS_DATA_TYPE": [], "HAS_DATA_PROPERTY": [], "HAS_RESPONSE": [], "FROM_SOURCE": []}
+nodes = { "BC_INSTANCE": [], "BC_ITEM": [], "BC_DATA_TYPE": [], "BC_VALUE_SET": [], "OTHER_SOURCE": [] }
+relationships = { "HAS_ITEM": [], "HAS_IDENTIFIER": [], "HAS_DATA_TYPE": [], "HAS_RESPONSE": [], "FROM_SOURCE": []}
 
 # Source
 source_uri = "http://id.d4k.dk/dataset/source/bc_instance"
@@ -56,29 +56,18 @@ for filename in files:
                     }
                     nodes["BC_DATA_TYPE"].append(record)
                     relationships["HAS_DATA_TYPE"].append({"from": item_uri, "to": data_type_uri})
-                    if ":has_property" in data_type:
-                        for property in data_type[":has_property"]: 
-                            name = format_name(property[":name"])
-                            property_uri = "%s/%s" % (data_type_uri, name)
+                    if ":value_set" in data_type:
+                        for term in data_type[":value_set"]: 
+                            cl = term[":cl"]
+                            cli = term[":cli"]
+                            term_uri = "%s/%s-%s" % (data_type_uri, cl.lower(), cli.lower())
                             record = {
-                                "name": property[":name"],
-                                "value": property[":value"],
-                                "uri": property_uri
+                                "cl": cl,
+                                "cli": cli,
+                                "uri": term_uri
                             }
-                            nodes["BC_DATA_PROPERTY"].append(record)
-                            relationships["HAS_DATA_PROPERTY"].append({"from": data_type_uri, "to": property_uri})
-                            if ":value_set" in property:
-                                for term in property[":value_set"]: 
-                                    cl = term[":cl"]
-                                    cli = term[":cli"]
-                                    term_uri = "%s/%s-%s" % (property_uri, cl.lower(), cli.lower())
-                                    record = {
-                                        "cl": cl,
-                                        "cli": cli,
-                                        "uri": term_uri
-                                    }
-                                    nodes["BC_VALUE_SET"].append(record)
-                                    relationships["HAS_RESPONSE"].append({"from": property_uri, "to": term_uri})
+                            nodes["BC_VALUE_SET"].append(record)
+                            relationships["HAS_RESPONSE"].append({"from": data_type_uri, "to": term_uri})
 
             # Now all the items
             for item in instance[":has_items"]: 
@@ -105,29 +94,18 @@ for filename in files:
                         }
                         nodes["BC_DATA_TYPE"].append(record)
                         relationships["HAS_DATA_TYPE"].append({"from": item_uri, "to": data_type_uri})
-                        if ":has_property" in data_type:
-                            for property in data_type[":has_property"]: 
-                                name = format_name(property[":name"])
-                                property_uri = "%s/%s" % (data_type_uri, name)
+                        if ":value_set" in data_type:
+                            for term in data_type[":value_set"]: 
+                                cl = term[":cl"]
+                                cli = term[":cli"]
+                                term_uri = "%s/%s-%s" % (data_type_uri, cl.lower(), cli.lower())
                                 record = {
-                                    "name": property[":name"],
-                                    "value": property[":value"],
-                                    "uri": property_uri
+                                    "cl": cl,
+                                    "cli": cli,
+                                    "uri": term_uri
                                 }
-                                nodes["BC_DATA_PROPERTY"].append(record)
-                                relationships["HAS_DATA_PROPERTY"].append({"from": data_type_uri, "to": property_uri})
-                                if ":value_set" in property:
-                                    for term in property[":value_set"]: 
-                                        cl = term[":cl"]
-                                        cli = term[":cli"]
-                                        term_uri = "%s/%s-%s" % (property_uri, cl.lower(), cli.lower())
-                                        record = {
-                                            "cl": cl,
-                                            "cli": cli,
-                                            "uri": term_uri
-                                        }
-                                        nodes["BC_VALUE_SET"].append(record)
-                                        relationships["HAS_RESPONSE"].append({"from": property_uri, "to": term_uri})
+                                nodes["BC_VALUE_SET"].append(record)
+                                relationships["HAS_RESPONSE"].append({"from": data_type_uri, "to": term_uri})
 
                 
 with open("../data/bc/bc_instances_nodes.json", 'w') as outfile:

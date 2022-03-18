@@ -1,51 +1,4 @@
 {
-    "BC_DATA_PROPERTY": [
-        {
-            "name": "system",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/system",
-            "value": ""
-        },
-        {
-            "name": "version",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/version",
-            "value": ""
-        },
-        {
-            "name": "code",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code",
-            "value": ""
-        },
-        {
-            "name": "display",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/display",
-            "value": ""
-        },
-        {
-            "name": "user_selected",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/user_selected",
-            "value": false
-        },
-        {
-            "name": "value",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/value",
-            "value": ""
-        },
-        {
-            "name": "unit",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/unit",
-            "value": ""
-        },
-        {
-            "name": "system",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/system",
-            "value": ""
-        },
-        {
-            "name": "code",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code",
-            "value": ""
-        }
-    ],
     "BC_DATA_TYPE": [
         {
             "name": "coding",
@@ -104,29 +57,13 @@
             "uri": "http://id.d4k.dk/dataset/bc_instance/weight/method"
         },
         {
-            "collect": false,
+            "collect": true,
             "enabled": true,
             "name": "Result",
             "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result"
         }
     ],
-    "BC_VALUE_SET": [
-        {
-            "cl": "C66741",
-            "cli": "C25208",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code/c66741-c25208"
-        },
-        {
-            "cl": "C66770",
-            "cli": "C28252",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code/c66770-c28252"
-        },
-        {
-            "cl": "C66770",
-            "cli": "C48531",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code/c66770-c48531"
-        }
-    ],
+    "BC_VALUE_SET": [],
     "OTHER_SOURCE": [
         {
             "description": "Designed for this project.",

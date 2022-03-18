@@ -6,23 +6,12 @@
     :name: "Test"
     :enabled: true 
     :collect: false 
-    :data_type: 
+    :data_type:
     - :name: coding
-      :has_property: 
-      - :name: "system"
-        :value: ""
-      - :name: "version"
-        :value: ""
-      - :name: "code"
-        :value: ""
-        :value_set:
-        - 
-          :cl: C66741
-          :cli: C25208
-      - :name: "display"
-        :value: ""
-      - :name: "user_selected"
-        :value: false
+      :value_set:
+      - 
+        :cl: C66741
+        :cli: C25208
   :has_items:
   - :name: "Date Time"
     :enabled: true  
@@ -42,19 +31,10 @@
     :data_type: 
     - 
       :name: quantity
-      :has_property: 
-      - :name: "value"
-        :value: ""
-      - :name: "unit"
-        :value: ""
-      - :name: "system"
-        :value: ""
-      - :name: "code"
-        :value: ""
-        :value_set:
-        - 
-          :cl: C66770
-          :cli: C28252
-        - 
-          :cl: C66770
-          :cli: C48531
+      :value_set:
+      - 
+        :cl: C66770
+        :cli: C28252
+      - 
+        :cl: C66770
+        :cli: C48531

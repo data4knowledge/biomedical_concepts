@@ -66,24 +66,23 @@ code_lists = [
     ]
 ]
 
-def process_file(file_item, csv_filename, id_field="id:ID"):
+def process_file(file_item, the_data, csv_filename, id_field="id:ID"):
+    if len(the_data) == 0:
+        return 
     global id_number
     file_type = file_item["type"]
     with open(csv_filename, mode='w', newline='') as csv_file:
         if file_type == "nodes":
-            fields = list(v[0].keys())
-            #print([s + ":STRING" for s in fields])
-            #fieldnames = ["id:ID"] + list(v[0].keys())
+            fields = list(the_data[0].keys())
             fieldnames = [id_field] + fields
         else:
             fieldnames = [ ":START_ID", ":END_ID" ]
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames, quoting=csv.QUOTE_ALL, lineterminator="\n")
         writer.writeheader()
-        for row in v:
+        for row in the_data:
             if file_type == "nodes":
                 row[id_field] = id_number
                 uri_to_id[row["uri"]] = id_number
-                #print("%s = %s" % (row["uri"], id_number))
                 id_number += 1
                 writer.writerow(row)
             else:
@@ -96,9 +95,11 @@ for stage in stages:
         with open("../data/%s" % (file_item["filename"])) as json_file:
             print(file_item["filename"])
             data = json.load(json_file)
+            if file_item["filename"] == "bc/bc_instances_nodes.json":
+                print(data)
             for k, v in data.items():
                 csv_filename = "../data/csv_load/stage_%d_%s_%s.csv" % (stage_number, k.lower(), file_item["type"])
-                process_file(file_item, csv_filename)
+                process_file(file_item, v, csv_filename)
     stage_number += 1
 
 for code_list in code_lists:
@@ -111,4 +112,4 @@ for code_list in code_lists:
             data = json.load(json_file)
             for k, v in data.items():
                 csv_filename = filename = "../data/csv_load/%s.csv" % (output_filename)
-                process_file(file_item, csv_filename, "id")
+                process_file(file_item, v, csv_filename, "id")

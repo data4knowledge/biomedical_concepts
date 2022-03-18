@@ -5,44 +5,6 @@
             "to": "http://id.d4k.dk/dataset/source/bc_instance"
         }
     ],
-    "HAS_DATA_PROPERTY": [
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/system"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/version"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/display"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/user_selected"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/value"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/unit"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/system"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code"
-        }
-    ],
     "HAS_DATA_TYPE": [
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/weight/test",
@@ -93,18 +55,5 @@
             "to": "http://id.d4k.dk/dataset/bc_instance/weight/result"
         }
     ],
-    "HAS_RESPONSE": [
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/test/coding/code/c66741-c25208"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code/c66770-c28252"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code",
-            "to": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/code/c66770-c48531"
-        }
-    ]
+    "HAS_RESPONSE": []
 }
