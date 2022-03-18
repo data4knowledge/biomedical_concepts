@@ -21,8 +21,8 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/method/coding"
         },
         {
-            "name": "DATETIME",
-            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/date_time/datetime"
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/date_time/date_time"
         },
         {
             "name": "quantity",
@@ -57,8 +57,8 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/method/coding"
         },
         {
-            "name": "DATETIME",
-            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/date_time/datetime"
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/date_time/date_time"
         },
         {
             "name": "quantity",
@@ -75,96 +75,112 @@
     ],
     "BC_ITEM": [
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": true,
             "name": "Test",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/test"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": false,
             "name": "Position",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/position"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": false,
             "name": "Site of Administration",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/site_of_administration"
         },
         {
+            "canonical": "LATERALITY",
             "enabled": true,
             "mandatory": false,
             "name": "Laterality",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/laterality"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": false,
             "name": "Method",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/method"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": true,
             "name": "Date Time",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/date_time"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": true,
             "name": "Result",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/result"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": true,
             "name": "Test",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/test"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": false,
             "name": "Position",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/position"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": false,
             "name": "Site of Administration",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/site_of_administration"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": false,
             "name": "Laterality",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/laterality"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": false,
             "name": "Directionality",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/directionality"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": false,
             "name": "Method",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/method"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": true,
             "name": "Date Time",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/date_time"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": true,
             "name": "Result",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/result"
         },
         {
+            "canonical": "",
             "enabled": true,
             "mandatory": false,
             "name": "Specimen",

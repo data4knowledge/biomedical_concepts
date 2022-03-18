@@ -34,8 +34,11 @@ with open("../data/bc/templates.yaml") as file:
             "name": template[":identified_by"][":name"], 
             "mandatory": template[":identified_by"][":mandatory"],
             "enabled": template[":identified_by"][":enabled"],
-            "uri": item_uri
+            "uri": item_uri,
+            "canonical": ""
         }
+        if ":canonical" in template[":identified_by"]:
+            record["canonical"] = template[":identified_by"][":canonical"]
         nodes["BC_ITEM"].append(record)
         relationships["HAS_ITEM"].append({"from": base_uri, "to": item_uri})
         relationships["HAS_IDENTIFIER"].append({"from": base_uri, "to": item_uri})
@@ -58,8 +61,11 @@ with open("../data/bc/templates.yaml") as file:
                 "name": item[":name"], 
                 "mandatory": item[":mandatory"],
                 "enabled": item[":enabled"],
-                "uri": item_uri
+                "uri": item_uri,
+                "canonical": ""
             }
+            if ":canonical" in item:
+                record["canonical"] = item[":canonical"]
             nodes["BC_ITEM"].append(record)
             relationships["HAS_ITEM"].append({"from": base_uri, "to": item_uri})
             parent_uri = item_uri
