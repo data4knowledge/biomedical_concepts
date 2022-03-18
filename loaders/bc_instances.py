@@ -48,6 +48,7 @@ for filename in files:
 
             if ":data_type" in item:
                 for data_type in item[":data_type"]: 
+                    print(item[":data_type"])
                     name = format_name(data_type[":name"])
                     data_type_uri = "%s/%s" % (item_uri, name)
                     record = {
@@ -57,7 +58,9 @@ for filename in files:
                     nodes["BC_DATA_TYPE"].append(record)
                     relationships["HAS_DATA_TYPE"].append({"from": item_uri, "to": data_type_uri})
                     if ":value_set" in data_type:
+                        print(data_type[":value_set"])
                         for term in data_type[":value_set"]: 
+                            print(term)
                             cl = term[":cl"]
                             cli = term[":cli"]
                             term_uri = "%s/%s-%s" % (data_type_uri, cl.lower(), cli.lower())
@@ -95,7 +98,9 @@ for filename in files:
                         nodes["BC_DATA_TYPE"].append(record)
                         relationships["HAS_DATA_TYPE"].append({"from": item_uri, "to": data_type_uri})
                         if ":value_set" in data_type:
+                            print(data_type[":value_set"])
                             for term in data_type[":value_set"]: 
+                                print(term)
                                 cl = term[":cl"]
                                 cli = term[":cli"]
                                 term_uri = "%s/%s-%s" % (data_type_uri, cl.lower(), cli.lower())
