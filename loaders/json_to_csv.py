@@ -1,4 +1,6 @@
-from pathlib import Path
+import os
+import glob
+import pathlib
 import json
 import csv
 
@@ -66,6 +68,15 @@ code_lists = [
     ]
 ]
 
+def delete_dir(dir_path):
+    root_path = os.path.dirname( __file__ )
+    root_path = os.path.dirname(root_path) 
+    target_dir = "%s/%s" % (root_path, dir_path)
+    files = os.listdir(target_dir)
+    for f in files:
+        os.remove("%s/%s" % (target_dir, f))
+        print("Deleted %s" % (f))
+
 def process_file(file_item, the_data, csv_filename, id_field="id:ID"):
     if len(the_data) == 0:
         return 
@@ -89,19 +100,22 @@ def process_file(file_item, the_data, csv_filename, id_field="id:ID"):
                 new_row = { ":START_ID": uri_to_id[row["from"]], ":END_ID": uri_to_id[row["to"]] }
                 writer.writerow(new_row)
 
+# Delete all the csv files. Do this in case some are no longer used.
+delete_dir("data/csv_load")
+
+# Now process the files
 stage_number = 1
 for stage in stages:
     for file_item in stage:
         with open("../data/%s" % (file_item["filename"])) as json_file:
             print(file_item["filename"])
             data = json.load(json_file)
-            if file_item["filename"] == "bc/bc_instances_nodes.json":
-                print(data)
             for k, v in data.items():
                 csv_filename = "../data/csv_load/stage_%d_%s_%s.csv" % (stage_number, k.lower(), file_item["type"])
                 process_file(file_item, v, csv_filename)
     stage_number += 1
 
+# Process the code list files.
 for code_list in code_lists:
     for file_item in code_list:
         filename = "../data/%s" % (file_item["filename"])
