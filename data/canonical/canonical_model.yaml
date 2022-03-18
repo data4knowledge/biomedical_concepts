@@ -75,6 +75,9 @@
     - :name: "OBSERVATION RESULT"
       :nodes:
       - :name: "RESULT"
+        :data_types: 
+        - coding
+        - quantity
       - :name: "DISTRIBUTION"
       - :name: "CHRONICITY"
       - :name: "CODED"

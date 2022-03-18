@@ -311,6 +311,14 @@
         {
             "from": "http://id.d4k.dk/dataset/canonical/observation/test",
             "to": "http://id.d4k.dk/dataset/canonical/observation/test/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result",
+            "to": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result/quantity"
         }
     ],
     "HAS_SUB_MODEL": [
