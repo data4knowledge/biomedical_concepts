@@ -28,7 +28,7 @@ for filename in files:
             print("instance:", instance[":name"])
             uri_name = format_name(instance[":name"])
             base_uri = "http://id.d4k.dk/dataset/bc_instance/%s" % (uri_name)
-            nodes["BC_INSTANCE"].append({"name": instance[":name"], "uri": base_uri})
+            nodes["BC_INSTANCE"].append({"name": instance[":name"], "based_on": instance[":based_on"], "uri": base_uri})
             
             relationships["FROM_SOURCE"].append({"from": base_uri, "to": source_uri})
 
