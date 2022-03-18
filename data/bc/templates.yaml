@@ -4,6 +4,7 @@
     :name: "Test"
     :mandatory: true
     :enabled: true  
+    :canonical: TEST  
     :data_type: 
     - :name: coding 
   :has_items:
@@ -20,7 +21,7 @@
   - :name: "Laterality"
     :mandatory: false
     :enabled: true  
-    :canonical: LATERALITY  
+    :canonical: LATERALITY
     :data_type: 
     - :name: coding
   - :name: "Method"
@@ -36,6 +37,7 @@
   - :name: "Result"
     :mandatory: true
     :enabled: true  
+    :canonical: RESULT
     :data_type: 
     - :name: quantity
     - :name: coding
