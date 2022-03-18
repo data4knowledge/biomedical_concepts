@@ -1,4 +1,20 @@
 ﻿---
+:common:
+  :nodes:
+  - :name: "LOCATION"
+    :nodes:
+    - :name: "PORTION"
+      :data_types: 
+      - coding
+    - :name: "DIRECTIONALITY"
+      :data_types: 
+      - coding
+    - :name: "LATERALITY"
+      :data_types: 
+      - coding
+  - :name: "DATE TIME"
+    :data_types:
+    - date_time
 :root: 
   :name: "CANONICAL MODEL"
   :nodes:
@@ -7,16 +23,6 @@
     - :name: "PERIOD"
     - :name: "SERIOUS"
     - :name: "LOCATION"
-      :nodes:
-      - :name: "PORTION"
-        :data_types: 
-        - coding
-      - :name: "DIRECTIONALITY"
-        :data_types: 
-        - coding
-      - :name: "LATERALITY"
-        :data_types: 
-        - coding
     - :name: "SEVERITY"
     - :name: "CAUSALITY"
       :nodes:
@@ -58,8 +64,6 @@
       - :name: "USABLE"
       - :name: "ANATOMIC REGION"
     - :name: "DATE TIME"
-      :data_types:
-      - date_time
     - :name: "TOXICITY"
       :nodes:
       - :name: "GRADE"

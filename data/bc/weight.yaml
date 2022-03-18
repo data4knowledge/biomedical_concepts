@@ -37,7 +37,8 @@
   - :name: "Method"
     :enabled: false 
   - :name: "Result"
-    :enabled: true  
+    :enabled: true
+    :collect: true
     :data_type: 
     - 
       :name: quantity

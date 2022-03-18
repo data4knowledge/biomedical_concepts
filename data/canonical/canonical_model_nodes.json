@@ -2,23 +2,23 @@
     "CANONICAL_DATA_TYPE": [
         {
             "name": "coding",
-            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/location/portion/coding"
+            "uri": "http://id.d4k.dk/dataset/canonical/common/location/portion/coding"
         },
         {
             "name": "coding",
-            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/location/directionality/coding"
+            "uri": "http://id.d4k.dk/dataset/canonical/common/location/directionality/coding"
         },
         {
             "name": "coding",
-            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/location/laterality/coding"
+            "uri": "http://id.d4k.dk/dataset/canonical/common/location/laterality/coding"
+        },
+        {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/canonical/common/date_time/date_time"
         },
         {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/canonical/observation/test/coding"
-        },
-        {
-            "name": "date_time",
-            "uri": "http://id.d4k.dk/dataset/canonical/observation/date_time/date_time"
         }
     ],
     "CANONICAL_MODEL": [
@@ -28,6 +28,26 @@
         }
     ],
     "CANONICAL_NODE": [
+        {
+            "name": "LOCATION",
+            "uri": "http://id.d4k.dk/dataset/canonical/common/location"
+        },
+        {
+            "name": "PORTION",
+            "uri": "http://id.d4k.dk/dataset/canonical/common/location/portion"
+        },
+        {
+            "name": "DIRECTIONALITY",
+            "uri": "http://id.d4k.dk/dataset/canonical/common/location/directionality"
+        },
+        {
+            "name": "LATERALITY",
+            "uri": "http://id.d4k.dk/dataset/canonical/common/location/laterality"
+        },
+        {
+            "name": "DATE TIME",
+            "uri": "http://id.d4k.dk/dataset/canonical/common/date_time"
+        },
         {
             "name": "ADVERSE EVENT",
             "uri": "http://id.d4k.dk/dataset/canonical/adverse_event"
@@ -39,22 +59,6 @@
         {
             "name": "SERIOUS",
             "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/serious"
-        },
-        {
-            "name": "LOCATION",
-            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/location"
-        },
-        {
-            "name": "PORTION",
-            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/location/portion"
-        },
-        {
-            "name": "DIRECTIONALITY",
-            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/location/directionality"
-        },
-        {
-            "name": "LATERALITY",
-            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/location/laterality"
         },
         {
             "name": "SEVERITY",
@@ -175,10 +179,6 @@
         {
             "name": "ANATOMIC REGION",
             "uri": "http://id.d4k.dk/dataset/canonical/observation/specimen/anatomic_region"
-        },
-        {
-            "name": "DATE TIME",
-            "uri": "http://id.d4k.dk/dataset/canonical/observation/date_time"
         },
         {
             "name": "RANGE",

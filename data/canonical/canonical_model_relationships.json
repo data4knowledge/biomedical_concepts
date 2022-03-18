@@ -1,6 +1,18 @@
 {
     "CONSISTS_OF": [
         {
+            "from": "http://id.d4k.dk/dataset/canonical/common/location",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/portion"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/common/location",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/directionality"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/common/location",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/laterality"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
             "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period"
         },
@@ -10,19 +22,7 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/portion"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/directionality"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/laterality"
+            "to": "http://id.d4k.dk/dataset/canonical/common/location"
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
@@ -114,7 +114,7 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/observation",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location"
+            "to": "http://id.d4k.dk/dataset/canonical/common/location"
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/observation",
@@ -154,7 +154,7 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/observation",
-            "to": "http://id.d4k.dk/dataset/canonical/observation/date_time"
+            "to": "http://id.d4k.dk/dataset/canonical/common/date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/observation",
@@ -214,7 +214,7 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
-            "to": "http://id.d4k.dk/dataset/canonical/observation/date_time"
+            "to": "http://id.d4k.dk/dataset/canonical/common/date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
@@ -282,7 +282,7 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location"
+            "to": "http://id.d4k.dk/dataset/canonical/common/location"
         }
     ],
     "FROM_SOURCE": [
@@ -293,24 +293,24 @@
     ],
     "HAS_DATA_TYPE": [
         {
-            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/portion/coding"
+            "from": "http://id.d4k.dk/dataset/canonical/common/location/portion",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/portion/coding"
         },
         {
-            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/directionality/coding"
+            "from": "http://id.d4k.dk/dataset/canonical/common/location/directionality",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/directionality/coding"
         },
         {
-            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/location",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/location/laterality/coding"
+            "from": "http://id.d4k.dk/dataset/canonical/common/location/laterality",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/laterality/coding"
         },
         {
-            "from": "http://id.d4k.dk/dataset/canonical/observation",
+            "from": "http://id.d4k.dk/dataset/canonical/common/date_time",
+            "to": "http://id.d4k.dk/dataset/canonical/common/date_time/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/observation/test",
             "to": "http://id.d4k.dk/dataset/canonical/observation/test/coding"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/canonical/observation",
-            "to": "http://id.d4k.dk/dataset/canonical/observation/date_time/date_time"
         }
     ],
     "HAS_SUB_MODEL": [
