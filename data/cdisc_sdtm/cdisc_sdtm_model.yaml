@@ -1,6 +1,9 @@
 ---
 :root:
+  :name: "SDTM Model"
+  :classes:
   - :name: findings
+    :variables:
     - :name: "--ORRES"
       :canonical: 
       - :node: "node"

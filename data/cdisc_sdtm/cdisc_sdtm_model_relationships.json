@@ -1,0 +1,38 @@
+{
+    "FROM_SOURCE": [
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model",
+            "to": "http://id.d4k.dk/dataset/source/sdtm_model"
+        }
+    ],
+    "HAS_CANONICAL_REF": [
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/findings",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRES/c1"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/findings",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRES/c2"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/findings",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRESU/c1"
+        }
+    ],
+    "HAS_CLASS": [
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/findings"
+        }
+    ],
+    "HAS_VARIABLE": [
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/findings",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRES"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/findings",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRESU"
+        }
+    ]
+}
