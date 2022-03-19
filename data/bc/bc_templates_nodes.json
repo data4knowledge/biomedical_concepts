@@ -110,7 +110,7 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/method"
         },
         {
-            "canonical": "",
+            "canonical": "DATE TIME",
             "enabled": true,
             "mandatory": true,
             "name": "Date Time",
@@ -124,7 +124,7 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/result"
         },
         {
-            "canonical": "",
+            "canonical": "TEST",
             "enabled": true,
             "mandatory": true,
             "name": "Test",
@@ -166,7 +166,7 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/method"
         },
         {
-            "canonical": "",
+            "canonical": "DATE TIME",
             "enabled": true,
             "mandatory": true,
             "name": "Date Time",

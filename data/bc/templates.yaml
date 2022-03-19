@@ -32,6 +32,7 @@
   - :name: "Date Time"
     :mandatory: true
     :enabled: true  
+    :canonical: "DATE TIME"  
     :data_type: 
     - :name: date_time
   - :name: "Result"
@@ -46,6 +47,7 @@
     :name: "Test"
     :mandatory: true
     :enabled: true  
+    :canonical: TEST  
     :data_type: 
     - :name: coding 
   :has_items:
@@ -77,6 +79,7 @@
   - :name: "Date Time"
     :mandatory: true
     :enabled: true  
+    :canonical: "DATE TIME"  
     :data_type: 
     - :name: date_time
   - :name: "Result"
