@@ -295,7 +295,7 @@
         },
         {
           "title": "Study Data",
-          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[]->(sv:SDTM_VARIABLE)-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)\n  <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM), \n  (wfi)-[:USED_IN_VISIT]->(v:VISIT), \n  (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n  (e:EPOCH)-[]->(v)\nRETURN sd.name as domain, sv.name as variable, sdp.value as data, v.name as visit, e.study_epoch_name as epoch, subj.identifier as subject\n\n",
+          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[]->(sv:SDTM_VARIABLE)-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)\n  <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM), \n  (wfi)-[:USED_IN_VISIT]->(v:VISIT), \n  (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n  (e:EPOCH)-[]->(v),\n  (ct)<-[:HAS_RESPONSE]-()<-[:HAS_DATA_TYPE]-()<-[:HAS_IDENTIFIER]-(bc:STUDY_BC_INSTANCE)-[*]->(bdt)\nRETURN subj.identifier as subject, wfi.id as key, sd.name as domain, sv.name as variable, ct.notation as test_code, sdp.value as data, v.name as visit, e.study_epoch_name as epoch\n\n",
           "width": "9",
           "type": "table",
           "height": "3",
