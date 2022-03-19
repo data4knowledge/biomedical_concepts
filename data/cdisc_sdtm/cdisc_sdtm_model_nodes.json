@@ -17,6 +17,12 @@
             "node": "RESULT",
             "property": "unit",
             "uri": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRESU/c1"
+        },
+        {
+            "data_type": "date_time",
+            "node": "DATE TIME",
+            "property": "value",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/findings/--DTC/c1"
         }
     ],
     "OTHER_SOURCE": [
@@ -45,6 +51,10 @@
         {
             "name": "--ORRESU",
             "uri": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRESU"
+        },
+        {
+            "name": "--DTC",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/findings/--DTC"
         }
     ]
 }

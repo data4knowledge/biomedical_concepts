@@ -17,6 +17,10 @@
         {
             "from": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRESU",
             "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRESU/c1"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/findings/--DTC",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--DTC/c1"
         }
     ],
     "HAS_CLASS": [
@@ -33,6 +37,10 @@
         {
             "from": "http://id.d4k.dk/dataset/sdtm_model/findings",
             "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRESU"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/findings",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--DTC"
         }
     ]
 }

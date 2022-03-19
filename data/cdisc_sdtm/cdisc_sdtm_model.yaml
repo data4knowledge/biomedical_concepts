@@ -17,3 +17,8 @@
       - :node: "RESULT"
         :data_type: "quantity"
         :property: "unit"
+    - :name: "--DTC"
+      :canonical: 
+      - :node: "DATE TIME"
+        :data_type: "date_time"
+        :property: "value"
