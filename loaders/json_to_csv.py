@@ -1,6 +1,4 @@
 import os
-import glob
-import pathlib
 import json
 import csv
 
@@ -84,14 +82,16 @@ def process_file(file_item, the_data, csv_filename, id_field="id:ID"):
         return 
     global id_number
     file_type = file_item["type"]
-    with open(csv_filename, mode='w', newline='') as csv_file:
+    file_exists = os.path.isfile(csv_filename)
+    with open(csv_filename, mode='a', newline='') as csv_file:
         if file_type == "nodes":
             fields = list(the_data[0].keys())
             fieldnames = [id_field] + fields
         else:
             fieldnames = [ ":START_ID", ":END_ID" ]
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames, quoting=csv.QUOTE_ALL, lineterminator="\n")
-        writer.writeheader()
+        if not file_exists:
+            writer.writeheader()
         for row in the_data:
             if file_type == "nodes":
                 row[id_field] = id_number
