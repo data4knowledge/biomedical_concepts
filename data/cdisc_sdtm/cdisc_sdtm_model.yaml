@@ -6,14 +6,14 @@
     :variables:
     - :name: "--ORRES"
       :canonical: 
-      - :node: "node"
-        :data_type: ""
-        :property: ""
-      - :node: "node"
-        :data_type: ""
-        :property: ""
+      - :node: "RESULT"
+        :data_type: "coding"
+        :property: "code"
+      - :node: "RESULT"
+        :data_type: "quantity"
+        :property: "value"
     - :name: "--ORRESU"
       :canonical: 
-      - :node: "node"
-        :data_type: ""
-        :property: ""
+      - :node: "RESULT"
+        :data_type: "quantity"
+        :property: "unit"

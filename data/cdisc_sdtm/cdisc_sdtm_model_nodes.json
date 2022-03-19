@@ -1,21 +1,21 @@
 {
     "CANONICAL_REF": [
         {
-            "data_type": "",
-            "node": "node",
-            "property": "",
+            "data_type": "coding",
+            "node": "RESULT",
+            "property": "code",
             "uri": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRES/c1"
         },
         {
-            "data_type": "",
-            "node": "node",
-            "property": "",
+            "data_type": "quantity",
+            "node": "RESULT",
+            "property": "value",
             "uri": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRES/c2"
         },
         {
-            "data_type": "",
-            "node": "node",
-            "property": "",
+            "data_type": "quantity",
+            "node": "RESULT",
+            "property": "unit",
             "uri": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRESU/c1"
         }
     ],
