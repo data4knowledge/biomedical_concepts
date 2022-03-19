@@ -30,7 +30,7 @@ with open("../data/cdisc_sdtm/cdisc_sdtm_model.yaml") as file:
             for canonical in variable[":canonical"]:
                 canonical_uri = "%s/%s" % (variable_uri, "c%i" % (index))
                 nodes["CANONICAL_REF"].append({ "node": canonical[":node"], "data_type": canonical[":data_type"], "property": canonical[":property"], "uri": canonical_uri })
-                relationships["HAS_CANONICAL_REF"].append({"from": class_uri, "to": canonical_uri})
+                relationships["HAS_CANONICAL_REF"].append({"from": variable_uri, "to": canonical_uri})
                 index += 1
 
 with open("../data/cdisc_sdtm/cdisc_sdtm_model_nodes.json", 'w') as outfile:
