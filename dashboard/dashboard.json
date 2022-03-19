@@ -8,6 +8,22 @@
   },
   "pages": [
     {
+      "title": "Description",
+      "reports": [
+        {
+          "title": "",
+          "query": "MATCH (v:VERSION) RETURN v.version as Version, v.updates as Updates\n\n\n",
+          "width": "6",
+          "type": "table",
+          "height": "3",
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        }
+      ]
+    },
+    {
       "title": "FHIR Data Types",
       "reports": [
         {
@@ -106,6 +122,22 @@
           "width": "12",
           "type": "table",
           "height": "3",
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        }
+      ]
+    },
+    {
+      "title": "CT",
+      "reports": [
+        {
+          "title": "Full Code Lists Loaded",
+          "query": "MATCH (cl:SKOS_CONCEPT)-[r1]->(cli:SKOS_CONCEPT) RETURN DISTINCT cl.identifier as C_Code, cl.notation as Submission, cl.pref_label as Preferred_Term\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
           "selection": {},
           "settings": {
             "nodePositions": {}
@@ -260,26 +292,6 @@
       ]
     },
     {
-      "title": "Studies",
-      "reports": []
-    },
-    {
-      "title": "CT",
-      "reports": [
-        {
-          "title": "Full Code Lists Loaded",
-          "query": "MATCH (cl:SKOS_CONCEPT)-[r1]->(cli:SKOS_CONCEPT) RETURN DISTINCT cl.identifier as C_Code, cl.notation as Submission, cl.pref_label as Preferred_Term\n\n\n",
-          "width": 3,
-          "type": "table",
-          "height": 3,
-          "selection": {},
-          "settings": {
-            "nodePositions": {}
-          }
-        }
-      ]
-    },
-    {
       "title": "Study Data",
       "reports": [
         {
@@ -359,10 +371,6 @@
           }
         }
       ]
-    },
-    {
-      "title": "",
-      "reports": []
     }
   ]
 }
