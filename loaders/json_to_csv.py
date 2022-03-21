@@ -59,6 +59,10 @@ stages = [
         { "filename": "cdisc_sdtm/cdisc_sdtm_model_nodes.json", "type": "nodes" },
         { "filename": "cdisc_sdtm/cdisc_sdtm_ig_relationships.json", "type": "relationships" },
         { "filename": "cdisc_sdtm/cdisc_sdtm_model_relationships.json", "type": "relationships" },
+    ],
+    [ 
+        { "filename": "sponsor_ct/sponsor_ct_nodes.json", "type": "nodes" },
+        { "filename": "sponsor_ct/sponsor_ct_relationships.json", "type": "relationships" },
     ]
 ]
 code_lists = [
