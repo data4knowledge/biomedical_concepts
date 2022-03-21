@@ -2,9 +2,12 @@
   "title": "Biomedical Concepts Treatise",
   "version": "2.0",
   "settings": {
-    "pagenumber": 6,
+    "pagenumber": 7,
     "editable": true,
-    "fullscreenEnabled": true
+    "fullscreenEnabled": true,
+    "parameters": {
+      "neodash_study_protocol_brief_title": "DDR"
+    }
   },
   "pages": [
     {
@@ -285,6 +288,100 @@
           "type": "table",
           "height": 3,
           "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        }
+      ]
+    },
+    {
+      "title": "Study",
+      "reports": [
+        {
+          "title": "Protocols",
+          "query": "MATCH (n:`STUDY_PROTOCOL`) \nWHERE toLower(toString(n.`brief_title`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`brief_title` as value LIMIT 5",
+          "width": "3",
+          "type": "select",
+          "height": "3",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "STUDY_PROTOCOL",
+            "propertyType": "brief_title",
+            "parameterName": "neodash_study_protocol_brief_title"
+          }
+        },
+        {
+          "title": "Study Identifiers",
+          "query": "MATCH (pr:STUDY_PROTOCOL)<-[]-(s:STUDY)-[]->(si:STUDY_IDENTIFIER) WHERE pr.brief_title = $neodash_study_protocol_brief_title return si.name as Organisation, si.org_code as Identifier\n\n\n\n",
+          "width": "3",
+          "type": "table",
+          "height": "3",
+          "selection": {},
+          "settings": {}
+        },
+        {
+          "title": "Epochs And Visits",
+          "query": "MATCH (pr:STUDY_PROTOCOL)<-[]-(s:STUDY)-[]->(sd:STUDY_DESIGN)-[]->(sc:STUDY_CELL)-[]->(e:EPOCH)-[]->(v:VISIT) WHERE pr.brief_title = $neodash_study_protocol_brief_title\nWITH e.study_epoch_name as Epoch, v.name as Visit ORDER BY e.sequence_in_study, v.number\nRETURN DISTINCT Epoch, Visit",
+          "width": "3",
+          "type": "table",
+          "height": "3",
+          "selection": {},
+          "settings": {}
+        },
+        {
+          "title": "External CT Used",
+          "query": "MATCH (c:CODE) RETURN DISTINCT c.code_system As Code_System\n\n",
+          "width": "3",
+          "type": "table",
+          "height": "3",
+          "selection": {},
+          "settings": {}
+        },
+        {
+          "title": "Visit And Activities",
+          "query": "MATCH (pr:STUDY_PROTOCOL)<-[]-(s:STUDY)-[]->(sd:STUDY_DESIGN)-[]->(sc:STUDY_CELL)-[]->(e:EPOCH)-[]->(v:VISIT)<-[]-(wfi:WORKFLOW_ITEM)-[]->(a:ACTIVITY) WHERE pr.brief_title = $neodash_study_protocol_brief_title\n    WITH v.name as Visit, a.description as Activity ORDER BY v.number\n    RETURN DISTINCT Visit, Activity\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {}
+        },
+        {
+          "title": "Unique Activities",
+          "query": "MATCH (pr:STUDY_PROTOCOL)<-[]-(s:STUDY)-[]->(sd:STUDY_DESIGN)-[]->(sc:STUDY_CELL)-[]->(e:EPOCH)-[]->(v:VISIT)<-[]-(wfi:WORKFLOW_ITEM)-[]->(a:ACTIVITY) WHERE pr.brief_title = $neodash_study_protocol_brief_title\n    WITH a.description as Activity ORDER BY v.number\n    RETURN DISTINCT Activity\n\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {}
+        },
+        {
+          "title": "The Graph",
+          "query": "MATCH (pr:STUDY_PROTOCOL)<-[d]-(s)-[e *]->(m) WHERE pr.brief_title = $neodash_study_protocol_brief_title RETURN pr,s,d,e,m LIMIT 1000\n\n\n",
+          "width": "6",
+          "type": "graph",
+          "height": "3",
+          "selection": {
+            "STUDY_PROTOCOL": "brief_title",
+            "STUDY": "study_title",
+            "STUDY_IDENTIFIER": "name",
+            "STUDY_TYPE": "study_type_classification",
+            "STUDY_PHASE": "study_phase_desc",
+            "STUDY_DESIGN": "(label)",
+            "POPULATION": "(label)",
+            "INVESTIGATIONAL_INTERVENTIONS": "(label)",
+            "CODE": "(label)",
+            "INDICATION": "(label)",
+            "OBJECTIVE": "(label)",
+            "ENDPOINT": "(label)",
+            "STUDY_CELL": "(label)",
+            "STUDY_ARM": "(label)",
+            "EPOCH": "id",
+            "VISIT": "name",
+            "RULE": "(label)",
+            "STUDY_ELEMENT": "(label)"
+          },
           "settings": {
             "nodePositions": {}
           }
