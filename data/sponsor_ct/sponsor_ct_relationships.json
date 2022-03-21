@@ -9,11 +9,12 @@
         {
             "from": "http://id.d4k.dk/dataset/source/ct",
             "to": "http://id.d4k.dk/dataset/ct/main/D000001"
-        },
+        }
+    ],
+    "SKOS_NARROWER": [
         {
             "from": "http://id.d4k.dk/dataset/ct/main/D000001",
             "to": "http://id.d4k.dk/dataset/ct/main/D000001-D100000"
         }
-    ],
-    "SKOS_NARROWER": []
+    ]
 }

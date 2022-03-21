@@ -50,7 +50,7 @@ with open("../data/sponsor_ct/sponsor_ct.yaml") as file:
                 cli_concept["alt_label"] = cli[':alt_label']
             cli_concept["pref_label"] = cli[':pref_label']
             nodes["SKOS_CONCEPT"].append(cli_concept)
-            relationships["SKOS_HAS_TOP_CONCEPT"].append({ "from": cl_concept["uri"], "to": cli_concept["uri"] })
+            relationships["SKOS_NARROWER"].append({ "from": cl_concept["uri"], "to": cli_concept["uri"] })
 
 
 with open("../data/sponsor_ct/sponsor_ct_nodes.json", 'w') as outfile:
