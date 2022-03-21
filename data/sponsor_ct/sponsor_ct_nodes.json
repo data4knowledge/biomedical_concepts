@@ -1,0 +1,41 @@
+{
+    "OTHER_SOURCE": [
+        {
+            "description": "Made up for the demo",
+            "uri": "http://id.d4k.dk/dataset/source/ct"
+        }
+    ],
+    "SKOS_CONCEPT": [
+        {
+            "alt_label": "",
+            "definition": "",
+            "extensible": false,
+            "identifier": "D000001",
+            "label": "Extra test codes",
+            "notation": "TEST CODES",
+            "pref_label": "Extra test codes",
+            "uri": "http://id.d4k.dk/dataset/ct/main/D000001"
+        },
+        {
+            "alt_label": "",
+            "definition": "",
+            "identifier": "D100000",
+            "label": "Age",
+            "notation": "AGE",
+            "pref_label": "Age",
+            "uri": "http://id.d4k.dk/dataset/ct/main/D000001-D100000"
+        }
+    ],
+    "SKOS_CONCEPT_SCHEME": [
+        {
+            "description": "Sponsor CT for the demo",
+            "effective_date": "2022-03-21",
+            "label": "",
+            "name": "Sponsor Terminology",
+            "source": "Made up",
+            "status": "Draft",
+            "uri": "http://id.d4k.dk/dataset/source/ct",
+            "version": "0.1"
+        }
+    ]
+}
