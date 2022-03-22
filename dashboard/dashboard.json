@@ -2,7 +2,7 @@
   "title": "Biomedical Concepts Treatise",
   "version": "2.0",
   "settings": {
-    "pagenumber": 4,
+    "pagenumber": 0,
     "editable": true,
     "fullscreenEnabled": true,
     "parameters": {
@@ -21,6 +21,19 @@
           "type": "table",
           "height": "3",
           "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "title": "",
+          "query": "MATCH (n:LOGICAL)-[r]->(m:LOGICAL) \nRETURN n,r,m\n\n\n",
+          "width": 3,
+          "type": "graph",
+          "height": 3,
+          "selection": {
+            "LOGICAL": "name"
+          },
           "settings": {
             "nodePositions": {}
           }
