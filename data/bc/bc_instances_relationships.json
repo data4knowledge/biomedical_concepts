@@ -3,6 +3,22 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/weight",
             "to": "http://id.d4k.dk/dataset/source/bc_instance"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race",
+            "to": "http://id.d4k.dk/dataset/source/bc_instance"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex",
+            "to": "http://id.d4k.dk/dataset/source/bc_instance"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age",
+            "to": "http://id.d4k.dk/dataset/source/bc_instance"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity",
+            "to": "http://id.d4k.dk/dataset/source/bc_instance"
         }
     ],
     "HAS_DATA_TYPE": [
@@ -17,12 +33,60 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/weight/result",
             "to": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/test",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/test/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/result",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/result/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex/test",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/test/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex/result",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age/test",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/test/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age/result",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding"
         }
     ],
     "HAS_IDENTIFIER": [
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/weight",
             "to": "http://id.d4k.dk/dataset/bc_instance/weight/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test"
         }
     ],
     "HAS_ITEM": [
@@ -53,6 +117,102 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/weight",
             "to": "http://id.d4k.dk/dataset/bc_instance/weight/result"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/position"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/site_of_administration"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/laterality"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/method"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/result"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/position"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/site_of_administration"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/laterality"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/method"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/result"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/position"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/site_of_administration"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/laterality"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/method"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/result"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/position"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/site_of_administration"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/laterality"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/method"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result"
         }
     ],
     "HAS_RESPONSE": [
@@ -67,6 +227,102 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity",
             "to": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/c66770-c48531"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/test/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/test/coding/d000001-d100001"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c16352"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c41259"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c41260"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c41219"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c41261"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c17998"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c43234"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex/test/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/test/coding/d000001-d100002"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding/c66731-c16576"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding/c66731-c20197"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding/c66731-c45908"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding/c66731-c17998"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age/test/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/test/coding/d000001-d100003"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity/c66781-c25301"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity/c66781-c25529"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity/c66781-c29846"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity/c66781-c29844"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity/c66781-c29848"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding/d000001-d100004"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding/c66790-c17459"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding/c66790-c41222"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding/c66790-c43234"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding/c66790-c17998"
         }
     ]
 }

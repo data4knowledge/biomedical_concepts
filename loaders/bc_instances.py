@@ -1,7 +1,7 @@
 import yaml
 import json
 
-files = ["weight.yaml"]
+files = ["weight.yaml", "dm.yaml"]
 
 def format_name(name):
     name = name.lower()

@@ -11,6 +11,38 @@
         {
             "name": "quantity",
             "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/test/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/result/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/test/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/test/coding"
+        },
+        {
+            "name": "quantity",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding"
         }
     ],
     "BC_INSTANCE": [
@@ -18,6 +50,26 @@
             "based_on": "Base Observation",
             "name": "Weight",
             "uri": "http://id.d4k.dk/dataset/bc_instance/weight"
+        },
+        {
+            "based_on": "Base Observation",
+            "name": "Race",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race"
+        },
+        {
+            "based_on": "Base Observation",
+            "name": "Sex",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex"
+        },
+        {
+            "based_on": "Base Observation",
+            "name": "Age",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age"
+        },
+        {
+            "based_on": "Base Observation",
+            "name": "Ethnicity",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity"
         }
     ],
     "BC_ITEM": [
@@ -62,6 +114,150 @@
             "enabled": true,
             "name": "Result",
             "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Test",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/test"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Position",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/position"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Site of Administration",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/site_of_administration"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Laterality",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/laterality"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Result",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/result"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Test",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/test"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Position",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/position"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Site of Administration",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/site_of_administration"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Laterality",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/laterality"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Result",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/result"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Test",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/test"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Position",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/position"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Site of Administration",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/site_of_administration"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Laterality",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/laterality"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Result",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/result"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Test",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Position",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/position"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Site of Administration",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/site_of_administration"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Laterality",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/laterality"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Result",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result"
         }
     ],
     "BC_VALUE_SET": [
@@ -79,6 +275,126 @@
             "cl": "C66770",
             "cli": "C48531",
             "uri": "http://id.d4k.dk/dataset/bc_instance/weight/result/quantity/c66770-c48531"
+        },
+        {
+            "cl": "D000001",
+            "cli": "D100001",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/test/coding/d000001-d100001"
+        },
+        {
+            "cl": "C74457",
+            "cli": "C16352",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c16352"
+        },
+        {
+            "cl": "C74457",
+            "cli": "C41259",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c41259"
+        },
+        {
+            "cl": "C74457",
+            "cli": "C41260",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c41260"
+        },
+        {
+            "cl": "C74457",
+            "cli": "C41219",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c41219"
+        },
+        {
+            "cl": "C74457",
+            "cli": "C41261",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c41261"
+        },
+        {
+            "cl": "C74457",
+            "cli": "C17998",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c17998"
+        },
+        {
+            "cl": "C74457",
+            "cli": "C43234",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/result/coding/c74457-c43234"
+        },
+        {
+            "cl": "D000001",
+            "cli": "D100002",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/test/coding/d000001-d100002"
+        },
+        {
+            "cl": "C66731",
+            "cli": "C16576",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding/c66731-c16576"
+        },
+        {
+            "cl": "C66731",
+            "cli": "C20197",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding/c66731-c20197"
+        },
+        {
+            "cl": "C66731",
+            "cli": "C45908",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding/c66731-c45908"
+        },
+        {
+            "cl": "C66731",
+            "cli": "C17998",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/result/coding/c66731-c17998"
+        },
+        {
+            "cl": "D000001",
+            "cli": "D100003",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/test/coding/d000001-d100003"
+        },
+        {
+            "cl": "C66781",
+            "cli": "C25301",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity/c66781-c25301"
+        },
+        {
+            "cl": "C66781",
+            "cli": "C25529",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity/c66781-c25529"
+        },
+        {
+            "cl": "C66781",
+            "cli": "C29846",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity/c66781-c29846"
+        },
+        {
+            "cl": "C66781",
+            "cli": "C29844",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity/c66781-c29844"
+        },
+        {
+            "cl": "C66781",
+            "cli": "C29848",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity/c66781-c29848"
+        },
+        {
+            "cl": "D000001",
+            "cli": "D100004",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding/d000001-d100004"
+        },
+        {
+            "cl": "C66790",
+            "cli": "C17459",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding/c66790-c17459"
+        },
+        {
+            "cl": "C66790",
+            "cli": "C41222",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding/c66790-c41222"
+        },
+        {
+            "cl": "C66790",
+            "cli": "C43234",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding/c66790-c43234"
+        },
+        {
+            "cl": "C66790",
+            "cli": "C17998",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding/c66790-c17998"
         }
     ],
     "OTHER_SOURCE": [

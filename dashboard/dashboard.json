@@ -2,11 +2,12 @@
   "title": "Biomedical Concepts Treatise",
   "version": "2.0",
   "settings": {
-    "pagenumber": 7,
+    "pagenumber": 3,
     "editable": true,
     "fullscreenEnabled": true,
     "parameters": {
-      "neodash_study_protocol_brief_title": "DDR"
+      "neodash_study_protocol_brief_title": "DDR",
+      "neodash_skos_concept_notation": "VSTESTCD"
     }
   },
   "pages": [
@@ -145,6 +146,29 @@
           "settings": {
             "nodePositions": {}
           }
+        },
+        {
+          "title": "Select Code List",
+          "query": "MATCH (n:`SKOS_CONCEPT`) \nWHERE toLower(toString(n.`notation`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`notation` as value LIMIT 5",
+          "width": 3,
+          "type": "select",
+          "height": 3,
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "SKOS_CONCEPT",
+            "propertyType": "notation",
+            "parameterName": "neodash_skos_concept_notation"
+          }
+        },
+        {
+          "title": "Code List Items",
+          "query": "MATCH (n:SKOS_CONCEPT {notation: $neodash_skos_concept_notation})-[]->(m:SKOS_CONCEPT) \nRETURN m.notation as Submission, n.identifier as C_Code \n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {}
         }
       ]
     },
@@ -379,8 +403,8 @@
             "STUDY_ARM": "(label)",
             "EPOCH": "id",
             "VISIT": "name",
-            "RULE": "(label)",
-            "STUDY_ELEMENT": "(label)"
+            "STUDY_ELEMENT": "(label)",
+            "RULE": "(label)"
           },
           "settings": {
             "nodePositions": {}

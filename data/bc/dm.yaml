@@ -9,14 +9,10 @@
     :data_type: 
      - 
       :name: coding 
-      :has_property: 
-      -
-        :name: "code"
-        :value_set:
-        - 
-          :cl: H000002
-          :cli: HI000006
-      
+      :value_set:
+      - 
+        :cl: D000001
+        :cli: D100001
   :has_items:
   - :name: "Position"
     :enabled: false
@@ -28,35 +24,32 @@
     :enabled: false 
   - :name: "Result"
     :enabled: true  
+    :collect: true
     :data_type: 
     - 
       :name: coding
-      :has_property: 
+      :value_set:
       - 
-        :name: code
-        :value: ""
-        :value_set:
-        - 
-          :cl: C74457
-          :cli: C16352
-        - 
-          :cl: C74457
-          :cli: C41259
-        - 
-          :cl: C74457
-          :cli: C41260
-        - 
-          :cl: C74457
-          :cli: C41219
-        - 
-          :cl: C74457
-          :cli: C41261
-        - 
-          :cl: C74457
-          :cli: C17998
-        - 
-          :cl: C74457
-          :cli: C43234
+        :cl: C74457
+        :cli: C16352
+      - 
+        :cl: C74457
+        :cli: C41259
+      - 
+        :cl: C74457
+        :cli: C41260
+      - 
+        :cl: C74457
+        :cli: C41219
+      - 
+        :cl: C74457
+        :cli: C41261
+      - 
+        :cl: C74457
+        :cli: C17998
+      - 
+        :cl: C74457
+        :cli: C43234
 #SEX
 - :name: "Sex"
   :based_on: "Base Observation"
@@ -67,16 +60,10 @@
     :data_type: 
      - 
       :name: coding 
-      :has_property: 
-      -
-        :name: "code"
-        :question_text: ""
-        :prompt_text: ""
-        :format: "8"
-        :value_set:
-        - 
-          :cl: H000002
-          :cli: HI000008
+      :value_set:
+      - 
+        :cl: D000001
+        :cli: D100002
       
   :has_items:
   - :name: "Position"
@@ -89,25 +76,23 @@
     :enabled: false 
   - :name: "Result"
     :enabled: true  
+    :collect: true
     :data_type: 
     - 
       :name: coding
-      :has_property: 
+      :value_set:
       - 
-        :name: code
-        :value_set:
-        - 
-          :cl: C66731
-          :cli: C16576
-        - 
-          :cl: C66731
-          :cli: C20197 
-        - 
-          :cl: C66731
-          :cli: C45908 
-        - 
-          :cl: C66731
-          :cli: C17998
+        :cl: C66731
+        :cli: C16576
+      - 
+        :cl: C66731
+        :cli: C20197 
+      - 
+        :cl: C66731
+        :cli: C45908 
+      - 
+        :cl: C66731
+        :cli: C17998
 #AGE
 - :name: "Age"
   :based_on: "Base Observation"
@@ -116,15 +101,12 @@
     :enabled: true
     :collect: false  
     :data_type: 
-     - 
+    - 
       :name: coding 
-      :has_property: 
-      -
-        :name: "code"
-        :value_set:
-        - 
-          :cl: H000002
-          :cli: HI000005
+      :value_set:
+      - 
+        :cl: D000001
+        :cli: D100003
   :has_items:
   - :name: "Position"
     :enabled: false
@@ -136,39 +118,35 @@
     :enabled: false 
   - :name: "Result"
     :enabled: true  
+    :collect: true
     :data_type: 
     - 
       :name: quantity
-      :has_property: 
-      - 
-        :name: "value"
-        :value: ""
-        :value_set: []
-      - 
-        :name: "code"
-        :collect: false  
-        :value_set:
-        - 
-          :cl: C66781
-          :cli: C29848
+      :value_set:
+      - :cl: C66781
+        :cli: C25301
+      - :cl: C66781
+        :cli: C25529
+      - :cl: C66781
+        :cli: C29846
+      - :cl: C66781
+        :cli: C29844        
+      - :cl: C66781
+        :cli: C29848
 #ETHNICITY
 - :name: "Ethnicity"
   :based_on: "Base Observation"
   :identified_by: 
     :name: "Test"
     :enabled: true  
+    :collect: false
     :data_type: 
      - 
       :name: coding 
-      :has_property: 
-      -
-        :name: "code"
-        :value: ""
-        :value_set:
-        - 
-          :cl: H000002
-          :cli: HI000007
-      
+      :value_set:
+      - 
+        :cl: D000001
+        :cli: D100004
   :has_items:
   - :name: "Position"
     :enabled: false
@@ -180,23 +158,20 @@
     :enabled: false 
   - :name: "Result"
     :enabled: true  
+    :collect: true
     :data_type: 
     - 
       :name: coding
-      :has_property: 
+      :value_set:
       - 
-        :name: code
-        :value: ""
-        :value_set:
-        - 
-          :cl: C66790
-          :cli: C17459
-        - 
-          :cl: C66790
-          :cli: C41222
-        - 
-          :cl: C66790
-          :cli: C43234
-        - 
-          :cl: C66790
-          :cli: C17998
+        :cl: C66790
+        :cli: C17459
+      - 
+        :cl: C66790
+        :cli: C41222
+      - 
+        :cl: C66790
+        :cli: C43234
+      - 
+        :cl: C66790
+        :cli: C17998
