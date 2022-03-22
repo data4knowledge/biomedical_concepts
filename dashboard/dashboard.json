@@ -2,12 +2,12 @@
   "title": "Biomedical Concepts Treatise",
   "version": "2.0",
   "settings": {
-    "pagenumber": 3,
+    "pagenumber": 4,
     "editable": true,
     "fullscreenEnabled": true,
     "parameters": {
       "neodash_study_protocol_brief_title": "DDR",
-      "neodash_skos_concept_notation": "VSTESTCD"
+      "neodash_skos_concept_notation": "RACE"
     }
   },
   "pages": [
@@ -233,7 +233,7 @@
         },
         {
           "title": "Detailed BC Instance Graph",
-          "query": "MATCH (bc:BC_INSTANCE)-[r1:HAS_ITEM]->(i:BC_ITEM)\nWITH bc,i,r1\nOPTIONAL MATCH (i)-[r2:HAS_DATA_TYPE]->(dt:BC_DATA_TYPE)-[r3:HAS_DATA_TYPE_PROPERTY]->(dp:BC_DATA_TYPE_PROPERTY)\nWITH bc,r1,i,r2,dt,r3,dp\nOPTIONAL MATCH (dt)-[r4:HAS_RESPONSE]->(sc)\nRETURN bc,r1,i,r2,dt,r3,dp,r4,sc\n\n",
+          "query": "MATCH (bc:BC_INSTANCE)-[r1:HAS_ITEM|HAS_IDENTIFIER]->(i:BC_ITEM)\nWITH bc,i,r1\nOPTIONAL MATCH (i)-[r2:HAS_DATA_TYPE]->(dt:BC_DATA_TYPE)-[r3:HAS_DATA_TYPE_PROPERTY]->(dp:BC_DATA_TYPE_PROPERTY)\nWITH bc,r1,i,r2,dt,r3,dp\nOPTIONAL MATCH (dt)-[r4:HAS_RESPONSE]->(sc)\nRETURN bc,r1,i,r2,dt,r3,dp,r4,sc\n\n",
           "width": "6",
           "type": "graph",
           "height": "3",
@@ -242,7 +242,8 @@
             "BC_ITEM": "name",
             "BC_DATA_TYPE": "name",
             "BC_DATA_TYPE_PROPERTY": "name",
-            "SKOS_CONCEPT": "id"
+            "SKOS_CONCEPT": "label",
+            "BC_VALUE_SET": "id"
           },
           "settings": {
             "nodePositions": {}
@@ -403,8 +404,8 @@
             "STUDY_ARM": "(label)",
             "EPOCH": "id",
             "VISIT": "name",
-            "STUDY_ELEMENT": "(label)",
-            "RULE": "(label)"
+            "RULE": "(label)",
+            "STUDY_ELEMENT": "(label)"
           },
           "settings": {
             "nodePositions": {}
