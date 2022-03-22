@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "An arm describing the active comparator.",
             "identifier": "C174267",
             "notation": "Active Comparator Arm",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174222-C174267"
         },
         {
+            "alt_label": "",
             "definition": "An arm describing the intervention or treatment plan for a group of participants in the study receiving a control. The control may comprise a non-investigational product (active control) or regimen, placebo, or no treatment.",
             "identifier": "C174226",
             "notation": "Control Arm",
@@ -23,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174222-C174266"
         },
         {
+            "alt_label": "",
             "definition": "A study arm without an intervention or treatment.",
             "identifier": "C174270",
             "notation": "No Intervention Arm",
@@ -46,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C174222-C174269"
         },
         {
+            "alt_label": "",
             "definition": "An arm describing the intervention or treatment plan for a group of participants in the study. Treatment may consist of either experimental or control products under investigation.",
             "identifier": "C15538",
             "notation": "Treatment Arm",

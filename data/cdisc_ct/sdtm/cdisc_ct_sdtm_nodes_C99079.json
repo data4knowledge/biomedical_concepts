@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "A period in a clinical study after eligibility has been met and before the start of treatment, at which baseline measurements are collected.",
             "identifier": "C125938",
             "notation": "BASELINE",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C125938"
         },
         {
+            "alt_label": "",
             "definition": "A period in a clinical study during which subjects receive blinded therapeutic treatment.",
             "identifier": "C102255",
             "notation": "BLINDED TREATMENT",
@@ -23,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C123452"
         },
         {
+            "alt_label": "",
             "definition": "A period in a clinical study during which information about the health status of an individual is obtained after study interventions have concluded.",
             "identifier": "C99158",
             "notation": "FOLLOW-UP",
@@ -38,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C123453"
         },
         {
+            "alt_label": "",
             "definition": "A period in a clinical study during which information about the health status of an individual is obtained long after study interventions have concluded.",
             "identifier": "C16032",
             "notation": "LONG-TERM FOLLOW-UP",
@@ -45,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C16032"
         },
         {
+            "alt_label": "",
             "definition": "A period in a clinical study during which subjects are observed, without any planned intervention.",
             "identifier": "C165873",
             "notation": "OBSERVATION",
@@ -52,6 +57,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C165873"
         },
         {
+            "alt_label": "",
             "definition": "A period in a clinical study during which subjects receive open label therapeutic treatment.",
             "identifier": "C102256",
             "notation": "OPEN LABEL TREATMENT",
@@ -59,6 +65,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C102256"
         },
         {
+            "alt_label": "",
             "definition": "A period in a clinical study that occurs before the commencement of the primary clinical study investigation, during which subjects may be assessed for suitability in the clinical study, withdrawn from existing therapy, trained in study methodology or evaluated for any other protocol-specified reason.",
             "identifier": "C98779",
             "notation": "RUN-IN",
@@ -66,6 +73,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C98779"
         },
         {
+            "alt_label": "",
             "definition": "A period in a clinical study during which subjects are evaluated for participation in the study.",
             "identifier": "C48262",
             "notation": "SCREENING",
@@ -73,6 +81,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C48262"
         },
         {
+            "alt_label": "",
             "definition": "A period in a clinical study during which subjects receive investigational product.",
             "identifier": "C101526",
             "notation": "TREATMENT",
@@ -80,6 +89,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C99079-C101526"
         },
         {
+            "alt_label": "",
             "definition": "A period of time during a clinical study when a participant is taken off of a study drug or other medication in order to eliminate the effects of the treatment.",
             "identifier": "C42872",
             "notation": "WASHOUT",

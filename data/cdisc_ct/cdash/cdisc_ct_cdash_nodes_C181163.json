@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "Failure of the product/drug, when reintroduced, to produce signs or symptoms similar to those observed when the product/drug was previously used.",
             "identifier": "C181226",
             "notation": "NEGATIVE RECHALLENGE",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C181163-C181226"
         },
         {
+            "alt_label": "",
             "definition": "The outcome of reintroduction of product/drug is not relevant in the current context.",
             "identifier": "C181228",
             "notation": "NOT APPLICABLE RECHALLENGE",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C181163-C181228"
         },
         {
+            "alt_label": "",
             "definition": "Recurrence of similar or new signs and symptoms upon reintroduction of the product/drug.",
             "identifier": "C181227",
             "notation": "POSITIVE RECHALLENGE",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/cdash/C181163-C181227"
         },
         {
+            "alt_label": "",
             "definition": "No information regarding the outcome of reintroduction of product/drug.",
             "identifier": "C181229",
             "notation": "UKNOWN RECHALLENGE",

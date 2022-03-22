@@ -9,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C170441-C170561"
         },
         {
+            "alt_label": "",
             "definition": "Endpoint(s) used in clinical studies to directly measure how a patient feels, functions, or survives. These endpoint(s) in themselves represent or characterize the clinical outcome of interest. (FDA: https://www.fda.gov/media/84987/download)",
             "identifier": "C170560",
             "notation": "Direct Endpoint",
@@ -16,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C170441-C170560"
         },
         {
+            "alt_label": "",
             "definition": "Endpoint(s) that may include clinically important events that are expected to occur too infrequently to show a treatment effect or endpoints that for other reasons are thought to be less likely to show an effect but are included to explore new hypotheses. (After FDA-NIH Protocol Template)",
             "identifier": "C170559",
             "notation": "Exploratory Endpoint",
@@ -23,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C170441-C170559"
         },
         {
+            "alt_label": "",
             "definition": "Endpoint(s) of greatest importance that is the basis for concluding whether the study met its objective(s) and provides a clinically relevant, valid, and reliable measure of the primary objective(s). (After FDA-NIH Protocol Template)",
             "identifier": "C94496",
             "notation": "Primary Endpoint",
@@ -30,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C170441-C94496"
         },
         {
+            "alt_label": "",
             "definition": "Endpoint(s) that may provide supportive information about the effect of the study intervention(s) on the primary endpoint or demonstrate additional effects on the disease or condition. (After FDA-NIH Protocol Template)",
             "identifier": "C139173",
             "notation": "Secondary Endpoint",
@@ -37,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C170441-C139173"
         },
         {
+            "alt_label": "",
             "definition": "Endpoint(s) used in clinical studies as a substitute for a direct measure of how a patient feels, functions, or survives. A surrogate endpoint is expected to predict clinical benefit or harm based on epidemiologic, therapeutic, pathophysiologic, or other scientific evidence. A surrogate endpoint does not measure the clinical benefit of primary interest in and of itself. (After NIH-FDA BEST (Biomarkers, Endpoints, and other Tools) Resource, https://www.ncbi.nlm.nih.gov/books/NBK338448/)",
             "identifier": "C68772",
             "notation": "Surrogate Endpoint",

@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "There are no indicators of bacterial infection in an individual who previously had an infection.",
             "identifier": "C102600",
             "notation": "BACTERIOLOGICAL CURE",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102578-C102600"
         },
         {
+            "alt_label": "",
             "definition": "There are indicators of bacterial infection in the individual who previously had an infection.",
             "identifier": "C102601",
             "notation": "BACTERIOLOGICAL FAILURE",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102578-C102601"
         },
         {
+            "alt_label": "",
             "definition": "There are no signs or symptoms of disease in the individual who previously had a disease.",
             "identifier": "C102607",
             "notation": "CLINICAL CURE",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102578-C102607"
         },
         {
+            "alt_label": "",
             "definition": "There are still signs or symptoms of disease in the individual who previously had an infection.",
             "identifier": "C102608",
             "notation": "CLINICAL FAILURE",

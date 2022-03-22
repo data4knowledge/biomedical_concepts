@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "An indication that the subject's death or sacrifice was due to a mishap or technical/operational error.",
             "identifier": "C90351",
             "notation": "ACCIDENTAL DEATH",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89968-C90351"
         },
         {
+            "alt_label": "",
             "definition": "An indication that a subject was found in a deceased state. (NCI)",
             "identifier": "C90387",
             "notation": "FOUND DEAD",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89968-C90387"
         },
         {
+            "alt_label": "",
             "definition": "An indication that the study subject is part of a protocol-defined set of animals that are sacrificed before the protocol-defined terminal sacrifice date.",
             "identifier": "C90436",
             "notation": "INTERIM SACRIFICE",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89968-C90436"
         },
         {
+            "alt_label": "",
             "definition": "An indication that the subject could not be found, in which case, its disposition was not known, and no postmortem data was available.",
             "identifier": "C96372",
             "notation": "MISSING",
@@ -29,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89968-C96372"
         },
         {
+            "alt_label": "",
             "definition": "An indication that a subject was euthanized due to ethical reasons, such as being in poor health or near death.",
             "identifier": "C90425",
             "notation": "MORIBUND SACRIFICE",
@@ -36,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89968-C90425"
         },
         {
+            "alt_label": "",
             "definition": "An indication that a subject was euthanized due to factors not associated with the general health of the subject.",
             "identifier": "C123635",
             "notation": "NON-MORIBUND SACRIFICE",
@@ -43,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89968-C123635"
         },
         {
+            "alt_label": "",
             "definition": "An indication that the study subject is part of a protocol-defined set of animals that are sacrificed after a protocol-defined treatment-free period.",
             "identifier": "C90445",
             "notation": "RECOVERY SACRIFICE",
@@ -50,6 +57,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89968-C90445"
         },
         {
+            "alt_label": "",
             "definition": "An indication that the subject was alive when taken out of the study. (NCI)",
             "identifier": "C90447",
             "notation": "REMOVED FROM STUDY ALIVE",
@@ -57,6 +65,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89968-C90447"
         },
         {
+            "alt_label": "",
             "definition": "An indication that the subject was sacrificed at the end of the protocol-defined treatment or observation period.",
             "identifier": "C90465",
             "notation": "TERMINAL SACRIFICE",

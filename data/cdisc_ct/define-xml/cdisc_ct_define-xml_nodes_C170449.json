@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "A value that is derived through designation, such as values from a look up table or a label on a CRF.",
             "identifier": "C170547",
             "notation": "Assigned",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C170547"
         },
         {
+            "alt_label": "",
             "definition": "A value that is actually observed and recorded by a person or obtained by an instrument.",
             "identifier": "C170548",
             "notation": "Collected",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C170548"
         },
         {
+            "alt_label": "",
             "definition": "A value that is calculated by an algorithm or reproducible rule, and which is dependent upon other data values.",
             "identifier": "C170549",
             "notation": "Derived",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C170549"
         },
         {
+            "alt_label": "",
             "definition": "A value that is not discoverable or accessible.",
             "identifier": "C126101",
             "notation": "Not Available",
@@ -37,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C17649"
         },
         {
+            "alt_label": "",
             "definition": "A value that is copied from a variable in another dataset.",
             "identifier": "C170550",
             "notation": "Predecessor",
@@ -44,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/define-xml/C170449-C170550"
         },
         {
+            "alt_label": "",
             "definition": "A value that is included as part of the study protocol.",
             "identifier": "C170551",
             "notation": "Protocol",

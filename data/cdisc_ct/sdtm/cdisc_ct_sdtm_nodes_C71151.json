@@ -25,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71151-C71116"
         },
         {
+            "alt_label": "",
             "definition": "A continuous electrocardiographic (ECG) recording utilizing 12 leads. The positioning of the electrodes may vary from the standard 12 lead ECG placement. Examples include but are not limited to 12 lead Holter with modified Mason-Likar lead placements, 12 lead exercise ECGs, and 12 lead telemetry systems.",
             "identifier": "C123444",
             "notation": "12 LEAD CONTINUOUS ECG",
@@ -40,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71151-C71123"
         },
         {
+            "alt_label": "",
             "definition": "A standard duration (typically 10 seconds) 12 lead electrocardiogram (ECG) extracted from a 12 lead continuous ECG.",
             "identifier": "C123445",
             "notation": "12 LEAD ECG EXTRACTED FROM 12 LEAD CONTINUOUS ECG RECORDING",
@@ -103,6 +105,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71151-C71101"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiogram (ECG) lead configuration that is primarily used to record ECGs in non-human animals, and which uses six (6) electrodes to generate eight (8) ECG leads (ECG wave forms). The six electrode configuration includes the following: four (4) limb electrodes, which are placed analogous to an Einthoven configuration in humans, and two (2) chest electrodes. The eight (8) ECG leads recorded comprise three standard limb leads (leads I, II, and III), three augmented leads (Leads aVR, aVF, and aVL), and two chest leads, which are generated using two unipolar chest leads, typically CV5RL [rV2] and CV6LL [V2] for canines, or MV1 and MV2 for primates.",
             "identifier": "C132355",
             "notation": "6 LEAD NEHB-SPORI",
@@ -118,6 +121,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71151-C90350"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiogram lead placement for non-human species using a five electrode lead set to monitor and/or record 7 ECG leads, analogous to the standard and augmented human limb leads and one chest lead.",
             "identifier": "C158157",
             "notation": "7 LEAD STANDARD, NON-HUMAN",
@@ -125,6 +129,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71151-C158157"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiogram (ECG) recorded using 6 electrodes to generate 8 ECG leads (ECG wave forms). The 6 electrode configuration includes 4 limb electrodes in an Einthoven configuration and two chest electrodes. The 8 ECG leads recorded consist of three standard limb leads (leads I, II, and III), three augmented leads (leads aVR, aVF, and aVL), and two chest leads (which are generated using two unipolar chest leads (typically CV5RL [rV2] and CV6LL [V2] for canines or MV1 and MV2 for non-human primates). This lead configuration is typically used to record ECGs in non-human animals.",
             "identifier": "C132356",
             "notation": "8 LEAD STANDARD",
@@ -140,6 +145,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71151-C71121"
         },
         {
+            "alt_label": "",
             "definition": "A continuous electrocardiographic (ECG) recording utilizing 1 or more leads that records and stores data directly to the device. The subject need not be restricted to a medical facility, and may be able to participate in their customary activities of daily living.",
             "identifier": "C123446",
             "notation": "CONTINUOUS AMBULATORY ECG",
@@ -147,6 +153,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71151-C123446"
         },
         {
+            "alt_label": "",
             "definition": "A continuous electrocardiographic (ECG) recording utilizing one or more implanted leads in a non-human species.",
             "identifier": "C154718",
             "notation": "CONTINUOUS ECG RECORDING FOR NON-HUMAN SPECIES USING IMPLANTED LEADS",
@@ -154,6 +161,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71151-C154718"
         },
         {
+            "alt_label": "",
             "definition": "A continuous electrocardiographic (ECG) recording utilizing one or more surface leads in a non-human species.",
             "identifier": "C154717",
             "notation": "CONTINUOUS SURFACE ECG RECORDING FOR NON-HUMAN SPECIES",
@@ -177,6 +185,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71151-C71118"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic method for collecting continuous ECG waveforms with a variable number of discrete leads with duration longer than the standard 10 second ECG. Holter recording may be performed in patients who are ambulatory, and may collect data for 24 hours or longer.",
             "identifier": "C38064",
             "notation": "HOLTER CONTINUOUS ECG RECORDING",
@@ -232,6 +241,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C71151-C71130"
         },
         {
+            "alt_label": "",
             "definition": "Limb leads on the back (shoulder and on the hips). (NCI)",
             "identifier": "C71115",
             "notation": "STANDARD LEADS FOR BICYCLE EXERCISE",

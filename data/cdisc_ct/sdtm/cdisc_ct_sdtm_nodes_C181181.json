@@ -9,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181181-C181324"
         },
         {
+            "alt_label": "",
             "definition": "A formula that compares gene expression by calculating the log2 fold difference between two gene expression intensities, or 2^(Value 2 Intensity - Value 1 Intensity).",
             "identifier": "C181328",
             "notation": "DIFFERENCES OF LOG2 INTENSITIES FORMULA",
@@ -24,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C181181-C181325"
         },
         {
+            "alt_label": "",
             "definition": "A unique pattern of gene expression of one to many combinations of genes that is associated with type 1 interferon activity.",
             "identifier": "C181329",
             "notation": "IFN-1 GENE SIGNATURE",

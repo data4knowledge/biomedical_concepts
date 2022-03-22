@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "A non-random process used to select a study population in which the participants have been selected based on convenience or with a particular purpose in mind.",
             "identifier": "C127781",
             "notation": "NON-PROBABILITY SAMPLE",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C127260-C127781"
         },
         {
+            "alt_label": "",
             "definition": "An exclusively random process to guarantee that each participant or population has specified chance of selection, such as simple random sampling, systematic sampling, stratified random sampling, cluster sampling, and consecutive patient sampling. (clinicaltrials.gov)",
             "identifier": "C71517",
             "notation": "PROBABILITY SAMPLE",

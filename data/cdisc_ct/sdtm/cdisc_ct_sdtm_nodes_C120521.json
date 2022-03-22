@@ -25,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120599"
         },
         {
+            "alt_label": "",
             "definition": "A recurrence of the same virus after a finding of aviremia at the end of planned or actual treatment.",
             "identifier": "C120600",
             "notation": "VIRAL RELAPSE",
@@ -32,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120600"
         },
         {
+            "alt_label": "",
             "definition": "A finding of aviremia at the end of the planned or actual end of treatment period.",
             "identifier": "C120601",
             "notation": "VIROLOGIC END OF TREATMENT RESPONSE",
@@ -39,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120601"
         },
         {
+            "alt_label": "",
             "definition": "A finding of viremia at or after end of planned or actual treatment, excluding treatment discontinuations for non-virologic reasons.",
             "identifier": "C120602",
             "notation": "VIROLOGIC FAILURE",
@@ -46,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120602"
         },
         {
+            "alt_label": "",
             "definition": "The subject remains viremic during the treatment period.",
             "identifier": "C120603",
             "notation": "VIROLOGIC NON-RESPONSE",
@@ -53,6 +57,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120603"
         },
         {
+            "alt_label": "",
             "definition": "The subject remains viremic during the treatment period and the decrease in viral load from baseline at a specified timepoint is below or equal to a predetermined threshold.",
             "identifier": "C120604",
             "notation": "VIROLOGIC NULL-RESPONSE",
@@ -60,6 +65,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C120521-C120604"
         },
         {
+            "alt_label": "",
             "definition": "The subject remains viremic during the treatment period and the decrease in viral load from baseline at a specified timepoint is above a predetermined threshold.",
             "identifier": "C120605",
             "notation": "VIROLOGIC PARTIAL RESPONSE",

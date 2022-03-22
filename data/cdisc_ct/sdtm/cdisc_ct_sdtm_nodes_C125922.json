@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "A grading system developed by the American Joint Committee on Cancer (AJCC) and assigned based on the degree of cellular differentiation within a tumor sample.",
             "identifier": "C135461",
             "notation": "AJCC TUMOR GRADE",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C135461"
         },
         {
+            "alt_label": "",
             "definition": "A score developed by Allred et al. (1998) and assigned based on the percent positivity of cells for a particular protein (Allred DC, Harvey JM, Berardo M, Clark GM. Prognostic and predictive factors in breast cancer by immunohistochemical analysis. Mod Pathol. 1998 Feb;11(2):155-68).",
             "identifier": "C125985",
             "notation": "ALLRED PROPORTION POSITIVE SCORE",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C125985"
         },
         {
+            "alt_label": "",
             "definition": "A score developed by Allred et al. (1998) and assigned based on the average staining intensity of cells for a particular protein (Allred DC, Harvey JM, Berardo M, Clark GM. Prognostic and predictive factors in breast cancer by immunohistochemical analysis. Mod Pathol. 1998 Feb;11(2):155-68).",
             "identifier": "C125986",
             "notation": "ALLRED STAINING INTENSITY SCORE",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C125986"
         },
         {
+            "alt_label": "",
             "definition": "The histopathological evaluation of staining in tissue based on the Allred scoring system (Allred DC, Harvey JM, Berardo M, Clark GM. Prognostic and predictive factors in breast cancer by immunohistochemical analysis. Mod Pathol. 1998 Feb;11(2):155-68).",
             "identifier": "C125987",
             "notation": "ALLRED TOTAL SCORE",
@@ -29,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C125987"
         },
         {
+            "alt_label": "",
             "definition": "A score originally developed by Solez et al. (1993) and assigned based on the histologic evaluation of kidney allograft biopsies according to the Banff Working Classification of Renal Allograft Pathology.",
             "identifier": "C135462",
             "notation": "BANFF QUANTITATIVE CRITERIA SCORE RENAL",
@@ -44,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C119570"
         },
         {
+            "alt_label": "",
             "definition": "A score based on the Bauermeister scale, a 6-point grading system used to rate the extent of myelofibrosis, based on the amount of reticulin and collagen fibers present in the bone marrow. (Bauermeister DE. Quantitation of bone marrow reticulin-a normal range. Am J Clin Pathol. 1971 Jul;56(1):24-31.)",
             "identifier": "C154808",
             "notation": "BAUERMEISTER SCORE",
@@ -59,6 +65,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181467"
         },
         {
+            "alt_label": "",
             "definition": "A microscopic measurement of the volumetric or area ratios of components (e.g. blood vessel-, macrophage-, or lymphatic vessel density) of tissues or organs. (Chalkley HW. Method for the quantitative morphological analysis of tissues. J Natl Cancer Inst; 4: 47-52)",
             "identifier": "C158254",
             "notation": "CHALKLEY SCORE",
@@ -74,6 +81,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C132429"
         },
         {
+            "alt_label": "",
             "definition": "A score based on the European Consensus scale, a 4-point grading system for the qualitative and quantitative evaluation of bone marrow fibrosis. (Thiele J, Kvasnicka HM, Facchetti F, Franco V, van der Walt J, Orazi A. European consensus on grading bone marrow fibrosis and assessment of cellularity. Haematologica. 2005 Aug;90(8):1128-32.)",
             "identifier": "C154809",
             "notation": "EUROPEAN CONSENSUS SCORE",
@@ -81,6 +89,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C154809"
         },
         {
+            "alt_label": "",
             "definition": "A grading system developed by Evans et al (1992) to assess a decrease in tumor size or extent in the body. (Evans DB, Rich TA, Byrd DR, Cleary KR, Connelly JH, Levin B, et al. Preoperative chemoradiation and pancreaticoduodenectomy for adenocarcinoma of the pancreas. Arch Surg. (1992) 127:1335-9.)",
             "identifier": "C181469",
             "notation": "EVANS TUMOR REGRESSION GRADE 1992",
@@ -96,6 +105,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C178033"
         },
         {
+            "alt_label": "",
             "definition": "The most prevalent Gleason pattern in a prostate biopsy or prostatectomy specimen. (Gleason, D. F. (1977). The Veteran's Administration Cooperative Urologic Research Group: histologic grading and clinical staging of prostatic carcinoma. In Tannenbaum, M. Urologic Pathology: The Prostate. Philadelphia: Lea and Febiger. pp. 171-198.)",
             "identifier": "C48603",
             "notation": "GLEASON PRIMARY SCORE",
@@ -103,6 +113,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C48603"
         },
         {
+            "alt_label": "",
             "definition": "The second most prevalent Gleason pattern in a prostate biopsy or prostatectomy specimen. (Gleason, D. F. (1977). The Veteran's Administration Cooperative Urologic Research Group: histologic grading and clinical staging of prostatic carcinoma. In Tannenbaum, M. Urologic Pathology: The Prostate. Philadelphia: Lea and Febiger. pp. 171-198.)",
             "identifier": "C48604",
             "notation": "GLEASON SECONDARY SCORE",
@@ -110,6 +121,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C48604"
         },
         {
+            "alt_label": "",
             "definition": "The sum of the primary and secondary Gleason scores. If three patterns are identified, it is the sum of the primary pattern score and the score of the least well-differentiated pattern. (Gleason, D. F. (1977). The Veteran's Administration Cooperative Urologic Research Group: histologic grading and clinical staging of prostatic carcinoma. In Tannenbaum, M. Urologic Pathology: The Prostate. Philadelphia: Lea and Febiger. pp. 171-198.)",
             "identifier": "C48602",
             "notation": "GLEASON TOTAL SUM",
@@ -117,6 +129,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C48602"
         },
         {
+            "alt_label": "",
             "definition": "A measurement of the amount or proportion of cells that have a staining intensity of 0, based on the H Score scoring system, in a biological specimen. (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).",
             "identifier": "C181473",
             "notation": "H SCORE STAINING INTENSITY 0",
@@ -124,6 +137,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181473"
         },
         {
+            "alt_label": "",
             "definition": "A measurement of the amount or proportion of cells that have a staining intensity of 1+, based on the H Score scoring system, in a biological specimen. (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).",
             "identifier": "C181474",
             "notation": "H SCORE STAINING INTENSITY 1+",
@@ -131,6 +145,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181474"
         },
         {
+            "alt_label": "",
             "definition": "A measurement of the amount or proportion of cells that have a staining intensity of 2+, based on the H Score scoring system, in a biological specimen. (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).",
             "identifier": "C181475",
             "notation": "H SCORE STAINING INTENSITY 2+",
@@ -138,6 +153,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181475"
         },
         {
+            "alt_label": "",
             "definition": "A measurement of the amount or proportion of cells that have a staining intensity of 3+, based on the H Score scoring system, in a biological specimen. (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).",
             "identifier": "C181476",
             "notation": "H SCORE STAINING INTENSITY 3+",
@@ -145,6 +161,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181476"
         },
         {
+            "alt_label": "",
             "definition": "The histopathological evaluation of staining in tissue based on the H Score scoring system (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).",
             "identifier": "C125988",
             "notation": "H SCORE TOTAL SCORE",
@@ -152,6 +169,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C125988"
         },
         {
+            "alt_label": "",
             "definition": "A grading system developed by Hartman et al (2012) to assess a decrease in tumor size or extent in the body. (Hartman DJ, Krasinskas AM. Assessing treatment effect in pancreatic cancer. Arch Pathol Lab Med. (2012) 136:100-9.)",
             "identifier": "C181470",
             "notation": "HARTMAN TUMOR REGRESSION GRADE 2012",
@@ -159,6 +177,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C181470"
         },
         {
+            "alt_label": "",
             "definition": "A grading system developed by Dworak et al (1997) to assess a decrease in tumor size or extent in the body. (Dworak O, Keilholz L, Hoffmann A. Pathological features of rectal cancer after preoperative radiochemotherapy. Int J Colorectal Dis. (1997) 12:19-23.)",
             "identifier": "C181471",
             "notation": "IDWORAK TUMOR REGRESSION GRADE 1997",
@@ -174,6 +193,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C95149"
         },
         {
+            "alt_label": "",
             "definition": "A grading system for prostatic adenocarcinoma based on cellular differentiation patterns and Gleason primary and secondary scores (Epstein JI, Egevad L, Amin MB, Delahunt B, Srigley JR, Humphrey PA; Grading Committee. The 2014 International Society of Urological Pathology (ISUP) Consensus Conference on Gleason Grading of Prostatic Carcinoma: Definition of Grading Patterns and Proposal for a New Grading System. Am J Surg Pathol. 2016 Feb;40(2):244-52.)",
             "identifier": "C142346",
             "notation": "ISUP GLEASON GRADE GROUP",
@@ -189,6 +209,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C119571"
         },
         {
+            "alt_label": "",
             "definition": "A grading system developed by Chatterjee et al (2012) to assess a decrease in tumor size or extent in the body. (Chatterjee D, Katz MH, Rashid A, Wolff RA, Wang H, Lee JE, et al. Histologic grading of the extent of residual carcinoma following neoadjuvant chemoradiation in pancreatic ductal adenocarcinoma: a predictor for patient outcome. Cancer. (2012) 118:3182-90.)",
             "identifier": "C181468",
             "notation": "MD ANDERSON TUMOR REGRESSION GRADE 2012",
@@ -204,6 +225,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C119572"
         },
         {
+            "alt_label": "",
             "definition": "The histopathological evaluation of MET (Hepatocyte Growth Factor Receptor) staining in tissue based on the METMAB scoring system (Koeppen H, Yu W, Zha J, et al. Biomarker Analyses from a Placebo-Controlled Phase II Study Evaluating Erlotinib +/- Onartuzumab in Advanced Non-Small Cell Lung Cancer: MET Expression Levels Are Predictive of Patient Benefit. Clin Cancer Res. 2014 September 1; 20(17): 4488-4498.)",
             "identifier": "C174344",
             "notation": "METMAB SCORE",
@@ -227,6 +249,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C138986"
         },
         {
+            "alt_label": "",
             "definition": "A measurement of the proportion of cells that are positive for a given protein.",
             "identifier": "C70460",
             "notation": "PERCENT POSITIVE CELL",
@@ -234,6 +257,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C70460"
         },
         {
+            "alt_label": "",
             "definition": "A measurement of the total number of cells that stain positively in a biological specimen.",
             "identifier": "C156548",
             "notation": "POSITIVE CELL COUNT",
@@ -241,6 +265,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C156548"
         },
         {
+            "alt_label": "",
             "definition": "An assessment of the status of a biological specimen with regards to a given receptor.",
             "identifier": "C125989",
             "notation": "RECEPTOR OVERALL STATUS",
@@ -264,6 +289,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C119573"
         },
         {
+            "alt_label": "",
             "definition": "The degree or magnitude of staining within a biological specimen.",
             "identifier": "C127762",
             "notation": "STAINING INTENSITY",
@@ -271,6 +297,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C125922-C127762"
         },
         {
+            "alt_label": "",
             "definition": "The percentage of viable tumor cells with partial or complete cell membrane staining.",
             "identifier": "C154810",
             "notation": "TUMOR PROPORTION SCORE",

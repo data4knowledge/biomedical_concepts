@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "The individual, organization, group or other legal person taking responsibility for securing the arrangements to initiate and/or manage a study (including arrangements to ensure that the study design meets appropriate standards and to ensure appropriate conduct and reporting). In commercial trials, the primary sponsor is normally the main applicant for regulatory authorization to begin the study. It may or may not be the main funder. (NCI)",
             "identifier": "C70794",
             "notation": "Primary Clinical Study Sponsor",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C142191-C70794"
         },
         {
+            "alt_label": "",
             "definition": "Additional individuals, organizations or other legal persons, if any, that have agreed with the primary sponsor to take on responsibilities of sponsorship. A secondary sponsor may have agreed to take on all the responsibilities of sponsorship jointly with the primary sponsor; or to form a group with the primary sponsor in which the responsibilities of sponsorship are allocated among the members of the group; or to act as the sponsor's legal representative in relation to some or all of the study sites; or to take responsibility for the accuracy of study registration information submitted.",
             "identifier": "C70795",
             "notation": "Secondary Clinical Study Sponsor",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C142191-C70795"
         },
         {
+            "alt_label": "",
             "definition": "An action, undertaking, or event, which is anticipated to be performed or observed, or was performed or observed, according to the study protocol during the execution of the study.",
             "identifier": "C71473",
             "notation": "Study Activity",

@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "The country in which participants are located when enrolling in a trial or study.",
             "identifier": "C139170",
             "notation": "Country of Recruitment",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139170"
         },
         {
+            "alt_label": "",
             "definition": "Date or date and time of first subject enrollment into a study, as verifiable by a convention that is consistent with authoritative regulatory criteria. Compare with study start. [Modified from ICH E3] (CDISC Glossary)",
             "identifier": "C139171",
             "notation": "Date of First Enrollment",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139171"
         },
         {
+            "alt_label": "",
             "definition": "List of characteristics in a protocol, any one of which may exclude a potential subject from participation in a study. (CDISC glossary)",
             "identifier": "C25370",
             "notation": "Exclusion Criteria",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C25370"
         },
         {
+            "alt_label": "",
             "definition": "The criteria in a protocol that prospective subjects must meet to be eligible for participation in a study. NOTE: Exclusion and inclusion criteria define the study population. See also exclusion criteria. (CDISC glossary)",
             "identifier": "C25532",
             "notation": "Inclusion Criteria",
@@ -37,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C127796"
         },
         {
+            "alt_label": "",
             "definition": "The name of the entity that is considered the primary sponsor for the trial or study. (NCI)",
             "identifier": "C139168",
             "notation": "Primary Sponsor Name",
@@ -44,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139168"
         },
         {
+            "alt_label": "",
             "definition": "The name of the entity that is considered the secondary sponsor for the trial or study. (NCI)",
             "identifier": "C139169",
             "notation": "Secondary Sponsor Name",
@@ -51,6 +57,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139169"
         },
         {
+            "alt_label": "",
             "definition": "The major organizations providing monetary or material support for the conduct of the trial, including, but not limited to, funding, design, implementation, data analysis and reporting. (EudraCT)",
             "identifier": "C139167",
             "notation": "Source of Monetary or Material Support for Study",
@@ -58,6 +65,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C139167"
         },
         {
+            "alt_label": "",
             "definition": "The total number of planned participants in a study or trial.",
             "identifier": "C139172",
             "notation": "Target Sample Size",
@@ -73,6 +81,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C101302"
         },
         {
+            "alt_label": "",
             "definition": "The detailed planning of a study of the safety, efficacy, or optimum dosage schedule (if appropriate) of one or more diagnostic, therapeutic, or prophylactic drugs, devices, or techniques selected according to predetermined criteria of eligibility and observed for predefined evidence of favorable and unfavorable effects. (NCI)",
             "identifier": "C15787",
             "notation": "Trial Design",
@@ -112,6 +121,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C139020-C85826"
         },
         {
+            "alt_label": "",
             "definition": "An indication as to whether the clinical trial has been registered with a trial registry system.",
             "identifier": "C139166",
             "notation": "Trial Registration Indicator",

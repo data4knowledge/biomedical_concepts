@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "The date on which the study oversight entity grants approval.",
             "identifier": "C165862",
             "notation": "Study Oversight Entity Approval Date",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C165640-C165862"
         },
         {
+            "alt_label": "",
             "definition": "The state of the study oversight entity approval process.",
             "identifier": "C165863",
             "notation": "Study Oversight Entity Approval Status",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C165640-C165863"
         },
         {
+            "alt_label": "",
             "definition": "A characterization or classification of the group of individuals that approves, monitors and reviews biomedical research to protect the rights, safety and welfare of the study participants, by providing critical scientific, ethical, and/or regulatory oversight functions.",
             "identifier": "C165864",
             "notation": "Study Oversight Entity Type",

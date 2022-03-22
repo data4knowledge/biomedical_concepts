@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "A pathologically high percentage of blood that is forced from the heart ventricle to produce cardiac output. This is often the result of ventricular dilation due to hypertrophic cardiomyopathy. Quantitatively, the ejection fraction is considered higher than 70%.",
             "identifier": "C99512",
             "notation": "HYPERDYNAMIC",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101868-C99512"
         },
         {
+            "alt_label": "",
             "definition": "Slightly less than normal amount of blood that is forced from the heart ventricle to produce cardiac output. Quantitatively, the ejection fraction is considered between 40% to 49%.",
             "identifier": "C99507",
             "notation": "MILD DYSFUNCTION",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101868-C99507"
         },
         {
+            "alt_label": "",
             "definition": "Moderately less than normal amount of blood that is forced from the heart ventricle to produce cardiac output. Quantitatively, the ejection fraction is considered between 30% to 39%.",
             "identifier": "C99508",
             "notation": "MODERATE DYSFUNCTION",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101868-C99508"
         },
         {
+            "alt_label": "",
             "definition": "The usual amount of blood that is forced from the heart ventricle to produce cardiac output. Quantitatively, the ejection fraction is considered between 50% to 70%.",
             "identifier": "C99513",
             "notation": "NORMAL EJECTION FRACTION",
@@ -29,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101868-C99513"
         },
         {
+            "alt_label": "",
             "definition": "Severely less than normal amount of blood that is forced from the heart ventricle to produce cardiac output. Quantitatively, the ejection fraction is considered less than 30%.",
             "identifier": "C99509",
             "notation": "SEVERE DYSFUNCTION",

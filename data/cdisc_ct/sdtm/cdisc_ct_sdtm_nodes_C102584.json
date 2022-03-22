@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "A lack of response to the first cycle of therapy.",
             "identifier": "C102635",
             "notation": "FAILURE AFTER FIRST TREATMENT",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102584-C102635"
         },
         {
+            "alt_label": "",
             "definition": "A lack of response to more than one cycle of therapy.",
             "identifier": "C102636",
             "notation": "FAILURE AFTER MULTIPLE TREATMENTS",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C102584-C102636"
         },
         {
+            "alt_label": "",
             "definition": "A previous episode of failure by a patient to follow medical advice, take medication as directed, or adhere to a prescribed course of treatment.",
             "identifier": "C102698",
             "notation": "PREVIOUS PATIENT NONCOMPLIANCE",

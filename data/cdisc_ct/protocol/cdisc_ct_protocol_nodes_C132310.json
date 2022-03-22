@@ -9,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C70699"
         },
         {
+            "alt_label": "",
             "definition": "A clinical study involves research using human volunteers (also called participants) that is intended to add to medical knowledge. There are two main types of clinical studies: clinical trials (also called interventional studies) and observational studies. [ClinicalTrials.gov] See also clinical trial. (CDISC Glossary)",
             "identifier": "C15206",
             "notation": "Clinical Study",
@@ -16,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C15206"
         },
         {
+            "alt_label": "",
             "definition": "1) A research investigation involving human subjects that is designed to answer specific questions about the safety and efficacy of a biomedical intervention (drug, treatment, device) or new ways of using a known drug, treatment, or device). 2) A research study in which one or more human subjects are prospectively assigned to one or more interventions (which may include placebo or other control) to evaluate the effects of those interventions on health-related biomedical or behavioral outcomes.(1. modified from ICH E6 Glossary, Directive 2001/20/EC. 2. NIH revised definition 2015) (CDISC Glossary)",
             "identifier": "C71104",
             "notation": "Clinical Trial",
@@ -23,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C71104"
         },
         {
+            "alt_label": "",
             "definition": "A defined variable intended to reflect an outcome measure of interest that is statistically analyzed to address a particular research question. NOTE: A precise definition of an endpoint typically specifies the type of assessments made, the timing of those assessments, the assessment tools used, and possibly other details, as applicable, such as how multiple assessments within an individual are to be combined. [After BEST Resource] (CDISC Glossary)",
             "identifier": "C25212",
             "notation": "Endpoint",
@@ -30,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C25212"
         },
         {
+            "alt_label": "",
             "definition": "Consent given by a subject, or in the case of an individual that can only give assent, by a parent or legal guardian, for the participation in a clinical study only after having achieved an understanding of both the relevant medical facts and the relevant risks involved.",
             "identifier": "C16735",
             "notation": "Informed Consent",
@@ -37,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C16735"
         },
         {
+            "alt_label": "",
             "definition": "Any component that constitutes a part of a compound or mixture.",
             "identifier": "C51981",
             "notation": "Ingredient",
@@ -44,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C51981"
         },
         {
+            "alt_label": "",
             "definition": "The drug, device, therapy, or process under investigation in a clinical study that is believed to have an effect on outcomes of interest in a study. [After https://grants.nih.gov/grants/policy/faq_clinical_trial_definition.htm#5224] (CDISC-Glossary)",
             "identifier": "C25218",
             "notation": "Intervention",
@@ -51,6 +57,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C25218"
         },
         {
+            "alt_label": "",
             "definition": "Specific key measurement(s) or observation(s) used to measure the effect of experimental variables on the participants in a study, or for observational studies, to describe patterns of diseases or traits or associations with exposures, risk factors or treatment. (BRIDG)",
             "identifier": "C93407",
             "notation": "Outcome Measure",
@@ -58,6 +65,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C93407"
         },
         {
+            "alt_label": "",
             "definition": "Events or experiences that clinicians or investigators examining the impact of an intervention or exposure measure because they believe such events or experiences may be influenced by the research intervention or exposure. Outcome is a general term in that it does not necessarily relate to a planned objective of the study. (FDA)",
             "identifier": "C20200",
             "notation": "Outcome",
@@ -65,6 +73,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C20200"
         },
         {
+            "alt_label": "",
             "definition": "A standardized representation of the location of a person, business, building, or organization. (NCI)",
             "identifier": "C25407",
             "notation": "Physical Address",
@@ -72,6 +81,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C25407"
         },
         {
+            "alt_label": "",
             "definition": "A written description of a change(s) to, or formal clarification of, a protocol. (ICH E6)",
             "identifier": "C132347",
             "notation": "Protocol Amendment",
@@ -79,6 +89,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C132347"
         },
         {
+            "alt_label": "",
             "definition": "A written message providing an official assurance, account, or assertion within the study protocol.",
             "identifier": "C181183",
             "notation": "Protocol Statement",
@@ -118,6 +129,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C174447"
         },
         {
+            "alt_label": "",
             "definition": "Information regarding the means of contacting a person or group that performs a function within a clinical study.",
             "identifier": "C154705",
             "notation": "Study Contact Information",
@@ -125,6 +137,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C154705"
         },
         {
+            "alt_label": "",
             "definition": "A plan detailing how a study will be performed in order to represent the phenomenon under examination, to answer the research questions that have been asked, and informing the statistical approach.",
             "identifier": "C15320",
             "notation": "Study Design",
@@ -132,6 +145,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C15320"
         },
         {
+            "alt_label": "",
             "definition": "The act of overseeing the progress of a clinical study and of ensuring that it is conducted, recorded, and reported in accordance with the protocol, standard operating procedures (SOPs), good clinical practice (GCP), and regulatory requirement(s) where applicable. [after ICH E6 Glossary]",
             "identifier": "C142707",
             "notation": "Study Monitoring",
@@ -139,6 +153,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C142707"
         },
         {
+            "alt_label": "",
             "definition": "A group of individuals that approves, monitors and reviews biomedical research to protect the rights, safety and welfare of the study participants, by providing critical scientific, ethical, and/or regulatory oversight functions.",
             "identifier": "C93450",
             "notation": "Study Oversight Entity",
@@ -146,6 +161,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C93450"
         },
         {
+            "alt_label": "",
             "definition": "A group of individuals taken from the general population who share a set of common characteristics, such as age, sex, or health condition, precisely defined in the study protocol. This is a population to which the study results could be reasonably generalized.",
             "identifier": "C70833",
             "notation": "Study Population",
@@ -153,6 +169,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C70833"
         },
         {
+            "alt_label": "",
             "definition": "The act of the dispensing, applying, or tendering a study product to the participant. (NCI)",
             "identifier": "C177924",
             "notation": "Study Product Administration",
@@ -160,6 +177,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C177924"
         },
         {
+            "alt_label": "",
             "definition": "The material artifact(s), such as the trial product, interventional product, study drug, device, or procedure and their comparator(s), that is the focus of the study.",
             "identifier": "C174271",
             "notation": "Study Product",
@@ -167,6 +185,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C132310-C174271"
         },
         {
+            "alt_label": "",
             "definition": "The formal plan of an experiment or research activity, including the objective, rationale, design, materials and methods for the conduct of the study, intervention description, and method of data analysis.",
             "identifier": "C70817",
             "notation": "Study Protocol",

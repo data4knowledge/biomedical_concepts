@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "Participants receive one of two or more alternative intervention(s) during the initial epoch of the study and receive other intervention(s) during the subsequent epoch(s) of the study.",
             "identifier": "C82637",
             "notation": "CROSSOVER",
@@ -16,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89967-C90475"
         },
         {
+            "alt_label": "",
             "definition": "Two or more interventions, each alone or in combination, are evaluated in parallel against a control group. This study design allows for the comparison of active drug to placebo, presence of drug-drug interactions, and comparison of active drugs against each other.",
             "identifier": "C82638",
             "notation": "FACTORIAL",
@@ -23,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89967-C82638"
         },
         {
+            "alt_label": "",
             "definition": "A type of crossover study in which the subject receives every treatment during the study. The treatments are administered in a prespecified order in such a way that each subject receives each treatment and each treatment is in each study phase.",
             "identifier": "C90402",
             "notation": "LATIN SQUARE",
@@ -30,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C89967-C90402"
         },
         {
+            "alt_label": "",
             "definition": "Participants are assigned to one of two or more treatment groups in parallel for the duration of the study.",
             "identifier": "C82639",
             "notation": "PARALLEL",

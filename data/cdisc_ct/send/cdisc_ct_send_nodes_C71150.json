@@ -97,6 +97,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C102592"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V1 to V6, I and aVL, which is suggestive of acute myocardial infarction involving the anterior and anterolateral walls of the left ventricle.",
             "identifier": "C106496",
             "notation": "ACUTE EXTENSIVE ANTERIOR WALL MYOCARDIAL INFARCTION",
@@ -168,6 +169,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C102642"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which all precordial electrodes are disconnected resulting in missing waveforms (flat line) of all leads V1 - V6.",
             "identifier": "C114159",
             "notation": "ALL PRECORDIAL ELECTRODES DISCONNECTED",
@@ -199,6 +201,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C35304"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which one or more leads display extraneous signals which do not represent cardiac electrical activity.",
             "identifier": "C114162",
             "notation": "ARTIFACT",
@@ -206,6 +209,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114162"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding showing no cardiac electrical activity on the ECG for the entire duration of the recording.",
             "identifier": "C116130",
             "notation": "ASYSTOLE",
@@ -213,6 +217,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C116130"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of a sinus beat followed by a premature atrial complex for three or more consecutive cycles; a regularly irregular rhythm of normal and abnormal P waves in a 1-1 ratio.",
             "identifier": "C102596",
             "notation": "ATRIAL BIGEMINY",
@@ -252,6 +257,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C111094"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of an atrial tachycardia which does not display 1:1 AV conduction.",
             "identifier": "C119249",
             "notation": "ATRIAL TACHYCARDIA WITH AV BLOCK",
@@ -315,6 +321,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C62261"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which the isoelectric line in one or more leads is vertically displaced resulting in low frequency upward and downward movements of the signal with varying amplitudes.",
             "identifier": "C114147",
             "notation": "BASELINE WANDER",
@@ -330,6 +337,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C71046"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding suggestive of enlargement or thickening of both ventricles, with a combination of findings which are related to LVH and RVH, such as voltage criteria for LVH in the presence of marked right axis deviation.",
             "identifier": "C106502",
             "notation": "BIVENTRICULAR HYPERTROPHY",
@@ -361,6 +369,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C111120"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of complete or incomplete right bundle branch block accompanied by ST elevation in leads V1-V3. This may be noted at rest or can be provoked by medication challenge.",
             "identifier": "C106503",
             "notation": "BRUGADA SYNDROME PATTERN",
@@ -368,6 +377,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C106503"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding, in the absence of left ventricular hypertrophy (LVH) and left bundle branch block pattern on ECG, of either a) new (or presumed new) ST elevation at the J point in two contiguous leads with the following cut-points: greater than or equal to 0.1 mV in all leads other than leads V2-V3 where the following cut points apply: greater than or equal to 0.2 mV in men greater than or equal to 40 years; greater than or equal to 0.25 mV in men less than 40 years, or greater than or equal to 0.15 mV in women; or b) new (or presumed new) horizontal or down-sloping ST depression greater than or equal to 0.05 mV in two contiguous leads and/or T inversion greater than or equal to 0.1 mV in two contiguous leads with prominent R wave or R/S ratio greater than 1. (Thygesen K, Alpert JS, Jaffe AS, Simoons ML, et al.; Joint ESC/ACCF/AHA/WHF Task Force for Universal Definition of Myocardial Infarction. Third universal definition of myocardial infarction. J Am Coll Cardiol. 2012 Oct 16;60(16):1581-98).",
             "identifier": "C116138",
             "notation": "CV ENDPOINTS ISCHEMIC ECG CHANGES",
@@ -407,6 +417,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C102629"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which the precordial electrodes have been placed over the right chest and record a right sided ECG.",
             "identifier": "C114175",
             "notation": "ECG ACQUIRED WITH PRECORDIAL ELECTRODES PLACED ON RIGHT CHEST",
@@ -414,6 +425,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114175"
         },
         {
+            "alt_label": "",
             "definition": "A digital electrocardiographic recording which is corrupted (i.e. ECG signal cannot be restored) such that measurements and/or interpretation cannot be performed.",
             "identifier": "C114181",
             "notation": "ECG EVALUATION NOT PERFORMED DUE TO CORRUPTED DIGITAL ECG FILE",
@@ -421,6 +433,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114181"
         },
         {
+            "alt_label": "",
             "definition": "A printed electrocardiographic recording with poor printout quality (e.g. a faded paper ECG tracing or ECG with inconsistent printing speed) such that measurements and/or interpretation cannot be performed.",
             "identifier": "C114180",
             "notation": "ECG EVALUATION NOT PERFORMED DUE TO POOR QUALITY OF PRINTED ECG",
@@ -428,6 +441,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114180"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which measurements and/or interpretation are not performed because the ECG amplitude gain and/or recording speed are not known.",
             "identifier": "C114178",
             "notation": "ECG EVALUATION NOT PERFORMED DUE TO UNKNOWN ECG AMPLITUDE GAIN OR RECORDING SPEED",
@@ -459,6 +473,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C71035"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of pathologic Q waves in leads V1 to V6, I and aVL, which is suggestive of myocardial infarction involving the anterior and anterolateral walls of the left ventricle.",
             "identifier": "C106520",
             "notation": "EXTENSIVE ANTERIOR WALL MYOCARDIAL INFARCTION",
@@ -490,6 +505,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C50599"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording which is limited in duration or which does not display all of the expected leads.",
             "identifier": "C114167",
             "notation": "INCOMPLETE ECG",
@@ -505,6 +521,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C71047"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which measurements (particularly of QRS amplitudes) and/or interpretations are not performed because QRS complexes have been truncated.",
             "identifier": "C114179",
             "notation": "INCOMPLETE MEASUREMENTS DUE TO TRUNCATION OF QRS COMPLEXES",
@@ -520,6 +537,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C71048"
         },
         {
+            "alt_label": "",
             "definition": "A digital electrocardiographic recording which was digitized from paper ECG tracings and which does not contain all leads present on the original paper printout.",
             "identifier": "C114169",
             "notation": "INCOMPLETELY DIGITIZED ECG LEAD(S)",
@@ -527,6 +545,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114169"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which the ECG signal is not displayed at the indicated recording speed and/or amplitude resolution.",
             "identifier": "C114168",
             "notation": "INCORRECTLY SCALED ECG",
@@ -550,6 +569,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C35398"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which fewer than the required number of cardiac complexes are available for measurement and/or interpretation due to a shorter than planned recording or due to cardiac complexes which are present but are not suitable for measurement and/or interpretation.",
             "identifier": "C114177",
             "notation": "INSUFFICIENT NUMBER OF BEATS TO COMPLETELY EVALUATE ECG",
@@ -573,6 +593,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C62271"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording for which the displayed leads do not represent the individual's true ECG lead information.",
             "identifier": "C114171",
             "notation": "INVALID ECG WAVEFORMS",
@@ -612,6 +633,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C116129"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of a junctional rhythm that arises as a physiologic response to extreme slowing or arrest of sinus node activity. In this setting, a faster junctional rhythm may be a normal response to a very slow or absent sinus rate.",
             "identifier": "C135393",
             "notation": "JUNCTIONAL ESCAPE RHYTHM",
@@ -715,6 +737,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C71076"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which one or more of the limb electrodes are disconnected resulting in missing waveforms (often flat lines) of the respective leads.",
             "identifier": "C114151",
             "notation": "LIMB ELECTRODE(S) DISCONNECTED",
@@ -746,6 +769,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C71078"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of small QRS amplitudes (less than 500 microvolts) in all limb leads.",
             "identifier": "C116133",
             "notation": "LOW VOLTAGE - LIMB LEADS ONLY",
@@ -761,6 +785,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C71050"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording with intermittent mid to high frequency artifact in one or more leads due to muscular tremor or movement rather than cardiac activity.",
             "identifier": "C114148",
             "notation": "MUSCLE TREMOR",
@@ -840,6 +865,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C102731"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding in leads V1 or V2 of an initial R wave duration greater than or equal to 40 ms, R wave greater than S wave, and upright T wave, which is suggestive of myocardial infarction of the posterior wall of the left ventricle, and which is new compared to prior ECGs. Evidence of inferior or lateral myocardial infarction is usually also present.",
             "identifier": "C106548",
             "notation": "NEW POSTERIOR WALL MYOCARDIAL INFARCTION",
@@ -855,6 +881,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C102739"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording that displays flat lines (no waveforms are visible) in all leads present.",
             "identifier": "C114163",
             "notation": "NO ECG WAVEFORMS PRESENT",
@@ -870,6 +897,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C71080"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of Q waves which are insufficient for the diagnosis of myocardial infarction. In such cases a myocardial infarction may be suspected, even though ECG criteria are not met.",
             "identifier": "C116134",
             "notation": "NON-DIAGNOSTIC Q WAVES",
@@ -901,6 +929,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C71053"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of a P wave that does not conduct to the ventricle or result in ventricular activation.",
             "identifier": "C135394",
             "notation": "NONCONDUCTED P WAVE PHYSIOLOGY NOT DEFINED",
@@ -1012,6 +1041,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C101597"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding, in the presence of an old or age indeterminate inferior wall myocardial infarction, of Q waves greater than or equal to 40 ms in duration in the right ventricular leads V4R through V6R.",
             "identifier": "C102692",
             "notation": "OLD OR AGE UNDETERMINED RIGHT VENTRICULAR MYOCARDIAL INFARCTION",
@@ -1019,6 +1049,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C102692"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which one or more electrodes are incorrectly placed but further details are not provided.",
             "identifier": "C114176",
             "notation": "OTHER INCORRECT ELECTRODE PLACEMENT",
@@ -1090,6 +1121,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C34902"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of an RR interval with duration greater than 3.0 seconds, regardless of the underlying rhythm.",
             "identifier": "C119251",
             "notation": "PAUSE GREATER THAN 3.0 SECONDS",
@@ -1097,6 +1129,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C119251"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of an RR interval which exceeds a predefined duration threshold, regardless of the underlying rhythm.",
             "identifier": "C119250",
             "notation": "PAUSE",
@@ -1104,6 +1137,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C119250"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording that does not show proper quality for reasons that are not otherwise described.",
             "identifier": "C114172",
             "notation": "POOR QUALITY ECG",
@@ -1143,6 +1177,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C34940"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which the electrode for lead V1 is disconnected resulting in missing waveforms (flat line) for lead V1.",
             "identifier": "C114153",
             "notation": "PRECORDIAL ELECTRODE V1 DISCONNECTED",
@@ -1150,6 +1185,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114153"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which the electrode for lead V2 is disconnected resulting in missing waveforms (flat line) for lead V2.",
             "identifier": "C114154",
             "notation": "PRECORDIAL ELECTRODE V2 DISCONNECTED",
@@ -1157,6 +1193,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114154"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which the electrode for lead V3 is disconnected resulting in missing waveforms (flat line) for lead V3.",
             "identifier": "C114155",
             "notation": "PRECORDIAL ELECTRODE V3 DISCONNECTED",
@@ -1164,6 +1201,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114155"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which the electrode for lead V4 is disconnected resulting in missing waveforms (flat line) for lead V4.",
             "identifier": "C114156",
             "notation": "PRECORDIAL ELECTRODE V4 DISCONNECTED",
@@ -1171,6 +1209,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114156"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which the electrode for lead V5 is disconnected resulting in missing waveforms (flat line) for lead V5.",
             "identifier": "C114157",
             "notation": "PRECORDIAL ELECTRODE V5 DISCONNECTED",
@@ -1178,6 +1217,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114157"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which the electrode for lead V6 is disconnected resulting in missing waveforms (flat line) for lead V6.",
             "identifier": "C114158",
             "notation": "PRECORDIAL ELECTRODE V6 DISCONNECTED",
@@ -1185,6 +1225,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114158"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which one or more precordial electrodes are placed incorrectly with respect to the standard chest electrode positions resulting in improper representation of the affected leads.",
             "identifier": "C114160",
             "notation": "PRECORDIAL ELECTRODE(S) POSITIONED INCORRECTLY",
@@ -1272,6 +1313,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C71034"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of a prolonged ST segment, resulting in a long QT interval, without lengthening of the T wave duration.",
             "identifier": "C116137",
             "notation": "PROLONGED ST SEGMENT",
@@ -1431,6 +1473,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C102709"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding in which the QT interval corrected for heart rate using Bazett's formula is shortened. Thresholds for different age, gender, and patient populations exist.",
             "identifier": "C112402",
             "notation": "SHORT QTCB",
@@ -1438,6 +1481,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C112402"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding in which the QT interval corrected for heart rate using Fridericia's formula is shortened. Thresholds for different age, gender, and patient populations exist.",
             "identifier": "C112403",
             "notation": "SHORT QTCF",
@@ -1445,6 +1489,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C112403"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of a short or absent ST segment, resulting in a short QT interval, without changes in T wave morphology.",
             "identifier": "C116136",
             "notation": "SHORT ST SEGMENT",
@@ -1524,6 +1569,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C50540"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of a supraventricular QRS complex followed by a premature supraventricular complex for 3 or more consecutive cycles; a regularly irregular rhythm of normal and abnormal QRS complexes in a 1-1 ratio.",
             "identifier": "C161046",
             "notation": "SUPRAVENTRICULAR BIGEMINY",
@@ -1531,6 +1577,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C161046"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding in which two premature atrial complexes occur sequentially.",
             "identifier": "C119252",
             "notation": "SUPRAVENTRICULAR COUPLET",
@@ -1554,6 +1601,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C142246"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of three or more consecutive beats of supraventricular origin without reference to rate.",
             "identifier": "C120618",
             "notation": "SUPRAVENTRICULAR RUN",
@@ -1569,6 +1617,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C111100"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of two supraventricular QRS complexes followed by a premature supraventricular complex for 3 or more consecutive cycles; a regularly irregular rhythm of normal and abnormal QRS complexes in a 2-1 ratio.",
             "identifier": "C161047",
             "notation": "SUPRAVENTRICULAR TRIGEMINY",
@@ -1576,6 +1625,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C161047"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which an interchange of one or more limb lead electrodes is suspected, but for which an interpretation is performed as though the lead placement is correct.",
             "identifier": "C114173",
             "notation": "SUSPECT LIMB ELECTRODES REVERSED, INTERPRETATION ASSUMES NO REVERSAL",
@@ -1583,6 +1633,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114173"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic recording in which an interchange of one or more limb lead electrodes is suspected, and for which an interpretation is performed as though the leads have in fact been interchanged.",
             "identifier": "C114174",
             "notation": "SUSPECT LIMB ELECTRODES REVERSED, INTERPRETATION ASSUMES REVERSAL",
@@ -1662,6 +1713,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C106579"
         },
         {
+            "alt_label": "",
             "definition": "A statement indicating the inability to digitize a paper ECG.",
             "identifier": "C114170",
             "notation": "UNABLE TO DIGITIZE ECG LEADS",
@@ -1669,6 +1721,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C114170"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of a cardiac rhythm whose mechanism cannot be determined from the ECG.",
             "identifier": "C116131",
             "notation": "UNDETERMINED RHYTHM",
@@ -1676,6 +1729,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C116131"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of a rhythm which does not originate in the ventricles or His Purkinje system, but whose specific electrophysiologic mechanism cannot be determined from the ECG. The QRS complexes are typically narrow, but aberration or preexcitation may be present.",
             "identifier": "C120607",
             "notation": "UNDETERMINED SUPRAVENTRICULAR RHYTHM",
@@ -1731,6 +1785,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C102728"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of three or more consecutive beats of ventricular origin without reference to rate.",
             "identifier": "C120621",
             "notation": "VENTRICULAR RUN",
@@ -1770,6 +1825,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C71150-C71055"
         },
         {
+            "alt_label": "",
             "definition": "An electrocardiographic finding of large QRS amplitudes which may indicate left ventricular hypertrophy, but in the absence of any of the secondary findings which are typical of this diagnosis (left atrial enlargement, left axis deviation, or typical pattern of ST depression and T wave inversion).",
             "identifier": "C130067",
             "notation": "VOLTAGE CRITERIA SUGGESTING LEFT VENTRICULAR HYPERTROPHY, WITHOUT SECONDARY ECG FINDINGS",

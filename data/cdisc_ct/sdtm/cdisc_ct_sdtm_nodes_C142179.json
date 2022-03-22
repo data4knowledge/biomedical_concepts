@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "The subject, who met eligibility criteria, was assigned to an arm but was not treated. (NCI)",
             "identifier": "C142238",
             "notation": "ASSIGNED, NOT TREATED",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C142179-C142238"
         },
         {
+            "alt_label": "",
             "definition": "The subject, who met eligibility criteria, was not assigned to an arm and was not treated. (NCI)",
             "identifier": "C142239",
             "notation": "NOT ASSIGNED",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C142179-C142239"
         },
         {
+            "alt_label": "",
             "definition": "The potential subject who does not meet eligibility criteria during the screening period.",
             "identifier": "C49628",
             "notation": "SCREEN FAILURE",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C142179-C49628"
         },
         {
+            "alt_label": "",
             "definition": "The subject, who met eligibility criteria, was assigned to an arm but received treatment not associated with any of the planned arms.",
             "identifier": "C142240",
             "notation": "UNPLANNED TREATMENT",

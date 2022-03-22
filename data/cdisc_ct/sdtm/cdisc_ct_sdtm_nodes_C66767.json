@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "An indication that a medication schedule was modified by addition; either by changing the frequency, strength or amount. (NCI)",
             "identifier": "C49503",
             "notation": "DOSE INCREASED",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C49503"
         },
         {
+            "alt_label": "",
             "definition": "An indication that a medication schedule was maintained. (NCI)",
             "identifier": "C49504",
             "notation": "DOSE NOT CHANGED",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C49504"
         },
         {
+            "alt_label": "",
             "definition": "An indication that the administration of a medication was modified by reducing the rate at which the dose was given, without reducing the total dose administered.",
             "identifier": "C150826",
             "notation": "DOSE RATE REDUCED",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C150826"
         },
         {
+            "alt_label": "",
             "definition": "An indication that a medication schedule was modified by subtraction, either by changing the frequency, strength or amount. (NCI)",
             "identifier": "C49505",
             "notation": "DOSE REDUCED",
@@ -29,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C49505"
         },
         {
+            "alt_label": "",
             "definition": "An indication that a medication schedule was modified by temporarily terminating a prescribed regimen of medication. (NCI)",
             "identifier": "C49501",
             "notation": "DRUG INTERRUPTED",
@@ -36,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C66767-C49501"
         },
         {
+            "alt_label": "",
             "definition": "An indication that a medication schedule was modified through termination of a prescribed regimen of medication. (NCI)",
             "identifier": "C49502",
             "notation": "DRUG WITHDRAWN",

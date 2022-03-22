@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "Conductor failure manifests by high lead impedance either absolutely (above manufacturer's product specifications) or by a significant increase from previously stable chronic values.",
             "identifier": "C99924",
             "notation": "CONDUCTOR FAILURE",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C99924"
         },
         {
+            "alt_label": "",
             "definition": "The cardiac lead is not performing as expected with issues such as oversensing with or without shock or ATP, or failed shocks or inadequate DFT safety margins defibrillation activity.",
             "identifier": "C99922",
             "notation": "DEFIBRILLATION ISSUES",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C99922"
         },
         {
+            "alt_label": "",
             "definition": "This manifests as stimulation by the lead of non-cardiac structures such as the diaphragm, chest wall, or pectoral muscle.",
             "identifier": "C99951",
             "notation": "EXTRACARDIAC STIMULATION",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C99951"
         },
         {
+            "alt_label": "",
             "definition": "The cardiac lead failed to administer a shock and had an inadequate defibrillator threshold safety margin.",
             "identifier": "C99954",
             "notation": "FAILED TO SHOCK WITH INADEQUATE DFT SAFETY MARGIN",
@@ -29,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C99954"
         },
         {
+            "alt_label": "",
             "definition": "Failure to capture manifests as a high pacing threshold that results in either intermittent failure to capture at maximal programmed output or excessive battery drain leading to premature battery exhaustion.",
             "identifier": "C99953",
             "notation": "FAILURE TO CAPTURE WITH ACCEPTABLE SAFETY MARGIN",
@@ -36,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C99953"
         },
         {
+            "alt_label": "",
             "definition": "Failure to pace manifests as absence of pacemaker stimulation artifacts on electrocardiographic recordings despite rates below pacemaker programmed rate.",
             "identifier": "C99528",
             "notation": "FAILURE TO PACE",
@@ -43,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C99528"
         },
         {
+            "alt_label": "",
             "definition": "Insulation failure manifests as low lead impedance either absolutely (below manufacturer's product specifications) or by a significant decrease from previously stable chronic values.",
             "identifier": "C99932",
             "notation": "INSULATION FAILURE",
@@ -50,6 +57,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C99932"
         },
         {
+            "alt_label": "",
             "definition": "The movement (macroscopic or microscopic) of an existing lead within the heart or vascular tree away from the original implantation site.",
             "identifier": "C100034",
             "notation": "LEAD DISLODGEMENT REQUIRING REPOSITION/REOPERATION",
@@ -57,6 +65,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C100034"
         },
         {
+            "alt_label": "",
             "definition": "This manifests as sensing of non-cardiac depolarization signals that met arrhythmia detection criteria and elicited programmed tachyarrhythmia therapy.",
             "identifier": "C99927",
             "notation": "OVERSENSING WITH SHOCK OR ATP",
@@ -64,6 +73,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C99927"
         },
         {
+            "alt_label": "",
             "definition": "This manifests as sensing of non-cardiac depolarization signals that did not meet arrhythmia detection criteria and do not elicit programmed tachyarrhythmia therapy.",
             "identifier": "C99928",
             "notation": "OVERSENSING WITHOUT SHOCK OR ATP",
@@ -71,6 +81,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C99928"
         },
         {
+            "alt_label": "",
             "definition": "Oversensing manifests as sensing of electrical signals not related to cardiac depolarization of the lead chamber that cannot be resolved acceptably by device reprogramming.",
             "identifier": "C99926",
             "notation": "OVERSENSING",
@@ -78,6 +89,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C99926"
         },
         {
+            "alt_label": "",
             "definition": "The pacing and/or sensing problem associated with high impedance due to a poor connection between a lead and generator caused by a loose set screw.",
             "identifier": "C99929",
             "notation": "SET SCREW PROBLEM",
@@ -85,6 +97,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C101862-C99929"
         },
         {
+            "alt_label": "",
             "definition": "Undersensing manifests as failure to sense appropriate cardiac depolarizations that cannot be resolved with reprogramming.",
             "identifier": "C99930",
             "notation": "UNDERSENSING",

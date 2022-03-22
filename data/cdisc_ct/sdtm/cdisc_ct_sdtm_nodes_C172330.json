@@ -17,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C172330-C172582"
         },
         {
+            "alt_label": "",
             "definition": "An AUC calculation method that utilizes the linear trapezoidal interpolation rule for the entire concentration curve.",
             "identifier": "C172580",
             "notation": "LINEAR TRAPEZOIDAL METHOD",
@@ -24,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C172330-C172580"
         },
         {
+            "alt_label": "",
             "definition": "An AUC calculation method that utilizes linear trapezoidal interpolation between two points any time the measured concentration increases and logarithmic trapezoidal interpolation between two points any time the concentration decreases over the entire concentration curve.",
             "identifier": "C172581",
             "notation": "LINEAR UP LOG DOWN METHOD",

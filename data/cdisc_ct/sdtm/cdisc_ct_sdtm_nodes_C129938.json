@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "An ultrasound imaging setting that uses a probe with two 2-dimensional (2D) planes set perpendicularly to each other, allowing for better detection and localization of objects/structures.",
             "identifier": "C130058",
             "notation": "2-DIMENSIONAL BIPLANE MODE",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130058"
         },
         {
+            "alt_label": "",
             "definition": "An ultrasound imaging setting that uses a linear pattern of beams to produce a standard, 2-dimensional (2-D) image.",
             "identifier": "C130059",
             "notation": "2-DIMENSIONAL SINGLE PLANE MODE",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130059"
         },
         {
+            "alt_label": "",
             "definition": "An ultrasound imaging setting that reconstructs planar ultrasound data into three dimensional images of the structure being scanned.",
             "identifier": "C130060",
             "notation": "3-DIMENSIONAL MODE",
@@ -62,6 +65,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C129938-C130065"
         },
         {
+            "alt_label": "",
             "definition": "An ultrasound imaging setting that uses intermittent Doppler signals to measure velocity of tissue movement.",
             "identifier": "C130066",
             "notation": "TISSUE DOPPLER MODE",

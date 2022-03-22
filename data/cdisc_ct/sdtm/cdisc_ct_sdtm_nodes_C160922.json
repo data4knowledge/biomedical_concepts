@@ -9,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C172486"
         },
         {
+            "alt_label": "",
             "definition": "A formula to estimate glomerular filtration rate that takes into account sex, age, race, and serum creatinine (SCr). eGFR(mL/min/1.73 m2)=141 x min(SCr/k, 1)^a x max(SCr/k, 1)^-1.209 x 0.993^Age x 1.018 [if female] x 1.159 [if black] where: SCr is in mg/dL; k=0.7 for Female and 0.9 for Male; a=-0.329 for female and -0.411 for male. (Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF, Feldman HI, Kusek JW, Eggers P, Van Lente F, Greene T. A new equation to estimate glomerular filtration rate. Ann Intern Med. 2009;150:604-612.)",
             "identifier": "C161338",
             "notation": "CKD-EPI CREATININE FORMULA",
@@ -16,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161338"
         },
         {
+            "alt_label": "",
             "definition": "A formula to estimate glomerular filtration rate that takes into account sex, age, race, serum creatinine (SCr) and serum cystatin C (Scys). eGFR(mL/min/1.73 m2)=135 x min(SCr/k, 1)a x max(SCr/k, 1)-0.601 x min(Scys/0.8, 1)-0.375 x max(Scys/0.8, 1)-0.711 x 0.995^Age x 0.969 [if female] x 1.08 [if black]. (Inker LA, Schmid CH, Tighiouart H, et al. Estimating glomerular filtration rate from serum creatinine and cystatin C. N Engl J Med. 2012;367(1):20-29.)",
             "identifier": "C161340",
             "notation": "CKD-EPI CREATININE-CYSTATIN C FORMULA",
@@ -23,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161340"
         },
         {
+            "alt_label": "",
             "definition": "A formula to estimate glomerular filtration rate that takes into account sex, age, race, and serum cystatin C (Scys). eGFR(mL/min/1.73 m2)=133 x min(Scys/0.8, 1)^-0.499 x max (Scys/0.8, 1)^-1.328 x 0.996^Age x 0.932 [if female]. (Inker LA, Schmid CH, Tighiouart H, et al. Estimating glomerular filtration rate from serum creatinine and cystatin C. N Engl J Med. 2012;367(1):20-29.)",
             "identifier": "C161339",
             "notation": "CKD-EPI CYSTATIN C FORMULA",
@@ -38,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161341"
         },
         {
+            "alt_label": "",
             "definition": "A formula to estimate creatinine clearance that takes into account sex, age, weight, and serum creatinine (SCr). CCr=(140 - Age) x Wgt (Kg) / 72xCrt (mg/dL) x 1 (if M) or 0.85 (if F), for conventional units. CCr=(140 - Age) x Wgt (Kg) / 72xCrt (MCMOL/L) x 88.4 x 1 (if M) or 0.85 (if F) [If Wgt is in lbs; Wgt (Kg) = Wgt (lbs) x 0.45], for SI units. (Cockcroft, D.W. and M.H. Gault. Prediction of creatinine clearance from serum creatinine. Nephron. 1976. 16(1):31-41.)",
             "identifier": "C161342",
             "notation": "COCKCROFT-GAULT FORMULA",
@@ -45,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161342"
         },
         {
+            "alt_label": "",
             "definition": "A formula that estimates liver pathology through the assessment of a six-parameter blood test, taking into account subject age. Fibrometer regression function = -0.007 platelets (Giga/L) - 0.049 prothrombin index (%) + 0.012 aspartate aminotransferase (UI/L) + 0.005 alpha2-macroglobulin (mg/dL) + 0.021 hyaluronate (g/L) - 0.270 urea (mmol/L) + 0.027 age (years) + 3.718. (Cales P, Oberti F, Michalak S et al. A novel panel of blood markers to assess the degree of liver fibrosis. Hepatology. 2005 Dec;42(6):1373-81.)",
             "identifier": "C172489",
             "notation": "FIBROMETER FORMULA",
@@ -92,6 +97,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C172488"
         },
         {
+            "alt_label": "",
             "definition": "A formula to estimate glomerular filtration rate in Japanese subjects that takes into account age, sex, and serum creatinine. eGFR (mL/min/1.73 m2) = 0.741 x SCr^-1.154 x 175 x Age^-0.203 x 0.742 (if female). (Enyu Imai, Masaru Horio, Kosaku Nitta, Kunihiro Yamagata, Kunitoshi Iseki, Yusuke Tsukamoto, Sadayoshi Ito, Hirofumi Makino, Akira Hishida, Seiichi Matsuo. Modification of the Modification of Diet in Renal Disease (MDRD) Study Equation for Japan. Am J Kidney Dis. 2007 Dec;50(6):927-37.)",
             "identifier": "C181401",
             "notation": "IDMS-MDRD STUDY EQUATION WITH JSN-CKDI COEFFICIENT 0.741 IMAI 2007",
@@ -99,6 +105,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C181401"
         },
         {
+            "alt_label": "",
             "definition": "A formula to estimate glomerular filtration rate that takes into account age, sex, race, and serum creatinine (Scr). eGFR (mL/min/1.73 m2) = 186 x (Scr)^-1.154 x (Age)^-0.203 x (0.742 if female) x (1.210 if African American). (Levey AS, Bosch JP, Lewis JB, Greene T, Rogers N, Roth D. A more accurate method to estimate glomerular filtration rate from serum creatinine: a new prediction equation. Modification of Diet in Renal Disease Study Group. Ann Intern Med. 1999;130:461-70.)",
             "identifier": "C161343",
             "notation": "MDRD 4 VARIABLE FORMULA",
@@ -106,6 +113,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161343"
         },
         {
+            "alt_label": "",
             "definition": "A formula to estimate glomerular filtration rate that takes into account age, sex, race, serum creatinine and serum urea nitrogen. eGFR (mL/min/1.73 m = 270 x creatinine (mg/dl)^-1.007 x age^-0.180 x 1.178 (if black) x 0.762 (if female) x serum urea nitrogen^-0.169. (Levey AS, Greene T, Kusek JW, Beck GJ, MDRD study group. A simplified equation to predict glomerular filtration rate from serum creatinine. J Am Soc Nephrol 2000; 11: A0828.)",
             "identifier": "C161344",
             "notation": "MDRD 5 VARIABLE FORMULA",
@@ -113,6 +121,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161344"
         },
         {
+            "alt_label": "",
             "definition": "A formula to estimate glomerular filtration rate that takes into account age, sex, race, serum creatinine, serum urea nitrogen, and albumin. eGFR (mL/min/1.73 m2) = 170 x (SCr/88.4)^-0.999 x age^-0.176 x (SU x 2.78)^-0.170 x albumin^0.318 x (0.762, if female) x (1.18, if African American). (Levey AS, Greene T, Kusek JW, Beck GJ, MDRD study group. A simplified equation to predict glomerular filtration rate from serum creatinine. J Am Soc Nephrol 2000; 11: A0828.)",
             "identifier": "C161345",
             "notation": "MDRD 6 VARIABLE FORMULA",
@@ -128,6 +137,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C161346"
         },
         {
+            "alt_label": "",
             "definition": "A formula to estimate glomerular filtration rate in Japanese subjects that takes into account age, sex, and serum creatinine. eGFR (ml/min/1.73m2) = 194 x PD93 power^-1.094 x Age power^- 0.287 x Sex; where PD93 = Serum Cr (mg/dL), Sex = 1.00 for male and 0.739 for female. (Imai E, Horio M, Nitta K, Yamagata K, Iseki K, Tsukamoto Y, Ito S, Makino H, Hishida A, Matsuo S. Modification of the Modification of Diet in Renal Disease (MDRD) Study equation for Japan. Am J Kidney Dis. 2007 Dec;50(6):927-37.)",
             "identifier": "C161347",
             "notation": "MDRD ENZYMATIC JAPANESE FORMULA",
@@ -151,6 +161,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C160922-C172487"
         },
         {
+            "alt_label": "",
             "definition": "A formula to estimate glomerular filtration rate in children that takes into account age, height, and serum creatinine. eGFR (mL/min/1.73 m2) = k x Height (cm)/Serum creatinine (mg/dL) where k=0.33 for pre-term babies, 0.45 for full-term babies and 0.55 for girls ages 1-13 or 0.70 for boys ages 1-13. (Schwartz GJ, Gauthier B. A simple estimate of glomerular filtration rate in adolescent boys. J Pediatr. 1985 Mar;106(3):522-6.)",
             "identifier": "C161348",
             "notation": "SCHWARTZ METHOD FOR CHILDREN FORMULA",

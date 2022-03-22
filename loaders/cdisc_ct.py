@@ -110,7 +110,7 @@ for item in final_results['48']:
             nodes["API_SOURCE"].append(source)
             relationships["FROM_SOURCE"].append({ "from": cs_concept["uri"], "to": source["uri"] })
             for cl in body['codelists']:
-                cl_concept = { "uri": "%s%s/%s" % (instance_ns, k.lower(), cl['conceptId']) }
+                cl_concept = { "uri": "%s%s/%s" % (instance_ns, k.lower(), cl['conceptId']), "alt_label": "" }
                 cl_concept["label"] = cl['name']
                 if "extensible" in cl:
                     cl_concept["extensible"] = cl['extensible']
@@ -134,7 +134,7 @@ for item in final_results['48']:
             for cl in body['codelists']: 
                 nodes = { "SKOS_CONCEPT": [] }
                 for cli in cl['terms']:
-                    cli_concept = { "uri": "%s%s/%s-%s" % (instance_ns, k.lower(), cl['conceptId'], cli['conceptId']) }
+                    cli_concept = { "uri": "%s%s/%s-%s" % (instance_ns, k.lower(), cl['conceptId'], cli['conceptId']), "alt_label": "" }
                     cli_concept["notation"] = cli['submissionValue']
                     cli_concept["definition"] = cli['definition']
                     cli_concept["identifier"] = cli['conceptId']

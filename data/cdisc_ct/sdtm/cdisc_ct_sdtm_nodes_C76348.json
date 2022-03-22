@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "Marriage contract has been declared null and to not have existed. (HL7)",
             "identifier": "C76240",
             "notation": "ANNULLED",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C76240"
         },
         {
+            "alt_label": "",
             "definition": "Marriage contract has been declared dissolved and inactive. (HL7)",
             "identifier": "C51776",
             "notation": "DIVORCED",
@@ -23,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C53262"
         },
         {
+            "alt_label": "",
             "definition": "Temporary order issued during the course of litigation. (HL7)",
             "identifier": "C76241",
             "notation": "INTERLOCUTORY",
@@ -30,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C76241"
         },
         {
+            "alt_label": "",
             "definition": "A person living apart from his/her spouse by legal arrangement. (HL7)",
             "identifier": "C51777",
             "notation": "LEGALLY SEPARATED",
@@ -37,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C51777"
         },
         {
+            "alt_label": "",
             "definition": "A current marriage contract is active. (HL7)",
             "identifier": "C51773",
             "notation": "MARRIED",
@@ -44,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C51773"
         },
         {
+            "alt_label": "",
             "definition": "No marriage contract has ever been entered. (HL7)",
             "identifier": "C51774",
             "notation": "NEVER MARRIED",
@@ -51,6 +57,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C51774"
         },
         {
+            "alt_label": "",
             "definition": "More than 1 current spouse. (HL7)",
             "identifier": "C76242",
             "notation": "POLYGAMOUS",
@@ -58,6 +65,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C76242"
         },
         {
+            "alt_label": "",
             "definition": "A person who is separated from their spouse, whether or not there is a legal arrangement.",
             "identifier": "C156541",
             "notation": "SEPARATED",
@@ -65,6 +73,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/sdtm/C76348-C156541"
         },
         {
+            "alt_label": "",
             "definition": "The spouse has died. (HL7)",
             "identifier": "C51775",
             "notation": "WIDOWED",

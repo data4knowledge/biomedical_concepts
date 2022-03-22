@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "A type of randomization schema in which the group assignment probability of a participant is adjusted based on the group assignments of those participants already randomized in the trial.",
             "identifier": "C147126",
             "notation": "Adaptive Randomization",
@@ -32,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147069-C147144"
         },
         {
+            "alt_label": "",
             "definition": "A type of block randomization in which participants are stratified into groups based on prognostic variables and then randomized into balanced treatment groups.",
             "identifier": "C147145",
             "notation": "Stratified Randomization",
@@ -39,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C147069-C147145"
         },
         {
+            "alt_label": "",
             "definition": "A type of randomization schema in which unequal numbers of participants are purposely assigned to multiple treatment groups.",
             "identifier": "C142743",
             "notation": "Unequal Randomization",

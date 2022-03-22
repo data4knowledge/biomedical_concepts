@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "A type of negative control primarily used in inhalation studies in which only air is administered to the test system.",
             "identifier": "C184730",
             "notation": "AIR CONTROL",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C184332-C184730"
         },
         {
+            "alt_label": "",
             "definition": "A comparator that is expected to yield a negative result, to establish a reference baseline.",
             "identifier": "C64357",
             "notation": "NEGATIVE CONTROL",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C184332-C64357"
         },
         {
+            "alt_label": "",
             "definition": "A type of negative control in which the amount of food provided to the control group matches the amount of food consumed by a group receiving the investigational test agent.",
             "identifier": "C184731",
             "notation": "PAIR-FED CONTROL",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C184332-C184731"
         },
         {
+            "alt_label": "",
             "definition": "A comparator that is expected to yield a positive result, to establish a reference baseline.",
             "identifier": "C64356",
             "notation": "POSITIVE CONTROL",
@@ -29,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C184332-C64356"
         },
         {
+            "alt_label": "",
             "definition": "A type of negative control in which a procedure is performed that mimics the procedure under study but does not include investigational processes or components.",
             "identifier": "C184727",
             "notation": "SHAM CONTROL",
@@ -36,6 +41,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C184332-C184727"
         },
         {
+            "alt_label": "",
             "definition": "A type of negative control in which nothing is administered, delivered, or done to the test system.",
             "identifier": "C184729",
             "notation": "UNTREATED CONTROL",
@@ -43,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/send/C184332-C184729"
         },
         {
+            "alt_label": "",
             "definition": "A type of negative control containing the substance used for administration or delivery of the investigational test agent.",
             "identifier": "C184728",
             "notation": "VEHICLE CONTROL",

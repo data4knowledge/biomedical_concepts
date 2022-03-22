@@ -1,6 +1,7 @@
 {
     "SKOS_CONCEPT": [
         {
+            "alt_label": "",
             "definition": "Medical or health condition that is concomitant or concurrent with the primary condition or disease under study.",
             "identifier": "C161320",
             "notation": "Comorbid Condition",
@@ -8,6 +9,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161320"
         },
         {
+            "alt_label": "",
             "definition": "Primary disease(s) or condition(s) being studied in the trial, or the focus of the study. (clinicaltrials.gov)",
             "identifier": "C161319",
             "notation": "Condition or Disease under Study",
@@ -15,6 +17,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161319"
         },
         {
+            "alt_label": "",
             "definition": "A study population that is defined for the purpose of comparison to the treatment group in a controlled trial. In an epidemiological study, a study population that does not have the outcome of interest.",
             "identifier": "C28143",
             "notation": "Control Group",
@@ -22,6 +25,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C28143"
         },
         {
+            "alt_label": "",
             "definition": "A descriptive characterization of the study population (e.g., age, sex, race, education, etc.).",
             "identifier": "C161324",
             "notation": "Demographic Group",
@@ -29,6 +33,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161324"
         },
         {
+            "alt_label": "",
             "definition": "A study population that receives the intervention that is the focus of the study.",
             "identifier": "C161323",
             "notation": "Experimental Group",
@@ -44,6 +49,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161316"
         },
         {
+            "alt_label": "",
             "definition": "The state of a subject's mental or physical condition.",
             "identifier": "C16669",
             "notation": "General Health Status",
@@ -59,6 +65,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C49651"
         },
         {
+            "alt_label": "",
             "definition": "An explanation with defensible proof as to the reason why a special population of subjects is included in the clinical study.",
             "identifier": "C161318",
             "notation": "Justification of Special Population",
@@ -66,6 +73,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161318"
         },
         {
+            "alt_label": "",
             "definition": "An explanation as to the logical reasons for why a specific population of subjects is being considered for inclusion in a clinical study.",
             "identifier": "C161317",
             "notation": "Population Rationale",
@@ -89,6 +97,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C142728"
         },
         {
+            "alt_label": "",
             "definition": "A study population that receives an intervention(s) within a trial. This could include the investigational product(s) or a comparator (e.g., placebo or an approved intervention).",
             "identifier": "C161322",
             "notation": "Treatment Group",
@@ -96,6 +105,7 @@
             "uri": "http://id.d4k.dk/dataset/cdisc/ct/v48/protocol/C160921-C161322"
         },
         {
+            "alt_label": "",
             "definition": "Individuals whose willingness to volunteer in a clinical trial may be unduly influenced by the expectation, whether justified or not, of benefits associated with participation, or of a retaliatory response from senior members of a hierarchy in case of refusal to participate. Examples include subordinate members of a group with a hierarchical structure, patients with incurable diseases, persons in nursing homes, unemployed or impoverished persons, patients in emergency situations, ethnic minority groups, homeless persons, nomads, refugees, minors, and those incapable of giving consent. (ICH)",
             "identifier": "C142747",
             "notation": "Vulnerable Population",
