@@ -17,12 +17,20 @@
             "uri": "http://id.d4k.dk/dataset/bc_instance/race/test/coding"
         },
         {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/date_time/date_time"
+        },
+        {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/bc_instance/race/result/coding"
         },
         {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/bc_instance/sex/test/coding"
+        },
+        {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/date_time/date_time"
         },
         {
             "name": "coding",
@@ -33,12 +41,20 @@
             "uri": "http://id.d4k.dk/dataset/bc_instance/age/test/coding"
         },
         {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/date_time/date_time"
+        },
+        {
             "name": "quantity",
             "uri": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity"
         },
         {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding"
+        },
+        {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/date_time/date_time"
         },
         {
             "name": "coding",
@@ -123,6 +139,12 @@
         },
         {
             "collect": false,
+            "enabled": true,
+            "name": "Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/date_time"
+        },
+        {
+            "collect": false,
             "enabled": false,
             "name": "Position",
             "uri": "http://id.d4k.dk/dataset/bc_instance/race/position"
@@ -156,6 +178,12 @@
             "enabled": true,
             "name": "Test",
             "uri": "http://id.d4k.dk/dataset/bc_instance/sex/test"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/sex/date_time"
         },
         {
             "collect": false,
@@ -195,6 +223,12 @@
         },
         {
             "collect": false,
+            "enabled": true,
+            "name": "Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/date_time"
+        },
+        {
+            "collect": false,
             "enabled": false,
             "name": "Position",
             "uri": "http://id.d4k.dk/dataset/bc_instance/age/position"
@@ -228,6 +262,12 @@
             "enabled": true,
             "name": "Test",
             "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/date_time"
         },
         {
             "collect": false,
@@ -343,8 +383,8 @@
         },
         {
             "cl": "D000001",
-            "cli": "D100003",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/age/test/coding/d000001-d100003"
+            "cli": "D100000",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/age/test/coding/d000001-d100000"
         },
         {
             "cl": "C66781",
@@ -373,8 +413,8 @@
         },
         {
             "cl": "D000001",
-            "cli": "D100004",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding/d000001-d100004"
+            "cli": "D100003",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding/d000001-d100003"
         },
         {
             "cl": "C66790",

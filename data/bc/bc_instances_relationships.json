@@ -39,12 +39,20 @@
             "to": "http://id.d4k.dk/dataset/bc_instance/race/test/coding"
         },
         {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/date_time",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/date_time/date_time"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/bc_instance/race/result",
             "to": "http://id.d4k.dk/dataset/bc_instance/race/result/coding"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/sex/test",
             "to": "http://id.d4k.dk/dataset/bc_instance/sex/test/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex/date_time",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/date_time/date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/sex/result",
@@ -55,12 +63,20 @@
             "to": "http://id.d4k.dk/dataset/bc_instance/age/test/coding"
         },
         {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age/date_time",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/date_time/date_time"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/bc_instance/age/result",
             "to": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test",
             "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/date_time",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/date_time/date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result",
@@ -124,6 +140,10 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/race",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race",
             "to": "http://id.d4k.dk/dataset/bc_instance/race/position"
         },
         {
@@ -145,6 +165,10 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/sex",
             "to": "http://id.d4k.dk/dataset/bc_instance/sex/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/sex",
+            "to": "http://id.d4k.dk/dataset/bc_instance/sex/date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/sex",
@@ -172,6 +196,10 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/age",
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/age",
             "to": "http://id.d4k.dk/dataset/bc_instance/age/position"
         },
         {
@@ -193,6 +221,10 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity",
             "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity",
@@ -282,7 +314,7 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/age/test/coding",
-            "to": "http://id.d4k.dk/dataset/bc_instance/age/test/coding/d000001-d100003"
+            "to": "http://id.d4k.dk/dataset/bc_instance/age/test/coding/d000001-d100000"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/age/result/quantity",
@@ -306,7 +338,7 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding",
-            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding/d000001-d100004"
+            "to": "http://id.d4k.dk/dataset/bc_instance/ethnicity/test/coding/d000001-d100003"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding",
