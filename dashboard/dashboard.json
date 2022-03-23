@@ -2,12 +2,12 @@
   "title": "Biomedical Concepts Treatise",
   "version": "2.0",
   "settings": {
-    "pagenumber": 6,
+    "pagenumber": 7,
     "editable": true,
     "fullscreenEnabled": true,
     "parameters": {
       "neodash_study_protocol_brief_title": "DDR",
-      "neodash_skos_concept_notation": "VSTESTCD"
+      "neodash_skos_concept_notation": "SEX"
     }
   },
   "pages": [
@@ -57,6 +57,7 @@
             "BC_TEMPLATE": "name",
             "SDTM_VARIABLE": "name",
             "STUDY_DATA_POINT": "name",
+            "_Neodash_Dashboard": "name",
             "API_SOURCE": "name",
             "STUDY_CELL": "name",
             "STUDY_PROTOCOL": "name",
@@ -96,7 +97,9 @@
           "type": "text",
           "height": "6",
           "selection": {},
-          "settings": {}
+          "settings": {
+            "nodePositions": {}
+          }
         }
       ]
     },
@@ -521,8 +524,8 @@
           }
         },
         {
-          "title": "Key Relationships I",
-          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[r1]->(sv:SDTM_VARIABLE)-[r2]->(cv:SDTM_MODEL_VARIABLE)-[r3:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)<-[r4:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)\nRETURN sd, sv, cv, fdt, bdt, r1,r2,r3,r4\n\n\n",
+          "title": "Key Relationships - SDTM to BC",
+          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[r1]->(sv:SDTM_VARIABLE)-[r2]->(cv:SDTM_MODEL_VARIABLE)-[r3:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)<-[r4:IS_CANONICAL_REF]-(bdtp:BC_DATA_TYPE_PROPERTY)<-[r5]-(bdt)<-[r6]-(bi)<-[r7]-(bc:STUDY_BC_INSTANCE)\nRETURN sd, sv, cv, fdt, bdtp, bdt, bi, bc, r1, r2, r3, r4, r5, r6, r7\n\n\n",
           "width": "6",
           "type": "graph",
           "height": "3",
@@ -531,7 +534,10 @@
             "SDTM_VARIABLE": "name",
             "SDTM_MODEL_VARIABLE": "name",
             "CANONICAL_DATA_TYPE_PROPERTY": "name",
-            "BC_DATA_TYPE_PROPERTY": "name"
+            "BC_DATA_TYPE_PROPERTY": "name",
+            "BC_DATA_TYPE": "name",
+            "BC_ITEM": "name",
+            "STUDY_BC_INSTANCE": "name"
           },
           "settings": {
             "nodePositions": {},
@@ -539,16 +545,19 @@
           }
         },
         {
-          "title": "Key Relationships II",
-          "query": "MATCH (sdp:STUDY_DATA_POINT)-[r6]->(wfi:WORKFLOW_ITEM), (wfi)-[r7:USED_IN_VISIT]->(v:VISIT), (sdp)-[r8:FOR_SUBJECT]->(subj:STUDY_SUBJECT)\nRETURN sdp, wfi, v, subj, r6, r7,r8\n\n\n\n\n\n",
+          "title": "Key Relationships - Single Data Point",
+          "query": "MATCH (bc:STUDY_BC_INSTANCE)<-[r3]-(a:ACTIVITY)<-[r1]-(n:WORKFLOW_ITEM {id: 1517})-[r2]->(v:VISIT),\n(s:STUDY)<-[r6]-(sub:STUDY_SUBJECT)<-[r5]-(sdp:STUDY_DATA_POINT)-[r4]->(n)\nRETURN a,n,v,r1,r2,r3,bc,sdp,r4,r5,sub,s,r6\n\n",
           "width": "6",
           "type": "graph",
           "height": "3",
           "selection": {
-            "STUDY_DATA_POINT": "(label)",
+            "ACTIVITY": "description",
             "WORKFLOW_ITEM": "id",
             "VISIT": "name",
-            "STUDY_SUBJECT": "(label)"
+            "STUDY_BC_INSTANCE": "name",
+            "STUDY_DATA_POINT": "value",
+            "STUDY_SUBJECT": "identifier",
+            "STUDY": "study_title"
           },
           "settings": {
             "nodePositions": {},
@@ -558,7 +567,7 @@
         {
           "title": "The Overall Graph",
           "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[r1]->(sv:SDTM_VARIABLE)-[r2]->(cv:SDTM_MODEL_VARIABLE)-[r3:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)<-[r4:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)<-[r5:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[r6]->(wfi:WORKFLOW_ITEM), (wfi)-[r7:USED_IN_VISIT]->(v:VISIT), (sdp)-[r8:FOR_SUBJECT]->(subj:STUDY_SUBJECT)\nRETURN sd, sv, cv, fdt, bdt, sdp, wfi, v, subj, r1,r2,r3,r4,r5,r6,r7,r8\n\n\n",
-          "width": "12",
+          "width": "6",
           "type": "graph",
           "height": "3",
           "selection": {
@@ -573,7 +582,8 @@
             "STUDY_SUBJECT": "(label)"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         }
       ]
