@@ -2,17 +2,17 @@
   "title": "Biomedical Concepts Treatise",
   "version": "2.0",
   "settings": {
-    "pagenumber": 0,
+    "pagenumber": 6,
     "editable": true,
     "fullscreenEnabled": true,
     "parameters": {
       "neodash_study_protocol_brief_title": "DDR",
-      "neodash_skos_concept_notation": "RACE"
+      "neodash_skos_concept_notation": "VSTESTCD"
     }
   },
   "pages": [
     {
-      "title": "Description",
+      "title": "Overview",
       "reports": [
         {
           "title": "Versions",
@@ -45,7 +45,6 @@
             "EPOCH": "name",
             "SDTM_MODEL_VARIABLE": "name",
             "WORKFLOW_ITEM": "name",
-            "BC_VALUE_SET": "name",
             "BC_DATA_TYPE": "name",
             "STUDY_IDENTIFIER": "name",
             "STUDY_PHASE": "name",
@@ -58,7 +57,6 @@
             "BC_TEMPLATE": "name",
             "SDTM_VARIABLE": "name",
             "STUDY_DATA_POINT": "name",
-            "_Neodash_Dashboard": "name",
             "API_SOURCE": "name",
             "STUDY_CELL": "name",
             "STUDY_PROTOCOL": "name",
@@ -93,7 +91,7 @@
         },
         {
           "title": "Next Steps",
-          "query": "- Expand, adding more BCs, data etc\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate a define.xml\n- Expand, adding more BCs, data etc\nSo we now wish to expnad the BC coverage. We will addd a few DM BCs and add those into the Study.\n\n\n",
+          "query": "Next detailed steps:\n- Add link from BC Instances to potential domains\n- Inherit the domain links from BC Instances to Study BC Instances\n- Enable / disable links and show ability to flip BC to domain\n\nLonger-term Steps:\n- Add Events BC in.\n- Derived data for SDTM\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link a FHIR resource\n- Link in OMOP\n\n\n",
           "width": "3",
           "type": "text",
           "height": "6",
@@ -195,7 +193,8 @@
             "CANONICAL_DATA_TYPE_PROPERTY": "name"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         },
         {
@@ -296,7 +295,8 @@
             "CANONICAL_DATA_TYPE_PROPERTY": "name"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         },
         {
@@ -321,11 +321,11 @@
             "BC_ITEM": "name",
             "BC_DATA_TYPE": "name",
             "BC_DATA_TYPE_PROPERTY": "name",
-            "SKOS_CONCEPT": "label",
-            "BC_VALUE_SET": "id"
+            "SKOS_CONCEPT": "label"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         }
       ]
