@@ -17,9 +17,9 @@
         {
           "title": "Versions",
           "query": "//MATCH (v:VERSION) RETURN v.version as Version, v.updates as Updates\nMATCH path=(a:VERSION)-[r:PREVIOUS_VERSION*0..]->()\nWITH a.version as Version, a.updates as Updates ORDER BY LENGTH(path) DESC\nRETURN DISTINCT Version, Updates\n\n",
-          "width": "6",
+          "width": "3",
           "type": "table",
-          "height": "3",
+          "height": "6",
           "selection": {},
           "settings": {
             "nodePositions": {}
@@ -30,7 +30,7 @@
           "query": "CALL db.schema.visualization()\n\n\n",
           "width": "6",
           "type": "graph",
-          "height": "3",
+          "height": "6",
           "selection": {
             "FHIR_DATA_TYPE": "name",
             "BC_DATA_TYPE_PROPERTY": "name",
@@ -90,6 +90,15 @@
             "hideSelections": true,
             "nodeColorScheme": "set3"
           }
+        },
+        {
+          "title": "Next Steps",
+          "query": "- Expand, adding more BCs, data etc\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate a define.xml\n- Expand, adding more BCs, data etc\nSo we now wish to expnad the BC coverage. We will addd a few DM BCs and add those into the Study.\n\n\n",
+          "width": "3",
+          "type": "text",
+          "height": "6",
+          "selection": {},
+          "settings": {}
         }
       ]
     },
