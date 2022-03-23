@@ -11,7 +11,7 @@ with open("../data/sponsor_ct/sponsor_ct.yaml") as file:
     source_uri = "http://id.d4k.dk/dataset/source/ct"
     base_uri = "http://id.d4k.dk/dataset/ct/main"
 
-    cs_concept = { "uri": source_uri }
+    cs_concept = { "uri": base_uri }
     cs_concept["label"] =  ""
     cs_concept["name"] =  model[":root"][":name"]
     cs_concept["source"] =  "Made up"
