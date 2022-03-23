@@ -15,8 +15,8 @@
       "title": "Description",
       "reports": [
         {
-          "title": "",
-          "query": "MATCH (v:VERSION) RETURN v.version as Version, v.updates as Updates\n\n\n",
+          "title": "Versions",
+          "query": "//MATCH (v:VERSION) RETURN v.version as Version, v.updates as Updates\nMATCH path=(a:VERSION)-[r:PREVIOUS_VERSION*0..]->()\nWITH a.version as Version, a.updates as Updates ORDER BY LENGTH(path) DESC\nRETURN DISTINCT Version, Updates\n\n",
           "width": "6",
           "type": "table",
           "height": "3",
@@ -26,16 +26,69 @@
           }
         },
         {
-          "title": "",
-          "query": "MATCH (n:LOGICAL)-[r]->(m:LOGICAL) \nRETURN n,r,m\n\n\n",
-          "width": 3,
+          "title": "Schema",
+          "query": "CALL db.schema.visualization()\n\n\n",
+          "width": "6",
           "type": "graph",
-          "height": 3,
+          "height": "3",
           "selection": {
-            "LOGICAL": "name"
+            "FHIR_DATA_TYPE": "name",
+            "BC_DATA_TYPE_PROPERTY": "name",
+            "POPULATION": "name",
+            "SDTM_IG": "name",
+            "BC_INSTANCE": "name",
+            "STUDY_ARM": "name",
+            "SDTM_MODEL": "name",
+            "INDICATION": "name",
+            "WEB_SOURCE": "name",
+            "STUDY": "name",
+            "EPOCH": "name",
+            "SDTM_MODEL_VARIABLE": "name",
+            "WORKFLOW_ITEM": "name",
+            "BC_VALUE_SET": "name",
+            "BC_DATA_TYPE": "name",
+            "STUDY_IDENTIFIER": "name",
+            "STUDY_PHASE": "name",
+            "SKOS_CONCEPT": "name",
+            "CANONICAL_DATA_TYPE": "name",
+            "STUDY_BC_INSTANCE": "name",
+            "FHIR_DATA_TYPE_PROPERTY": "name",
+            "SDTM_DATASET": "name",
+            "FHIR": "name",
+            "BC_TEMPLATE": "name",
+            "SDTM_VARIABLE": "name",
+            "STUDY_DATA_POINT": "name",
+            "_Neodash_Dashboard": "name",
+            "API_SOURCE": "name",
+            "STUDY_CELL": "name",
+            "STUDY_PROTOCOL": "name",
+            "CANONICAL_MODEL": "name",
+            "CANONICAL_NODE": "name",
+            "SKOS_CONCEPT_SCHEME": "name",
+            "OBJECTIVE": "name",
+            "RULE": "name",
+            "BC_ITEM": "name",
+            "CANONICAL_REF": "name",
+            "OTHER_SOURCE": "name",
+            "STUDY_TYPE": "name",
+            "PROCEDURE": "name",
+            "STUDY_DATA": "name",
+            "SDTM_CLASS": "name",
+            "INVESTIGATIONAL_INTERVENTIONS": "name",
+            "STUDY_SUBJECT": "name",
+            "CANONICAL_DATA_TYPE_PROPERTY": "name",
+            "CODE": "name",
+            "VISIT": "name",
+            "ENDPOINT": "name",
+            "VERSION": "name",
+            "STUDY_ELEMENT": "name",
+            "STUDY_DESIGN": "name",
+            "ACTIVITY": "name"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true,
+            "nodeColorScheme": "set3"
           }
         }
       ]
@@ -58,7 +111,8 @@
             "nodePositions": {},
             "defaultNodeSize": 4,
             "layout": "force-directed",
-            "frozen": false
+            "frozen": false,
+            "hideSelections": true
           }
         },
         {
@@ -88,7 +142,8 @@
             "CANONICAL_NODE": "name"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         },
         {
@@ -103,12 +158,13 @@
             "CANONICAL_DATA_TYPE": "data_type"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         },
         {
           "title": "Data Types In System",
-          "query": "MATCH (n:CANONICAL_MODEL)-[r:HAS_SUB_MODEL]->(m:CANONICAL_NODE)-[s:CONSISTS_OF*1..]->(p:CANONICAL_NODE)-[t]->(d:CANONICAL_DATA_TYPE) RETURN m.name as Model, p.name as Name, d.data_type as Datatype\n\n\n",
+          "query": "MATCH (n:CANONICAL_MODEL)-[r:HAS_SUB_MODEL]->(m:CANONICAL_NODE)-[s:CONSISTS_OF*1..]->(p:CANONICAL_NODE)-[t]->(d:CANONICAL_DATA_TYPE) RETURN m.name as Model, p.name as Name, d.name as Datatype\n\n\n",
           "width": 3,
           "type": "table",
           "height": 3,
@@ -213,7 +269,8 @@
             "FHIR_DATA_TYPE": "name"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         },
         {
@@ -291,7 +348,8 @@
             "CANONICAL_DATA_TYPE_PROPERTY": "name"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         },
         {
@@ -316,7 +374,8 @@
             "SDTM_DATASET": "name"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         },
         {
@@ -421,7 +480,8 @@
             "STUDY_ELEMENT": "(label)"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         }
       ]
@@ -465,7 +525,8 @@
             "BC_DATA_TYPE_PROPERTY": "name"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         },
         {
@@ -481,7 +542,8 @@
             "STUDY_SUBJECT": "(label)"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         },
         {
