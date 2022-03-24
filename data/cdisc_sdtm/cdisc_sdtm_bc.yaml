@@ -1,10 +1,10 @@
 ---
-:root:
-  :domains: 
-  - :name: "VS"
-    :bcs:
-    - :name: "Weight"
-  - :name: "DM"
-    :bcs:
-    - :name: "Age"
-    - :name: "Sex"
+root:
+  domains: 
+  - name: "VS"
+    bcs:
+    - name: "Weight"
+  - name: "DM"
+    bcs:
+    - name: "Age"
+    - name: "Sex"
