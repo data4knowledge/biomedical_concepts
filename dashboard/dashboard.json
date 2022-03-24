@@ -2,12 +2,12 @@
   "title": "Biomedical Concepts Treatise",
   "version": "2.0",
   "settings": {
-    "pagenumber": 7,
+    "pagenumber": 0,
     "editable": true,
     "fullscreenEnabled": true,
     "parameters": {
       "neodash_study_protocol_brief_title": "DDR",
-      "neodash_skos_concept_notation": "SEX"
+      "neodash_skos_concept_notation": "VSTESTCD"
     }
   },
   "pages": [
@@ -92,7 +92,7 @@
         },
         {
           "title": "Next Steps",
-          "query": "Next detailed steps:\n- Add link from BC Instances to potential domains\n- Inherit the domain links from BC Instances to Study BC Instances\n- Enable / disable links and show ability to flip BC to domain\n\nLonger-term Steps:\n- Add Events BC in.\n- Derived data for SDTM\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link a FHIR resource\n- Link in OMOP\n\n\n",
+          "query": "Next detailed steps:\n- Add link from BC Instances to potential domains\n- Inherit the domain links from BC Instances to Study BC Instances\n- Enable / disable links and show ability to flip BC to domain\n\nLonger-term Steps:\n- Add Events BC in.\n- Derived data for SDTM\n- Study Data Contract\n- CRFs from BCs\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link a FHIR resource\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\n\n",
           "width": "3",
           "type": "text",
           "height": "6",
