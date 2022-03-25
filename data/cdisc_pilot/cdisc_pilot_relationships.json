@@ -1,0 +1,99 @@
+{
+    "HAS_ACTIVITY": [],
+    "HAS_ARM": [],
+    "HAS_CELL": [],
+    "HAS_CODED": [],
+    "HAS_ELEMENT": [],
+    "HAS_ENDPOINT": [],
+    "HAS_END_RULE": [],
+    "HAS_EPOCH": [],
+    "HAS_IDENTIFIER": [
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/sident-1"
+        }
+    ],
+    "HAS_INDICATION": [
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot/sd",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/indic-1"
+        }
+    ],
+    "HAS_INVESTIGATIONAL_INTERVENTION": [
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot/sd",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/trt-1"
+        }
+    ],
+    "HAS_OBJECTIVE": [
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot/sd",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-1"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot/sd",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-2"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot/sd",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-3"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot/sd",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-4"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot/sd",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-5"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot/sd",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-6"
+        }
+    ],
+    "HAS_POPULATION": [
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot/sd",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/spop"
+        }
+    ],
+    "HAS_PREVIOUS_ACTIVITY": [],
+    "HAS_PREVIOUS_WORKFLOW": [],
+    "HAS_PROCEDURE": [],
+    "HAS_PROTOCOL": [
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/spr"
+        }
+    ],
+    "HAS_START_RULE": [],
+    "HAS_STUDY_DATA": [],
+    "HAS_STUDY_DESIGN": [
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/sd"
+        }
+    ],
+    "HAS_STUDY_PHASE": [
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/tphase-1"
+        }
+    ],
+    "HAS_STUDY_TYPE": [
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/ttype-1"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/ttype-2"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/study/cdisc/pilot",
+            "to": "http://id.d4k.dk/dataset/study/cdisc/pilot/ttype-3"
+        }
+    ],
+    "HAS_VISIT": [],
+    "USED_IN_VISIT": []
+}

@@ -1,0 +1,110 @@
+{
+    "ACTIVITY": [],
+    "CODE": [],
+    "ENDPOINT": [],
+    "INDICATION": [
+        {
+            "indication_desc": "Mild to Moderate Alzheimer\u0092s Disease",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/indic-1"
+        }
+    ],
+    "INVESTIGATIONAL_INTERVENTIONS": [
+        {
+            "indication_desc": "Xanomeline",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/trt-1"
+        }
+    ],
+    "OBJECTIVE": [
+        {
+            "objective_desc": "To determine if there is a statistically significant relationship between the change in both ADAS-Cog and CIBIC+ scores, and drug dose (0, 50 cm2 [54 mg], and 75 cm2 [81 mg])",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-1"
+        },
+        {
+            "objective_desc": "To document the safety profile of the xanomeline TTS.",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-2"
+        },
+        {
+            "objective_desc": "To assess the dose-dependent improvement in behavior. Improved scores on the Revised Neuropsychiatric Inventory (NPI-X) will indicate improvement in these areas.",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-3"
+        },
+        {
+            "objective_desc": "To assess the dose-dependent improvements in activities of daily living. Improved scores on the Disability Assessment for Dementia (DAD) will indicate improvement in these areas.",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-4"
+        },
+        {
+            "objective_desc": "To assess the dose-dependent improvements in an extended assessment of cognition that integrates attention/concentration tasks. The ADAS-Cog (14) will be used for this assessment.",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-5"
+        },
+        {
+            "objective_desc": "To assess the treatment response as a function of Apo E genotype.",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/obj-6"
+        }
+    ],
+    "POPULATION": [
+        {
+            "population_desc": "Not known",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/spop"
+        }
+    ],
+    "PROCEDURE": [],
+    "RULE": [],
+    "STUDY": [
+        {
+            "key": "http://id.d4k.dk/dataset/study/cdisc/pilot",
+            "study_status": "???",
+            "study_tag": "???",
+            "study_title": "Safety and Efficacy of the Xanomeline Transdermal Therapeutic System (TTS) in Patients with Mild to Moderate Alzheimer\u0092s Disease.",
+            "study_version": "???"
+        }
+    ],
+    "STUDY_ARM": [],
+    "STUDY_CELL": [],
+    "STUDY_DATA": [],
+    "STUDY_DESIGN": [
+        {
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/sd"
+        }
+    ],
+    "STUDY_ELEMENT": [],
+    "STUDY_EPOCH": [],
+    "STUDY_IDENTIFIER": [
+        {
+            "id_type": "SponsorID",
+            "name": "Sponsor",
+            "org_code": "CDISC Pilot",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/sident-1"
+        }
+    ],
+    "STUDY_PHASE": [
+        {
+            "study_type_phase": "Phase II Trial",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/tphase-1"
+        }
+    ],
+    "STUDY_PROTOCOL": [
+        {
+            "PublicTitle": "The Lilly CDISC Pilot",
+            "amendments": "",
+            "brief_title": "CDISC PILOT",
+            "key": "http://id.d4k.dk/dataset/study/cdisc/pilot/spr",
+            "official_title": "Targeting Agents in ABTC",
+            "scientific_title": "Scientific Title"
+        }
+    ],
+    "STUDY_TYPE": [
+        {
+            "study_type_classification": "SAFETY",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/ttype-1"
+        },
+        {
+            "study_type_classification": "EFFICACY",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/ttype-2"
+        },
+        {
+            "study_type_classification": "PHARMACOKINETIC",
+            "uri": "http://id.d4k.dk/dataset/study/cdisc/pilot/ttype-3"
+        }
+    ],
+    "VISIT": [],
+    "WORKFLOW_ITEM": []
+}
