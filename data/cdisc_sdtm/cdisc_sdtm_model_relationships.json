@@ -7,6 +7,26 @@
     ],
     "HAS_CANONICAL_REF": [
         {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/demographics/AGE",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/AGE/c1"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/demographics/AGEU",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/AGEU/c1"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/demographics/SEX",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/SEX/c1"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/demographics/RACE",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/RACE/c1"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/demographics/ETHNIC",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/ETHNIC/c1"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRES",
             "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRES/c1"
         },
@@ -26,10 +46,34 @@
     "HAS_CLASS": [
         {
             "from": "http://id.d4k.dk/dataset/sdtm_model",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/demographics"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model",
             "to": "http://id.d4k.dk/dataset/sdtm_model/findings"
         }
     ],
     "HAS_VARIABLE": [
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/demographics",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/AGE"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/demographics",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/AGEU"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/demographics",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/SEX"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/demographics",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/RACE"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/demographics",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/ETHNIC"
+        },
         {
             "from": "http://id.d4k.dk/dataset/sdtm_model/findings",
             "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRES"

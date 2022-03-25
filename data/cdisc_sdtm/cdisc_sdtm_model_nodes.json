@@ -1,6 +1,36 @@
 {
     "CANONICAL_REF": [
         {
+            "data_type": "quantity",
+            "node": "RESULT",
+            "property": "value",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/demographics/AGE/c1"
+        },
+        {
+            "data_type": "quantity",
+            "node": "RESULT",
+            "property": "unit",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/demographics/AGEU/c1"
+        },
+        {
+            "data_type": "coding",
+            "node": "RESULT",
+            "property": "code",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/demographics/SEX/c1"
+        },
+        {
+            "data_type": "coding",
+            "node": "RESULT",
+            "property": "code",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/demographics/RACE/c1"
+        },
+        {
+            "data_type": "coding",
+            "node": "RESULT",
+            "property": "code",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/demographics/ETHNIC/c1"
+        },
+        {
             "data_type": "coding",
             "node": "RESULT",
             "property": "code",
@@ -33,6 +63,10 @@
     ],
     "SDTM_CLASS": [
         {
+            "name": "demographics",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/demographics"
+        },
+        {
             "name": "findings",
             "uri": "http://id.d4k.dk/dataset/sdtm_model/findings"
         }
@@ -44,6 +78,26 @@
         }
     ],
     "SDTM_MODEL_VARIABLE": [
+        {
+            "name": "AGE",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/demographics/AGE"
+        },
+        {
+            "name": "AGEU",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/demographics/AGEU"
+        },
+        {
+            "name": "SEX",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/demographics/SEX"
+        },
+        {
+            "name": "RACE",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/demographics/RACE"
+        },
+        {
+            "name": "ETHNIC",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/demographics/ETHNIC"
+        },
         {
             "name": "--ORRES",
             "uri": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRES"

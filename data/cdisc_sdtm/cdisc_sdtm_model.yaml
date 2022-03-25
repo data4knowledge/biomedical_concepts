@@ -2,9 +2,42 @@
 :root:
   :name: "SDTM Model"
   :classes:
+  - :name: demographics
+    :variables:
+    - :name: "AGE"
+      :bc: "Age"
+      :canonical: 
+      - :node: "RESULT"
+        :data_type: "quantity"
+        :property: "value"
+    - :name: "AGEU"
+      :bc: "Age"
+      :canonical: 
+      - :node: "RESULT"
+        :data_type: "quantity"
+        :property: "unit"
+    - :name: "SEX"
+      :bc: "Sex"
+      :canonical: 
+      - :node: "RESULT"
+        :data_type: "coding"
+        :property: "code"
+    - :name: "RACE"
+      :bc: "Race"
+      :canonical: 
+      - :node: "RESULT"
+        :data_type: "coding"
+        :property: "code"
+    - :name: "ETHNIC"
+      :bc: "Ethnicity"
+      :canonical: 
+      - :node: "RESULT"
+        :data_type: "coding"
+        :property: "code"
   - :name: findings
     :variables:
     - :name: "--ORRES"
+      :bc: ""
       :canonical: 
       - :node: "RESULT"
         :data_type: "coding"
@@ -13,11 +46,13 @@
         :data_type: "quantity"
         :property: "value"
     - :name: "--ORRESU"
+      :bc: ""
       :canonical: 
       - :node: "RESULT"
         :data_type: "quantity"
         :property: "unit"
     - :name: "--DTC"
+      :bc: ""
       :canonical: 
       - :node: "DATE TIME"
         :data_type: "date_time"
