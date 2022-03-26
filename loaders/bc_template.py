@@ -8,7 +8,7 @@ def format_name(name):
 
 nodes = { "BC_TEMPLATE": [], "BC_ITEM": [], "BC_DATA_TYPE": [], "OTHER_SOURCE": [] }
 relationships = { "HAS_ITEM": [], "HAS_IDENTIFIER": [], "HAS_DATA_TYPE": [], "FROM_SOURCE": []}
-with open("../data/bc/templates.yaml") as file:
+with open("../data/bc/templates/templates.yaml") as file:
     templates = yaml.load(file, Loader=yaml.FullLoader)
 
     # Source
