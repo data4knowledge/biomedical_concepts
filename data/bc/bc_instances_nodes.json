@@ -375,12 +375,6 @@
         },
         {
             "collect": true,
-            "enabled": false,
-            "name": "Method",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/method"
-        },
-        {
-            "collect": true,
             "enabled": true,
             "name": "Specimen",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/specimen"
@@ -420,12 +414,6 @@
             "enabled": true,
             "name": "Test",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/test"
-        },
-        {
-            "collect": true,
-            "enabled": false,
-            "name": "Method",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/method"
         },
         {
             "collect": true,
@@ -471,12 +459,6 @@
         },
         {
             "collect": true,
-            "enabled": false,
-            "name": "Method",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/method"
-        },
-        {
-            "collect": true,
             "enabled": true,
             "name": "Specimen",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/specimen"
@@ -516,12 +498,6 @@
             "enabled": true,
             "name": "Test",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/test"
-        },
-        {
-            "collect": true,
-            "enabled": false,
-            "name": "Method",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/method"
         },
         {
             "collect": true,

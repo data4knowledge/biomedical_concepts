@@ -56,7 +56,7 @@ for filename in files:
             relationships["HAS_IDENTIFIER"].append({"from": base_uri, "to": item_uri})
             if ":data_type" in item:
                 for data_type in item[":data_type"]: 
-                    print(item[":data_type"])
+                    #print(item[":data_type"])
                     name = format_name(data_type[":name"])
                     data_type_uri = "%s/%s" % (item_uri, name)
                     record = {
@@ -66,9 +66,9 @@ for filename in files:
                     nodes["BC_DATA_TYPE"].append(record)
                     relationships["HAS_DATA_TYPE"].append({"from": item_uri, "to": data_type_uri})
                     if ":value_set" in data_type:
-                        print(data_type[":value_set"])
+                        #print(data_type[":value_set"])
                         for term in data_type[":value_set"]: 
-                            print(term)
+                            #print(term)
                             cl = term[":cl"]
                             cli = term[":cli"]
                             term_uri = "%s/%s-%s" % (data_type_uri, cl.lower(), cli.lower())
@@ -108,9 +108,9 @@ for filename in files:
                         nodes["BC_DATA_TYPE"].append(record)
                         relationships["HAS_DATA_TYPE"].append({"from": item_uri, "to": data_type_uri})
                         if ":value_set" in data_type:
-                            print(data_type[":value_set"])
+                            #print(data_type[":value_set"])
                             for term in data_type[":value_set"]: 
-                                print(term)
+                                #print(term)
                                 cl = term[":cl"]
                                 cli = term[":cli"]
                                 term_uri = "%s/%s-%s" % (data_type_uri, cl.lower(), cli.lower())
@@ -122,13 +122,11 @@ for filename in files:
                                 nodes["BC_VALUE_SET"].append(record)
                                 relationships["HAS_RESPONSE"].append({"from": data_type_uri, "to": term_uri})
     for k, v in narrower.items():
-        print("1", k)
         if len(v) > 0:
-            print("2", len(v))
             from_uri = k
             for bc in v:
                 to_uri = bc_uri[bc]
-                print("3 %s to %s" % (from_uri, to_uri))
+                print("Narrower from %s to %s" % (from_uri, to_uri))
                 relationships["BC_NARROWER"].append({"from": from_uri, "to": to_uri})
 
                 
