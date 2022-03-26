@@ -59,6 +59,38 @@
         {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/test/coding"
+        },
+        {
+            "name": "quantity",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/result/quantity"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/test/coding"
+        },
+        {
+            "name": "quantity",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/result/quantity"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/test/coding"
+        },
+        {
+            "name": "quantity",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/result/quantity"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/test/coding"
+        },
+        {
+            "name": "quantity",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/result/quantity"
         }
     ],
     "BC_INSTANCE": [
@@ -86,6 +118,26 @@
             "based_on": "Base Observation",
             "name": "Ethnicity",
             "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity"
+        },
+        {
+            "based_on": "Base Laboratory",
+            "name": "Glucose",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose"
+        },
+        {
+            "based_on": "Base Laboratory",
+            "name": "Glucose in blood",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood"
+        },
+        {
+            "based_on": "Base Laboratory",
+            "name": "Glucose in serum",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum"
+        },
+        {
+            "based_on": "Base Laboratory",
+            "name": "Glucose in urine",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine"
         }
     ],
     "BC_ITEM": [
@@ -298,6 +350,198 @@
             "enabled": true,
             "name": "Result",
             "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Test",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/test"
+        },
+        {
+            "collect": true,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Specimen",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/specimen"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Position",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/position"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Site of Administration",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/site_of_administration"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Laterality",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/laterality"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Result",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/result"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Test",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/test"
+        },
+        {
+            "collect": true,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Specimen",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/specimen"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Position",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/position"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Site of Administration",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/site_of_administration"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Laterality",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/laterality"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Result",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/result"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Test",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/test"
+        },
+        {
+            "collect": true,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Specimen",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/specimen"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Position",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/position"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Site of Administration",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/site_of_administration"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Laterality",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/laterality"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Result",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/result"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Test",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/test"
+        },
+        {
+            "collect": true,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Specimen",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/specimen"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Position",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/position"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Site of Administration",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/site_of_administration"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Laterality",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/laterality"
+        },
+        {
+            "collect": false,
+            "enabled": false,
+            "name": "Method",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/method"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Result",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/result"
         }
     ],
     "BC_VALUE_SET": [
@@ -435,6 +679,66 @@
             "cl": "C66790",
             "cli": "C17998",
             "uri": "http://id.d4k.dk/dataset/bc_instance/ethnicity/result/coding/c66790-c17998"
+        },
+        {
+            "cl": "C65047",
+            "cli": "C64849",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/test/coding/c65047-c64849"
+        },
+        {
+            "cl": "C71620",
+            "cli": "C25613",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/result/quantity/c71620-c25613"
+        },
+        {
+            "cl": "C71620",
+            "cli": "C111253",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/result/quantity/c71620-c111253"
+        },
+        {
+            "cl": "C65047",
+            "cli": "C64849",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/test/coding/c65047-c64849"
+        },
+        {
+            "cl": "C71620",
+            "cli": "C25613",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/result/quantity/c71620-c25613"
+        },
+        {
+            "cl": "C71620",
+            "cli": "C111253",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/result/quantity/c71620-c111253"
+        },
+        {
+            "cl": "C65047",
+            "cli": "C64849",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/test/coding/c65047-c64849"
+        },
+        {
+            "cl": "C71620",
+            "cli": "C25613",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/result/quantity/c71620-c25613"
+        },
+        {
+            "cl": "C71620",
+            "cli": "C111253",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/result/quantity/c71620-c111253"
+        },
+        {
+            "cl": "C65047",
+            "cli": "C64849",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/test/coding/c65047-c64849"
+        },
+        {
+            "cl": "C71620",
+            "cli": "C25613",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/result/quantity/c71620-c25613"
+        },
+        {
+            "cl": "C71620",
+            "cli": "C111253",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/result/quantity/c71620-c111253"
         }
     ],
     "OTHER_SOURCE": [

@@ -1,7 +1,7 @@
 import yaml
 import json
 
-files = ["vital_signs/weight.yaml", "demographics/dm.yaml"]
+files = ["vital_signs/weight.yaml", "demographics/dm.yaml", "laboratory/lb.yaml"]
 
 def format_name(name):
     name = name.lower()
@@ -9,7 +9,9 @@ def format_name(name):
     return name
 
 nodes = { "BC_INSTANCE": [], "BC_ITEM": [], "BC_DATA_TYPE": [], "BC_VALUE_SET": [], "OTHER_SOURCE": [] }
-relationships = { "HAS_ITEM": [], "HAS_IDENTIFIER": [], "HAS_DATA_TYPE": [], "HAS_RESPONSE": [], "FROM_SOURCE": []}
+relationships = { "HAS_ITEM": [], "HAS_IDENTIFIER": [], "HAS_QUALIFIER": [], "BC_NARROWER": [], "HAS_DATA_TYPE": [], "HAS_RESPONSE": [], "FROM_SOURCE": []}
+narrower = {}
+bc_uri = {}
 
 # Source
 source_uri = "http://id.d4k.dk/dataset/source/bc_instance"
@@ -28,14 +30,21 @@ for filename in files:
             print("instance:", instance[":name"])
             uri_name = format_name(instance[":name"])
             base_uri = "http://id.d4k.dk/dataset/bc_instance/%s" % (uri_name)
-            nodes["BC_INSTANCE"].append({"name": instance[":name"], "based_on": instance[":based_on"], "uri": base_uri})
-            
+            nodes["BC_INSTANCE"].append({"name": instance[":name"], "based_on": instance[":based_on"], "uri": base_uri})           
             relationships["FROM_SOURCE"].append({"from": base_uri, "to": source_uri})
-
+            bc_uri[uri_name] = base_uri
+            narrower[base_uri] = []
+            if ":narrower" in instance:
+                for children in instance[":narrower"]:
+                    narrower[base_uri].append(format_name(children))
             # Identifier Node and Associated Data Type
             item = instance[":identified_by"]
+            qualifier_item = ""
+            if ":qualified_by" in item:
+                qualifier_item = item[":qualified_by"]
             name = format_name(item[":name"])
             item_uri = "%s/%s" % (base_uri, name)
+            identifier_uri = item_uri
             record = {
                 "name": item[":name"], 
                 "collect": item[":collect"],
@@ -45,7 +54,6 @@ for filename in files:
             nodes["BC_ITEM"].append(record)
             relationships["HAS_ITEM"].append({"from": base_uri, "to": item_uri})
             relationships["HAS_IDENTIFIER"].append({"from": base_uri, "to": item_uri})
-
             if ":data_type" in item:
                 for data_type in item[":data_type"]: 
                     print(item[":data_type"])
@@ -87,6 +95,8 @@ for filename in files:
                 }
                 nodes["BC_ITEM"].append(record)
                 relationships["HAS_ITEM"].append({"from": base_uri, "to": item_uri})
+                if qualifier_item == item[":name"]:
+                    relationships["HAS_QUALIFIER"].append({"from": identifier_uri, "to": item_uri})
                 if ":data_type" in item:
                     for data_type in item[":data_type"]: 
                         name = format_name(data_type[":name"])
@@ -111,6 +121,12 @@ for filename in files:
                                 }
                                 nodes["BC_VALUE_SET"].append(record)
                                 relationships["HAS_RESPONSE"].append({"from": data_type_uri, "to": term_uri})
+    for k, v in narrower.items():
+        if len(v) > 0:
+            from_uri = k
+            for bc in v:
+                to_uri = bc_uri[bc]
+                relationships["BC_NARROWER"].append({"from": from_uri, "to": to_uri})
 
                 
 with open("../data/bc/bc_instances_nodes.json", 'w') as outfile:
