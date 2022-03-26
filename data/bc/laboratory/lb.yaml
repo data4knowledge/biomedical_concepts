@@ -24,16 +24,19 @@
   - :name: "Specimen"
     :enabled: true
     :collect: true
-    :value_set:
+    :data_type: 
     - 
-      :cl: C78734
-      :cli: C13358
-    - 
-      :cl: C78734
-      :cli: C13325
-    - 
-      :cl: C74456
-      :cli: C12434
+      :name: coding
+      :value_set:
+      - 
+        :cl: C78734
+        :cli: C13358
+      - 
+        :cl: C78734
+        :cli: C13325
+      - 
+        :cl: C74456
+        :cli: C12434
   - :name: "Position"
     :enabled: false
   - :name: "Site of Administration"
@@ -76,16 +79,19 @@
   - :name: "Specimen"
     :enabled: true
     :collect: true
-    :value_set:
+    :data_type: 
     - 
-      :cl: C78734
-      :cli: C13358
-    - 
-      :cl: C78734
-      :cli: C13325
-    - 
-      :cl: C74456
-      :cli: C12434
+      :name: coding
+      :value_set:
+      - 
+        :cl: C78734
+        :cli: C13358
+      - 
+        :cl: C78734
+        :cli: C13325
+      - 
+        :cl: C74456
+        :cli: C12434
   - :name: "Position"
     :enabled: false
   - :name: "Site of Administration"
@@ -128,16 +134,19 @@
   - :name: "Specimen"
     :enabled: true
     :collect: true
-    :value_set:
+    :data_type: 
     - 
-      :cl: C78734
-      :cli: C13358
-    - 
-      :cl: C78734
-      :cli: C13325
-    - 
-      :cl: C74456
-      :cli: C12434
+      :name: coding
+      :value_set:
+      - 
+        :cl: C78734
+        :cli: C13358
+      - 
+        :cl: C78734
+        :cli: C13325
+      - 
+        :cl: C74456
+        :cli: C12434
   - :name: "Position"
     :enabled: false
   - :name: "Site of Administration"
@@ -180,16 +189,19 @@
   - :name: "Specimen"
     :enabled: true
     :collect: true
-    :value_set:
+    :data_type: 
     - 
-      :cl: C78734
-      :cli: C13358
-    - 
-      :cl: C78734
-      :cli: C13325
-    - 
-      :cl: C74456
-      :cli: C12434
+      :name: coding
+      :value_set:
+      - 
+        :cl: C78734
+        :cli: C13358
+      - 
+        :cl: C78734
+        :cli: C13325
+      - 
+        :cl: C74456
+        :cli: C12434
   - :name: "Position"
     :enabled: false
   - :name: "Site of Administration"

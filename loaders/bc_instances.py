@@ -122,10 +122,13 @@ for filename in files:
                                 nodes["BC_VALUE_SET"].append(record)
                                 relationships["HAS_RESPONSE"].append({"from": data_type_uri, "to": term_uri})
     for k, v in narrower.items():
+        print("1", k)
         if len(v) > 0:
+            print("2", len(v))
             from_uri = k
             for bc in v:
                 to_uri = bc_uri[bc]
+                print("3 %s to %s" % (from_uri, to_uri))
                 relationships["BC_NARROWER"].append({"from": from_uri, "to": to_uri})
 
                 

@@ -65,12 +65,20 @@
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/test/coding"
         },
         {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/specimen/coding"
+        },
+        {
             "name": "quantity",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/result/quantity"
         },
         {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/test/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/specimen/coding"
         },
         {
             "name": "quantity",
@@ -81,12 +89,20 @@
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/test/coding"
         },
         {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/specimen/coding"
+        },
+        {
             "name": "quantity",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/result/quantity"
         },
         {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/test/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/specimen/coding"
         },
         {
             "name": "quantity",
@@ -686,6 +702,21 @@
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/test/coding/c65047-c64849"
         },
         {
+            "cl": "C78734",
+            "cli": "C13358",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/specimen/coding/c78734-c13358"
+        },
+        {
+            "cl": "C78734",
+            "cli": "C13325",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/specimen/coding/c78734-c13325"
+        },
+        {
+            "cl": "C74456",
+            "cli": "C12434",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/specimen/coding/c74456-c12434"
+        },
+        {
             "cl": "C71620",
             "cli": "C25613",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose/result/quantity/c71620-c25613"
@@ -699,6 +730,21 @@
             "cl": "C65047",
             "cli": "C64849",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/test/coding/c65047-c64849"
+        },
+        {
+            "cl": "C78734",
+            "cli": "C13358",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/specimen/coding/c78734-c13358"
+        },
+        {
+            "cl": "C78734",
+            "cli": "C13325",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/specimen/coding/c78734-c13325"
+        },
+        {
+            "cl": "C74456",
+            "cli": "C12434",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood/specimen/coding/c74456-c12434"
         },
         {
             "cl": "C71620",
@@ -716,6 +762,21 @@
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/test/coding/c65047-c64849"
         },
         {
+            "cl": "C78734",
+            "cli": "C13358",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/specimen/coding/c78734-c13358"
+        },
+        {
+            "cl": "C78734",
+            "cli": "C13325",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/specimen/coding/c78734-c13325"
+        },
+        {
+            "cl": "C74456",
+            "cli": "C12434",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/specimen/coding/c74456-c12434"
+        },
+        {
             "cl": "C71620",
             "cli": "C25613",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum/result/quantity/c71620-c25613"
@@ -729,6 +790,21 @@
             "cl": "C65047",
             "cli": "C64849",
             "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/test/coding/c65047-c64849"
+        },
+        {
+            "cl": "C78734",
+            "cli": "C13358",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/specimen/coding/c78734-c13358"
+        },
+        {
+            "cl": "C78734",
+            "cli": "C13325",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/specimen/coding/c78734-c13325"
+        },
+        {
+            "cl": "C74456",
+            "cli": "C12434",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/specimen/coding/c74456-c12434"
         },
         {
             "cl": "C71620",
