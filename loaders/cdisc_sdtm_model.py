@@ -24,7 +24,7 @@ with open("../data/cdisc_sdtm/cdisc_sdtm_model.yaml") as file:
         relationships["HAS_CLASS"].append({"from": base_uri, "to": class_uri})
         for variable in the_class[":variables"]:
             variable_uri = "%s/%s" % (class_uri, variable[":name"])
-            nodes["SDTM_MODEL_VARIABLE"].append({ "name": variable[":name"], "uri": variable_uri })
+            nodes["SDTM_MODEL_VARIABLE"].append({ "name": variable[":name"], "bc": variable[":bc"], "uri": variable_uri })
             relationships["HAS_VARIABLE"].append({"from": class_uri, "to": variable_uri})
             index = 1
             for canonical in variable[":canonical"]:
