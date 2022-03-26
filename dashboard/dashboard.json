@@ -7,7 +7,8 @@
     "fullscreenEnabled": true,
     "parameters": {
       "neodash_study_protocol_brief_title": "DDR",
-      "neodash_skos_concept_notation": "VSTESTCD"
+      "neodash_skos_concept_notation": "ETHNIC",
+      "neodash_sdtm_dataset_name": "DM"
     }
   },
   "pages": [
@@ -92,7 +93,7 @@
         },
         {
           "title": "Next Steps",
-          "query": "Next detailed steps:\n- Add link from BC Instances to potential domains\n- Inherit the domain links from BC Instances to Study BC Instances\n- Enable / disable links and show ability to flip BC to domain\n\nLonger-term Steps:\n- Add Events BC in.\n- Derived data for SDTM\n- Study Data Contract\n- CRFs from BCs\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link a FHIR resource\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\n\n",
+          "query": "Next detailed steps:\n- Add in Glucose BC showing narrower child BCs\n- Build form from BCs\n\nDon't forget:\n\n- Enable / disable links and show ability to flip BC to domain\n\nLonger-term Steps:\n- Link in FHIR resources\n- 2nd Study\n- Add Event BCs in\n- Add Intervention BCs in\n- Derived data for SDTM\n- Study Data Contract\n- CRFs from BCs\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\n\n",
           "width": "3",
           "type": "text",
           "height": "6",
@@ -324,7 +325,7 @@
             "BC_ITEM": "name",
             "BC_DATA_TYPE": "name",
             "BC_DATA_TYPE_PROPERTY": "name",
-            "SKOS_CONCEPT": "label"
+            "BC_VALUE_SET": "id"
           },
           "settings": {
             "nodePositions": {},
@@ -404,7 +405,7 @@
       ]
     },
     {
-      "title": "Study",
+      "title": "Study Design",
       "reports": [
         {
           "title": "Protocols",
@@ -502,6 +503,31 @@
       "title": "Study Data",
       "reports": [
         {
+          "title": "",
+          "query": "MATCH (n:`SDTM_DATASET`) \nWHERE toLower(toString(n.`name`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`name` as value LIMIT 5",
+          "width": 3,
+          "type": "select",
+          "height": 3,
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "SDTM_DATASET",
+            "propertyType": "name",
+            "parameterName": "neodash_sdtm_dataset_name"
+          }
+        },
+        {
+          "title": "Study Data",
+          "query": "MATCH (bc:STUDY_BC_INSTANCE)<-[:USE_BC {enabled: true}]-(sd:SDTM_DATASET {name: $neodash_sdtm_dataset_name})-[]->(sv:SDTM_VARIABLE)-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)\n      <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM) WHERE bc.name = cv.bc OR cv.bc = \"\"\n      WITH bc, sd, sv, cv, fdt, bdt, sdp, wfi\n      MATCH (wfi)-[:USED_IN_VISIT]->(v:VISIT)<-[]-(e:EPOCH), \n      (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n      (ct)<-[:HAS_RESPONSE]-()<-[:HAS_DATA_TYPE]-()<-[:HAS_IDENTIFIER]-(bc:STUDY_BC_INSTANCE)-[*]->(bdt)\n    RETURN sd.name as domain, sv.name as variable, sdp.value as data, wfi.id as uuid, v.name as visit, e.study_epoch_name as epoch, subj.identifier as subject, ct.notation as test_code",
+          "width": "9",
+          "type": "table",
+          "height": "3",
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
           "title": "Raw Data",
           "query": "MATCH (n:STUDY_DATA_POINT)-[]->(m:STUDY_SUBJECT) RETURN n.value as Value, m.identifier as Subject_Id\n\n\n",
           "width": 3,
@@ -513,20 +539,9 @@
           }
         },
         {
-          "title": "Study Data",
-          "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[]->(sv:SDTM_VARIABLE)-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)\n  <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM), \n  (wfi)-[:USED_IN_VISIT]->(v:VISIT), \n  (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n  (e:EPOCH)-[]->(v),\n  (ct)<-[:HAS_RESPONSE]-()<-[:HAS_DATA_TYPE]-()<-[:HAS_IDENTIFIER]-(bc:STUDY_BC_INSTANCE)-[*]->(bdt)\nRETURN subj.identifier as subject, wfi.id as key, sd.name as domain, sv.name as variable, ct.notation as test_code, sdp.value as data, v.name as visit, e.study_epoch_name as epoch\n\n",
-          "width": "9",
-          "type": "table",
-          "height": "3",
-          "selection": {},
-          "settings": {
-            "nodePositions": {}
-          }
-        },
-        {
           "title": "Key Relationships - SDTM to BC",
           "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[r1]->(sv:SDTM_VARIABLE)-[r2]->(cv:SDTM_MODEL_VARIABLE)-[r3:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)<-[r4:IS_CANONICAL_REF]-(bdtp:BC_DATA_TYPE_PROPERTY)<-[r5]-(bdt)<-[r6]-(bi)<-[r7]-(bc:STUDY_BC_INSTANCE)\nRETURN sd, sv, cv, fdt, bdtp, bdt, bi, bc, r1, r2, r3, r4, r5, r6, r7\n\n\n",
-          "width": "6",
+          "width": "3",
           "type": "graph",
           "height": "3",
           "selection": {
