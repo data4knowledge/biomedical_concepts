@@ -158,6 +158,40 @@ for index, row in enumerate(rows):
     the_relationships["HAS_OBJECTIVE"].append({ "from": study_design_uri, "to": record["uri"]})
 
 arm_set = set(ta.loc[:,"ARMCD"])
+epoch_set = set(ta.loc[:,"EPOCH"])
+for e_index, epoch in enumerate(list(epoch_set)):
+    epoch_uri = "%s/epoch-%s" % (root_uri, e_index + 1)
+    epoch_name = epoch
+    epoch_desc = epoch
+    epoch_type = ""
+    record = {
+        "uri": epoch_uri,
+        "study_epoch_desc":	epoch_desc,
+        "study_epoch_name":	epoch_name,
+        "study_epoch_type":	epoch_type,
+        "sequence_in_study": (index + 1)
+    }
+    the_nodes["STUDY_EPOCH"].append(record)
+    for a_index, arm in enumerate(list(arm_set)):
+        arm_uri = "%s/arm-%s" % (root_uri, a_index + 1)
+        arm_name = row
+        arm_desc = ts.loc[ts['ARMCD'] == row, "ARM"][0]
+        arm_type = ""
+        record = {
+            "uri": arm_uri,
+            "study_arm_description": arm_desc,
+            "study_arm_name": arm_name,
+            "study_arm_type": arm_type    
+        }
+        the_nodes["STUDY_ARM"].append(record)
+
+        cell_uri = "%s/cell-%s-%s" % (root_uri, e_index + 1, a_index + 1)
+        record = { "uri": cell_uri }
+        the_nodes["STUDY_CELL"].append(record)
+        the_relationships["HAS_CELL"].append({ "from": study_design_uri, "to": record["uri"]})
+        the_relationships["HAS_ARM"].append({ "from": cell_uri, "to": arm_uri})
+    the_relationships["HAS_EPOCH"].append({ "from": cell_uri, "to": epoch_uri})
+
 for index, row in enumerate(list(arm_set)):
     arm_uri = "%s/arm-%s" % (root_uri, index + 1)
     arm_name = row
