@@ -3,13 +3,14 @@ import pandas as pd
 
 files = ["ta", "te", "ti", "ts", "tv"]
 
-#ta = pd.read_sas("../data/cdisc_pilot/ta.xpt", encoding="ISO-8859-1")
-#te = pd.read_sas("../data/cdisc_pilot/te.xpt", encoding="ISO-8859-1")
+ta = pd.read_sas("../data/cdisc_pilot/ta.xpt", encoding="ISO-8859-1")
+te = pd.read_sas("../data/cdisc_pilot/te.xpt", encoding="ISO-8859-1")
 #ti = pd.read_sas("../data/cdisc_pilot/ti.xpt", encoding="ISO-8859-1")
 ts = pd.read_sas("../data/cdisc_pilot/ts.xpt", encoding="ISO-8859-1")
 #tv = pd.read_sas("../data/cdisc_pilot/tv.xpt", encoding="ISO-8859-1")
 
-#print(ts)
+print(ta)
+print(te)
 
 the_nodes = { 
     "STUDY": [],
@@ -155,6 +156,21 @@ for index, row in enumerate(rows):
     }
     the_nodes["OBJECTIVE"].append(record)
     the_relationships["HAS_OBJECTIVE"].append({ "from": study_design_uri, "to": record["uri"]})
+
+arm_set = set(ta.loc[:,"ARMCD"])
+for index, row in enumerate(list(arm_set)):
+    arm_uri = "%s/arm-%s" % (root_uri, index + 1)
+    arm_name = row
+    arm_desc = ts.loc[ts['ARMCD'] == row, "ARM"][0]
+    arm_type = ""
+    record = {
+        "uri": arm_uri,
+        "study_arm_description": arm_desc,
+        "study_arm_name": arm_name,
+        "study_arm_type": arm_type    
+    }
+    the_nodes["STUDY_ARM"].append(record)
+    #the_relationships["HAS_CELL"].append({ "from": study_design_uri, "to": record["uri"]})
 
 # Now output the JSON files
 with open("../data/cdisc_pilot/cdisc_pilot_nodes.json", 'w') as outfile:
