@@ -7,8 +7,8 @@
     "fullscreenEnabled": true,
     "parameters": {
       "neodash_study_protocol_brief_title": "DDR",
-      "neodash_skos_concept_notation": "ETHNIC",
-      "neodash_sdtm_dataset_name": "DM"
+      "neodash_skos_concept_notation": "SPECTYPE",
+      "neodash_sdtm_dataset_name": "VS"
     }
   },
   "pages": [
@@ -244,7 +244,7 @@
         },
         {
           "title": "Code List Items",
-          "query": "MATCH (n:SKOS_CONCEPT {notation: $neodash_skos_concept_notation})-[]->(m:SKOS_CONCEPT) \nRETURN m.notation as Submission, n.identifier as C_Code \n\n\n",
+          "query": "MATCH (n:SKOS_CONCEPT {notation: $neodash_skos_concept_notation})-[]->(m:SKOS_CONCEPT) \nRETURN m.notation as Submission, m.identifier as C_Code \n\n\n",
           "width": 3,
           "type": "table",
           "height": 3,
@@ -316,7 +316,7 @@
         },
         {
           "title": "Detailed BC Instance Graph",
-          "query": "MATCH (bc:BC_INSTANCE)-[r1:HAS_ITEM|HAS_IDENTIFIER]->(i:BC_ITEM)\nWITH bc,i,r1\nOPTIONAL MATCH (i)-[r2:HAS_DATA_TYPE]->(dt:BC_DATA_TYPE)-[r3:HAS_DATA_TYPE_PROPERTY]->(dp:BC_DATA_TYPE_PROPERTY)\nWITH bc,r1,i,r2,dt,r3,dp\nOPTIONAL MATCH (dt)-[r4:HAS_RESPONSE]->(sc)\nRETURN bc,r1,i,r2,dt,r3,dp,r4,sc\n\n",
+          "query": "MATCH (bc:BC_INSTANCE)-[r1:HAS_ITEM|HAS_IDENTIFIER]->(i:BC_ITEM)\nWITH bc,i,r1\nOPTIONAL MATCH (i)-[r2:HAS_DATA_TYPE]->(dt:BC_DATA_TYPE)-[r3:HAS_DATA_TYPE_PROPERTY]->(dp:BC_DATA_TYPE_PROPERTY)\nWITH bc,r1,i,r2,dt,r3,dp\nOPTIONAL MATCH (dt)-[r4:HAS_RESPONSE]->(sc)\nWITH bc,r1,i,r2,dt,r3,dp,r4,sc\nOPTIONAL MATCH (i)-[r5:HAS_QUALIFIER]->()\nWITH bc,r1,i,r2,dt,r3,dp,r4,sc,r5\nOPTIONAL MATCH (bc)-[r6:BC_NARROWER]->()\nRETURN bc,r1,i,r2,dt,r3,dp,r4,sc,r5,r6\n\n",
           "width": "6",
           "type": "graph",
           "height": "3",
@@ -325,11 +325,24 @@
             "BC_ITEM": "name",
             "BC_DATA_TYPE": "name",
             "BC_DATA_TYPE_PROPERTY": "name",
-            "BC_VALUE_SET": "id"
+            "SKOS_CONCEPT": "label"
           },
           "settings": {
             "nodePositions": {},
             "hideSelections": true
+          }
+        },
+        {
+          "title": "Parent Child BCs",
+          "query": "MATCH (bcp:BC_INSTANCE)-[r:BC_NARROWER]->(bcc:BC_INSTANCE)\nRETURN bcp,r,bcc\n\n\n\n",
+          "width": 3,
+          "type": "graph",
+          "height": 3,
+          "selection": {
+            "BC_INSTANCE": "name"
+          },
+          "settings": {
+            "nodePositions": {}
           }
         }
       ]
