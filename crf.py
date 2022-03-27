@@ -1,3 +1,4 @@
+from mmap import MADV_DONTNEED
 from neo4j import GraphDatabase
 import lxml.etree as ElementTree
 import datetime
@@ -8,9 +9,9 @@ import datetime
 # Get a timestamp and set the ODM namespace.
 
 odm_datatype = { "CD": { "code": "text" }, "PQR": { "value": "float", "code": "text" }, "DATETIME": { "value": "date" } }
+odm_namespace = "http://www.cdisc.org/ns/odm/v1.3"
 
 def odm(oid):
-    odm_namespace = "http://www.cdisc.org/ns/odm/v1.3"
     ElementTree.register_namespace("odm", odm_namespace)
     exported_at = datetime.datetime.now().replace(microsecond=0).isoformat()
     nsmap = {None: odm_namespace}
@@ -74,12 +75,13 @@ def study_event_def(parent, oid, name):
     element.set("Type", "Scheduled")
     return element
 
-def blank_form(study_event_def, form_name, the_forms, the_item_groups, the_items, the_code_lists):
-    form = ElementTree.Element("{%s}FormDef" % (odm_namespace))
-    form.set("OID", "DDF_F_%s" % (len(the_forms) + 1)) 
-    form.set("Name", form_name) 
-    form.set("Repeating", "No") 
-    the_forms.append(form)
+def form_def(name):
+    element = ElementTree.Element("{%s}FormDef" % (odm_namespace))
+    element.set("OID", "DDF_F_%s" % (len(the_forms) + 1)) 
+    element.set("Name", name) 
+    element.set("Repeating", "No") 
+    the_forms.append(element)
+    return element
 
 def form_ref(parent, form_oid, order_number):
     element = ElementTree.SubElement(parent, "{%s}FormRef" % (odm_namespace))
@@ -94,32 +96,24 @@ def item_group_ref(parent, item_group_oid, order_number):
     element.set("OrderNumber", order_number) 
     return element
 
-def form(name):
-    element = ElementTree.Element("{%s}FormDef" % (odm_namespace))
-    element.set("OID", "DDF_F_%s" % (len(the_forms) + 1)) 
-    element.set("Name", name) 
-    element.set("Repeating", "No") 
-    the_forms.append(element)
-    return element
-
-def item_group(name):
+def item_group_def(name):
     element = ElementTree.Element("{%s}ItemGroupDef" % (odm_namespace))
-    element.set("OID", "DDF_F_%s_IG" % (len(the_item_groups) + 1)) 
+    element.set("OID", "DDR_IG_%s" % (len(the_item_groups) + 1)) 
     element.set("Name", name) 
     element.set("Repeating", "No")
     the_item_groups.append(element)
     return element
 
-def item_ref(parent, item_oid, order):
+def item_ref(parent, oid, order):
     element = ElementTree.SubElement(parent, "{%s}ItemRef" % (odm_namespace))
-    element.set("ItemOID", item_oid) 
+    element.set("ItemOID", oid) 
     element.set("Mandatory", "Yes")
     element.set("OrderNumber", order)
     return element
     
-def item(name, data_type, question_text):
+def item_def(name, data_type, question_text):
     element = ElementTree.Element("{%s}ItemDef" % (odm_namespace))
-    element.set("OID", "DDF_F_%s_IG_I" % (len(the_forms) + 1)) 
+    element.set("OID", "DDF_I_%s" % (len(the_items) + 1)) 
     element.set("Name", name) 
     element.set("Datatype", data_type) 
     question(element, question_text)
@@ -137,17 +131,17 @@ def translated_text(parent, text):
     element.text = "%s" % (text)
     return element
 
-def code_list(oid):
+def code_list():
     element = ElementTree.Element("{%s}CodeList" % (odm_namespace))
-    element.set("OID", oid) 
+    element.set("OID", "DDF_CL_%s" % (len(the_code_lists) + 1)) 
     element.set("DataType", "text") 
     element.set("Name", "To Be Provided")
-    the_code_lists.append(code_list)
+    the_code_lists.append(element)
     return element
 
-def code_list_ref():
-    element = ElementTree.SubElement(item_def, "{%s}CodeListRef" % (odm_namespace))
-    element.set("CodeListOID", "DDF_F_%s_IG_I_%s_CL" % (len(the_forms) + 1, index)) 
+def code_list_ref(parent, oid):
+    element = ElementTree.SubElement(parent, "{%s}CodeListRef" % (odm_namespace))
+    element.set("CodeListOID", oid) 
 
 def code_list_item(parent, coded, order_number):
     element = ElementTree.SubElement(parent, "{%s}CodeListItem" % (odm_namespace))
@@ -180,6 +174,16 @@ def add_bc_to_group(group_name, bc_name):
         """ % (group_name, bc_name) 
         result = session.run(query)
     driver.close()
+
+def get_forms():
+    the_results = []
+    with driver.session() as session:
+        query = """MATCH (sf:STUDY_FORM) RETURN sf.name as form"""
+        result = session.run(query)
+        for record in result:
+            the_results.append(record["form"])
+    driver.close()
+    return the_results
 
 def get_form_groups(name):
     the_results = []
@@ -224,7 +228,7 @@ def get_form_item_properties(form_name, group_name, item_name):
 def get_form_property_cli(property_uri):
     the_results = []
     with driver.session() as session:
-        query = """MATCH (bcp:BC_DATA_TYPE_PROPERTY {uri: %s})-[]->(sc:SKOS_CONCEPT)
+        query = """MATCH (bcp:BC_DATA_TYPE_PROPERTY {uri: '%s'})<-[]-(:BC_DATA_TYPE)-[]->(sc:SKOS_CONCEPT)
             RETURN DISTINCT sc.notation as submission
         """ % (property_uri) 
         result = session.run(query)
@@ -241,18 +245,6 @@ print(driver)
 #create_study_form("Demographics")
 #add_group_to_form("Demographics", "Main Group")
 #add_bc_to_group("Main Group", "Age")
-groups = get_form_groups("Demographics")
-print(groups)
-for group in groups:
-    items = get_form_group_items("Demographics", group)
-    print(items)
-    for the_item in items:
-        properties = get_form_item_properties("Demographics", group, the_item)
-        for property in properties:
-            print("%s = %s, %s " % (the_item, property["name"], property["uri"]))
-            clis= get_form_property_cli(property["uri"])
-            for cli in clis:
-                print("%s", cli["submission"]) 
 
 # Set of arrays for holding the new items
 the_forms = []
@@ -260,40 +252,58 @@ the_item_groups = []
 the_items = []
 the_code_lists = []
 
-# Build the ODM
-#root = odm() 
-#st = study(odm, "DDR_S_001")
-#gv = global_variables(st)
-#study_name(gv, "")
-#study_description(gv, "")
-#protocol_name(gv, "")
-#bd = basic_definitions(st)
-#mdv = metadata_version(st, "DDR_MDV_001", "DDR Metadata")
-#sed = study_event_def(mdv, "DDR_SED_001", "")
-#pr = protocol(mdv)
-#ser = study_event_ref(pr, "DDR_SE_001")
-#sed = study_event_def(mdv, "DDR_SE_001", "CRF Book")
+root = odm("DDR")
+st = study(root, "DDR_S_001")
+gv = global_variables(st)
+study_name(gv, "DDR")
+study_description(gv, "Something")
+protocol_name(gv, "Something")
+bd = basic_definitions(st)
+mdv = metadata_version(st, "DDR_MDV_001", "DDR Metadata")
+pr = protocol(mdv)
+ser = study_event_ref(pr, "DDR_SE_001")
+sed = study_event_def(mdv, "DDR_SE_001", "CRF Book")
+
+forms= get_forms()
+for form in forms:
+    fd = form_def(form)
+    form_ref(sed, fd.get("OID"), "1")
+    groups = get_form_groups(form)
+    print(groups)
+    for group in groups:
+        igd = item_group_def(group)
+        item_group_ref(fd, igd.get("OID"), "1")
+        items = get_form_group_items(form, group)
+        print(items)
+        for the_item in items:
+            properties = get_form_item_properties(form, group, the_item)
+            for property in properties:
+                id = item_def(property["name"], "text", "question")
+                item_ref(igd, id.get("OID"), "1")
+                print("%s = %s, %s " % (the_item, property["name"], property["uri"]))
+                if property["name"] == "code":
+                    clis= get_form_property_cli(property["uri"])
+                    cl = code_list()
+                    code_list_ref(cl, cl.get("OID"))
+                    for cli in clis:
+                        print("%s" % cli["submission"]) 
+                        code_list_item(cl, cli["submission"], "1")
 
 
-
-#                        for ct in property[":has_coded_value"]:
-#                        cli_info = cdisc_ct(ct[":cl"], ct[":cli"])
-#"DDF_ODM_001"
-#"DDF_S_001"
 
 # Add the items into the core ODM
 for form in the_forms:
-    metadata_version.append(form)
+    mdv.append(form)
 for item_group in the_item_groups:
-    metadata_version.append(item_group)
+    mdv.append(item_group)
 for item in the_items:
-    metadata_version.append(item)
-for code_list in the_code_lists:
-    metadata_version.append(code_list)
+    mdv.append(item)
+for clx in the_code_lists:
+    mdv.append(clx)
 
 # Write out the XML merged file
-#the_odm = ElementTree.ElementTree(root)
-#the_odm.write("ddf_crf.xml", xml_declaration=True, encoding='utf-8', method="xml")
+the_odm = ElementTree.ElementTree(root)
+the_odm.write("ddf_crf.xml", xml_declaration=True, encoding='utf-8', method="xml")
 
 # Transform the XML into an HTML rendering using a style sheet
 #xslt = ElementTree.parse("crf.xsl")
