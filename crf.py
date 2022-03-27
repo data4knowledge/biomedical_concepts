@@ -242,7 +242,7 @@ with open("data/form/bc_extra.yaml") as file:
     extra_info = yaml.load(file, Loader=yaml.FullLoader)
 
 driver = GraphDatabase.driver("neo4j+s://b0320659.databases.neo4j.io", auth=("neo4j", NEO4J_TEST_PWD))
-print(driver)
+
 #create_study_form("Demographics")
 #add_group_to_form("Demographics", "Main Group")
 #add_bc_to_group("Main Group", "Age")
