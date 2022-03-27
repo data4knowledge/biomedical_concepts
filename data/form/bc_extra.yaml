@@ -1,0 +1,11 @@
+---
+http://id.d4k.dk/dataset/study/ddr/bc/Age/result/quantity/value:
+  question_text: What is the subject's age?
+  prompt_text: Age
+  length: '3'
+  data_type: "integer"
+http://id.d4k.dk/dataset/study/ddr/bc/Age/result/quantity/code:
+  question_text: What is the age unit used?
+  prompt_text: Age Unit
+  length: '10'
+  data_type: "text"

@@ -2,10 +2,13 @@ from mmap import MADV_DONTNEED
 from neo4j import GraphDatabase
 import lxml.etree as ElementTree
 import datetime
+import yaml
+import os
 
 # Get a timestamp and set the ODM namespace.
 odm_datatype = { "CD": { "code": "text" }, "PQR": { "value": "float", "code": "text" }, "DATETIME": { "value": "date" } }
 odm_namespace = "http://www.cdisc.org/ns/odm/v1.3"
+NEO4J_TEST_PWD = os.getenv('NEO4J_TEST')
 
 # Series of methods to build ODM. Pretty simple.
 def odm(oid):
@@ -108,11 +111,12 @@ def item_ref(parent, oid, order):
     element.set("OrderNumber", order)
     return element
     
-def item_def(name, data_type, question_text):
+def item_def(name, data_type, length, question_text):
     element = ElementTree.Element("{%s}ItemDef" % (odm_namespace))
     element.set("OID", "DDF_I_%s" % (len(the_items) + 1)) 
     element.set("Name", name) 
     element.set("Datatype", data_type) 
+    element.set("Length", length) 
     question(element, question_text)
     the_items.append(element)
     return element
@@ -234,10 +238,10 @@ def get_form_property_cli(property_uri):
     driver.close()
     return the_results
 
-# DB Read
-# -------
+with open("data/form/bc_extra.yaml") as file:
+    extra_info = yaml.load(file, Loader=yaml.FullLoader)
 
-driver = GraphDatabase.driver("neo4j+s://b0320659.databases.neo4j.io", auth=("neo4j", "x93TyR6B0pkDc5sHp6gvxAbCeCEOuUQQc2x5NDTwg-M"))
+driver = GraphDatabase.driver("neo4j+s://b0320659.databases.neo4j.io", auth=("neo4j", NEO4J_TEST_PWD))
 print(driver)
 #create_study_form("Demographics")
 #add_group_to_form("Demographics", "Main Group")
@@ -275,7 +279,8 @@ for f_index, form in enumerate(forms):
         for i_index, the_item in enumerate(items):
             properties = get_form_item_properties(form, group, the_item)
             for p_index, property in enumerate(properties):
-                id = item_def(property["name"], "text", "question")
+                details = extra_info[property["uri"]]
+                id = item_def(property["name"], details["data_type"], details["length"], details["question_text"])
                 item_ref(igd, id.get("OID"), "%s" % (p_index + 1))
                 print("%s = %s, %s " % (the_item, property["name"], property["uri"]))
                 if property["name"] == "code":
