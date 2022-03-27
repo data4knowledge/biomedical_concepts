@@ -3,14 +3,11 @@ from neo4j import GraphDatabase
 import lxml.etree as ElementTree
 import datetime
 
-#from numpy import rec
-#import yaml
-
 # Get a timestamp and set the ODM namespace.
-
 odm_datatype = { "CD": { "code": "text" }, "PQR": { "value": "float", "code": "text" }, "DATETIME": { "value": "date" } }
 odm_namespace = "http://www.cdisc.org/ns/odm/v1.3"
 
+# Series of methods to build ODM. Pretty simple.
 def odm(oid):
     ElementTree.register_namespace("odm", odm_namespace)
     exported_at = datetime.datetime.now().replace(microsecond=0).isoformat()
@@ -201,7 +198,7 @@ def get_form_group_items(form_name, group_name):
     the_results = []
     with driver.session() as session:
         query = """MATCH (sf:STUDY_FORM {name: '%s'})-[]->(sfg:STUDY_FORM_GROUP {name: '%s'})-[]->(bc:STUDY_BC_INSTANCE)
-            -[:HAS_ITEM]->(bci:BC_ITEM {enabled: "True"})-[*]->(bcp:BC_DATA_TYPE_PROPERTY)
+            -[:HAS_ITEM]->(bci:BC_ITEM {enabled: "True", collect: "True"})-[*]->(bcp:BC_DATA_TYPE_PROPERTY)
             WHERE bcp.name = "value" OR bcp.name = "code"
             RETURN DISTINCT bci.name as item
         """ % (form_name, group_name) 
@@ -229,11 +226,11 @@ def get_form_property_cli(property_uri):
     the_results = []
     with driver.session() as session:
         query = """MATCH (bcp:BC_DATA_TYPE_PROPERTY {uri: '%s'})<-[]-(:BC_DATA_TYPE)-[]->(sc:SKOS_CONCEPT)
-            RETURN DISTINCT sc.notation as submission
+            RETURN DISTINCT sc.notation as submission, sc.pref_label as pt
         """ % (property_uri) 
         result = session.run(query)
         for record in result:
-            the_results.append({ "submission": record["submission"] })
+            the_results.append({ "submission": record["submission"], "pt": record["pt"]  })
     driver.close()
     return the_results
 
@@ -265,30 +262,31 @@ ser = study_event_ref(pr, "DDR_SE_001")
 sed = study_event_def(mdv, "DDR_SE_001", "CRF Book")
 
 forms= get_forms()
-for form in forms:
+for f_index, form in enumerate(forms):
     fd = form_def(form)
-    form_ref(sed, fd.get("OID"), "1")
+    form_ref(sed, fd.get("OID"), "%s" % (f_index + 1 ))
     groups = get_form_groups(form)
     print(groups)
-    for group in groups:
+    for g_index, group in enumerate(groups):
         igd = item_group_def(group)
-        item_group_ref(fd, igd.get("OID"), "1")
+        item_group_ref(fd, igd.get("OID"), "%s" % (g_index + 1 ))
         items = get_form_group_items(form, group)
         print(items)
-        for the_item in items:
+        for i_index, the_item in enumerate(items):
             properties = get_form_item_properties(form, group, the_item)
-            for property in properties:
+            for p_index, property in enumerate(properties):
                 id = item_def(property["name"], "text", "question")
-                item_ref(igd, id.get("OID"), "1")
+                item_ref(igd, id.get("OID"), "%s" % (p_index + 1))
                 print("%s = %s, %s " % (the_item, property["name"], property["uri"]))
                 if property["name"] == "code":
                     clis= get_form_property_cli(property["uri"])
                     cl = code_list()
-                    code_list_ref(cl, cl.get("OID"))
-                    for cli in clis:
+                    code_list_ref(id, cl.get("OID"))
+                    for cl_index, cli in enumerate(clis):
                         print("%s" % cli["submission"]) 
-                        code_list_item(cl, cli["submission"], "1")
-
+                        cl_item = code_list_item(cl, cli["submission"],  "%s" % (cl_index + 1))
+                        dec = decode(cl_item)
+                        translated_text(dec, cli["pt"])
 
 
 # Add the items into the core ODM
@@ -306,7 +304,7 @@ the_odm = ElementTree.ElementTree(root)
 the_odm.write("ddf_crf.xml", xml_declaration=True, encoding='utf-8', method="xml")
 
 # Transform the XML into an HTML rendering using a style sheet
-#xslt = ElementTree.parse("crf.xsl")
-#transform = ElementTree.XSLT(xslt)
-#the_crf = transform(odm)
-#the_crf.write("study.html", xml_declaration=True, encoding='utf-8', method="html")
+xslt = ElementTree.parse("crf.xsl")
+transform = ElementTree.XSLT(xslt)
+the_crf = transform(root)
+the_crf.write("study.html", xml_declaration=True, encoding='utf-8', method="html")
