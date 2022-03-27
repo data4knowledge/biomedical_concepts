@@ -2,7 +2,7 @@ from neo4j import GraphDatabase
 import lxml.etree as ElementTree
 import datetime
 
-from numpy import rec
+#from numpy import rec
 #import yaml
 
 # Get a timestamp and set the ODM namespace.
@@ -221,11 +221,23 @@ def get_form_item_properties(form_name, group_name, item_name):
     driver.close()
     return the_results
 
+def get_form_property_cli(property_uri):
+    the_results = []
+    with driver.session() as session:
+        query = """MATCH (bcp:BC_DATA_TYPE_PROPERTY {uri: %s})-[]->(sc:SKOS_CONCEPT)
+            RETURN DISTINCT sc.notation as submission
+        """ % (property_uri) 
+        result = session.run(query)
+        for record in result:
+            the_results.append({ "submission": record["submission"] })
+    driver.close()
+    return the_results
+
 # DB Read
 # -------
 
 driver = GraphDatabase.driver("neo4j+s://b0320659.databases.neo4j.io", auth=("neo4j", "x93TyR6B0pkDc5sHp6gvxAbCeCEOuUQQc2x5NDTwg-M"))
-
+print(driver)
 #create_study_form("Demographics")
 #add_group_to_form("Demographics", "Main Group")
 #add_bc_to_group("Main Group", "Age")
@@ -238,6 +250,9 @@ for group in groups:
         properties = get_form_item_properties("Demographics", group, the_item)
         for property in properties:
             print("%s = %s, %s " % (the_item, property["name"], property["uri"]))
+            clis= get_form_property_cli(property["uri"])
+            for cli in clis:
+                print("%s", cli["submission"]) 
 
 # Set of arrays for holding the new items
 the_forms = []
