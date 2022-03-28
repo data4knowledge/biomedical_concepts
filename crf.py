@@ -154,28 +154,7 @@ def decode(parent):
     element = ElementTree.SubElement(parent, "{%s}Decode" % (odm_namespace))
     return element
 
-def create_study_form(name):
-    with driver.session() as session:
-        query = """CREATE (n:STUDY_FORM {name: '%s'})""" % (name) 
-        result = session.run(query)
-    driver.close()
-
-def add_group_to_form(form_name, group_name):
-    with driver.session() as session:
-        query = """MATCH (n:STUDY_FORM {name: '%s'})
-            CREATE (n)-[:HAS_GROUP]->(:STUDY_FORM_GROUP {name: '%s'})
-        """ % (form_name, group_name) 
-        result = session.run(query)
-    driver.close()
-
-def add_bc_to_group(group_name, bc_name):
-    with driver.session() as session:
-        query = """MATCH (n:STUDY_FORM_GROUP {name: '%s'}), (m:STUDY_BC_INSTANCE {name: '%s'})
-            CREATE (n)-[:HAS_BC]->(m)
-        """ % (group_name, bc_name) 
-        result = session.run(query)
-    driver.close()
-
+# Methods to retrieve info from Neo4j
 def get_forms():
     the_results = []
     with driver.session() as session:
@@ -238,14 +217,13 @@ def get_form_property_cli(property_uri):
     driver.close()
     return the_results
 
+# Main processing
+# ===============
+
 with open("data/form/bc_extra.yaml") as file:
     extra_info = yaml.load(file, Loader=yaml.FullLoader)
 
 driver = GraphDatabase.driver("neo4j+s://b0320659.databases.neo4j.io", auth=("neo4j", NEO4J_TEST_PWD))
-
-#create_study_form("Demographics")
-#add_group_to_form("Demographics", "Main Group")
-#add_bc_to_group("Main Group", "Age")
 
 # Set of arrays for holding the new items
 the_forms = []
@@ -279,7 +257,11 @@ for f_index, form in enumerate(forms):
         for i_index, the_item in enumerate(items):
             properties = get_form_item_properties(form, group, the_item)
             for p_index, property in enumerate(properties):
-                details = extra_info[property["uri"]]
+                if property["uri"] in extra_info:
+                    details = extra_info[property["uri"]]
+                else:
+                    print("Missing URI:", property["uri"])
+                    details = { "data_type": "text", "length": "10", "question_text": "???" }
                 id = item_def(property["name"], details["data_type"], details["length"], details["question_text"])
                 item_ref(igd, id.get("OID"), "%s" % (p_index + 1))
                 print("%s = %s, %s " % (the_item, property["name"], property["uri"]))
@@ -306,10 +288,10 @@ for clx in the_code_lists:
 
 # Write out the XML merged file
 the_odm = ElementTree.ElementTree(root)
-the_odm.write("ddf_crf.xml", xml_declaration=True, encoding='utf-8', method="xml")
+the_odm.write("study_crf.xml", xml_declaration=True, encoding='utf-8', method="xml")
 
 # Transform the XML into an HTML rendering using a style sheet
 xslt = ElementTree.parse("crf.xsl")
 transform = ElementTree.XSLT(xslt)
 the_crf = transform(root)
-the_crf.write("study.html", xml_declaration=True, encoding='utf-8', method="html")
+the_crf.write("study_crf.html", xml_declaration=True, encoding='utf-8', method="html")

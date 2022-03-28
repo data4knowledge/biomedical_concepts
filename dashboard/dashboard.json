@@ -71,11 +71,13 @@
             "CANONICAL_REF": "name",
             "OTHER_SOURCE": "name",
             "STUDY_TYPE": "name",
+            "STUDY_FORM_GROUP": "name",
             "PROCEDURE": "name",
             "STUDY_DATA": "name",
             "SDTM_CLASS": "name",
             "INVESTIGATIONAL_INTERVENTIONS": "name",
             "STUDY_SUBJECT": "name",
+            "STUDY_FORM": "name",
             "CANONICAL_DATA_TYPE_PROPERTY": "name",
             "CODE": "name",
             "VISIT": "name",
@@ -93,7 +95,7 @@
         },
         {
           "title": "Next Steps",
-          "query": "Next detailed steps:\n- Add in Glucose BC showing narrower child BCs\n- Build form from BCs\n\nDon't forget:\n\n- Enable / disable links and show ability to flip BC to domain\n\nLonger-term Steps:\n- Link in FHIR resources\n- 2nd Study\n- Add Event BCs in\n- Add Intervention BCs in\n- Derived data for SDTM\n- Study Data Contract\n- CRFs from BCs\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\n\n",
+          "query": "Next detailed steps:\n- Add in Glucose BC showing narrower child BCs\n- Build form from BCs\n- Add simple BC Data Contract\n\nDon't forget:\n\n- Enable / disable links and show ability to flip BC to domain\n\nLonger-term Steps:\n- Link in FHIR resources\n- 2nd Study\n- Add Event BCs in\n- Add Intervention BCs in\n- Derived data for SDTM\n- CRFs from BCs\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\n\n",
           "width": "3",
           "type": "text",
           "height": "6",
@@ -342,7 +344,8 @@
             "BC_INSTANCE": "name"
           },
           "settings": {
-            "nodePositions": {}
+            "nodePositions": {},
+            "hideSelections": true
           }
         }
       ]
@@ -509,6 +512,17 @@
             "nodePositions": {},
             "hideSelections": true
           }
+        },
+        {
+          "title": "BC Data Contract",
+          "query": "MATCH (pr:STUDY_PROTOCOL)<-[]-(s:STUDY)-[]->(sd:STUDY_DESIGN)-[]->(sc:STUDY_CELL)-[]->(e:EPOCH)-[]->(v:VISIT)<-[]-(wfi:WORKFLOW_ITEM)-[]->(a:ACTIVITY)-[]->(bc:STUDY_BC_INSTANCE) WHERE pr.brief_title = $neodash_study_protocol_brief_title\nWITH a, bc ORDER BY v.number\nRETURN DISTINCT a.description as Activity, bc.name as BC_Name\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
         }
       ]
     },
@@ -608,6 +622,49 @@
             "WORKFLOW_ITEM": "id",
             "VISIT": "name",
             "STUDY_SUBJECT": "(label)"
+          },
+          "settings": {
+            "nodePositions": {},
+            "hideSelections": true
+          }
+        },
+        {
+          "title": "",
+          "query": "\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        }
+      ]
+    },
+    {
+      "title": "Form",
+      "reports": [
+        {
+          "title": "Forms",
+          "query": "MATCH (n:STUDY_FORM) RETURN n.name as Name\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 3,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "title": "Forms and BCs",
+          "query": "MATCH (n:STUDY_FORM)-[r1]->(m)-[r2]->(bc:STUDY_BC_INSTANCE)\nRETURN n,m,bc,r1,r2\n\n\n",
+          "width": 3,
+          "type": "graph",
+          "height": 3,
+          "selection": {
+            "STUDY_FORM": "name",
+            "STUDY_FORM_GROUP": "name",
+            "STUDY_BC_INSTANCE": "name"
           },
           "settings": {
             "nodePositions": {},

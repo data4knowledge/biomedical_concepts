@@ -9,3 +9,18 @@ http://id.d4k.dk/dataset/study/ddr/bc/Age/result/quantity/code:
   prompt_text: Age Unit
   length: '10'
   data_type: "text"
+http://id.d4k.dk/dataset/study/ddr/bc/Race/result/coding/code:
+  question_text: Which of the following five racial designations best describes you?
+  prompt_text: Race
+  length: '30'
+  data_type: "text"
+http://id.d4k.dk/dataset/study/ddr/bc/Ethnicity/result/coding/code:
+  question_text: Do you consider yourself Hispanic/Latino or not Hispanic/Latino?
+  prompt_text: Ethnicity
+  length: '10'
+  data_type: "text"
+http://id.d4k.dk/dataset/study/ddr/bc/Sex/result/coding/code:
+  question_text: What is the sex of the subject?
+  prompt_text: Sex
+  length: '10'
+  data_type: "text"
