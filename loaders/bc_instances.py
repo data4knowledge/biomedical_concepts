@@ -16,6 +16,7 @@ bc_uri = {}
 # Source
 source_uri = "http://id.d4k.dk/dataset/source/bc_instance"
 record = {
+    "url": "",
     "uri": source_uri, 
     "description": "Designed for this project."
 }
