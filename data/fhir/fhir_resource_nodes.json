@@ -37,19 +37,9 @@
         {
             "name": "quantity",
             "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity"
-        },
-        {
-            "name": "date_time",
-            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#date_time"
         }
     ],
     "FHIR_RESOURCE_DATA_TYPE_PROPERTY": [
-        {
-            "name": "value", 
-            "simple_data_type": "string",
-            "json_path": "",
-            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#date_time_value"
-        },
         {
             "name": "system", 
             "simple_data_type": "string", 
