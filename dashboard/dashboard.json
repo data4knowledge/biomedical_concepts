@@ -2,7 +2,7 @@
   "title": "Biomedical Concepts Treatise",
   "version": "2.0",
   "settings": {
-    "pagenumber": 0,
+    "pagenumber": 8,
     "editable": true,
     "fullscreenEnabled": true,
     "parameters": {
@@ -38,6 +38,8 @@
             "POPULATION": "name",
             "SDTM_IG": "name",
             "BC_INSTANCE": "name",
+            "FHIR_RESOURCE_DATA_TYPE": "name",
+            "FHIR_RESOURCE_NODE": "name",
             "STUDY_ARM": "name",
             "SDTM_MODEL": "name",
             "INDICATION": "name",
@@ -54,7 +56,6 @@
             "STUDY_BC_INSTANCE": "name",
             "FHIR_DATA_TYPE_PROPERTY": "name",
             "SDTM_DATASET": "name",
-            "FHIR": "name",
             "BC_TEMPLATE": "name",
             "SDTM_VARIABLE": "name",
             "STUDY_DATA_POINT": "name",
@@ -68,6 +69,7 @@
             "OBJECTIVE": "name",
             "RULE": "name",
             "BC_ITEM": "name",
+            "FHIR_RESOURCE": "name",
             "CANONICAL_REF": "name",
             "OTHER_SOURCE": "name",
             "STUDY_TYPE": "name",
@@ -76,6 +78,7 @@
             "STUDY_DATA": "name",
             "SDTM_CLASS": "name",
             "INVESTIGATIONAL_INTERVENTIONS": "name",
+            "FHIR_RESOURCE_DATA_TYPE_PROPERTY": "name",
             "STUDY_SUBJECT": "name",
             "STUDY_FORM": "name",
             "CANONICAL_DATA_TYPE_PROPERTY": "name",
@@ -84,6 +87,7 @@
             "ENDPOINT": "name",
             "VERSION": "name",
             "STUDY_ELEMENT": "name",
+            "FHIR_DATA_TYPES": "name",
             "STUDY_DESIGN": "name",
             "ACTIVITY": "name"
           },
@@ -95,7 +99,7 @@
         },
         {
           "title": "Next Steps",
-          "query": "Next detailed steps:\n- Add in Glucose BC showing narrower child BCs\n- Build form from BCs\n- Add simple BC Data Contract\n\nDon't forget:\n\n- Enable / disable links and show ability to flip BC to domain\n\nLonger-term Steps:\n- Link in FHIR resources\n- 2nd Study\n- Add Event BCs in\n- Add Intervention BCs in\n- Derived data for SDTM\n- CRFs from BCs\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\n\n",
+          "query": "Immediate Steps:\n- Link in FHIR resources\n\nLonger-term Steps:\n- 2nd Study\n- Add Event BCs in\n- Add Intervention BCs in\n- Derived data for SDTM\n- CRFs from BCs\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\nDon't forget:\n- Enable / disable links and show ability to flip BC to domain\n\nLessons\n- Model \"other\" questions and responses in BCs\n- Ordering for BCs and items when BCs displayed in forms\n\n",
           "width": "3",
           "type": "text",
           "height": "6",
@@ -342,6 +346,27 @@
           "height": 3,
           "selection": {
             "BC_INSTANCE": "name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "hideSelections": true
+          }
+        },
+        {
+          "title": "BC to FHIR Resource",
+          "query": "MATCH (n:STUDY_BC_INSTANCE)-[r1:HAS_ITEM]->(i)-[r2:HAS_DATA_TYPE]->(dt)-[r3:HAS_DATA_TYPE_PROPERTY]->\n    (dtp)-[r4:IS_CANONICAL_REF]->(cr)<-[r5:IS_CANONICAL_REF]-(fdtp)<-[r6:HAS_DATA_TYPE_PROPERTY]-(fdt)<-[r7]-(m:FHIR_RESOURCE)\n    RETURN n,i,dt,dtp,cr,fdtp,fdt,m,r1,r2,r3,r4,r5,r6,r7\n\n\n",
+          "width": 3,
+          "type": "graph",
+          "height": 3,
+          "selection": {
+            "STUDY_BC_INSTANCE": "name",
+            "BC_ITEM": "name",
+            "BC_DATA_TYPE": "name",
+            "BC_DATA_TYPE_PROPERTY": "name",
+            "CANONICAL_DATA_TYPE_PROPERTY": "name",
+            "FHIR_RESOURCE_DATA_TYPE_PROPERTY": "name",
+            "FHIR_RESOURCE_DATA_TYPE": "name",
+            "FHIR_RESOURCE": "name"
           },
           "settings": {
             "nodePositions": {},
