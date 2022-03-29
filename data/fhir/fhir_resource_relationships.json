@@ -1,0 +1,26 @@
+{
+    "FROM_SOURCE": [
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource", "to": "http://id.d4k.dk/dataset/source/fhir/resource" }
+    ],
+    "HAS_RESOURCE": [
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#observation" }
+    ],
+    "CODEABLE_CONCEPT": [
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#observation", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding" }
+    ],
+    "VALUE_QUANTITY": [
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#observation", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity" } 
+    ],
+    "HAS_DATA_TYPE_PROPERTY": [
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding_user_selected" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding_display" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding_version" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding_code" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding_system" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity_value" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity_comparator" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity_unit" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity_system" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity_code" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/resource#date_time", "to": "http://id.d4k.dk/dataset/hl7/fhir/resource#date_time_value" }    ]
+}

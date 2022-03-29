@@ -1,13 +1,13 @@
 {
     "FROM_SOURCE": [
         {
-            "from": "http://id.d4k.dk/dataset/source/ct",
+            "from": "http://id.d4k.dk/dataset/ct/main",
             "to": "http://id.d4k.dk/dataset/source/ct"
         }
     ],
     "SKOS_HAS_TOP_CONCEPT": [
         {
-            "from": "http://id.d4k.dk/dataset/source/ct",
+            "from": "http://id.d4k.dk/dataset/ct/main",
             "to": "http://id.d4k.dk/dataset/ct/main/D000001"
         }
     ],

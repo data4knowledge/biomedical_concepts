@@ -63,6 +63,10 @@ stages = [
     [ 
         { "filename": "sponsor_ct/sponsor_ct_nodes.json", "type": "nodes" },
         { "filename": "sponsor_ct/sponsor_ct_relationships.json", "type": "relationships" },
+    ],
+    [ 
+        { "filename": "fhir/fhir_resource_nodes.json", "type": "nodes" },
+        { "filename": "fhir/fhir_resource_relationships.json", "type": "relationships" },
     ]
 ]
 code_lists = [

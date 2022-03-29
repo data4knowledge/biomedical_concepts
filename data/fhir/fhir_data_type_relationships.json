@@ -1,6 +1,6 @@
 {
     "FROM_SOURCE": [
-        { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/source/fhir" }
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/source/fhir/datatypes" }
     ],
     "HAS_DATA_TYPE": [
         { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding" },

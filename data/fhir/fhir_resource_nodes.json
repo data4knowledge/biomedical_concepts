@@ -1,0 +1,114 @@
+{
+    "FHIR_resource": [
+        {
+            "version": "4.0.1",
+            "date": "2019-10-30",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource"
+        }
+    ],
+    "WEB_SOURCE": [
+        {
+            "description": "The FHIR resource. A quick and dirty implementation model to get going.",
+            "url": "https://www.hl7.org/fhir/resourcelist.html",
+            "uri": "http://id.d4k.dk/dataset/source/fhir/resource"
+        }
+    ],
+    "FHIR_RESOURCE": [
+        {
+            "name": "observation",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#observation"
+        }
+    ],
+    "FHIR_RESOURCE_NODE": [
+        {
+            "name": "identifier",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#identifier"
+        },
+        {
+            "name": "reference",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#reference"
+        }
+    ],
+    "FHIR_RESOURCE_DATA_TYPE": [
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding"
+        },
+        {
+            "name": "quantity",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity"
+        },
+        {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#date_time"
+        }
+    ],
+    "FHIR_RESOURCE_DATA_TYPE_PROPERTY": [
+        {
+            "name": "value", 
+            "simple_data_type": "string",
+            "json_path": "",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#date_time_value"
+        },
+        {
+            "name": "system", 
+            "simple_data_type": "string", 
+            "json_path": "valueQuantity.system",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity_system"
+        },
+        {
+            "name": "value", 
+            "simple_data_type": "float",  
+            "json_path": "valueQuantity.value",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity_value"
+        },
+        {
+            "name": "comparator", 
+            "simple_data_type":  "string",  
+            "json_path": "valueQuantity.comparator",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity_comparator"
+        },
+        {
+            "name": "unit",
+            "simple_data_type":  "string",  
+            "json_path": "valueQuantity.unit",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity_unit"
+        },
+        {
+            "name": "code",  
+            "simple_data_type":  "string", 
+            "json_path": "valueQuantity.code",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#quantity_code"
+        },
+        {
+            "name": "system", 
+            "simple_data_type": "string",  
+            "json_path": "",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding_system"
+        },
+        {
+            "name": "display",
+            "simple_data_type":   "string",  
+            "json_path": "",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding_display"
+        },
+        {
+            "name": "user_selected",
+            "simple_data_type":  "boolean",   
+            "json_path": "",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding_user_selected"
+        },
+        {
+            "name": "code", 
+            "simple_data_type": "code",   
+            "json_path": "",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding_code"
+        },
+        {
+            "name": "version",  
+            "simple_data_type": "string", 
+            "json_path": "",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/resource#coding_version"
+        }
+    ]
+}
