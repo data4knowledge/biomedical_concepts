@@ -14,6 +14,7 @@ with open("../data/bc/templates/templates.yaml") as file:
     # Source
     source_uri = "http://id.d4k.dk/dataset/source/bc_template"
     record = {
+        "url": "",
         "uri": source_uri, 
         "description": "Designed for this project."
     }

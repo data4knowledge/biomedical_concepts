@@ -20,7 +20,7 @@ with open("../data/sponsor_ct/sponsor_ct.yaml") as file:
     cs_concept["version"] =  "0.1"
     cs_concept["status"] =  "Draft"
     nodes["SKOS_CONCEPT_SCHEME"].append(cs_concept)
-    source = { "description": "Made up for the demo", "uri": source_uri }
+    source = { "description": "Made up for the demo", "url": "", "uri": source_uri }
     nodes["OTHER_SOURCE"].append(source)
     relationships["FROM_SOURCE"].append({ "from": cs_concept["uri"], "to": source["uri"] })
     parent_uri = base_uri

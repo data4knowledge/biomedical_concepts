@@ -44,6 +44,7 @@ with open("../data/canonical/canonical_model.yaml") as file:
     base_uri = "http://id.d4k.dk/dataset/canonical"
     common_uri = "%s/common" % (base_uri)
     record = {
+        "url": "",
         "uri": source_uri, 
         "description": "Designed for this project."
     }

@@ -1,5 +1,5 @@
 {
-    "FHIR": [
+    "FHIR_DATA_TYPES": [
         {
             "version": "4.0.1",
             "date": "2019-10-30",
@@ -8,8 +8,9 @@
     ],
     "WEB_SOURCE": [
         {
+            "description": "The FHIR datatypes. A quick and dirty implementation model to get going.",
             "url": "https://www.hl7.org/fhir/datatypes.html",
-            "uri": "http://id.d4k.dk/dataset/source/fhir"
+            "uri": "http://id.d4k.dk/dataset/source/fhir/datatypes"
         }
     ],
     "FHIR_DATA_TYPE": [

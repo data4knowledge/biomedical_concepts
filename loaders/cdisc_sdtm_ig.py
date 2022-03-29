@@ -35,7 +35,7 @@ ig["label"] = ig_body['description']
 ig["label"] = ig_body['name']
 ig["label"] = ig_body['effectiveDate']
 nodes["SDTM_IG"].append(ig)
-source = { "url": api_url, "uri": "http://id.d4k.dk/dataset/source/cdisc/sdtm" }
+source = { "description": "The CDISC SDTM IG taken from the CDISC Library API.", "url": api_url, "uri": "http://id.d4k.dk/dataset/source/cdisc/sdtm" }
 nodes["API_SOURCE"].append(source)
 relationships["FROM_SOURCE"].append({ "from": ig["uri"], "to": source["uri"] })        
 

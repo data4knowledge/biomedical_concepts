@@ -12,6 +12,7 @@ with open("../data/cdisc_sdtm/cdisc_sdtm_model.yaml") as file:
     source_uri = "http://id.d4k.dk/dataset/source/sdtm_model"
     base_uri = "http://id.d4k.dk/dataset/sdtm_model"
     record = {
+        "url": "",
         "uri": source_uri, 
         "description": "Designed for this project."
     }

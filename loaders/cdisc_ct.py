@@ -106,7 +106,7 @@ for item in final_results['48']:
             cs_concept["version"] =  body['version']
             cs_concept["status"] =  body['registrationStatus']
             nodes["SKOS_CONCEPT_SCHEME"].append(cs_concept)
-            source = { "url": api_url, "uri": "http://id.d4k.dk/dataset/source/cdisc/ct/%s" % (k.lower())}
+            source = { "url": api_url, "description": "CDISC CT for %s taken from the CDISC library API." % (k.lower()), "uri": "http://id.d4k.dk/dataset/source/cdisc/ct/%s" % (k.lower())}
             nodes["API_SOURCE"].append(source)
             relationships["FROM_SOURCE"].append({ "from": cs_concept["uri"], "to": source["uri"] })
             for cl in body['codelists']:
