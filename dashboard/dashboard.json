@@ -2,7 +2,7 @@
   "title": "Biomedical Concepts Treatise",
   "version": "2.0",
   "settings": {
-    "pagenumber": 8,
+    "pagenumber": 0,
     "editable": true,
     "fullscreenEnabled": true,
     "parameters": {
@@ -99,7 +99,7 @@
         },
         {
           "title": "Next Steps",
-          "query": "Immediate Steps:\n- Link in FHIR resources\n\nLonger-term Steps:\n- 2nd Study\n- Add Event BCs in\n- Add Intervention BCs in\n- Derived data for SDTM\n- CRFs from BCs\n- Generate a CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\nDon't forget:\n- Enable / disable links and show ability to flip BC to domain\n\nLessons\n- Model \"other\" questions and responses in BCs\n- Ordering for BCs and items when BCs displayed in forms\n\n",
+          "query": "Immediate Steps:\n- Provide the LOINC <-> CDISC model\n- Include the UCUM <-> CDISC model\n- Add further resources\n\nLonger-term Steps:\n- 2nd Study\n- Add Event BCs in\n- Add Intervention BCs in\n- Derived data for SDTM\n- More complete Forms / CRFs from BCs\n- Finish generating the CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\nDon't forget:\n- Enable / disable links and show ability to flip BC to domain\n\nLessons\n- Model \"other\" questions and responses in BCs\n- Ordering for BCs and items when BCs displayed in forms\n\n",
           "width": "3",
           "type": "text",
           "height": "6",
@@ -115,12 +115,12 @@
       "reports": [
         {
           "title": "Detailed Graph",
-          "query": "MATCH (f:FHIR)-[s]->(t:FHIR_DATA_TYPE)-[r]->(p:FHIR_DATA_TYPE_PROPERTY) RETURN f,s,t,r,p\n\n\n",
+          "query": "MATCH (f:FHIR_DATA_TYPES)-[s]->(t:FHIR_DATA_TYPE)-[r]->(p:FHIR_DATA_TYPE_PROPERTY) RETURN f,s,t,r,p\n\n\n",
           "width": 3,
           "type": "graph",
           "height": 3,
           "selection": {
-            "FHIR": "version",
+            "FHIR_DATA_TYPES": "id",
             "FHIR_DATA_TYPE": "name",
             "FHIR_DATA_TYPE_PROPERTY": "name"
           },
@@ -651,17 +651,6 @@
           "settings": {
             "nodePositions": {},
             "hideSelections": true
-          }
-        },
-        {
-          "title": "",
-          "query": "\n\n\n",
-          "width": 3,
-          "type": "table",
-          "height": 3,
-          "selection": {},
-          "settings": {
-            "nodePositions": {}
           }
         }
       ]
