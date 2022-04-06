@@ -6,7 +6,9 @@
         { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding" },
         { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity" },
         { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#date_time" },
-        { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#codeable_concept" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#codeable_concept" }
+    ],
+    "USES_DATA_TYPE": [
         { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#codeable_concept", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding" }
     ],
     "HAS_DATA_TYPE_PROPERTY": [
