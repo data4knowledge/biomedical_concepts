@@ -5,7 +5,9 @@
     "HAS_DATA_TYPE": [
         { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding" },
         { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity" },
-        { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#date_time" } 
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#date_time" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#codeable_concept" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#codeable_concept", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding" }
     ],
     "HAS_DATA_TYPE_PROPERTY": [
         { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#coding_user_selected" },
@@ -18,5 +20,7 @@
         { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity_unit" },
         { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity_system" },
         { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#quantity_code" },
-        { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#date_time", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#date_time_value" }    ]
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#date_time", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#date_time_value" },
+        { "from": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#codeable_concept", "to": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#codeable_concept_text" }
+    ]
 }

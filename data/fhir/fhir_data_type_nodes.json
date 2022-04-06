@@ -25,9 +25,18 @@
         {
             "name": "date_time",
             "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#date_time"
+        },
+        {
+            "name": "codeable_concept",
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#codeable_concept"
         }
     ],
     "FHIR_DATA_TYPE_PROPERTY": [
+        {
+            "name": "text", 
+            "simple_data_type": "string", 
+            "uri": "http://id.d4k.dk/dataset/hl7/fhir/datatypes#codeable_concept_text"
+        },
         {
             "name": "value", 
             "simple_data_type": "string", 
