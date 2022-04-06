@@ -363,7 +363,7 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/specimen"
         },
         {
-            "canonical": "",
+            "canonical": "TERM",
             "enabled": true,
             "mandatory": true,
             "name": "Event",
@@ -482,14 +482,14 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/standard_toxicity_grade"
         },
         {
-            "canonical": "",
+            "canonical": "DATE TIME",
             "enabled": true,
             "mandatory": true,
             "name": "Start DateTime",
             "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/start_datetime"
         },
         {
-            "canonical": "",
+            "canonical": "DATE TIME",
             "enabled": true,
             "mandatory": true,
             "name": "End DateTime",
@@ -636,14 +636,14 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/intervention/standard_toxicity_grade"
         },
         {
-            "canonical": "",
+            "canonical": "DATE TIME",
             "enabled": true,
             "mandatory": true,
             "name": "Start DateTime",
             "uri": "http://id.d4k.dk/dataset/bc_template/intervention/start_datetime"
         },
         {
-            "canonical": "",
+            "canonical": "DATE TIME",
             "enabled": true,
             "mandatory": true,
             "name": "End DateTime",
