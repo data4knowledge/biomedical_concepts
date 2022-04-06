@@ -297,6 +297,10 @@
             "to": "http://id.d4k.dk/dataset/canonical/common/location/portion/coding"
         },
         {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/term",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/term/codeable_concept"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/canonical/common/location/directionality",
             "to": "http://id.d4k.dk/dataset/canonical/common/location/directionality/coding"
         },
