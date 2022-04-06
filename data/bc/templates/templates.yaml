@@ -93,3 +93,234 @@
     :enabled: true  
     :data_type: 
     - :name: coding
+- :name: "Event Observation"
+  :identified_by: 
+    :name: "Event"
+    :mandatory: true
+    :enabled: true  
+    :data_type: 
+    - :name: codeable_concept
+  :has_items:
+  - :name: "Serious Event"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Severity"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Causality"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Relationship to Non-Study Treatment"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Action taken"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Other Action Taken"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Concomitant or Additional Treatment Given"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Outcome"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Pattern of Event"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Hospitalization Required"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Is Life Threatening"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Occurred with Overdose"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Other Medically Important Serious Event"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Involves Cancer"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Results in Death"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Standard Toxicity Grade"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Start DateTime"
+    :mandatory: true
+    :enabled: true  
+    :data_type: 
+    - :name: date_time
+  - :name: "End DateTime"
+    :mandatory: true
+    :enabled: true  
+    :data_type: 
+    - :name: date_time
+  - :name: "Location of Event"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Congenital Anomaly or Birth Defect"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Persist or Signif Disability/Incapacity"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+- :name: "Intervention"
+  :identified_by: 
+    :name: "Intervention"
+    :mandatory: true
+    :enabled: true  
+    :data_type: 
+    - :name: codeable_concept
+  :has_items:
+  - :name: "Serious Event"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Severity"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Causality"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Relationship to Non-Study Treatment"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Action taken"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Other Action Taken"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Concomitant or Additional Treatment Given"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Outcome"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Pattern of Event"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Hospitalization Required"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Is Life Threatening"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Occurred with Overdose"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Other Medically Important Serious Event"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Involves Cancer"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Results in Death"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Standard Toxicity Grade"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Start DateTime"
+    :mandatory: true
+    :enabled: true  
+    :data_type: 
+    - :name: date_time
+  - :name: "End DateTime"
+    :mandatory: true
+    :enabled: true  
+    :data_type: 
+    - :name: date_time
+  - :name: "Location of Event"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Congenital Anomaly or Birth Defect"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  - :name: "Persist or Signif Disability/Incapacity"
+    :mandatory: false
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+
+
+
+
+

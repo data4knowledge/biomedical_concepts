@@ -7,6 +7,14 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_template/base_laboratory",
             "to": "http://id.d4k.dk/dataset/source/bc_template"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/source/bc_template"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/source/bc_template"
         }
     ],
     "HAS_DATA_TYPE": [
@@ -81,6 +89,182 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_template/base_laboratory/specimen",
             "to": "http://id.d4k.dk/dataset/bc_template/base_laboratory/specimen/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/event",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/event/codeable_concept"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/serious_event",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/serious_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/severity",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/severity/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/causality",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/causality/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/relationship_to_non-study_treatment",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/relationship_to_non-study_treatment/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/action_taken",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/action_taken/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/other_action_taken",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/other_action_taken/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/concomitant_or_additional_treatment_given",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/concomitant_or_additional_treatment_given/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/outcome",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/outcome/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/pattern_of_event",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/pattern_of_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/hospitalization_required",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/hospitalization_required/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/is_life_threatening",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/is_life_threatening/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/occurred_with_overdose",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/occurred_with_overdose/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/other_medically_important_serious_event",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/other_medically_important_serious_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/involves_cancer",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/involves_cancer/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/results_in_death",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/results_in_death/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/standard_toxicity_grade",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/standard_toxicity_grade/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/start_datetime",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/start_datetime/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/end_datetime",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/end_datetime/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/location_of_event",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/location_of_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/congenital_anomaly_or_birth_defect",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/congenital_anomaly_or_birth_defect/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_signif_disability/incapacity",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_signif_disability/incapacity/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/intervention/codeable_concept"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/serious_event",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/serious_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/severity",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/severity/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/causality",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/causality/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/relationship_to_non-study_treatment",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/relationship_to_non-study_treatment/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/action_taken",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/action_taken/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/other_action_taken",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/other_action_taken/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/concomitant_or_additional_treatment_given",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/concomitant_or_additional_treatment_given/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/outcome",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/outcome/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/pattern_of_event",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/pattern_of_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/hospitalization_required",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/hospitalization_required/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/is_life_threatening",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/is_life_threatening/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/occurred_with_overdose",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/occurred_with_overdose/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/other_medically_important_serious_event",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/other_medically_important_serious_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/involves_cancer",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/involves_cancer/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/results_in_death",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/results_in_death/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/standard_toxicity_grade",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/standard_toxicity_grade/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/start_datetime",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/start_datetime/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/end_datetime",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/end_datetime/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/location_of_event",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/location_of_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/congenital_anomaly_or_birth_defect",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/congenital_anomaly_or_birth_defect/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/persist_or_signif_disability/incapacity",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/persist_or_signif_disability/incapacity/coding"
         }
     ],
     "HAS_IDENTIFIER": [
@@ -91,6 +275,14 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_template/base_laboratory",
             "to": "http://id.d4k.dk/dataset/bc_template/base_laboratory/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/intervention"
         }
     ],
     "HAS_ITEM": [
@@ -157,6 +349,182 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_template/base_laboratory",
             "to": "http://id.d4k.dk/dataset/bc_template/base_laboratory/specimen"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/serious_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/severity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/causality"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/relationship_to_non-study_treatment"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/action_taken"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/other_action_taken"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/concomitant_or_additional_treatment_given"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/outcome"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/pattern_of_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/hospitalization_required"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/is_life_threatening"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/occurred_with_overdose"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/other_medically_important_serious_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/involves_cancer"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/results_in_death"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/standard_toxicity_grade"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/start_datetime"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/end_datetime"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/location_of_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/congenital_anomaly_or_birth_defect"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_signif_disability/incapacity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/intervention"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/serious_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/severity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/causality"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/relationship_to_non-study_treatment"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/action_taken"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/other_action_taken"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/concomitant_or_additional_treatment_given"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/outcome"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/pattern_of_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/hospitalization_required"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/is_life_threatening"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/occurred_with_overdose"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/other_medically_important_serious_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/involves_cancer"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/results_in_death"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/standard_toxicity_grade"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/start_datetime"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/end_datetime"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/location_of_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/congenital_anomaly_or_birth_defect"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/persist_or_signif_disability/incapacity"
         }
     ]
 }
