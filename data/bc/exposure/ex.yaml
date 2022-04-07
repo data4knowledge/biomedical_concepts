@@ -17,8 +17,11 @@
     :enabled: true
     :data_type: 
     - :name: codeable_concept
-  - :name: "Date Time"
-    :enabled: true  
+  - :name: "Start Date Time"
+    :enabled: true
     :data_type: 
     - :name: date_time
-  
+  - :name: "End Date Time"
+    :enabled: true
+    :data_type: 
+    - :name: date_time

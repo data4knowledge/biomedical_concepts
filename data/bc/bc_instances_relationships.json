@@ -293,8 +293,12 @@
             "to": "http://id.d4k.dk/dataset/bc_instance/exposure/treatment/codeable_concept"
         },
         {
-            "from": "http://id.d4k.dk/dataset/bc_instance/exposure/date_time",
-            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/date_time/date_time"
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure/start_date_time",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/start_date_time/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure/end_date_time",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/end_date_time/date_time"
         }
     ],
     "HAS_IDENTIFIER": [
@@ -698,7 +702,11 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/exposure",
-            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/date_time"
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/start_date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/end_date_time"
         }
     ],
     "HAS_QUALIFIER": [

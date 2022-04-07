@@ -228,6 +228,18 @@
     :canonical: TREATMENT
     :data_type: 
     - :name: codeable_concept
+  - :name: "Start Date Time"
+    :mandatory: true
+    :enabled: true
+    :canonical: "PERIOD START"      
+    :data_type: 
+    - :name: date_time
+  - :name: "End Date Time"
+    :mandatory: true
+    :enabled: true  
+    :canonical: "PERIOD END"      
+    :data_type: 
+    - :name: date_time
 
 
 

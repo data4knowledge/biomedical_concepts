@@ -171,6 +171,14 @@
         {
             "name": "codeable_concept",
             "uri": "http://id.d4k.dk/dataset/bc_template/intervention/intervention/codeable_concept"
+        },
+        {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/bc_template/intervention/start_date_time/date_time"
+        },
+        {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/bc_template/intervention/end_date_time/date_time"
         }
     ],
     "BC_ITEM": [
@@ -460,6 +468,20 @@
             "mandatory": true,
             "name": "Intervention",
             "uri": "http://id.d4k.dk/dataset/bc_template/intervention/intervention"
+        },
+        {
+            "canonical": "PERIOD START",
+            "enabled": true,
+            "mandatory": true,
+            "name": "Start Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_template/intervention/start_date_time"
+        },
+        {
+            "canonical": "PERIOD END",
+            "enabled": true,
+            "mandatory": true,
+            "name": "End Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_template/intervention/end_date_time"
         }
     ],
     "BC_TEMPLATE": [

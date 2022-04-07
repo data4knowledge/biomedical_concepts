@@ -189,6 +189,14 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_template/intervention/intervention",
             "to": "http://id.d4k.dk/dataset/bc_template/intervention/intervention/codeable_concept"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/start_date_time",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/start_date_time/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/end_date_time",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/end_date_time/date_time"
         }
     ],
     "HAS_IDENTIFIER": [
@@ -373,6 +381,14 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_template/intervention",
             "to": "http://id.d4k.dk/dataset/bc_template/intervention/intervention"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/start_date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/end_date_time"
         }
     ]
 }

@@ -210,7 +210,11 @@
         },
         {
             "name": "date_time",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/date_time/date_time"
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/start_date_time/date_time"
+        },
+        {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/end_date_time/date_time"
         }
     ],
     "BC_INSTANCE": [
@@ -802,8 +806,14 @@
         {
             "collect": false,
             "enabled": true,
-            "name": "Date Time",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/date_time"
+            "name": "Start Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/start_date_time"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "End Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/end_date_time"
         }
     ],
     "BC_VALUE_SET": [
