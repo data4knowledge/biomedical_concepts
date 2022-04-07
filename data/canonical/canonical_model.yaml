@@ -12,14 +12,14 @@
     - :name: "LATERALITY"
       :data_types: 
       - coding
-    - :name: "PERIOD"
-      :nodes:
-      - :name: "PERIOD START"
-        :data_types:
-        - date_time
-      - :name: "PERIOD END"
-        :data_types:
-        - date_time
+  - :name: "PERIOD"
+    :nodes:
+    - :name: "PERIOD START"
+      :data_types:
+      - date_time
+    - :name: "PERIOD END"
+      :data_types:
+      - date_time
   - :name: "DATE TIME"
     :data_types:
     - date_time

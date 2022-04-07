@@ -13,20 +13,16 @@
             "to": "http://id.d4k.dk/dataset/canonical/common/location/laterality"
         },
         {
-            "from": "http://id.d4k.dk/dataset/canonical/common/location",
-            "to": "http://id.d4k.dk/dataset/canonical/common/location/period"
+            "from": "http://id.d4k.dk/dataset/canonical/common/period",
+            "to": "http://id.d4k.dk/dataset/canonical/common/period/period_start"
         },
         {
-            "from": "http://id.d4k.dk/dataset/canonical/common/location/period",
-            "to": "http://id.d4k.dk/dataset/canonical/common/location/period/period_start"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/canonical/common/location/period",
-            "to": "http://id.d4k.dk/dataset/canonical/common/location/period/period_end"
+            "from": "http://id.d4k.dk/dataset/canonical/common/period",
+            "to": "http://id.d4k.dk/dataset/canonical/common/period/period_end"
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
-            "to": "http://id.d4k.dk/dataset/canonical/common/location/period"
+            "to": "http://id.d4k.dk/dataset/canonical/common/period"
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
@@ -286,7 +282,7 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
-            "to": "http://id.d4k.dk/dataset/canonical/common/location/period"
+            "to": "http://id.d4k.dk/dataset/canonical/common/period"
         }
     ],
     "FROM_SOURCE": [
@@ -309,12 +305,12 @@
             "to": "http://id.d4k.dk/dataset/canonical/common/location/laterality/coding"
         },
         {
-            "from": "http://id.d4k.dk/dataset/canonical/common/location/period/period_start",
-            "to": "http://id.d4k.dk/dataset/canonical/common/location/period/period_start/date_time"
+            "from": "http://id.d4k.dk/dataset/canonical/common/period/period_start",
+            "to": "http://id.d4k.dk/dataset/canonical/common/period/period_start/date_time"
         },
         {
-            "from": "http://id.d4k.dk/dataset/canonical/common/location/period/period_end",
-            "to": "http://id.d4k.dk/dataset/canonical/common/location/period/period_end/date_time"
+            "from": "http://id.d4k.dk/dataset/canonical/common/period/period_end",
+            "to": "http://id.d4k.dk/dataset/canonical/common/period/period_end/date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/common/date_time",
