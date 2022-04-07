@@ -182,11 +182,11 @@
         },
         {
             "name": "date_time",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event/start_datetime/date_time"
+            "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event/start_date_time/date_time"
         },
         {
             "name": "date_time",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event/end_datetime/date_time"
+            "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event/end_date_time/date_time"
         },
         {
             "name": "coding",
@@ -743,14 +743,14 @@
         {
             "collect": false,
             "enabled": true,
-            "name": "Start DateTime",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event/start_datetime"
+            "name": "Start Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event/start_date_time"
         },
         {
             "collect": false,
             "enabled": true,
-            "name": "End DateTime",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event/end_datetime"
+            "name": "End Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event/end_date_time"
         },
         {
             "collect": false,
