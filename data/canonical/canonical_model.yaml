@@ -110,6 +110,8 @@
     - :name: "ROUTE"
     - :name: "SINGLE DOSE"
     - :name: "TREATMENT"
+      :data_types:
+        - codeable_concept
       :nodes:
         - :name: "CLASS"
         - :name: "AMENDED"
