@@ -73,6 +73,10 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/specimen/coding"
         },
         {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/event_type/coding"
+        },
+        {
             "name": "codeable_concept",
             "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/event/codeable_concept"
         },
@@ -159,6 +163,10 @@
         {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_signif_disability/incapacity/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_template/intervention/intervention_type/coding"
         },
         {
             "name": "codeable_concept",
@@ -363,6 +371,13 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/specimen"
         },
         {
+            "canonical": "",
+            "enabled": true,
+            "mandatory": true,
+            "name": "Event Type",
+            "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/event_type"
+        },
+        {
             "canonical": "TERM",
             "enabled": true,
             "mandatory": true,
@@ -515,6 +530,13 @@
             "mandatory": false,
             "name": "Persist or Signif Disability/Incapacity",
             "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_signif_disability/incapacity"
+        },
+        {
+            "canonical": "",
+            "enabled": true,
+            "mandatory": true,
+            "name": "Intervention Type",
+            "uri": "http://id.d4k.dk/dataset/bc_template/intervention/intervention_type"
         },
         {
             "canonical": "",

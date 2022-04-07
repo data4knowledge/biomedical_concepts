@@ -95,13 +95,18 @@
     - :name: coding
 - :name: "Event Observation"
   :identified_by: 
-    :name: "Event"
+    :name: "Event Type"
+    :mandatory: true
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  :has_items:
+  - :name: "Event"
     :mandatory: true
     :enabled: true  
     :canonical: TERM  
     :data_type: 
     - :name: codeable_concept
-  :has_items:
   - :name: "Serious Event"
     :mandatory: false
     :enabled: true  
@@ -211,12 +216,17 @@
     - :name: coding
 - :name: "Intervention"
   :identified_by: 
-    :name: "Intervention"
+    :name: "Intervention Type"
+    :mandatory: true
+    :enabled: true  
+    :data_type: 
+    - :name: coding
+  :has_items:
+  - :name: "Intervention"
     :mandatory: true
     :enabled: true  
     :data_type: 
     - :name: codeable_concept
-  :has_items:
   - :name: "Serious Event"
     :mandatory: false
     :enabled: true  

@@ -91,6 +91,10 @@
             "to": "http://id.d4k.dk/dataset/bc_template/base_laboratory/specimen/coding"
         },
         {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/event_type",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/event_type/coding"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/bc_template/event_observation/event",
             "to": "http://id.d4k.dk/dataset/bc_template/event_observation/event/codeable_concept"
         },
@@ -177,6 +181,10 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_signif_disability/incapacity",
             "to": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_signif_disability/incapacity/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention/intervention_type",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/intervention_type/coding"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/intervention/intervention",
@@ -278,11 +286,11 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
-            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/event"
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/event_type"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/intervention",
-            "to": "http://id.d4k.dk/dataset/bc_template/intervention/intervention"
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/intervention_type"
         }
     ],
     "HAS_ITEM": [
@@ -349,6 +357,10 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_template/base_laboratory",
             "to": "http://id.d4k.dk/dataset/bc_template/base_laboratory/specimen"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/event_type"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
@@ -437,6 +449,10 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
             "to": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_signif_disability/incapacity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_template/intervention/intervention_type"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/intervention",
