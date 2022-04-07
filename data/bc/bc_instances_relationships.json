@@ -11,6 +11,18 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/glucose",
             "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/glucose",
+            "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/glucose",
+            "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/glucose",
+            "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine"
         }
     ],
     "FROM_SOURCE": [
@@ -48,6 +60,10 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine",
+            "to": "http://id.d4k.dk/dataset/source/bc_instance"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
             "to": "http://id.d4k.dk/dataset/source/bc_instance"
         }
     ],
@@ -159,6 +175,98 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/result",
             "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/result/quantity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event_type",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event_type/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event/codeable_concept"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/serious_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/serious_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/severity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/severity/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/causality",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/causality/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/relationship_to_non-study_treatment",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/relationship_to_non-study_treatment/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/action_taken",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/action_taken/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/other_action_taken",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/other_action_taken/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/concomitant_or_additional_treatment_given",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/concomitant_or_additional_treatment_given/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/outcome",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/outcome/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/pattern_of_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/pattern_of_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/hospitalization_required",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/hospitalization_required/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/is_life_threatening",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/is_life_threatening/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/occurred_with_overdose",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/occurred_with_overdose/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/other_medically_important_serious_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/other_medically_important_serious_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/involves_cancer",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/involves_cancer/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/results_in_death",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/results_in_death/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/standard_toxicity_grade",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/standard_toxicity_grade/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/start_datetime",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/start_datetime/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/end_datetime",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/end_datetime/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/location_of_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/location_of_event/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/congenital_anomaly_or_birth_defect",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/congenital_anomaly_or_birth_defect/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/persist_or_significant_disability/incapacity",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/persist_or_significant_disability/incapacity/coding"
         }
     ],
     "HAS_IDENTIFIER": [
@@ -197,6 +305,10 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine",
             "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/test"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event_type"
         }
     ],
     "HAS_ITEM": [
@@ -451,6 +563,98 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine",
             "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/result"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event_type"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/serious_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/severity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/causality"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/relationship_to_non-study_treatment"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/action_taken"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/other_action_taken"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/concomitant_or_additional_treatment_given"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/outcome"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/pattern_of_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/hospitalization_required"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/is_life_threatening"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/occurred_with_overdose"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/other_medically_important_serious_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/involves_cancer"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/results_in_death"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/standard_toxicity_grade"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/start_datetime"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/end_datetime"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/location_of_event"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/congenital_anomaly_or_birth_defect"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/persist_or_significant_disability/incapacity"
         }
     ],
     "HAS_QUALIFIER": [
@@ -647,6 +851,10 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/result/quantity",
             "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine/result/quantity/c71620-c111253"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event_type/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event_type/coding/d000001-d100004"
         }
     ]
 }

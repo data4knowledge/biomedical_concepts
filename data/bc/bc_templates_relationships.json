@@ -179,8 +179,8 @@
             "to": "http://id.d4k.dk/dataset/bc_template/event_observation/congenital_anomaly_or_birth_defect/coding"
         },
         {
-            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_signif_disability/incapacity",
-            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_signif_disability/incapacity/coding"
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_significant_disability/incapacity",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_significant_disability/incapacity/coding"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/intervention/intervention_type",
@@ -448,7 +448,7 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
-            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_signif_disability/incapacity"
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/persist_or_significant_disability/incapacity"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/intervention",

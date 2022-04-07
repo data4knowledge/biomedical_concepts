@@ -1,0 +1,103 @@
+---
+- :name: "Adverse Event"
+  :based_on: "Event Observation"
+  :identified_by: 
+    :name: "Event Type"
+    :enabled: true
+    :collect: false 
+    :data_type:
+     - 
+      :name: coding
+      :value_set:
+      - 
+        :cl: D000001
+        :cli: D100004
+  :has_items:
+  - :name: "Event"
+    :enabled: true
+    :data_type: 
+    - :name: codeable_concept
+  - :name: "Serious Event"
+    :enabled: true
+    :data_type: 
+    - :name: coding
+  - :name: "Severity"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Causality"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Relationship to Non-Study Treatment"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Action taken"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Other Action Taken"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Concomitant or Additional Treatment Given"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Outcome"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Pattern of Event"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Hospitalization Required"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Is Life Threatening"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Occurred with Overdose"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Other Medically Important Serious Event"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Involves Cancer"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Results in Death"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Standard Toxicity Grade"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Start DateTime"
+    :enabled: true
+    :data_type: 
+    - :name: date_time
+  - :name: "End DateTime"
+    :enabled: true
+    :data_type: 
+    - :name: date_time
+  - :name: "Location of Event"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Congenital Anomaly or Birth Defect"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
+  - :name: "Persist or Significant Disability/Incapacity"
+    :enabled: false 
+    :data_type: 
+    - :name: coding
