@@ -289,8 +289,8 @@
             "to": "http://id.d4k.dk/dataset/bc_instance/exposure/drug_exposure/coding"
         },
         {
-            "from": "http://id.d4k.dk/dataset/bc_instance/exposure/treatment",
-            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/treatment/codeable_concept"
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure/intervention",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/intervention/codeable_concept"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/exposure/start_date_time",
@@ -698,7 +698,7 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/exposure",
-            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/treatment"
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/intervention"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/exposure",

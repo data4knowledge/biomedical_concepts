@@ -206,7 +206,7 @@
         },
         {
             "name": "codeable_concept",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/treatment/codeable_concept"
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/intervention/codeable_concept"
         },
         {
             "name": "date_time",
@@ -800,8 +800,8 @@
         {
             "collect": false,
             "enabled": true,
-            "name": "Treatment",
-            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/treatment"
+            "name": "Intervention",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/intervention"
         },
         {
             "collect": false,
