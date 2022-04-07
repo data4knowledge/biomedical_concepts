@@ -8,7 +8,7 @@
     "parameters": {
       "neodash_study_protocol_brief_title": "DDR",
       "neodash_skos_concept_notation": "SPECTYPE",
-      "neodash_sdtm_dataset_name": "VS"
+      "neodash_sdtm_dataset_name": "AE"
     }
   },
   "pages": [
@@ -99,7 +99,7 @@
         },
         {
           "title": "Next Steps",
-          "query": "Immediate Steps:\n- Provide the LOINC <-> CDISC model\n- Include the UCUM <-> CDISC model\n- Add further resources\n\nLonger-term Steps:\n- 2nd Study\n- Add Event BCs in\n- Add Intervention BCs in\n- Derived data for SDTM\n- More complete Forms / CRFs from BCs\n- Finish generating the CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\nDon't forget:\n- Enable / disable links and show ability to flip BC to domain\n\nLessons\n- Model \"other\" questions and responses in BCs\n- Ordering for BCs and items when BCs displayed in forms\n\n",
+          "query": "Immediate Steps:\n- Add Event BCs in\n- Add Intervention BCs in\n\nThen\n- Derived data for SDTM\n\nLonger-term Steps:\n- 2nd Study\n- More complete Forms / CRFs from BCs\n- Finish generating the CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\nFor FHIR:\n- Provide the LOINC <-> CDISC model\n- Include the UCUM <-> CDISC model\n- Add further resources\n\nDon't forget:\n- Enable / disable links and show ability to flip BC to domain\n\nLessons\n- Model \"other\" questions and responses in BCs\n- Ordering for BCs and items when BCs displayed in forms\n\n",
           "width": "3",
           "type": "text",
           "height": "6",
@@ -115,7 +115,7 @@
       "reports": [
         {
           "title": "Detailed Graph",
-          "query": "MATCH (f:FHIR_DATA_TYPES)-[s]->(t:FHIR_DATA_TYPE)-[r]->(p:FHIR_DATA_TYPE_PROPERTY) RETURN f,s,t,r,p\n\n\n",
+          "query": "MATCH (f:FHIR_DATA_TYPES)-[s]->(t1:FHIR_DATA_TYPE)-[r1:HAS_DATA_TYPE*0..]->(t2:FHIR_DATA_TYPE)-[r2]->(p:FHIR_DATA_TYPE_PROPERTY)\nRETURN f,s,t1,t2,r1,r2,p\n\n\n",
           "width": 3,
           "type": "graph",
           "height": 3,
@@ -570,7 +570,7 @@
         },
         {
           "title": "Study Data",
-          "query": "MATCH (bc:STUDY_BC_INSTANCE)<-[:USE_BC {enabled: true}]-(sd:SDTM_DATASET {name: $neodash_sdtm_dataset_name})-[]->(sv:SDTM_VARIABLE)-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)\n      <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM) WHERE bc.name = cv.bc OR cv.bc = \"\"\n      WITH bc, sd, sv, cv, fdt, bdt, sdp, wfi\n      MATCH (wfi)-[:USED_IN_VISIT]->(v:VISIT)<-[]-(e:EPOCH), \n      (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n      (ct)<-[:HAS_RESPONSE]-()<-[:HAS_DATA_TYPE]-()<-[:HAS_IDENTIFIER]-(bc:STUDY_BC_INSTANCE)-[*]->(bdt)\n    RETURN sd.name as domain, sv.name as variable, sdp.value as data, wfi.id as uuid, v.name as visit, e.study_epoch_name as epoch, subj.identifier as subject, ct.notation as test_code",
+          "query": "MATCH (bc:STUDY_BC_INSTANCE)<-[:USE_BC {enabled: true}]-(sd:SDTM_DATASET {name: $neodash_sdtm_dataset_name})-[]->(sv:SDTM_VARIABLE)\n\t-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)\n    <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM)\n    -[:USED_IN_VISIT]->(v:VISIT)<-[]-(e:EPOCH)\n    WHERE bc.name = cv.bc OR cv.bc = \"\"\n\tWITH bc, sd, sv, cv, fdt, bdt, sdp, wfi, v, e\n    MATCH (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n      (ct)<-[:HAS_RESPONSE]-()<-[:HAS_DATA_TYPE]-()<-[:HAS_IDENTIFIER]-(bc:STUDY_BC_INSTANCE)-[*]->(bdt)\n    RETURN sd.name as domain, sv.name as variable, sdp.value as data, wfi.id as uuid, v.name as visit, e.study_epoch_name as epoch, subj.identifier as subject, ct.notation as test_code",
           "width": "9",
           "type": "table",
           "height": "3",
@@ -613,7 +613,7 @@
         },
         {
           "title": "Key Relationships - Single Data Point",
-          "query": "MATCH (bc:STUDY_BC_INSTANCE)<-[r3]-(a:ACTIVITY)<-[r1]-(n:WORKFLOW_ITEM {id: 1517})-[r2]->(v:VISIT),\n(s:STUDY)<-[r6]-(sub:STUDY_SUBJECT)<-[r5]-(sdp:STUDY_DATA_POINT)-[r4]->(n)\nRETURN a,n,v,r1,r2,r3,bc,sdp,r4,r5,sub,s,r6\n\n",
+          "query": "MATCH (bc:STUDY_BC_INSTANCE)<-[r3]-(a:ACTIVITY)<-[r1]-(n:WORKFLOW_ITEM {id: 1619})-[r2]->(v:VISIT),\n(s:STUDY)<-[r6]-(sub:STUDY_SUBJECT)<-[r5]-(sdp:STUDY_DATA_POINT)-[r4]->(n)\nRETURN a,n,v,r1,r2,r3,bc,sdp,r4,r5,sub,s,r6\n\n",
           "width": "6",
           "type": "graph",
           "height": "3",
