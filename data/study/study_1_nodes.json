@@ -589,7 +589,8 @@
         { "uri": "http://id.d4k.dk/dataset/study/1/WF054" },
         { "uri": "http://id.d4k.dk/dataset/study/1/WF055" },
         { "uri": "http://id.d4k.dk/dataset/study/1/WF056" },
-        { "uri": "http://id.d4k.dk/dataset/study/1/WF057" }
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF057" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF058" }
     ],
     "ACTIVITY": [
         {   
@@ -667,6 +668,10 @@
         {   
             "uri": "http://id.d4k.dk/dataset/study/1/ACT019",
             "description": "Concomitant medications"
+        },
+        {   
+            "uri": "http://id.d4k.dk/dataset/study/1/ACT020",
+            "description": "Drug administration"
         }
     ],
     "PROCEDURE": [
