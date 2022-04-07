@@ -34,6 +34,26 @@
       - :node: "RESULT"
         :data_type: "coding"
         :property: "code"
+  - :name: events
+    :variables:
+    - :name: "--TERM"
+      :bc: ""
+      :canonical: 
+      - :node: "TERM"
+        :data_type: "codeable_concept"
+        :property: "text"
+    - :name: "--STDTC"
+      :bc: ""
+      :canonical: 
+      - :node: "PERIOD START"
+        :data_type: "date_time"
+        :property: "value"
+    - :name: "--ENDTC"
+      :bc: ""
+      :canonical: 
+      - :node: "PERIOD END"
+        :data_type: "date_time"
+        :property: "value"
   - :name: findings
     :variables:
     - :name: "--ORRES"

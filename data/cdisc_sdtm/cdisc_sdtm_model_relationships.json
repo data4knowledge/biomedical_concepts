@@ -27,6 +27,18 @@
             "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/ETHNIC/c1"
         },
         {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/events/--TERM",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/events/--TERM/c1"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/events/--STDTC",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/events/--STDTC/c1"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/events/--ENDTC",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/events/--ENDTC/c1"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRES",
             "to": "http://id.d4k.dk/dataset/sdtm_model/findings/--ORRES/c1"
         },
@@ -47,6 +59,10 @@
         {
             "from": "http://id.d4k.dk/dataset/sdtm_model",
             "to": "http://id.d4k.dk/dataset/sdtm_model/demographics"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/events"
         },
         {
             "from": "http://id.d4k.dk/dataset/sdtm_model",
@@ -73,6 +89,18 @@
         {
             "from": "http://id.d4k.dk/dataset/sdtm_model/demographics",
             "to": "http://id.d4k.dk/dataset/sdtm_model/demographics/ETHNIC"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/events",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/events/--TERM"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/events",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/events/--STDTC"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/sdtm_model/events",
+            "to": "http://id.d4k.dk/dataset/sdtm_model/events/--ENDTC"
         },
         {
             "from": "http://id.d4k.dk/dataset/sdtm_model/findings",
