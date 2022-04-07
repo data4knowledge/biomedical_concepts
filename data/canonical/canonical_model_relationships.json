@@ -17,6 +17,14 @@
             "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period"
         },
         {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/period",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_start"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/period",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_end"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
             "to": "http://id.d4k.dk/dataset/canonical/adverse_event/serious"
         },
@@ -297,10 +305,6 @@
             "to": "http://id.d4k.dk/dataset/canonical/common/location/portion/coding"
         },
         {
-            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/term",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/term/codeable_concept"
-        },
-        {
             "from": "http://id.d4k.dk/dataset/canonical/common/location/directionality",
             "to": "http://id.d4k.dk/dataset/canonical/common/location/directionality/coding"
         },
@@ -311,6 +315,14 @@
         {
             "from": "http://id.d4k.dk/dataset/canonical/common/date_time",
             "to": "http://id.d4k.dk/dataset/canonical/common/date_time/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_start",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_start/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_end",
+            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_end/date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/observation/test",

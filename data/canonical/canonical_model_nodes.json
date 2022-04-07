@@ -17,6 +17,14 @@
             "uri": "http://id.d4k.dk/dataset/canonical/common/date_time/date_time"
         },
         {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_start/date_time"
+        },
+        {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_end/date_time"
+        },
+        {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/canonical/observation/test/coding"
         },
@@ -27,10 +35,6 @@
         {
             "name": "quantity",
             "uri": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result/quantity"
-        },
-        {
-            "name": "codeable_concept",
-            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/term/codeable_concept"
         }
     ],
     "CANONICAL_MODEL": [
@@ -67,6 +71,14 @@
         {
             "name": "PERIOD",
             "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/period"
+        },
+        {
+            "name": "PERIOD START",
+            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_start"
+        },
+        {
+            "name": "PERIOD END",
+            "uri": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_end"
         },
         {
             "name": "SERIOUS",
