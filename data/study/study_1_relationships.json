@@ -192,7 +192,8 @@
         { "from": "http://id.d4k.dk/dataset/study/1/WF053", "to": "http://id.d4k.dk/dataset/study/1/ACT017" },
         { "from": "http://id.d4k.dk/dataset/study/1/WF054", "to": "http://id.d4k.dk/dataset/study/1/ACT017" },
         { "from": "http://id.d4k.dk/dataset/study/1/WF055", "to": "http://id.d4k.dk/dataset/study/1/ACT017" },
-        { "from": "http://id.d4k.dk/dataset/study/1/WF056", "to": "http://id.d4k.dk/dataset/study/1/ACT017" }
+        { "from": "http://id.d4k.dk/dataset/study/1/WF056", "to": "http://id.d4k.dk/dataset/study/1/ACT017" },
+        { "from": "http://id.d4k.dk/dataset/study/1/WF057", "to": "http://id.d4k.dk/dataset/study/1/ACT018" }
     ],
     "USED_IN_VISIT": [
         { "from": "http://id.d4k.dk/dataset/study/1/WF001", "to": "http://id.d4k.dk/dataset/study/1/VIS11" },
@@ -249,7 +250,8 @@
         { "from": "http://id.d4k.dk/dataset/study/1/WF053", "to": "http://id.d4k.dk/dataset/study/1/VIS19" },
         { "from": "http://id.d4k.dk/dataset/study/1/WF054", "to": "http://id.d4k.dk/dataset/study/1/VIS20" },
         { "from": "http://id.d4k.dk/dataset/study/1/WF055", "to": "http://id.d4k.dk/dataset/study/1/VIS21" },
-        { "from": "http://id.d4k.dk/dataset/study/1/WF056", "to": "http://id.d4k.dk/dataset/study/1/VIS22" }
+        { "from": "http://id.d4k.dk/dataset/study/1/WF056", "to": "http://id.d4k.dk/dataset/study/1/VIS22" },
+        { "from": "http://id.d4k.dk/dataset/study/1/WF057", "to": "http://id.d4k.dk/dataset/study/1/VIS11" }
     ],
     "HAS_PREVIOUS_WORKFLOW": [
     ],
@@ -302,7 +304,8 @@
         {"from": "http://id.d4k.dk/dataset/study/1/ACT014", "to": "http://id.d4k.dk/dataset/study/1/SD005" },
         {"from": "http://id.d4k.dk/dataset/study/1/ACT016", "to": "http://id.d4k.dk/dataset/study/1/SD006" },
         {"from": "http://id.d4k.dk/dataset/study/1/ACT017", "to": "http://id.d4k.dk/dataset/study/1/SD016" },
-        {"from": "http://id.d4k.dk/dataset/study/1/ACT017", "to": "http://id.d4k.dk/dataset/study/1/SD017" }
+        {"from": "http://id.d4k.dk/dataset/study/1/ACT017", "to": "http://id.d4k.dk/dataset/study/1/SD017" },
+        {"from": "http://id.d4k.dk/dataset/study/1/ACT018", "to": "http://id.d4k.dk/dataset/study/1/SD021" }
     ],
     "HAS_ENDPOINT": [
         {"from": "http://id.d4k.dk/dataset/study/1/OBJ001", "to": "http://id.d4k.dk/dataset/study/1/E001" },

@@ -588,7 +588,8 @@
         { "uri": "http://id.d4k.dk/dataset/study/1/WF053" },
         { "uri": "http://id.d4k.dk/dataset/study/1/WF054" },
         { "uri": "http://id.d4k.dk/dataset/study/1/WF055" },
-        { "uri": "http://id.d4k.dk/dataset/study/1/WF056" }
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF056" },
+        { "uri": "http://id.d4k.dk/dataset/study/1/WF057" }
     ],
     "ACTIVITY": [
         {   
@@ -813,6 +814,12 @@
             "uri": "http://id.d4k.dk/dataset/study/1/SD020",
             "name": "SEX",
             "description": "Sex",
+            "ecrf_link": ""
+        },        
+        {   
+            "uri": "http://id.d4k.dk/dataset/study/1/SD021",
+            "name": "ADVERSE EVENT",
+            "description": "Adverse Event",
             "ecrf_link": ""
         }
     ],
