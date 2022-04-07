@@ -187,16 +187,16 @@
     :enabled: true  
     :data_type: 
     - :name: coding
-  - :name: "Start DateTime"
+  - :name: "Start Date Time"
     :mandatory: true
     :enabled: true
-    :canonical: "DATE TIME"      
+    :canonical: "PERIOD START"      
     :data_type: 
     - :name: date_time
-  - :name: "End DateTime"
+  - :name: "End Date Time"
     :mandatory: true
     :enabled: true  
-    :canonical: "DATE TIME"      
+    :canonical: "PERIOD END"      
     :data_type: 
     - :name: date_time
   - :name: "Location of Event"

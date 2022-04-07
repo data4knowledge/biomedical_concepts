@@ -163,12 +163,12 @@
             "to": "http://id.d4k.dk/dataset/bc_template/event_observation/standard_toxicity_grade/coding"
         },
         {
-            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/start_datetime",
-            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/start_datetime/date_time"
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/start_date_time",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/start_date_time/date_time"
         },
         {
-            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/end_datetime",
-            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/end_datetime/date_time"
+            "from": "http://id.d4k.dk/dataset/bc_template/event_observation/end_date_time",
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/end_date_time/date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/event_observation/location_of_event",
@@ -432,11 +432,11 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
-            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/start_datetime"
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/start_date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/event_observation",
-            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/end_datetime"
+            "to": "http://id.d4k.dk/dataset/bc_template/event_observation/end_date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/event_observation",

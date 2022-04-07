@@ -46,6 +46,8 @@
       - :name: "STUDY TREATMENT"
       - :name: "DEVICE"
     - :name: "TERM"
+      :data_types:
+        - codeable_concept
     - :name: "CATEGORY"
   - :name: "OBSERVATION"
     :nodes:

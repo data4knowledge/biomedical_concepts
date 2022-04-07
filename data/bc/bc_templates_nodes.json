@@ -146,11 +146,11 @@
         },
         {
             "name": "date_time",
-            "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/start_datetime/date_time"
+            "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/start_date_time/date_time"
         },
         {
             "name": "date_time",
-            "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/end_datetime/date_time"
+            "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/end_date_time/date_time"
         },
         {
             "name": "coding",
@@ -497,18 +497,18 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/standard_toxicity_grade"
         },
         {
-            "canonical": "DATE TIME",
+            "canonical": "PERIOD START",
             "enabled": true,
             "mandatory": true,
-            "name": "Start DateTime",
-            "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/start_datetime"
+            "name": "Start Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/start_date_time"
         },
         {
-            "canonical": "DATE TIME",
+            "canonical": "PERIOD END",
             "enabled": true,
             "mandatory": true,
-            "name": "End DateTime",
-            "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/end_datetime"
+            "name": "End Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_template/event_observation/end_date_time"
         },
         {
             "canonical": "",
