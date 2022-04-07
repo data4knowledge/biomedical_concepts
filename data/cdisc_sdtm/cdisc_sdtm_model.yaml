@@ -54,6 +54,26 @@
       - :node: "PERIOD END"
         :data_type: "date_time"
         :property: "value"
+  - :name: exposure
+    :variables:
+    - :name: "--TRT"
+      :bc: ""
+      :canonical: 
+      - :node: "TREATMENT"
+        :data_type: "codeable_concept"
+        :property: "text"
+    - :name: "--STDTC"
+      :bc: ""
+      :canonical: 
+      - :node: "PERIOD START"
+        :data_type: "date_time"
+        :property: "value"
+    - :name: "--ENDTC"
+      :bc: ""
+      :canonical: 
+      - :node: "PERIOD END"
+        :data_type: "date_time"
+        :property: "value"
   - :name: findings
     :variables:
     - :name: "--ORRES"

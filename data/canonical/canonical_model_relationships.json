@@ -13,16 +13,20 @@
             "to": "http://id.d4k.dk/dataset/canonical/common/location/laterality"
         },
         {
+            "from": "http://id.d4k.dk/dataset/canonical/common/location",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/period"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/common/location/period",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/period/period_start"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/common/location/period",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/period/period_end"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/period",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_start"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/period",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_end"
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/period"
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/adverse_event",
@@ -277,20 +281,12 @@
             "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment"
         },
         {
-            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment",
-            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment/class"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment",
-            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment/amended"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment",
-            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment/raw"
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location"
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention",
-            "to": "http://id.d4k.dk/dataset/canonical/common/location"
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/period"
         }
     ],
     "FROM_SOURCE": [
@@ -313,16 +309,16 @@
             "to": "http://id.d4k.dk/dataset/canonical/common/location/laterality/coding"
         },
         {
+            "from": "http://id.d4k.dk/dataset/canonical/common/location/period/period_start",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/period/period_start/date_time"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/common/location/period/period_end",
+            "to": "http://id.d4k.dk/dataset/canonical/common/location/period/period_end/date_time"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/canonical/common/date_time",
             "to": "http://id.d4k.dk/dataset/canonical/common/date_time/date_time"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_start",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_start/date_time"
-        },
-        {
-            "from": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_end",
-            "to": "http://id.d4k.dk/dataset/canonical/adverse_event/period/period_end/date_time"
         },
         {
             "from": "http://id.d4k.dk/dataset/canonical/adverse_event/term",
@@ -339,6 +335,10 @@
         {
             "from": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result",
             "to": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result/quantity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment",
+            "to": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment/codeable_concept"
         }
     ],
     "HAS_SUB_MODEL": [

@@ -199,6 +199,18 @@
         {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event/persist_or_significant_disability/incapacity/coding"
+        },
+        {
+            "name": "coding",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/drug_exposure/coding"
+        },
+        {
+            "name": "codeable_concept",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/treatment/codeable_concept"
+        },
+        {
+            "name": "date_time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/date_time/date_time"
         }
     ],
     "BC_INSTANCE": [
@@ -251,6 +263,11 @@
             "based_on": "Event Observation",
             "name": "Adverse Event",
             "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event"
+        },
+        {
+            "based_on": "Intervention",
+            "name": "Exposure",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure"
         }
     ],
     "BC_ITEM": [
@@ -769,6 +786,24 @@
             "enabled": false,
             "name": "Persist or Significant Disability/Incapacity",
             "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event/persist_or_significant_disability/incapacity"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Drug Exposure",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/drug_exposure"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Treatment",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/treatment"
+        },
+        {
+            "collect": false,
+            "enabled": true,
+            "name": "Date Time",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/date_time"
         }
     ],
     "BC_VALUE_SET": [
@@ -1001,6 +1036,11 @@
             "cl": "D000001",
             "cli": "D100004",
             "uri": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event_type/coding/d000001-d100004"
+        },
+        {
+            "cl": "D000001",
+            "cli": "D100005",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/exposure/drug_exposure/coding/d000001-d100005"
         }
     ],
     "OTHER_SOURCE": [

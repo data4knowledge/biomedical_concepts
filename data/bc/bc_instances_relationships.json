@@ -23,6 +23,18 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/glucose",
             "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/glucose",
+            "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_blood"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/glucose",
+            "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_serum"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/glucose",
+            "to": "http://id.d4k.dk/dataset/bc_instance/glucose_in_urine"
         }
     ],
     "FROM_SOURCE": [
@@ -64,6 +76,10 @@
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
+            "to": "http://id.d4k.dk/dataset/source/bc_instance"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure",
             "to": "http://id.d4k.dk/dataset/source/bc_instance"
         }
     ],
@@ -267,6 +283,18 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/persist_or_significant_disability/incapacity",
             "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/persist_or_significant_disability/incapacity/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure/drug_exposure",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/drug_exposure/coding"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure/treatment",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/treatment/codeable_concept"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure/date_time",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/date_time/date_time"
         }
     ],
     "HAS_IDENTIFIER": [
@@ -309,6 +337,10 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
             "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event_type"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/drug_exposure"
         }
     ],
     "HAS_ITEM": [
@@ -655,6 +687,18 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event",
             "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/persist_or_significant_disability/incapacity"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/drug_exposure"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/treatment"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/date_time"
         }
     ],
     "HAS_QUALIFIER": [
@@ -855,6 +899,10 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event_type/coding",
             "to": "http://id.d4k.dk/dataset/bc_instance/adverse_event/event_type/coding/d000001-d100004"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/exposure/drug_exposure/coding",
+            "to": "http://id.d4k.dk/dataset/bc_instance/exposure/drug_exposure/coding/d000001-d100005"
         }
     ]
 }

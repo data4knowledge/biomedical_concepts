@@ -12,6 +12,14 @@
     - :name: "LATERALITY"
       :data_types: 
       - coding
+    - :name: "PERIOD"
+      :nodes:
+      - :name: "PERIOD START"
+        :data_types:
+        - date_time
+      - :name: "PERIOD END"
+        :data_types:
+        - date_time
   - :name: "DATE TIME"
     :data_types:
     - date_time
@@ -21,13 +29,6 @@
   - :name: "ADVERSE EVENT"
     :nodes:
     - :name: "PERIOD"
-      :nodes:
-      - :name: "PERIOD START"
-        :data_types:
-        - date_time
-      - :name: "PERIOD END"
-        :data_types:
-        - date_time
     - :name: "SERIOUS"
     - :name: "LOCATION"
     - :name: "SEVERITY"
@@ -112,8 +113,5 @@
     - :name: "TREATMENT"
       :data_types:
         - codeable_concept
-      :nodes:
-        - :name: "CLASS"
-        - :name: "AMENDED"
-        - :name: "RAW"
     - :name: "LOCATION"
+    - :name: "PERIOD"

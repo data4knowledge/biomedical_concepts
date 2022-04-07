@@ -49,6 +49,24 @@
             "uri": "http://id.d4k.dk/dataset/sdtm_model/events/--ENDTC/c1"
         },
         {
+            "data_type": "codeable_concept",
+            "node": "TREATMENT",
+            "property": "text",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/exposure/--TRT/c1"
+        },
+        {
+            "data_type": "date_time",
+            "node": "PERIOD START",
+            "property": "value",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/exposure/--STDTC/c1"
+        },
+        {
+            "data_type": "date_time",
+            "node": "PERIOD END",
+            "property": "value",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/exposure/--ENDTC/c1"
+        },
+        {
             "data_type": "coding",
             "node": "RESULT",
             "property": "code",
@@ -88,6 +106,10 @@
         {
             "name": "events",
             "uri": "http://id.d4k.dk/dataset/sdtm_model/events"
+        },
+        {
+            "name": "exposure",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/exposure"
         },
         {
             "name": "findings",
@@ -140,6 +162,21 @@
             "bc": "",
             "name": "--ENDTC",
             "uri": "http://id.d4k.dk/dataset/sdtm_model/events/--ENDTC"
+        },
+        {
+            "bc": "",
+            "name": "--TRT",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/exposure/--TRT"
+        },
+        {
+            "bc": "",
+            "name": "--STDTC",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/exposure/--STDTC"
+        },
+        {
+            "bc": "",
+            "name": "--ENDTC",
+            "uri": "http://id.d4k.dk/dataset/sdtm_model/exposure/--ENDTC"
         },
         {
             "bc": "",
