@@ -7,7 +7,7 @@
     "fullscreenEnabled": true,
     "parameters": {
       "neodash_study_protocol_brief_title": "DDR",
-      "neodash_skos_concept_notation": "SPECTYPE",
+      "neodash_skos_concept_notation": "VSTESTCD",
       "neodash_sdtm_dataset_name": "AE"
     }
   },
@@ -205,17 +205,6 @@
           "settings": {
             "nodePositions": {},
             "hideSelections": true
-          }
-        },
-        {
-          "title": "",
-          "query": "MATCH (m:CANONICAL_NODE)-[r]->(n:CANONICAL_DATA_TYPE)-[s]->(o:CANONICAL_DATA_TYPE_PROPERTY) \nRETURN m.name,n.data_type,o.name, o.uri\n\n\n",
-          "width": "12",
-          "type": "table",
-          "height": "3",
-          "selection": {},
-          "settings": {
-            "nodePositions": {}
           }
         }
       ]
@@ -530,8 +519,8 @@
             "STUDY_ARM": "(label)",
             "EPOCH": "id",
             "VISIT": "name",
-            "RULE": "(label)",
-            "STUDY_ELEMENT": "(label)"
+            "STUDY_ELEMENT": "(label)",
+            "RULE": "(label)"
           },
           "settings": {
             "nodePositions": {},
@@ -570,7 +559,7 @@
         },
         {
           "title": "Study Data",
-          "query": "MATCH (bc:STUDY_BC_INSTANCE)<-[:USE_BC {enabled: true}]-(sd:SDTM_DATASET {name: $neodash_sdtm_dataset_name})-[]->(sv:SDTM_VARIABLE)\n\t-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)\n    <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM)\n    -[:USED_IN_VISIT]->(v:VISIT)<-[]-(e:EPOCH)\n    WHERE bc.name = cv.bc OR cv.bc = \"\"\n\tWITH bc, sd, sv, cv, fdt, bdt, sdp, wfi, v, e\n    MATCH (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n      (ct)<-[:HAS_RESPONSE]-()<-[:HAS_DATA_TYPE]-()<-[:HAS_IDENTIFIER]-(bc:STUDY_BC_INSTANCE)-[*]->(bdt)\n    RETURN sd.name as domain, sv.name as variable, sdp.value as data, wfi.id as uuid, v.name as visit, e.study_epoch_name as epoch, subj.identifier as subject, ct.notation as test_code",
+          "query": "MATCH (bc:STUDY_BC_INSTANCE)<-[:USE_BC {enabled: true}]-(sd:SDTM_DATASET {name: $neodash_sdtm_dataset_name})-[]->(sv:SDTM_VARIABLE)\n\t-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)\n    <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM)\n    -[:USED_IN_VISIT]->(v:VISIT)<-[]-(e:EPOCH)\n    WHERE bc.name = cv.bc OR cv.bc = \"\"\n\tWITH DISTINCT bc, sd, sv, cv, fdt, bdt, sdp, wfi, v, e\n    MATCH (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n      (ct)<-[:HAS_RESPONSE]-()<-[:HAS_DATA_TYPE]-()<-[:HAS_IDENTIFIER]-(bc:STUDY_BC_INSTANCE)-[*]->(bdt)\n    RETURN DISTINCT sd.name as domain, sv.name as variable, sdp.value as data, wfi.id as uuid, v.name as visit, e.study_epoch_name as epoch, subj.identifier as subject, ct.notation as test_code",
           "width": "9",
           "type": "table",
           "height": "3",
