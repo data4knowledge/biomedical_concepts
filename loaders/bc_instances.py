@@ -10,7 +10,6 @@ def format_name(name):
 
 nodes = { "BC_INSTANCE": [], "BC_ITEM": [], "BC_DATA_TYPE": [], "BC_VALUE_SET": [], "OTHER_SOURCE": [] }
 relationships = { "HAS_ITEM": [], "HAS_IDENTIFIER": [], "HAS_QUALIFIER": [], "BC_NARROWER": [], "HAS_DATA_TYPE": [], "HAS_RESPONSE": [], "FROM_SOURCE": []}
-narrower = {}
 bc_uri = {}
 
 # Source
@@ -25,6 +24,7 @@ nodes["OTHER_SOURCE"].append(record)
 for filename in files:
 
     with open("../data/bc/%s" % (filename)) as file:
+        narrower = {}
         instances = yaml.load(file, Loader=yaml.FullLoader)
 
         for instance in instances:
