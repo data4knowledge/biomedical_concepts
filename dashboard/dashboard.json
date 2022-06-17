@@ -1,6 +1,6 @@
 {
   "title": "Biomedical Concepts Treatise",
-  "version": "2.0",
+  "version": "2.1",
   "settings": {
     "pagenumber": 0,
     "editable": true,
@@ -8,7 +8,7 @@
     "parameters": {
       "neodash_study_protocol_brief_title": "DDR",
       "neodash_skos_concept_notation": "VSTESTCD",
-      "neodash_sdtm_dataset_name": "AE"
+      "neodash_sdtm_dataset_name": "VS"
     }
   },
   "pages": [
@@ -16,22 +16,26 @@
       "title": "Overview",
       "reports": [
         {
+          "x": 0,
+          "y": 0,
           "title": "Versions",
           "query": "//MATCH (v:VERSION) RETURN v.version as Version, v.updates as Updates\nMATCH path=(a:VERSION)-[r:PREVIOUS_VERSION*0..]->()\nWITH a.version as Version, a.updates as Updates ORDER BY LENGTH(path) DESC\nRETURN DISTINCT Version, Updates\n\n",
           "width": "3",
           "type": "table",
-          "height": "6",
+          "height": 4,
           "selection": {},
           "settings": {
             "nodePositions": {}
           }
         },
         {
+          "x": 3,
+          "y": 0,
           "title": "Schema",
           "query": "CALL db.schema.visualization()\n\n\n",
           "width": "6",
           "type": "graph",
-          "height": "6",
+          "height": 4,
           "selection": {
             "FHIR_DATA_TYPE": "name",
             "BC_DATA_TYPE_PROPERTY": "name",
@@ -56,10 +60,10 @@
             "STUDY_BC_INSTANCE": "name",
             "FHIR_DATA_TYPE_PROPERTY": "name",
             "SDTM_DATASET": "name",
+            "ENVIRONMENT": "name",
             "BC_TEMPLATE": "name",
             "SDTM_VARIABLE": "name",
             "STUDY_DATA_POINT": "name",
-            "_Neodash_Dashboard": "name",
             "API_SOURCE": "name",
             "STUDY_CELL": "name",
             "STUDY_PROTOCOL": "name",
@@ -83,6 +87,7 @@
             "STUDY_FORM": "name",
             "CANONICAL_DATA_TYPE_PROPERTY": "name",
             "CODE": "name",
+            "ACTION": "name",
             "VISIT": "name",
             "ENDPOINT": "name",
             "VERSION": "name",
@@ -98,15 +103,28 @@
           }
         },
         {
+          "x": 9,
+          "y": 0,
           "title": "Next Steps",
-          "query": "Immediate Steps:\n- Add Event BCs in\n- Add Intervention BCs in\n\nThen\n- Derived data for SDTM\n\nLonger-term Steps:\n- 2nd Study\n- More complete Forms / CRFs from BCs\n- Finish generating the CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\nFor FHIR:\n- Provide the LOINC <-> CDISC model\n- Include the UCUM <-> CDISC model\n- Add further resources\n\nDon't forget:\n- Enable / disable links and show ability to flip BC to domain\n\nLessons\n- Model \"other\" questions and responses in BCs\n- Ordering for BCs and items when BCs displayed in forms\n\n",
+          "query": "Next Steps:\n- 2nd Study\n- More complete Forms / CRFs from BCs\n- Finish generating the CRF for the study\n- Generate an aCRF\n- Generate start of a define.xml\n- Link in OMOP\n- Other tabular output formats, e.g.BIMO, FAIR data sharing etc.\n- Dynamic Tabular output formats\n\nFor FHIR:\n- Provide the LOINC <-> CDISC model\n- Include the UCUM <-> CDISC model\n- Add further resources\n\nDon't forget:\n- Enable / disable links and show ability to flip BC to domain\n\nLessons\n- Model \"other\" questions and responses in BCs\n- Ordering for BCs and items when BCs displayed in forms\n\n",
           "width": "3",
           "type": "text",
-          "height": "6",
+          "height": 4,
           "selection": {},
           "settings": {
             "nodePositions": {}
           }
+        },
+        {
+          "title": "",
+          "query": "MATCH(n:ENVIRONMENT) return n.name\n\n\n",
+          "width": 3,
+          "height": 2,
+          "x": 0,
+          "y": 4,
+          "type": "table",
+          "selection": {},
+          "settings": {}
         }
       ]
     },
@@ -114,11 +132,13 @@
       "title": "FHIR Data Types",
       "reports": [
         {
+          "x": 0,
+          "y": 0,
           "title": "Detailed Graph",
           "query": "MATCH (f:FHIR_DATA_TYPES)-[s]->(t1:FHIR_DATA_TYPE)-[r1:HAS_DATA_TYPE*0..]->(t2:FHIR_DATA_TYPE)-[r2]->(p:FHIR_DATA_TYPE_PROPERTY)\nRETURN f,s,t1,t2,r1,r2,p\n\n\n",
           "width": 3,
           "type": "graph",
-          "height": 3,
+          "height": 2,
           "selection": {
             "FHIR_DATA_TYPES": "id",
             "FHIR_DATA_TYPE": "name",
@@ -133,11 +153,13 @@
           }
         },
         {
+          "x": 3,
+          "y": 0,
           "title": "Date Types in the System",
           "query": "MATCH (t:FHIR_DATA_TYPE) RETURN t.name as Name\n\n\n",
           "width": 3,
           "type": "table",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {
             "nodePositions": {}
@@ -149,11 +171,13 @@
       "title": "Canonical Model",
       "reports": [
         {
+          "x": 0,
+          "y": 0,
           "title": "Top Level",
           "query": "MATCH (n:CANONICAL_MODEL)-[r]->(m:CANONICAL_NODE) RETURN n,m,r\n\n\n",
           "width": 3,
           "type": "graph",
-          "height": 3,
+          "height": 2,
           "selection": {
             "CANONICAL_MODEL": "name",
             "CANONICAL_NODE": "name"
@@ -164,11 +188,13 @@
           }
         },
         {
+          "x": 3,
+          "y": 0,
           "title": "Detailed Graph",
           "query": "MATCH (n:CANONICAL_MODEL)-[r:HAS_SUB_MODEL|CONSISTS_OF*1..]->(m:CANONICAL_NODE)\nwith n,r,m\nOPTIONAL MATCH (m)-[t:HAS_DATA_TYPE]->(o:CANONICAL_DATA_TYPE) \nRETURN n,m,o,r,t\n\n\n",
           "width": "9",
           "type": "graph",
-          "height": "3",
+          "height": 2,
           "selection": {
             "CANONICAL_MODEL": "name",
             "CANONICAL_NODE": "name",
@@ -180,22 +206,26 @@
           }
         },
         {
+          "x": 0,
+          "y": 2,
           "title": "Data Types In System",
           "query": "MATCH (n:CANONICAL_MODEL)-[r:HAS_SUB_MODEL]->(m:CANONICAL_NODE)-[s:CONSISTS_OF*1..]->(p:CANONICAL_NODE)-[t]->(d:CANONICAL_DATA_TYPE) RETURN m.name as Model, p.name as Name, d.name as Datatype\n\n\n",
           "width": 3,
           "type": "table",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {
             "nodePositions": {}
           }
         },
         {
+          "x": 3,
+          "y": 2,
           "title": "Example Canonical Definition - Observation Result, Coded or Quantity",
           "query": "MATCH (n:CANONICAL_MODEL)-[r]->(m:CANONICAL_NODE)\n-[v]->(q:CANONICAL_NODE)-[w]->(x:CANONICAL_NODE {name: 'RESULT'})-[t]->(o:CANONICAL_DATA_TYPE)-[u]->(p:CANONICAL_DATA_TYPE_PROPERTY) \nRETURN n,r,m,v,q,w,x,t,o,p,u\n\n",
           "width": "9",
           "type": "graph",
-          "height": "3",
+          "height": 2,
           "selection": {
             "CANONICAL_MODEL": "name",
             "CANONICAL_NODE": "name",
@@ -213,22 +243,26 @@
       "title": "CT",
       "reports": [
         {
+          "x": 0,
+          "y": 0,
           "title": "Full Code Lists Loaded",
           "query": "MATCH (cl:SKOS_CONCEPT)-[r1]->(cli:SKOS_CONCEPT) RETURN DISTINCT cl.identifier as C_Code, cl.notation as Submission, cl.pref_label as Preferred_Term\n\n\n",
           "width": 3,
           "type": "table",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {
             "nodePositions": {}
           }
         },
         {
+          "x": 3,
+          "y": 0,
           "title": "Select Code List",
           "query": "MATCH (n:`SKOS_CONCEPT`) \nWHERE toLower(toString(n.`notation`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`notation` as value LIMIT 5",
           "width": 3,
           "type": "select",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {
             "type": "Node Property",
@@ -238,13 +272,95 @@
           }
         },
         {
+          "x": 6,
+          "y": 0,
           "title": "Code List Items",
           "query": "MATCH (n:SKOS_CONCEPT {notation: $neodash_skos_concept_notation})-[]->(m:SKOS_CONCEPT) \nRETURN m.notation as Submission, m.identifier as C_Code \n\n\n",
           "width": 3,
           "type": "table",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {}
+        }
+      ]
+    },
+    {
+      "title": "SDTM Definitions",
+      "reports": [
+        {
+          "x": 0,
+          "y": 0,
+          "title": "SDTM Model",
+          "query": "MATCH (n:SDTM_MODEL)-[]->(m:SDTM_CLASS) RETURN n.name as Model, n.name as Class\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 2,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "x": 3,
+          "y": 0,
+          "title": "SDTM Model Graph",
+          "query": "MATCH (n:SDTM_MODEL)-[r1]->(m:SDTM_CLASS)-[r2]->(v:SDTM_MODEL_VARIABLE)-[r3]->(c:CANONICAL_DATA_TYPE_PROPERTY) RETURN n,m,v,c,r1,r2,r3\n\n\n",
+          "width": 3,
+          "type": "graph",
+          "height": 2,
+          "selection": {
+            "SDTM_MODEL": "name",
+            "SDTM_CLASS": "name",
+            "SDTM_MODEL_VARIABLE": "name",
+            "CANONICAL_DATA_TYPE_PROPERTY": "name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "hideSelections": true
+          }
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "title": "SDTM Domains",
+          "query": "MATCH (n:SDTM_DATASET) RETURN n.name as Name, n.description as Description\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 2,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
+        },
+        {
+          "x": 9,
+          "y": 0,
+          "title": "SDTM IG Graph",
+          "query": "MATCH (n:SDTM_IG)-[r1]->(m:SDTM_DATASET) RETURN n,m,r1\n",
+          "width": 3,
+          "type": "graph",
+          "height": 2,
+          "selection": {
+            "SDTM_IG": "label",
+            "SDTM_DATASET": "name"
+          },
+          "settings": {
+            "nodePositions": {},
+            "hideSelections": true
+          }
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "title": "IG to Model & Canonical Links",
+          "query": "MATCH (v1:SDTM_MODEL_VARIABLE)-[]->(c:CANONICAL_DATA_TYPE_PROPERTY)\nWITH v1,c\nMATCH (v1)<-[]-(v2:SDTM_VARIABLE) \nRETURN v2.name as IG_Variable, v1.name as Model_Variable, c.name as Canonical \n\n\n\n",
+          "width": 3,
+          "type": "table",
+          "height": 2,
+          "selection": {},
+          "settings": {
+            "nodePositions": {}
+          }
         }
       ]
     },
@@ -252,22 +368,26 @@
       "title": "Biomedical Concepts",
       "reports": [
         {
+          "x": 0,
+          "y": 0,
           "title": "BC Templates",
           "query": "MATCH (n:BC_TEMPLATE)\nRETURN n.name as Name\n\n\n",
           "width": 3,
           "type": "table",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {
             "nodePositions": {}
           }
         },
         {
+          "x": 3,
+          "y": 0,
           "title": "Detailed BC Template Graph",
           "query": "MATCH (m:BC_TEMPLATE)-[r]->(n:BC_ITEM)-[s]->(o:BC_DATA_TYPE)-[t]->(p:BC_DATA_TYPE_PROPERTY), (o)-[u]->(q:FHIR_DATA_TYPE)\nRETURN m,r,n,s,o,t,p,u,q\n\n",
           "width": "6",
           "type": "graph",
-          "height": "3",
+          "height": 2,
           "selection": {
             "BC_TEMPLATE": "name",
             "BC_ITEM": "name",
@@ -281,11 +401,13 @@
           }
         },
         {
+          "x": 9,
+          "y": 0,
           "title": "BC Template Canonical References",
           "query": "MATCH (m:BC_TEMPLATE)-[r]->(n:BC_ITEM)-[s]->(o:BC_DATA_TYPE)-[t]->(p:BC_DATA_TYPE_PROPERTY)-[u]->(q:CANONICAL_DATA_TYPE_PROPERTY)\nRETURN m,r,n,s,o,t,p,u,q\n\n",
           "width": 3,
           "type": "graph",
-          "height": 3,
+          "height": 2,
           "selection": {
             "BC_TEMPLATE": "name",
             "BC_ITEM": "name",
@@ -299,28 +421,32 @@
           }
         },
         {
+          "x": 0,
+          "y": 2,
           "title": "BCs In System",
           "query": "MATCH (n:BC_INSTANCE)-[:BASED_ON]->(t) RETURN n.name AS Name, t.name AS Template\n\n\n",
           "width": 3,
           "type": "table",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {
             "nodePositions": {}
           }
         },
         {
+          "x": 3,
+          "y": 2,
           "title": "Detailed BC Instance Graph",
           "query": "MATCH (bc:BC_INSTANCE)-[r1:HAS_ITEM|HAS_IDENTIFIER]->(i:BC_ITEM)\nWITH bc,i,r1\nOPTIONAL MATCH (i)-[r2:HAS_DATA_TYPE]->(dt:BC_DATA_TYPE)-[r3:HAS_DATA_TYPE_PROPERTY]->(dp:BC_DATA_TYPE_PROPERTY)\nWITH bc,r1,i,r2,dt,r3,dp\nOPTIONAL MATCH (dt)-[r4:HAS_RESPONSE]->(sc)\nWITH bc,r1,i,r2,dt,r3,dp,r4,sc\nOPTIONAL MATCH (i)-[r5:HAS_QUALIFIER]->()\nWITH bc,r1,i,r2,dt,r3,dp,r4,sc,r5\nOPTIONAL MATCH (bc)-[r6:BC_NARROWER]->()\nRETURN bc,r1,i,r2,dt,r3,dp,r4,sc,r5,r6\n\n",
           "width": "6",
           "type": "graph",
-          "height": "3",
+          "height": 2,
           "selection": {
             "BC_INSTANCE": "name",
             "BC_ITEM": "name",
             "BC_DATA_TYPE": "name",
             "BC_DATA_TYPE_PROPERTY": "name",
-            "SKOS_CONCEPT": "label"
+            "BC_VALUE_SET": "id"
           },
           "settings": {
             "nodePositions": {},
@@ -328,11 +454,13 @@
           }
         },
         {
+          "x": 9,
+          "y": 2,
           "title": "Parent Child BCs",
           "query": "MATCH (bcp:BC_INSTANCE)-[r:BC_NARROWER]->(bcc:BC_INSTANCE)\nRETURN bcp,r,bcc\n\n\n\n",
           "width": 3,
           "type": "graph",
-          "height": 3,
+          "height": 2,
           "selection": {
             "BC_INSTANCE": "name"
           },
@@ -342,11 +470,13 @@
           }
         },
         {
+          "x": 0,
+          "y": 4,
           "title": "BC to FHIR Resource",
           "query": "MATCH (n:STUDY_BC_INSTANCE)-[r1:HAS_ITEM]->(i)-[r2:HAS_DATA_TYPE]->(dt)-[r3:HAS_DATA_TYPE_PROPERTY]->\n    (dtp)-[r4:IS_CANONICAL_REF]->(cr)<-[r5:IS_CANONICAL_REF]-(fdtp)<-[r6:HAS_DATA_TYPE_PROPERTY]-(fdt)<-[r7]-(m:FHIR_RESOURCE)\n    RETURN n,i,dt,dtp,cr,fdtp,fdt,m,r1,r2,r3,r4,r5,r6,r7\n\n\n",
           "width": 3,
           "type": "graph",
-          "height": 3,
+          "height": 2,
           "selection": {
             "STUDY_BC_INSTANCE": "name",
             "BC_ITEM": "name",
@@ -365,84 +495,16 @@
       ]
     },
     {
-      "title": "SDTM Definitions",
-      "reports": [
-        {
-          "title": "SDTM Model",
-          "query": "MATCH (n:SDTM_MODEL)-[]->(m:SDTM_CLASS) RETURN n.name as Model, n.name as Class\n\n\n",
-          "width": 3,
-          "type": "table",
-          "height": 3,
-          "selection": {},
-          "settings": {
-            "nodePositions": {}
-          }
-        },
-        {
-          "title": "SDTM Model Graph",
-          "query": "MATCH (n:SDTM_MODEL)-[r1]->(m:SDTM_CLASS)-[r2]->(v:SDTM_MODEL_VARIABLE)-[r3]->(c:CANONICAL_DATA_TYPE_PROPERTY) RETURN n,m,v,c,r1,r2,r3\n\n\n",
-          "width": 3,
-          "type": "graph",
-          "height": 3,
-          "selection": {
-            "SDTM_MODEL": "name",
-            "SDTM_CLASS": "name",
-            "SDTM_MODEL_VARIABLE": "name",
-            "CANONICAL_DATA_TYPE_PROPERTY": "name"
-          },
-          "settings": {
-            "nodePositions": {},
-            "hideSelections": true
-          }
-        },
-        {
-          "title": "SDTM Domains",
-          "query": "MATCH (n:SDTM_DATASET) RETURN n.name as Name, n.description as Description\n\n\n",
-          "width": 3,
-          "type": "table",
-          "height": 3,
-          "selection": {},
-          "settings": {
-            "nodePositions": {}
-          }
-        },
-        {
-          "title": "SDTM IG Graph",
-          "query": "MATCH (n:SDTM_IG)-[r1]->(m:SDTM_DATASET) RETURN n,m,r1\n",
-          "width": 3,
-          "type": "graph",
-          "height": 3,
-          "selection": {
-            "SDTM_IG": "label",
-            "SDTM_DATASET": "name"
-          },
-          "settings": {
-            "nodePositions": {},
-            "hideSelections": true
-          }
-        },
-        {
-          "title": "IG to Model & Canonical Links",
-          "query": "MATCH (v1:SDTM_MODEL_VARIABLE)-[]->(c:CANONICAL_DATA_TYPE_PROPERTY)\nWITH v1,c\nMATCH (v1)<-[]-(v2:SDTM_VARIABLE) \nRETURN v2.name as IG_Variable, v1.name as Model_Variable, c.name as Canonical \n\n\n\n",
-          "width": 3,
-          "type": "table",
-          "height": 3,
-          "selection": {},
-          "settings": {
-            "nodePositions": {}
-          }
-        }
-      ]
-    },
-    {
       "title": "Study Design",
       "reports": [
         {
+          "x": 0,
+          "y": 0,
           "title": "Protocols",
           "query": "MATCH (n:`STUDY_PROTOCOL`) \nWHERE toLower(toString(n.`brief_title`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`brief_title` as value LIMIT 5",
           "width": "3",
           "type": "select",
-          "height": "3",
+          "height": 2,
           "selection": {},
           "settings": {
             "type": "Node Property",
@@ -452,56 +514,68 @@
           }
         },
         {
+          "x": 3,
+          "y": 0,
           "title": "Study Identifiers",
           "query": "MATCH (pr:STUDY_PROTOCOL)<-[]-(s:STUDY)-[]->(si:STUDY_IDENTIFIER) WHERE pr.brief_title = $neodash_study_protocol_brief_title return si.name as Organisation, si.org_code as Identifier\n\n\n\n",
           "width": "3",
           "type": "table",
-          "height": "3",
+          "height": 2,
           "selection": {},
           "settings": {}
         },
         {
+          "x": 6,
+          "y": 0,
           "title": "Epochs And Visits",
           "query": "MATCH (pr:STUDY_PROTOCOL)<-[]-(s:STUDY)-[]->(sd:STUDY_DESIGN)-[]->(sc:STUDY_CELL)-[]->(e:EPOCH)-[]->(v:VISIT) WHERE pr.brief_title = $neodash_study_protocol_brief_title\nWITH e.study_epoch_name as Epoch, v.name as Visit ORDER BY e.sequence_in_study, v.number\nRETURN DISTINCT Epoch, Visit",
           "width": "3",
           "type": "table",
-          "height": "3",
+          "height": 2,
           "selection": {},
           "settings": {}
         },
         {
+          "x": 9,
+          "y": 0,
           "title": "External CT Used",
           "query": "MATCH (c:CODE) RETURN DISTINCT c.code_system As Code_System\n\n",
           "width": "3",
           "type": "table",
-          "height": "3",
+          "height": 2,
           "selection": {},
           "settings": {}
         },
         {
+          "x": 0,
+          "y": 2,
           "title": "Visit And Activities",
           "query": "MATCH (pr:STUDY_PROTOCOL)<-[]-(s:STUDY)-[]->(sd:STUDY_DESIGN)-[]->(sc:STUDY_CELL)-[]->(e:EPOCH)-[]->(v:VISIT)<-[]-(wfi:WORKFLOW_ITEM)-[]->(a:ACTIVITY) WHERE pr.brief_title = $neodash_study_protocol_brief_title\n    WITH v.name as Visit, a.description as Activity ORDER BY v.number\n    RETURN DISTINCT Visit, Activity\n\n\n",
           "width": 3,
           "type": "table",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {}
         },
         {
+          "x": 3,
+          "y": 2,
           "title": "Unique Activities",
           "query": "MATCH (pr:STUDY_PROTOCOL)<-[]-(s:STUDY)-[]->(sd:STUDY_DESIGN)-[]->(sc:STUDY_CELL)-[]->(e:EPOCH)-[]->(v:VISIT)<-[]-(wfi:WORKFLOW_ITEM)-[]->(a:ACTIVITY) WHERE pr.brief_title = $neodash_study_protocol_brief_title\n    WITH a.description as Activity ORDER BY v.number\n    RETURN DISTINCT Activity\n\n\n\n",
           "width": 3,
           "type": "table",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {}
         },
         {
+          "x": 6,
+          "y": 2,
           "title": "The Graph",
           "query": "MATCH (pr:STUDY_PROTOCOL)<-[d]-(s)-[e *]->(m) WHERE pr.brief_title = $neodash_study_protocol_brief_title RETURN pr,s,d,e,m LIMIT 1000\n\n\n",
           "width": "6",
           "type": "graph",
-          "height": "3",
+          "height": 2,
           "selection": {
             "STUDY_PROTOCOL": "brief_title",
             "STUDY": "study_title",
@@ -519,8 +593,8 @@
             "STUDY_ARM": "(label)",
             "EPOCH": "id",
             "VISIT": "name",
-            "STUDY_ELEMENT": "(label)",
-            "RULE": "(label)"
+            "RULE": "(label)",
+            "STUDY_ELEMENT": "(label)"
           },
           "settings": {
             "nodePositions": {},
@@ -528,11 +602,13 @@
           }
         },
         {
+          "x": 0,
+          "y": 4,
           "title": "BC Data Contract",
           "query": "MATCH (pr:STUDY_PROTOCOL)<-[]-(s:STUDY)-[]->(sd:STUDY_DESIGN)-[]->(sc:STUDY_CELL)-[]->(e:EPOCH)-[]->(v:VISIT)<-[]-(wfi:WORKFLOW_ITEM)-[]->(a:ACTIVITY)-[]->(bc:STUDY_BC_INSTANCE) WHERE pr.brief_title = $neodash_study_protocol_brief_title\nWITH a, bc ORDER BY v.number\nRETURN DISTINCT a.description as Activity, bc.name as BC_Name\n\n\n",
           "width": 3,
           "type": "table",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {
             "nodePositions": {}
@@ -544,11 +620,13 @@
       "title": "Study Data",
       "reports": [
         {
+          "x": 0,
+          "y": 0,
           "title": "",
           "query": "MATCH (n:`SDTM_DATASET`) \nWHERE toLower(toString(n.`name`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`name` as value LIMIT 5",
           "width": 3,
           "type": "select",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {
             "type": "Node Property",
@@ -558,33 +636,39 @@
           }
         },
         {
+          "x": 3,
+          "y": 0,
           "title": "Study Data",
           "query": "MATCH (bc:STUDY_BC_INSTANCE)<-[:USE_BC {enabled: true}]-(sd:SDTM_DATASET {name: $neodash_sdtm_dataset_name})-[]->(sv:SDTM_VARIABLE)\n\t-[]->(cv:SDTM_MODEL_VARIABLE)-[:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)\n    <-[:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)<-[:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[]->(wfi:WORKFLOW_ITEM)\n    -[:USED_IN_VISIT]->(v:VISIT)<-[]-(e:EPOCH)\n    WHERE bc.name = cv.bc OR cv.bc = \"\"\n\tWITH DISTINCT bc, sd, sv, cv, fdt, bdt, sdp, wfi, v, e\n    MATCH (sdp)-[:FOR_SUBJECT]->(subj:STUDY_SUBJECT),\n      (ct)<-[:HAS_RESPONSE]-()<-[:HAS_DATA_TYPE]-()<-[:HAS_IDENTIFIER]-(bc:STUDY_BC_INSTANCE)-[*]->(bdt)\n    RETURN DISTINCT sd.name as domain, sv.name as variable, sdp.value as data, wfi.id as uuid, v.name as visit, e.study_epoch_name as epoch, subj.identifier as subject, ct.notation as test_code",
           "width": "9",
           "type": "table",
-          "height": "3",
+          "height": 2,
           "selection": {},
           "settings": {
             "nodePositions": {}
           }
         },
         {
+          "x": 0,
+          "y": 2,
           "title": "Raw Data",
           "query": "MATCH (n:STUDY_DATA_POINT)-[]->(m:STUDY_SUBJECT) RETURN n.value as Value, m.identifier as Subject_Id\n\n\n",
           "width": 3,
           "type": "table",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {
             "nodePositions": {}
           }
         },
         {
+          "x": 3,
+          "y": 2,
           "title": "Key Relationships - SDTM to BC",
           "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[r1]->(sv:SDTM_VARIABLE)-[r2]->(cv:SDTM_MODEL_VARIABLE)-[r3:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)<-[r4:IS_CANONICAL_REF]-(bdtp:BC_DATA_TYPE_PROPERTY)<-[r5]-(bdt)<-[r6]-(bi)<-[r7]-(bc:STUDY_BC_INSTANCE)\nRETURN sd, sv, cv, fdt, bdtp, bdt, bi, bc, r1, r2, r3, r4, r5, r6, r7\n\n\n",
           "width": "3",
           "type": "graph",
-          "height": "3",
+          "height": 2,
           "selection": {
             "SDTM_DATASET": "name",
             "SDTM_VARIABLE": "name",
@@ -601,11 +685,13 @@
           }
         },
         {
+          "x": 6,
+          "y": 2,
           "title": "Key Relationships - Single Data Point",
           "query": "MATCH (bc:STUDY_BC_INSTANCE)<-[r3]-(a:ACTIVITY)<-[r1]-(n:WORKFLOW_ITEM {id: 1619})-[r2]->(v:VISIT),\n(s:STUDY)<-[r6]-(sub:STUDY_SUBJECT)<-[r5]-(sdp:STUDY_DATA_POINT)-[r4]->(n)\nRETURN a,n,v,r1,r2,r3,bc,sdp,r4,r5,sub,s,r6\n\n",
           "width": "6",
           "type": "graph",
-          "height": "3",
+          "height": 2,
           "selection": {
             "ACTIVITY": "description",
             "WORKFLOW_ITEM": "id",
@@ -621,11 +707,13 @@
           }
         },
         {
+          "x": 0,
+          "y": 4,
           "title": "The Overall Graph",
           "query": "MATCH (sd:SDTM_DATASET {name: 'VS'})-[r1]->(sv:SDTM_VARIABLE)-[r2]->(cv:SDTM_MODEL_VARIABLE)-[r3:IS_CANONICAL_REF]->(fdt:CANONICAL_DATA_TYPE_PROPERTY)<-[r4:IS_CANONICAL_REF]-(bdt:BC_DATA_TYPE_PROPERTY)<-[r5:FOR_VALUE]-(sdp:STUDY_DATA_POINT)-[r6]->(wfi:WORKFLOW_ITEM), (wfi)-[r7:USED_IN_VISIT]->(v:VISIT), (sdp)-[r8:FOR_SUBJECT]->(subj:STUDY_SUBJECT)\nRETURN sd, sv, cv, fdt, bdt, sdp, wfi, v, subj, r1,r2,r3,r4,r5,r6,r7,r8\n\n\n",
           "width": "6",
           "type": "graph",
-          "height": "3",
+          "height": 2,
           "selection": {
             "SDTM_DATASET": "name",
             "SDTM_VARIABLE": "name",
@@ -648,22 +736,26 @@
       "title": "Form",
       "reports": [
         {
+          "x": 0,
+          "y": 0,
           "title": "Forms",
           "query": "MATCH (n:STUDY_FORM) RETURN n.name as Name\n\n\n",
           "width": 3,
           "type": "table",
-          "height": 3,
+          "height": 2,
           "selection": {},
           "settings": {
             "nodePositions": {}
           }
         },
         {
+          "x": 3,
+          "y": 0,
           "title": "Forms and BCs",
           "query": "MATCH (n:STUDY_FORM)-[r1]->(m)-[r2]->(bc:STUDY_BC_INSTANCE)\nRETURN n,m,bc,r1,r2\n\n\n",
           "width": 3,
           "type": "graph",
-          "height": 3,
+          "height": 2,
           "selection": {
             "STUDY_FORM": "name",
             "STUDY_FORM_GROUP": "name",
