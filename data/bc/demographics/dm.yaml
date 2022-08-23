@@ -46,6 +46,12 @@
       - 
         :cl: C74457
         :cli: C43234
+  - :name: "Result Other"
+    :enabled: true  
+    :collect: true
+    :data_type: 
+    -
+      :name: string
 #SEX
 - :name: "Sex"
   :based_on: "Base Observation"

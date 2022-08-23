@@ -25,6 +25,10 @@
             "uri": "http://id.d4k.dk/dataset/bc_instance/race/result/coding"
         },
         {
+            "name": "string",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/result_other/string"
+        },
+        {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/bc_instance/sex/test/coding"
         },
@@ -334,6 +338,12 @@
             "enabled": true,
             "name": "Result",
             "uri": "http://id.d4k.dk/dataset/bc_instance/race/result"
+        },
+        {
+            "collect": true,
+            "enabled": true,
+            "name": "Result Other",
+            "uri": "http://id.d4k.dk/dataset/bc_instance/race/result_other"
         },
         {
             "collect": false,

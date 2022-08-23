@@ -85,6 +85,10 @@
             "to": "http://id.d4k.dk/dataset/bc_instance/race/result/coding"
         },
         {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race/result_other",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/result_other/string"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/bc_instance/sex/test",
             "to": "http://id.d4k.dk/dataset/bc_instance/sex/test/coding"
         },
@@ -363,6 +367,10 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/race",
             "to": "http://id.d4k.dk/dataset/bc_instance/race/result"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_instance/race",
+            "to": "http://id.d4k.dk/dataset/bc_instance/race/result_other"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_instance/sex",
