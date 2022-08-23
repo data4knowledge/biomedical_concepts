@@ -125,10 +125,10 @@ for item in final_results['48']:
                 nodes["SKOS_CONCEPT"].append(cl_concept)
                 relationships["SKOS_HAS_TOP_CONCEPT"].append({ "from": cs_concept["uri"], "to": cl_concept["uri"] })
 
-            with open("../data/cdisc_ct/%s/cdisc_ct_%s_nodes.json" % (k.lower(), k.lower()), 'w') as outfile:
+            with open("data/cdisc_ct/%s/cdisc_ct_%s_nodes.json" % (k.lower(), k.lower()), 'w') as outfile:
                 json.dump(nodes, outfile, sort_keys=True, indent=4)
 
-            with open("../data/cdisc_ct/%s/cdisc_ct_%s_relationships.json" % (k.lower(), k.lower()), 'w') as outfile:
+            with open("data/cdisc_ct/%s/cdisc_ct_%s_relationships.json" % (k.lower(), k.lower()), 'w') as outfile:
                 json.dump(relationships, outfile, sort_keys=True, indent=4)
 
             for cl in body['codelists']: 
@@ -142,5 +142,5 @@ for item in final_results['48']:
                         cli_concept["alt_label"] = ';'.join(cli['synonyms'])
                     cli_concept["pref_label"] = cli['preferredTerm']
                     nodes["SKOS_CONCEPT"].append(cli_concept)
-                    with open("../data/cdisc_ct/%s/cdisc_ct_%s_nodes_%s.json" % (k.lower(), k.lower(), cl['conceptId']), 'w') as outfile:
+                    with open("data/cdisc_ct/%s/cdisc_ct_%s_nodes_%s.json" % (k.lower(), k.lower(), cl['conceptId']), 'w') as outfile:
                         json.dump(nodes, outfile, sort_keys=True, indent=4)

@@ -23,7 +23,7 @@ nodes["OTHER_SOURCE"].append(record)
 
 for filename in files:
 
-    with open("../data/bc/%s" % (filename)) as file:
+    with open("data/bc/%s" % (filename)) as file:
         narrower = {}
         instances = yaml.load(file, Loader=yaml.FullLoader)
 
@@ -131,7 +131,7 @@ for filename in files:
                 relationships["BC_NARROWER"].append({"from": from_uri, "to": to_uri})
 
                 
-with open("../data/bc/bc_instances_nodes.json", 'w') as outfile:
+with open("data/bc/bc_instances_nodes.json", 'w') as outfile:
     json.dump(nodes, outfile, sort_keys=True, indent=4)
-with open("../data/bc/bc_instances_relationships.json", 'w') as outfile:
+with open("data/bc/bc_instances_relationships.json", 'w') as outfile:
     json.dump(relationships, outfile, sort_keys=True, indent=4)

@@ -3,11 +3,11 @@ import pandas as pd
 
 files = ["ta", "te", "ti", "ts", "tv"]
 
-#ta = pd.read_sas("../data/cdisc_pilot/ta.xpt", encoding="ISO-8859-1")
-#te = pd.read_sas("../data/cdisc_pilot/te.xpt", encoding="ISO-8859-1")
-#ti = pd.read_sas("../data/cdisc_pilot/ti.xpt", encoding="ISO-8859-1")
-ts = pd.read_sas("../data/cdisc_pilot/ts.xpt", encoding="ISO-8859-1")
-#tv = pd.read_sas("../data/cdisc_pilot/tv.xpt", encoding="ISO-8859-1")
+#ta = pd.read_sas("data/cdisc_pilot/ta.xpt", encoding="ISO-8859-1")
+#te = pd.read_sas("data/cdisc_pilot/te.xpt", encoding="ISO-8859-1")
+#ti = pd.read_sas("data/cdisc_pilot/ti.xpt", encoding="ISO-8859-1")
+ts = pd.read_sas("data/cdisc_pilot/ts.xpt", encoding="ISO-8859-1")
+#tv = pd.read_sas("data/cdisc_pilot/tv.xpt", encoding="ISO-8859-1")
 
 #print(ts)
 
@@ -157,7 +157,7 @@ for index, row in enumerate(rows):
     the_relationships["HAS_OBJECTIVE"].append({ "from": study_design_uri, "to": record["uri"]})
 
 # Now output the JSON files
-with open("../data/cdisc_pilot/cdisc_pilot_nodes.json", 'w') as outfile:
+with open("data/cdisc_pilot/cdisc_pilot_nodes.json", 'w') as outfile:
     json.dump(the_nodes, outfile, sort_keys=True, indent=4)
-with open("../data/cdisc_pilot/cdisc_pilot_relationships.json", 'w') as outfile:
+with open("data/cdisc_pilot/cdisc_pilot_relationships.json", 'w') as outfile:
     json.dump(the_relationships, outfile, sort_keys=True, indent=4)

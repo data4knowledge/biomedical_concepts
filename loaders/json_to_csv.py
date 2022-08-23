@@ -125,23 +125,23 @@ delete_dir("data/csv_load")
 stage_number = 1
 for stage in stages:
     for file_item in stage:
-        with open("../data/%s" % (file_item["filename"])) as json_file:
+        with open("data/%s" % (file_item["filename"])) as json_file:
             print(file_item["filename"])
             data = json.load(json_file)
             for k, v in data.items():
-                csv_filename = "../data/csv_load/stage_%d_%s_%s.csv" % (stage_number, k.lower(), file_item["type"])
+                csv_filename = "data/csv_load/stage_%d_%s_%s.csv" % (stage_number, k.lower(), file_item["type"])
                 process_file(file_item, v, csv_filename)
     stage_number += 1
 
 # Process the code list files.
 for code_list in code_lists:
     for file_item in code_list:
-        filename = "../data/%s" % (file_item["filename"])
+        filename = "data/%s" % (file_item["filename"])
         output_filename = file_item["filename"].split("/")[-1]
         output_filename = output_filename.split(".")[0]
         with open(filename) as json_file:
             print(file_item["filename"])
             data = json.load(json_file)
             for k, v in data.items():
-                csv_filename = filename = "../data/csv_load/%s.csv" % (output_filename)
+                csv_filename = filename = "data/csv_load/%s.csv" % (output_filename)
                 process_file(file_item, v, csv_filename, "id")

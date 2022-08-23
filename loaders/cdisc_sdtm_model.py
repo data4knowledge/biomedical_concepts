@@ -5,7 +5,7 @@ nodes = { "SDTM_MODEL": [], "SDTM_CLASS": [], "SDTM_MODEL_VARIABLE": [], "CANONI
 relationships = { "HAS_CLASS": [], "HAS_VARIABLE": [], "HAS_CANONICAL_REF": [], "FROM_SOURCE": []}
 repeat = {}
 
-with open("../data/cdisc_sdtm/cdisc_sdtm_model.yaml") as file:
+with open("data/cdisc_sdtm/cdisc_sdtm_model.yaml") as file:
     model = yaml.load(file, Loader=yaml.FullLoader)
 
     # Source
@@ -34,7 +34,7 @@ with open("../data/cdisc_sdtm/cdisc_sdtm_model.yaml") as file:
                 relationships["HAS_CANONICAL_REF"].append({"from": variable_uri, "to": canonical_uri})
                 index += 1
 
-with open("../data/cdisc_sdtm/cdisc_sdtm_model_nodes.json", 'w') as outfile:
+with open("data/cdisc_sdtm/cdisc_sdtm_model_nodes.json", 'w') as outfile:
     json.dump(nodes, outfile, sort_keys=True, indent=4)
-with open("../data/cdisc_sdtm/cdisc_sdtm_model_relationships.json", 'w') as outfile:
+with open("data/cdisc_sdtm/cdisc_sdtm_model_relationships.json", 'w') as outfile:
     json.dump(relationships, outfile, sort_keys=True, indent=4)

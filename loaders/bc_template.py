@@ -8,7 +8,7 @@ def format_name(name):
 
 nodes = { "BC_TEMPLATE": [], "BC_ITEM": [], "BC_DATA_TYPE": [], "OTHER_SOURCE": [] }
 relationships = { "HAS_ITEM": [], "HAS_IDENTIFIER": [], "HAS_DATA_TYPE": [], "FROM_SOURCE": []}
-with open("../data/bc/templates/templates.yaml") as file:
+with open("data/bc/templates/templates.yaml") as file:
     templates = yaml.load(file, Loader=yaml.FullLoader)
 
     # Source
@@ -80,7 +80,7 @@ with open("../data/bc/templates/templates.yaml") as file:
                 nodes["BC_DATA_TYPE"].append(record)
                 relationships["HAS_DATA_TYPE"].append({"from": parent_uri, "to": item_uri})
 
-with open("../data/bc/bc_templates_nodes.json", 'w') as outfile:
+with open("data/bc/bc_templates_nodes.json", 'w') as outfile:
     json.dump(nodes, outfile, sort_keys=True, indent=4)
-with open("../data/bc/bc_templates_relationships.json", 'w') as outfile:
+with open("data/bc/bc_templates_relationships.json", 'w') as outfile:
     json.dump(relationships, outfile, sort_keys=True, indent=4)

@@ -4,7 +4,7 @@ import json
 nodes = { "SKOS_CONCEPT_SCHEME": [], "SKOS_CONCEPT": [], "OTHER_SOURCE": []}
 relationships = { "SKOS_HAS_TOP_CONCEPT": [], "SKOS_NARROWER": [], "FROM_SOURCE": []}
 
-with open("../data/sponsor_ct/sponsor_ct.yaml") as file:
+with open("data/sponsor_ct/sponsor_ct.yaml") as file:
     model = yaml.load(file, Loader=yaml.FullLoader)
 
     # Source
@@ -53,9 +53,9 @@ with open("../data/sponsor_ct/sponsor_ct.yaml") as file:
             relationships["SKOS_NARROWER"].append({ "from": cl_concept["uri"], "to": cli_concept["uri"] })
 
 
-with open("../data/sponsor_ct/sponsor_ct_nodes.json", 'w') as outfile:
+with open("data/sponsor_ct/sponsor_ct_nodes.json", 'w') as outfile:
     json.dump(nodes, outfile, sort_keys=True, indent=4)
 
-with open("../data/sponsor_ct/sponsor_ct_relationships.json", 'w') as outfile:
+with open("data/sponsor_ct/sponsor_ct_relationships.json", 'w') as outfile:
     json.dump(relationships, outfile, sort_keys=True, indent=4)
 

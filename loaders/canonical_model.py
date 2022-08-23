@@ -36,7 +36,7 @@ def process_nodes(node_set, parent_uri, rel_type, link_to_parent=True):
                     nodes["CANONICAL_DATA_TYPE"].append(record)
                     relationships["HAS_DATA_TYPE"].append({"from": node_uri, "to": item_uri})
 
-with open("../data/canonical/canonical_model.yaml") as file:
+with open("data/canonical/canonical_model.yaml") as file:
     model = yaml.load(file, Loader=yaml.FullLoader)
 
     # Source
@@ -56,7 +56,7 @@ with open("../data/canonical/canonical_model.yaml") as file:
     process_nodes(model[":common"][":nodes"], common_uri, "CONSISTS_OF", False)
     process_nodes(model[":root"][":nodes"], base_uri, "HAS_SUB_MODEL")
 
-with open("../data/canonical/canonical_model_nodes.json", 'w') as outfile:
+with open("data/canonical/canonical_model_nodes.json", 'w') as outfile:
     json.dump(nodes, outfile, sort_keys=True, indent=4)
-with open("../data/canonical/canonical_model_relationships.json", 'w') as outfile:
+with open("data/canonical/canonical_model_relationships.json", 'w') as outfile:
     json.dump(relationships, outfile, sort_keys=True, indent=4)

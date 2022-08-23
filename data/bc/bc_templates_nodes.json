@@ -33,6 +33,10 @@
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/result/coding"
         },
         {
+            "name": "string",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/result_other/string"
+        },
+        {
             "name": "coding",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_laboratory/test/coding"
         },
@@ -230,6 +234,13 @@
             "mandatory": true,
             "name": "Result",
             "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/result"
+        },
+        {
+            "canonical": "OTHER RESULT",
+            "enabled": true,
+            "mandatory": false,
+            "name": "Result Other",
+            "uri": "http://id.d4k.dk/dataset/bc_template/base_observation/result_other"
         },
         {
             "canonical": "TEST",

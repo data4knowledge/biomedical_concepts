@@ -42,6 +42,12 @@
     :data_type: 
     - :name: quantity
     - :name: coding
+  - :name: "Result Other"
+    :mandatory: false
+    :enabled: true  
+    :canonical: OTHER RESULT
+    :data_type: 
+    - :name: string
 - :name: "Base Laboratory"
   :identified_by: 
     :name: "Test"

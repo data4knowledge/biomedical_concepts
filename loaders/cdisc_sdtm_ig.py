@@ -89,9 +89,9 @@ for ds in ig_body['_links']['datasets']:
         # Print just to show things are working.
         print(variable)
 
-with open("../data/cdisc_sdtm/cdisc_sdtm_nodes.json", 'w') as outfile:
+with open("data/cdisc_sdtm/cdisc_sdtm_nodes.json", 'w') as outfile:
     json.dump(nodes, outfile, sort_keys=True, indent=4)
 
-with open("../data/cdisc_sdtm/cdisc_sdtm_relationships.json", 'w') as outfile:
+with open("data/cdisc_sdtm/cdisc_sdtm_relationships.json", 'w') as outfile:
     json.dump(relationships, outfile, sort_keys=True, indent=4)
 

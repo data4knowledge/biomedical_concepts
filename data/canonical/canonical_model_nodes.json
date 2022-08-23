@@ -41,6 +41,10 @@
             "uri": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result/quantity"
         },
         {
+            "name": "string",
+            "uri": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result_other/string"
+        },
+        {
             "name": "codeable_concept",
             "uri": "http://id.d4k.dk/dataset/canonical/therapeutic_intervention/treatment/codeable_concept"
         }
@@ -235,6 +239,10 @@
         {
             "name": "RESULT",
             "uri": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result"
+        },
+        {
+            "name": "RESULT OTHER",
+            "uri": "http://id.d4k.dk/dataset/canonical/observation/observation_result/result_other"
         },
         {
             "name": "DISTRIBUTION",

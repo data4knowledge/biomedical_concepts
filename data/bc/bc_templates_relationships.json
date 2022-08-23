@@ -51,6 +51,10 @@
             "to": "http://id.d4k.dk/dataset/bc_template/base_observation/result/coding"
         },
         {
+            "from": "http://id.d4k.dk/dataset/bc_template/base_observation/result_other",
+            "to": "http://id.d4k.dk/dataset/bc_template/base_observation/result_other/string"
+        },
+        {
             "from": "http://id.d4k.dk/dataset/bc_template/base_laboratory/test",
             "to": "http://id.d4k.dk/dataset/bc_template/base_laboratory/test/coding"
         },
@@ -245,6 +249,10 @@
         {
             "from": "http://id.d4k.dk/dataset/bc_template/base_observation",
             "to": "http://id.d4k.dk/dataset/bc_template/base_observation/result"
+        },
+        {
+            "from": "http://id.d4k.dk/dataset/bc_template/base_observation",
+            "to": "http://id.d4k.dk/dataset/bc_template/base_observation/result_other"
         },
         {
             "from": "http://id.d4k.dk/dataset/bc_template/base_laboratory",
